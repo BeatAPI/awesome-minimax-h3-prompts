@@ -5,6 +5,8 @@
   "type": "module",
   "scripts": {
     "prompts:import:sources": "node scripts/import-source-corpus.mjs",
-    "test": "node scripts/validate.mjs"
+    "readme:build": "node scripts/build-readme.mjs",
+    "readme:check": "node scripts/build-readme.mjs --check",
+    "test": "node scripts/validate.mjs && node scripts/build-readme.mjs --check"
   }
 }
