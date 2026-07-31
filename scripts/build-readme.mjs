@@ -116,10 +116,23 @@ const gallery = `${startMarker}
 
 ${entries.map(renderEntry).join('\n\n')}
 
-${endMarker}`;
+${endMarker}
+
+## Contributing
+
+Use the [prompt submission form](https://github.com/BeatAPI/awesome-minimax-h3-prompts/issues/new?template=prompt.yml)
+or read [CONTRIBUTING.md](./CONTRIBUTING.md) for source, rights, and acceptance
+requirements.
+
+## License
+
+Original prompt text and documentation are licensed under
+[CC BY 4.0](./LICENSE.md). Validation code is licensed under the MIT terms in
+the same file. Third-party linked media and sources retain their original
+rights.`;
 
 const markerPattern = new RegExp(
-  `${startMarker}[\\s\\S]*?${endMarker}`,
+  `${startMarker}[\\s\\S]*$`,
   'm'
 );
 if (!markerPattern.test(readme)) {
