@@ -1,0 +1,29 @@
+{
+  "slug": "luxury-perfume-commercial",
+  "title": {
+    "en": "Luxury perfume commercial",
+    "zh": "奢华香水商业片"
+  },
+  "description": {
+    "en": "A five-scene fragrance commercial covering reveal, macro detail, transformation, transition, and hero shot.",
+    "zh": "由揭晓、微距、变形、环境转场和最终英雄镜头组成的五场香水广告。"
+  },
+  "category": "product-commercial",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@CaliraVal",
+    "url": "https://x.com/CaliraVal/status/2083059583308751079"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/CaliraVal/status/2083059583308751079"
+  ],
+  "prompt": "Scene 1 (0–3s) – Luxury Reveal\nA luxury perfume bottle slowly emerges from darkness, standing on a glossy black pedestal. Soft golden light beams gradually reveal the crystal-clear glass, while subtle volumetric fog creates depth. Extreme macro shot, cinematic lighting, ultra-realistic reflections, premium luxury commercial aesthetic.\n\nScene 2 (3–6s) – Precision Details\nExtreme close-up of the perfume bottle as rich golden fragrance liquid gently swirls inside. The camera performs a smooth cinematic orbit, capturing intricate glass textures, flawless craftsmanship, and sparkling highlights. Ultra-detailed, photorealistic, premium commercial quality.\n\nScene 3 (6–9s) – AI Transformation\nThe perfume bottle seamlessly dissolves into glowing golden particles before instantly reforming into a futuristic luxury edition, maintaining perfect proportions and visual consistency. Dynamic orbit camera, seamless transformation, cinematic lighting, premium visual effects.\n\nScene 4 (9–12s) – Environment Transition\nWithout a single cut, the background transforms from a luxurious black studio into a futuristic neon metropolis. The perfume bottle remains perfectly consistent while the camera performs a dramatic dolly-in. Hyper-realistic, cinematic, high-end advertising style.\n\nScene 5 (12–15s) – Hero Finale\nSlow-motion hero shot of the luxury perfume bottle elegantly rotating as glowing golden particles float around it. Premium black background, flawless reflections, cinematic logo reveal, luxury commercial ending, 8K photorealistic, blockbuster advertising quality."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "condor-heroes-characters-teach-english-word-dream-815758",
+  "title": {
+    "en": "Condor Heroes characters teach English word dream",
+    "zh": "神雕侠侣趣味讲单词 dream"
+  },
+  "description": {
+    "en": "Controls a playful Condor Heroes character skit that teaches the English word “dream.”",
+    "zh": "控制神雕侠侣主角趣味短剧，讲解英文单词 dream。"
+  },
+  "category": "comedy",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Condor Heroes cast",
+    "English word dream",
+    "tutorial skit"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@nicekate8888",
+    "url": "https://x.com/nicekate8888/status/2082762739697815758"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/nicekate8888/status/2082762739697815758"
+  ],
+  "prompt": "神雕侠侣主角趣味讲单词 dream 教程"
+}

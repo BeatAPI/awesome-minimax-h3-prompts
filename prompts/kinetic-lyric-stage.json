@@ -1,0 +1,27 @@
+{
+  "slug": "kinetic-lyric-stage",
+  "title": {
+    "en": "Kinetic lyric stage",
+    "zh": "动态歌词舞台"
+  },
+  "description": {
+    "en": "A one-take performance that turns each lyric beat into a new typographic space.",
+    "zh": "用一镜到底的演出，把每个歌词节拍变成新的字体空间。"
+  },
+  "category": "music-video",
+  "mode": "reference-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Singer reference",
+    "Track excerpt",
+    "Brand typeface reference"
+  ],
+  "source": {
+    "kind": "beatapi-original",
+    "name": "BeatAPI Editorial",
+    "url": "https://github.com/BeatAPI/awesome-minimax-h3-prompts/blob/main/prompts/kinetic-lyric-stage.json"
+  },
+  "outputStatus": "template-unverified",
+  "prompt": "Create a continuous 15-second performance film using the singer in Image 1 and the audio in Audio 1. Preserve the performer's face, hairstyle, wardrobe silhouette, and lip movement throughout. Start in a black rehearsal room with one hard overhead spotlight. Every major vocal beat should physically transform one lyric phrase into part of the set: letters rise from the floor, wrap around the performer, then break into luminous particles. Keep the camera on a controlled circular dolly move with no cuts. Use high-contrast white typography with acid-lime accents, subtle film grain, realistic shadows, and restrained motion blur. End on the final lyric locked as a clean centered title while the performer becomes a silhouette behind it. Do not add extra words, logos, subtitles, or watermarks."
+}

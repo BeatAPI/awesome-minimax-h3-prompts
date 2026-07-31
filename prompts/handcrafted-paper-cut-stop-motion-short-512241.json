@@ -1,0 +1,32 @@
+{
+  "slug": "handcrafted-paper-cut-stop-motion-short-512241",
+  "title": {
+    "en": "Handcrafted paper-cut stop-motion short",
+    "zh": "手工剪纸定格短片"
+  },
+  "description": {
+    "en": "Controls a handcrafted paper-cut stop-motion short that assembles an underwater cave, jellyfish, astronaut child, and helmeted cat piece by piece.",
+    "zh": "控制手工剪纸定格短片：逐片组装海底洞穴、水母、宇航员小孩与头盔白猫。"
+  },
+  "category": "viral-short",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "4:3",
+  "ingredients": [
+    "paper-cut underwater cave",
+    "glowing jellyfish",
+    "astronaut child",
+    "helmeted white cat"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@AiMeowing",
+    "url": "https://x.com/AiMeowing/status/2082964095410512241"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/AiMeowing/status/2082964098925355430"
+  ],
+  "prompt": "15-second cinematic stop motion animation in handcrafted paper cut style. Everything is physically assembled by invisible hands, one element at a time. Every object appears with authentic stop motion timing, tiny frame imperfections, subtle paper wobble, handmade placement, slight camera vibration, natural easing, tactile textures, soft shadows, and realistic depth. Nothing fades or morphs. Every piece is manually placed into the scene exactly like a professional stop motion production.\n\nScene begins with an empty dark navy paper background only.\n\n0-2s\nLarge crumpled blue paper sheets slide in from every edge and are pressed into place one after another, forming the underwater cave walls.\n\n2-4s\nPaper coral pieces appear individually from the bottom. Red coral, green seaweed, beige coral, pink coral, shells, pebbles and tiny bubbles are carefully placed one by one with visible handcrafted motion.\n\n4-6s\nThe glowing jellyfish is lowered from above. The bell lands first, then each tentacle is attached individually, gently bouncing. The jellyfish softly floats with slow natural stop motion movement.\n\n6-8s\nThe paper astronaut child slides into frame from the left. The body arrives first, then the helmet is placed on top with a tiny bounce. One arm rotates slightly as if reaching forward.\n\n8-10s\nThe white cat appears from below. The body is placed first, then the transparent helmet is carefully attached afterward. The tail makes a tiny handmade wiggle.\n\n10-12s\nSmall paper bubbles are added individually around both characters. Each bubble pops into place with slight stop motion jitter. The child and cat gently drift upward a few millimeters.\n\n12-15s\nThe complete underwater world comes alive. The jellyfish slowly pulses. Tentacles sway naturally. Sea plants lightly oscillate. Tiny bubbles continue rising. The astronaut child and cat subtly float together while holding position. Warm glow from the jellyfish softly illuminates nearby paper textures. Camera performs a slow cinematic push-in with realistic macro depth of field.\n\nPremium handcrafted stop motion, museum-quality paper art, tactile cardstock textures, realistic layered paper thickness, authentic frame-by-frame animation, tiny alignment imperfections, soft studio lighting, cinematic composition, macro photography, volumetric lighting, ultra detailed, emotionally warm, professional stop motion film, 15 seconds, no text, no watermark."
+}

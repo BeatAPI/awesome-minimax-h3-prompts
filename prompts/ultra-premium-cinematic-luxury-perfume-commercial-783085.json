@@ -1,0 +1,32 @@
+{
+  "slug": "ultra-premium-cinematic-luxury-perfume-commercial-783085",
+  "title": {
+    "en": "Ultra-premium cinematic luxury perfume commercial",
+    "zh": "超高端香水电影级广告"
+  },
+  "description": {
+    "en": "Controls a vertical luxury perfume commercial from macro bottle caustics through model mist transformation to a final pedestal hero.",
+    "zh": "控制竖屏奢侈香水广告：从瓶身焦散微距、模特喷雾幻化到基座英雄收尾。"
+  },
+  "category": "product-commercial",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "crystal perfume bottle",
+    "fashion model",
+    "golden mist particles",
+    "black marble pedestal"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@SadiaMalik182",
+    "url": "https://x.com/SadiaMalik182/status/2082776032042783085"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/SadiaMalik182/status/2082776032042783085"
+  ],
+  "prompt": "Create a 15-second ultra-premium cinematic luxury perfume commercial designed to fully showcase MiniMax H3's multimodal capabilities.\n\nOutput Settings:\n• Duration: 15 seconds\n• Resolution: 2K (1440p)\n• Frame Rate: 24 FPS\n• Aspect Ratio: 9:16 Vertical\n• Native Stereo Audio\n• Commercial-grade quality\n\nScene 1 (0–3s)\nExtreme macro shot of a crystal luxury perfume bottle resting on polished black marble. Golden sunrise light passes through the glass, creating realistic caustics and sparkling reflections. Tiny perfume particles float naturally in the air. Slow cinematic push-in with perfect depth of field.\n\nScene 2 (3–6s)\nA luxury fashion model wearing an elegant black dress walks confidently through a futuristic golden hallway. The camera smoothly circles around her while she gracefully picks up the perfume bottle. Hair moves naturally, realistic fabric simulation, premium fashion campaign quality.\n\nScene 3 (6–10s)\nShe sprays the perfume. The mist transforms into flowing golden particles that evolve into blooming flowers, liquid gold ribbons, shimmering butterflies, floating crystal fragments, and elegant light trails surrounding her. Every movement is physically realistic with seamless cinematic transitions.\n\nScene 4 (10–13s)\nHero beauty sequence. Slow-motion close-ups of the model's face, glowing skin, elegant eyes, glossy lips, luxury jewelry, and the perfume bottle. Beautiful bokeh, premium studio lighting, realistic reflections, cinematic lens movement.\n\nScene 5 (13–15s)\nEpic ending. The perfume bottle rotates slowly on a glossy black pedestal surrounded by floating golden particles and soft luxury lighting. The model stands elegantly in the background. Premium cinematic composition worthy of a global luxury brand campaign.\n\nVisual Style:\nLuxury brand commercial, Dior Beauty, Chanel, Tom Ford, Apple-level production quality, Hollywood cinematography, ultra-photorealistic, ray tracing, global illumination, volumetric lighting, realistic reflections, premium color grading, cinematic depth of field, physically accurate materials, ultra-detailed textures, smooth camera movement, flawless facial animation, natural body motion, production-ready advertising quality.\n\nNegative Prompt:\nLow quality, blurry, noise, flickering, unstable motion, distorted anatomy, bad hands, bad face, duplicate objects, watermark, logo, text overlay, compression artifacts, oversaturated colors, unrealistic physics, low-detail textures."
+}

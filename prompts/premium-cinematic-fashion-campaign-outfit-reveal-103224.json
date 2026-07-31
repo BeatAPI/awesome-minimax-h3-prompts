@@ -1,0 +1,32 @@
+{
+  "slug": "premium-cinematic-fashion-campaign-outfit-reveal-103224",
+  "title": {
+    "en": "Premium cinematic fashion campaign outfit reveal",
+    "zh": "高端时装大片逐套亮相"
+  },
+  "description": {
+    "en": "Controls a vertical luxury fashion campaign that reveals five uploaded apparel looks one by one without redesigning any garment.",
+    "zh": "控制竖屏奢侈时装大片：逐套亮相五套上传服装，且不改版任何单品。"
+  },
+  "category": "brand-film",
+  "mode": "reference-to-video",
+  "duration": "15s",
+  "aspectRatio": "9:16",
+  "ingredients": [
+    "five apparel images",
+    "fashion model",
+    "minimal studio set",
+    "editorial outfit reveals"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@luxaios",
+    "url": "https://x.com/luxaios/status/2083024913322103224"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/luxaios/status/2083024977151119578"
+  ],
+  "prompt": "Create a premium cinematic fashion campaign video using the five uploaded apparel images as strict product references.  The video should introduce each outfit one by one, while maintaining the exact original clothing design, silhouette, fabric texture, colors, patterns, accessories, stitching, and proportions from every reference image. Do not redesign, simplify, replace, or merge any garments.  Format: vertical 9:16 Duration: approximately 15 seconds Style: luxury fashion commercial, editorial, futuristic, minimal, sophisticated Visual quality: photorealistic, commercial-grade, high-end fashion film, sharp textile detail, realistic fabric movement  Sequence:  0–2 seconds: Begin with a dark minimal studio. A narrow beam of light slowly reveals the first outfit. Start with an extreme close-up of fabric texture, stitching, metallic details, and layered materials. Smooth cinematic camera movement.  2–5 seconds: Reveal the full first outfit on a stylish fashion model. The model makes one subtle pose while the camera performs a slow vertical tilt from shoes to face.  5–8 seconds: Transition through a fast match cut into the second and third outfits. Use elegant whip pans, fabric wipes, lighting flashes, and seamless motion transitions. Each outfit must remain visible long enough to understand its full design.  8–11 seconds: Show the fourth outfit in a wider architectural studio environment. The model walks slowly toward the camera while the fabric moves naturally. Add controlled wind, soft shadows, and reflective surfaces.  11–14 seconds: Reveal the fifth outfit as the hero look. Use a dramatic low-angle shot, slow orbiting camera movement, and stronger cinematic lighting. Emphasize the silhouette, construction, and key design details.  14–15 seconds: End with all five outfits appearing rapidly in rhythmic editorial cuts, followed by a clean final frame with the hero outfit centered against a minimal background.  Camera: Smooth dolly shots, macro textile close-ups, slow orbit, low-angle fashion shots, controlled handheld energy only during transitions.  Lighting: High-contrast luxury studio lighting, soft rim lights, precise highlights on fabric, metal, leather, and accessories. Avoid overexposure.  Motion: Natural model movement, restrained confident poses, realistic walking, subtle fabric physics. No exaggerated dancing.  Editing: Fast but elegant editorial pacing. Clean match cuts between outfits. Every transition should feel intentional and synchronized with the music.  Important: Preserve the exact identity and design of all five apparel references. Do not mix clothing elements between outfits. Do not change logos, prints, colors, garment length, footwear, accessories, or materials. Do not add random text, subtitles, watermarks, extra garments, duplicated limbs, distorted hands, warped fabric, or unstable faces."
+}

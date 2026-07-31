@@ -1,0 +1,29 @@
+{
+  "slug": "post-workout-gym-vlog",
+  "title": {
+    "en": "Post-workout gym vlog",
+    "zh": "训练后健身房 Vlog"
+  },
+  "description": {
+    "en": "A six-cut camcorder vlog specifying handheld flaws, dialogue, character continuity, and ambient sound.",
+    "zh": "明确手持瑕疵、对白、角色连续性和环境声的六镜头录像机 Vlog。"
+  },
+  "category": "vlog",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@doctorwasif",
+    "url": "https://x.com/doctorwasif/status/2083048782581858681"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/doctorwasif/status/2083048782581858681"
+  ],
+  "prompt": "CAMERA: DV 16mm tape camcorder POV. CHASE films herself, occasionally propping the camera on a wall or gym bag. Natural handheld shake, imperfect framing, delayed focus, clumsy zooms, face occasionally cut off. Camcorder never visible.\nLOOK: Soft blurry tape aesthetic, faint tape noise, bloomed gym lights, flickering auto-exposure, muted contrast, realistic skin.\nSTYLE: Calm post-workout gym vlog. Relaxed, reflective, slightly tired but happy. Slow pacing, natural laughs.\nCHARACTER: CHASE, Korean idol (20s). Long black hair loosely tied, light post-workout glow, slim athletic build. Modest long-sleeve athletic top, loose joggers/leggings, socks or shoes off, towel around neck, no jewelry.\nSETTING: Quiet evening gym. Stretching mat, mirror wall, gym bag, protein shake, soft lighting, mostly empty.\n15s | 6 Cuts\nPropped medium: sits on mat, exhales. \"Okay, cool-down time.\"\nHandheld stretch: hamstring stretch, laughs. \"Yeah, that was a lot today.\"\nMacro: picks up protein shake, condensation visible. Ambient sound only.\nMedium: drinks shake, smiles. \"Okay, that's actually really good.\"\nClose: overhead stretch, rates workout. \"I'd give today like an eight out of ten.\"\nSelfie: grabs bag and shake, waves. \"Alright, I'm heading out—see you guys.\" #MiniMaxH3"
+}

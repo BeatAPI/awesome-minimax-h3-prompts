@@ -1,0 +1,32 @@
+{
+  "slug": "strawberry-seasonal-match-cut-food-commercial-117943",
+  "title": {
+    "en": "Strawberry seasonal match-cut food commercial",
+    "zh": "草莓四季匹配剪辑食品广告"
+  },
+  "description": {
+    "en": "Controls a macro food commercial of one falling strawberry held fixed on screen while seasons match-cut around it into winter cream splash.",
+    "zh": "控制微距食品广告：一颗下落草莓画面位置锁定，四季场景匹配剪辑环绕并坠入冬日鲜奶油。"
+  },
+  "category": "product-commercial",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "92:39",
+  "ingredients": [
+    "ripe strawberry",
+    "white ceramic bowl",
+    "four seasonal sets",
+    "cream splash landing"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@HBCoop_",
+    "url": "https://x.com/HBCoop_/status/2082827829172117943"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/HBCoop_/status/2082827841390198845"
+  ],
+  "prompt": "Premium food commercial. Extreme macro shot of a single ripe strawberry falling toward a white ceramic bowl. Before it lands, the environment changes through four seamless seasonal match cuts: a sunlit spring greenhouse, a hot summer picnic, an autumn kitchen and a candlelit winter dining room. The strawberry stays in exactly the same screen position, size, orientation and downward motion through every transition. It lands in fresh cream during the winter scene, sending one graceful crown-shaped splash upward. Photorealistic food texture, high-speed product cinematography, clean commercial lighting. Each season has distinct environmental sound, but one continuous musical phrase connects the entire sequence. No hands, labels or additional fruit."
+}

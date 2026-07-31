@@ -1,0 +1,32 @@
+{
+  "slug": "fire-dragon-and-rider-over-scorched-world-726278",
+  "title": {
+    "en": "Fire dragon and rider over scorched world",
+    "zh": "火龙与焰骑士掠过焦土世界"
+  },
+  "description": {
+    "en": "Controls a brief epic of a fire dragon and living-flame rider rising over a scorched world through smoke and sunset.",
+    "zh": "控制极短史诗画面：火龙与焰骑士穿越烟雾与落日，升上焦土世界。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "fire dragon",
+    "flame rider",
+    "scorched world",
+    "sunset smoke"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@kulufly",
+    "url": "https://x.com/kulufly/status/2082970376745726278"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/kulufly/status/2082970376745726278"
+  ],
+  "prompt": "fire dragon and his rider of living flame,\nrising over a scorched world, cutting through smoke and sunset."
+}

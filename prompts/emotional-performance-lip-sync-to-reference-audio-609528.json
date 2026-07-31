@@ -1,0 +1,32 @@
+{
+  "slug": "emotional-performance-lip-sync-to-reference-audio-609528",
+  "title": {
+    "en": "Emotional performance lip-sync to reference audio",
+    "zh": "高能情感表演口型同步"
+  },
+  "description": {
+    "en": "Controls a handheld emotional male performance with rapid body motion and precise lip-sync to specified lyric lines.",
+    "zh": "控制手持高能男声表演：肢体快速跟拍，并对指定歌词行精确口型同步。"
+  },
+  "category": "music-video",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "9:16",
+  "ingredients": [
+    "male singer",
+    "lyric lip-sync",
+    "handheld performance",
+    "high-energy gestures"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Kiber_Alla",
+    "url": "https://x.com/Kiber_Alla/status/2082605878679609528"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/Kiber_Alla/status/2082605880776741109"
+  ],
+  "prompt": "The man sings the song with great emotion and energy. His movements are rapid and in sync with the music. He looks straight ahead. He is full of drive and energy, and his arm movements complement the motion of his body. Handheld shooting.\nHe sings passionately and emotionally with perfect lip sync the lyrics: “My chest goes quick My pulse on fire One little smile And I climb higher I don’t stand still I don’t stay calm You turn my whole Body on.”"
+}

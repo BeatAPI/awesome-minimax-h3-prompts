@@ -1,0 +1,93 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/BeatAPI/awesome-minimax-h3-prompts/schema/prompt.schema.json",
+  "title": "MiniMax H3 prompt entry",
+  "type": "object",
+  "required": [
+    "slug",
+    "title",
+    "description",
+    "category",
+    "mode",
+    "duration",
+    "aspectRatio",
+    "prompt",
+    "ingredients",
+    "source",
+    "outputStatus"
+  ],
+  "properties": {
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "title": {
+      "type": "object",
+      "required": ["en", "zh"]
+    },
+    "description": {
+      "type": "object",
+      "required": ["en", "zh"]
+    },
+    "category": {
+      "enum": [
+        "music-video",
+        "motion-graphics",
+        "brand-film",
+        "product-demo",
+        "vlog",
+        "title-sequence",
+        "cinematic-story",
+        "viral-short",
+        "gameplay",
+        "comedy",
+        "product-commercial",
+        "cinematic-travel",
+        "anime"
+      ]
+    },
+    "mode": {
+      "enum": [
+        "text-to-video",
+        "image-to-video",
+        "reference-to-video",
+        "multimodal"
+      ]
+    },
+    "duration": {
+      "type": "string",
+      "pattern": "^\\d+s$"
+    },
+    "aspectRatio": {
+      "type": "string",
+      "pattern": "^\\d+:\\d+$"
+    },
+    "prompt": {
+      "type": "string",
+      "minLength": 20
+    },
+    "ingredients": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "type": "string" }
+    },
+    "source": {
+      "type": "object",
+      "required": ["kind", "name", "url"]
+    },
+    "outputStatus": {
+      "enum": ["template-unverified", "source-verified", "output-verified"]
+    },
+    "promptVisibility": {
+      "enum": ["same-post", "same-author-thread"]
+    },
+    "promptSourceUrls": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "format": "uri"
+      }
+    }
+  },
+  "additionalProperties": false
+}

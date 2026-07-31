@@ -1,0 +1,30 @@
+{
+  "slug": "would-you-like-to-dance-986858",
+  "title": {
+    "en": "Would you like to dance",
+    "zh": "要不要一起跳舞"
+  },
+  "description": {
+    "en": "Controls a short dance invitation moment from the single line “Would you like to dance?”",
+    "zh": "控制由一句“要不要一起跳舞”引发的短舞蹈邀约瞬间。"
+  },
+  "category": "music-video",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "dance invitation",
+    "partnered motion"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@OrctonAI",
+    "url": "https://x.com/OrctonAI/status/2082612279866986858"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/OrctonAI/status/2082612279866986858"
+  ],
+  "prompt": "Would you like to dance?"
+}

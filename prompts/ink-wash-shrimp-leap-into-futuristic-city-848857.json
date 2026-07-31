@@ -1,0 +1,32 @@
+{
+  "slug": "ink-wash-shrimp-leap-into-futuristic-city-848857",
+  "title": {
+    "en": "Ink-wash shrimp leap into futuristic city",
+    "zh": "水墨虾跃入未来都市"
+  },
+  "description": {
+    "en": "Controls a scale-shifting spectacle where ink-wash shrimp leap from unfolded rice paper into a neon futuristic skyline.",
+    "zh": "控制尺度反差奇观：八只水墨虾从展开宣纸跃入霓虹未来都市天际线。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "ink-wash shrimp",
+    "unfolding rice paper",
+    "night skyscrapers",
+    "neon rain trails"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@nicekate8888",
+    "url": "https://x.com/nicekate8888/status/2082746108493848857"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/nicekate8888/status/2082746108493848857"
+  ],
+  "prompt": "水墨虾跃入未来城市——一张宣纸在夜色摩天楼之间展开，八只黑白水墨虾从纸面跃出，身体仍保留飞白与墨晕，虾须化成发光城市轨道，墨滴变成霓虹雨；画面有巨大尺度反差、强烈纵深、电影级光影和一眼停留的奇观感，不要文字、不要水印。"
+}

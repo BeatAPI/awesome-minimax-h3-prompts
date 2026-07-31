@@ -1,0 +1,10 @@
+{
+  "name": "awesome-minimax-h3-prompts",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "prompts:import:sources": "node scripts/import-source-corpus.mjs",
+    "test": "node scripts/validate.mjs"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "cyber-grunge-fashion-film-with-vhs-glitch-978345",
+  "title": {
+    "en": "Cyber-grunge fashion film with VHS glitch",
+    "zh": "赛博废土时装片与 VHS 故障"
+  },
+  "description": {
+    "en": "Controls a night blaze fashion film of a platinum-blonde figure in a patent trench, textured with VHS glitch and scanlines.",
+    "zh": "控制夜火时装片：铂金金发、漆皮风衣主体，叠加 VHS 故障与扫描线质感。"
+  },
+  "category": "brand-film",
+  "mode": "text-to-video",
+  "duration": "19s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "platinum-blonde subject",
+    "patent-leather trench",
+    "nighttime firelight",
+    "VHS glitch texture"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@fal",
+    "url": "https://x.com/fal/status/2083021146341978345"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/fal/status/2083021146341978345"
+  ],
+  "prompt": "Platinum-blonde subject, black patent-leather trench, orange firelight across the coat. Nighttime blaze, black smoke.\n\nVHS glitches, CCTV dropouts, 90s grain, scanlines, chromatic aberration, flash-to-white cuts."
+}

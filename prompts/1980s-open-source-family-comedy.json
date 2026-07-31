@@ -1,0 +1,29 @@
+{
+  "slug": "1980s-open-source-family-comedy",
+  "title": {
+    "en": "1980s open-source family comedy",
+    "zh": "1980 年代开源家庭喜剧"
+  },
+  "description": {
+    "en": "An image-led ensemble comedy with practical robots, synchronized reactions, dialogue, and strict continuity.",
+    "zh": "用参考图控制人物与构图，加入实体机器人、群体反应、对白和严格连续性。"
+  },
+  "category": "comedy",
+  "mode": "image-to-video",
+  "duration": "12s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Opening-frame reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@BrentLynch",
+    "url": "https://x.com/BrentLynch/status/2083020024340693185"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/BrentLynch/status/2083020024340693185"
+  ],
+  "prompt": "Use the supplied image as the exact opening frame. Create a hilarious, high-budget 1980s live-action family comedy movie scene, photographed on a real soundstage with practical robot costumes, animatronics, handmade props, vintage wardrobe, and authentic 35mm film color.\n\nThe entire group suddenly hears something above them. Everyone’s eyes dart upward at the same moment. The men, women, children, and robots dramatically tilt their heads back, point toward the ceiling, and erupt into chaotic celebration. They gasp, scream, laugh, jump, wave their arms, slap each other on the shoulders, and completely lose their minds with exaggerated 1980s comedy reactions. The children bounce excitedly. The adults stumble into one another. The robots flash their eyes, flap their mechanical arms, spin clumsily, and celebrate with funny practical animatronic movements.\n\nOne man shouts:\n\n“OPEN SOURCE?!”\n\nThe entire crowd answers together:\n\n“MINIMAX H3!”\n\nThey cheer wildly as one robot attempts a victory dance, loses its balance, and is caught by the shocked family at the final second.\n\nFast, energetic comic timing with believable ensemble choreography. Begin with a brief locked group shot, then a subtle handheld push-in as the chaos escalates. Keep every original person, robot, shirt design, and the large headline clearly recognizable. Preserve facial identity, wardrobe, composition, lighting, and 1980s production design.\n\nAuthentic optical softness, warm tungsten lighting, rich film grain, slight gate weave, practical effects, natural motion blur, expressive physical acting, polished studio-comedy sound mix, triumphant synthesizer sting, cheering, robot beeps, and comedic percussion.\n\nNo CGI, no digital-looking robots, no morphing, no extra people, no duplicated characters, no distorted faces, no rewritten text, no spelling changes, no modern clothing, no style shifts, and do not turn the scene into animation.\n\n@Hailuo_AI"
+}

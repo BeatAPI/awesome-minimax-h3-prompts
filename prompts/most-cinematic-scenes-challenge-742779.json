@@ -1,0 +1,30 @@
+{
+  "slug": "most-cinematic-scenes-challenge-742779",
+  "title": {
+    "en": "Most cinematic scenes challenge",
+    "zh": "极致电影感场景挑战"
+  },
+  "description": {
+    "en": "Controls an open-ended challenge to generate the most cinematic scenes possible.",
+    "zh": "控制开放式挑战：尽量生成最具电影感的场景。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "960:407",
+  "ingredients": [
+    "cinematic scene",
+    "dramatic framing"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@JamianGerard",
+    "url": "https://x.com/JamianGerard/status/2082916440403742779"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/JamianGerard/status/2082916440403742779"
+  ],
+  "prompt": "The most cinematic scenes you can make."
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "grimy-hip-hop-music-video-mood-030578",
+  "title": {
+    "en": "Grimy hip-hop music video mood",
+    "zh": "脏感嘻哈 MV 情绪"
+  },
+  "description": {
+    "en": "Controls a refined-but-grimy hip-hop MV mood built from underground zine, photocopy, and analogue-scan textures.",
+    "zh": "控制精致却脏的嘻哈 MV 情绪：地下杂志、复印机与模拟扫描质感。"
+  },
+  "category": "music-video",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "hip-hop MV mood",
+    "underground zine texture",
+    "analogue scan grain",
+    "aggressive beat feel"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@tebasaki3D",
+    "url": "https://x.com/tebasaki3D/status/2083032443226030578"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/tebasaki3D/status/2083032443226030578"
+  ],
+  "prompt": "洗練されているが汚れた質感のヒップホップMV。地下雑誌、コピー機、アナログスキャン、攻撃的なビート感。"
+}

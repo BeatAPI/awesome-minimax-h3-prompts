@@ -1,0 +1,76 @@
+name: Submit a MiniMax H3 prompt
+description: Propose a source-transparent prompt for the public catalog.
+title: "[Prompt]: "
+labels:
+  - prompt-submission
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Submit only content and media you have the right to publish. A public URL does not transfer copyright.
+  - type: input
+    id: title
+    attributes:
+      label: Prompt title
+      placeholder: Kinetic lyric stage
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Music video
+        - Motion graphics
+        - Brand film
+        - Product demo
+        - Vlog
+        - Title sequence
+    validations:
+      required: true
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Complete prompt
+      description: Include reference roles, timed beats, and constraints where relevant.
+    validations:
+      required: true
+  - type: textarea
+    id: references
+    attributes:
+      label: Reference roles
+      placeholder: Image 1 controls the subject; Audio 1 controls timing.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Original source URL
+      placeholder: https://...
+    validations:
+      required: true
+  - type: input
+    id: author
+    attributes:
+      label: Original author
+    validations:
+      required: true
+  - type: dropdown
+    id: status
+    attributes:
+      label: Verification status
+      options:
+        - template-unverified
+        - source-verified
+        - output-verified
+    validations:
+      required: true
+  - type: checkboxes
+    id: rights
+    attributes:
+      label: Rights confirmation
+      options:
+        - label: I wrote this prompt or have permission to submit it.
+          required: true
+        - label: I have permission to publish any attached input and output media.
+          required: true

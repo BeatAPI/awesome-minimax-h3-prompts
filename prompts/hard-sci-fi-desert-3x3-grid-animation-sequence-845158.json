@@ -1,0 +1,32 @@
+{
+  "slug": "hard-sci-fi-desert-3x3-grid-animation-sequence-845158",
+  "title": {
+    "en": "Hard sci-fi desert 3x3 grid animation sequence",
+    "zh": "硬核科幻沙漠九宫格动画"
+  },
+  "description": {
+    "en": "Controls a hard sci-fi desert sequence that animates every panel of a 3x3 grid while locking one scarred armored woman and her environments.",
+    "zh": "控制硬核科幻沙漠序列：按九宫格逐格动画，锁定同一疤痕女战士与沙漠环境。"
+  },
+  "category": "cinematic-story",
+  "mode": "reference-to-video",
+  "duration": "15s",
+  "aspectRatio": "8:9",
+  "ingredients": [
+    "3x3 desert grid",
+    "scarred desert warrior",
+    "twin sun dunes",
+    "rusted multi-tool"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@techhalla",
+    "url": "https://x.com/techhalla/status/2082611421225845158"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/techhalla/status/2082611424824623135"
+  ],
+  "prompt": "Epic desert sci-fi, harsh golden-hour light, volumetric sand haze, anamorphic lens flares, subtle handheld drift, heavy atmospheric particles, 35mm film texture.\n\nUse the provided 3x3 grid as the only visual reference. Lock the exact same woman (face, scars, green eyes, headscarf, desert armor, cape) and environments from every panel. Do not invent new outfits or faces.\n\n[TIMELINE] 0-1.7s: [Wide establishing] Lone figure walking across endless dunes toward twin massive suns. Heat shimmer, long shadow stretching behind her.\n1.7-3.4s: [Extreme close-up] Her scarred face fills the frame. Eyes locked on camera, wind tugging the dirty headscarf, grit on skin, unblinking intensity.\n\n3.4-5.1s: [Tight detail insert] Gloved hand grips the rusted multi-tool weapon. Metal catches the orange light, cable dangling, fingers adjusting the grip with quiet precision.\n\n5.1-6.8s: [Low wide silhouette] The towering industrial structure rises against the giant sun. Dust storms swirl at its base, scale feeling ancient and oppressive.\n\n6.8-8.5s: [Medium tracking] She advances through thick sandstorm, lower face wrapped, cape and scarf whipping hard. Eyes visible above the cloth, determined stride.\n\n8.5-10.2s: [Hero wide] She stands alone on the rocky outcrop, cape flowing, surveying the empty desert below. Wind howls, silhouette sharp against the hazy sky.\n\n10.2-11.9s: [Dynamic tracking + low angle] She charges down the steep dune face, boots kicking up thick clouds of sand, body leaning forward with full momentum.\n\n11.9-13.6s: [Macro atmospheric] Golden sand particles explode and float in extreme slow motion, backlit by the blazing sun, pure texture and light.\n\n13.6-15s: [Intimate close-up] Inside the dark cave, shafts of light cut through. She sits against the rock, armor dusted, breathing controlled, eyes sharp and watching the entrance.\n\nPhotorealistic, ultra-detailed skin and fabric textures, perfect sand physics, coherent character identity across every cut, cinematic color grade, heavy film grain, no artifacts, movie-level continuity."
+}

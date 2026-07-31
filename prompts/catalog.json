@@ -1,0 +1,1735 @@
+{
+  "version": 1,
+  "model": "MiniMax-H3",
+  "updatedAt": "2026-07-31",
+  "prompts": [
+    {
+      "slug": "modern-warfare-fps-gameplay",
+      "title": {
+        "en": "Modern warfare FPS gameplay",
+        "zh": "现代战争 FPS 实机画面"
+      },
+      "description": {
+        "en": "A first-person military gameplay simulation with player movement, weapon handling, environment, and HUD.",
+        "zh": "同时定义玩家运动、武器操作、战场环境与 HUD 的第一人称军事游戏画面。"
+      },
+      "category": "gameplay",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "Text prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@Just_sharon7",
+        "url": "https://x.com/Just_sharon7/status/2083064417798025721"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/Just_sharon7/status/2083064417798025721"
+      ],
+      "prompt": "Camera: First-person perspective at eye level with authentic handheld player movement, as if recorded directly from a modern AAA military shooter. The player carries a highly detailed assault rifle with realistic animations, visible hands, tactical gloves, dynamic reload mechanics, and weapon sway.  **Opening Action:** The video immediately begins with the player already aiming down a roadway inside a modern military base. Multiple enemy soldiers are visible in the distance near sandbags, barricades, and military vehicles. The player carefully tracks one target, making small aim corrections while maintaining ADS (aim down sights). Fire several controlled bursts immediately at the visible enemies, producing realistic muzzle flashes, shell casings ejecting, smoke, recoil, hit reactions, and dust impacts around the targets. Continue firing in multiple short bursts while adjusting aim between enemies, simulating authentic FPS gameplay rather than scripted animation.  **Movement:** After the opening firefight, lower slightly from ADS and begin advancing cautiously along the road beside concrete barriers, Hesco walls, and parked military vehicles. Frequently check left and right corners, briefly stop to reacquire targets, then raise the weapon and fire additional controlled bursts whenever enemies appear ahead. Continue pushing forward with deliberate player-controlled movement, using cover naturally and maintaining believable tactical pacing.  **Environment:** Large modern military base with guard towers, armored vehicles, shipping containers, blast barriers, damaged buildings, smoke plumes, burning debris, scattered shell casings, dust clouds, and atmospheric battlefield haze. Cool natural daylight mixed with smoke and orange firelight creates a cinematic battlefield atmosphere.  **Camera Motion:** Authentic player-controlled movement with subtle head bob, weapon sway, natural mouse-look adjustments, small left-right corrections while aiming, realistic recoil, smooth tracking of moving targets, brief pauses before shooting, and fluid forward progression. Avoid cinematic camera moves—everything should feel like genuine live gameplay captured by a skilled player.  **Visual Quality:** Ultra-photorealistic, AAA game graphics with realistic PBR materials, detailed weapon models, physically accurate lighting, volumetric smoke, dynamic particle effects, crisp textures, realistic bullet impacts, muzzle flash illumination, motion blur only during rapid movement, and high-end military shooter presentation.  **Gameplay UI:** Display a realistic modern FPS HUD inspired by games like PUBG, Battlefield, or Call of Duty (without copying exact copyrighted assets). Include:  * Central dynamic crosshair or reticle * Ammo counter with magazine and reserve ammunition * Fire mode indicator * Compass at the top * Squad/team status panel * Mini-map in the upper corner * Health bar * Tactical equipment icons (grenades, medkit) * Hit markers when bullets connect * Directional damage indicators * Kill notification feed * Objective marker in the distance * Subtle interaction prompts and realistic HUD animations  The HUD should feel polished, modern, and fully integrated into the gameplay, enhancing the illusion of authentic recorded footage from a contemporary military FPS."
+    },
+    {
+      "slug": "luxury-perfume-commercial",
+      "title": {
+        "en": "Luxury perfume commercial",
+        "zh": "奢华香水商业片"
+      },
+      "description": {
+        "en": "A five-scene fragrance commercial covering reveal, macro detail, transformation, transition, and hero shot.",
+        "zh": "由揭晓、微距、变形、环境转场和最终英雄镜头组成的五场香水广告。"
+      },
+      "category": "product-commercial",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "Text prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@CaliraVal",
+        "url": "https://x.com/CaliraVal/status/2083059583308751079"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/CaliraVal/status/2083059583308751079"
+      ],
+      "prompt": "Scene 1 (0–3s) – Luxury Reveal\nA luxury perfume bottle slowly emerges from darkness, standing on a glossy black pedestal. Soft golden light beams gradually reveal the crystal-clear glass, while subtle volumetric fog creates depth. Extreme macro shot, cinematic lighting, ultra-realistic reflections, premium luxury commercial aesthetic.\n\nScene 2 (3–6s) – Precision Details\nExtreme close-up of the perfume bottle as rich golden fragrance liquid gently swirls inside. The camera performs a smooth cinematic orbit, capturing intricate glass textures, flawless craftsmanship, and sparkling highlights. Ultra-detailed, photorealistic, premium commercial quality.\n\nScene 3 (6–9s) – AI Transformation\nThe perfume bottle seamlessly dissolves into glowing golden particles before instantly reforming into a futuristic luxury edition, maintaining perfect proportions and visual consistency. Dynamic orbit camera, seamless transformation, cinematic lighting, premium visual effects.\n\nScene 4 (9–12s) – Environment Transition\nWithout a single cut, the background transforms from a luxurious black studio into a futuristic neon metropolis. The perfume bottle remains perfectly consistent while the camera performs a dramatic dolly-in. Hyper-realistic, cinematic, high-end advertising style.\n\nScene 5 (12–15s) – Hero Finale\nSlow-motion hero shot of the luxury perfume bottle elegantly rotating as glowing golden particles float around it. Premium black background, flawless reflections, cinematic logo reveal, luxury commercial ending, 8K photorealistic, blockbuster advertising quality."
+    },
+    {
+      "slug": "sagrada-familia-fpv-flight",
+      "title": {
+        "en": "Sagrada Família FPV flight",
+        "zh": "圣家堂 FPV 穿越"
+      },
+      "description": {
+        "en": "A reference-guided Barcelona drone route with an orbit, skyline reveal, and cinematic score.",
+        "zh": "依据参考路径完成巴塞罗那高速航拍、环绕圣家堂、城市揭晓与电影配乐。"
+      },
+      "category": "cinematic-travel",
+      "mode": "image-to-video",
+      "duration": "15s",
+      "aspectRatio": "77:92",
+      "ingredients": [
+        "Flight-path image reference"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@Diplomeme",
+        "url": "https://x.com/Diplomeme/status/2083056488122380671"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/Diplomeme/status/2083056488122380671"
+      ],
+      "prompt": "Create a cinematic realistic high-speed drone video over Barcelona, Spain at golden hour, using the reference image as the exact location and flight-path guide. The drone starts very low above the Barcelona cityscape, almost skimming above the foreground rooftops and streets, facing La Sagrada Família. It accelerates quickly forward over the urban landscape, following the drawn path from the foreground toward the cathedral while maintaining a very low altitude. The drone then performs a dramatic climbing curve as La Sagrada Família fills the frame, executes a close cinematic orbit around the cathedral’s iconic spires, and after the orbit, pulls back while gaining altitude before tilting and opening toward the Barcelona skyline, Mediterranean Sea, Eixample grid, surrounding historic rooftops, golden-hour reflections, distant coastline, and glowing Barcelona atmosphere.\n\nThe red drawn line must not appear in the video; it is only a hidden flight-path reference. Add powerful emotional cinematic music: deep cello melody, dramatic percussion rhythm, orchestral strings, subtle choir texture, epic rising percussion, and a grand heroic crescendo as the drone completes its orbit around La Sagrada Família and reaches the final panoramic reveal. No text, no subtitles, no logos, no graphic overlays.@Image1"
+    },
+    {
+      "slug": "nova-x-smartphone-tvc",
+      "title": {
+        "en": "NOVA X smartphone TVC",
+        "zh": "NOVA X 手机 TVC"
+      },
+      "description": {
+        "en": "A three-act smartphone commercial moving from macro hardware detail to interface use and final packshot.",
+        "zh": "从硬件微距、界面交互到最终产品定帧的三幕手机广告。"
+      },
+      "category": "product-commercial",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "Text prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@UrMeer289",
+        "url": "https://x.com/UrMeer289/status/2083048872566575568"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/UrMeer289/status/2083048872566575568"
+      ],
+      "prompt": "Create a 15-second premium cinematic branding TVC for a futuristic smartphone brand called NOVA X.\n\n0–5 seconds: Extreme close-up of a sleek futuristic smartphone resting on a glossy black surface. Dramatic studio lighting sweeps across the device, revealing its ultra-thin design and premium metallic edges. Cinematic camera push-in, macro product details, realistic reflections.\n\n5–10 seconds: The phone activates with a stunning futuristic interface. A young professional picks it up, and the environment transforms into a vibrant digital world with floating holographic visuals, smooth UI animations, and seamless interaction. Dynamic camera movement, premium commercial aesthetic.\n\n10–15 seconds: Hero product shot of the smartphone standing vertically against a minimalist futuristic background. The NOVA X logo appears elegantly with the tagline: “NOVA X — The Future in Your Hands.” Cinematic lighting, high-end TV commercial quality, photorealistic, ultra-detailed, smooth motion, polished advertising style, 4K."
+    },
+    {
+      "slug": "post-workout-gym-vlog",
+      "title": {
+        "en": "Post-workout gym vlog",
+        "zh": "训练后健身房 Vlog"
+      },
+      "description": {
+        "en": "A six-cut camcorder vlog specifying handheld flaws, dialogue, character continuity, and ambient sound.",
+        "zh": "明确手持瑕疵、对白、角色连续性和环境声的六镜头录像机 Vlog。"
+      },
+      "category": "vlog",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "Text prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@doctorwasif",
+        "url": "https://x.com/doctorwasif/status/2083048782581858681"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/doctorwasif/status/2083048782581858681"
+      ],
+      "prompt": "CAMERA: DV 16mm tape camcorder POV. CHASE films herself, occasionally propping the camera on a wall or gym bag. Natural handheld shake, imperfect framing, delayed focus, clumsy zooms, face occasionally cut off. Camcorder never visible.\nLOOK: Soft blurry tape aesthetic, faint tape noise, bloomed gym lights, flickering auto-exposure, muted contrast, realistic skin.\nSTYLE: Calm post-workout gym vlog. Relaxed, reflective, slightly tired but happy. Slow pacing, natural laughs.\nCHARACTER: CHASE, Korean idol (20s). Long black hair loosely tied, light post-workout glow, slim athletic build. Modest long-sleeve athletic top, loose joggers/leggings, socks or shoes off, towel around neck, no jewelry.\nSETTING: Quiet evening gym. Stretching mat, mirror wall, gym bag, protein shake, soft lighting, mostly empty.\n15s | 6 Cuts\nPropped medium: sits on mat, exhales. \"Okay, cool-down time.\"\nHandheld stretch: hamstring stretch, laughs. \"Yeah, that was a lot today.\"\nMacro: picks up protein shake, condensation visible. Ambient sound only.\nMedium: drinks shake, smiles. \"Okay, that's actually really good.\"\nClose: overhead stretch, rates workout. \"I'd give today like an eight out of ten.\"\nSelfie: grabs bag and shake, waves. \"Alright, I'm heading out—see you guys.\" #MiniMaxH3"
+    },
+    {
+      "slug": "sparkrush-ultra-fizz-beach-soft-drink-commercial-383681",
+      "title": {
+        "en": "SparkRush Ultra Fizz beach soft-drink commercial",
+        "zh": "超碳酸海滩饮料广告"
+      },
+      "description": {
+        "en": "Controls an eight-cut live-action beach soft-drink commercial that uses a moodboard only for people, swimwear, bottle design, and summer tone.",
+        "zh": "控制八段实拍海滩饮料广告：情绪板仅用于人物、泳装、瓶身设计与夏日调性，不复现拼贴布局。"
+      },
+      "category": "product-commercial",
+      "mode": "reference-to-video",
+      "duration": "15s",
+      "aspectRatio": "108:145",
+      "ingredients": [
+        "beach moodboard",
+        "young beach couple",
+        "ultra-fizz bottle",
+        "summer surf set"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@mi7_crypto",
+        "url": "https://x.com/mi7_crypto/status/2083042578883383681"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/mi7_crypto/status/2083042584755376250"
+      ],
+      "prompt": "（16:9 / 15秒 / 8カット / 日本語セリフ版）\n@ ImageA＝採用済みイメージボード。\n（以降、イメージボードと記述）\nイメージボードは 登場人物2人の雰囲気、水着、ビーチ環境、商品ボトルデザイン、色、爽快感、映像トーンの参考資料 としてのみ使用する。\n重要：イメージボードのレイアウトや構成そのものは絶対に映像内へ描写しない。\nイメージボード、8分割グリッド、コマ割り、番号、説明文、見出し、商品一覧、配色見本、ムードボード、ポスター、静止画コラージュ、絵コンテ風表示を作らない。\n完成物は1本の実写CM映像として出力し、画面内に文字・数字・ロゴ説明・CUT番号・パネル分割を表示しない。\n\n15秒、16:9、実写シネマティックCM、全8カット。\n真夏の明るい昼のビーチ。白い砂浜、透明感のある青い海、強い日差し、爽やかな風。\n登場人物は20代前半の成人男女2人。健康的でおしゃれ、自然な笑顔、友達同士の軽快で爽やかな空気感。\n商品は架空の超炭酸ペットボトル飲料 SPARKRUSH ULTRA FIZZ。\n透明ペットボトル、青いキャップ、濃いブルー主体のラベル、斜めライン、粒粒の炭酸バブル表現、勢いのある刺激的なデザイン。\n水やミネラルウォーターではなく、強い超炭酸飲料に見せること。\nラベルはエネルギッシュでおしゃれ、炭酸の刺激が伝わるグラフィック。\n実在ブランドのロゴや意匠は使わない。\n全カットで人物の顔、水着、商品ロゴ、ボトル形状、ラベル配色を統一する。\n字幕、テロップ、追加文字、別ロゴは入れない。\n\nCUT1 0:00-0:02\n\nワイドショット。真夏のビーチ。男女2人が浅瀬を走りながら海へ入っていく。水しぶきがきらめく。爽快で青春感のある始まり。\n男「うわー、最高！」\n\nCUT2 0:02-0:04\n\n2人がビーチボールで遊ぶ。明るく笑いながら投げ合う。空と海が鮮やかで、夏らしい開放感。\n女「ほら、ナイスキャッチ！」\n\nCUT3 0:04-0:06\n\n女性の上半身寄り。女性が SPARKRUSH ULTRA FIZZ のボトルをカメラに向けて掲げ、爽やかに笑う。ボトルの青いラインと粒粒の炭酸デザインがしっかり見える。\n女「これ、超炭酸だよ！」\n\nCUT4 0:06-0:08\n\n商品寄り。手でキャップをひねって開けた瞬間、プシュッという強い炭酸音。ボトル口から細かな泡と冷たいミストが弾ける。超炭酸の刺激を強く見せる。\nSE：炭酸の鋭い開栓音\n\nCUT5 0:08-0:10\n\n男性がボトルを飲む寄りショット。冷えたボトルの水滴、喉を通る爽快感、飲んだ瞬間の刺激的で気持ちいい表情。\n男「うおっ、キリッとくる！」\n\nCUT6 0:10-0:12\n\n2人のツーショット。笑い合いながらボトルを持つ。自然な距離感、眩しい日差し、夏が弾けるような空気感。\n女「すっきり爽快！」\n男「夏って感じ！」\n\nCUT7 0:12-0:14\n\n海辺の商品イメージカット。手前または岩場近くに SPARKRUSH ULTRA FIZZ のボトル。背景の海ではイルカの群れが数頭ジャンプしている。爽やかで開放的な奇跡のような演出。海しぶきと太陽光がきらめく。\nNA「超炭酸で、リフレッシュ！」\n\nCUT8 0:14-0:15\n\nエンドカット。海を背にして並ぶ2人、または海辺に座る2人の後ろ姿。画面の手前または横に商品ボトルを大きく配置。最後は商品が主役。\n2人「スパークラッシュ！」\n\n映像トーン：高級感のある夏の飲料CM、爽快、青春、開放感、清潔感、ファッション広告のような洗練。\nカメラ：ワイド、ミディアム、商品寄り、人物寄りをテンポよく切り替える。\n音：波音、軽快なサマーポップ、ビーチボールの軽い音、炭酸の開栓音、泡が弾ける音。\n口パクは日本語セリフに自然に合わせる。\n\n強い禁止事項\nイメージボードのムードボード自体を再現しない\n8分割パネル、コマ割り、静止画コラージュにしない\n番号、見出し、解説文、配色パレット、商品比較図を表示しない\nポスター、絵コンテ、広告ボード、資料画像のようにしない\n1枚絵の資料ではなく、自然な連続CM映像として出力する"
+    },
+    {
+      "slug": "mechanical-bull-charge-the-beasts-are-coming-720815",
+      "title": {
+        "en": "Mechanical bull charge The Beasts Are Coming",
+        "zh": "机械公牛冲锋·野兽将至"
+      },
+      "description": {
+        "en": "Controls a Harvester-universe charge where a rider mounts a battle-scarred mechanical bull and storms into fog-bound enemies.",
+        "zh": "控制收割者宇宙冲锋戏：骑手跃上战痕累累的机械公牛，冲入雾中敌人。"
+      },
+      "category": "cinematic-story",
+      "mode": "reference-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "mechanical bull",
+        "rider character",
+        "ruined industrial lane",
+        "furnace charge"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@rahulnanda86",
+        "url": "https://x.com/rahulnanda86/status/2083033635364720815"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/rahulnanda86/status/2083033635364720815"
+      ],
+      "prompt": "Use the uploaded mechanical bull image as the primary reference for the bull, and use Rahul’s image as the character reference for the rider.\n\nCreate a 15-second ultra-realistic cinematic fantasy-sci-fi sequence set in The Harvester universe. The setting is a foggy ruined industrial lane at dawn or overcast light, with drifting smoke, hanging wires, broken stone and metal structures, wet ground, ash in the air, and distant furnace glow. The giant mechanical bull is ancient, battle-scarred, and alive with furnace energy inside its cracked armor.\n\n0–3s — Hook: Start with Rahul stumbling backward into frame, breathing hard, turning to face danger in the smoke behind him. The giant mechanical bull stands in front of him like a wall, half-silhouetted in steam, protecting him.\n\n3–6s: Close on Rahul placing one hand on the bull’s armored side, steadying himself. He looks at it with trust, not fear. The bull turns its head slightly toward Rahul. Its eye glows brighter, and its internal furnace begins to pulse.\n\n6–9s: A loud metallic roar echoes from somewhere in the fog ahead. The bull reacts instantly — it lowers its head, paws the ground, steam blasts from its vents, gears lock into place, and sparks spit from its chest cavity. Rahul pulls himself up and mounts the bull in one fast motion.\n\n9–12s: The bull rears slightly, then slams down hard. Rahul leans forward, gripping tight. Through the smoke ahead, we briefly see threatening silhouettes moving toward them, just enough to imply incoming enemies.\n\n12–15s — Payoff: The bull explodes forward into a full charge with Rahul riding it, smashing through smoke and embers. End on a powerful low-angle tracking shot as both disappear into the haze, charging straight toward the unseen threat.\n\nSound: deep metal groans, steam bursts, furnace rumble, distant enemy roar, hoof impact, sparks, low cinematic score.\n\nCinematography / Color Brief\n\nUse the same signature look: desaturated steel blue, charcoal grey, mist white, weathered bronze, and restrained furnace orange accents. Soft overcast light, smoky atmosphere, wet surfaces, and strong depth. Cinematography should feel premium and mythic: low angles, slow dramatic push-ins, tactile detail, subtle shake, sharp realism, and heavy scale."
+    },
+    {
+      "slug": "wake-up-we-hunt-mechanical-bull-mount-700581",
+      "title": {
+        "en": "Wake up We Hunt mechanical bull mount",
+        "zh": "醒来，我们去狩猎"
+      },
+      "description": {
+        "en": "Controls a dystopian awakening scene where a rider wakes a dormant mechanical bull with the line “Wake up. We hunt.” then charges into smoke.",
+        "zh": "控制反乌托邦苏醒戏：骑手以“醒来，我们去狩猎”唤醒沉睡机械牛并冲入烟尘。"
+      },
+      "category": "cinematic-story",
+      "mode": "reference-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "mechanical bull",
+        "rider character",
+        "foggy industrial street",
+        "power-on roar"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@rahulnanda86",
+        "url": "https://x.com/rahulnanda86/status/2083032575908700581"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/rahulnanda86/status/2083032575908700581"
+      ],
+      "prompt": "Use the uploaded mechanical bull image as the main creature reference and Rahul’s image as the human character reference. Create a 15-second ultra-realistic cinematic sequence set in The Harvester universe. The scene takes place in a foggy dystopian industrial street full of smoke, ash, overhead wires, dim structures, and distant furnace glow. The giant mechanical bull is massive, battle-worn, and intimidating — a living machine-beast with heavy steel plating, exposed pistons, pipes, furnace light glowing inside cracked armor, huge curved horns, and hot steam venting from its body.\n\n0–3s — Hook: Start with a dramatic low-angle shot of the giant mechanical bull standing motionless in the street like a dead titan, steam drifting around it. Its orange core is dim. Rahul walks into frame, small beside it, cautious but familiar, like this is his companion.\n\n3–6s: Rahul places one hand firmly against the bull’s metal faceplate or neck armor. Close on the contact. He says in a calm, controlled tone: “Wake up. We hunt.” The bull’s eye glows brighter. Internal furnace light begins pulsing.\n\n6–9s: The bull violently powers on — steam blasts from vents, gears rotate, pistons lock, embers spit from its chest, and its massive head lifts. One hoof slams into the ground with weight. The whole frame shakes slightly.\n\n9–12s: Rahul pulls himself up and mounts the giant bull. The bull turns its head toward something unseen ahead in the smoke — distant danger, possibly droids or enemies approaching. We feel the next hunt is beginning.\n\n12–15s — Payoff: The bull charges forward with explosive force through smoke and sparks, Rahul riding it hard. End on a powerful forward rush into haze as the machine roars and the hunt begins.\n\nSound: deep metallic groans, steam bursts, furnace rumble, hoof impact, distant industrial ambience, low ominous score."
+    },
+    {
+      "slug": "grimy-hip-hop-music-video-mood-030578",
+      "title": {
+        "en": "Grimy hip-hop music video mood",
+        "zh": "脏感嘻哈 MV 情绪"
+      },
+      "description": {
+        "en": "Controls a refined-but-grimy hip-hop MV mood built from underground zine, photocopy, and analogue-scan textures.",
+        "zh": "控制精致却脏的嘻哈 MV 情绪：地下杂志、复印机与模拟扫描质感。"
+      },
+      "category": "music-video",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "hip-hop MV mood",
+        "underground zine texture",
+        "analogue scan grain",
+        "aggressive beat feel"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@tebasaki3D",
+        "url": "https://x.com/tebasaki3D/status/2083032443226030578"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/tebasaki3D/status/2083032443226030578"
+      ],
+      "prompt": "洗練されているが汚れた質感のヒップホップMV。地下雑誌、コピー機、アナログスキャン、攻撃的なビート感。"
+    },
+    {
+      "slug": "premium-cinematic-fashion-campaign-outfit-reveal-103224",
+      "title": {
+        "en": "Premium cinematic fashion campaign outfit reveal",
+        "zh": "高端时装大片逐套亮相"
+      },
+      "description": {
+        "en": "Controls a vertical luxury fashion campaign that reveals five uploaded apparel looks one by one without redesigning any garment.",
+        "zh": "控制竖屏奢侈时装大片：逐套亮相五套上传服装，且不改版任何单品。"
+      },
+      "category": "brand-film",
+      "mode": "reference-to-video",
+      "duration": "15s",
+      "aspectRatio": "9:16",
+      "ingredients": [
+        "five apparel images",
+        "fashion model",
+        "minimal studio set",
+        "editorial outfit reveals"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@luxaios",
+        "url": "https://x.com/luxaios/status/2083024913322103224"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/luxaios/status/2083024977151119578"
+      ],
+      "prompt": "Create a premium cinematic fashion campaign video using the five uploaded apparel images as strict product references.  The video should introduce each outfit one by one, while maintaining the exact original clothing design, silhouette, fabric texture, colors, patterns, accessories, stitching, and proportions from every reference image. Do not redesign, simplify, replace, or merge any garments.  Format: vertical 9:16 Duration: approximately 15 seconds Style: luxury fashion commercial, editorial, futuristic, minimal, sophisticated Visual quality: photorealistic, commercial-grade, high-end fashion film, sharp textile detail, realistic fabric movement  Sequence:  0–2 seconds: Begin with a dark minimal studio. A narrow beam of light slowly reveals the first outfit. Start with an extreme close-up of fabric texture, stitching, metallic details, and layered materials. Smooth cinematic camera movement.  2–5 seconds: Reveal the full first outfit on a stylish fashion model. The model makes one subtle pose while the camera performs a slow vertical tilt from shoes to face.  5–8 seconds: Transition through a fast match cut into the second and third outfits. Use elegant whip pans, fabric wipes, lighting flashes, and seamless motion transitions. Each outfit must remain visible long enough to understand its full design.  8–11 seconds: Show the fourth outfit in a wider architectural studio environment. The model walks slowly toward the camera while the fabric moves naturally. Add controlled wind, soft shadows, and reflective surfaces.  11–14 seconds: Reveal the fifth outfit as the hero look. Use a dramatic low-angle shot, slow orbiting camera movement, and stronger cinematic lighting. Emphasize the silhouette, construction, and key design details.  14–15 seconds: End with all five outfits appearing rapidly in rhythmic editorial cuts, followed by a clean final frame with the hero outfit centered against a minimal background.  Camera: Smooth dolly shots, macro textile close-ups, slow orbit, low-angle fashion shots, controlled handheld energy only during transitions.  Lighting: High-contrast luxury studio lighting, soft rim lights, precise highlights on fabric, metal, leather, and accessories. Avoid overexposure.  Motion: Natural model movement, restrained confident poses, realistic walking, subtle fabric physics. No exaggerated dancing.  Editing: Fast but elegant editorial pacing. Clean match cuts between outfits. Every transition should feel intentional and synchronized with the music.  Important: Preserve the exact identity and design of all five apparel references. Do not mix clothing elements between outfits. Do not change logos, prints, colors, garment length, footwear, accessories, or materials. Do not add random text, subtitles, watermarks, extra garments, duplicated limbs, distorted hands, warped fabric, or unstable faces."
+    },
+    {
+      "slug": "cyber-grunge-fashion-film-with-vhs-glitch-978345",
+      "title": {
+        "en": "Cyber-grunge fashion film with VHS glitch",
+        "zh": "赛博废土时装片与 VHS 故障"
+      },
+      "description": {
+        "en": "Controls a night blaze fashion film of a platinum-blonde figure in a patent trench, textured with VHS glitch and scanlines.",
+        "zh": "控制夜火时装片：铂金金发、漆皮风衣主体，叠加 VHS 故障与扫描线质感。"
+      },
+      "category": "brand-film",
+      "mode": "text-to-video",
+      "duration": "19s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "platinum-blonde subject",
+        "patent-leather trench",
+        "nighttime firelight",
+        "VHS glitch texture"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@fal",
+        "url": "https://x.com/fal/status/2083021146341978345"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/fal/status/2083021146341978345"
+      ],
+      "prompt": "Platinum-blonde subject, black patent-leather trench, orange firelight across the coat. Nighttime blaze, black smoke.\n\nVHS glitches, CCTV dropouts, 90s grain, scanlines, chromatic aberration, flash-to-white cuts."
+    },
+    {
+      "slug": "1980s-open-source-family-comedy",
+      "title": {
+        "en": "1980s open-source family comedy",
+        "zh": "1980 年代开源家庭喜剧"
+      },
+      "description": {
+        "en": "An image-led ensemble comedy with practical robots, synchronized reactions, dialogue, and strict continuity.",
+        "zh": "用参考图控制人物与构图，加入实体机器人、群体反应、对白和严格连续性。"
+      },
+      "category": "comedy",
+      "mode": "image-to-video",
+      "duration": "12s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "Opening-frame reference"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@BrentLynch",
+        "url": "https://x.com/BrentLynch/status/2083020024340693185"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/BrentLynch/status/2083020024340693185"
+      ],
+      "prompt": "Use the supplied image as the exact opening frame. Create a hilarious, high-budget 1980s live-action family comedy movie scene, photographed on a real soundstage with practical robot costumes, animatronics, handmade props, vintage wardrobe, and authentic 35mm film color.\n\nThe entire group suddenly hears something above them. Everyone’s eyes dart upward at the same moment. The men, women, children, and robots dramatically tilt their heads back, point toward the ceiling, and erupt into chaotic celebration. They gasp, scream, laugh, jump, wave their arms, slap each other on the shoulders, and completely lose their minds with exaggerated 1980s comedy reactions. The children bounce excitedly. The adults stumble into one another. The robots flash their eyes, flap their mechanical arms, spin clumsily, and celebrate with funny practical animatronic movements.\n\nOne man shouts:\n\n“OPEN SOURCE?!”\n\nThe entire crowd answers together:\n\n“MINIMAX H3!”\n\nThey cheer wildly as one robot attempts a victory dance, loses its balance, and is caught by the shocked family at the final second.\n\nFast, energetic comic timing with believable ensemble choreography. Begin with a brief locked group shot, then a subtle handheld push-in as the chaos escalates. Keep every original person, robot, shirt design, and the large headline clearly recognizable. Preserve facial identity, wardrobe, composition, lighting, and 1980s production design.\n\nAuthentic optical softness, warm tungsten lighting, rich film grain, slight gate weave, practical effects, natural motion blur, expressive physical acting, polished studio-comedy sound mix, triumphant synthesizer sting, cheering, robot beeps, and comedic percussion.\n\nNo CGI, no digital-looking robots, no morphing, no extra people, no duplicated characters, no distorted faces, no rewritten text, no spelling changes, no modern clothing, no style shifts, and do not turn the scene into animation.\n\n@Hailuo_AI"
+    },
+    {
+      "slug": "radiantglo-skincare-commercial",
+      "title": {
+        "en": "RadiantGlo skincare commercial",
+        "zh": "RadiantGlo 护肤广告"
+      },
+      "description": {
+        "en": "A quiet-luxury skincare campaign moving from cool night ritual to warm morning product payoff.",
+        "zh": "从冷色夜间护肤仪式过渡到暖色晨间产品定帧的静奢广告。"
+      },
+      "category": "brand-film",
+      "mode": "multimodal",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "Creative brief"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@AIwithJessica",
+        "url": "https://x.com/AIwithJessica/status/2083013658230317082"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/AIwithJessica/status/2083013658230317082"
+      ],
+      "prompt": "The Brief: \"Jessy x RadiantGlo\"\n\n15 seconds. One face, one mask, one ritual — quiet luxury skincare.\n\nJessy stands at her mirror at night, cool blue light on her skin, studying her reflection before she says a word. She presses the remote, and the RadiantGlo mask blooms to life — red LED light rising from her jaw to her brow, glowing straight through the eye and mouth cutouts. No overlay, no CGI sheen, just real diffusion through real skin. A slow profile shot, cord resting naturally, breath audible in the silence. Macro push on her cheek — pores, peach fuzz, light catching under the surface. Then morning: she lifts the mask off, daylight replaces the red glow, and she walks through her sunlit apartment with nothing performed, just calm. Final beat: the mask alone on a matte surface, LEDs still glowing, logo catching the light — hero shot. Fade to black.\n\nCold nights fading into warm dawn color science throughout — think a skincare brand's flagship campaign, not an infomercial. Same face, same mask, same world, held together across every cut."
+    },
+    {
+      "slug": "8-bit-black-and-white-san-francisco-animation-325353",
+      "title": {
+        "en": "8-bit black and white San Francisco animation",
+        "zh": "黑白八位机旧金山动画"
+      },
+      "description": {
+        "en": "Controls a black-and-white 8-bit animation of San Francisco.",
+        "zh": "控制旧金山的黑白八位机像素动画。"
+      },
+      "category": "motion-graphics",
+      "mode": "text-to-video",
+      "duration": "10s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "San Francisco",
+        "8-bit animation",
+        "black and white"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@vercel_dev",
+        "url": "https://x.com/vercel_dev/status/2083007144111325353"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/vercel_dev/status/2083007144111325353"
+      ],
+      "prompt": "𝟾-𝚋𝚒𝚝, 𝚋𝚕𝚊𝚌𝚔 𝚊𝚗𝚍 𝚠𝚑𝚒𝚝𝚎 𝚊𝚗𝚒𝚖𝚊𝚝𝚒𝚘𝚗 𝚘𝚏 𝚜𝚊𝚗 𝚏𝚛𝚊𝚗𝚌𝚒𝚜𝚌𝚘"
+    },
+    {
+      "slug": "fire-dragon-and-rider-over-scorched-world-726278",
+      "title": {
+        "en": "Fire dragon and rider over scorched world",
+        "zh": "火龙与焰骑士掠过焦土世界"
+      },
+      "description": {
+        "en": "Controls a brief epic of a fire dragon and living-flame rider rising over a scorched world through smoke and sunset.",
+        "zh": "控制极短史诗画面：火龙与焰骑士穿越烟雾与落日，升上焦土世界。"
+      },
+      "category": "cinematic-story",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "fire dragon",
+        "flame rider",
+        "scorched world",
+        "sunset smoke"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@kulufly",
+        "url": "https://x.com/kulufly/status/2082970376745726278"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/kulufly/status/2082970376745726278"
+      ],
+      "prompt": "fire dragon and his rider of living flame,\nrising over a scorched world, cutting through smoke and sunset."
+    },
+    {
+      "slug": "handcrafted-paper-cut-stop-motion-short-512241",
+      "title": {
+        "en": "Handcrafted paper-cut stop-motion short",
+        "zh": "手工剪纸定格短片"
+      },
+      "description": {
+        "en": "Controls a handcrafted paper-cut stop-motion short that assembles an underwater cave, jellyfish, astronaut child, and helmeted cat piece by piece.",
+        "zh": "控制手工剪纸定格短片：逐片组装海底洞穴、水母、宇航员小孩与头盔白猫。"
+      },
+      "category": "viral-short",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "4:3",
+      "ingredients": [
+        "paper-cut underwater cave",
+        "glowing jellyfish",
+        "astronaut child",
+        "helmeted white cat"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@AiMeowing",
+        "url": "https://x.com/AiMeowing/status/2082964095410512241"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/AiMeowing/status/2082964098925355430"
+      ],
+      "prompt": "15-second cinematic stop motion animation in handcrafted paper cut style. Everything is physically assembled by invisible hands, one element at a time. Every object appears with authentic stop motion timing, tiny frame imperfections, subtle paper wobble, handmade placement, slight camera vibration, natural easing, tactile textures, soft shadows, and realistic depth. Nothing fades or morphs. Every piece is manually placed into the scene exactly like a professional stop motion production.\n\nScene begins with an empty dark navy paper background only.\n\n0-2s\nLarge crumpled blue paper sheets slide in from every edge and are pressed into place one after another, forming the underwater cave walls.\n\n2-4s\nPaper coral pieces appear individually from the bottom. Red coral, green seaweed, beige coral, pink coral, shells, pebbles and tiny bubbles are carefully placed one by one with visible handcrafted motion.\n\n4-6s\nThe glowing jellyfish is lowered from above. The bell lands first, then each tentacle is attached individually, gently bouncing. The jellyfish softly floats with slow natural stop motion movement.\n\n6-8s\nThe paper astronaut child slides into frame from the left. The body arrives first, then the helmet is placed on top with a tiny bounce. One arm rotates slightly as if reaching forward.\n\n8-10s\nThe white cat appears from below. The body is placed first, then the transparent helmet is carefully attached afterward. The tail makes a tiny handmade wiggle.\n\n10-12s\nSmall paper bubbles are added individually around both characters. Each bubble pops into place with slight stop motion jitter. The child and cat gently drift upward a few millimeters.\n\n12-15s\nThe complete underwater world comes alive. The jellyfish slowly pulses. Tentacles sway naturally. Sea plants lightly oscillate. Tiny bubbles continue rising. The astronaut child and cat subtly float together while holding position. Warm glow from the jellyfish softly illuminates nearby paper textures. Camera performs a slow cinematic push-in with realistic macro depth of field.\n\nPremium handcrafted stop motion, museum-quality paper art, tactile cardstock textures, realistic layered paper thickness, authentic frame-by-frame animation, tiny alignment imperfections, soft studio lighting, cinematic composition, macro photography, volumetric lighting, ultra detailed, emotionally warm, professional stop motion film, 15 seconds, no text, no watermark."
+    },
+    {
+      "slug": "lilia-astra-title-sequence",
+      "title": {
+        "en": "Lilia Astra title sequence",
+        "zh": "Lilia Astra 预告片头"
+      },
+      "description": {
+        "en": "A graphic anime trailer with exact title typography, hard cuts, magical props, and timed audio.",
+        "zh": "包含准确标题文字、硬切、魔法道具和定时音效的动画预告片头。"
+      },
+      "category": "title-sequence",
+      "mode": "reference-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "Character reference",
+        "Title copy",
+        "Japanese prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@haruuraeadss",
+        "url": "https://x.com/haruuraeadss/status/2082945363431080299"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/haruuraeadss/status/2082945363431080299"
+      ],
+      "prompt": "高品質アニメ映像。\nExpression progression: eyes -> brows -> eyelids -> mouth -> gaze.\n【参照画像とキャラクター固定】\nSame girl, same person, same identity in every shot. 画像1を、この少女の顔・目・髪型・髪色・衣装・装飾・体型・装備を含む唯一の最優先参照として使用する。\n全カットで、画像1と同じ一人の少女を厳密に維持する。\n\n画像1内の文字、UI、レイアウト、背景、ポーズ見本、表情一覧、および小さく描かれた顔の差異は参照しない。\n画像1に複数の表情差分や小さな顔見本が含まれていても、それらを別人として扱わず、同一人物のバリエーション情報としてのみ扱う。\n顔の平均化、別人化、衣装交換、複製、クローン、追加人物を禁止。\n許可する変化は、表情、視線、口元、ポーズ、呼吸、自然な髪・布の動きのみ。\n表情変化は必ず 「目 -> 眉 -> まぶた -> 口 -> 視線」 の順序で見せる。\n顔は画像1の\n小さく柔らかな卵型、繊細な顎、紫から青へ層状に変化する大きな虹彩、マゼンタとシアンの反射、多層のキャッチライト、細い上まつ毛、淡い肌、長い桃色のツインテール、斜め前髪、頭の紫花と濃紫リボン\nを厳密に維持する。\n\n衣装・装飾・体型・装備は画像1の\n深い紫のショートケープ、古金の縁取りと星花刺繍、白いフリルブラウス、黒紫のコルセット、ダークブラウンの革ベルト、短い重ねスカート、白いサイハイ、紫黒と古金のブーツ、紫水晶の胸飾り\nを維持する。\n 画像1で明確に確認できる形状・配色・材質を最優先し、不明瞭な箇所のみ同一デザインとして自然に補完する。\n小道具は、金の透かし彫りと紫水晶を持つダークブラウンの革装丁の魔導書、腰の紫色のガラス小瓶、紫水晶のチャーム。\n魔導書は一冊だけで、開始時は閉じており、常に左手で支え、右手だけで表紙を開き紙のページを一枚めくる。\nガラス小瓶とチャームは腰に固定したまま使用しない。\n\n【固定レンダリング：3D toon/cel-look】\n細く制御された色付き線画。線色は黒ではなく深い紫褐色。\n陰影は2〜3層のトゥーン影と柔らかな中間グラデーション。\n配色は桃色、深紫、白、古金、宝石のマゼンタを主軸にする。\n瞳は多層、髪は真珠質、金属と水晶は局所的な鋭いハイライト。\n肌はマット、髪は絹、ケープは織布、ブラウスは薄い白布、ベルトと魔導書は革、装飾は古金、宝石とガラス小瓶は透明結晶として材質を分離する。\n顔、まつ毛、髪束、フリル、金装飾、革、魔法図形、濡れた石床、真鍮扉、アーチ窓は高密度に描写する。\n太い輪郭線、単層だけの平坦なセル塗り、汎用的な3Dアニメ顔、滑らかなプラスチックCG素材、低密度背景、実写、半実写、鈍い色、画風混在を禁止。\n\n【世界とトーン】\n真夜中の王立魔導文書庫。\n濡れた黒い石床、背の高いアーチ窓、真鍮の星形錠、奥まで続く暗い書架。\n黒い余白、アイボリー、深紫、マゼンタ、古金の幾何学色面を使った映画ティザー。\n比率はサスペンス60%、ノワールジャズ40%。\n神秘的、都会的、冷静、俊敏。\nホラー、重い悲劇、陽気なジャズMVにはしない。\n物語の核は「魔導書の紋章から星が一つ盗まれた」。\n戦闘ではなく、少女が異変を発見し、残された魔法痕跡を追う瞬間を見せる。\n\n【カメラと編集設計】\nCamera state: position=three-quarter and over-shoulder; height=eye level then low angle; direction=tracks then push-in; subject scale=close-up to medium; vanishing axis=archive depth axis; purpose=to show the clue chain and reveal the missing star. Narrow split panels open into a vast archive space, creating a clear scale change.\nカメラは各動作の因果を見せるために動く。\n瞳の異変は極端な寄り、手掛かりの進行は左右非対称の分割画面、扉の解錠は低い追従、真相への接近は奥行き方向の押し込み、最後の決意は胸上の3/4正面で停止する。\n動きの最中も被写体を画面中央へ固定し続けず、斜め構図、前景遮蔽、奥行き差を使う。\nソフトディゾルブと液体モーフを使わず、すべて硬い切替、マスク、ワイプ、タイル再配置でつなぐ。\n黒画面にアイボリーの細い線が一本だけ引かれ、その線が画像1の右目の輪郭へ変わる。\n極端な顔の寄り。\n虹彩に映る魔導書の星花紋章から、星が一つだけ音もなく消える。\n\n少女は「目 -> 眉 -> まぶた -> 口 -> 視線」の順に、ごく小さな微笑みから警戒した静かな表情へ変わり、視線を画面右下の魔導書へ落とす。\n虹彩の円形反射が古い天文レコード盤のように回転し、硬い円形ワイプとなる。\n画面が左右非対称の二分割へスナップする。\n左の細いパネルには閉じた魔導書の金具の接写。\n右の大きなパネルには濡れた石床を進む彼女のブーツと長いケープの裾。\n深紫とマゼンタの色面、細い古金フレームが一片ずつ組み上がる。\n\n少女が右手の指先を魔導書の紫水晶の数センチ手前で止めると、水晶が一度だけ自発的に点灯し、その点灯を起点に細いマゼンタの魔法痕跡線が水晶から扉へ伸びる。\n扉は痕跡線が到達する前まで閉じたまま。\n痕跡線の先端が扉中央の星形錠の中心と正確に重なると、真鍮の錠が一度だけ回転して扉が垂直に開く。\n扉の縦線がそのまま硬い縦カットになる。\n開いた暗がりから、人物ではない平面的な長い影が石床を横切り、全画面を一度だけワイプする。\nこの影に顔、身体、立体感を与えない。\n影が抜けると、少女は左手で支えた一冊の魔導書を右手で開き、紙のページを一枚だけめくる。\n紙のページ端が次の画面を硬く切る。\n\nページには幾何学的な星図だけが浮かび、読める文字は出さない。\n三つの細いフレームがタイル状にスナップして、瞳の反射、星形錠、途切れたマゼンタの痕跡を同時に示す。\n少女は一歩だけ進み、低い背面カメラが肩越しまで上昇して、奥の巨大なアーチ窓と一点だけ欠けた星座を見せる。\n\n巨大な英字「A」の輪郭が画面外から滑り込み、その内部だけが次の映像を見せる硬い文字マスクになる。\n少女が右手の掌を上へ向けると、その掌の上に星花型の魔法陣が一つだけ展開する。\n魔法陣は古金の外周、マゼンタの細線、紫水晶色の中心で構成され、一点の星だけ黒く欠けている。\n\n欠けた一点から赤紫の直線が横へ走り、胸上の構図へ硬く切る。\nカメラが魔法陣から顔へ短く鋭く振る。\n少女は「目 -> 眉 -> まぶた -> 口 -> 視線」の順に異変を理解し、怯えず、静かな決意へ変わる。\n魔法陣を消し、右手で魔導書を閉じ、閉じた表紙へ右手を置く。\n魔導書の紫水晶と胸飾りだけが一度ずつ呼応して点灯する。\n最後は黒、深紫、アイボリーの矩形タイルが硬くスナップして一枚の画面を組み上げる。\n終端タイプはポーズロック（pose lock）。\n\n左に少女の胸上3/4正面、右に十分な黒い余白。\n右側に英字タイトル 「LILIA ASTRA: THE STOLEN STAR」 を一度だけ、完全に正しい綴りで表示する。\nその下に 「COMING SOON」 を一度だけ表示する。\nほかの文字、役職、名前、漢字、ひらがな、カタカナ、疑似文字、読めない記号は一切表示しない。\n少女は一冊の閉じた魔導書を左手で支え、右手を表紙に置いたまま静止する。\n平面的な影は画面右外縁で止まり、新しい要素は入らない。\n\nタイトルを二秒間完全に保持する。\n緊張した和音と一発のドラムヒットの余韻が終わる正確なフレームでカットする。\n【音響】\n完全オリジナルの15秒タイトル音楽。既存曲や既存メロディを模倣しない。\n\n低いドローン、緊張した弦のピチカート、冷たいシンセパルス、低いキック、疎らなブラシ、短いウォーキングベース断片、短いバリトンサックス、クリップしたブラスアクセント。\n冒頭は低域とハイハット。\n低いキックは3秒付近。\nジャズベースの動きは6秒付近。\n短いサックスとブラスのリフは10秒付近。\n13秒で緊張した和音と一発のドラムヒットを置き、その余韻を15秒まで保持する。\n\n台詞、ナレーション、歌唱なし。\n効果音は見える動作に同期し、その瞬間だけ鳴る。\n革装丁の魔導書が開閉する瞬間だけ、短い革のきしみ。\n紙のページ一枚がめくれる瞬間だけ、乾いた紙の音。\n真鍮の星形錠が回転する瞬間だけ、短く乾いた真鍮の鳴り。\n\nブーツが濡れた石床へ着地する瞬間だけ、湿った石床の足音。\nケープと髪が動く瞬間だけ、軽い布の擦れ。\n紫水晶が点灯する瞬間だけ、細い結晶共鳴音。\n材質を混同しない。\n【禁止】\n別人化、顔崩れ、目色変更、髪型変更、衣装簡略化、衣装交換、アクセサリー欠落、装備の増殖、魔導書の複製、手指破綻、余分な腕、追加人物、群衆、クローン、顔平均化、戦闘、爆発、流血、恐怖顔、悪霊、ホラー照明、実写化、半実写化、画風変化、太い輪郭線、低詳細背景、プラスチック質感、ソフトディゾルブ、液体モーフ、過剰な被写界深度、手ぶれ、読めない文字、綴り間違い、重複タイトル、字幕、ロゴ、透かし。"
+    },
+    {
+      "slug": "seamless-loop-cinematic-warrior-blade-reconstruction-513162",
+      "title": {
+        "en": "Seamless-loop cinematic warrior blade reconstruction",
+        "zh": "无缝循环武士刀刃重构"
+      },
+      "description": {
+        "en": "Controls a seamless-loop cinematic sequence where a locked swordswoman holds a blade that endlessly shatters into glass and reforms in her grip.",
+        "zh": "控制无缝循环电影段落：锁定女武者始终握剑，刀刃在掌中不断碎裂为玻璃再重构。"
+      },
+      "category": "cinematic-story",
+      "mode": "image-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "warrior character image",
+        "held sword",
+        "glass shard reconstruction",
+        "cyan-teal gradient backdrop"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@ogbenniasamuel2",
+        "url": "https://x.com/ogbenniasamuel2/status/2082934406910513162"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/ogbenniasamuel2/status/2082934524019912805"
+      ],
+      "prompt": "@Image1  15s | 16:9 | 1440p | 24fps | PERFECT SEAMLESS LOOP  [REFERENCE LOCK] Render exactly as @image1. Preserve the character exactly as shown. Do not redesign, reinterpret, or modify any aspect of her appearance.  Do NOT alter her hairstyle, bangs, facial proportions, eye color, expression, clothing, coat silhouette, sash placement, body proportions, sword guard, hilt ornament, blade length, or overall composition.  The character must always remain holding the sword throughout the entire sequence. The sword never leaves her hand.  ---  [LOOP DESIGN]  Create a mathematically perfect infinite loop.  Frame 1 and Frame 360 must match perfectly.  Maintain identical: • Pose • Camera angle • Lens • Lighting • Sword position • Character expression • Particle placement • Composition  The sword continuously shatters and reconstructs while remaining in the character's grip, creating an endless cycle with no visible transition.  ---  [COLOR PALETTE]  Background: Smooth vertical gradient  Top: Luminous Cyan-Teal (#2AA6B4)  Bottom: Deep Petrol (#0F4A55)  No environment. No horizon. No props. Only a clean cinematic graphic backdrop.  Character  Coat: Bright Coral (#FF9273)  Inner Garment: Deep Ocean (#14454E)  Hair: Natural black with subtle blue-white rim highlights.  Metal & Glass: Bright silver-white.  Accent colors appear ONLY through light refraction and chromatic dispersion.  Gold (#FFD27A)  Electric Cyan (#6FE3F5)  Soft Magenta (#FF9ED8)  The main palette must always dominate.  ---  [VISUAL STYLE]  Premium 2.5D Anime High-end cinematic illustration Ultra-clean rendering Feature-film quality  Bright high-key lighting  Elegant bloom  Sharp specular highlights  Volumetric glow  HDR dynamic range  Soft filmic contrast  Luminous skin with subtle subsurface scattering.  Heavy cotton twill coat with realistic cloth simulation.  Hair moves naturally in layered strands with soft flyaways.  Glass has authentic thickness, edge refraction, internal fracture lines, microscopic scratches, and realistic prism reflections.  ---  [EFFECTS]  Progressively increase visual intensity.  • Time Echo Motion Trails  • Liquid Mercury Blade Reconstruction  • Kaleidoscope Mirror Fractures  • Shockwave Refraction  • One-frame Negative Flash  • Glass Crack Frame Wipes  • Reverse Gravity Debris  • Chromatic Dispersion  • Dynamic Caustic Lighting  • Floating Crystal Dust  • High-speed Light Trails  • Micro Lens Distortion during impacts  Effects should evolve naturally and never become repetitive.  ---  [CAMERA]  Premium anamorphic cinema language.  85mm intimate close-ups  35mm cinematic medium shots  24mm aggressive dynamic movement  Oval bokeh  Blue anamorphic streak flares  Subtle barrel distortion  180-degree shutter  Depth of field shifts emotionally.  Shallow during hero moments.  Deep during action moments.  Rack focus:  Blade → Eyes at 2.4s  Blade → Eyes at 14.2s  Smooth cinematic easing with invisible acceleration.  ---  [LIGHTING]  Hard cinematic sunlight originates from screen-right behind the character.  Strong rim lighting illuminates  Hair  Jawline  Shoulders  Sword edge  Soft cyan bounce light fills from the background.  Floating shards cast constantly changing colored kick lights.  Shadows remain soft, open and cinematic.  Brightness peaks around 10.4 seconds before gradually returning to the exact opening lighting by 15 seconds.  ---  [SWORD ENGRAVING]  A finely engraved  CRYPTOSAM  appears on the ricasso directly above the sword guard.  Small letter-spaced capital letters carved directly into polished steel.  This engraving is part of the blade itself.  Never an overlay.  Visible in Frame One.  Visible throughout the animation.  Visible after every blade reconstruction.  The engraving catches the sunlight whenever the camera glides across the blade.  ---  [GLASS SHARDS]  Every shard reflects a different scene.  Examples include  Blue sky  Soft white clouds  Golden wheat fields  Warm sunset  Lens flares  The character's own reflection  Moments that have not yet happened  No empty glass.  Every fragment contributes to the visual storytelling.  ---  [KINETIC TYPOGRAPHY]  Typography exists behind the character on the gradient background.  Use only premium cinematic condensed sans-serif fonts.  Animated with  Impact slams  Scroll reveals  Prism sweeps  Glass shattering  Shockwave distortion  Perspective warping  Never cover the character's face.  Timeline  0.8s  \"REFLECTION\"  Coral → Gold  2.2s  \"A BLADE THAT BREAKS\"  \"AND REFORGES FOREVER\"  Pale Cyan → White  5.0s  \"ONE IMAGE\"  \"FIFTEEN SECONDS\"  White → Coral  7.2s  \"EVERY SHARD REMEMBERS\"  Cyan → Magenta → Gold  10.6s  \"NO CUT\"  Gold → White  Warp under expanding shockwave.  13.2s  \"MIRRORFALL\"  Silver → Pale Gold  Soft coral glow.  Typography completely dissolves before 15 seconds.  ---  [SHOT 01]  0.0–1.6s  LOOP ANCHOR  The character firmly grips the sword with both hands.  An ultra-fast macro camera races along the polished blade toward the hilt.  Cloud reflections glide across the steel.  An anamorphic flare slides along the cutting edge.  The engraved word  CRYPTOSAM  briefly catches the sunlight.  Without releasing the sword, the blade suddenly fractures into thousands of crystalline shards while the hilt remains firmly in her hands.  A glass-crack transition wipes into the next shot.  ---  [SHOT 02]  1.6–3.2s  BULLET-TIME ORBIT  Time freezes.  The character remains perfectly still while tightly holding the sword hilt.  The shattered blade floats in front of her hand.  The camera performs a smooth 180-degree orbit through the suspended crystal field.  Each shard reflects a different reality.  Reverse-gravity debris hangs motionless.  As the orbit finishes, time resumes and the floating shards accelerate back toward the hilt, beginning to reconstruct the blade directly in her grip."
+    },
+    {
+      "slug": "kaldr-cold-perfume-commercial-multi-reference-943073",
+      "title": {
+        "en": "KALDR cold perfume commercial multi-reference",
+        "zh": "KALDR 极冷香水多模态广告"
+      },
+      "description": {
+        "en": "Controls a multi-reference cold fragrance film combining bottle, brand lockup, beach location, character sheet, and a matched spoken-voice line.",
+        "zh": "控制多参考极冷香水片：瓶身、品牌锁图、黑沙滩、角色设定与对白音色精确对齐。"
+      },
+      "category": "product-commercial",
+      "mode": "multimodal",
+      "duration": "15s",
+      "aspectRatio": "640:271",
+      "ingredients": [
+        "KALDR bottle image",
+        "brand lockup image",
+        "volcanic beach location",
+        "spoken voice audio"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@abulu8",
+        "url": "https://x.com/abulu8/status/2082919486399943073"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/abulu8/status/2082919493060514051"
+      ],
+      "prompt": "REFERENCE USAGE:\nImage 1 — the KALDR bottle. Preserve the smoked charcoal glass, bevelled edges, pale blue liquid, brushed gunmetal cap and the etched silver KALDR mark exactly.\nImage 2 — the closing brand lockup. Preserve the letterforms, tracking, silver finish and the COLD KEEPS line exactly. It appears only in the final shot, alone on black.\nImage 3 — the location, palette, cloud, surf and film texture for the whole film.\nImage 4 — a three panel character sheet of the woman. Use it only to match her face, hair, frost detail and black greatcoat. Do not reproduce the sheet's panel layout, its grey backdrop or its flat studio lighting. She must appear as a single person inside the Image 3 environment, lit by that location.\nAudio 1 — the voice for the woman's spoken line. Match its timbre, pitch, accent, breathiness and pacing exactly. Use it only for her voice, not as background audio or ambience.\n\nPremium luxury fragrance brand film. Photoreal 35mm anamorphic, high contrast, fine grain, cold specular highlights, deep crushed blacks. Palette strictly black sand, gunmetal, glacial blue and silver, with no warm tones anywhere. Setting: a black volcanic beach on a northern coast at blue hour under heavy storm cloud. Tone: severe, violent, expensive. This is a fast, aggressive fashion edit, not a calm product film. Never slow, never ceremonial, never a slideshow of pretty holds.\n\n[0-1.5s] Cold open, no establishing shot. Camera at water level, lens half submerged, [Static shot]. A sheet of freezing surf races straight at the lens. Her boots stride hard into frame through the water, coat hem whipping. HARD CUT.\n\n[1.5-2.6s] Extreme macro insert. Frost crystals race across black glass and flood the etched KALDR mark with rime, filling the letters. HARD CUT.\n\n[2.6-4.2s] Behind her, low and close, [Tracking shot] pushing fast. She walks straight into an oncoming wave that towers over her, coat streaming sideways, never breaking stride. HARD CUT.\n\n[4.2-5.4s] Reverse, low angle from the water. The wave collapses over her. Camera [Shake] on the impact. Cut on the peak of the white spray. HARD CUT.\n\n[5.4-9s] SLOW MOTION. The wave freezes solid around her mid collapse. She stands inside a shell of blue black ice, the spray suspended in the air as a thousand hanging shards, her coat frozen mid snap, her face calm and unbothered. Camera [Tracking shot] orbits right through the suspended shards, holding her at centre. This is the hero image of the film.\n\n[9-9.8s] Snap back to real time. The ice shell detonates outward. Camera [Pull out] fast and hard through the exploding shards. HARD CUT.\n\n[9.8-12.6s] Tight close up, [Push in]. She walks out of the collapsing ice straight at the lens, ice water running off her coat, looking directly into camera. She says quietly: \"I was never meant to melt.\" She holds the look for a beat after the line. HARD CUT.\n\n[12.6-13.8s] The bottle alone, upright on wet black sand, shot low and close on a macro lens. Frost blooms outward from its base toward the lens. No text of any kind in this shot. HARD CUT.\n\n[13.8-15s] Pure black frame. The brand lockup from Image 2 appears alone, centred, exactly as in the reference. The wordmark KALDR emerges from darkness at low opacity, letter spacing opening over 0.4 seconds into sharp focus with a faint edge glow, and the line COLD KEEPS sits smaller beneath it. Nothing else is in this frame. Critical: the bottle, the woman, the beach and the wordmark must never share a frame. The lockup must never overlap or be occluded by the bottle, and the etched mark on the glass must never appear in the same shot as the lockup. Hold the lockup to the end.\n\nDialogue and lip sync: only one line is spoken, in the shot beginning at 9.8 seconds: \"I was never meant to melt.\" Match the voice in Audio 1 exactly, including its timbre, breathiness, pacing and the way the sentence lands without rising at the end. Do not substitute a different voice, do not add reverb or processing that changes its character. Her lip movement must match the words frame accurately and stop when the line ends. Her breath fogs on the words. Do not repeat the line and do not add any other spoken words anywhere in the film.\n\nPacing: hold every cut until its stated timecode and do not shorten the last two shots. The first four shots are fast and aggressive. The slow motion shot is the only long hold in the film. Everything after it is fast again.\n\nAudio: hard coastal wind, heavy surf, a low sub bass drone. At 5.8 seconds, one deep impact hit, a splintering glass freeze crackle and a reversed swell. Then cut the wind, the surf and all low end to complete silence from 6 seconds to 9 seconds, leaving only isolated ice ticks and faint crystal ring in that window. This silence is mandatory and must be obvious. At 9 seconds the full mix slams back in with a hard low kick and the crash of shattering ice into water. As she speaks, duck the wind, surf and low end so her voice sits forward and dry. The final second holds one sustained low string chord decaying into wind. No voiceover, no narrator, no lyrics, no recognisable melody.\n\nDo not add other people, boats, buildings, vehicles, modern objects, subtitles, on screen captions, watermarks, or any text other than specified. Do not warp or distort the bottle or the wordmark. No cartoon or plastic CGI water or ice. Keep skin texture real, no over smoothing. Never let the ice or spray form a face, eyes, or a creature."
+    },
+    {
+      "slug": "most-cinematic-scenes-challenge-742779",
+      "title": {
+        "en": "Most cinematic scenes challenge",
+        "zh": "极致电影感场景挑战"
+      },
+      "description": {
+        "en": "Controls an open-ended challenge to generate the most cinematic scenes possible.",
+        "zh": "控制开放式挑战：尽量生成最具电影感的场景。"
+      },
+      "category": "cinematic-story",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "960:407",
+      "ingredients": [
+        "cinematic scene",
+        "dramatic framing"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@JamianGerard",
+        "url": "https://x.com/JamianGerard/status/2082916440403742779"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/JamianGerard/status/2082916440403742779"
+      ],
+      "prompt": "The most cinematic scenes you can make."
+    },
+    {
+      "slug": "luxury-metallic-gown-desert-runway-fashion-ad-907132",
+      "title": {
+        "en": "Luxury metallic gown desert runway fashion ad",
+        "zh": "沙漠秀场金属礼服时尚广告"
+      },
+      "description": {
+        "en": "Controls a golden-hour desert runway fashion ad of a model in an iridescent metallic gown with aerial, orbit, and hero continuity.",
+        "zh": "控制黄金时刻沙漠秀场时尚广告：幻彩金属礼服模特配合航拍、环绕与英雄镜头连贯。"
+      },
+      "category": "product-commercial",
+      "mode": "text-to-video",
+      "duration": "12s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "high-fashion model",
+        "iridescent metallic gown",
+        "desert runway",
+        "golden-hour sun flare"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@noorwithwifi",
+        "url": "https://x.com/noorwithwifi/status/2082897758084907132"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/noorwithwifi/status/2082897758084907132"
+      ],
+      "prompt": "12s cinematic luxury fashion ad, 4K, 24fps, ultra-photorealistic. A high-fashion model in a flowing iridescent metallic gown walks along a minimalist desert runway at golden hour. Cinematic aerial, tracking, orbit, close-up, and hero shots with realistic cloth physics, flowing fabric, shimmering reflections, soft wind, golden sun flare, HDR lighting, Vogue-style editorial, seamless continuity, consistent face/outfit, no flicker, no warping, no extra limbs, fade to black."
+    },
+    {
+      "slug": "urban-street-superpowered-punch-action-sequence-712509",
+      "title": {
+        "en": "Urban street superpowered punch action sequence",
+        "zh": "都市街头超能力重拳动作"
+      },
+      "description": {
+        "en": "Controls a two-part urban action sequence where a beaten fighter transforms under golden-blue energy and demolishes goons with superpowered punches.",
+        "zh": "控制两段都市动作戏：落败斗士被金蓝能量改造，以超能力重拳击溃混混。"
+      },
+      "category": "cinematic-story",
+      "mode": "text-to-video",
+      "duration": "28s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "beaten fighter",
+        "golden-blue energy",
+        "urban street goons",
+        "shockwave punches"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@itsshara_ai",
+        "url": "https://x.com/itsshara_ai/status/2082892924694712509"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/itsshara_ai/status/2082892936963031405",
+        "https://x.com/itsshara_ai/status/2082892949470470492"
+      ],
+      "prompt": "PART 1 (0–15 SECONDS)\n\nLOCATION DETAIL: Gritty urban street at golden hour dusk. Wet concrete ground reflecting golden-orange light. Industrial concrete pillars and brick walls frame both sides. Metal railings visible. Golden-orange sky in background. Blue shadows cast across street creating high-contrast cinematic look. Volumetric dust particles floating in air catching light.\n\nCAMERA ANGLES & CINEMATOGRAPHY:\n\n0-1s: WIDE ESTABLISHING SHOT, camera positioned at street level, tilted slightly Dutch angle to show desperation. Slow dolly-in toward the fighter\n1-3s: LOW-ANGLE CLOSE-UP on beaten fighter's face as goons surround him. Camera slightly beneath eye-level looking upward at aggressive goons (makes them look menacing, him vulnerable)\n3-5s: OVERHEAD SHOT as golden-blue energy beam descends. Camera positioned directly above, looking down at the beam engulfing him\n5-7s: FAST 360-DEGREE ORBITAL CAMERA ROTATION around fighter during energy explosion. Energy aura visible radiating outward. Multiple angles showing transformation from all sides\n7-8s: EXTREME CLOSE-UP on fighter's face as eyes glow. Camera inches from face, eyes filling 60% of frame. Electricity crackling visible around eyes\n8-9s: LOW-ANGLE UPWARD SHOT as fighter stands fully transformed. Camera positioned beneath him looking up he now TOWERS over everyone. Shows dominance shift\n9-12s: DYNAMIC WHIP-PAN following first goon's charge. Camera pans rapidly to track movement, then HARD CUT to:\n12-14s: SLOW-MOTION SIDE PROFILE SHOT of devastating punch. Camera positioned at exact side angle to catch punch trajectory. Slow-motion impact  shockwave visible in air, goon's body reacting to force\n14-15s: TRACKING SHOT following goon flying backward. Camera moves with the goon's body trajectory, then IMPACT SHOT from goon's POV as he crashes into wall (camera shakes violently on impact)\n\nSTORY BEATS:\n\nA beaten-down fighter in torn shirt, bruises covering his face, blood dripping, is VICIOUSLY surrounded by three aggressive goons on a wet industrial street at golden hour. He's backed against a brick wall, barely defending himself as punches rain down. He's on the verge of collapse.\n\nSUDDENLY  a massive golden-blue energy beam EXPLODES down from the sky with CATACLYSMIC force. The beam engulfs him in blinding light. Massive ENERGY EXPLOSION  the entire street SHAKES, dust clouds ERUPT, volumetric fog fills the air.\n\nWhen the light clears, he stands COMPLETELY TRANSFORMED — eyes BLAZING with godly golden-blue power, energy aura RAGING violently around his entire body with visible electricity tendrils crackling, muscles VISIBLY ENHANCED and defined, face twisted in COLD RAGE and predatory intensity.\n\nHe breathes heavily, stares at the goons with KILLING INTENT. The goons freeze in ABSOLUTE TERROR.\n\nFirst goon CHARGES desperately forward. The fighter EXPLODES into motion with IMPOSSIBLE SUPERHUMAN VELOCITY. DEVASTATING PUNCH  fist CRACKS through air with SONIC intensity. SLOW-MOTION IMPACT  shockwave visible, goon's face CONTORTS in agony, blood SPRAYS, body LAUNCHES like ragdoll 20 feet backward, CRASHES through brick wall with BONE-CRUSHING force, debris ERUPTS everywhere.\n\nPART 2 -\n\nLOCATION DETAIL (Escalated): Same urban street, now a DEMOLITION ZONE. Concrete cracked and breaking. Brick wall partially destroyed from first impact. Metal railings BENT and snapping. Wooden crates and boxes SPLINTERED. Pillars showing cracks spreading. Golden hour light now more dramatic with darker blue shadows. Heavy dust and debris particles in air. Total DEVASTATION visible.\n\nCAMERA ANGLES & CINEMATOGRAPHY:\n\n15-17s: WIDE SHOT showing street arena. Camera pulls back to show scale of destruction and two remaining enemies. High-angle shot showing ground cracks\n17-19s: RAPID MULTI-ANGLE FIGHT EXCHANGE alternating extreme close-ups and medium shots. Fast cutting every 0.3-0.5 seconds matching fight tempo:\nClose-up on second goon's face as he launches kicks (intensity capture)\nLow-angle shot of fighter's parries\nHigh-angle overhead shot of exchange\nSide profile close-up on impact moments\n19-21s: MID-AIR GRAB SHOT from side angle as fighter lifts goon. Camera positioned at exact moment of lift showing superhuman strength\n21-22s: VIOLENT SLAM SHOT  camera positioned ground-level looking upward as goon is SLAMMED onto concrete. IMPACT slow-motion, cracks SPREAD like spiderwebs across ground, dust ERUPTS upward\n22-24s: THROW SEQUENCE  camera tracks throw trajectory. Goon FLIES through wooden crates, structures BEND and SHATTER, camera follows impact (tracking shot from side)\n24-26s: INTENSE FINAL FIGHT EXCHANGE with scarred leader. Rapid multi-angle cuts showing:\nLow-angle shot of fighter's punch\nHigh-angle overhead of counter-attack\nClose-up on scarred goon's face showing desperation\nMetal railings BENDING in background from force\n26-27s: EXTREME CLOSE-UP on fighter's fist as it CHARGES energy. Golden-blue glow INTENSIFIES, electricity CRACKLING violently around fist. Camera macro-level, glow filling entire frame\n27-28s: SLOW-MOTION FINAL PUNCH setup. Camera positioned LOW-ANGLE BEHIND punch trajectory. Fist PULLS BACK with godly force visible (air distorting around fist)\n28-29s: CATACLYSMIC IMPACT SLOW-MOTION. Camera positioned to capture scarred goon's face as punch connects. Eyes go WIDE in SHOCK, body CONTORTS from impact force, entire body LAUNCHED backward with EARTH-SHATTERING velocity\n29-30s: PILLAR DESTRUCTION SHOT camera positioned wide to show goon CRASHES through concrete pillar like PAPER, pillar EXPLODES into massive chunks, structure COLLAPSES, debris MUSHROOMS into air, dust cloud engulfs entire area. Final frame: TIGHT CLOSE-UP on fighter's face from straight-on angle. Eyes still BLAZING with power. Breathing HEAVILY, chest HEAVING. Energy aura SLOWLY FADES. Cold MERCILESS confidence in stare. Fade to black.\n\nSTORY BEATS:\n\nSecond goon attempts RAPID KICK COMBO  fighter PARRIES with BLINDING speed. Each block CRASHES with SONIC booms. GRAB  he SLAMS goon down VIOLENTLY onto concrete, CRACKS spread like spiderwebs. THROW goon FLIES through wooden boxes, metal structures BEND and SHATTER from impact force.\n\nThird goon  scarred leader, last hope  steps forward DESPERATELY. This is BRUTAL WARFARE. EXPLOSIVE hand-to-hand combat: PUNCH blocked, COUNTERATTACK devastating, SPINNING KICK with BONE-BREAKING force, GRAPPLE with SUPERHUMAN pressure. Ground SHATTERS beneath them. Metal railings BEND and SNAP. Every collision sends SHOCKWAVES across street.\n\nFINAL MOMENT  fighter CHARGES energy into fist. Fist GLOWS BLINDING GOLD-BLUE. Pulls back with GODLY FORCE. Unleashes CATACLYSMIC POWERED PUNCH.\n\nSLOW-MOTION IMPACT  scarred goon's body CONTORTS, eyes WIDE in SHOCK, LAUNCHED backward with EARTH-SHATTERING velocity, CRASHES THROUGH concrete pillar like PAPER, pillar EXPLODES into massive chunks, entire structure COLLAPSES, dust MUSHROOMS into air.\n\nFighter stands alone in TOTAL DEVASTATION. Breathing HEAVILY, chest HEAVING, eyes still BLAZING. Energy aura SLOWLY FADES. Stares DIRECTLY at camera with COLD MERCILESS confidence."
+    },
+    {
+      "slug": "pixar-style-mouse-adventure-3d-animation-582726",
+      "title": {
+        "en": "Pixar-style mouse adventure 3D animation",
+        "zh": "皮克斯风小鼠冒险动画"
+      },
+      "description": {
+        "en": "Controls a four-shot Pixar-style 3D short of an aviator-capped mouse leaping, parachuting, and landing in a moonlit pond.",
+        "zh": "控制四镜头皮克斯风 3D 短片：戴飞行帽的小鼠起跳、蒲公英伞飘落并在月光池塘着陆。"
+      },
+      "category": "anime",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "aviator mouse",
+        "giant mushroom forest",
+        "dandelion parachute",
+        "moonlit lily pad"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@sebatheepan",
+        "url": "https://x.com/sebatheepan/status/2082873433478582726"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/sebatheepan/status/2082873433478582726"
+      ],
+      "prompt": "{       \"clip_id\": \"animated_adventure\",       \"genre\": \"3D Animation / Pixar Style\",       \"total_duration\": \"15s\",       \"aspect_ratio\": \"16:9\",       \"style_keywords\": \"Pixar-style 3D animation, vibrant colors, expressive characters, cinematic lighting, whimsical, high detail textures\",       \"shots\": [         {           \"shot_num\": 1,           \"duration\": \"4s\",           \"prompt\": \"Wide shot of a tiny adventurous mouse wearing a leather aviator cap standing on the edge of a giant mushroom in an enchanted forest, giant flowers towering overhead, Pixar-style 3D animation, vibrant colors, soft cinematic lighting\",           \"camera\": \"low angle push in\",           \"transition\": \"hard cut\"         },         {           \"shot_num\": 2,           \"duration\": \"4s\",           \"prompt\": \"Medium shot of the mouse launching into the air on a dandelion seed parachute, floating through sunbeams, pollen particles sparkling around, joyful expression, 3D animated film style, warm golden light\",           \"camera\": \"tracking shot from below\",           \"transition\": \"match cut on motion\"         },         {           \"shot_num\": 3,           \"duration\": \"4s\",           \"prompt\": \"Dynamic action shot of the mouse swooping through a hollow log, fireflies lighting the way, exaggerated squash-and-stretch animation, motion blur on background, Pixar-style adventure sequence\",           \"camera\": \"POV following through tunnel\",           \"transition\": \"whip pan\"         },         {           \"shot_num\": 4,           \"duration\": \"3s\",           \"prompt\": \"Wide shot of the mouse landing triumphantly on a lily pad in a moonlit pond, ripples spreading outward, bioluminescent plants glowing, 3D animation, magical atmosphere, satisfied smile\",           \"camera\": \"crane shot rising up\",           \"transition\": \"end\"         }       ]     },"
+    },
+    {
+      "slug": "luxury-checkered-sports-coupe-night-to-dawn-commercial-451623",
+      "title": {
+        "en": "Luxury checkered sports-coupe night-to-dawn commercial",
+        "zh": "格子纹跑车夜到黎明广告"
+      },
+      "description": {
+        "en": "Controls a 16-panel night-to-dawn auto commercial locking one checkered coupe, one character, a grid reference, and background music audio.",
+        "zh": "控制十六格夜到黎明汽车广告：锁定同一格子纹跑车、同一角色、网格参考与背景音乐。"
+      },
+      "category": "product-commercial",
+      "mode": "multimodal",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "4x4 panel grid",
+        "checkered sports coupe",
+        "stern blonde driver",
+        "background music audio"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@shirawiggles",
+        "url": "https://x.com/shirawiggles/status/2082857595824451623"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/shirawiggles/status/2082857598802415992"
+      ],
+      "prompt": "High-end luxury auto commercial, cinematic night-to-dawn lighting, wet reflective surfaces, anamorphic lens flares, rich emerald green and deep black color grade, heavy film grain.\nUse  @Audio1 for background music\n\nUse the provided 4x4 grid as the only visual reference @Image1 . You must show ALL 16 panels from the grid in sequence. Lock the exact same character (blonde swept-back hair, stern heavy-browed face, green-and-black checkered haori) and the exact same green-and-black checkered sports coupe in every shot. Do not invent new shots or change anything.\n\n[TIMELINE - ALL 16 PANELS]\n0.0-0.9s: Panel 1 – Extreme wide rain-soaked city road with distant headlights and skyline\n0.9-1.8s: Panel 2 – Character standing arms crossed under streetlight\n\n1.8-2.7s: Panel 3 – Extreme close-up of character’s angry scowling face\n2.7-3.6s: Panel 4 – Character standing next to the checkered car under city lights\n3.6-4.5s: Panel 5 – Character walking toward the car from behind in the rain\n4.5-5.4s: Panel 6 – Close-up of hand gripping the door handle\n5.4-6.3s: Panel 7 – Character sitting in the driver’s seat, intense expression\n6.3-7.2s: Panel 8 – Dashboard and steering wheel close-up with green lights\n7.2-8.1s: Panel 9 – Low rear three-quarter shot of the car accelerating in the rain\n8.1-9.0s: Panel 10 – Side tracking shot of character driving the checkered car\n9.0-9.9s: Panel 11 – Car driving on mountain road at sunset\n9.9-10.8s: Panel 12 – Aerial/coastal highway shot of the car at sunset\n10.8-11.7s: Panel 13 – Character standing next to the car on rooftop with city skyline\n11.7-12.6s: Panel 14 – Character leaning on the car, arms crossed, hero shot\n12.6-13.5s: Panel 15 – Extreme close-up of the car’s front headlights and grille\n13.5-15.0s: Panel 16 – Character and car silhouetted against the rising sun\ncoherent character and vehicle identity across every cut 📷Image1 , cinematic color grade, heavy film grain, no artifacts, movie-level continuity, fast-paced 15-second commercial."
+    },
+    {
+      "slug": "dark-pop-trio-music-video-performance-with-on-screen-titles-931081",
+      "title": {
+        "en": "Dark-pop trio music-video performance with on-screen titles",
+        "zh": "暗黑流行三人组 MV 与标题"
+      },
+      "description": {
+        "en": "Controls a dark-pop trio performance with locked face and wardrobe identity plus photocopied title typography on hard-cut industrial beats.",
+        "zh": "控制暗黑流行三人组表演：锁定脸与造型，叠影印风标题，硬切工业节拍。"
+      },
+      "category": "music-video",
+      "mode": "reference-to-video",
+      "duration": "15s",
+      "aspectRatio": "569:640",
+      "ingredients": [
+        "trio identity image",
+        "title typography image",
+        "dark-pop performance",
+        "lyric lip-sync lines"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@ivanka_humeniuk",
+        "url": "https://x.com/ivanka_humeniuk/status/2082854898907931081"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/ivanka_humeniuk/status/2082854905476251967"
+      ],
+      "prompt": "15 seconds, 16:9 dark-pop music video performance. Use @Image 1 as the strict identity reference for the three women — faces, hair and wardrobe unchanged in every shot. Use @Image 2 as the reference for the two titles only: ultra-condensed heavy caps, bone white, photocopied print surface.  The three women perform and sing to camera throughout. Follow the beats below shot by shot with continuous natural camera movement and real physical motion inside every frame — this is live performance footage, never a slideshow, never a sequence of held poses.  VOCAL: a single female lead voice, gritty and low, close-mic'd with tape saturation. The lyric lines are: \"Dead air on the line\" — sung at 2.7 seconds \"Run it till it burns\" — sung at 6.0 seconds \"I don't slow down\" — sung at 10.0 seconds Lip-sync locks precisely to these lines on whichever woman is singing. Between the lines all three mouth along, breathe hard and move.  [0.0–2.7s] The three stand in near-blackness, sand-beige studio crushed dark. Handheld camera drifting slowly forward, breathing. The platinum-crop woman rolls her shoulders and steps toward lens. Her hair lifts. The auburn woman in mirrored shades tilts her head up. Real movement, low energy, building. Title over the darkness: \"DEAD AIR\".  [2.7–6.0s] The auburn woman in the mirrored shades sings the first line straight into the lens, medium-close, mouth clearly forming the words. Camera whip-pans off her to the platinum-crop woman mid-stride, then crash-zooms back. Hard cuts every 0.3 seconds. Bodies in constant motion — hair whipping, chains swinging, hips driving, hands reaching for camera. Single-frame white flashes between cuts.  [6.0–10.0s] All three together, performing hard. The chestnut-haired woman takes the second line, singing directly to lens while the other two move behind her, bodies loose and driving. Camera orbits the trio fast, then whip-pans, then handheld snap-zooms. Cuts every 0.2 seconds. Hair, fur and fishnet all moving. Faces alive, mouths working, sweat catching the light.  [10.0–12.7s] Slow down hard, two long shots. The chestnut-haired woman alone, medium-close, singing the third line slowly and holding eye contact with the lens all the way through. Camera almost still, only breathing. Her wet hair moves across her face. She finishes the line and her mouth stays slightly open.  [12.7–15.0s] Everything detonates. Flash cutting, single-frame plates, all three thrashing and singing at once, faces close to lens, black frames and inverted negatives between cuts. Camera whipping violently. Final title hammers in: \"AFTERBURN\". Cut hard to black with the music.  MUSIC: driving industrial dark-pop, distorted 808 kick landing at 2.7 seconds, full arrangement through 6.0 to 10.0 seconds with clipped brass stabs and heavy tape saturation, dropping to near silence and one breath at 12.0 seconds for a full second, then the final two seconds at full weight with one metallic crash on \"AFTERBURN\". The lead vocal sits forward in the mix. Do not imitate an existing melody.  Warm sand-beige studio sweep, hard raking light from camera-left, Kodak Portra 400 grain, tape dropout, scanline tear, chromatic fringing, light leaks. Hard cuts only, full speed throughout, every shot carrying real motion. Titles spelled exactly as written, English only."
+    },
+    {
+      "slug": "3x3-contact-sheet-female-rapper-grid-performance-672833",
+      "title": {
+        "en": "3x3 contact sheet female rapper grid performance",
+        "zh": "九宫格女说唱歌手同屏表演"
+      },
+      "description": {
+        "en": "Controls a fixed 3x3 contact-sheet grid where nine locked portraits of one female rapper animate in-panel to a shared hip-hop beat.",
+        "zh": "控制固定九宫格样片：同一女说唱歌手的九幅锁定肖像在格内随同一嘻哈节拍表演。"
+      },
+      "category": "music-video",
+      "mode": "image-to-video",
+      "duration": "12s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "3x3 contact sheet",
+        "female rapper identity",
+        "nine location panels",
+        "hip-hop call-and-response"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@lukasersil",
+        "url": "https://x.com/lukasersil/status/2082847686185672833"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/lukasersil/status/2082847686185672833"
+      ],
+      "prompt": "Use @Image 1 as the exact opening frame. It is a 3x3 contact sheet of nine separate portraits of the same female rapper, each in a different location. Treat every panel as its own live video cell with its own camera, lighting and performance. 12 seconds, 16:9.  Keep the grid absolutely fixed for the entire shot: identical panel positions, identical panel sizes, identical white gutters, no zoom, no pan, no rotation, no drift of the grid itself. Only the content inside each panel may move. Preserve each panel's identity exactly: same face, same hair, same wardrobe, same jewellery, same background as in @Image 1. Panel 1 stage with mic, panel 2 graffiti alley, panel 3 studio console with bandana, panel 4 rooftop with pink car, panel 5 roller shutter with bucket hat and chains, panel 6 purple club, panel 7 sunset rooftop with braids, panel 8 neon alley, panel 9 black backdrop close-up.  [0.0-1.2s] All nine panels sit almost still like breathing photographs, only micro-movement: hair drift, blinking, smoke, light flicker. A low sub-bass swell rises. [1.2-3.0s] The beat drops. Panel 1 raps to camera: \"MiniMax.\" Panel 5 answers: \"H3.\" The other seven nod on the beat. [3.0-5.0s] Panels 2, 3 and 7 trade the line one after another: \"New drop.\" Each one takes the beat, the rest bounce in rhythm. [5.0-7.5s] Panels 4, 6, 8 and 9 answer: \"Go and try it.\" Hands move, chains swing, ad-libs. [7.5-10.0s] All nine perform in unison, tightly lip-synced toH3, go and try it.\" [10.0-11.3s] The beat stops dead. In one synchronized move all nine raise a hand into a finger-gun aimed straight at the camera, chin down, hard contact. [11.3-12.0s] They fire the imaginary shot on a single low hit, a tiny recoil ripples through all nine panels at once, then freeze.                Audio: one continuous hip-hop beat across all panels, roughly 92 BPM, deep 808 sub, crisp trap hats, sparse hand claps. Female voice, confident, slightly playful, not aggressive. Layer nine slightly detunedn section for a choir effect. End on one low hit plus a shorttail of room tone.  Keep the lip-sync accurate to the words in every speaking panel. No subtitles, no on-screen text, no captions, no logos, no watermarks. No panel may drift, crossfade, resize or swap places. Do not add people. Dreen single shot at any point."
+    },
+    {
+      "slug": "strawberry-seasonal-match-cut-food-commercial-117943",
+      "title": {
+        "en": "Strawberry seasonal match-cut food commercial",
+        "zh": "草莓四季匹配剪辑食品广告"
+      },
+      "description": {
+        "en": "Controls a macro food commercial of one falling strawberry held fixed on screen while seasons match-cut around it into winter cream splash.",
+        "zh": "控制微距食品广告：一颗下落草莓画面位置锁定，四季场景匹配剪辑环绕并坠入冬日鲜奶油。"
+      },
+      "category": "product-commercial",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "92:39",
+      "ingredients": [
+        "ripe strawberry",
+        "white ceramic bowl",
+        "four seasonal sets",
+        "cream splash landing"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@HBCoop_",
+        "url": "https://x.com/HBCoop_/status/2082827829172117943"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/HBCoop_/status/2082827841390198845"
+      ],
+      "prompt": "Premium food commercial. Extreme macro shot of a single ripe strawberry falling toward a white ceramic bowl. Before it lands, the environment changes through four seamless seasonal match cuts: a sunlit spring greenhouse, a hot summer picnic, an autumn kitchen and a candlelit winter dining room. The strawberry stays in exactly the same screen position, size, orientation and downward motion through every transition. It lands in fresh cream during the winter scene, sending one graceful crown-shaped splash upward. Photorealistic food texture, high-speed product cinematography, clean commercial lighting. Each season has distinct environmental sound, but one continuous musical phrase connects the entire sequence. No hands, labels or additional fruit."
+    },
+    {
+      "slug": "pizza-night-ugc-domino-s-vlog-197798",
+      "title": {
+        "en": "Pizza night UGC Domino’s vlog",
+        "zh": "披萨之夜 UGC 开箱 Vlog"
+      },
+      "description": {
+        "en": "Controls a handheld iPhone-style UGC pizza-night vlog that keeps the uploaded Domino’s pizza look identical across jump cuts.",
+        "zh": "控制手持 iPhone 风格的披萨之夜 UGC Vlog，并在硬切中保持上传的达美乐披萨外观一致。"
+      },
+      "category": "vlog",
+      "mode": "reference-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "Domino's pizza product",
+        "lifestyle vlogger",
+        "pizza box open",
+        "cheese pull bite"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@ShamiWeb3",
+        "url": "https://x.com/ShamiWeb3/status/2082799917140197798"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/ShamiWeb3/status/2082799917140197798"
+      ],
+      "prompt": "VIDEO PROMPT — \"Pizza Night Vlog\" (UGC iPhone Style)\n\nDuration: 15 seconds | Aspect Ratio: 16:9 | Style: Authentic UGC / iPhone selfie-vlog, handheld, natural light, slight motion blur, TikTok/Reels energy — NOT cinematic, NOT overly polished. Feels like a real creator filmed this on their phone.\nProduct Reference: Use the uploaded Domino's Pepperoni Pizza image as the only product reference. Keep crust thickness, cheese texture, bake color, pepperoni placement, and proportions identical in every cut — no redesigning the pizza.\nCamera: iPhone 15 Pro front + back camera switching, handheld, natural wobble, autofocus hunting slightly (realistic), vertical-style framing cropped to 16:9, occasional finger near lens edge, natural room lighting + phone flash reflections on the pizza box.\n\nCharacter Description\n\nName (for reference): Mia\n\nAwoman in her mid-20s, naturally attractive and beautiful with an approachable, girl-next-door charm — not overly done up. Wavy sandy-blonde hair pulled back loosely, light natural makeup, wearing a cozy oversized cream sweater. Warm, genuine smile, expressive eyes, casual energetic personality like a real lifestyle vlogger. Sits in a softly lit modern kitchen/living room.\n\nShot Breakdown\nSHOT 1 (0–2s) — The Grab\n\nSelfie-angle, she's mid-laugh holding up the Domino's box to camera. Quick jump cut. Dialogue: \"Okay so it's officially pizza night—\"\n\nSHOT 2 (2–4s) — The Open\nCut to overhead handheld shot, box flips open, steam rising off the pizza, slight camera shake as she leans in.\n\nSHOT 3 (4–6s) — The Zoom\nQuick zoom-punch into the pizza, phone camera autofocus adjusts naturally, cheese and pepperoni in focus, ambient kitchen sounds.\n\nSHOT 4 (6–8s) — The Pull\nCut to her hands lifting a slice, natural cheese pull, filmed from a slightly low candid angle like a friend filming across the table.\n\nSHOT 5 (8–10s) — The Reaction\nCut back to selfie-cam, she takes a bite, eyes widen, quick genuine reaction. Dialogue: \"Oh my god, that's so good.\"\n\nSHOT 6 (10–12s) — The Candid Cutaway\nJump cut to a close, slightly shaky shot of the pizza box on the counter, her hand grabbing another slice off-frame, casual b-roll energy.\n\nSHOT 7 (12–14s) — The Wrap-Up\nBack to selfie angle, she grins at camera, holding slice up like a toast. Dialogue: \"Dominos, y'all know what to do.\"\n\nSHOT 8 (14–15s) — End Tag\nQuick freeze/cut to the box logo close-up, natural handheld wobble, soft text overlay in casual font: \"pizza night = solved 🍕\" — cut to black.\n\nLook & Feel\nWarm indoor lighting, slightly grainy natural phone sensor look, imperfect framing, real reactions, minimal dialogue (3 short lines total), authentic pacing with hard jump cuts instead of smooth transitions.\n\nNegative Prompt\n\ncinematic grade, overly smooth camera moves, studio lighting, professional voiceover, staged acting, CGI look, plastic cheese, distorted pepperoni, extra fingers, warped hands, text glitches, logo distortion, overly polished commercial feel."
+    },
+    {
+      "slug": "watercolor-anime-fetish-montage-rapid-cuts-335119",
+      "title": {
+        "en": "Watercolor anime fetish montage rapid cuts",
+        "zh": "水彩动画感官蒙太奇快切"
+      },
+      "description": {
+        "en": "Controls a vertical watercolor anime fetish montage of rapid macro body details interleaved with symbolic temperature-and-heartbeat b-roll.",
+        "zh": "控制竖屏水彩动画感官蒙太奇：高速身体微距与象征温度、心跳的 B-roll 交替快切。"
+      },
+      "category": "anime",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "9:16",
+      "ingredients": [
+        "watercolor anime style",
+        "macro body details",
+        "symbolic b-roll inserts",
+        "half-second hard cuts"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@yachimat_manga",
+        "url": "https://x.com/yachimat_manga/status/2082799648528335119"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/yachimat_manga/status/2082799651237843119"
+      ],
+      "prompt": "style:\n  visual: \"日本の水彩画風フルカラーアニメ\"\n  editing: \"0.5秒おきの高速カット割り\"\n  animation: \"作画枚数多め、滑らかな24fps\"\n  tone: \"官能的だが直接的にはせず、温度・湿度・心拍を映像化する\"\n\nproject:\n  id: \"fetish_montage_v3_with_broll\"\n  format: \"vertical_9x16\"\n  fps: 24\n  shot_duration: \"0.5s\"\n  total_shots: 28\n  total_duration: \"14s\"\n  ratio: \"fetish 22 : b-roll 6（約3.5:1）\"\n\nbroll_philosophy:\n  role: \"呼吸・象徴・感情の外部化\"\n  placement: \"フェチ的なカットが連続した直後、または感情の転換点\"\n  rule: \"直接的な性的表現は避け、心拍・温度・湿度・緊張を伝える\"\n\nbroll_categories:\n  nature_micro:\n    - \"雨粒が窓を一筋伝う\"\n    - \"蝋燭の炎が揺れる。息で消えそうな瞬間\"\n    - \"氷が割れる音と共に、ひびが走る\"\n    - \"花弁が一枚、テーブルへ落ちる\"\n    - \"蜘蛛の巣の水滴が揺れる\"\n    - \"煙草の灰が静かに落ちる\"\n    - \"湯気が立ち上り、消える\"\n    - \"夜の街灯の周りを虫が一匹飛ぶ\"\n\n  object_symbol:\n    - \"壁時計の秒針のアップ。止まりそうに見える\"\n    - \"コーヒーの黒い表面に天井が映る\"\n    - \"床に脱ぎ捨てられた靴。片方だけ\"\n    - \"誰もいないベッドの皺\"\n    - \"鳴り続ける電話。誰も出ない\"\n    - \"灰皿の吸い殻が二本。片方には口紅\"\n    - \"ドアの隙間から漏れる光\"\n    - \"鏡に映る空の椅子\"\n\n  texture_landscape:\n    - \"夜の濡れた路面。ヘッドライトが滲む\"\n    - \"ネオンサインのフリッカー\"\n    - \"シーシャの炭が赤く脈打つ\"\n    - \"金属表面に映る歪んだ顔\"\n    - \"革張りソファに沈む手の跡\"\n    - \"湯船の水面が揺れる\"\n\n  body_abstract:\n    - \"心臓の鼓動に合わせ、布団が微かに上下する\"\n    - \"人物の影だけが壁を伝う\"\n    - \"ガラス越しの人物の輪郭。ピントがずれる\"\n    - \"水滴の中に顔が映り込む\"\n\nsequence:\n  - id: 01\n    type: \"fetish\"\n    action: \"髪を持ち上げ、うなじを晒す\"\n    scale: \"macro\"\n\n  - id: 02\n    type: \"fetish\"\n    action: \"下唇を噛み、ゆっくり離す\"\n    scale: \"extreme_macro\"\n\n  - id: 03\n    type: \"b-roll\"\n    category: \"object_symbol\"\n    action: \"壁時計の秒針が、カチッと一秒進む\"\n    intent: \"時間の伸縮を意識させる\"\n\n  - id: 04\n    type: \"fetish\"\n    action: \"袖口のボタンを外し、袖を一度まくる\"\n    scale: \"macro\"\n\n  - id: 05\n    type: \"fetish\"\n    action: \"襟がわずかにずれ、鎖骨に影が落ちる\"\n    scale: \"macro\"\n\n  - id: 06\n    type: \"fetish\"\n    action: \"グラスの縁を指先でなぞる。結露が一滴落ちる\"\n    scale: \"extreme_macro\"\n\n  - id: 07\n    type: \"b-roll\"\n    category: \"nature_micro\"\n    action: \"蝋燭の炎が、一度だけ大きく揺れる\"\n    intent: \"呼吸の比喩。緊張のピーク\"\n\n  - id: 08\n    type: \"fetish\"\n    action: \"イヤリングを外す。直後に髪が肩へ落ちる\"\n    scale: \"macro\"\n\n  - id: 09\n    type: \"fetish\"\n    action: \"ヒールから足が抜ける\"\n    scale: \"macro\"\n\n  - id: 10\n    type: \"fetish\"\n    action: \"喉が小さく動く。嚥下\"\n    scale: \"extreme_macro\"\n\n  - id: 11\n    type: \"b-roll\"\n    category: \"texture_landscape\"\n    action: \"シーシャの炭が、脈打つように赤く光る\"\n    intent: \"心拍の外部化\"\n\n  - id: 12\n    type: \"fetish\"\n    action: \"口元から煙をゆっくり吐く\"\n    scale: \"macro_side\"\n\n  - id: 13\n    type: \"fetish\"\n    action: \"薄手の布越しに、肩甲骨が静かに動く\"\n    scale: \"macro_back\"\n\n  - id: 14\n    type: \"fetish\"\n    action: \"ペンのキャップを歯で咥え、ゆっくり引き抜く\"\n    scale: \"extreme_macro\"\n\n  - id: 15\n    type: \"b-roll\"\n    category: \"body_abstract\"\n    action: \"布団が呼吸に合わせて微かに上下する\"\n    intent: \"緊張の小休止。まだ続くという予告\""
+    },
+    {
+      "slug": "swimming-strokes-aesthetic-showcase-832514",
+      "title": {
+        "en": "Swimming strokes aesthetic showcase",
+        "zh": "四种泳姿美学展示"
+      },
+      "description": {
+        "en": "Controls a slow-motion pool showcase that cycles breaststroke, backstroke, freestyle, and butterfly via underwater rolls with a locked swimmer identity.",
+        "zh": "控制泳池升格美学片：在锁定泳者身份下以水中滚转依次完成蛙、仰、自、蝶四式。"
+      },
+      "category": "cinematic-story",
+      "mode": "image-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "swimmer identity",
+        "endless lane pool",
+        "four swimming strokes",
+        "underwater hair motion"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@johnAGI168",
+        "url": "https://x.com/johnAGI168/status/2082798969499832514"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/johnAGI168/status/2082798969499832514"
+      ],
+      "prompt": "【风格】游泳姿态美学展示（Swimming Strokes Showcase），电影感写真质感（16:9 Cinematic, Photorealistic），高速摄影升格（Super Slow-mo），阳光泳池通透水蓝影调，长发水中飘动的唯美运动风\n【时长】15秒\n【场景】一条极长的泳道，向远处延伸看不到尽头，阳光透过玻璃顶棚斜射入水，在池底投下晃动的光网，水质通透碧蓝，画面里没有出发台、记分屏等比赛元素\n【角色】主角@图片1\n【结构机制】四种泳姿依次展示，切换全部在水中完成：靠身体滚转（Roll）或下潜滑行（Underwater Glide）自然过渡，不触壁、不转身，一条泳道游到底；每种泳姿约3秒，配一个专属机位和标志性画面\n\n[00:00-00:02.5] 开场：入水滑行（The Glide）\n侧面水下机位：她从池边轻盈跃入，身体呈流线型在水下滑行，长发在身后完全舒展开像一片黑色的绸缎，气泡串从指尖向后飞，阳光光柱扫过她的身体。\n【音效】入水一声轻\"唰\"，水下低频的宁静嗡响。\n\n[00:02.5-00:05.5] 第一式：蛙泳（Breaststroke）\n正面低水位机位：她浮出水面开始蛙泳，双臂对称外划、双腿蹬夹，身体一收一展从容优雅，每次抬头换气露出全脸，湿发贴在颊边，身前推出一圈圈弧形波纹缓缓荡向镜头。\n【音效】\"呼——蓬\"的舒缓划水节奏，换气声轻而清晰。\n\n[00:05.5-00:08.5] 第二式：滚转变仰泳（Roll → Backstroke）\n她在水中侧身一滚翻成仰面——切头顶俯拍机位：她脸朝上漂游，双臂轮流向后划出风车弧线，长发在头后的水里散成一片扇形随波摆动，眼睛望着顶棚光影，嘴角带笑，水珠从抬起的指尖甩落。\n【音效】滚转一声水响，之后是左右交替的轻快划水声。\n\n[00:08.5-00:11.5] 第三式：滚转变自由泳（Roll → Freestyle）\n她再侧滚翻回俯身——切侧面平行跟移机位：双臂交替抡水向前，侧脸贴水换气，打腿踢出细碎白沫，速度感起来，发丝随每次转头在水面甩出弧线，身后拉出一条长长的浪花尾迹伸向泳道深处。\n【音效】划水声变得连贯有力，节奏渐快。\n\n[00:11.5-00:14] 第四式：蝶泳压轴（Butterfly, Super Slow-mo）\n正面水面机位升格：她双臂同时抡起越过头顶，胸背波浪起伏，每次划水在身前炸开一对对称的水花翅膀，水珠悬在阳光里发亮，抬头换气瞬间水从下颌成帘滑落，长发向后甩出一道水弧。\n【音效】升格段\"哗——哗——\"的划水鼓点被拉长，水珠洒落如碎铃。\n\n[00:14-00:15] 收尾：下潜定格（The Descent）\n她顺势下潜，切水下机位：身体在光网里舒展成一条线滑行，长发向后飘散，她回头望向镜头露出笑容，气泡从唇边升起，画面定格。\n【音效】水声归于宁静的低频嗡响，定格配一声上扬收束音。\n\n【备注】四种泳姿姿态必须分明：蛙泳对称蹬夹、仰泳面部朝上、自由泳交替划臂、蝶泳双臂同步波浪推进；泳姿切换只用水中滚转或下潜滑行完成，全程不出现池壁；长发是贯穿全片的美学元素，每个镜头都要有发丝在水中或水面的动态"
+    },
+    {
+      "slug": "greenhouse-tea-isekai-anime",
+      "title": {
+        "en": "Greenhouse tea isekai anime",
+        "zh": "温室红茶异世界动画"
+      },
+      "description": {
+        "en": "A detailed Japanese anime sequence with locked character design, precise transformations, typography, and sound.",
+        "zh": "锁定角色设计、精确变形、文字和声音的日语高细节动画片段。"
+      },
+      "category": "anime",
+      "mode": "reference-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "Character reference",
+        "Japanese prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@haruuraeadss",
+        "url": "https://x.com/haruuraeadss/status/2082798959014064531"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/haruuraeadss/status/2082798959014064531"
+      ],
+      "prompt": "高品質アニメ映像。\n\n作品トーンと世界観は、透明感のある夏のガラス温室から、紅茶の渦の内側に存在するオリジナルの小さな不思議の国へ連続する、上品で夢幻的な叙情ファンタジー。澄んだ白、水色、琥珀色、淡い金色を主役にし、怖さや混沌ではなく、好奇心、浮遊感、静かな高揚を描く。今回は1枚のソース参照画像image1のみを使用し、image1をキャラクター、衣装、2D手描き画風、配色、現実側のガラス温室背景の唯一の参照として扱う。\n\n【同一人物固定】\nimage1と完全に同じ一人の少女を全編で維持する。小さく繊細な同じ顔立ち、大きな青緑色の宝石のような瞳、同じ目の形、多層の虹彩と白いキャッチライト、淡い頬、細いまつ毛、真珠のような白銀髪、柔らかな長いウェーブ、編み込みを含むまとめ髪、淡い金色のリボン、青い雫形の髪飾りを固定する。表情変化でも目、眉、まぶた、口、視線の順を守る。白い長袖のハイネックドレス、淡い水色の刺繍と縁取り、淡い金色の腰リボン、華奢で上品な体格、白・水色・淡い金色の人物固有配色を変えない。現実の温室と不思議の国に同時に複数の少女を存在させず、光学トランジションの前後で同じ一人の少女として連続させる。変えてよいのは表情、視線、呼吸、歩行、手の動き、髪と袖とスカート裾の自然な揺れだけ。別人化、顔の平均化、衣装変更、装飾欠落、分身、余分な人物、既存作品を想起させる有名キャラクターを出さない。\n【2D hand-drawn／2D手描き画風固定】\nimage1の細く淡い青灰色と暖灰色の線、透明感のある二層以上の色影、柔らかなグラデーション、白・ミルキーブルー・澄んだ空色・琥珀色・淡い金色の明るい配色を全編で維持する。白銀髪の真珠質ハイライト、瞳の多層反射、肌の淡い発光感、ドレスの皺と刺繍、花、葉、ガラス、白い家具、床タイル、紅茶まで高密度の手描き筆致で描く。布は柔らかく、ガラスは透明で硬質、紅茶は澄んだ琥珀色、異世界の道と建築は半透明の白いガラス質として素材を描き分ける。太い輪郭にしない。簡略TVアニメにしない。平坦な単層セル影にしない。低密度背景にしない。滑らかなCG・3Dにしない。半写実にしない。実写にしない。くすんだ色や画風混合にしない。\n\n【舞台と小物固定】\n現実側はimage1と同じ明るいガラス温室。白い窓枠と屋根骨格、青空と白い雲、外の緑と白い花、白い丸テーブル、白い金属椅子、淡い青灰色の床タイルを維持する。開始時はimage1の少女の顔、目、髪、衣装、温室背景、白・水色・淡い金色の配色、明るさ、柔らかなコントラストを維持し、追加される小物はティーポットだけ。小物の所有者はimage1の少女一人だけ。透明なガラスのティーポット一つ、透明なティーカップ一つ、透明なソーサー一つだけを使う。開始状態ではティーカップはソーサー中央に置かれ、底に浅い琥珀色の紅茶が入っている。少女は右手でティーポットの取っ手を持ち、左手はソーサーの横へ軽く添える。ティーポット、カップ、ソーサーを増殖、交換、変形させない。不思議の国ではこれらを人物や巨大な小道具として複製しない。\n少女の表情は、目→眉→まぶた→口→視線の順に変化させる。まず左右の目の中にある小さなキャッチライトがわずかに明るくなり、次に眉が少し上がり、その後まぶたが柔らかく開き、口元に小さな驚きと微笑みが生まれ、最後に視線が渦の中心へ下がる。反射線、窓枠、光点を顔中央へ重ねず、顔と両目を常に明瞭に保つ。\n\n最初のカメラ高は白い丸テーブルと同じ低い位置。少女の斜め前から、手前にティーカップとソーサーを大きく、奥に少女の胸上と顔を明瞭に置く。背景消失軸は床タイルと右側の窓枠が温室奥へ斜めに伸びる方向へ揃える。この構図の目的は、少女、ポット先端、カップ中央の着水点を最初の一画で同時に読ませること。\n少女が右手首だけをゆっくり傾けると、ティーポットの先端から一筋だけの琥珀色の紅茶がカップ中央へ落ちる。ポット先端、液体の筋、着水点を一画で読み取れるようにし、紅茶はテーブル外へこぼれない。この着水点を変化の起点とする。着水点から一つの時計回りの渦が生まれ、青空の反射と淡い金色の日差しを巻き込みながら、琥珀、青、白の三色の螺旋へ育つ。\n\nカメラはテーブルと同じ低い位置からカップの斜め上へ滑らかに上がり、人物サイズを胸上の中景から背景の顔が読める近景へ保ったまま、紅茶面へ近づく。背景消失軸は温室奥から円形のカップ中央へ収束させる。この移動の目的は、現実の着水点を異世界への案内線へ変えること。\n\n螺旋の半分がまだ琥珀色の紅茶、もう半分が細い光の道になっている形成中の中間状態を短く明瞭に見せる。続いて螺旋が画面全体を満たした瞬間、その同じ回転方向、曲率、色の並びを保ったまま、一本の光の道へ完成する。暗転、瞬間移動、破裂、液体の中を溺れる表現にせず、紅茶面から異世界の俯瞰へ連続する光学的な形状一致として接続する。\n\n変化後の完成状態である不思議の国は、傾いた白いガラスの庭道、空中でゆっくり反転する白い花壇、輪のように連なる温室アーチ、上下が穏やかに入れ替わる空色の庭で構成する。文字盤、数字、看板、動物、人型住民は出さない。\n\nカメラ高は少女の胸より少し低い位置へ移り、同じ少女の斜め前を後退しながら、胸から膝までの中景で追従する。背景消失軸は琥珀と青の光の道が円形アーチの奥へ伸びる方向へ揃える。この移動の目的は、紅茶の渦だった曲線が少女を導く冒険路へ変わったことを読ませること。\n\n少女は光の道に沿って軽やかに三歩進み、第一歩で傾いた庭道へ乗り、第二歩で浮かぶ白い床片を渡り、第三歩で円形のガラスアーチをくぐる。各足裏を順に接地させ、髪、袖、スカート裾は歩みより少し遅れて同じ風向きへ揺れる。滑走、飛行、急回転に見せない。\n\n少女がアーチをくぐると、周囲の白い花が外側から順に淡い水色へ染まり、頭上のガラス骨格がゆっくり四分の一回転して上下の庭をつなぐ。少女自身は直立を保ち、重力方向を急変させない。\n\nカメラは胸より少し低い位置を保って少女の肩越しへ短く回り込み、人物サイズを胸上に寄せる。背景消失軸は前方の光の道が作る一つの円へ収束させる。この移動の目的は、少女の冒険の先に帰還路が生まれることを示すこと。光の道は再び一つの時計回りの螺旋となり、その円周が現実のティーカップの縁と同じ形、大きさ、角度へ整列する。\n\nカメラは螺旋の中心を通り、琥珀色の紅茶面の極近景から現実の温室へ滑らかに引く。カメラ高はテーブルと同じ低い位置へ戻り、人物サイズを奥の胸上へ戻す。背景消失軸は円形のカップ中央から床タイルと窓枠が温室奥へ伸びる開始方向へ戻す。この移動の目的は、異世界の冒険を一杯の紅茶の中へ回収し、少女の感情へ報酬を返すこと。同じ少女が帰還した連続性を保つ。\n\n終端では少女が右手のティーポットを垂直へ戻し、紅茶の筋をきれいに止め、ティーポットを胸より低い高さで保持する。左手はソーサー横に添えたまま。カップ内の最後の渦がゆっくり縮み、中心に青と淡い金の小さな反射一つだけを残して静止する。\n\nカメラはテーブル高さの斜め前で、手前の静かな紅茶面、奥の少女の三分の四顔と穏やかな微笑みを同時に読ませる。紅茶面の反射が完全に止まり、少女の両目、ティーポット、カップ、渦の名残が一画で明瞭になった瞬間に切る。\n\n液体を黒く濁らせない。渦を黒い穴、荒れた水面、別形状の物体へ変えない。顔を歪ませない。手指を増やさない。余分な人物や余分な食器を出さない。ストロボ、激しい明滅、強い水平フレア、白飛びなし。文字、字幕、ロゴ、透かしなし。BGMなし、音楽なし、環境音なし、フォーリーなし、音響生成なし。"
+    },
+    {
+      "slug": "luxury-wireless-headphones-product-showcase-291312",
+      "title": {
+        "en": "Luxury wireless headphones product showcase",
+        "zh": "奢华无线耳机产品展示"
+      },
+      "description": {
+        "en": "Controls a studio product film from ear-cushion macro through slow hero rotation to an exploded acoustic-driver rebuild.",
+        "zh": "控制影棚产品片：从头垫微距、缓慢英雄旋转到声学单元爆炸视图再合拢。"
+      },
+      "category": "product-demo",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "over-ear headphones",
+        "memory-foam cushion",
+        "exploded driver view",
+        "glossy black pedestal"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@LudovicCreator",
+        "url": "https://x.com/LudovicCreator/status/2082783319075291312"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/LudovicCreator/status/2082783319075291312"
+      ],
+      "prompt": "Create a 15-second luxury cinematic product showcase for premium wireless over-ear headphones.\n\n0–4s: Begin with an extreme macro tracking shot moving across the soft memory-foam ear cushion, fine fabric texture, brushed-metal hinge and precision-machined controls. A narrow light band travels across the surface, revealing realistic materials against a deep black studio background.\n\n4–8s: Pull back into a three-quarter hero view. The headphones rotate slowly above a glossy reflective pedestal. The ear cups pivot naturally while the adjustable headband extends slightly, demonstrating flexible construction and comfort. Maintain exact symmetry, stable geometry and consistent proportions.\n\n8–12s: Transition into an elegant exploded-view reveal. The ear cushion, acoustic driver, internal sound chamber, control ring and outer shell separate smoothly in perfect alignment. Subtle luminous sound waves pulse outward from the driver while the camera performs a restrained side orbit.\n\n12–15s: Every component reconnects seamlessly. The headphones settle into a centered front-facing hero composition as soft rim lighting defines the silhouette. Complete a gentle dolly-in toward the ear cups. Premium technology-commercial finish, controlled reflections, realistic shadows, shallow depth of field, crisp surface detail, stable product shape, no hands, no distortion, no onscreen text."
+    },
+    {
+      "slug": "vertical-car-transformation-street-culture-film-378938",
+      "title": {
+        "en": "Vertical car transformation street-culture film",
+        "zh": "竖屏改装车街头文化短片"
+      },
+      "description": {
+        "en": "Controls a vertical stock-to-street Swift transformation film through garage build, paint flip, night reveal, and neon hero finish.",
+        "zh": "控制竖屏从原厂到街头武器的 Swift 改装片：车库改装、喷漆变黑、夜色登场与霓虹英雄收尾。"
+      },
+      "category": "product-commercial",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "stock Swift hatchback",
+        "garage modification",
+        "midnight black respray",
+        "night city streets"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@fromjtown",
+        "url": "https://x.com/fromjtown/status/2082783123830378938"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/fromjtown/status/2082783476466450861"
+      ],
+      "prompt": "FORMAT:\n15-second cinematic vertical car transformation film\n9:16 aspect ratio\nUltra-realistic automotive commercial aesthetic\nJapanese street culture + luxury cinematic realism\nHigh-energy transformation pacing\n\nCONCEPT:\n“FROM STOCK TO STREET WEAPON”\n\nA normal Maruti Suzuki Swift slowly transforms into a fully modified street machine through cinematic garage sequences, mechanical close-ups, aggressive lighting, and dramatic reveal shots.\n\nTIMELINE:\n\n0:00–0:02\nOld stock white Maruti Suzuki Swift parked inside a dim industrial garage.\nDust particles in sunlight.\nStatic realistic atmosphere.\nSoft engine ticking sounds.\n\n0:02–0:04\nQuick cinematic close-ups:\ntools dropping on metal table,\ngarage lights turning on,\nmechanic gloves tightening,\ncar jack lifting vehicle.\nFast-paced editing begins.\n\n0:04–0:06\nTransformation montage:\nnew alloy wheels installed,\nwide tires mounted,\nlowered suspension,\ncustom front bumper attached,\nblack spoiler fitted.\nMechanical sparks and cinematic motion blur.\n\n0:06–0:08\nPaint transformation sequence.\nOriginal white paint peels away into glossy metallic midnight black.\nWater droplets and reflections across body panels.\nNeon garage lighting reflects on paint.\n\n0:08–0:10\nInterior upgrade shots:\ndigital dashboard glowing,\nsport steering wheel,\nbucket seats,\nambient red lighting,\npush-start ignition.\nEngine rev echoes.\n\n0:10–0:12\nAggressive cinematic reveal:\nmodified Swift exits garage slowly.\nHeadlights turn on through smoke.\nLow-angle tracking shots.\nWet asphalt reflections.\nTurbo flutter sound.\n\n0:12–0:15\nFinal hero sequence:\ncar speeding through empty city streets at night,\nrolling shots,\ndrifting corner,\nrain reflections,\nmotion blur,\ncamera orbit around vehicle.\nEnd with parked hero shot under neon lights.\n\nFINAL TEXT:\n“SWIFT — REBORN.”\n\nVISUAL STYLE:\nFast & Furious-inspired realism\nMoody cinematic lighting\nJapanese underground street-racing atmosphere\nWet asphalt reflections\nPractical garage lighting\nHigh-detail metallic textures\nSubtle film grain\nDeep contrast shadows\nRealistic smoke and sparks\n\nCAMERA:\nARRI Alexa Mini LF aesthetic\nAnamorphic lens look\nLow-angle tracking shots\nWheel close-ups\nSlow-motion mechanical shots\nDrone-style orbit reveal\nHandheld garage realism\n\nSOUND DESIGN:\nMetal tool impacts\nHydraulic jack sounds\nEngine revs\nTurbo flutter\nDeep bass transitions\nTire screeches\nCinematic trailer hits\nAggressive phonk-inspired background energy\n\nQUALITY:\nMasterpiece-level automotive realism\nLuxury commercial production quality\nPinterest-saveable cinematic car edit\nUltra-detailed reflections and textures\nFeels like a premium car modification advertisement"
+    },
+    {
+      "slug": "sci-fi-explorer-approaches-dark-gateway-mystery-410508",
+      "title": {
+        "en": "Sci-fi explorer approaches dark gateway mystery",
+        "zh": "科幻探险者逼近黑暗之门"
+      },
+      "description": {
+        "en": "Controls a multi-keyframe photoreal sci-fi mystery where a hooded explorer approaches a colossal dark gateway with locked identity continuity.",
+        "zh": "控制多关键帧写实科幻悬疑片：戴兜帽探险者在身份连续前提下缓步逼近巨大黑暗之门。"
+      },
+      "category": "cinematic-story",
+      "mode": "reference-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "explorer identity",
+        "gateway keyframes",
+        "wet obsidian landscape",
+        "cold blue-crimson palette"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@beginnersblog1",
+        "url": "https://x.com/beginnersblog1/status/2082782535252410508"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/beginnersblog1/status/2082782535252410508"
+      ],
+      "prompt": "Create a 15-second, 16:9 photoreal cinematic sci-fi mystery sequence with native stereo audio.\n\nUse Image 1 as the strict anchor reference for the explorer’s identity, face, short dark hair, charcoal hooded coat, black tactical clothing, boots, gateway design, wet obsidian landscape, jagged rock formations, lighting, materials, and cold blue/crimson color palette. Use Images 2–4 as sequential visual keyframes and preserve complete character, costume, environment, scale, and screen-direction continuity.\n\n[0–3 seconds] Begin with Image 2. Ultra-wide symmetrical establishing shot from behind the explorer. She walks slowly toward the colossal circular gateway, remaining very small against its immense scale. The camera performs a restrained forward dolly at ground level, following the crimson reflection across the wet surface. Her boots create small splashes. Mist drifts laterally around the distant rocks. The glowing ring pulses faintly, but its center remains completely black.\n\n[3–6 seconds] Cut on her next footstep to a low rear three-quarter tracking shot. Move beside her at walking speed while keeping the gateway fixed ahead. Her coat responds naturally to the wind. The crimson illumination travels across the wet fabric and reflective ground. Do not change her walking direction or position relative to the gateway.\n\n[6–9 seconds] Cut to Image 3. Tight three-quarter facial close-up. Slowly push toward her eyes as she stops walking and looks upward. Preserve her exact facial identity. Her expression shifts subtly from focused caution to disturbed recognition. Fine strands of hair move across her face. The gateway remains softly recognizable behind her. A dim crimson reflection appears in her eyes.\n\n[9–12 seconds] Cut to a close shot of her gloved hand rising cautiously into frame. Track forward with the hand as she approaches the threshold. The air near the black center distorts slightly, pulling mist and loose droplets toward it. Keep the effect restrained and physically coherent, with no lightning, explosions, or fantasy energy.\n\n[12–15 seconds] Transition into Image 4. Medium-wide side view near the gateway. She extends her hand toward the pitch-black center but stops just before contact. The crimson ring suddenly dims for half a second. All ambient wind and rain sound disappear. From inside the void, a quiet version of her own breathing answers one beat later. She freezes. End on a slow push toward the narrow space between her fingertips and the darkness, cutting to black before contact.\n\nVisual style: premium live-action science-fiction film, realistic skin and fabric, cold blue ambient light, restrained crimson rim light, deep blacks, wet reflections, fine atmospheric mist, subtle film grain, controlled contrast, 24 FPS, natural motion blur, cinematic depth of field.\n\nAudio: distant low-frequency gateway resonance, cold wind, light rain, boots splashing through shallow water, fabric movement, restrained breathing, and a deep sub-bass pulse that grows gradually. Remove all environmental sound during the final silence, leaving only the delayed breathing from inside the void.\n\nNo dialogue, subtitles, title cards, logos, watermarks, extra characters, vehicles, weapons, creatures, lightning, explosions, camera spins, random zooms, rapid montage, costume changes, facial changes, distorted hands, warped gateway geometry, daylight, or bright saturated colors."
+    },
+    {
+      "slug": "ultra-premium-cinematic-luxury-perfume-commercial-783085",
+      "title": {
+        "en": "Ultra-premium cinematic luxury perfume commercial",
+        "zh": "超高端香水电影级广告"
+      },
+      "description": {
+        "en": "Controls a vertical luxury perfume commercial from macro bottle caustics through model mist transformation to a final pedestal hero.",
+        "zh": "控制竖屏奢侈香水广告：从瓶身焦散微距、模特喷雾幻化到基座英雄收尾。"
+      },
+      "category": "product-commercial",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "crystal perfume bottle",
+        "fashion model",
+        "golden mist particles",
+        "black marble pedestal"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@SadiaMalik182",
+        "url": "https://x.com/SadiaMalik182/status/2082776032042783085"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/SadiaMalik182/status/2082776032042783085"
+      ],
+      "prompt": "Create a 15-second ultra-premium cinematic luxury perfume commercial designed to fully showcase MiniMax H3's multimodal capabilities.\n\nOutput Settings:\n• Duration: 15 seconds\n• Resolution: 2K (1440p)\n• Frame Rate: 24 FPS\n• Aspect Ratio: 9:16 Vertical\n• Native Stereo Audio\n• Commercial-grade quality\n\nScene 1 (0–3s)\nExtreme macro shot of a crystal luxury perfume bottle resting on polished black marble. Golden sunrise light passes through the glass, creating realistic caustics and sparkling reflections. Tiny perfume particles float naturally in the air. Slow cinematic push-in with perfect depth of field.\n\nScene 2 (3–6s)\nA luxury fashion model wearing an elegant black dress walks confidently through a futuristic golden hallway. The camera smoothly circles around her while she gracefully picks up the perfume bottle. Hair moves naturally, realistic fabric simulation, premium fashion campaign quality.\n\nScene 3 (6–10s)\nShe sprays the perfume. The mist transforms into flowing golden particles that evolve into blooming flowers, liquid gold ribbons, shimmering butterflies, floating crystal fragments, and elegant light trails surrounding her. Every movement is physically realistic with seamless cinematic transitions.\n\nScene 4 (10–13s)\nHero beauty sequence. Slow-motion close-ups of the model's face, glowing skin, elegant eyes, glossy lips, luxury jewelry, and the perfume bottle. Beautiful bokeh, premium studio lighting, realistic reflections, cinematic lens movement.\n\nScene 5 (13–15s)\nEpic ending. The perfume bottle rotates slowly on a glossy black pedestal surrounded by floating golden particles and soft luxury lighting. The model stands elegantly in the background. Premium cinematic composition worthy of a global luxury brand campaign.\n\nVisual Style:\nLuxury brand commercial, Dior Beauty, Chanel, Tom Ford, Apple-level production quality, Hollywood cinematography, ultra-photorealistic, ray tracing, global illumination, volumetric lighting, realistic reflections, premium color grading, cinematic depth of field, physically accurate materials, ultra-detailed textures, smooth camera movement, flawless facial animation, natural body motion, production-ready advertising quality.\n\nNegative Prompt:\nLow quality, blurry, noise, flickering, unstable motion, distorted anatomy, bad hands, bad face, duplicate objects, watermark, logo, text overlay, compression artifacts, oversaturated colors, unrealistic physics, low-detail textures."
+    },
+    {
+      "slug": "radio-operator-evacuation-bridge",
+      "title": {
+        "en": "Radio operator evacuation bridge",
+        "zh": "无线电员守住撤离桥"
+      },
+      "description": {
+        "en": "A nonlinear war-thriller sequence with locked character, environment, continuity, and sound.",
+        "zh": "用锁定角色、环境、连续性与声音的方式，完成非线性战争惊悚片段。"
+      },
+      "category": "cinematic-story",
+      "mode": "reference-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "Character reference",
+        "Environment reference"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@Diplomeme",
+        "url": "https://x.com/Diplomeme/status/2082770042630943156"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/Diplomeme/status/2082770042630943156"
+      ],
+      "prompt": "FORMAT\n15 seconds | 16:9 | photoreal live-action war thriller\nFictional Sahelian city at blue-hour dawn.\nUrgent, human, suspenseful, non-graphic.\n\nREFERENCE CONTROL\nImage 1 = locked AMINA identity and wardrobe.\nPreserve face, close-cropped hair, deep-brown skin, navy field jacket, silver earpiece, canvas satchel, analogue radio, boots and determined expression.\n\nImage 2 = locked environment.\nPreserve concrete bridge, dry riverbed, dense low-rise city, rooftop antennae, dusty atmosphere, cool-blue shadows and restrained amber dawn.\n\nNo real countries, flags, organizations or landmarks.\n\nSTORY\nAmina is the last radio operator keeping an evacuation bridge open. Communications fail during a distant attack. She must activate the backup relay and transmit clearance before automatic controls close the bridge.\n\n00–02s — CHANNEL OFFLINE\nExtreme close-up inside a dark concrete communications room.\n\nAmina grips the analogue radio as red emergency lights pulse. Dust trembles, cables quiver, broken static fills the room.\n\nAutomated voice:\n“Emergency channel offline.”\n\nShe looks up and immediately moves.\n\n02–04s — BRIDGE CLOSING\nWide aerial-oblique rooftop view.\n\nCivilians cross the bridge through windblown dust.\n\nCheckpoint signal flickers green → red as shutdown begins.\n\nA distant shockwave moves through city haze. No visible casualties.\n\n04–06.5s — RUN\nLow handheld tracking behind Amina running through a damaged service corridor.\n\nEmergency lights flash, dust falls, cables briefly spark, boots hit wet concrete.\n\nShe pushes through a heavy metal door into blowing dust.\n\n06.5–09s — FLASHBACK\nTwo minutes earlier.\n\nMedium side-profile on rooftop.\n\nAmina sees the unstable bridge signal, manually rotates the antenna and connects her radio to backup power.\n\nSlow camera push. Wind moves her satchel strap as first amber sunlight reaches her jacket.\n\n09–12.5s — TRANSMISSION\nRapid cross-cut montage:\n\nfrequency dial locks →\nantenna aligns →\nbridge cables vibrate →\nred signal flashes →\nAmina speaks into radio:\n\n“Channel Seven, keep the bridge open.”\n\nOverhead shot: civilians continue crossing.\n\nSharp hard cuts, brief black frames, natural motion blur.\n\n12.5–15s — SIGNAL RESTORED\nSound suddenly drops.\n\nAmina listens on the rooftop.\n\nClear radio tone.\n\nCheckpoint signal changes red → steady green.\n\nEvacuation continues.\n\nAmina exhales and watches the bridge as dawn reaches the city.\n\nSlow push toward her face.\nCut to black.\n\nCAMERA\nLarge-format live-action realism.\nPrecise nonlinear cross-cutting.\nHandheld tracking, aerial-oblique coverage, restrained push-ins and close details.\nNatural motion blur, fine film grain, subtle gate weave.\nNo impossible camera movement.\n\nENVIRONMENT + PHYSICS\nCool-blue shadows against muted amber sunrise.\nDeep blacks, dusty atmosphere, weathered concrete.\n\nWind realistically affects dust, clothing, cables and antenna equipment.\nAll movement and interactions remain physically believable.\n\nAUDIO\nStereo radio static, electrical hum, wind, boots, antenna creaks, distant low artillery and helicopter rotors.\n\nRestrained suspenseful sub-bass builds through the montage.\n\nVISUAL\nPhotoreal cinematic war-thriller footage.\nImmense scale contrasted with one determined operator.\nGrounded, tense and human.\n\nNo subtitles, text, logos, watermarks, political messaging, flags or military insignia.\n\nCONTINUITY\nSame Amina identity, wardrobe, radio and satchel throughout.\nSame bridge, city, atmosphere and dawn lighting.\nMaintain geographic and temporal continuity across all shots."
+    },
+    {
+      "slug": "asmr-multi-cut-overseas-snack-unboxing-anime-428159",
+      "title": {
+        "en": "ASMR multi-cut overseas snack unboxing anime",
+        "zh": "海外零食 ASMR 多镜开箱动画"
+      },
+      "description": {
+        "en": "Controls a fixed-camera multi-cut anime ASMR unboxing of overseas snacks, prioritizing the attached character illustration and tactile open sounds.",
+        "zh": "控制固定机位多切动画 ASMR 开箱：优先锁定附图角色，突出海外零食与细腻拆包声。"
+      },
+      "category": "anime",
+      "mode": "reference-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "character illustration",
+        "overseas snack box",
+        "night living room",
+        "tape and bubble wrap"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@aiehon_aya",
+        "url": "https://x.com/aiehon_aya/status/2082768164413428159"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/aiehon_aya/status/2082768164413428159"
+      ],
+      "prompt": "日本のフルカラーアニメ映画風、シネマティックな高品質映像。BGMなし、セリフなし、字幕なし、文字なし、環境音のみ。\n\n# 映像スタイル\n添付イラストのキャラクター本人感を最優先。\n過度な写実化・厚塗り・複雑な陰影は禁止。\nキャラクターの顔立ち、髪型、体型、衣装、アクセは変えない。\n\n# 制約\n全カットで画角とアングルを変えて単調にしない。\n文字・ロゴは入れない。自然な生活感のある仕草にする。各カットは完全な固定カメラ（カメラワーク・カメラ移動なし）。フェードやモーフィングは禁止し、明確なハードカットで瞬時に切り替える。所作は極めてゆっくり、静かに、最小限に。「キャラクターの顔」と「手元の細かい作業」は絶対に同じカットに入れない。\n\n# 登場人物\n## 女性\n添付イラストの成人女性。\n\n# 情景\n夜のリビングのローテーブル。ランプの光の輪の中に段ボールや包みが待っている。\n\n# シーン\n女性が海外のお菓子詰め合わせを開封する。テープ、緩衝材、包み紙。開ける音の快感を最大限に立てながら、中身が見えるまでの期待感で引っ張る。開封の工程と仕草を交互に見せる。\nこの1本だけの見せ場として、「カラフルな包み紙がテーブルに広がっていく俯瞰」を後半のカットに必ず入れる。\n\ncut1:\n超クローズアップ。ランプの光の輪の中、箱のテープにカッターの刃が当たる。\n環境音：刃を出すカチカチという音だけ。\n\ncut2:\n超クローズアップ、真上俯瞰。テープがすーっと切れていく。\n環境音：テープの切れる音。\n\ncut3:\nクローズアップ、正面。瞳がきらきらして、蓋に手をかける。\n環境音：夜の静けさ。\n\ncut4:\nクローズアップ、箱の内側視点。蓋が開き、覗き込む顔が現れる。\n環境音：段ボールの軋み。\n\ncut5:\n超クローズアップ、手元。緩衝材のプチプチを一枚めくる。指がひとつだけぷちんと潰す。\n環境音：プチプチの音を主役に。\n\ncut6:\nクローズアップ、横顔。息を止めて中を見つめる。\n環境音：静けさ。\n\ncut7:\n超クローズアップ。薄紙を一枚ずつぺりぺりと剥がしていく。\n環境音：薄紙の繊細な音。\n\ncut8:\n超クローズアップ。海外のお菓子詰め合わせの一部がちらりと見える。まだ全体は見せない。\n環境音：包装の最後の音。\n\ncut9:\nミディアム、真後ろ。ランプの光の輪の中で開封を続ける後ろ姿。\n環境音：包みの音、夜の静けさ。\n\ncut10:\nクローズアップ、俯瞰。海外のお菓子詰め合わせが姿を現す。指先でそっと持ち上げる。\n環境音：包装が落ちる音。\n\ncut11:\nクローズアップ、横顔。海外のお菓子詰め合わせをランプの光にかざしてうっとり見つめる。\n環境音：静けさ。\n\ncut12:\n超クローズアップ、手元。付属品や説明書をぱらりとめくって確認する。\n環境音：紙のめくれる音。\n\ncut13:\nクローズアップ、斜め上。海外のお菓子詰め合わせを部屋の定位置にそっと置き、角度を整える。\n環境音：置く小さな音。\n\ncut14:\n超クローズアップ。空箱をばりばりと畳む。開封の儀の後片付け。\n環境音：段ボールの音。\n\ncut15:\nワイド、テーブル全景。開け終わった包みと戦利品が光の輪に残る。\n環境音：夜の静けさ。\n\ncut16:\nワイド。一番かわいい缶を棚に飾る。ランプの光の中、満足の空気が満ちる。\n環境音：静寂へフェード。"
+    },
+    {
+      "slug": "condor-heroes-characters-teach-english-word-dream-815758",
+      "title": {
+        "en": "Condor Heroes characters teach English word dream",
+        "zh": "神雕侠侣趣味讲单词 dream"
+      },
+      "description": {
+        "en": "Controls a playful Condor Heroes character skit that teaches the English word “dream.”",
+        "zh": "控制神雕侠侣主角趣味短剧，讲解英文单词 dream。"
+      },
+      "category": "comedy",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "Condor Heroes cast",
+        "English word dream",
+        "tutorial skit"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@nicekate8888",
+        "url": "https://x.com/nicekate8888/status/2082762739697815758"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/nicekate8888/status/2082762739697815758"
+      ],
+      "prompt": "神雕侠侣主角趣味讲单词 dream 教程"
+    },
+    {
+      "slug": "mumbai-monsoon-fpv-drone-flight-942674",
+      "title": {
+        "en": "Mumbai monsoon FPV drone flight",
+        "zh": "孟买季风 FPV 航拍穿越"
+      },
+      "description": {
+        "en": "Controls a continuous FPV drone path over monsoon Mumbai, locking the reference skyline and flight-path guide without showing the guide line.",
+        "zh": "控制季风中的孟买 FPV 连续航拍路径，锁定参考天际线与飞行轨迹指引且不显示辅助线。"
+      },
+      "category": "cinematic-travel",
+      "mode": "image-to-video",
+      "duration": "15s",
+      "aspectRatio": "3:4",
+      "ingredients": [
+        "first-frame cityscape",
+        "FPV flight path",
+        "monsoon rain",
+        "Mumbai interchange"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@CurieuxExplorer",
+        "url": "https://x.com/CurieuxExplorer/status/2082747871103942674"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/CurieuxExplorer/status/2082747871103942674"
+      ],
+      "prompt": "Reference: Use the attached @ Image1  1 as the exact first frame and environment reference. The green drawn line is only the camera flight-path guide. Do not show the green line in the final video.\n\nCreate a 15-second hyper-real cinematic FPV drone video over Mumbai in heavy monsoon weather, using the same skyline, interchange, sea edge, road geometry, dense buildings, rainy morning atmosphere, grey clouds, and wet surfaces from the reference image. Keep everything realistic and grounded.  The drone must follow the green guideline path as a smooth continuous move: begin near the left side of the interchange, rise and sweep across the middle highway corridor, continue through the right-side city edge, then climb higher into the skyline, perform a tight spiral/orbit near the upper tower cluster, descend back toward the interchange, curve around the large circular loop, and finally glide out toward the lower-right water edge. The move should feel fast, elegant, immersive, and controlled — like a premium FPV drone shot, not a random flyover.\n\nTIMELINE\n\n 0:00–0:03 Start low near the left feeder ramp above the wet interchange. Heavy rain falls across the lens. The drone accelerates forward and slightly upward, revealing slick roads, tiny moving traffic, dark sea barriers, and the circular loop ahead.\n\n0:03–0:06 Follow the path upward across the mid-frame highway corridor. Keep the skyline growing larger. Wet roads shimmer, rain haze softens the distance, and the sea remains visible to the right. Motion is quick but readable.\n\n0:06–0:09 Sweep along the right-side city edge and climb higher. Dense towers, mid-rise blocks, and dark green patches below feel soaked and monsoon-heavy. The camera begins rising toward the upper skyline.\n\n0:09–0:11 Reach the upper skyline cluster and perform a tight spiral/orbit around the central high-rises. Storm clouds loom above, rain streaks rush past, and the city beneath feels deep, layered, and cinematic.\n\n0:11–0:13 Exit the spiral and descend in a smooth arc back toward the interchange. The circular loop becomes dominant again. Maintain realistic drone inertia and readable geography.\n\n0:13–0:15 Curve around the large circular flyover loop and finish with a fast glide toward the lower-right over the water, ending on a dramatic monsoon reveal of wet infrastructure, dark sea, and rain-washed Mumbai.\n\nCAMERA LANGUAGE  FPV drone POV, smooth stabilized flight, realistic banking turns, slight motion blur from speed and rain, believable acceleration and inertia, one continuous shot, no teleporting, no abrupt cuts, no impossible passes through buildings.\n\nVISUAL STYLE  Hyper-real cinematic realism, heavy monsoon rain, grey storm clouds, wet roads, reflective flyovers, rain haze, cool blue-grey morning light, dark sea, atmospheric depth, realistic Mumbai scale, premium documentary-film look.\n\nAUDIO  No voiceover. No dialogue. Use heavy rainfall, rushing wind, distant thunder, soft drone motor whirr, faint traffic hum, sea movement, and subtle cinematic tension music building with the motion.\n\nIMPORTANT  Do not show the green route line. No text, captions, logos, or watermark. Keep Mumbai realistic, monsoon-heavy, and geographically believable."
+    },
+    {
+      "slug": "giant-koi-park-incident",
+      "title": {
+        "en": "Giant koi park incident",
+        "zh": "公园巨型锦鲤意外"
+      },
+      "description": {
+        "en": "A smartphone-style viral short built around believable weight, traction, and water physics.",
+        "zh": "围绕重量、摩擦与水体物理效果完成的手机实拍风病毒短片。"
+      },
+      "category": "viral-short",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "Text prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@underwoodxie96",
+        "url": "https://x.com/underwoodxie96/status/2082747838782386563"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/underwoodxie96/status/2082747838782386563"
+      ],
+      "prompt": "15-second, 16:9 vertical, continuous single-take video that looks like authentic smartphone footage accidentally captured by a passerby in a city park. Overcast natural daylight, subtle handheld shake, limited phone stabilization, occasional autofocus adjustment, and realistic smartphone compression. The absurd event is filmed with a completely serious, unscripted documentary feeling.  0–3s: [Handheld medium shot] A middle-aged man wearing a dark business suit and tie crouches beside the stone edge of a pond. With a completely serious expression, he slowly scatters pieces of bread from a paper bag to several ordinary koi. Small ripples spread across the water as the fish gather in front of him.  3–7s: [Camera instinctively moves closer] An abnormally huge orange-and-white koi suddenly surges out of the murky water, briefly lifting its upper body above the surface and biting down on the entire bread bag in the man’s left hand. He freezes for half a second, then grips the bag with both hands and leans backward. Startled, the person filming steps back. The image briefly loses focus before locking onto the man and the giant fish again.  7–11s: [Close handheld action shot] The giant koi pulls violently toward the deeper part of the pond. The wet paper bag stretches, the man’s arms tense, and his leather shoes slide repeatedly across the wet stone. His knee strikes the edge of the pond. He tries to brace himself with his right foot, but the sole loses traction and his center of gravity moves past the edge. Water, pieces of bread, and fallen leaves scatter from the force as the camera operator hurriedly moves sideways.  11–15s: [Impact and final hold] The paper bag suddenly tears. The man loses all support and pitches forward into the pond, creating one heavy, realistic splash. The camera quickly tilts downward while keeping the center of the pond visible. The man resurfaces with duckweed covering his head and his wet tie stuck across his face. The giant koi calmly swims past him with the remains of the bread bag still in its mouth. The camera holds on the man’s stunned expression while the koi casually swims away beside him.  Keep the man’s face, dark suit, tie, and paper bag visually consistent throughout. The koi must retain the same orange-and-white markings and enormous size. The pulling, sliding, loss of balance, and fall must show believable weight, inertia, traction, and water displacement. Natural park ambience and a realistic splash only. No dialogue, no subtitles, no music. Avoid cuts, character teleportation, changes in the fish’s size, extra limbs, and cartoonish acting."
+    },
+    {
+      "slug": "1998-seoul-rainy-bus-stop-archival-home-video-300930",
+      "title": {
+        "en": "1998 Seoul rainy bus stop archival home video",
+        "zh": "一九九八首尔雨夜公交站家用录像"
+      },
+      "description": {
+        "en": "Controls a continuous archival Hi8-style home video of a rainy 1998 Seoul bus stop, a young woman, and a stray cat.",
+        "zh": "控制连续的 Hi8 家用录像风格短片：一九九八首尔雨夜公交站、年轻女子与流浪猫的日常瞬间。"
+      },
+      "category": "cinematic-story",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "1998 Seoul street",
+        "young Korean woman",
+        "plastic umbrella",
+        "orange tabby cat"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@itxabdullaa",
+        "url": "https://x.com/itxabdullaa/status/2082747126497300930"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/itxabdullaa/status/2082747126497300930"
+      ],
+      "prompt": "Create an authentic 15-second archival home video that appears to have been recorded in Seoul, South Korea, during the summer of 1998 using a consumer Hi8 or VHS-C camcorder. The camcorder is never visible. The audience only sees the footage captured through the camera, exactly as if watching a forgotten family videotape decades later. This is not a vlog, not a selfie, and not a cinematic film. The unseen camera operator casually documents an ordinary moment from everyday life.\n\nThe footage should faithfully recreate genuine late-1990s analogue camcorder characteristics: soft 480i resolution, subtle VHS tape grain, faint interlacing, mild colour fading, occasional autofocus breathing, slight exposure shifts, gentle handheld shake, imperfect framing, tiny zoom corrections, realistic motion blur, analogue colour bleed, and faint tape hiss. No HDR, no digital sharpening, no beauty filters, no stabilisation, no cinematic lighting, no slow motion, and no modern camera effects.\n\nA light summer rain has just begun in a quiet Seoul neighborhood. A young Korean woman in her early twenties waits at a simple city bus stop beneath a clear plastic umbrella. She wears a pale blue oversized T-shirt tucked into relaxed-fit blue jeans, classic white sneakers, and carries a canvas shoulder bag, perfectly matching authentic Korean street fashion from 1998. Around her, commuters quietly wait while late-1990s Korean buses, sedans, and bicycles pass by on the wet street. Handwritten Hangul shop signs, overhead utility wires, convenience stores, and low-rise apartment buildings create an unmistakably authentic Seoul atmosphere.\n\nAs the rain becomes slightly heavier, a small orange tabby cat runs from beneath a parked car toward the bus stop. The woman notices it, crouches down with a warm smile, and gently shelters the cat under her umbrella. The cat calmly sits beside her while several nearby commuters smile at the unexpected moment. A city bus approaches in the background, its headlights reflecting across the rain-soaked road. The woman looks toward the arriving bus, softly laughs, gives the cat one gentle pat, and steps aboard as the doors close. The camera remains outside, lingering for a few seconds on the rainy street as the bus slowly drives away before the recording ends abruptly, exactly as if someone simply pressed the stop button on the camcorder.\n\nGeneration Requirements: Produce one continuous, uninterrupted 15-second recording with no cuts or transitions. Every detail must accurately recreate Seoul in 1998, including clothing, hairstyles, architecture, vehicles, signage, weather, and everyday behavior. Human movement must be completely natural with consistent facial identity, realistic anatomy, authentic hand movements, believable crowd interactions, and subtle environmental details such as rain, passing traffic, distant conversations, bus engine sounds, birds, and ambient city noise. Avoid AI artifacts, duplicated pedestrians, warped limbs, floating objects, unnatural expressions, perfect symmetry, or anything suggesting the footage was AI-generated. The finished result should be indistinguishable from genuine late-1990s home camcorder footage discovered in a family archive."
+    },
+    {
+      "slug": "ink-wash-shrimp-leap-into-futuristic-city-848857",
+      "title": {
+        "en": "Ink-wash shrimp leap into futuristic city",
+        "zh": "水墨虾跃入未来都市"
+      },
+      "description": {
+        "en": "Controls a scale-shifting spectacle where ink-wash shrimp leap from unfolded rice paper into a neon futuristic skyline.",
+        "zh": "控制尺度反差奇观：八只水墨虾从展开宣纸跃入霓虹未来都市天际线。"
+      },
+      "category": "cinematic-story",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "ink-wash shrimp",
+        "unfolding rice paper",
+        "night skyscrapers",
+        "neon rain trails"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@nicekate8888",
+        "url": "https://x.com/nicekate8888/status/2082746108493848857"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/nicekate8888/status/2082746108493848857"
+      ],
+      "prompt": "水墨虾跃入未来城市——一张宣纸在夜色摩天楼之间展开，八只黑白水墨虾从纸面跃出，身体仍保留飞白与墨晕，虾须化成发光城市轨道，墨滴变成霓虹雨；画面有巨大尺度反差、强烈纵深、电影级光影和一眼停留的奇观感，不要文字、不要水印。"
+    },
+    {
+      "slug": "fire-breathing-dragon-in-broken-palace-831106",
+      "title": {
+        "en": "Fire-breathing dragon in broken palace",
+        "zh": "破碎宫殿中的喷火巨龙"
+      },
+      "description": {
+        "en": "Controls an epic photoreal fantasy sequence of a molten-cracked dragon stalking a storm-wrecked palace and roaring fire into the sky.",
+        "zh": "控制史诗写实奇幻段落：熔裂纹巨龙在雷暴废墟宫殿中游走，并向天空喷出火柱。"
+      },
+      "category": "cinematic-story",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "fire-breathing dragon",
+        "shattered royal palace",
+        "thunderstorm rain",
+        "molten scale glow"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@dreamydigiarts",
+        "url": "https://x.com/dreamydigiarts/status/2082745513573831106"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/dreamydigiarts/status/2082745513573831106"
+      ],
+      "prompt": "Fire-Breathing Dragon in a Broken Palace**  A colossal fire-breathing dragon with obsidian-black scales streaked by glowing molten cracks stalks through the ruins of a shattered royal palace during a violent thunderstorm. Rain crashes through the collapsed marble ceilings and broken palace domes, lightning flashes behind towering fractured columns and crumbling statues of forgotten kings, while thick smoke and mist drift across the flooded stone floors.  The dragon exhales a massive stream of blazing fire, turning the rain into clouds of steam and illuminating the ruined palace with fiery orange light. Every thunderous roar sends shockwaves through the ancient structure—massive pillars split apart, cracked walls collapse, shattered stained-glass windows explode outward, and glowing magma-like fissures spread beneath its claws across the palace floor.  The camera tracks low beside the dragon, capturing ultra-detailed wet scales, razor-sharp claws crushing marble tiles, smoke pouring from its nostrils, glowing molten eyes, and fire reflecting across the rain-soaked stone. Cinematic camera movement with dynamic close-ups, slow-motion embers, volumetric smoke, and dramatic lightning flashes emphasize the creature's immense scale.  **Final moment:** The dragon spreads its colossal wings atop the broken royal throne as a gigantic bolt of lightning strikes the ruined palace behind it. It unleashes an earth-shaking roar while breathing an enormous column of fire into the stormy sky, casting its gigantic shadow across the shattered palace walls.  **Mythic creature realism, cinematic fantasy, ultra-detailed dragon anatomy, broken palace environment, heavy rain, lightning storm, volumetric fog, fire and smoke simulation, dynamic destruction, epic scale, dramatic lighting, photorealistic CGI, cinematic 4K.**"
+    },
+    {
+      "slug": "dark-pop-cyber-grunge-rap-music-video-style-998615",
+      "title": {
+        "en": "Dark-pop cyber-grunge rap music video style",
+        "zh": "暗黑流行赛博废土说唱 MV 风格"
+      },
+      "description": {
+        "en": "Controls a dark-pop cyber-grunge rap MV look with scanned-magazine grain, hard cuts, and photocopied print texture matched to style references.",
+        "zh": "控制暗黑流行赛博废土说唱 MV 质感：杂志扫描颗粒、硬切与影印纹理对齐风格参考。"
+      },
+      "category": "music-video",
+      "mode": "reference-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "style reference images",
+        "film magazine grain",
+        "halftone scan texture",
+        "hard-cut edit pace"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@Just_sharon7",
+        "url": "https://x.com/Just_sharon7/status/2082711476347998615"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/Just_sharon7/status/2082711476347998615"
+      ],
+      "prompt": "Style: dark-pop / cyber-grunge / rap music video with photoreal high-fashion polish and the texture of a scanned film magazine—high contrast without looking cheap. Reference late-1990s to early-2000s indie magazines, photocopies, film scans, underground-music posters, and zine collage. Add coarse grain, subtle gate weave, halftone dots, rough print edges, and slight scan misregistration. Keep the edit fast and use hard cuts only—no fades or soft transitions. Match the typographic treatment and surface texture of the reference images."
+    },
+    {
+      "slug": "armored-swordswoman-rock-plateau-action-sequence-009447",
+      "title": {
+        "en": "Armored swordswoman rock-plateau action sequence",
+        "zh": "金铠女剑士岩台动作戏"
+      },
+      "description": {
+        "en": "Controls a locked-identity armored swordswoman action reel that melt-cuts rocks with a molten greatsword on a high gray plateau.",
+        "zh": "控制身份锁定的金铠女剑士动作片：在灰白高台以熔岩巨剑熔切岩石。"
+      },
+      "category": "cinematic-story",
+      "mode": "image-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "armored swordswoman image",
+        "molten greatsword",
+        "rock plateau terrain",
+        "lava-cut rock effects"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@Cia0_exe",
+        "url": "https://x.com/Cia0_exe/status/2082693906224009447"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/Cia0_exe/status/2082694269329195217"
+      ],
+      "prompt": "@image1 完全按照参考图呈现,不重新设计角色。面部五官比例、金色浮雕铠甲纹样、服装剪裁与巨剑造型,全片保持严格一致,不因动作幅度、镜头角度或光线变化产生偏差。\n\n武器锁定:全片只使用这把巨剑,不出现任何其他武器或道具。\n\n场景:高处开阔的灰白岩石台地,四周散布着大小不一的巨岩,最远处矗立一块屋子大小的黑色巨岩。天空是清透的灰蓝色,浮着几片白云。侧向强光在岩石上投下长影。空气中悬浮着细小浮尘,被光线照出颗粒感;岩缝间偶有暗红余烬般的光点隐约明灭。\n\n剑的机制:剑身表面是焦黑的炭质外壳,壳下裂缝中流动着橙红熔岩,流速与亮度随她的发力实时联动——蓄力时如心跳般规律搏动,全力挥砍前的瞬间由暗转亮。剑尖始终有熔融的橙红液滴缓慢垂落,落地后凝成一小块暗红结晶。每完成一次切割,炭壳裂缝会略微扩大、露出更多内部熔光,全片末段剑刃发光面积明显多于开场,形成清晰的能量攀升弧线。\n\n切割效果铁律:她的剑不是劈开岩石,而是熔穿它。每一道切口必须呈现完整过程——刃口经过处岩面先烧成暗红并向内塌软,断面呈现熔融的橙红发光切面并挂着流动的熔滴,岩块随后才顺着切面滑开分离,分离时切面之间拉出细长的熔融丝线。切割瞬间偶有细小岩屑因高温爆裂点状飞溅,带着橙色光点划出短促弧线。所有发光切口在全片持续发亮不熄灭,断面的橙红光晕实时照亮她的铠甲表面与周边岩壁,形成随光源移动的动态反光;岩石落地时溅出的熔渣与火星留在地面累积。\n\n视觉效果:挥剑时刃后拖出扭曲空气与橙红热痕;高温使剑刃周围空气持续升腾扭曲;熔滴落地激起细小火星与青烟,余烬如萤火虫般在空中缓慢飘升;岩石碎块被斩飞时带着燃烧的边缘旋转;切割瞬间自切口喷出一道细长白炽气流,剑刃全亮时刃线周围溢出轻微白色光晕;她的发丝与衣摆被上升热气不均匀地掀动,呈现不对称的飘动。命中瞬间插入纯白冲击帧,全片共两次(4.5-6秒与10.5-12.5秒)。高速动作段落(1.5-3秒、3-4.5秒、7.5-9秒、10.5-12.5秒)叠加笔刷质感速度线与三重残影,缓慢或静态镜头不套用此效果。\n\n动作原则:视线先到、剑刃后到。挥剑前肩膀先转、腰胯发力、手臂最后到位,收势时手腕再补一记轻甩为刃部增速。每次落剑后剑尖因巨剑重量继续下沉半拍;大力劈砍后她的躯干会顺着剑势多转一点角度才收住,呈现真实惯性与延迟,而非机械式一刀归位。落地时膝盖沉降缓冲、脚尖抓地。她全程双手与单手交替持握,换手时剑柄在掌中转半圈。呼吸与发力同步——蓄力时短促吸气,发力瞬间从齿间压出短促吐息,大招前肩背明显起伏。每一击节奏不完全相同:部分快、脆、一闪而过,部分沉、重、带延迟惯性,避免全片动作节奏单一化。\n\n风格:2.5D剧场版动漫,赛璐璐上色配厚涂光影,线条锐利。冷色调环境(灰白岩石、灰蓝天空)与炽热橙红剑光形成互补色对比。模拟35mm变形宽银幕镜头:横向椭圆散景、浅景深。16:9,4K,24帧,15秒。镜头每1.5秒换一个角度,不重复。\n\n声音:熔岩流动的低沉咕噜声、炭壳开裂的细碎脆响、巨剑破空的沉重呼啸、岩石熔穿时的滋滋声、岩块滑开与落地的闷响、熔滴滴落的轻响、冲刺时靴底碾过碎石的摩擦声、她的呼吸与发力吐息。没有音乐。\n\n0-1.5秒 微距特写,浅景深:镜头贴着剑身缓慢滑过,焦黑炭壳裂缝里橙红熔岩如心跳般规律搏动,一颗熔滴垂落拉长后坠地溅起火星。焦点后拉,她双手握住剑柄,指节逐一收紧,黑色指甲压进缠绳。她垂眼看向第一块巨岩,瞳孔微微收紧锁定目标。\n\n1.5-3秒 侧面平移追踪,与她同速:右脚踏前瞬间脚跟先着地抓稳,腰胯先转带动双臂甩出,巨剑横向扫过第一块巨岩。刃口经过处岩面瞬间烧成暗红塌软,断面亮起熔融橙光,细小岩屑带火星四溅。岩石停半拍后顺切面滑开两半,切面间拉出数条熔丝,橙光映上她的铠甲侧面。她收剑时剑尖因重量继续下沉半拍。\n\n3-4.5秒 低角度仰拍:两块巨岩立于她两侧。她脚尖为轴原地半旋,双手举剑过顶,先是一记快、脆的斩击劈向左侧,再借剑势惯性沉重地回身劈向右侧,一快一重形成节奏对比。两道切口几乎同时亮起,四块岩体外滑砸地,溅起熔渣青烟,几缕余烬缓缓升起。她落定时双膝微屈,发丝被热气不均匀地掀向一侧。\n\n4.5-6秒 极近垂直特写:她双臂完全伸展将剑举过头顶,肩背明显收紧蓄力,剑身裂缝里熔岩流速骤然加快、亮度提升。随即整个躯干下沉发力垂直劈落,牙关咬紧、短促吐息喷出——剑刃自高大立岩顶端一路熔穿至底部,岩体沿切面倒向两侧,切口喷出细长白炽气流。插入纯白冲击帧,镜头随冲击轻微震动。\n\n6-7.5秒 侧向缓慢横移,体积光穿过热气:她剑尖点地稍作停顿,肩膀剧烈起伏,呼出一口白气,重心在两脚间轻轻晃动找回平衡。镜头横移扫过身后——三处切口仍明亮燃烧,熔滴缓缓垂落,地面已积起暗红结晶与青烟,橙光在她脸颊与铠甲上跳动反射。剑柄在掌中转半圈换到另一只手。\n\n7.5-9秒 高速环绕加速:数块小岩石被她一脚踢向空中。她双脚蹬地纵身跃起,膝盖微收加快转速,空中旋身一圈连续挥剑四次,每一击手臂完全伸展并在末端补一记手腕轻甩——每块岩石被熔穿的瞬间亮起橙色断面,燃烧的边缘"
+    },
+    {
+      "slug": "would-you-like-to-dance-986858",
+      "title": {
+        "en": "Would you like to dance",
+        "zh": "要不要一起跳舞"
+      },
+      "description": {
+        "en": "Controls a short dance invitation moment from the single line “Would you like to dance?”",
+        "zh": "控制由一句“要不要一起跳舞”引发的短舞蹈邀约瞬间。"
+      },
+      "category": "music-video",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "dance invitation",
+        "partnered motion"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@OrctonAI",
+        "url": "https://x.com/OrctonAI/status/2082612279866986858"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/OrctonAI/status/2082612279866986858"
+      ],
+      "prompt": "Would you like to dance?"
+    },
+    {
+      "slug": "hard-sci-fi-desert-3x3-grid-animation-sequence-845158",
+      "title": {
+        "en": "Hard sci-fi desert 3x3 grid animation sequence",
+        "zh": "硬核科幻沙漠九宫格动画"
+      },
+      "description": {
+        "en": "Controls a hard sci-fi desert sequence that animates every panel of a 3x3 grid while locking one scarred armored woman and her environments.",
+        "zh": "控制硬核科幻沙漠序列：按九宫格逐格动画，锁定同一疤痕女战士与沙漠环境。"
+      },
+      "category": "cinematic-story",
+      "mode": "reference-to-video",
+      "duration": "15s",
+      "aspectRatio": "8:9",
+      "ingredients": [
+        "3x3 desert grid",
+        "scarred desert warrior",
+        "twin sun dunes",
+        "rusted multi-tool"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@techhalla",
+        "url": "https://x.com/techhalla/status/2082611421225845158"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/techhalla/status/2082611424824623135"
+      ],
+      "prompt": "Epic desert sci-fi, harsh golden-hour light, volumetric sand haze, anamorphic lens flares, subtle handheld drift, heavy atmospheric particles, 35mm film texture.\n\nUse the provided 3x3 grid as the only visual reference. Lock the exact same woman (face, scars, green eyes, headscarf, desert armor, cape) and environments from every panel. Do not invent new outfits or faces.\n\n[TIMELINE] 0-1.7s: [Wide establishing] Lone figure walking across endless dunes toward twin massive suns. Heat shimmer, long shadow stretching behind her.\n1.7-3.4s: [Extreme close-up] Her scarred face fills the frame. Eyes locked on camera, wind tugging the dirty headscarf, grit on skin, unblinking intensity.\n\n3.4-5.1s: [Tight detail insert] Gloved hand grips the rusted multi-tool weapon. Metal catches the orange light, cable dangling, fingers adjusting the grip with quiet precision.\n\n5.1-6.8s: [Low wide silhouette] The towering industrial structure rises against the giant sun. Dust storms swirl at its base, scale feeling ancient and oppressive.\n\n6.8-8.5s: [Medium tracking] She advances through thick sandstorm, lower face wrapped, cape and scarf whipping hard. Eyes visible above the cloth, determined stride.\n\n8.5-10.2s: [Hero wide] She stands alone on the rocky outcrop, cape flowing, surveying the empty desert below. Wind howls, silhouette sharp against the hazy sky.\n\n10.2-11.9s: [Dynamic tracking + low angle] She charges down the steep dune face, boots kicking up thick clouds of sand, body leaning forward with full momentum.\n\n11.9-13.6s: [Macro atmospheric] Golden sand particles explode and float in extreme slow motion, backlit by the blazing sun, pure texture and light.\n\n13.6-15s: [Intimate close-up] Inside the dark cave, shafts of light cut through. She sits against the rock, armor dusted, breathing controlled, eyes sharp and watching the entrance.\n\nPhotorealistic, ultra-detailed skin and fabric textures, perfect sand physics, coherent character identity across every cut, cinematic color grade, heavy film grain, no artifacts, movie-level continuity."
+    },
+    {
+      "slug": "emotional-performance-lip-sync-to-reference-audio-609528",
+      "title": {
+        "en": "Emotional performance lip-sync to reference audio",
+        "zh": "高能情感表演口型同步"
+      },
+      "description": {
+        "en": "Controls a handheld emotional male performance with rapid body motion and precise lip-sync to specified lyric lines.",
+        "zh": "控制手持高能男声表演：肢体快速跟拍，并对指定歌词行精确口型同步。"
+      },
+      "category": "music-video",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "9:16",
+      "ingredients": [
+        "male singer",
+        "lyric lip-sync",
+        "handheld performance",
+        "high-energy gestures"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@Kiber_Alla",
+        "url": "https://x.com/Kiber_Alla/status/2082605878679609528"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/Kiber_Alla/status/2082605880776741109"
+      ],
+      "prompt": "The man sings the song with great emotion and energy. His movements are rapid and in sync with the music. He looks straight ahead. He is full of drive and energy, and his arm movements complement the motion of his body. Handheld shooting.\nHe sings passionately and emotionally with perfect lip sync the lyrics: “My chest goes quick My pulse on fire One little smile And I climb higher I don’t stand still I don’t stay calm You turn my whole Body on.”"
+    },
+    {
+      "slug": "five-cinematic-dialogue-set-piece-scenes-875568",
+      "title": {
+        "en": "Five cinematic dialogue set-piece scenes",
+        "zh": "五段电影对白重场戏"
+      },
+      "description": {
+        "en": "Controls five tightly blocked dialogue set pieces spanning desert standoff, conservatory letter, timber-rail dust, Naples balcony, and wartime farmhouse orders.",
+        "zh": "控制五段严卡调度的对白重场：沙漠枪口对峙、花房书信、木栏尘土、那不勒斯阳台与战时农舍军令。"
+      },
+      "category": "cinematic-story",
+      "mode": "reference-to-video",
+      "duration": "161s",
+      "aspectRatio": "184:103",
+      "ingredients": [
+        "desert standoff man",
+        "conservatory letter pair",
+        "timber-rail noon man",
+        "balcony and farmhouse casts"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@maxescu",
+        "url": "https://x.com/maxescu/status/2082563241062875568"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/maxescu/status/2082563245504856385",
+        "https://x.com/maxescu/status/2082563249095020865",
+        "https://x.com/maxescu/status/2082563252471357498",
+        "https://x.com/maxescu/status/2082563256028139736",
+        "https://x.com/maxescu/status/2082563259782287522"
+      ],
+      "prompt": "SCENE CONTEXT A middle-aged man stands in the middle of a dirt road in open desert and holds a pistol level at the person filming him. He gives an instruction, is answered by name, and warns them not to say it again. Nothing is fired.\n\nTIMELINE 0.0–3.0s — he is already aimed and steady; his first line lands. 3.0–6.0s — the off-frame reply uses his name; his jaw sets and the muzzle does not drop. 6.0–9.0s — his second line; he takes half a step forward and re-sights. 9.0–11.0s — the off-frame voice starts his name again and stops. 11.0–15.0s — his last line; wind lifts dust across the road behind him; he holds the aim. Hold to black-free end.\n\nACTIVE REFERENCES No image or video references are active in this shot. Build the man from description only. Man, fifties, white, average build, standing, thinning brown hair, a brown moustache, thin-rimmed prescription glasses; light green long-sleeved button-down shirt with the sleeves buttoned at the wrist, dark work trousers; stern, brow furrowed, sweat starting at the hairline; frightened underneath and controlling it; speaking voice flat, plain, mid-western American, no theatricality. Second speaker: the unseen person the pistol is aimed at, occupying the camera position, never entering frame and never seen. Voice only — male, forties, close to the lens, low and careful.\n\nLOCATION MAP Camera on the dirt road 3.5 m from him at his chest height, facing him square-on so the muzzle is aligned with the lens axis. FG: rutted dirt and loose gravel across the lower frame. MG: the man alone, centre frame. BG: the dirt road receding to a vanishing point at x 50%, y 44%, low scrub and dry brush from x 0% to x 30% and x 70% to x 100%, a distant fence line at x 62%, y 48%, flat desert horizon at y 46%, overcast sky filling the upper half with one pale blue break low at x 24%, y 36%. He occupies x 50%, y 50%, body frontal, both feet planted, right arm extended toward camera with the silver pistol at x 50%, y 56%, held at the very front of the depth plane. His eyeline is straight down the lens. The first visible frame already has him aimed and in position — no empty establishing frame, no walk-in, no delayed reveal, and he remains the only figure in frame for the entire take.\n\nFORMAT MODE Single continuous take, no internal cuts, no transitions, no fades. Real-time motion. His lines are on camera; the second voice is an intentional off-frame speaker at the camera position. No other voices, no narration, no subtitles, no score.\n\nCAMERA 47° diagonal field of view, camera 3.5 m from him at chest height, natural human-eye perspective, no distortion, natural face and body proportions, the road and horizon readable behind him, comfortable depth of field with the pistol slightly forward of his focal plane. Handheld, shoulder-mounted mass, operator breath and small involuntary settling — the camera is being held by the person he is aiming at, so it flinches minutely rather than gliding. Total travel under 20 cm, no push-in, no zoom, no focus rack. Focus holds his eyes behind the glasses; the pistol stays just soft.\n\nACTION TIMING He is already sighted along the barrel as the shot opens and speaks without lowering it. The off-frame voice answers with his name; his jaw sets and the muzzle does not waver. He speaks his second line and takes half a step forward on the dirt, re-sighting as his weight lands. The off-frame voice begins his name again and stops. He delivers his last line, and wind lifts a curtain of dust across the road behind him. He holds the aim to the end without firing and without lowering the weapon.\n\nPHYSICS The pistol carries real weight — his wrist and forearm show the load and micro-correct continuously; the muzzle drifts a few millimetres and is pulled back on line. His half step lands heel-first in soft dirt with visible weight transfer and a small dust puff that drifts and thins. Shirt fabric pulls across the extended shoulder and creases at the elbow. Wind moves the loose dust and the dry scrub in the same direction and at the same time. Thinning hair lifts and settles with the gust. Sweat beads at his temple and does not run.\n\nLIGHTING Primary source is the full overcast sky acting as one enormous soft toplight, giving even illumination with minimal harsh shadow — a soft shadow under the brow and the nose only, no hard edges anywhere. Secondary is dry ground bounce filling under the chin and lifting the shadow side of the pistol. Both lenses of his glasses carry a broad soft reflection of the sky, and his eyes stay readable behind them. Exposure is set for his face; the sky sits bright but not clipped. No sun shaft, no lens flare, no added key, no light change during the take.\n\nAUDIO Dry wind across open ground, loose grit moving on the road, dry brush ticking, one distant bird, his own breathing close and unsteady. Ambient ducks under the voices. Exactly this exchange, flat and plain, no shouting — 25 words total: HIM: \"Put it on the ground. Slowly.\" OFF-FRAME: \"You're not going to shoot me, Ray.\" HIM: \"I've been wrong about myself before.\" OFF-FRAME: \"Ray—\" HIM: \"Don't say my name again.\" His first line opens the shot. The off-frame reply lands as his jaw sets. His second line comes as he takes the half step. The off-frame \"Ray—\" is cut off by his last line, which is quieter than everything before it. His lips move only for his own lines; there is no dialogue in the pauses and no muttering between beats.\n\nPOSITIVE LOCKS Exactly one visible person is in frame for the whole take — nobody enters at any edge, no second figure appears on the road, at the fence line or in the reflections on his glasses, and the off-frame speaker is never seen. The pistol stays in his right hand, stays aimed at the lens, and is never fired, never lowered and never re-holstered; no muzzle flash, no recoil, no gunshot. He stays on the road and never turns away from camera. Naturalistic muted palette of dry greens and browns against pale overcast grey. Live-action photoreal footage shot on ARRI Alexa 35, tense neutral mood, natural film grain.\n\nSCENE CONTEXT In a frosted country-house conservatory on a grey morning, an older woman tells a younger one that the letter will not be answered. The younger woman holds her composure and loses it only in her hands.\n\nFORMAT MODE Controlled three-segment sequence, one HARD CUT and one INSERT CUT. Real-time motion.\n\nLOCATION MAP Camera inside a glazed conservatory, 3 m from the two women, facing them with the steamed glass wall behind them. FG: potted fern fronds at the frame edge. MG: older woman screen-left, younger woman screen-right, 80 cm apart. BG: glass panes, frost-white winter garden, a cast-iron bench, one low oil lamp. Soft light comes from the whole glass wall behind and above them.\n\nFIRST FRAME AND SPATIAL BLOCKING Both women are in frame from the first visible frame. Older woman at x 32%, y 46%, three-quarter profile facing screen-right, gloved hands folded at her waist. Younger woman at x 68%, y 44%, torso squared to her, gaze locked on her face, a folded letter held in both hands at x 62%, y 76%. No empty establishing frame.\n\nOPTICS LENS LOCK SEGMENT 1 = 47°, camera 3 m out, natural proportions, both faces and the conservatory geography readable. LENS LOCK SEGMENT 2 = 18°, camera 6.5 m back down the conservatory aisle, strong compression, glass panes and ferns stacking behind the younger woman, razor-thin focus on her eyes. LENS LOCK SEGMENT 3 = 29°, camera 4 m out and lower, close on her hands by lens reach, the room dissolving to creamy bokeh behind.\n\nCAMERA Segment 1 locked-off at eye height. Segment 2 long lens with the faintest human drift. Segment 3 handheld, settling downward toward the letter.\n\nACTION TIMING BEAT 1 — The older woman speaks her line, chin level, hands unmoving. The younger woman does not react in her face. HARD CUT BEAT 2 — Long-lens hold on the younger woman. A long beat. Her eyelids redden; she blinks once and keeps her eyes forward, refusing to look down. INSERT CUT BEAT 3 — Tight on her hands. Her thumbs press and slowly crush the folded letter's edge until the paper buckles, then stop. Hold on the buckled paper.\n\nPHYSICS Paper buckles progressively under thumb pressure and holds its new shape. Glove leather stretches over her knuckles. Condensation runs down glass panes in slow irregular tracks. Silk and wool hold real weight; her skirts do not float. Breath fogs faintly in the cold air.\n\nLIGHTING Primary source is vast soft north daylight through the steamed glass wall behind and above them, motivated, wrapping both faces. Secondary: cold blue bounce off the frost outside, and one warm low oil lamp deep in frame. Soft shadow rolloff with clearly readable eyes and catchlights — restrained low contrast, not silhouette.\n\nAUDIO Rain ticking on glass, a distant door, the faint hiss of the oil lamp, a bird outside. Ambient ducks under the voice. The older woman speaks exactly this line as the shot opens: \"There will be no reply, and you will not ask again.\" No other dialogue, no score. The younger woman's lips stay still.\n\nPOSITIVE LOCKS Exactly two women appear and no servant or third figure enters. Both hold their positions across all segments. Costume, gloves, the folded letter and the frost state remain identical across the cuts. Cinematic photorealistic footage shot on ARRI Alexa 35, pearl-grey and soft-green grade, low contrast, natural film grain.\n\nSCENE CONTEXT A weathered man rests against a timber rail in blistering noon heat while something is brought up the street toward him. A voice across the street offers him a way out and he declines it.\n\nTIMELINE 0.0–3.0s — the off-frame line; a gust lifts dust across frame. 3.0–6.0s — his answer; he turns his face out of the dust and works his jaw once. 6.0–9.5s — the second off-frame line; his eyes track slowly screen-left to screen-right. 9.5–12.5s — his last line, flat and final. 12.5–15.0s — he pushes off the rail with one shoulder and straightens out of the top of frame; dust closes behind him.\n\nACTIVE REFERENCES  📷Image1  is the reference and the exact first visible frame — source of truth for his face, hat, wardrobe and the light. Man, fifties, leaning against a timber rail, pale wide-brim hat pushed back with a visible pale forehead line, dust-caked collarless shirt torn at one shoulder, deep sun creases, broken capillaries, grit in the stubble; long past being surprised; speaking voice dry, laconic, low volume. 100% matches the reference. Second speaker: an unseen man across the street, off-frame screen-left at the same level, never entering frame. Voice only — male, middle-aged, flat, carrying across distance.\n\nLOCATION MAP Camera on the street 4.5 m from him at his eye height. FG: nothing between camera and subject except airborne dust. MG: the man against grey weathered timber spanning x 0% to x 55%. BG: a blurred wagon at x 76%, y 30% and two standing figures at x 84%, y 34% and x 92%, y 36%, dissolved in heat shimmer, pale sky at the top edge. He occupies x 34%, y 50%, chest-up, torso angled to screen-right, eyes to screen-left. The first visible frame already contains him in exactly this position. He is the only sharp figure and remains so.\n\nFORMAT MODE Single continuous take, no internal cuts, no transitions. Real-time motion. His lines are on camera; the second voice is an intentional off-frame reply. No other voices, no narration, no subtitles, no music.\nCAMERA 29° diagonal field of view, camera 4.5 m out at his eye height, close framing achieved through lens reach, his face razor-sharp, the wagon and the two figures compressed flat behind him and melting into bokeh, visible heat shimmer between camera and background. Locked off with the faintest human drift; no push-in, no focus rack.\n\nACTION TIMING He squints harder as a gust lifts dust across the frame, and turns his face a few degrees out of it as he answers. He works his jaw once. His eyes track slowly from screen-left to screen-right, following something crossing behind camera. A long beat. He delivers his last line, then pushes off the rail with one shoulder and straightens, rising out of the top edge of frame as the dust closes behind him.\n\nPHYSICS Airborne dust crosses in real gusts, catches the light and settles on his shoulders. The torn shirt fabric lifts at the shoulder and falls. The timber rail does not move when he pushes off it, and his weight transfers audibly into his boots. Sweat and grit sit on the skin without running.\n\nLIGHTING Inherit  📷Image1  exactly and do not relight. Primary: hard vertical noon sun. Secondary: brilliant bounce off pale caliche dust filling the shadows from below. Deep shadow under the hat brim across the bridge of his nose. Highlights on the timber and sky sit near clipping. No fill added, no light change during the take.\n\nAUDIO Dry wind against timber, distant wagon wheels and harness, a fly, boot grit. Ambient ducks under the voices. Exactly this exchange, laconic and flat, spoken across distance without echo effects — 22 words total: OFF-FRAME MAN: \"They're bringing him up now.\" HIM: \"I can see the dust.\" OFF-FRAME MAN: \"You want to be somewhere else?\" HIM: \"I've been somewhere else. Didn't help.\" The off-frame line opens the shot. He answers into the gust. The second off-frame line comes while his eyes track across. His last line lands as he pushes off the rail. His lips move only for his own lines.\n\nPOSITIVE LOCKS Exactly one sharp figure is in frame; the two background figures stay unresolved in the heat haze and never become characters or come into focus, and no one crosses between camera and subject. Hat, torn shirt, dust layer and the timber rail stay exactly as in  📷Image1 . Cinematic photorealistic footage shot on ARRI Alexa 35, natural film grain.\n\nSCENE CONTEXT On a narrow Naples balcony at blue hour, a woman tells a man she has already taken the job. He does not argue, which is worse.\n\nFORMAT MODE Controlled three-segment sequence, two HARD CUTs. Real-time motion. Restrained camera throughout.\n\nLOCATION MAP Camera on the balcony, 2 m from the couple, facing them with the lit kitchen doorway behind them screen-centre-left. FG: iron rail and two espresso cups. MG: woman and man standing 60 cm apart. BG: alley canyon, drying laundry, a lit window opposite, string lights. Warm light comes from behind them through the doorway; cool dusk fills from camera side.\n\nFIRST FRAME AND SPATIAL BLOCKING Both are in frame from the first visible frame. Woman at x 34%, y 46%, torso facing screen-right, one hand on the iron rail. Man at x 68%, y 44%, three-quarter profile facing her, hands at his sides. Their eyelines meet at x 50%. The two espresso cups sit on the rail at x 52%, y 74%.\n\nOPTICS LENS LOCK SEGMENT 1 = 47°, camera 2.2 m out, natural proportions, both faces and the alley depth readable. LENS LOCK SEGMENT 2 = 29°, camera 4.5 m back along the balcony, close on the woman by lens reach, alley lights compressing into soft round bokeh behind her. LENS LOCK SEGMENT 3 = 84°, camera 1 m from the man, foreground rail presence, the whole balcony and doorway visible to the edges.\n\nCAMERA Segment 1 handheld with almost no travel, operator breath only. Segment 2 locked-off. Segment 3 handheld, a slow 20 cm settle downward as he lowers his head. Camera stays on the dusk side of both faces.\n\nACTION TIMING BEAT 1 — She speaks her line, then looks at her own hand on the rail rather than at him. He does not move. HARD CUT BEAT 2 — Held on her. A long beat. Her mouth begins a word and abandons it; she swallows and lifts her eyes back to him. HARD CUT BEAT 3 — On him. He nods once, small, and picks up one of the espresso cups without drinking from it. The shot holds on his hand around the cup as the string lights flicker once.\n\nPHYSICS Cool air moves the drying laundry in the background on real cloth delay. Her knit sleeve compresses where her forearm presses the rail. The cup has weight; the saucer chatters faintly when lifted. Loose hair moves independently of her head turn.\n\nLIGHTING Primary source is the warm kitchen bulb behind them through the doorway, motivated, giving both a warm hair and shoulder rim. Fill is cool ambient dusk from camera side. Soft shadow rolloff, not crushed silhouettes — eyes stay readable with visible catchlights. Practical string lights and one lit window across the alley sit in the background.\n\nAUDIO Distant scooter, a television two floors down, pigeons, faint street voices. Ambient ducks under the voice. She speaks exactly this line as the shot opens: \"I signed it on Tuesday.\" No other dialogue, no score. His lips stay still.\n\nPOSITIVE LOCKS Exactly two people are on the balcony and no one appears in the doorway behind them. Their positions, wardrobe, the two cups and the laundry arrangement remain identical across the cuts. Cinematic photorealistic footage shot on ARRI Alexa 35, warm-amber against slate-blue grade, low contrast, natural film grain.\n\nSCENE CONTEXT In a shelled Normandy farmhouse at night, a colonel orders a captain to take the lane at first light. The captain accepts the order knowing what it costs.\n\nFORMAT MODE Controlled three-segment sequence, one HARD CUT and one REVERSE CUT. Real-time motion.\n\nLOCATION MAP Camera inside a roofless farmhouse room, 2.5 m from a map table. FG: table edge, tin mug, field telephone. MG: colonel standing screen-left of the table, captain standing screen-right. BG: pinned maps on plaster, splintered beams, a hole in the roof. Primary light is a hurricane lamp on the table between them.\n\nFIRST FRAME AND SPATIAL BLOCKING Both officers are already at the table in the first visible frame. Colonel at x 30%, y 44%, three-quarter profile facing screen-right, index finger planted on the map at x 46%, y 76%. Captain at x 70%, y 42%, torso squared to the colonel, gaze down on the finger, not the face. Lamp at x 50%, y 66%. No empty establishing frame.\n\nOPTICS LENS LOCK SEGMENT 1 = 47°, camera 2.5 m from the table, natural proportions, both officers and the map geography readable. LENS LOCK SEGMENT 2 = 29°, camera 4 m back, close on the captain by lens reach, the pinned map wall compressed soft behind him. LENS LOCK SEGMENT 3 = 84°, camera 1.1 m above the map surface angled up past the lamp, foreground lamp glass looming, both men and the broken roof visible to the edges.\n\nCAMERA Segment 1 locked-off at chest height. Segment 2 handheld with operator breath, camera on the lamp's shadow side. Segment 3 handheld low, slow rise past the lamp flame.\n\nACTION TIMING BEAT 1 — The colonel speaks his line, finger pressing hard enough to crease the map. Plaster dust drifts through the lamp beam. REVERSE CUT BEAT 2 — On the captain. A distant artillery flash strobes blue across his face. A muscle jumps in his cheek; he nods once and looks up. HARD CUT BEAT 3 — Low wide past the lamp. The captain squares his cap, turns and walks out of frame screen-right. The colonel stays, hand flattening the creased map, and the lamp flame leans in the draught of the door.\n\nPHYSICS Paper creases and holds the crease under finger pressure. The lamp flame bends and recovers when air moves; its light level dips accordingly. Plaster dust falls with real settling drift. Boots find rubble with uneven weight transfer and grit sound. Wool uniform holds damp weight and does not billow.\n\nLIGHTING Primary source is the hurricane lamp on the table, motivated, hard and warm, underlighting both faces and leaving eye sockets in shadow. Secondary: cold moonlight through the roof hole rimming shoulders, plus intermittent distant artillery flash on the back wall. Exposure is set for the lamp; shadows are allowed to crush. No added frontal fill.\n\nAUDIO Distant shellfire, a field telephone hum, wind through the broken roof, drip of water. Ambient ducks under the voice. The colonel speaks exactly this line as the shot opens: \"You take the lane at first light, with what you have.\" No other dialogue, no score. The captain's lips stay still.\n\nPOSITIVE LOCKS Exactly two officers are in the room and no other figures enter. Both stay on their own side of the table until the captain exits in the final beat. Uniform state, mud, plaster dust and the lamp position remain identical across the cuts. Cinematic photorealistic footage shot on ARRI Alexa 35, desaturated olive-and-amber grade, natural film grain."
+    },
+    {
+      "slug": "live-action-relationship-confession-drama-scene-224793",
+      "title": {
+        "en": "Live-action relationship confession drama scene",
+        "zh": "实拍关系告白对峙戏"
+      },
+      "description": {
+        "en": "Controls two connected live-action living-room drama clips of a husband confronting his wife with phone evidence and her unapologetic confession.",
+        "zh": "控制两段相连的客厅实拍关系戏：丈夫以手机证据质问，妻子坦承并给出不道歉的理由。"
+      },
+      "category": "cinematic-story",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "husband and wife",
+        "night living room",
+        "unlocked phone evidence",
+        "confession dialogue"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@NEXUS_TO_NOVA",
+        "url": "https://x.com/NEXUS_TO_NOVA/status/2082548512286224793"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/NEXUS_TO_NOVA/status/2082548515587358962"
+      ],
+      "prompt": "Grounded photorealistic live-action relationship drama, natural 24fps motion.\nFORMAT\n\nTwo connected 15-second clips, 16:9, grounded photorealistic live-action relationship drama, natural 24fps motion.\n\nSHARED STYLE\n\nA small living room at night. One warm floor lamp mixes with cold blue streetlight through the curtains. A framed wedding photograph hangs behind the couple. Restrained handheld camera, realistic skin and fabric, tense silence, no melodramatic shouting.\n\nCONTINUITY\n\nThe husband remains frame left beside the coffee table, holding his wife’s unlocked phone containing the evidence. The wife remains frame right near the window. Preserve their faces, clothes, positions and screen direction across every cut.\n\nCLIP 1 — THE CONFESSION\n\n0.0–5.0\n\nCamera: Slow 35mm push toward both characters.\n\nAction: The husband stares at the phone, then raises his eyes toward her.\n\nHUSBAND: “How long has this been going on?”\n\n5.0–8.0\n\nCamera: Cut to a restrained 50mm close-up of the wife.\n\nAction: She cannot meet his eyes. After a short pause:\n\nWIFE: “Six months.”\n\n8.0–15.0\n\nCamera: Close on the husband. His grip tightens around the phone, but he controls his voice.\n\nHUSBAND: “Six months? I gave you twelve years. Why?”\n\nFinal frame: The wife finally looks directly at him, preparing to answer.\n\nCLIP 2 — THE REASON\n\nBegin from the exact positions and expressions inherited from Clip 1.\n\n0.0–6.5\n\nCamera: Slow push toward the wife as she folds her arms defensively.\n\nWIFE: “Because I’m tired of being broke. Every dream with you becomes ‘maybe one day.’”\n\n6.5–10.0\n\nCamera: Cut to the husband. His anger gives way to disbelief.\n\nHUSBAND: “So you chose him for his money?”\n\n10.0–15.0\n\nCamera: Return to the wife. She holds his gaze without apologizing.\n\nWIFE: “I chose someone who can give me the life I want.”\n\nFinal frame: Hold on the husband as the meaning lands. His hand lowers, and the phone slips onto the sofa."
+    },
+    {
+      "slug": "kinetic-lyric-stage",
+      "title": {
+        "en": "Kinetic lyric stage",
+        "zh": "动态歌词舞台"
+      },
+      "description": {
+        "en": "A one-take performance that turns each lyric beat into a new typographic space.",
+        "zh": "用一镜到底的演出，把每个歌词节拍变成新的字体空间。"
+      },
+      "category": "music-video",
+      "mode": "reference-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "Singer reference",
+        "Track excerpt",
+        "Brand typeface reference"
+      ],
+      "source": {
+        "kind": "beatapi-original",
+        "name": "BeatAPI Editorial",
+        "url": "https://github.com/BeatAPI/awesome-minimax-h3-prompts/blob/main/prompts/kinetic-lyric-stage.json"
+      },
+      "outputStatus": "template-unverified",
+      "prompt": "Create a continuous 15-second performance film using the singer in Image 1 and the audio in Audio 1. Preserve the performer's face, hairstyle, wardrobe silhouette, and lip movement throughout. Start in a black rehearsal room with one hard overhead spotlight. Every major vocal beat should physically transform one lyric phrase into part of the set: letters rise from the floor, wrap around the performer, then break into luminous particles. Keep the camera on a controlled circular dolly move with no cuts. Use high-contrast white typography with acid-lime accents, subtle film grain, realistic shadows, and restrained motion blur. End on the final lyric locked as a clean centered title while the performer becomes a silhouette behind it. Do not add extra words, logos, subtitles, or watermarks."
+    },
+    {
+      "slug": "living-editorial-poster",
+      "title": {
+        "en": "Living editorial poster",
+        "zh": "会呼吸的编辑海报"
+      },
+      "description": {
+        "en": "Animate a still campaign layout without losing its typography, spacing, or art direction.",
+        "zh": "让静态视觉动起来，同时保留字体、留白和原始艺术指导。"
+      },
+      "category": "motion-graphics",
+      "mode": "image-to-video",
+      "duration": "10s",
+      "aspectRatio": "9:16",
+      "ingredients": [
+        "Poster reference",
+        "Texture reference"
+      ],
+      "source": {
+        "kind": "beatapi-original",
+        "name": "BeatAPI Editorial",
+        "url": "https://github.com/BeatAPI/awesome-minimax-h3-prompts/blob/main/prompts/living-editorial-poster.json"
+      },
+      "outputStatus": "template-unverified",
+      "prompt": "Animate Image 1 as a premium vertical editorial poster while preserving every existing word, letter shape, line break, margin, and color relationship exactly. Do not rewrite or invent text. Begin with an almost imperceptible paper texture breathing under soft directional light. At 2 seconds, the portrait separates into three shallow depth layers and the camera pushes forward by five percent. At 4 seconds, the headline tracks outward by a few pixels while a thin red rule sweeps across the composition. At 7 seconds, all layers settle back into the original poster grid. Use tactile printed-paper detail, elegant 12 fps stop-motion cadence, no elastic distortion, no melting faces, and no sudden zoom. Finish on a frame that can loop cleanly into the first frame."
+    },
+    {
+      "slug": "luxury-fragrance-launch",
+      "title": {
+        "en": "Luxury fragrance launch",
+        "zh": "奢华香氛发布片"
+      },
+      "description": {
+        "en": "A precise product reveal built from material transitions, macro lighting, and a final packshot.",
+        "zh": "用材质转场、微距光线和最终定帧完成精确的产品揭晓。"
+      },
+      "category": "brand-film",
+      "mode": "reference-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "Bottle reference",
+        "Material reference",
+        "Music sting"
+      ],
+      "source": {
+        "kind": "beatapi-original",
+        "name": "BeatAPI Editorial",
+        "url": "https://github.com/BeatAPI/awesome-minimax-h3-prompts/blob/main/prompts/luxury-fragrance-launch.json"
+      },
+      "outputStatus": "template-unverified",
+      "prompt": "Create a 15-second luxury fragrance launch using the bottle in Image 1 as the exact product reference. Preserve the bottle geometry, cap, glass color, label position, and all legible packaging text. Open with an extreme macro shot of condensation traveling across black glass. Follow one droplet as it falls and transforms into a ribbon of liquid chrome. The ribbon crosses a dark stone surface, reveals the bottle through reflected light, and becomes a narrow spotlight behind it. Time the transformation beats to Audio 1. Camera movement is slow, architectural, and physically plausible. Lighting is graphite black with cold cyan highlights and one warm amber edge. Finish with a stable centered packshot for two seconds. No hands, extra bottles, invented copy, floating logos, or deformed packaging."
+    },
+    {
+      "slug": "interface-launch-film",
+      "title": {
+        "en": "Interface launch film",
+        "zh": "产品界面发布片"
+      },
+      "description": {
+        "en": "Turn product screens into a coherent launch sequence with legible UI and spatial transitions.",
+        "zh": "把产品界面变成连贯的发布叙事，并保持 UI 清晰可读。"
+      },
+      "category": "product-demo",
+      "mode": "reference-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "Three UI screenshots",
+        "Brand palette reference"
+      ],
+      "source": {
+        "kind": "beatapi-original",
+        "name": "BeatAPI Editorial",
+        "url": "https://github.com/BeatAPI/awesome-minimax-h3-prompts/blob/main/prompts/interface-launch-film.json"
+      },
+      "outputStatus": "template-unverified",
+      "prompt": "Build a polished 15-second software launch film from UI Screens 1, 2, and 3. Preserve the interface copy, icon shapes, data values, spacing, and brand colors; do not fabricate controls. Start close on the waveform in Screen 1 as the playhead moves from left to right. The waveform expands into a three-dimensional timeline, and the camera travels through it into Screen 2. At 7 seconds, one card from Screen 2 rotates forward and becomes the full layout of Screen 3. Add small cursor interactions only where an existing control is visible. Use crisp orthographic motion, restrained depth, soft studio shadows, and one yellow signal color for active states. End with all three screens arranged as a clean product system. No illegible microtext, warped panels, fake notifications, or device mockups."
+    },
+    {
+      "slug": "rhythmic-photo-diary",
+      "title": {
+        "en": "Rhythmic photo diary",
+        "zh": "节奏照片日记"
+      },
+      "description": {
+        "en": "Convert everyday photos into a tactile, music-led vertical diary with editorial captions.",
+        "zh": "把日常照片变成有触感、跟随音乐节奏的竖屏影像日记。"
+      },
+      "category": "vlog",
+      "mode": "reference-to-video",
+      "duration": "15s",
+      "aspectRatio": "9:16",
+      "ingredients": [
+        "Five trip photos",
+        "Music excerpt"
+      ],
+      "source": {
+        "kind": "beatapi-original",
+        "name": "BeatAPI Editorial",
+        "url": "https://github.com/BeatAPI/awesome-minimax-h3-prompts/blob/main/prompts/rhythmic-photo-diary.json"
+      },
+      "outputStatus": "template-unverified",
+      "prompt": "Create a 15-second vertical photo diary from Images 1 through 5 and synchronize its pacing to Audio 1. Keep every person's identity, clothing, and location faithful to the references. Treat the images as physical prints on a sunlit editing table: a hand-drawn route line connects one image to the next, shadows shift naturally, and small date-stamp labels appear only with the exact text supplied in Image 5. Use match cuts based on similar shapes rather than random transitions. Alternate two calm holds with three faster beats, then slow down for the final image. The visual language is warm documentary photography, off-white paper, blue pencil marks, and gentle 35 mm grain. No synthetic scenery, face morphing, extra people, generic travel slogans, or watermark."
+    },
+    {
+      "slug": "architectural-title-sequence",
+      "title": {
+        "en": "Architectural title sequence",
+        "zh": "建筑感片头序列"
+      },
+      "description": {
+        "en": "A restrained opening sequence where typography is revealed through light, scale, and structure.",
+        "zh": "用光线、尺度与结构，让文字在克制的开场序列中逐步显现。"
+      },
+      "category": "title-sequence",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "Exact title copy",
+        "Music cue"
+      ],
+      "source": {
+        "kind": "beatapi-original",
+        "name": "BeatAPI Editorial",
+        "url": "https://github.com/BeatAPI/awesome-minimax-h3-prompts/blob/main/prompts/architectural-title-sequence.json"
+      },
+      "outputStatus": "template-unverified",
+      "prompt": "Create a 15-second cinematic title sequence for the exact title “AFTER THE SIGNAL.” Spell the title exactly and do not add any other copy. Begin inside a vast brutalist concrete corridor at dawn. A narrow band of light moves across the walls and reveals fragments of the letters as if they are cut into the architecture. The camera advances on a perfectly straight track while the corridor proportions slowly become impossible: walls separate, stairs rotate ninety degrees, and the title fragments align in perspective. At 11 seconds, the camera reaches an open chamber where the complete title stands as a physical structure. Hold the final readable composition for three seconds. Use cool grey concrete, one red signal light, volumetric haze, realistic scale, and restrained sound-reactive pulses. No people, shaky camera, fantasy ornament, misspelled text, subtitles, or watermark."
+    }
+  ]
+}

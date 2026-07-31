@@ -1,0 +1,26 @@
+{
+  "slug": "living-editorial-poster",
+  "title": {
+    "en": "Living editorial poster",
+    "zh": "会呼吸的编辑海报"
+  },
+  "description": {
+    "en": "Animate a still campaign layout without losing its typography, spacing, or art direction.",
+    "zh": "让静态视觉动起来，同时保留字体、留白和原始艺术指导。"
+  },
+  "category": "motion-graphics",
+  "mode": "image-to-video",
+  "duration": "10s",
+  "aspectRatio": "9:16",
+  "ingredients": [
+    "Poster reference",
+    "Texture reference"
+  ],
+  "source": {
+    "kind": "beatapi-original",
+    "name": "BeatAPI Editorial",
+    "url": "https://github.com/BeatAPI/awesome-minimax-h3-prompts/blob/main/prompts/living-editorial-poster.json"
+  },
+  "outputStatus": "template-unverified",
+  "prompt": "Animate Image 1 as a premium vertical editorial poster while preserving every existing word, letter shape, line break, margin, and color relationship exactly. Do not rewrite or invent text. Begin with an almost imperceptible paper texture breathing under soft directional light. At 2 seconds, the portrait separates into three shallow depth layers and the camera pushes forward by five percent. At 4 seconds, the headline tracks outward by a few pixels while a thin red rule sweeps across the composition. At 7 seconds, all layers settle back into the original poster grid. Use tactile printed-paper detail, elegant 12 fps stop-motion cadence, no elastic distortion, no melting faces, and no sudden zoom. Finish on a frame that can loop cleanly into the first frame."
+}

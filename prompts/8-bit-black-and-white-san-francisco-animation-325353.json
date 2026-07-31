@@ -1,0 +1,31 @@
+{
+  "slug": "8-bit-black-and-white-san-francisco-animation-325353",
+  "title": {
+    "en": "8-bit black and white San Francisco animation",
+    "zh": "黑白八位机旧金山动画"
+  },
+  "description": {
+    "en": "Controls a black-and-white 8-bit animation of San Francisco.",
+    "zh": "控制旧金山的黑白八位机像素动画。"
+  },
+  "category": "motion-graphics",
+  "mode": "text-to-video",
+  "duration": "10s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "San Francisco",
+    "8-bit animation",
+    "black and white"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@vercel_dev",
+    "url": "https://x.com/vercel_dev/status/2083007144111325353"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/vercel_dev/status/2083007144111325353"
+  ],
+  "prompt": "𝟾-𝚋𝚒𝚝, 𝚋𝚕𝚊𝚌𝚔 𝚊𝚗𝚍 𝚠𝚑𝚒𝚝𝚎 𝚊𝚗𝚒𝚖𝚊𝚝𝚒𝚘𝚗 𝚘𝚏 𝚜𝚊𝚗 𝚏𝚛𝚊𝚗𝚌𝚒𝚜𝚌𝚘"
+}
