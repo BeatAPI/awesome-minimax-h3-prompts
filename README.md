@@ -2331,8 +2331,9 @@ gallery.
 | [Greenhouse tea isekai anime](https://beatapi.io/prompts/minimax-h3/greenhouse-tea-isekai-anime) | [@haruuraeadss](https://x.com/haruuraeadss/status/2082798959014064531) | Anime | Prompt + video |
 | [Lilia Astra title sequence](https://beatapi.io/prompts/minimax-h3/lilia-astra-title-sequence) | [@haruuraeadss](https://x.com/haruuraeadss/status/2082945363431080299) | Title sequence | Prompt + video |
 
-Third-party source videos are linked and credited rather than redistributed in
-this public repository. Their rights remain with the original creators.
+Full source videos are streamed from BeatAPI's CDN rather than committed to Git
+history. This repository contains six lightweight three-second WebP previews
+for navigation. Attribution and rights remain with the original creators.
 
 ## BeatAPI template collection
 
