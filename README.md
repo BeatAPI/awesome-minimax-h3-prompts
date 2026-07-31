@@ -4,38 +4,15 @@
 
 # Awesome MiniMax H3 Prompts
 
-An open, source-transparent collection of production prompt templates for
-MiniMax H3—curated by [BeatAPI](https://beatapi.io).
+Curated MiniMax H3 video prompts with WebM examples and creator attribution,
+by [BeatAPI](https://beatapi.io).
 
-**[Browse the visual gallery](https://beatapi.io/prompts/minimax-h3)** ·
 **[中文说明](./README.zh-CN.md)** ·
-**[Submit a prompt](https://github.com/BeatAPI/awesome-minimax-h3-prompts/issues/new?template=prompt.yml)**
+**[Contribute a prompt](https://github.com/BeatAPI/awesome-minimax-h3-prompts/issues/new?template=prompt.yml)**
 
-## Why this repository exists
-
-MiniMax H3 accepts text, images, video, and audio in one generation workflow.
-That makes prompt quality depend on more than prose. A useful entry should
-explain:
-
-1. what every reference controls;
-2. what must remain unchanged;
-3. what happens at each point in the timeline;
-4. how the camera and transitions behave;
-5. what common failure modes to avoid.
-
-This repository keeps authorship and verification explicit. A copy-ready
-template is not presented as a tested showcase unless the relevant inputs and
-output evidence can be published.
-
-## Video and prompt gallery
+## Prompt gallery
 
 <!-- GENERATED_VIDEO_GALLERY_START -->
-
-The result comes first: watch the lightweight motion preview, scan the shortened
-prompt, or expand the complete prompt and use GitHub's copy control. The first
-six cards use repository-hosted animated WebP previews; the remaining cards use
-CDN poster frames to keep GitHub fast. Every source handle links to the original
-X post.
 
 ### 1. Modern warfare FPS gameplay
 
@@ -43,14 +20,8 @@ X post.
   <img src="./assets/readme-previews/modern-warfare-fps-gameplay.webp" alt="Modern warfare FPS gameplay video preview" width="700" />
 </a>
 
-*Animated three-second preview — click the image to play the complete WebM.*
-
-> **Prompt:** Camera: First-person perspective at eye level with authentic handheld player movement, as if recorded directly from a modern AAA military shooter. The player carries a highly detailed assault rifle with realistic animations, visible hands, tactical gloves,...
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — Camera: First-person perspective at eye level with authentic handheld player movement, as if recorded directly from a modern AAA military shooter. The player carries a highly...</summary>
 
 ~~~~text
 Camera: First-person perspective at eye level with authentic handheld player movement, as if recorded directly from a modern AAA military shooter. The player carries a highly detailed assault rifle with realistic animations, visible hands, tactical gloves, dynamic reload mechanics, and weapon sway.  **Opening Action:** The video immediately begins with the player already aiming down a roadway inside a modern military base. Multiple enemy soldiers are visible in the distance near sandbags, barricades, and military vehicles. The player carefully tracks one target, making small aim corrections while maintaining ADS (aim down sights). Fire several controlled bursts immediately at the visible enemies, producing realistic muzzle flashes, shell casings ejecting, smoke, recoil, hit reactions, and dust impacts around the targets. Continue firing in multiple short bursts while adjusting aim between enemies, simulating authentic FPS gameplay rather than scripted animation.  **Movement:** After the opening firefight, lower slightly from ADS and begin advancing cautiously along the road beside concrete barriers, Hesco walls, and parked military vehicles. Frequently check left and right corners, briefly stop to reacquire targets, then raise the weapon and fire additional controlled bursts whenever enemies appear ahead. Continue pushing forward with deliberate player-controlled movement, using cover naturally and maintaining believable tactical pacing.  **Environment:** Large modern military base with guard towers, armored vehicles, shipping containers, blast barriers, damaged buildings, smoke plumes, burning debris, scattered shell casings, dust clouds, and atmospheric battlefield haze. Cool natural daylight mixed with smoke and orange firelight creates a cinematic battlefield atmosphere.  **Camera Motion:** Authentic player-controlled movement with subtle head bob, weapon sway, natural mouse-look adjustments, small left-right corrections while aiming, realistic recoil, smooth tracking of moving targets, brief pauses before shooting, and fluid forward progression. Avoid cinematic camera moves—everything should feel like genuine live gameplay captured by a skilled player.  **Visual Quality:** Ultra-photorealistic, AAA game graphics with realistic PBR materials, detailed weapon models, physically accurate lighting, volumetric smoke, dynamic particle effects, crisp textures, realistic bullet impacts, muzzle flash illumination, motion blur only during rapid movement, and high-end military shooter presentation.  **Gameplay UI:** Display a realistic modern FPS HUD inspired by games like PUBG, Battlefield, or Call of Duty (without copying exact copyrighted assets). Include:  * Central dynamic crosshair or reticle * Ammo counter with magazine and reserve ammunition * Fire mode indicator * Compass at the top * Squad/team status panel * Mini-map in the upper corner * Health bar * Tactical equipment icons (grenades, medkit) * Hit markers when bullets connect * Directional damage indicators * Kill notification feed * Objective marker in the distance * Subtle interaction prompts and realistic HUD animations  The HUD should feel polished, modern, and fully integrated into the gameplay, enhancing the illusion of authentic recorded footage from a contemporary military FPS.
@@ -58,9 +29,9 @@ Camera: First-person perspective at eye level with authentic handheld player mov
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/modern-warfare-fps-gameplay.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/modern-warfare-fps-gameplay)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/modern-warfare-fps-gameplay.webm)
 
-**Source:** [@Just_sharon7](https://x.com/Just_sharon7/status/2083064417798025721) · **Details:** 15s · 16:9 · gameplay · source-verified
+**Source:** [@Just_sharon7](https://x.com/Just_sharon7/status/2083064417798025721) · 15s · 16:9 · gameplay
 
 ---
 
@@ -70,14 +41,8 @@ Camera: First-person perspective at eye level with authentic handheld player mov
   <img src="./assets/readme-previews/luxury-perfume-commercial.webp" alt="Luxury perfume commercial video preview" width="700" />
 </a>
 
-*Animated three-second preview — click the image to play the complete WebM.*
-
-> **Prompt:** Scene 1 (0–3s) – Luxury Reveal A luxury perfume bottle slowly emerges from darkness, standing on a glossy black pedestal. Soft golden light beams gradually reveal the crystal-clear glass, while subtle volumetric fog creates depth. Extreme macro shot,...
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — Scene 1 (0–3s) – Luxury Reveal A luxury perfume bottle slowly emerges from darkness, standing on a glossy black pedestal. Soft golden light beams gradually reveal the...</summary>
 
 ~~~~text
 Scene 1 (0–3s) – Luxury Reveal
@@ -98,9 +63,9 @@ Slow-motion hero shot of the luxury perfume bottle elegantly rotating as glowing
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-perfume-commercial.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/luxury-perfume-commercial)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-perfume-commercial.webm)
 
-**Source:** [@CaliraVal](https://x.com/CaliraVal/status/2083059583308751079) · **Details:** 15s · 16:9 · product commercial · source-verified
+**Source:** [@CaliraVal](https://x.com/CaliraVal/status/2083059583308751079) · 15s · 16:9 · product commercial
 
 ---
 
@@ -110,14 +75,8 @@ Slow-motion hero shot of the luxury perfume bottle elegantly rotating as glowing
   <img src="./assets/readme-previews/1980s-open-source-family-comedy.webp" alt="1980s open-source family comedy video preview" width="700" />
 </a>
 
-*Animated three-second preview — click the image to play the complete WebM.*
-
-> **Prompt:** Use the supplied image as the exact opening frame. Create a hilarious, high-budget 1980s live-action family comedy movie scene, photographed on a real soundstage with practical robot costumes, animatronics, handmade props, vintage wardrobe, and authentic 35mm...
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — Use the supplied image as the exact opening frame. Create a hilarious, high-budget 1980s live-action family comedy movie scene, photographed on a real soundstage with practical...</summary>
 
 ~~~~text
 Use the supplied image as the exact opening frame. Create a hilarious, high-budget 1980s live-action family comedy movie scene, photographed on a real soundstage with practical robot costumes, animatronics, handmade props, vintage wardrobe, and authentic 35mm film color.
@@ -145,9 +104,9 @@ No CGI, no digital-looking robots, no morphing, no extra people, no duplicated c
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/1980s-open-source-family-comedy.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/1980s-open-source-family-comedy)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/1980s-open-source-family-comedy.webm)
 
-**Source:** [@BrentLynch](https://x.com/BrentLynch/status/2083020024340693185) · **Details:** 12s · 16:9 · comedy · source-verified
+**Source:** [@BrentLynch](https://x.com/BrentLynch/status/2083020024340693185) · 12s · 16:9 · comedy
 
 ---
 
@@ -157,14 +116,8 @@ No CGI, no digital-looking robots, no morphing, no extra people, no duplicated c
   <img src="./assets/readme-previews/radio-operator-evacuation-bridge.webp" alt="Radio operator evacuation bridge video preview" width="700" />
 </a>
 
-*Animated three-second preview — click the image to play the complete WebM.*
-
-> **Prompt:** FORMAT 15 seconds | 16:9 | photoreal live-action war thriller Fictional Sahelian city at blue-hour dawn. Urgent, human, suspenseful, non-graphic. REFERENCE CONTROL Image 1 = locked AMINA identity and wardrobe. Preserve face, close-cropped hair, deep-brown...
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — FORMAT 15 seconds | 16:9 | photoreal live-action war thriller Fictional Sahelian city at blue-hour dawn. Urgent, human, suspenseful, non-graphic. REFERENCE CONTROL Image 1 =...</summary>
 
 ~~~~text
 FORMAT
@@ -284,9 +237,9 @@ Maintain geographic and temporal continuity across all shots.
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/radio-operator-evacuation-bridge.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/radio-operator-evacuation-bridge)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/radio-operator-evacuation-bridge.webm)
 
-**Source:** [@Diplomeme](https://x.com/Diplomeme/status/2082770042630943156) · **Details:** 15s · 16:9 · cinematic story · source-verified
+**Source:** [@Diplomeme](https://x.com/Diplomeme/status/2082770042630943156) · 15s · 16:9 · cinematic story
 
 ---
 
@@ -296,14 +249,8 @@ Maintain geographic and temporal continuity across all shots.
   <img src="./assets/readme-previews/giant-koi-park-incident.webp" alt="Giant koi park incident video preview" width="700" />
 </a>
 
-*Animated three-second preview — click the image to play the complete WebM.*
-
-> **Prompt:** 15-second, 16:9 vertical, continuous single-take video that looks like authentic smartphone footage accidentally captured by a passerby in a city park. Overcast natural daylight, subtle handheld shake, limited phone stabilization, occasional autofocus...
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — 15-second, 16:9 vertical, continuous single-take video that looks like authentic smartphone footage accidentally captured by a passerby in a city park. Overcast natural daylight,...</summary>
 
 ~~~~text
 15-second, 16:9 vertical, continuous single-take video that looks like authentic smartphone footage accidentally captured by a passerby in a city park. Overcast natural daylight, subtle handheld shake, limited phone stabilization, occasional autofocus adjustment, and realistic smartphone compression. The absurd event is filmed with a completely serious, unscripted documentary feeling.  0–3s: [Handheld medium shot] A middle-aged man wearing a dark business suit and tie crouches beside the stone edge of a pond. With a completely serious expression, he slowly scatters pieces of bread from a paper bag to several ordinary koi. Small ripples spread across the water as the fish gather in front of him.  3–7s: [Camera instinctively moves closer] An abnormally huge orange-and-white koi suddenly surges out of the murky water, briefly lifting its upper body above the surface and biting down on the entire bread bag in the man’s left hand. He freezes for half a second, then grips the bag with both hands and leans backward. Startled, the person filming steps back. The image briefly loses focus before locking onto the man and the giant fish again.  7–11s: [Close handheld action shot] The giant koi pulls violently toward the deeper part of the pond. The wet paper bag stretches, the man’s arms tense, and his leather shoes slide repeatedly across the wet stone. His knee strikes the edge of the pond. He tries to brace himself with his right foot, but the sole loses traction and his center of gravity moves past the edge. Water, pieces of bread, and fallen leaves scatter from the force as the camera operator hurriedly moves sideways.  11–15s: [Impact and final hold] The paper bag suddenly tears. The man loses all support and pitches forward into the pond, creating one heavy, realistic splash. The camera quickly tilts downward while keeping the center of the pond visible. The man resurfaces with duckweed covering his head and his wet tie stuck across his face. The giant koi calmly swims past him with the remains of the bread bag still in its mouth. The camera holds on the man’s stunned expression while the koi casually swims away beside him.  Keep the man’s face, dark suit, tie, and paper bag visually consistent throughout. The koi must retain the same orange-and-white markings and enormous size. The pulling, sliding, loss of balance, and fall must show believable weight, inertia, traction, and water displacement. Natural park ambience and a realistic splash only. No dialogue, no subtitles, no music. Avoid cuts, character teleportation, changes in the fish’s size, extra limbs, and cartoonish acting.
@@ -311,9 +258,9 @@ Use the copy icon in the upper-right corner of the code block.
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/giant-koi-park-incident.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/giant-koi-park-incident)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/giant-koi-park-incident.webm)
 
-**Source:** [@underwoodxie96](https://x.com/underwoodxie96/status/2082747838782386563) · **Details:** 15s · 16:9 · viral short · source-verified
+**Source:** [@underwoodxie96](https://x.com/underwoodxie96/status/2082747838782386563) · 15s · 16:9 · viral short
 
 ---
 
@@ -323,14 +270,8 @@ Use the copy icon in the upper-right corner of the code block.
   <img src="./assets/readme-previews/greenhouse-tea-isekai-anime.webp" alt="Greenhouse tea isekai anime video preview" width="700" />
 </a>
 
-*Animated three-second preview — click the image to play the complete WebM.*
-
-> **Prompt:** 高品質アニメ映像。 作品トーンと世界観は、透明感のある夏のガラス温室から、紅茶の渦の内側に存在するオリジナルの小さな不思議の国へ連続する、上品で夢幻的な叙情ファンタジー。澄んだ白、水色、琥珀色、淡い金色を主役にし、怖さや混沌ではなく、好奇心、浮遊感、静かな高揚を描く。今回は1枚のソース参照画像image1のみを使用し、image1をキャラクター、衣装、2D手描き画風、配色、現実側のガラス温室背景の唯一の参照として扱う。 【同一人物固定】...
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — 高品質アニメ映像。...</summary>
 
 ~~~~text
 高品質アニメ映像。
@@ -374,9 +315,9 @@ image1の細く淡い青灰色と暖灰色の線、透明感のある二層以�
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/greenhouse-tea-isekai-anime.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/greenhouse-tea-isekai-anime)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/greenhouse-tea-isekai-anime.webm)
 
-**Source:** [@haruuraeadss](https://x.com/haruuraeadss/status/2082798959014064531) · **Details:** 15s · 16:9 · anime · source-verified
+**Source:** [@haruuraeadss](https://x.com/haruuraeadss/status/2082798959014064531) · 15s · 16:9 · anime
 
 ---
 
@@ -386,14 +327,8 @@ image1の細く淡い青灰色と暖灰色の線、透明感のある二層以�
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/sagrada-familia-fpv-flight.jpg" alt="Sagrada Família FPV flight video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** Create a cinematic realistic high-speed drone video over Barcelona, Spain at golden hour, using the reference image as the exact location and flight-path guide. The drone starts very low above the Barcelona cityscape, almost skimming above the foreground...
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — Create a cinematic realistic high-speed drone video over Barcelona, Spain at golden hour, using the reference image as the exact location and flight-path guide. The drone starts...</summary>
 
 ~~~~text
 Create a cinematic realistic high-speed drone video over Barcelona, Spain at golden hour, using the reference image as the exact location and flight-path guide. The drone starts very low above the Barcelona cityscape, almost skimming above the foreground rooftops and streets, facing La Sagrada Família. It accelerates quickly forward over the urban landscape, following the drawn path from the foreground toward the cathedral while maintaining a very low altitude. The drone then performs a dramatic climbing curve as La Sagrada Família fills the frame, executes a close cinematic orbit around the cathedral’s iconic spires, and after the orbit, pulls back while gaining altitude before tilting and opening toward the Barcelona skyline, Mediterranean Sea, Eixample grid, surrounding historic rooftops, golden-hour reflections, distant coastline, and glowing Barcelona atmosphere.
@@ -403,9 +338,9 @@ The red drawn line must not appear in the video; it is only a hidden flight-path
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/sagrada-familia-fpv-flight.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/sagrada-familia-fpv-flight)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/sagrada-familia-fpv-flight.webm)
 
-**Source:** [@Diplomeme](https://x.com/Diplomeme/status/2083056488122380671) · **Details:** 15s · 77:92 · cinematic travel · source-verified
+**Source:** [@Diplomeme](https://x.com/Diplomeme/status/2083056488122380671) · 15s · 77:92 · cinematic travel
 
 ---
 
@@ -415,14 +350,8 @@ The red drawn line must not appear in the video; it is only a hidden flight-path
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/nova-x-smartphone-tvc.jpg" alt="NOVA X smartphone TVC video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** Create a 15-second premium cinematic branding TVC for a futuristic smartphone brand called NOVA X. 0–5 seconds: Extreme close-up of a sleek futuristic smartphone resting on a glossy black surface. Dramatic studio lighting sweeps across the device, revealing...
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — Create a 15-second premium cinematic branding TVC for a futuristic smartphone brand called NOVA X. 0–5 seconds: Extreme close-up of a sleek futuristic smartphone resting on a...</summary>
 
 ~~~~text
 Create a 15-second premium cinematic branding TVC for a futuristic smartphone brand called NOVA X.
@@ -436,9 +365,9 @@ Create a 15-second premium cinematic branding TVC for a futuristic smartphone br
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/nova-x-smartphone-tvc.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/nova-x-smartphone-tvc)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/nova-x-smartphone-tvc.webm)
 
-**Source:** [@UrMeer289](https://x.com/UrMeer289/status/2083048872566575568) · **Details:** 15s · 16:9 · product commercial · source-verified
+**Source:** [@UrMeer289](https://x.com/UrMeer289/status/2083048872566575568) · 15s · 16:9 · product commercial
 
 ---
 
@@ -448,14 +377,8 @@ Create a 15-second premium cinematic branding TVC for a futuristic smartphone br
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/post-workout-gym-vlog.jpg" alt="Post-workout gym vlog video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** CAMERA: DV 16mm tape camcorder POV. CHASE films herself, occasionally propping the camera on a wall or gym bag. Natural handheld shake, imperfect framing, delayed focus, clumsy zooms, face occasionally cut off. Camcorder never visible. LOOK: Soft blurry tape...
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — CAMERA: DV 16mm tape camcorder POV. CHASE films herself, occasionally propping the camera on a wall or gym bag. Natural handheld shake, imperfect framing, delayed focus, clumsy...</summary>
 
 ~~~~text
 CAMERA: DV 16mm tape camcorder POV. CHASE films herself, occasionally propping the camera on a wall or gym bag. Natural handheld shake, imperfect framing, delayed focus, clumsy zooms, face occasionally cut off. Camcorder never visible.
@@ -474,9 +397,9 @@ Selfie: grabs bag and shake, waves. "Alright, I'm heading out—see you guys." #
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/post-workout-gym-vlog.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/post-workout-gym-vlog)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/post-workout-gym-vlog.webm)
 
-**Source:** [@doctorwasif](https://x.com/doctorwasif/status/2083048782581858681) · **Details:** 15s · 16:9 · vlog · source-verified
+**Source:** [@doctorwasif](https://x.com/doctorwasif/status/2083048782581858681) · 15s · 16:9 · vlog
 
 ---
 
@@ -486,14 +409,8 @@ Selfie: grabs bag and shake, waves. "Alright, I'm heading out—see you guys." #
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/sparkrush-ultra-fizz-beach-soft-drink-commercial-383681.jpg" alt="SparkRush Ultra Fizz beach soft-drink commercial video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** （16:9 / 15秒 / 8カット / 日本語セリフ版） @ ImageA＝採用済みイメージボード。 （以降、イメージボードと記述） イメージボードは 登場人物2人の雰囲気、水着、ビーチ環境、商品ボトルデザイン、色、爽快感、映像トーンの参考資料 としてのみ使用する。 重要：イメージボードのレイアウトや構成そのものは絶対に映像内へ描写しない。 イメージボード、8分割グリッド、コマ割り、番号、説明文、見出し、商品一覧、配色見本、ムードボード、ポスター、静止画コラージュ、絵コンテ風表示を作らない。...
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — （16:9 / 15秒 / 8カット / 日本語セリフ版） @ ImageA＝採用済みイメージボード。 （以降、イメージボードと記述） イメージボードは 登場人物2人の雰囲気、水着、ビーチ環境、商品ボトルデザイン、色、爽快感、映像トーンの参考資料 としてのみ使用する。 重要：イメージボードのレイアウトや構成そのものは絶対に映像内へ描写しない。...</summary>
 
 ~~~~text
 （16:9 / 15秒 / 8カット / 日本語セリフ版）
@@ -571,9 +488,9 @@ CUT8 0:14-0:15
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/sparkrush-ultra-fizz-beach-soft-drink-commercial-383681.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/sparkrush-ultra-fizz-beach-soft-drink-commercial-383681)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/sparkrush-ultra-fizz-beach-soft-drink-commercial-383681.webm)
 
-**Source:** [@mi7_crypto](https://x.com/mi7_crypto/status/2083042578883383681) · **Details:** 15s · 108:145 · product commercial · source-verified
+**Source:** [@mi7_crypto](https://x.com/mi7_crypto/status/2083042578883383681) · 15s · 108:145 · product commercial
 
 ---
 
@@ -583,14 +500,8 @@ CUT8 0:14-0:15
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/mechanical-bull-charge-the-beasts-are-coming-720815.jpg" alt="Mechanical bull charge The Beasts Are Coming video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** Use the uploaded mechanical bull image as the primary reference for the bull, and use Rahul’s image as the character reference for the rider. Create a 15-second ultra-realistic cinematic fantasy-sci-fi sequence set in The Harvester universe. The setting is a...
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — Use the uploaded mechanical bull image as the primary reference for the bull, and use Rahul’s image as the character reference for the rider. Create a 15-second ultra-realistic...</summary>
 
 ~~~~text
 Use the uploaded mechanical bull image as the primary reference for the bull, and use Rahul’s image as the character reference for the rider.
@@ -616,9 +527,9 @@ Use the same signature look: desaturated steel blue, charcoal grey, mist white, 
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/mechanical-bull-charge-the-beasts-are-coming-720815.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/mechanical-bull-charge-the-beasts-are-coming-720815)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/mechanical-bull-charge-the-beasts-are-coming-720815.webm)
 
-**Source:** [@rahulnanda86](https://x.com/rahulnanda86/status/2083033635364720815) · **Details:** 15s · 16:9 · cinematic story · source-verified
+**Source:** [@rahulnanda86](https://x.com/rahulnanda86/status/2083033635364720815) · 15s · 16:9 · cinematic story
 
 ---
 
@@ -628,14 +539,8 @@ Use the same signature look: desaturated steel blue, charcoal grey, mist white, 
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/wake-up-we-hunt-mechanical-bull-mount-700581.jpg" alt="Wake up We Hunt mechanical bull mount video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** Use the uploaded mechanical bull image as the main creature reference and Rahul’s image as the human character reference. Create a 15-second ultra-realistic cinematic sequence set in The Harvester universe. The scene takes place in a foggy dystopian...
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — Use the uploaded mechanical bull image as the main creature reference and Rahul’s image as the human character reference. Create a 15-second ultra-realistic cinematic sequence set...</summary>
 
 ~~~~text
 Use the uploaded mechanical bull image as the main creature reference and Rahul’s image as the human character reference. Create a 15-second ultra-realistic cinematic sequence set in The Harvester universe. The scene takes place in a foggy dystopian industrial street full of smoke, ash, overhead wires, dim structures, and distant furnace glow. The giant mechanical bull is massive, battle-worn, and intimidating — a living machine-beast with heavy steel plating, exposed pistons, pipes, furnace light glowing inside cracked armor, huge curved horns, and hot steam venting from its body.
@@ -655,9 +560,9 @@ Sound: deep metallic groans, steam bursts, furnace rumble, hoof impact, distant 
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/wake-up-we-hunt-mechanical-bull-mount-700581.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/wake-up-we-hunt-mechanical-bull-mount-700581)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/wake-up-we-hunt-mechanical-bull-mount-700581.webm)
 
-**Source:** [@rahulnanda86](https://x.com/rahulnanda86/status/2083032575908700581) · **Details:** 15s · 16:9 · cinematic story · source-verified
+**Source:** [@rahulnanda86](https://x.com/rahulnanda86/status/2083032575908700581) · 15s · 16:9 · cinematic story
 
 ---
 
@@ -667,14 +572,8 @@ Sound: deep metallic groans, steam bursts, furnace rumble, hoof impact, distant 
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/grimy-hip-hop-music-video-mood-030578.jpg" alt="Grimy hip-hop music video mood video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** 洗練されているが汚れた質感のヒップホップMV。地下雑誌、コピー機、アナログスキャン、攻撃的なビート感。
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — 洗練されているが汚れた質感のヒップホップMV。地下雑誌、コピー機、アナログスキャン、攻撃的なビート感。</summary>
 
 ~~~~text
 洗練されているが汚れた質感のヒップホップMV。地下雑誌、コピー機、アナログスキャン、攻撃的なビート感。
@@ -682,9 +581,9 @@ Use the copy icon in the upper-right corner of the code block.
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/grimy-hip-hop-music-video-mood-030578.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/grimy-hip-hop-music-video-mood-030578)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/grimy-hip-hop-music-video-mood-030578.webm)
 
-**Source:** [@tebasaki3D](https://x.com/tebasaki3D/status/2083032443226030578) · **Details:** 15s · 16:9 · music video · source-verified
+**Source:** [@tebasaki3D](https://x.com/tebasaki3D/status/2083032443226030578) · 15s · 16:9 · music video
 
 ---
 
@@ -694,14 +593,8 @@ Use the copy icon in the upper-right corner of the code block.
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/premium-cinematic-fashion-campaign-outfit-reveal-103224.jpg" alt="Premium cinematic fashion campaign outfit reveal video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** Create a premium cinematic fashion campaign video using the five uploaded apparel images as strict product references. The video should introduce each outfit one by one, while maintaining the exact original clothing design, silhouette, fabric texture, colors,...
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — Create a premium cinematic fashion campaign video using the five uploaded apparel images as strict product references. The video should introduce each outfit one by one, while...</summary>
 
 ~~~~text
 Create a premium cinematic fashion campaign video using the five uploaded apparel images as strict product references.  The video should introduce each outfit one by one, while maintaining the exact original clothing design, silhouette, fabric texture, colors, patterns, accessories, stitching, and proportions from every reference image. Do not redesign, simplify, replace, or merge any garments.  Format: vertical 9:16 Duration: approximately 15 seconds Style: luxury fashion commercial, editorial, futuristic, minimal, sophisticated Visual quality: photorealistic, commercial-grade, high-end fashion film, sharp textile detail, realistic fabric movement  Sequence:  0–2 seconds: Begin with a dark minimal studio. A narrow beam of light slowly reveals the first outfit. Start with an extreme close-up of fabric texture, stitching, metallic details, and layered materials. Smooth cinematic camera movement.  2–5 seconds: Reveal the full first outfit on a stylish fashion model. The model makes one subtle pose while the camera performs a slow vertical tilt from shoes to face.  5–8 seconds: Transition through a fast match cut into the second and third outfits. Use elegant whip pans, fabric wipes, lighting flashes, and seamless motion transitions. Each outfit must remain visible long enough to understand its full design.  8–11 seconds: Show the fourth outfit in a wider architectural studio environment. The model walks slowly toward the camera while the fabric moves naturally. Add controlled wind, soft shadows, and reflective surfaces.  11–14 seconds: Reveal the fifth outfit as the hero look. Use a dramatic low-angle shot, slow orbiting camera movement, and stronger cinematic lighting. Emphasize the silhouette, construction, and key design details.  14–15 seconds: End with all five outfits appearing rapidly in rhythmic editorial cuts, followed by a clean final frame with the hero outfit centered against a minimal background.  Camera: Smooth dolly shots, macro textile close-ups, slow orbit, low-angle fashion shots, controlled handheld energy only during transitions.  Lighting: High-contrast luxury studio lighting, soft rim lights, precise highlights on fabric, metal, leather, and accessories. Avoid overexposure.  Motion: Natural model movement, restrained confident poses, realistic walking, subtle fabric physics. No exaggerated dancing.  Editing: Fast but elegant editorial pacing. Clean match cuts between outfits. Every transition should feel intentional and synchronized with the music.  Important: Preserve the exact identity and design of all five apparel references. Do not mix clothing elements between outfits. Do not change logos, prints, colors, garment length, footwear, accessories, or materials. Do not add random text, subtitles, watermarks, extra garments, duplicated limbs, distorted hands, warped fabric, or unstable faces.
@@ -709,9 +602,9 @@ Create a premium cinematic fashion campaign video using the five uploaded appare
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/premium-cinematic-fashion-campaign-outfit-reveal-103224.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/premium-cinematic-fashion-campaign-outfit-reveal-103224)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/premium-cinematic-fashion-campaign-outfit-reveal-103224.webm)
 
-**Source:** [@luxaios](https://x.com/luxaios/status/2083024913322103224) · **Details:** 15s · 9:16 · brand film · source-verified
+**Source:** [@luxaios](https://x.com/luxaios/status/2083024913322103224) · 15s · 9:16 · brand film
 
 ---
 
@@ -721,14 +614,8 @@ Create a premium cinematic fashion campaign video using the five uploaded appare
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/cyber-grunge-fashion-film-with-vhs-glitch-978345.jpg" alt="Cyber-grunge fashion film with VHS glitch video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** Platinum-blonde subject, black patent-leather trench, orange firelight across the coat. Nighttime blaze, black smoke. VHS glitches, CCTV dropouts, 90s grain, scanlines, chromatic aberration, flash-to-white cuts.
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — Platinum-blonde subject, black patent-leather trench, orange firelight across the coat. Nighttime blaze, black smoke. VHS glitches, CCTV dropouts, 90s grain, scanlines, chromatic...</summary>
 
 ~~~~text
 Platinum-blonde subject, black patent-leather trench, orange firelight across the coat. Nighttime blaze, black smoke.
@@ -738,9 +625,9 @@ VHS glitches, CCTV dropouts, 90s grain, scanlines, chromatic aberration, flash-t
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/cyber-grunge-fashion-film-with-vhs-glitch-978345.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/cyber-grunge-fashion-film-with-vhs-glitch-978345)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/cyber-grunge-fashion-film-with-vhs-glitch-978345.webm)
 
-**Source:** [@fal](https://x.com/fal/status/2083021146341978345) · **Details:** 19s · 16:9 · brand film · source-verified
+**Source:** [@fal](https://x.com/fal/status/2083021146341978345) · 19s · 16:9 · brand film
 
 ---
 
@@ -750,14 +637,8 @@ VHS glitches, CCTV dropouts, 90s grain, scanlines, chromatic aberration, flash-t
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/radiantglo-skincare-commercial.jpg" alt="RadiantGlo skincare commercial video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** The Brief: &quot;Jessy x RadiantGlo&quot; 15 seconds. One face, one mask, one ritual — quiet luxury skincare. Jessy stands at her mirror at night, cool blue light on her skin, studying her reflection before she says a word. She presses the remote, and the RadiantGlo...
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — The Brief: &quot;Jessy x RadiantGlo&quot; 15 seconds. One face, one mask, one ritual — quiet luxury skincare. Jessy stands at her mirror at night, cool blue light on her skin, studying her...</summary>
 
 ~~~~text
 The Brief: "Jessy x RadiantGlo"
@@ -771,9 +652,9 @@ Cold nights fading into warm dawn color science throughout — think a skincare 
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/radiantglo-skincare-commercial.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/radiantglo-skincare-commercial)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/radiantglo-skincare-commercial.webm)
 
-**Source:** [@AIwithJessica](https://x.com/AIwithJessica/status/2083013658230317082) · **Details:** 15s · 16:9 · brand film · source-verified
+**Source:** [@AIwithJessica](https://x.com/AIwithJessica/status/2083013658230317082) · 15s · 16:9 · brand film
 
 ---
 
@@ -783,14 +664,8 @@ Cold nights fading into warm dawn color science throughout — think a skincare 
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/8-bit-black-and-white-san-francisco-animation-325353.jpg" alt="8-bit black and white San Francisco animation video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** 𝟾-𝚋𝚒𝚝, 𝚋𝚕𝚊𝚌𝚔 𝚊𝚗𝚍 𝚠𝚑𝚒𝚝𝚎 𝚊𝚗𝚒𝚖𝚊𝚝𝚒𝚘𝚗 𝚘𝚏 𝚜𝚊𝚗 𝚏𝚛𝚊𝚗𝚌𝚒𝚜𝚌𝚘
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — 𝟾-𝚋𝚒𝚝, 𝚋𝚕𝚊𝚌𝚔 𝚊𝚗𝚍 𝚠𝚑𝚒𝚝𝚎 𝚊𝚗𝚒𝚖𝚊𝚝𝚒𝚘𝚗 𝚘𝚏 𝚜𝚊𝚗 𝚏𝚛𝚊𝚗𝚌𝚒𝚜𝚌𝚘</summary>
 
 ~~~~text
 𝟾-𝚋𝚒𝚝, 𝚋𝚕𝚊𝚌𝚔 𝚊𝚗𝚍 𝚠𝚑𝚒𝚝𝚎 𝚊𝚗𝚒𝚖𝚊𝚝𝚒𝚘𝚗 𝚘𝚏 𝚜𝚊𝚗 𝚏𝚛𝚊𝚗𝚌𝚒𝚜𝚌𝚘
@@ -798,9 +673,9 @@ Use the copy icon in the upper-right corner of the code block.
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/8-bit-black-and-white-san-francisco-animation-325353.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/8-bit-black-and-white-san-francisco-animation-325353)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/8-bit-black-and-white-san-francisco-animation-325353.webm)
 
-**Source:** [@vercel_dev](https://x.com/vercel_dev/status/2083007144111325353) · **Details:** 10s · 16:9 · motion graphics · source-verified
+**Source:** [@vercel_dev](https://x.com/vercel_dev/status/2083007144111325353) · 10s · 16:9 · motion graphics
 
 ---
 
@@ -810,14 +685,8 @@ Use the copy icon in the upper-right corner of the code block.
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/fire-dragon-and-rider-over-scorched-world-726278.jpg" alt="Fire dragon and rider over scorched world video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** fire dragon and his rider of living flame, rising over a scorched world, cutting through smoke and sunset.
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — fire dragon and his rider of living flame, rising over a scorched world, cutting through smoke and sunset.</summary>
 
 ~~~~text
 fire dragon and his rider of living flame,
@@ -826,9 +695,9 @@ rising over a scorched world, cutting through smoke and sunset.
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/fire-dragon-and-rider-over-scorched-world-726278.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/fire-dragon-and-rider-over-scorched-world-726278)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/fire-dragon-and-rider-over-scorched-world-726278.webm)
 
-**Source:** [@kulufly](https://x.com/kulufly/status/2082970376745726278) · **Details:** 15s · 16:9 · cinematic story · source-verified
+**Source:** [@kulufly](https://x.com/kulufly/status/2082970376745726278) · 15s · 16:9 · cinematic story
 
 ---
 
@@ -838,14 +707,8 @@ rising over a scorched world, cutting through smoke and sunset.
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/handcrafted-paper-cut-stop-motion-short-512241.jpg" alt="Handcrafted paper-cut stop-motion short video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** 15-second cinematic stop motion animation in handcrafted paper cut style. Everything is physically assembled by invisible hands, one element at a time. Every object appears with authentic stop motion timing, tiny frame imperfections, subtle paper wobble,...
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — 15-second cinematic stop motion animation in handcrafted paper cut style. Everything is physically assembled by invisible hands, one element at a time. Every object appears with...</summary>
 
 ~~~~text
 15-second cinematic stop motion animation in handcrafted paper cut style. Everything is physically assembled by invisible hands, one element at a time. Every object appears with authentic stop motion timing, tiny frame imperfections, subtle paper wobble, handmade placement, slight camera vibration, natural easing, tactile textures, soft shadows, and realistic depth. Nothing fades or morphs. Every piece is manually placed into the scene exactly like a professional stop motion production.
@@ -878,9 +741,9 @@ Premium handcrafted stop motion, museum-quality paper art, tactile cardstock tex
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/handcrafted-paper-cut-stop-motion-short-512241.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/handcrafted-paper-cut-stop-motion-short-512241)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/handcrafted-paper-cut-stop-motion-short-512241.webm)
 
-**Source:** [@AiMeowing](https://x.com/AiMeowing/status/2082964095410512241) · **Details:** 15s · 4:3 · viral short · source-verified
+**Source:** [@AiMeowing](https://x.com/AiMeowing/status/2082964095410512241) · 15s · 4:3 · viral short
 
 ---
 
@@ -890,14 +753,8 @@ Premium handcrafted stop motion, museum-quality paper art, tactile cardstock tex
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/lilia-astra-title-sequence.jpg" alt="Lilia Astra title sequence video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** 高品質アニメ映像。 Expression progression: eyes -&gt; brows -&gt; eyelids -&gt; mouth -&gt; gaze. 【参照画像とキャラクター固定】 Same girl, same person, same identity in every shot. 画像1を、この少女の顔・目・髪型・髪色・衣装・装飾・体型・装備を含む唯一の最優先参照として使用する。 全カットで、画像1と同じ一人の少女を厳密に維持する。...
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — 高品質アニメ映像。 Expression progression: eyes -&gt; brows -&gt; eyelids -&gt; mouth -&gt; gaze. 【参照画像とキャラクター固定】 Same girl, same person, same identity in every shot....</summary>
 
 ~~~~text
 高品質アニメ映像。
@@ -1019,9 +876,9 @@ Camera state: position=three-quarter and over-shoulder; height=eye level then lo
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/lilia-astra-title-sequence.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/lilia-astra-title-sequence)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/lilia-astra-title-sequence.webm)
 
-**Source:** [@haruuraeadss](https://x.com/haruuraeadss/status/2082945363431080299) · **Details:** 15s · 16:9 · title sequence · source-verified
+**Source:** [@haruuraeadss](https://x.com/haruuraeadss/status/2082945363431080299) · 15s · 16:9 · title sequence
 
 ---
 
@@ -1031,14 +888,8 @@ Camera state: position=three-quarter and over-shoulder; height=eye level then lo
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/seamless-loop-cinematic-warrior-blade-reconstruction-513162.jpg" alt="Seamless-loop cinematic warrior blade reconstruction video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** @Image1 15s | 16:9 | 1440p | 24fps | PERFECT SEAMLESS LOOP [REFERENCE LOCK] Render exactly as @image1. Preserve the character exactly as shown. Do not redesign, reinterpret, or modify any aspect of her appearance. Do NOT alter her hairstyle, bangs, facial...
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — @Image1 15s | 16:9 | 1440p | 24fps | PERFECT SEAMLESS LOOP [REFERENCE LOCK] Render exactly as @image1. Preserve the character exactly as shown. Do not redesign, reinterpret, or...</summary>
 
 ~~~~text
 @Image1  15s | 16:9 | 1440p | 24fps | PERFECT SEAMLESS LOOP  [REFERENCE LOCK] Render exactly as @image1. Preserve the character exactly as shown. Do not redesign, reinterpret, or modify any aspect of her appearance.  Do NOT alter her hairstyle, bangs, facial proportions, eye color, expression, clothing, coat silhouette, sash placement, body proportions, sword guard, hilt ornament, blade length, or overall composition.  The character must always remain holding the sword throughout the entire sequence. The sword never leaves her hand.  ---  [LOOP DESIGN]  Create a mathematically perfect infinite loop.  Frame 1 and Frame 360 must match perfectly.  Maintain identical: • Pose • Camera angle • Lens • Lighting • Sword position • Character expression • Particle placement • Composition  The sword continuously shatters and reconstructs while remaining in the character's grip, creating an endless cycle with no visible transition.  ---  [COLOR PALETTE]  Background: Smooth vertical gradient  Top: Luminous Cyan-Teal (#2AA6B4)  Bottom: Deep Petrol (#0F4A55)  No environment. No horizon. No props. Only a clean cinematic graphic backdrop.  Character  Coat: Bright Coral (#FF9273)  Inner Garment: Deep Ocean (#14454E)  Hair: Natural black with subtle blue-white rim highlights.  Metal & Glass: Bright silver-white.  Accent colors appear ONLY through light refraction and chromatic dispersion.  Gold (#FFD27A)  Electric Cyan (#6FE3F5)  Soft Magenta (#FF9ED8)  The main palette must always dominate.  ---  [VISUAL STYLE]  Premium 2.5D Anime High-end cinematic illustration Ultra-clean rendering Feature-film quality  Bright high-key lighting  Elegant bloom  Sharp specular highlights  Volumetric glow  HDR dynamic range  Soft filmic contrast  Luminous skin with subtle subsurface scattering.  Heavy cotton twill coat with realistic cloth simulation.  Hair moves naturally in layered strands with soft flyaways.  Glass has authentic thickness, edge refraction, internal fracture lines, microscopic scratches, and realistic prism reflections.  ---  [EFFECTS]  Progressively increase visual intensity.  • Time Echo Motion Trails  • Liquid Mercury Blade Reconstruction  • Kaleidoscope Mirror Fractures  • Shockwave Refraction  • One-frame Negative Flash  • Glass Crack Frame Wipes  • Reverse Gravity Debris  • Chromatic Dispersion  • Dynamic Caustic Lighting  • Floating Crystal Dust  • High-speed Light Trails  • Micro Lens Distortion during impacts  Effects should evolve naturally and never become repetitive.  ---  [CAMERA]  Premium anamorphic cinema language.  85mm intimate close-ups  35mm cinematic medium shots  24mm aggressive dynamic movement  Oval bokeh  Blue anamorphic streak flares  Subtle barrel distortion  180-degree shutter  Depth of field shifts emotionally.  Shallow during hero moments.  Deep during action moments.  Rack focus:  Blade → Eyes at 2.4s  Blade → Eyes at 14.2s  Smooth cinematic easing with invisible acceleration.  ---  [LIGHTING]  Hard cinematic sunlight originates from screen-right behind the character.  Strong rim lighting illuminates  Hair  Jawline  Shoulders  Sword edge  Soft cyan bounce light fills from the background.  Floating shards cast constantly changing colored kick lights.  Shadows remain soft, open and cinematic.  Brightness peaks around 10.4 seconds before gradually returning to the exact opening lighting by 15 seconds.  ---  [SWORD ENGRAVING]  A finely engraved  CRYPTOSAM  appears on the ricasso directly above the sword guard.  Small letter-spaced capital letters carved directly into polished steel.  This engraving is part of the blade itself.  Never an overlay.  Visible in Frame One.  Visible throughout the animation.  Visible after every blade reconstruction.  The engraving catches the sunlight whenever the camera glides across the blade.  ---  [GLASS SHARDS]  Every shard reflects a different scene.  Examples include  Blue sky  Soft white clouds  Golden wheat fields  Warm sunset  Lens flares  The character's own reflection  Moments that have not yet happened  No empty glass.  Every fragment contributes to the visual storytelling.  ---  [KINETIC TYPOGRAPHY]  Typography exists behind the character on the gradient background.  Use only premium cinematic condensed sans-serif fonts.  Animated with  Impact slams  Scroll reveals  Prism sweeps  Glass shattering  Shockwave distortion  Perspective warping  Never cover the character's face.  Timeline  0.8s  "REFLECTION"  Coral → Gold  2.2s  "A BLADE THAT BREAKS"  "AND REFORGES FOREVER"  Pale Cyan → White  5.0s  "ONE IMAGE"  "FIFTEEN SECONDS"  White → Coral  7.2s  "EVERY SHARD REMEMBERS"  Cyan → Magenta → Gold  10.6s  "NO CUT"  Gold → White  Warp under expanding shockwave.  13.2s  "MIRRORFALL"  Silver → Pale Gold  Soft coral glow.  Typography completely dissolves before 15 seconds.  ---  [SHOT 01]  0.0–1.6s  LOOP ANCHOR  The character firmly grips the sword with both hands.  An ultra-fast macro camera races along the polished blade toward the hilt.  Cloud reflections glide across the steel.  An anamorphic flare slides along the cutting edge.  The engraved word  CRYPTOSAM  briefly catches the sunlight.  Without releasing the sword, the blade suddenly fractures into thousands of crystalline shards while the hilt remains firmly in her hands.  A glass-crack transition wipes into the next shot.  ---  [SHOT 02]  1.6–3.2s  BULLET-TIME ORBIT  Time freezes.  The character remains perfectly still while tightly holding the sword hilt.  The shattered blade floats in front of her hand.  The camera performs a smooth 180-degree orbit through the suspended crystal field.  Each shard reflects a different reality.  Reverse-gravity debris hangs motionless.  As the orbit finishes, time resumes and the floating shards accelerate back toward the hilt, beginning to reconstruct the blade directly in her grip.
@@ -1046,9 +897,9 @@ Use the copy icon in the upper-right corner of the code block.
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/seamless-loop-cinematic-warrior-blade-reconstruction-513162.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/seamless-loop-cinematic-warrior-blade-reconstruction-513162)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/seamless-loop-cinematic-warrior-blade-reconstruction-513162.webm)
 
-**Source:** [@ogbenniasamuel2](https://x.com/ogbenniasamuel2/status/2082934406910513162) · **Details:** 15s · 16:9 · cinematic story · source-verified
+**Source:** [@ogbenniasamuel2](https://x.com/ogbenniasamuel2/status/2082934406910513162) · 15s · 16:9 · cinematic story
 
 ---
 
@@ -1058,14 +909,8 @@ Use the copy icon in the upper-right corner of the code block.
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/kaldr-cold-perfume-commercial-multi-reference-943073.jpg" alt="KALDR cold perfume commercial multi-reference video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** REFERENCE USAGE: Image 1 — the KALDR bottle. Preserve the smoked charcoal glass, bevelled edges, pale blue liquid, brushed gunmetal cap and the etched silver KALDR mark exactly. Image 2 — the closing brand lockup. Preserve the letterforms, tracking, silver...
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — REFERENCE USAGE: Image 1 — the KALDR bottle. Preserve the smoked charcoal glass, bevelled edges, pale blue liquid, brushed gunmetal cap and the etched silver KALDR mark exactly....</summary>
 
 ~~~~text
 REFERENCE USAGE:
@@ -1106,9 +951,9 @@ Do not add other people, boats, buildings, vehicles, modern objects, subtitles, 
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/kaldr-cold-perfume-commercial-multi-reference-943073.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/kaldr-cold-perfume-commercial-multi-reference-943073)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/kaldr-cold-perfume-commercial-multi-reference-943073.webm)
 
-**Source:** [@abulu8](https://x.com/abulu8/status/2082919486399943073) · **Details:** 15s · 640:271 · product commercial · source-verified
+**Source:** [@abulu8](https://x.com/abulu8/status/2082919486399943073) · 15s · 640:271 · product commercial
 
 ---
 
@@ -1118,14 +963,8 @@ Do not add other people, boats, buildings, vehicles, modern objects, subtitles, 
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/most-cinematic-scenes-challenge-742779.jpg" alt="Most cinematic scenes challenge video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** The most cinematic scenes you can make.
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — The most cinematic scenes you can make.</summary>
 
 ~~~~text
 The most cinematic scenes you can make.
@@ -1133,9 +972,9 @@ The most cinematic scenes you can make.
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/most-cinematic-scenes-challenge-742779.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/most-cinematic-scenes-challenge-742779)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/most-cinematic-scenes-challenge-742779.webm)
 
-**Source:** [@JamianGerard](https://x.com/JamianGerard/status/2082916440403742779) · **Details:** 15s · 960:407 · cinematic story · source-verified
+**Source:** [@JamianGerard](https://x.com/JamianGerard/status/2082916440403742779) · 15s · 960:407 · cinematic story
 
 ---
 
@@ -1145,14 +984,8 @@ The most cinematic scenes you can make.
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-metallic-gown-desert-runway-fashion-ad-907132.jpg" alt="Luxury metallic gown desert runway fashion ad video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** 12s cinematic luxury fashion ad, 4K, 24fps, ultra-photorealistic. A high-fashion model in a flowing iridescent metallic gown walks along a minimalist desert runway at golden hour. Cinematic aerial, tracking, orbit, close-up, and hero shots with realistic...
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — 12s cinematic luxury fashion ad, 4K, 24fps, ultra-photorealistic. A high-fashion model in a flowing iridescent metallic gown walks along a minimalist desert runway at golden hour....</summary>
 
 ~~~~text
 12s cinematic luxury fashion ad, 4K, 24fps, ultra-photorealistic. A high-fashion model in a flowing iridescent metallic gown walks along a minimalist desert runway at golden hour. Cinematic aerial, tracking, orbit, close-up, and hero shots with realistic cloth physics, flowing fabric, shimmering reflections, soft wind, golden sun flare, HDR lighting, Vogue-style editorial, seamless continuity, consistent face/outfit, no flicker, no warping, no extra limbs, fade to black.
@@ -1160,9 +993,9 @@ Use the copy icon in the upper-right corner of the code block.
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-metallic-gown-desert-runway-fashion-ad-907132.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/luxury-metallic-gown-desert-runway-fashion-ad-907132)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-metallic-gown-desert-runway-fashion-ad-907132.webm)
 
-**Source:** [@noorwithwifi](https://x.com/noorwithwifi/status/2082897758084907132) · **Details:** 12s · 16:9 · product commercial · source-verified
+**Source:** [@noorwithwifi](https://x.com/noorwithwifi/status/2082897758084907132) · 12s · 16:9 · product commercial
 
 ---
 
@@ -1172,14 +1005,8 @@ Use the copy icon in the upper-right corner of the code block.
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/urban-street-superpowered-punch-action-sequence-712509.jpg" alt="Urban street superpowered punch action sequence video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** PART 1 (0–15 SECONDS) LOCATION DETAIL: Gritty urban street at golden hour dusk. Wet concrete ground reflecting golden-orange light. Industrial concrete pillars and brick walls frame both sides. Metal railings visible. Golden-orange sky in background. Blue...
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — PART 1 (0–15 SECONDS) LOCATION DETAIL: Gritty urban street at golden hour dusk. Wet concrete ground reflecting golden-orange light. Industrial concrete pillars and brick walls...</summary>
 
 ~~~~text
 PART 1 (0–15 SECONDS)
@@ -1250,9 +1077,9 @@ Fighter stands alone in TOTAL DEVASTATION. Breathing HEAVILY, chest HEAVING, eye
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/urban-street-superpowered-punch-action-sequence-712509.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/urban-street-superpowered-punch-action-sequence-712509)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/urban-street-superpowered-punch-action-sequence-712509.webm)
 
-**Source:** [@itsshara_ai](https://x.com/itsshara_ai/status/2082892924694712509) · **Details:** 28s · 16:9 · cinematic story · source-verified
+**Source:** [@itsshara_ai](https://x.com/itsshara_ai/status/2082892924694712509) · 28s · 16:9 · cinematic story
 
 ---
 
@@ -1262,14 +1089,8 @@ Fighter stands alone in TOTAL DEVASTATION. Breathing HEAVILY, chest HEAVING, eye
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/pixar-style-mouse-adventure-3d-animation-582726.jpg" alt="Pixar-style mouse adventure 3D animation video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** { &quot;clip_id&quot;: &quot;animated_adventure&quot;, &quot;genre&quot;: &quot;3D Animation / Pixar Style&quot;, &quot;total_duration&quot;: &quot;15s&quot;, &quot;aspect_ratio&quot;: &quot;16:9&quot;, &quot;style_keywords&quot;: &quot;Pixar-style 3D animation, vibrant colors, expressive characters, cinematic lighting, whimsical, high detail...
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — { &quot;clip_id&quot;: &quot;animated_adventure&quot;, &quot;genre&quot;: &quot;3D Animation / Pixar Style&quot;, &quot;total_duration&quot;: &quot;15s&quot;, &quot;aspect_ratio&quot;: &quot;16:9&quot;, &quot;style_keywords&quot;: &quot;Pixar-style 3D animation, vibrant...</summary>
 
 ~~~~text
 {       "clip_id": "animated_adventure",       "genre": "3D Animation / Pixar Style",       "total_duration": "15s",       "aspect_ratio": "16:9",       "style_keywords": "Pixar-style 3D animation, vibrant colors, expressive characters, cinematic lighting, whimsical, high detail textures",       "shots": [         {           "shot_num": 1,           "duration": "4s",           "prompt": "Wide shot of a tiny adventurous mouse wearing a leather aviator cap standing on the edge of a giant mushroom in an enchanted forest, giant flowers towering overhead, Pixar-style 3D animation, vibrant colors, soft cinematic lighting",           "camera": "low angle push in",           "transition": "hard cut"         },         {           "shot_num": 2,           "duration": "4s",           "prompt": "Medium shot of the mouse launching into the air on a dandelion seed parachute, floating through sunbeams, pollen particles sparkling around, joyful expression, 3D animated film style, warm golden light",           "camera": "tracking shot from below",           "transition": "match cut on motion"         },         {           "shot_num": 3,           "duration": "4s",           "prompt": "Dynamic action shot of the mouse swooping through a hollow log, fireflies lighting the way, exaggerated squash-and-stretch animation, motion blur on background, Pixar-style adventure sequence",           "camera": "POV following through tunnel",           "transition": "whip pan"         },         {           "shot_num": 4,           "duration": "3s",           "prompt": "Wide shot of the mouse landing triumphantly on a lily pad in a moonlit pond, ripples spreading outward, bioluminescent plants glowing, 3D animation, magical atmosphere, satisfied smile",           "camera": "crane shot rising up",           "transition": "end"         }       ]     },
@@ -1277,9 +1098,9 @@ Use the copy icon in the upper-right corner of the code block.
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/pixar-style-mouse-adventure-3d-animation-582726.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/pixar-style-mouse-adventure-3d-animation-582726)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/pixar-style-mouse-adventure-3d-animation-582726.webm)
 
-**Source:** [@sebatheepan](https://x.com/sebatheepan/status/2082873433478582726) · **Details:** 15s · 16:9 · anime · source-verified
+**Source:** [@sebatheepan](https://x.com/sebatheepan/status/2082873433478582726) · 15s · 16:9 · anime
 
 ---
 
@@ -1289,14 +1110,8 @@ Use the copy icon in the upper-right corner of the code block.
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-checkered-sports-coupe-night-to-dawn-commercial-451623.jpg" alt="Luxury checkered sports-coupe night-to-dawn commercial video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** High-end luxury auto commercial, cinematic night-to-dawn lighting, wet reflective surfaces, anamorphic lens flares, rich emerald green and deep black color grade, heavy film grain. Use @Audio1 for background music Use the provided 4x4 grid as the only visual...
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — High-end luxury auto commercial, cinematic night-to-dawn lighting, wet reflective surfaces, anamorphic lens flares, rich emerald green and deep black color grade, heavy film...</summary>
 
 ~~~~text
 High-end luxury auto commercial, cinematic night-to-dawn lighting, wet reflective surfaces, anamorphic lens flares, rich emerald green and deep black color grade, heavy film grain.
@@ -1327,9 +1142,9 @@ coherent character and vehicle identity across every cut 📷Image1 , cinematic 
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-checkered-sports-coupe-night-to-dawn-commercial-451623.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/luxury-checkered-sports-coupe-night-to-dawn-commercial-451623)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-checkered-sports-coupe-night-to-dawn-commercial-451623.webm)
 
-**Source:** [@shirawiggles](https://x.com/shirawiggles/status/2082857595824451623) · **Details:** 15s · 16:9 · product commercial · source-verified
+**Source:** [@shirawiggles](https://x.com/shirawiggles/status/2082857595824451623) · 15s · 16:9 · product commercial
 
 ---
 
@@ -1339,14 +1154,8 @@ coherent character and vehicle identity across every cut 📷Image1 , cinematic 
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/dark-pop-trio-music-video-performance-with-on-screen-titles-931081.jpg" alt="Dark-pop trio music-video performance with on-screen titles video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** 15 seconds, 16:9 dark-pop music video performance. Use @Image 1 as the strict identity reference for the three women — faces, hair and wardrobe unchanged in every shot. Use @Image 2 as the reference for the two titles only: ultra-condensed heavy caps, bone...
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — 15 seconds, 16:9 dark-pop music video performance. Use @Image 1 as the strict identity reference for the three women — faces, hair and wardrobe unchanged in every shot. Use @Image...</summary>
 
 ~~~~text
 15 seconds, 16:9 dark-pop music video performance. Use @Image 1 as the strict identity reference for the three women — faces, hair and wardrobe unchanged in every shot. Use @Image 2 as the reference for the two titles only: ultra-condensed heavy caps, bone white, photocopied print surface.  The three women perform and sing to camera throughout. Follow the beats below shot by shot with continuous natural camera movement and real physical motion inside every frame — this is live performance footage, never a slideshow, never a sequence of held poses.  VOCAL: a single female lead voice, gritty and low, close-mic'd with tape saturation. The lyric lines are: "Dead air on the line" — sung at 2.7 seconds "Run it till it burns" — sung at 6.0 seconds "I don't slow down" — sung at 10.0 seconds Lip-sync locks precisely to these lines on whichever woman is singing. Between the lines all three mouth along, breathe hard and move.  [0.0–2.7s] The three stand in near-blackness, sand-beige studio crushed dark. Handheld camera drifting slowly forward, breathing. The platinum-crop woman rolls her shoulders and steps toward lens. Her hair lifts. The auburn woman in mirrored shades tilts her head up. Real movement, low energy, building. Title over the darkness: "DEAD AIR".  [2.7–6.0s] The auburn woman in the mirrored shades sings the first line straight into the lens, medium-close, mouth clearly forming the words. Camera whip-pans off her to the platinum-crop woman mid-stride, then crash-zooms back. Hard cuts every 0.3 seconds. Bodies in constant motion — hair whipping, chains swinging, hips driving, hands reaching for camera. Single-frame white flashes between cuts.  [6.0–10.0s] All three together, performing hard. The chestnut-haired woman takes the second line, singing directly to lens while the other two move behind her, bodies loose and driving. Camera orbits the trio fast, then whip-pans, then handheld snap-zooms. Cuts every 0.2 seconds. Hair, fur and fishnet all moving. Faces alive, mouths working, sweat catching the light.  [10.0–12.7s] Slow down hard, two long shots. The chestnut-haired woman alone, medium-close, singing the third line slowly and holding eye contact with the lens all the way through. Camera almost still, only breathing. Her wet hair moves across her face. She finishes the line and her mouth stays slightly open.  [12.7–15.0s] Everything detonates. Flash cutting, single-frame plates, all three thrashing and singing at once, faces close to lens, black frames and inverted negatives between cuts. Camera whipping violently. Final title hammers in: "AFTERBURN". Cut hard to black with the music.  MUSIC: driving industrial dark-pop, distorted 808 kick landing at 2.7 seconds, full arrangement through 6.0 to 10.0 seconds with clipped brass stabs and heavy tape saturation, dropping to near silence and one breath at 12.0 seconds for a full second, then the final two seconds at full weight with one metallic crash on "AFTERBURN". The lead vocal sits forward in the mix. Do not imitate an existing melody.  Warm sand-beige studio sweep, hard raking light from camera-left, Kodak Portra 400 grain, tape dropout, scanline tear, chromatic fringing, light leaks. Hard cuts only, full speed throughout, every shot carrying real motion. Titles spelled exactly as written, English only.
@@ -1354,9 +1163,9 @@ Use the copy icon in the upper-right corner of the code block.
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/dark-pop-trio-music-video-performance-with-on-screen-titles-931081.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/dark-pop-trio-music-video-performance-with-on-screen-titles-931081)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/dark-pop-trio-music-video-performance-with-on-screen-titles-931081.webm)
 
-**Source:** [@ivanka_humeniuk](https://x.com/ivanka_humeniuk/status/2082854898907931081) · **Details:** 15s · 569:640 · music video · source-verified
+**Source:** [@ivanka_humeniuk](https://x.com/ivanka_humeniuk/status/2082854898907931081) · 15s · 569:640 · music video
 
 ---
 
@@ -1366,14 +1175,8 @@ Use the copy icon in the upper-right corner of the code block.
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/3x3-contact-sheet-female-rapper-grid-performance-672833.jpg" alt="3x3 contact sheet female rapper grid performance video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** Use @Image 1 as the exact opening frame. It is a 3x3 contact sheet of nine separate portraits of the same female rapper, each in a different location. Treat every panel as its own live video cell with its own camera, lighting and performance. 12 seconds,...
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — Use @Image 1 as the exact opening frame. It is a 3x3 contact sheet of nine separate portraits of the same female rapper, each in a different location. Treat every panel as its own...</summary>
 
 ~~~~text
 Use @Image 1 as the exact opening frame. It is a 3x3 contact sheet of nine separate portraits of the same female rapper, each in a different location. Treat every panel as its own live video cell with its own camera, lighting and performance. 12 seconds, 16:9.  Keep the grid absolutely fixed for the entire shot: identical panel positions, identical panel sizes, identical white gutters, no zoom, no pan, no rotation, no drift of the grid itself. Only the content inside each panel may move. Preserve each panel's identity exactly: same face, same hair, same wardrobe, same jewellery, same background as in @Image 1. Panel 1 stage with mic, panel 2 graffiti alley, panel 3 studio console with bandana, panel 4 rooftop with pink car, panel 5 roller shutter with bucket hat and chains, panel 6 purple club, panel 7 sunset rooftop with braids, panel 8 neon alley, panel 9 black backdrop close-up.  [0.0-1.2s] All nine panels sit almost still like breathing photographs, only micro-movement: hair drift, blinking, smoke, light flicker. A low sub-bass swell rises. [1.2-3.0s] The beat drops. Panel 1 raps to camera: "MiniMax." Panel 5 answers: "H3." The other seven nod on the beat. [3.0-5.0s] Panels 2, 3 and 7 trade the line one after another: "New drop." Each one takes the beat, the rest bounce in rhythm. [5.0-7.5s] Panels 4, 6, 8 and 9 answer: "Go and try it." Hands move, chains swing, ad-libs. [7.5-10.0s] All nine perform in unison, tightly lip-synced toH3, go and try it." [10.0-11.3s] The beat stops dead. In one synchronized move all nine raise a hand into a finger-gun aimed straight at the camera, chin down, hard contact. [11.3-12.0s] They fire the imaginary shot on a single low hit, a tiny recoil ripples through all nine panels at once, then freeze.                Audio: one continuous hip-hop beat across all panels, roughly 92 BPM, deep 808 sub, crisp trap hats, sparse hand claps. Female voice, confident, slightly playful, not aggressive. Layer nine slightly detunedn section for a choir effect. End on one low hit plus a shorttail of room tone.  Keep the lip-sync accurate to the words in every speaking panel. No subtitles, no on-screen text, no captions, no logos, no watermarks. No panel may drift, crossfade, resize or swap places. Do not add people. Dreen single shot at any point.
@@ -1381,9 +1184,9 @@ Use @Image 1 as the exact opening frame. It is a 3x3 contact sheet of nine separ
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/3x3-contact-sheet-female-rapper-grid-performance-672833.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/3x3-contact-sheet-female-rapper-grid-performance-672833)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/3x3-contact-sheet-female-rapper-grid-performance-672833.webm)
 
-**Source:** [@lukasersil](https://x.com/lukasersil/status/2082847686185672833) · **Details:** 12s · 16:9 · music video · source-verified
+**Source:** [@lukasersil](https://x.com/lukasersil/status/2082847686185672833) · 12s · 16:9 · music video
 
 ---
 
@@ -1393,14 +1196,8 @@ Use @Image 1 as the exact opening frame. It is a 3x3 contact sheet of nine separ
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/strawberry-seasonal-match-cut-food-commercial-117943.jpg" alt="Strawberry seasonal match-cut food commercial video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** Premium food commercial. Extreme macro shot of a single ripe strawberry falling toward a white ceramic bowl. Before it lands, the environment changes through four seamless seasonal match cuts: a sunlit spring greenhouse, a hot summer picnic, an autumn kitchen...
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — Premium food commercial. Extreme macro shot of a single ripe strawberry falling toward a white ceramic bowl. Before it lands, the environment changes through four seamless...</summary>
 
 ~~~~text
 Premium food commercial. Extreme macro shot of a single ripe strawberry falling toward a white ceramic bowl. Before it lands, the environment changes through four seamless seasonal match cuts: a sunlit spring greenhouse, a hot summer picnic, an autumn kitchen and a candlelit winter dining room. The strawberry stays in exactly the same screen position, size, orientation and downward motion through every transition. It lands in fresh cream during the winter scene, sending one graceful crown-shaped splash upward. Photorealistic food texture, high-speed product cinematography, clean commercial lighting. Each season has distinct environmental sound, but one continuous musical phrase connects the entire sequence. No hands, labels or additional fruit.
@@ -1408,9 +1205,9 @@ Premium food commercial. Extreme macro shot of a single ripe strawberry falling 
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/strawberry-seasonal-match-cut-food-commercial-117943.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/strawberry-seasonal-match-cut-food-commercial-117943)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/strawberry-seasonal-match-cut-food-commercial-117943.webm)
 
-**Source:** [@HBCoop_](https://x.com/HBCoop_/status/2082827829172117943) · **Details:** 15s · 92:39 · product commercial · source-verified
+**Source:** [@HBCoop_](https://x.com/HBCoop_/status/2082827829172117943) · 15s · 92:39 · product commercial
 
 ---
 
@@ -1420,14 +1217,8 @@ Premium food commercial. Extreme macro shot of a single ripe strawberry falling 
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/pizza-night-ugc-domino-s-vlog-197798.jpg" alt="Pizza night UGC Domino’s vlog video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** VIDEO PROMPT — &quot;Pizza Night Vlog&quot; (UGC iPhone Style) Duration: 15 seconds | Aspect Ratio: 16:9 | Style: Authentic UGC / iPhone selfie-vlog, handheld, natural light, slight motion blur, TikTok/Reels energy — NOT cinematic, NOT overly polished. Feels like a...
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — VIDEO PROMPT — &quot;Pizza Night Vlog&quot; (UGC iPhone Style) Duration: 15 seconds | Aspect Ratio: 16:9 | Style: Authentic UGC / iPhone selfie-vlog, handheld, natural light, slight motion...</summary>
 
 ~~~~text
 VIDEO PROMPT — "Pizza Night Vlog" (UGC iPhone Style)
@@ -1478,9 +1269,9 @@ cinematic grade, overly smooth camera moves, studio lighting, professional voice
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/pizza-night-ugc-domino-s-vlog-197798.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/pizza-night-ugc-domino-s-vlog-197798)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/pizza-night-ugc-domino-s-vlog-197798.webm)
 
-**Source:** [@ShamiWeb3](https://x.com/ShamiWeb3/status/2082799917140197798) · **Details:** 15s · 16:9 · vlog · source-verified
+**Source:** [@ShamiWeb3](https://x.com/ShamiWeb3/status/2082799917140197798) · 15s · 16:9 · vlog
 
 ---
 
@@ -1490,14 +1281,8 @@ cinematic grade, overly smooth camera moves, studio lighting, professional voice
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/watercolor-anime-fetish-montage-rapid-cuts-335119.jpg" alt="Watercolor anime fetish montage rapid cuts video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** style: visual: &quot;日本の水彩画風フルカラーアニメ&quot; editing: &quot;0.5秒おきの高速カット割り&quot; animation: &quot;作画枚数多め、滑らかな24fps&quot; tone: &quot;官能的だが直接的にはせず、温度・湿度・心拍を映像化する&quot; project: id: &quot;fetish_montage_v3_with_broll&quot; format: &quot;vertical_9x16&quot; fps: 24 shot_duration: &quot;0.5s&quot; total_shots: 28 total_duration:...
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — style: visual: &quot;日本の水彩画風フルカラーアニメ&quot; editing: &quot;0.5秒おきの高速カット割り&quot; animation: &quot;作画枚数多め、滑らかな24fps&quot; tone: &quot;官能的だが直接的にはせず、温度・湿度・心拍を映像化する&quot; project: id: &quot;fetish_montage_v3_with_broll&quot; format:...</summary>
 
 ~~~~text
 style:
@@ -1638,9 +1423,9 @@ sequence:
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/watercolor-anime-fetish-montage-rapid-cuts-335119.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/watercolor-anime-fetish-montage-rapid-cuts-335119)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/watercolor-anime-fetish-montage-rapid-cuts-335119.webm)
 
-**Source:** [@yachimat_manga](https://x.com/yachimat_manga/status/2082799648528335119) · **Details:** 15s · 9:16 · anime · source-verified
+**Source:** [@yachimat_manga](https://x.com/yachimat_manga/status/2082799648528335119) · 15s · 9:16 · anime
 
 ---
 
@@ -1650,14 +1435,8 @@ sequence:
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/swimming-strokes-aesthetic-showcase-832514.jpg" alt="Swimming strokes aesthetic showcase video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** 【风格】游泳姿态美学展示（Swimming Strokes Showcase），电影感写真质感（16:9 Cinematic, Photorealistic），高速摄影升格（Super Slow-mo），阳光泳池通透水蓝影调，长发水中飘动的唯美运动风 【时长】15秒 【场景】一条极长的泳道，向远处延伸看不到尽头，阳光透过玻璃顶棚斜射入水，在池底投下晃动的光网，水质通透碧蓝，画面里没有出发台、记分屏等比赛元素 【角色】主角@图片1...
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — 【风格】游泳姿态美学展示（Swimming Strokes Showcase），电影感写真质感（16:9 Cinematic, Photorealistic），高速摄影升格（Super Slow-mo），阳光泳池通透水蓝影调，长发水中飘动的唯美运动风 【时长】15秒...</summary>
 
 ~~~~text
 【风格】游泳姿态美学展示（Swimming Strokes Showcase），电影感写真质感（16:9 Cinematic, Photorealistic），高速摄影升格（Super Slow-mo），阳光泳池通透水蓝影调，长发水中飘动的唯美运动风
@@ -1695,9 +1474,9 @@ Use the copy icon in the upper-right corner of the code block.
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/swimming-strokes-aesthetic-showcase-832514.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/swimming-strokes-aesthetic-showcase-832514)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/swimming-strokes-aesthetic-showcase-832514.webm)
 
-**Source:** [@johnAGI168](https://x.com/johnAGI168/status/2082798969499832514) · **Details:** 15s · 16:9 · cinematic story · source-verified
+**Source:** [@johnAGI168](https://x.com/johnAGI168/status/2082798969499832514) · 15s · 16:9 · cinematic story
 
 ---
 
@@ -1707,14 +1486,8 @@ Use the copy icon in the upper-right corner of the code block.
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-wireless-headphones-product-showcase-291312.jpg" alt="Luxury wireless headphones product showcase video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** Create a 15-second luxury cinematic product showcase for premium wireless over-ear headphones. 0–4s: Begin with an extreme macro tracking shot moving across the soft memory-foam ear cushion, fine fabric texture, brushed-metal hinge and precision-machined...
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — Create a 15-second luxury cinematic product showcase for premium wireless over-ear headphones. 0–4s: Begin with an extreme macro tracking shot moving across the soft memory-foam...</summary>
 
 ~~~~text
 Create a 15-second luxury cinematic product showcase for premium wireless over-ear headphones.
@@ -1730,9 +1503,9 @@ Create a 15-second luxury cinematic product showcase for premium wireless over-e
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-wireless-headphones-product-showcase-291312.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/luxury-wireless-headphones-product-showcase-291312)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-wireless-headphones-product-showcase-291312.webm)
 
-**Source:** [@LudovicCreator](https://x.com/LudovicCreator/status/2082783319075291312) · **Details:** 15s · 16:9 · product demo · source-verified
+**Source:** [@LudovicCreator](https://x.com/LudovicCreator/status/2082783319075291312) · 15s · 16:9 · product demo
 
 ---
 
@@ -1742,14 +1515,8 @@ Create a 15-second luxury cinematic product showcase for premium wireless over-e
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/vertical-car-transformation-street-culture-film-378938.jpg" alt="Vertical car transformation street-culture film video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** FORMAT: 15-second cinematic vertical car transformation film 9:16 aspect ratio Ultra-realistic automotive commercial aesthetic Japanese street culture + luxury cinematic realism High-energy transformation pacing CONCEPT: “FROM STOCK TO STREET WEAPON” A normal...
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — FORMAT: 15-second cinematic vertical car transformation film 9:16 aspect ratio Ultra-realistic automotive commercial aesthetic Japanese street culture + luxury cinematic realism...</summary>
 
 ~~~~text
 FORMAT:
@@ -1865,9 +1632,9 @@ Feels like a premium car modification advertisement
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/vertical-car-transformation-street-culture-film-378938.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/vertical-car-transformation-street-culture-film-378938)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/vertical-car-transformation-street-culture-film-378938.webm)
 
-**Source:** [@fromjtown](https://x.com/fromjtown/status/2082783123830378938) · **Details:** 15s · 16:9 · product commercial · source-verified
+**Source:** [@fromjtown](https://x.com/fromjtown/status/2082783123830378938) · 15s · 16:9 · product commercial
 
 ---
 
@@ -1877,14 +1644,8 @@ Feels like a premium car modification advertisement
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/sci-fi-explorer-approaches-dark-gateway-mystery-410508.jpg" alt="Sci-fi explorer approaches dark gateway mystery video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** Create a 15-second, 16:9 photoreal cinematic sci-fi mystery sequence with native stereo audio. Use Image 1 as the strict anchor reference for the explorer’s identity, face, short dark hair, charcoal hooded coat, black tactical clothing, boots, gateway design,...
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — Create a 15-second, 16:9 photoreal cinematic sci-fi mystery sequence with native stereo audio. Use Image 1 as the strict anchor reference for the explorer’s identity, face, short...</summary>
 
 ~~~~text
 Create a 15-second, 16:9 photoreal cinematic sci-fi mystery sequence with native stereo audio.
@@ -1910,9 +1671,9 @@ No dialogue, subtitles, title cards, logos, watermarks, extra characters, vehicl
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/sci-fi-explorer-approaches-dark-gateway-mystery-410508.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/sci-fi-explorer-approaches-dark-gateway-mystery-410508)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/sci-fi-explorer-approaches-dark-gateway-mystery-410508.webm)
 
-**Source:** [@beginnersblog1](https://x.com/beginnersblog1/status/2082782535252410508) · **Details:** 15s · 16:9 · cinematic story · source-verified
+**Source:** [@beginnersblog1](https://x.com/beginnersblog1/status/2082782535252410508) · 15s · 16:9 · cinematic story
 
 ---
 
@@ -1922,14 +1683,8 @@ No dialogue, subtitles, title cards, logos, watermarks, extra characters, vehicl
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-premium-cinematic-luxury-perfume-commercial-783085.jpg" alt="Ultra-premium cinematic luxury perfume commercial video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** Create a 15-second ultra-premium cinematic luxury perfume commercial designed to fully showcase MiniMax H3's multimodal capabilities. Output Settings: • Duration: 15 seconds • Resolution: 2K (1440p) • Frame Rate: 24 FPS • Aspect Ratio: 9:16 Vertical • Native...
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — Create a 15-second ultra-premium cinematic luxury perfume commercial designed to fully showcase MiniMax H3's multimodal capabilities. Output Settings: • Duration: 15 seconds •...</summary>
 
 ~~~~text
 Create a 15-second ultra-premium cinematic luxury perfume commercial designed to fully showcase MiniMax H3's multimodal capabilities.
@@ -1966,9 +1721,9 @@ Low quality, blurry, noise, flickering, unstable motion, distorted anatomy, bad 
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-premium-cinematic-luxury-perfume-commercial-783085.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/ultra-premium-cinematic-luxury-perfume-commercial-783085)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-premium-cinematic-luxury-perfume-commercial-783085.webm)
 
-**Source:** [@SadiaMalik182](https://x.com/SadiaMalik182/status/2082776032042783085) · **Details:** 15s · 16:9 · product commercial · source-verified
+**Source:** [@SadiaMalik182](https://x.com/SadiaMalik182/status/2082776032042783085) · 15s · 16:9 · product commercial
 
 ---
 
@@ -1978,14 +1733,8 @@ Low quality, blurry, noise, flickering, unstable motion, distorted anatomy, bad 
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/asmr-multi-cut-overseas-snack-unboxing-anime-428159.jpg" alt="ASMR multi-cut overseas snack unboxing anime video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** 日本のフルカラーアニメ映画風、シネマティックな高品質映像。BGMなし、セリフなし、字幕なし、文字なし、環境音のみ。 # 映像スタイル 添付イラストのキャラクター本人感を最優先。 過度な写実化・厚塗り・複雑な陰影は禁止。 キャラクターの顔立ち、髪型、体型、衣装、アクセは変えない。 # 制約 全カットで画角とアングルを変えて単調にしない。...
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — 日本のフルカラーアニメ映画風、シネマティックな高品質映像。BGMなし、セリフなし、字幕なし、文字なし、環境音のみ。 # 映像スタイル 添付イラストのキャラクター本人感を最優先。 過度な写実化・厚塗り・複雑な陰影は禁止。 キャラクターの顔立ち、髪型、体型、衣装、アクセは変えない。 # 制約 全カットで画角とアングルを変えて単調にしない。...</summary>
 
 ~~~~text
 日本のフルカラーアニメ映画風、シネマティックな高品質映像。BGMなし、セリフなし、字幕なし、文字なし、環境音のみ。
@@ -2077,9 +1826,9 @@ cut16:
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/asmr-multi-cut-overseas-snack-unboxing-anime-428159.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/asmr-multi-cut-overseas-snack-unboxing-anime-428159)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/asmr-multi-cut-overseas-snack-unboxing-anime-428159.webm)
 
-**Source:** [@aiehon_aya](https://x.com/aiehon_aya/status/2082768164413428159) · **Details:** 15s · 16:9 · anime · source-verified
+**Source:** [@aiehon_aya](https://x.com/aiehon_aya/status/2082768164413428159) · 15s · 16:9 · anime
 
 ---
 
@@ -2089,14 +1838,8 @@ cut16:
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/condor-heroes-characters-teach-english-word-dream-815758.jpg" alt="Condor Heroes characters teach English word dream video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** 神雕侠侣主角趣味讲单词 dream 教程
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — 神雕侠侣主角趣味讲单词 dream 教程</summary>
 
 ~~~~text
 神雕侠侣主角趣味讲单词 dream 教程
@@ -2104,9 +1847,9 @@ Use the copy icon in the upper-right corner of the code block.
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/condor-heroes-characters-teach-english-word-dream-815758.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/condor-heroes-characters-teach-english-word-dream-815758)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/condor-heroes-characters-teach-english-word-dream-815758.webm)
 
-**Source:** [@nicekate8888](https://x.com/nicekate8888/status/2082762739697815758) · **Details:** 15s · 16:9 · comedy · source-verified
+**Source:** [@nicekate8888](https://x.com/nicekate8888/status/2082762739697815758) · 15s · 16:9 · comedy
 
 ---
 
@@ -2116,14 +1859,8 @@ Use the copy icon in the upper-right corner of the code block.
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/mumbai-monsoon-fpv-drone-flight-942674.jpg" alt="Mumbai monsoon FPV drone flight video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** Reference: Use the attached @ Image1 1 as the exact first frame and environment reference. The green drawn line is only the camera flight-path guide. Do not show the green line in the final video. Create a 15-second hyper-real cinematic FPV drone video over...
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — Reference: Use the attached @ Image1 1 as the exact first frame and environment reference. The green drawn line is only the camera flight-path guide. Do not show the green line in...</summary>
 
 ~~~~text
 Reference: Use the attached @ Image1  1 as the exact first frame and environment reference. The green drawn line is only the camera flight-path guide. Do not show the green line in the final video.
@@ -2155,9 +1892,9 @@ IMPORTANT  Do not show the green route line. No text, captions, logos, or waterm
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/mumbai-monsoon-fpv-drone-flight-942674.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/mumbai-monsoon-fpv-drone-flight-942674)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/mumbai-monsoon-fpv-drone-flight-942674.webm)
 
-**Source:** [@CurieuxExplorer](https://x.com/CurieuxExplorer/status/2082747871103942674) · **Details:** 15s · 3:4 · cinematic travel · source-verified
+**Source:** [@CurieuxExplorer](https://x.com/CurieuxExplorer/status/2082747871103942674) · 15s · 3:4 · cinematic travel
 
 ---
 
@@ -2167,14 +1904,8 @@ IMPORTANT  Do not show the green route line. No text, captions, logos, or waterm
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/1998-seoul-rainy-bus-stop-archival-home-video-300930.jpg" alt="1998 Seoul rainy bus stop archival home video video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** Create an authentic 15-second archival home video that appears to have been recorded in Seoul, South Korea, during the summer of 1998 using a consumer Hi8 or VHS-C camcorder. The camcorder is never visible. The audience only sees the footage captured through...
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — Create an authentic 15-second archival home video that appears to have been recorded in Seoul, South Korea, during the summer of 1998 using a consumer Hi8 or VHS-C camcorder. The...</summary>
 
 ~~~~text
 Create an authentic 15-second archival home video that appears to have been recorded in Seoul, South Korea, during the summer of 1998 using a consumer Hi8 or VHS-C camcorder. The camcorder is never visible. The audience only sees the footage captured through the camera, exactly as if watching a forgotten family videotape decades later. This is not a vlog, not a selfie, and not a cinematic film. The unseen camera operator casually documents an ordinary moment from everyday life.
@@ -2190,9 +1921,9 @@ Generation Requirements: Produce one continuous, uninterrupted 15-second recordi
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/1998-seoul-rainy-bus-stop-archival-home-video-300930.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/1998-seoul-rainy-bus-stop-archival-home-video-300930)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/1998-seoul-rainy-bus-stop-archival-home-video-300930.webm)
 
-**Source:** [@itxabdullaa](https://x.com/itxabdullaa/status/2082747126497300930) · **Details:** 15s · 16:9 · cinematic story · source-verified
+**Source:** [@itxabdullaa](https://x.com/itxabdullaa/status/2082747126497300930) · 15s · 16:9 · cinematic story
 
 ---
 
@@ -2202,14 +1933,8 @@ Generation Requirements: Produce one continuous, uninterrupted 15-second recordi
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ink-wash-shrimp-leap-into-futuristic-city-848857.jpg" alt="Ink-wash shrimp leap into futuristic city video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** 水墨虾跃入未来城市——一张宣纸在夜色摩天楼之间展开，八只黑白水墨虾从纸面跃出，身体仍保留飞白与墨晕，虾须化成发光城市轨道，墨滴变成霓虹雨；画面有巨大尺度反差、强烈纵深、电影级光影和一眼停留的奇观感，不要文字、不要水印。
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — 水墨虾跃入未来城市——一张宣纸在夜色摩天楼之间展开，八只黑白水墨虾从纸面跃出，身体仍保留飞白与墨晕，虾须化成发光城市轨道，墨滴变成霓虹雨；画面有巨大尺度反差、强烈纵深、电影级光影和一眼停留的奇观感，不要文字、不要水印。</summary>
 
 ~~~~text
 水墨虾跃入未来城市——一张宣纸在夜色摩天楼之间展开，八只黑白水墨虾从纸面跃出，身体仍保留飞白与墨晕，虾须化成发光城市轨道，墨滴变成霓虹雨；画面有巨大尺度反差、强烈纵深、电影级光影和一眼停留的奇观感，不要文字、不要水印。
@@ -2217,9 +1942,9 @@ Use the copy icon in the upper-right corner of the code block.
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/ink-wash-shrimp-leap-into-futuristic-city-848857.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/ink-wash-shrimp-leap-into-futuristic-city-848857)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/ink-wash-shrimp-leap-into-futuristic-city-848857.webm)
 
-**Source:** [@nicekate8888](https://x.com/nicekate8888/status/2082746108493848857) · **Details:** 15s · 16:9 · cinematic story · source-verified
+**Source:** [@nicekate8888](https://x.com/nicekate8888/status/2082746108493848857) · 15s · 16:9 · cinematic story
 
 ---
 
@@ -2229,14 +1954,8 @@ Use the copy icon in the upper-right corner of the code block.
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/fire-breathing-dragon-in-broken-palace-831106.jpg" alt="Fire-breathing dragon in broken palace video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** Fire-Breathing Dragon in a Broken Palace** A colossal fire-breathing dragon with obsidian-black scales streaked by glowing molten cracks stalks through the ruins of a shattered royal palace during a violent thunderstorm. Rain crashes through the collapsed...
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — Fire-Breathing Dragon in a Broken Palace** A colossal fire-breathing dragon with obsidian-black scales streaked by glowing molten cracks stalks through the ruins of a shattered...</summary>
 
 ~~~~text
 Fire-Breathing Dragon in a Broken Palace**  A colossal fire-breathing dragon with obsidian-black scales streaked by glowing molten cracks stalks through the ruins of a shattered royal palace during a violent thunderstorm. Rain crashes through the collapsed marble ceilings and broken palace domes, lightning flashes behind towering fractured columns and crumbling statues of forgotten kings, while thick smoke and mist drift across the flooded stone floors.  The dragon exhales a massive stream of blazing fire, turning the rain into clouds of steam and illuminating the ruined palace with fiery orange light. Every thunderous roar sends shockwaves through the ancient structure—massive pillars split apart, cracked walls collapse, shattered stained-glass windows explode outward, and glowing magma-like fissures spread beneath its claws across the palace floor.  The camera tracks low beside the dragon, capturing ultra-detailed wet scales, razor-sharp claws crushing marble tiles, smoke pouring from its nostrils, glowing molten eyes, and fire reflecting across the rain-soaked stone. Cinematic camera movement with dynamic close-ups, slow-motion embers, volumetric smoke, and dramatic lightning flashes emphasize the creature's immense scale.  **Final moment:** The dragon spreads its colossal wings atop the broken royal throne as a gigantic bolt of lightning strikes the ruined palace behind it. It unleashes an earth-shaking roar while breathing an enormous column of fire into the stormy sky, casting its gigantic shadow across the shattered palace walls.  **Mythic creature realism, cinematic fantasy, ultra-detailed dragon anatomy, broken palace environment, heavy rain, lightning storm, volumetric fog, fire and smoke simulation, dynamic destruction, epic scale, dramatic lighting, photorealistic CGI, cinematic 4K.**
@@ -2244,9 +1963,9 @@ Fire-Breathing Dragon in a Broken Palace**  A colossal fire-breathing dragon wit
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/fire-breathing-dragon-in-broken-palace-831106.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/fire-breathing-dragon-in-broken-palace-831106)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/fire-breathing-dragon-in-broken-palace-831106.webm)
 
-**Source:** [@dreamydigiarts](https://x.com/dreamydigiarts/status/2082745513573831106) · **Details:** 15s · 16:9 · cinematic story · source-verified
+**Source:** [@dreamydigiarts](https://x.com/dreamydigiarts/status/2082745513573831106) · 15s · 16:9 · cinematic story
 
 ---
 
@@ -2256,14 +1975,8 @@ Fire-Breathing Dragon in a Broken Palace**  A colossal fire-breathing dragon wit
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/dark-pop-cyber-grunge-rap-music-video-style-998615.jpg" alt="Dark-pop cyber-grunge rap music video style video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** Style: dark-pop / cyber-grunge / rap music video with photoreal high-fashion polish and the texture of a scanned film magazine—high contrast without looking cheap. Reference late-1990s to early-2000s indie magazines, photocopies, film scans, underground-music...
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — Style: dark-pop / cyber-grunge / rap music video with photoreal high-fashion polish and the texture of a scanned film magazine—high contrast without looking cheap. Reference...</summary>
 
 ~~~~text
 Style: dark-pop / cyber-grunge / rap music video with photoreal high-fashion polish and the texture of a scanned film magazine—high contrast without looking cheap. Reference late-1990s to early-2000s indie magazines, photocopies, film scans, underground-music posters, and zine collage. Add coarse grain, subtle gate weave, halftone dots, rough print edges, and slight scan misregistration. Keep the edit fast and use hard cuts only—no fades or soft transitions. Match the typographic treatment and surface texture of the reference images.
@@ -2271,9 +1984,9 @@ Style: dark-pop / cyber-grunge / rap music video with photoreal high-fashion pol
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/dark-pop-cyber-grunge-rap-music-video-style-998615.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/dark-pop-cyber-grunge-rap-music-video-style-998615)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/dark-pop-cyber-grunge-rap-music-video-style-998615.webm)
 
-**Source:** [@Just_sharon7](https://x.com/Just_sharon7/status/2082711476347998615) · **Details:** 15s · 16:9 · music video · source-verified
+**Source:** [@Just_sharon7](https://x.com/Just_sharon7/status/2082711476347998615) · 15s · 16:9 · music video
 
 ---
 
@@ -2283,14 +1996,8 @@ Style: dark-pop / cyber-grunge / rap music video with photoreal high-fashion pol
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/armored-swordswoman-rock-plateau-action-sequence-009447.jpg" alt="Armored swordswoman rock-plateau action sequence video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** @image1 完全按照参考图呈现,不重新设计角色。面部五官比例、金色浮雕铠甲纹样、服装剪裁与巨剑造型,全片保持严格一致,不因动作幅度、镜头角度或光线变化产生偏差。 武器锁定:全片只使用这把巨剑,不出现任何其他武器或道具。 场景:高处开阔的灰白岩石台地,四周散布着大小不一的巨岩,最远处矗立一块屋子大小的黑色巨岩。天空是清透的灰蓝色,浮着几片白云。侧向强光在岩石上投下长影。空气中悬浮着细小浮尘,被光线照出颗粒感;岩缝间偶有暗红余烬般的光点隐约明灭。...
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — @image1 完全按照参考图呈现,不重新设计角色。面部五官比例、金色浮雕铠甲纹样、服装剪裁与巨剑造型,全片保持严格一致,不因动作幅度、镜头角度或光线变化产生偏差。 武器锁定:全片只使用这把巨剑,不出现任何其他武器或道具。...</summary>
 
 ~~~~text
 @image1 完全按照参考图呈现,不重新设计角色。面部五官比例、金色浮雕铠甲纹样、服装剪裁与巨剑造型,全片保持严格一致,不因动作幅度、镜头角度或光线变化产生偏差。
@@ -2326,9 +2033,9 @@ Use the copy icon in the upper-right corner of the code block.
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/armored-swordswoman-rock-plateau-action-sequence-009447.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/armored-swordswoman-rock-plateau-action-sequence-009447)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/armored-swordswoman-rock-plateau-action-sequence-009447.webm)
 
-**Source:** [@Cia0_exe](https://x.com/Cia0_exe/status/2082693906224009447) · **Details:** 15s · 16:9 · cinematic story · source-verified
+**Source:** [@Cia0_exe](https://x.com/Cia0_exe/status/2082693906224009447) · 15s · 16:9 · cinematic story
 
 ---
 
@@ -2338,14 +2045,8 @@ Use the copy icon in the upper-right corner of the code block.
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/would-you-like-to-dance-986858.jpg" alt="Would you like to dance video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** Would you like to dance?
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — Would you like to dance?</summary>
 
 ~~~~text
 Would you like to dance?
@@ -2353,9 +2054,9 @@ Would you like to dance?
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/would-you-like-to-dance-986858.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/would-you-like-to-dance-986858)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/would-you-like-to-dance-986858.webm)
 
-**Source:** [@OrctonAI](https://x.com/OrctonAI/status/2082612279866986858) · **Details:** 15s · 16:9 · music video · source-verified
+**Source:** [@OrctonAI](https://x.com/OrctonAI/status/2082612279866986858) · 15s · 16:9 · music video
 
 ---
 
@@ -2365,14 +2066,8 @@ Would you like to dance?
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/hard-sci-fi-desert-3x3-grid-animation-sequence-845158.jpg" alt="Hard sci-fi desert 3x3 grid animation sequence video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** Epic desert sci-fi, harsh golden-hour light, volumetric sand haze, anamorphic lens flares, subtle handheld drift, heavy atmospheric particles, 35mm film texture. Use the provided 3x3 grid as the only visual reference. Lock the exact same woman (face, scars,...
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — Epic desert sci-fi, harsh golden-hour light, volumetric sand haze, anamorphic lens flares, subtle handheld drift, heavy atmospheric particles, 35mm film texture. Use the provided...</summary>
 
 ~~~~text
 Epic desert sci-fi, harsh golden-hour light, volumetric sand haze, anamorphic lens flares, subtle handheld drift, heavy atmospheric particles, 35mm film texture.
@@ -2401,9 +2096,9 @@ Photorealistic, ultra-detailed skin and fabric textures, perfect sand physics, c
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/hard-sci-fi-desert-3x3-grid-animation-sequence-845158.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/hard-sci-fi-desert-3x3-grid-animation-sequence-845158)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/hard-sci-fi-desert-3x3-grid-animation-sequence-845158.webm)
 
-**Source:** [@techhalla](https://x.com/techhalla/status/2082611421225845158) · **Details:** 15s · 8:9 · cinematic story · source-verified
+**Source:** [@techhalla](https://x.com/techhalla/status/2082611421225845158) · 15s · 8:9 · cinematic story
 
 ---
 
@@ -2413,14 +2108,8 @@ Photorealistic, ultra-detailed skin and fabric textures, perfect sand physics, c
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/emotional-performance-lip-sync-to-reference-audio-609528.jpg" alt="Emotional performance lip-sync to reference audio video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** The man sings the song with great emotion and energy. His movements are rapid and in sync with the music. He looks straight ahead. He is full of drive and energy, and his arm movements complement the motion of his body. Handheld shooting. He sings...
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — The man sings the song with great emotion and energy. His movements are rapid and in sync with the music. He looks straight ahead. He is full of drive and energy, and his arm...</summary>
 
 ~~~~text
 The man sings the song with great emotion and energy. His movements are rapid and in sync with the music. He looks straight ahead. He is full of drive and energy, and his arm movements complement the motion of his body. Handheld shooting.
@@ -2429,9 +2118,9 @@ He sings passionately and emotionally with perfect lip sync the lyrics: “My ch
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/emotional-performance-lip-sync-to-reference-audio-609528.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/emotional-performance-lip-sync-to-reference-audio-609528)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/emotional-performance-lip-sync-to-reference-audio-609528.webm)
 
-**Source:** [@Kiber_Alla](https://x.com/Kiber_Alla/status/2082605878679609528) · **Details:** 15s · 9:16 · music video · source-verified
+**Source:** [@Kiber_Alla](https://x.com/Kiber_Alla/status/2082605878679609528) · 15s · 9:16 · music video
 
 ---
 
@@ -2441,14 +2130,8 @@ He sings passionately and emotionally with perfect lip sync the lyrics: “My ch
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/five-cinematic-dialogue-set-piece-scenes-875568.jpg" alt="Five cinematic dialogue set-piece scenes video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** SCENE CONTEXT A middle-aged man stands in the middle of a dirt road in open desert and holds a pistol level at the person filming him. He gives an instruction, is answered by name, and warns them not to say it again. Nothing is fired. TIMELINE 0.0–3.0s — he...
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — SCENE CONTEXT A middle-aged man stands in the middle of a dirt road in open desert and holds a pistol level at the person filming him. He gives an instruction, is answered by...</summary>
 
 ~~~~text
 SCENE CONTEXT A middle-aged man stands in the middle of a dirt road in open desert and holds a pistol level at the person filming him. He gives an instruction, is answered by name, and warns them not to say it again. Nothing is fired.
@@ -2563,9 +2246,9 @@ POSITIVE LOCKS Exactly two officers are in the room and no other figures enter. 
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/five-cinematic-dialogue-set-piece-scenes-875568.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/five-cinematic-dialogue-set-piece-scenes-875568)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/five-cinematic-dialogue-set-piece-scenes-875568.webm)
 
-**Source:** [@maxescu](https://x.com/maxescu/status/2082563241062875568) · **Details:** 161s · 184:103 · cinematic story · source-verified
+**Source:** [@maxescu](https://x.com/maxescu/status/2082563241062875568) · 161s · 184:103 · cinematic story
 
 ---
 
@@ -2575,14 +2258,8 @@ POSITIVE LOCKS Exactly two officers are in the room and no other figures enter. 
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/live-action-relationship-confession-drama-scene-224793.jpg" alt="Live-action relationship confession drama scene video preview" width="700" />
 </a>
 
-*Preview frame — click the image to play the complete WebM.*
-
-> **Prompt:** Grounded photorealistic live-action relationship drama, natural 24fps motion. FORMAT Two connected 15-second clips, 16:9, grounded photorealistic live-action relationship drama, natural 24fps motion. SHARED STYLE A small living room at night. One warm floor...
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — Grounded photorealistic live-action relationship drama, natural 24fps motion. FORMAT Two connected 15-second clips, 16:9, grounded photorealistic live-action relationship drama,...</summary>
 
 ~~~~text
 Grounded photorealistic live-action relationship drama, natural 24fps motion.
@@ -2651,9 +2328,9 @@ Final frame: Hold on the husband as the meaning lands. His hand lowers, and the 
 
 </details>
 
-[![Play full video](https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/live-action-relationship-confession-drama-scene-224793.webm) [![Open and copy prompt](https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge)](https://beatapi.io/prompts/minimax-h3/live-action-relationship-confession-drama-scene-224793)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/live-action-relationship-confession-drama-scene-224793.webm)
 
-**Source:** [@NEXUS_TO_NOVA](https://x.com/NEXUS_TO_NOVA/status/2082548512286224793) · **Details:** 15s · 16:9 · cinematic story · source-verified
+**Source:** [@NEXUS_TO_NOVA](https://x.com/NEXUS_TO_NOVA/status/2082548512286224793) · 15s · 16:9 · cinematic story
 
 ---
 

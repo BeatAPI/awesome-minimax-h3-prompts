@@ -7,11 +7,8 @@ const startMarker = '<!-- GENERATED_VIDEO_GALLERY_START -->';
 const endMarker = '<!-- GENERATED_VIDEO_GALLERY_END -->';
 const mediaBase =
   'https://media.beatapi.io/prompt-gallery/minimax-h3';
-const galleryBase = 'https://beatapi.io/prompts/minimax-h3';
 const playButton =
-  'https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge';
-const promptButton =
-  'https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge';
+  'https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge';
 
 const animatedPreviewOrder = [
   'modern-warfare-fps-gameplay',
@@ -42,7 +39,7 @@ function mediaFor(entry) {
   };
 }
 
-function promptPreview(prompt, limit = 260) {
+function promptPreview(prompt, limit = 180) {
   const compact = prompt.replace(/\s+/g, ' ').trim();
   if (compact.length <= limit) return escapeHtml(compact);
 
@@ -64,9 +61,6 @@ function renderEntry(entry, index) {
   const preview = isAnimated
     ? `./assets/readme-previews/${entry.slug}.webp`
     : media.thumbnail;
-  const previewLabel = isAnimated
-    ? 'Animated three-second preview'
-    : 'Preview frame';
   const category = entry.category.replaceAll('-', ' ');
   const sourceName = sourceHandleFor(entry);
 
@@ -76,14 +70,8 @@ function renderEntry(entry, index) {
   <img src="${preview}" alt="${escapeHtml(title)} video preview" width="700" />
 </a>
 
-*${previewLabel} — click the image to play the complete WebM.*
-
-> **Prompt:** ${promptPreview(entry.prompt)}
-
 <details>
-<summary><strong>View full prompt and copy</strong></summary>
-
-Use the copy icon in the upper-right corner of the code block.
+<summary><strong>Prompt</strong> — ${promptPreview(entry.prompt)}</summary>
 
 ~~~~text
 ${entry.prompt.trim()}
@@ -91,9 +79,9 @@ ${entry.prompt.trim()}
 
 </details>
 
-[![Play full video](${playButton})](${media.video}) [![Open and copy prompt](${promptButton})](${galleryBase}/${entry.slug})
+[![Play video](${playButton})](${media.video})
 
-**Source:** [${sourceName}](${entry.source.url}) · **Details:** ${entry.duration} · ${entry.aspectRatio} · ${category} · ${entry.outputStatus}
+**Source:** [${sourceName}](${entry.source.url}) · ${entry.duration} · ${entry.aspectRatio} · ${category}
 
 ---`;
 }
@@ -125,12 +113,6 @@ const entries = catalogEntries
   .map(({ entry }) => entry);
 
 const gallery = `${startMarker}
-
-The result comes first: watch the lightweight motion preview, scan the shortened
-prompt, or expand the complete prompt and use GitHub's copy control. The first
-six cards use repository-hosted animated WebP previews; the remaining cards use
-CDN poster frames to keep GitHub fast. Every source handle links to the original
-X post.
 
 ${entries.map(renderEntry).join('\n\n')}
 
