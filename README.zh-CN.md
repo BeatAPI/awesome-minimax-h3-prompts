@@ -2,7 +2,6 @@
 
 这是由 [BeatAPI](https://beatapi.io) 维护的 MiniMax H3 制作级提示词开源仓库。
 
-**[打开可视化 Gallery](https://beatapi.io/zh/prompts/minimax-h3)** ·
 **[提交 Prompt](https://github.com/BeatAPI/awesome-minimax-h3-prompts/issues/new?template=prompt.yml)**
 
 ## 为什么做这个仓库
@@ -24,7 +23,7 @@ MiniMax H3 可以同时理解文本、图片、视频和音频，因此高质量
 现有 50 个案例都已回查 X：原帖明确提到 MiniMax H3 并附带生成视频；
 完整 Prompt 位于同帖（34 条）或同一作者的回复（16 条）。下面列出首批
 11 条代表案例，完整清单见 [`prompts/catalog.json`](./prompts/catalog.json)
-和网站 Gallery：
+和[英文 README Gallery](./README.md)：
 
 - [无线电员守住撤离桥](https://x.com/Diplomeme/status/2082770042630943156)
 - [公园巨型锦鲤意外](https://x.com/underwoodxie96/status/2082747838782386563)
@@ -38,26 +37,11 @@ MiniMax H3 可以同时理解文本、图片、视频和音频，因此高质量
 - [温室红茶异世界动画](https://x.com/haruuraeadss/status/2082798959014064531)
 - [Lilia Astra 预告片头](https://x.com/haruuraeadss/status/2082945363431080299)
 
-公共仓库只保留来源链接与署名，不直接再分发第三方视频；媒体版权仍归原作者。
-
-## BeatAPI 原创模板
-
-另保留 6 个尚待自有实测的 BeatAPI 原创模板：
-
-- 动态歌词舞台
-- 会呼吸的编辑海报
-- 奢华香氛发布片
-- 产品界面发布片
-- 节奏照片日记
-- 建筑感片头序列
-
-完整 Prompt 与字段见
-[`prompts/catalog.json`](./prompts/catalog.json)，网站详情页见
-[MiniMax H3 Prompt Gallery](https://beatapi.io/zh/prompts/minimax-h3)。
+案例视频通过 BeatAPI CDN 以 WebM 展示；仓库保留作者署名与原始 X 链接，
+相关权利仍归原作者。
 
 ## 验证状态
 
-- `template-unverified`：没有发布自有输出的提示词模板。
 - `source-verified`：已经核验原始公开来源和作者。
 - `output-verified`：可以公开输入、设置和输出证据。
 
@@ -92,5 +76,5 @@ npm test
 
 ## 许可
 
-原创 Prompt 与文档使用 [CC BY 4.0](./LICENSE.md)，验证代码使用同文件中的
-MIT 条款。第三方来源与媒体仍归原权利人所有。
+BeatAPI 编写的文档使用 [CC BY 4.0](./LICENSE.md)，验证代码使用同文件中的
+MIT 条款。第三方 Prompt、媒体、姓名与来源帖子仍归原权利人所有。

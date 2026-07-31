@@ -1,14 +1,14 @@
 # License
 
-## Prompt text and documentation
+## Documentation
 
-Except where a file or entry says otherwise, original prompt text and
-documentation in this repository are licensed under the Creative Commons
-Attribution 4.0 International License (CC BY 4.0):
+BeatAPI-authored documentation in this repository is licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0):
 https://creativecommons.org/licenses/by/4.0/
 
 Attribution should name “BeatAPI Prompt Gallery” and link to this repository.
-Third-party linked sources and media are not relicensed by this repository.
+Third-party prompts, media, names, and source posts are not relicensed by this
+repository and retain their original rights.
 
 ## Validation code
 

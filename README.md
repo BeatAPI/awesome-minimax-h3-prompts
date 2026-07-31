@@ -2344,7 +2344,6 @@ requirements.
 
 ## License
 
-Original prompt text and documentation are licensed under
-[CC BY 4.0](./LICENSE.md). Validation code is licensed under the MIT terms in
-the same file. Third-party linked media and sources retain their original
-rights.
+BeatAPI-authored documentation is licensed under [CC BY 4.0](./LICENSE.md), and
+validation code is licensed under the MIT terms in the same file. Third-party
+prompts, media, names, and source posts retain their original rights.

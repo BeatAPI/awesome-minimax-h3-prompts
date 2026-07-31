@@ -76,7 +76,7 @@
       "required": ["kind", "name", "url"]
     },
     "outputStatus": {
-      "enum": ["template-unverified", "source-verified", "output-verified"]
+      "enum": ["source-verified", "output-verified"]
     },
     "promptVisibility": {
       "enum": ["same-post", "same-author-thread"]

@@ -7,7 +7,7 @@ const catalog = JSON.parse(await readFile(file, 'utf8'));
 assert.equal(catalog.version, 1, 'catalog version must be 1');
 assert.equal(catalog.model, 'MiniMax-H3', 'catalog model must be MiniMax-H3');
 assert.ok(Array.isArray(catalog.prompts), 'prompts must be an array');
-assert.equal(catalog.prompts.length, 56, 'catalog should contain 50 sourced prompts and 6 templates');
+assert.equal(catalog.prompts.length, 50, 'catalog should contain 50 sourced prompts');
 
 const allowedCategories = new Set([
   'music-video',
@@ -31,7 +31,6 @@ const allowedModes = new Set([
   'multimodal',
 ]);
 const allowedStatuses = new Set([
-  'template-unverified',
   'source-verified',
   'output-verified',
 ]);
