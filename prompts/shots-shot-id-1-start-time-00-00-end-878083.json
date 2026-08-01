@@ -1,0 +1,33 @@
+{
+  "slug": "shots-shot-id-1-start-time-00-00-end-878083",
+  "title": {
+    "en": "Strawberry Drink Transformation Commercial",
+    "zh": "草莓饮料变形广告"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 product commercial prompt with attached video evidence from @GumVue.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+  },
+  "category": "product-commercial",
+  "mode": "text-to-video",
+  "duration": "7s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "native-audio",
+    "camera-direction",
+    "typography"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@GumVue",
+    "url": "https://x.com/GumVue/status/2083189719827878083"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/GumVue/status/2083189719827878083"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/shots-shot-id-1-start-time-00-00-end-878083-fac16344ba1e.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/shots-shot-id-1-start-time-00-00-end-878083-5b30a531bab4.jpg",
+  "prompt": "{   \"shots\": [     {       \"shot_id\": \"1\",       \"start_time\": \"00:00\",       \"end_time\": \"00:02\",       \"camera_angle\": \"Close-up\",       \"subject\": \"Strawberry\",       \"action\": \"A single, dull strawberry transforms into a vibrant, ripe strawberry, floating against a pink background.\",       \"visual_details\": \"Initial strawberry is muted, then becomes intensely red with visible seeds; pink background; subtle glow effect.\",       \"audio_cues\": \"Light, subtle, almost magical sound effect.\"     },     {       \"shot_id\": \"2\",       \"start_time\": \"00:02\",       \"end_time\": \"00:05\",       \"camera_angle\": \"Medium shot\",       \"subject\": \"Strawberry and beverage can\",       \"action\": \"The vibrant strawberry transforms into a white and pink beverage can with 'STRAWBERRY CREAM' text. Liquid pours into the can from above, and strawberries/water droplets float around it.\",       \"visual_details\": \"Can is sleek, covered in condensation; red liquid splashing into the can; numerous floating strawberries (whole and sliced) and water droplets; pink background.\",       \"audio_cues\": \"Sound of liquid pouring, bubbling, and light splashes; upbeat, commercial-style music.\"     },     {       \"shot_id\": \"3\",       \"start_time\": \"00:06\",       \"end_time\": \"00:10\",       \"camera_angle\": \"Close-up\",       \"subject\": \"Top of the beverage can\",       \"action\": \"Focus on the top of the can as the liquid continues to pour and splash, with droplets and strawberries in motion.\",       \"visual_details\": \"Intricate details of the can's opening and condensation; dynamic splashes of liquid; close-up of floating strawberry pieces.\",       \"audio_cues\": \"Enhanced sounds of liquid splashing and bubbling; continued music.\"     },   ] }"
+}

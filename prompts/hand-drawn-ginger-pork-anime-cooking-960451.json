@@ -1,0 +1,33 @@
+{
+  "slug": "hand-drawn-ginger-pork-anime-cooking-960451",
+  "title": {
+    "en": "Hand-Drawn Ginger Pork Cooking Anime",
+    "zh": "手绘姜烧猪肉料理动画"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 anime prompt with attached video evidence from @ozuozuai99.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动画提示词。"
+  },
+  "category": "anime",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "camera-direction",
+    "timed-beats",
+    "native-audio"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ozuozuai99",
+    "url": "https://x.com/ozuozuai99/status/2082828444484960451"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/ozuozuai99/status/2082828444484960451"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/hand-drawn-ginger-pork-anime-cooking-960451-b92e508d3872.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/hand-drawn-ginger-pork-anime-cooking-960451-b6c2ab769949.jpg",
+  "prompt": "手描きの日本の2Dアニメ、温かみのあるセルシェーディング、居心地のいい町の定食屋の厨房。15秒、ゆっくり見せる6カット、各約2.5秒。寄りのクローズアップ中心で、食欲をそそる濃厚な演出：脂、照り、湯気、たっぷりの量。\n1 まな板を真上から：包丁が厚切りの豚ロースを切る、白い脂の霜降り。\n2 斜め45度：熱々の鉄のフライパンに肉を並べ入れる、油が弾け、縁が反り返る。\n3 マクロ：脂が溶け出し、深い焼き色の焦げ目が広がる。\n4 寄り：濃い生姜醤油ダレを回し入れる、ぐつぐつと煮立って濃厚な照りのタレになり、肉に絡みつく。\n5 横から：フライパンを揺すり、すべての肉に鏡のような照りがまとわり、湯気が立ち上る。\n6 ラスト：湯気の立つ白ご飯の丼に生姜焼きを山盛りにのせ、タレが米粒の間へ垂れていく。\n料理と手元のみ。顔なし、食べるシーンなし、文字なし、BGMなし、ナレーションなし。実写風なし、3Dなし。"
+}

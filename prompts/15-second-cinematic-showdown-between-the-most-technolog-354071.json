@@ -1,0 +1,33 @@
+{
+  "slug": "15-second-cinematic-showdown-between-the-most-technolog-354071",
+  "title": {
+    "en": "Cyber Warrior vs. Primordial Fighter",
+    "zh": "赛博战士对决远古斗士"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 action prompt with attached video evidence from @alex_bagnuoli89.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动作提示词。"
+  },
+  "category": "action",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "dialogue",
+    "native-audio",
+    "camera-direction"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@alex_bagnuoli89",
+    "url": "https://x.com/alex_bagnuoli89/status/2083207597025354071"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/alex_bagnuoli89/status/2083207600141742136"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-cinematic-showdown-between-the-most-technolog-354071-f1fbd8ae7b01.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-cinematic-showdown-between-the-most-technolog-354071-f3ccda5d88dd.jpg",
+  "prompt": "Create a 15-second cinematic showdown between the most technologically advanced human and the most primordial warrior.\n\nThe technological fighter wears adaptive nano-armor, holographic interfaces, energy weapons, and glowing cybernetic implants.\n\nThe primordial fighter is massive and feral, covered in ritual markings, bone armor, and animal hides, wielding a brutal stone weapon.\n\nSet the battle in a ruined landscape where a futuristic megacity merges with an ancient volcanic wilderness.\n\n00:00 — The fighters face each other as futuristic machinery hums and distant primal drums begin.\n\n00:02 — The technological fighter activates the nano-armor and says in a cold synthetic voice: “Evolution ends with me.”\n\n00:04 — The primordial warrior roars and replies in a deep, savage voice: “You have forgotten what strength is.”\n\n00:06 — They charge toward each other at full speed.\n\n00:08 — Their weapons collide, releasing a massive shockwave of blue plasma, fire, sparks, debris, lightning, and shattered holographic fragments.\n\n00:10 — The technological fighter launches drones and energy blades while the primordial warrior smashes the ground, creating volcanic cracks and a towering blast of stone and flame.\n\n00:12 — Both fighters unleash their final attacks simultaneously as the camera circles them in dramatic slow motion.\n\n00:14 — A blinding explosion consumes the battlefield.\n\n00:15 — The smoke begins to clear, revealing only a mysterious silhouette without showing who won.\n\nUse dynamic tracking shots, dramatic low angles, rapid orbiting camera movement, extreme close-ups, speed ramps, controlled handheld energy, and slow motion during key impacts.\n\nCinematic 4K, 16:9, ultra-realistic VFX, physically accurate destruction, volumetric smoke, plasma energy, fire, sparks, debris, lightning, synchronized impact sounds, futuristic weapon audio, primal roars, distinct English voices, and a cinematic orchestral score mixed with electronic pulses and tribal percussion."
+}

@@ -14,7 +14,9 @@
     "prompt",
     "ingredients",
     "source",
-    "outputStatus"
+    "outputStatus",
+    "video",
+    "thumbnail"
   ],
   "properties": {
     "slug": {
@@ -31,6 +33,7 @@
     },
     "category": {
       "enum": [
+        "action",
         "music-video",
         "motion-graphics",
         "brand-film",
@@ -43,7 +46,9 @@
         "comedy",
         "product-commercial",
         "cinematic-travel",
-        "anime"
+        "anime",
+        "fashion",
+        "horror"
       ]
     },
     "mode": {
@@ -87,6 +92,16 @@
         "type": "string",
         "format": "uri"
       }
+    },
+    "video": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https://media\\.beatapi\\.io/prompt-gallery/minimax-h3/.+\\.webm$"
+    },
+    "thumbnail": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https://media\\.beatapi\\.io/prompt-gallery/minimax-h3/.+\\.jpg$"
     }
   },
   "additionalProperties": false

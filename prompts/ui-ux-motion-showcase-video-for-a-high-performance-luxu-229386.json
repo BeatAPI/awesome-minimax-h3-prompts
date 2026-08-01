@@ -1,0 +1,34 @@
+{
+  "slug": "ui-ux-motion-showcase-video-for-a-high-performance-luxu-229386",
+  "title": {
+    "en": "Luxury Sports Car Landing Page Motion",
+    "zh": "豪华跑车落地页动效"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 product commercial prompt with attached video evidence from @BubbleBrain.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+  },
+  "category": "product-commercial",
+  "mode": "reference-to-video",
+  "duration": "14s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "reference-image",
+    "camera-direction",
+    "timed-beats",
+    "typography"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@BubbleBrain",
+    "url": "https://x.com/BubbleBrain/status/2082999806948229386"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/BubbleBrain/status/2082999806948229386"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/ui-ux-motion-showcase-video-for-a-high-performance-luxu-229386-9d89c4f629e6.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/ui-ux-motion-showcase-video-for-a-high-performance-luxu-229386-ebbf825e1ade.jpg",
+  "prompt": "A UI/UX motion showcase video for a high-performance luxury sports car brand landing page, created as an image-to-video project based on Product Image 1, with the car in the image remaining the core subject throughout.\n\nFirst screen – Hero Section:\n\nA premium black background, with the car positioned at the center of the page as the main visual focus. The camera slowly pushes in. A minimalist navigation bar appears at the top of the page:\n\n\"MODEL\"\n\"DESIGN\"\n\"PERFORMANCE\"\n\"TECHNOLOGY\"\n\"CONTACT\"\nOn the left side, a large brand headline appears:\n\"UNLEASH THE FUTURE\"\nBelow it, a subtitle reads:\n\"PURE PERFORMANCE. LIMITLESS SPEED.\"\n\nAt the bottom, two buttons appear:\n\n\"EXPLORE MODEL\"\n\"BOOK A TEST DRIVE\"\n\nScroll down into the vehicle design showcase section:\n\nMain headline:\n\n\"DESIGNED FOR SPEED\"\n\nShowcase text:\n\"AERODYNAMIC BODY\"\n\"CARBON FIBER STRUCTURE\"\n\"PRECISION ENGINEERING\"\n\nThese are paired with close-up shots of the car’s front fascia, headlights, wheels, and body lines.\n\nContinue scrolling into the performance section:\n\nHeadline:\n\n\"ENGINEERED TO DOMINATE\"\n\nDisplay performance specification cards:\n\"POWER\"\n\"HORSEPOWER\"\n\"TORQUE\"\n\"ACCELERATION\"\nUse dynamic, high-tech animated numeric displays for:\n\n\"0–100 KM/H\"\n\"3.2 SEC\"\n\nEnter the interior showcase section:\n\nHeadline:\n\n\"DRIVER-FOCUSED INTERIOR\"\n\nShowcase text:\n\n\"PREMIUM MATERIALS\"\n\"DIGITAL COCKPIT\"\n\"ADVANCED CONTROL SYSTEM\"\nFinal screen:\nA full view of the car is displayed, while light sweeps across the body in the background.\nCentered text:\n\n\"READY TO DRIVE\"\n\nButton:\n\"CONFIGURE YOUR CAR\"\n\nVisual style:\n\nA premium automotive brand website, similar to a supercar launch page. Dark metallic materials, carbon fiber textures, dynamic lighting, aerodynamic lines, and a cinematic luxury car advertisement aesthetic. The webpage uses large, bold, slightly slanted sans-serif typography, with fast yet smooth scrolling animation, parallax effects, mouse-hover zoom interactions, highlight scanning effects, floating information cards, and animated button feedback."
+}

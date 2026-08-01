@@ -1,0 +1,33 @@
+{
+  "slug": "image-as-the-exact-character-reference-preserve-her-fac-150697",
+  "title": {
+    "en": "Marble Staircase Lip Gloss Commercial",
+    "zh": "大理石楼梯唇彩广告"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 product commercial prompt with attached video evidence from @AIwithSynthia.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+  },
+  "category": "product-commercial",
+  "mode": "reference-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "reference-image",
+    "camera-direction",
+    "typography"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@AIwithSynthia",
+    "url": "https://x.com/AIwithSynthia/status/2082845923152150697"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/AIwithSynthia/status/2082845923152150697"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-character-reference-preserve-her-fac-150697-b637e0c6f931.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-character-reference-preserve-her-fac-150697-dfa401edffbd.jpg",
+  "prompt": "Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, makeup, skin tone, body proportions, pearl necklace, rings, and facial consistency throughout every shot.\n\nCreate a 15-second ultra-realistic luxury lip gloss commercial. The video opens with a close-up of the woman looking directly into the camera while confidently holding the lip gloss beside her face. She then gracefully walks down an elegant marble staircase as the camera smoothly tracks backward. Cut to her sitting on a luxurious blush-pink velvet sofa, smiling softly while placing the lip gloss on a marble coffee table. Cinematic macro shots showcase the applicator being removed, the glossy texture, and the premium packaging. She applies the lip gloss while looking into a vanity mirror, followed by extreme close-ups of her glossy lips catching soft studio light. Finish with a confident beauty pose holding the lip gloss beside her face, then transition to a premium floating hero shot of the product rotating above a glossy marble surface with warm rose-gold lighting.\n\nUltra-realistic beauty cinematography, luxury cosmetic campaign, smooth gimbal movement, realistic skin textures, macro product photography, shallow depth of field, creamy bokeh, premium color grading, 4K HDR, 16:9, no text, subtitles, logos, or watermarks."
+}

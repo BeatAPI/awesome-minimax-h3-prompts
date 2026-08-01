@@ -1,0 +1,34 @@
+{
+  "slug": "style-hyper-realistic-dark-fantasy-tavern-cinematic-gro-137433",
+  "title": {
+    "en": "Dark-Fantasy Tavern Fight",
+    "zh": "暗黑奇幻酒馆斗殴"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 anime prompt with attached video evidence from @craftian_keskin.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动画提示词。"
+  },
+  "category": "anime",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "native-audio",
+    "camera-direction",
+    "timed-beats",
+    "typography"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@craftian_keskin",
+    "url": "https://x.com/craftian_keskin/status/2082658222247137433"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/craftian_keskin/status/2082658222247137433"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/style-hyper-realistic-dark-fantasy-tavern-cinematic-gro-137433-61ca3ff0afb8.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/style-hyper-realistic-dark-fantasy-tavern-cinematic-gro-137433-27f527a53b15.jpg",
+  "prompt": "Style: Hyper-realistic dark fantasy tavern cinematic, grounded physical combat, realistic body momentum, medieval atmosphere, gritty lighting, practical effects, handheld cinematic camera, physically accurate movement, ultra-detailed textures, realistic collisions and environmental interaction.\n\nDuration: 15 seconds\n\nAspect Ratio: 16:9\n\nIMPORTANT:\n\nKeep the SAME characters fully consistent with the reference: 📷Image1\n\n— Nyssa: athletic woman, dark curly hair tied back, bronze leather armor, cloth wraps, sword on hip\n\n— Grok: massive muscular green orc, scarred skin, fur armor, heavy axes, large physical weight\n\nCombat MUST obey realistic physics:\n\n— no floating\n\n— no anime flips\n\n— realistic inertia and recovery\n\n— believable weight transfer\n\n— realistic impacts and exhaustion\n\n— grounded footwork\n\n— environment reacts physically to impacts\n\n[00:00-00:02]\n\nWide cinematic shot inside a crowded medieval tavern filled with drunk mercenaries, candles, smoke, spilled ale, and loud cheering. Nyssa walks through the tavern cautiously while patrons stare. Grok sits at a massive wooden table drinking heavily. Deep bass-heavy tavern music and crowd ambience.\n\n[00:02-00:04]\n\nClose-up tension sequence:\n\n— Nyssa locks eyes with Grok\n\n— Grok slowly stands, towering over everyone\n\n— benches scrape across the floor\n\n— mugs shake from his weight\n\n— crowd forms a fighting circle cheering loudly\n\nHandheld camera movement feels realistic and grounded.\n\n[00:04-00:07]\n\nThe fight erupts violently. Grok swings a heavy punch with believable momentum. Nyssa narrowly dodges while stumbling realistically into a wooden table. Wood cracks and splinters physically on impact. She counters with fast grounded strikes to Grok’s ribs and legs. Crowd roars and throws coins and mugs into the air.\n\n[00:07-00:10]\n\nCombat intensifies through the tavern:\n\n— Grok grabs Nyssa and throws her across a table\n\n— table explodes realistically beneath her weight\n\n— Nyssa rolls across the floor recovering naturally\n\n— Grok charges heavily, smashing furniture\n\n— patrons jump away realistically\n\nNo exaggerated movement, only physically believable combat.\n\n[00:10-00:12]\n\nNyssa uses speed and positioning intelligently. She dodges another heavy attack causing Grok to crash into a support beam. Dust and debris fall from the ceiling. She climbs briefly onto the bar counter and leaps down with controlled realistic momentum, locking Grok’s arm and using leverage to throw him off balance.\n\n[00:12-00:15]\n\nFinal cinematic climax. Nyssa tackles Grok to the ground hard onto broken wooden debris. The floor shakes from the impact. She pins him down on top of him while holding a blade near his throat. Grok struggles realistically beneath her massive weight difference and exhaustion. Tavern crowd erupts cheering wildly, slamming mugs against tables. Camera slowly pushes inward on Nyssa breathing heavily while sweat, dirt, and candlelight flicker across both fighters.\n\nAudio:\n\nHeavy cinematic tavern battle soundtrack with deep drums, loud cheering crowds, breaking wood, metal impacts, realistic body hits, roaring fire ambience, mugs crashing, heavy footsteps, and gritty medieval atmosphere.\n\nNegative prompts:\n\nNo floating, no anime combat, no superhero physics, no unrealistic flips, no weightless motion, no blurry characters, no low detail, no cartoon style, no slow reactions, no clipping through objects."
+}

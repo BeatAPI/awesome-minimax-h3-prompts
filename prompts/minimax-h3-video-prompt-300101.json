@@ -1,0 +1,31 @@
+{
+  "slug": "minimax-h3-video-prompt-300101",
+  "title": {
+    "en": "The Thief's Awkward Product Excuse",
+    "zh": "小偷尴尬的产品借口"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 product commercial prompt with attached video evidence from @ponzponz15.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+  },
+  "category": "product-commercial",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "256:295",
+  "ingredients": [
+    "camera-direction"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ponzponz15",
+    "url": "https://x.com/ponzponz15/status/2082646007444300101"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/ponzponz15/status/2082646007444300101"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-video-prompt-300101-236581d53aa7.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-video-prompt-300101-009909ab0bfb.jpg",
+  "prompt": "日本語での会話シーン。ピンクシャツを着た泥棒の男が、おばあさんに見つかり、こっぴどく叱られて立ちすくんでいる。男はそばにいる少女に向かって言い訳を始める。「別に盗むつもりじゃなかったんだ、ちょっと借りただけだったんだよ」と弁解していると、おばあさんがふと思い出したように話を遮り、「そういえば、はいるお スリーが出たんだって」と告知するように明るく言う。少女と男は一瞬きょとんとした表情を浮かべ、泥棒は「そそ、そうだよ！はいるおスリーが出たんだよ！そのためにパンをちょっと借りたんだよ！」と気まずい空気が笑いに変わる。少女は画面に向かって軽くアピールするような仕草を見せ、まるでコマーシャルの一言のように場の空気を切り替える。カメラは9種類の異なるアングルで切り替わり、男が言い訳する肩越しショット、少女が告知する瞬間のクローズアップ、おばあさんと男が驚く表情のアップ、三人の位置関係が分かる引きの全体ショットでしめくくる。コミカルな緊張感と告知の明るさを両立させるように構成される。"
+}

@@ -20,9 +20,9 @@ MiniMax H3 可以同时理解文本、图片、视频和音频，因此高质量
 
 ## 已核验真实案例
 
-现有 50 个案例都已回查 X：原帖明确提到 MiniMax H3 并附带生成视频；
-完整 Prompt 位于同帖（34 条）或同一作者的回复（16 条）。下面列出首批
-11 条代表案例，完整清单见 [`prompts/catalog.json`](./prompts/catalog.json)
+现有 100 个案例都已回查 X：原帖明确提到 MiniMax H3 并附带生成视频；
+完整 Prompt 位于同帖（67 条）或同一作者的回复（33 条）。下面列出首批
+11 条代表案例，完整清单见[分页与分类目录](./prompts/README.md)、[`prompts/catalog.json`](./prompts/catalog.json)
 和[英文 README Gallery](./README.md)：
 
 - [无线电员守住撤离桥](https://x.com/Diplomeme/status/2082770042630943156)

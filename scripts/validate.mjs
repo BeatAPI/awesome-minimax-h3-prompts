@@ -7,9 +7,10 @@ const catalog = JSON.parse(await readFile(file, 'utf8'));
 assert.equal(catalog.version, 1, 'catalog version must be 1');
 assert.equal(catalog.model, 'MiniMax-H3', 'catalog model must be MiniMax-H3');
 assert.ok(Array.isArray(catalog.prompts), 'prompts must be an array');
-assert.equal(catalog.prompts.length, 50, 'catalog should contain 50 sourced prompts');
+assert.equal(catalog.prompts.length, 100, 'catalog should contain 100 sourced prompts');
 
 const allowedCategories = new Set([
+  'action',
   'music-video',
   'motion-graphics',
   'brand-film',
@@ -23,6 +24,8 @@ const allowedCategories = new Set([
   'product-commercial',
   'cinematic-travel',
   'anime',
+  'fashion',
+  'horror',
 ]);
 const allowedModes = new Set([
   'text-to-video',
@@ -58,6 +61,14 @@ for (const entry of catalog.prompts) {
     `${entry.slug}: ingredients are required`
   );
   assert.match(entry.source?.url ?? '', /^https:\/\//);
+  assert.match(
+    entry.video ?? '',
+    /^https:\/\/media\.beatapi\.io\/prompt-gallery\/minimax-h3\/.+\.webm$/
+  );
+  assert.match(
+    entry.thumbnail ?? '',
+    /^https:\/\/media\.beatapi\.io\/prompt-gallery\/minimax-h3\/.+\.jpg$/
+  );
   assert.ok(allowedStatuses.has(entry.outputStatus), `${entry.slug}: bad status`);
   if (entry.outputStatus === 'source-verified') {
     assert.ok(
@@ -82,6 +93,31 @@ for (const entry of catalog.prompts) {
     entry,
     `${entry.slug}: standalone file differs from catalog`
   );
+}
+
+const readme = await readFile(new URL('../README.md', import.meta.url), 'utf8');
+assert.equal(
+  (readme.match(/^### \d+\./gm) ?? []).length,
+  30,
+  'README should feature exactly 30 prompts'
+);
+for (let page = 1; page <= 4; page += 1) {
+  const pageSource = await readFile(
+    new URL(`../prompts/pages/${page}.md`, import.meta.url),
+    'utf8'
+  );
+  assert.equal(
+    (pageSource.match(/^## \d+\./gm) ?? []).length,
+    25,
+    `page ${page} should contain 25 prompts`
+  );
+}
+for (const category of allowedCategories) {
+  const categorySource = await readFile(
+    new URL(`../prompts/categories/${category}.md`, import.meta.url),
+    'utf8'
+  );
+  assert.match(categorySource, /^# MiniMax H3 .+ prompts/m);
 }
 
 console.log(`Validated ${catalog.prompts.length} MiniMax H3 prompts.`);

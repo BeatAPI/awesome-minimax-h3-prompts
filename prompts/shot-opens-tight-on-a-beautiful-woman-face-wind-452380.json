@@ -1,0 +1,31 @@
+{
+  "slug": "shot-opens-tight-on-a-beautiful-woman-face-wind-452380",
+  "title": {
+    "en": "Cliffside Descent to the Ocean",
+    "zh": "悬崖下行至海边"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @umesh_ai.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "camera-direction"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@umesh_ai",
+    "url": "https://x.com/umesh_ai/status/2082700637444452380"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/umesh_ai/status/2082700637444452380"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/shot-opens-tight-on-a-beautiful-woman-face-wind-452380-08dce77b0419.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/shot-opens-tight-on-a-beautiful-woman-face-wind-452380-ff89a0a5a5d0.jpg",
+  "prompt": "The shot opens tight on a beautiful woman face, wind tearing at her coat as she stands on a jagged cliff. The camera eases over her shoulder and tilts down, following her line of sight. We descend past the crumbling lip into the void, the frame widening to reveal cliffs dropping away. The ocean roars into view, violent surf detonating against rock. The move continues into a high overhead, locking into an aerial top-down that frames the lone figure at the precipice as waves explode below."
+}

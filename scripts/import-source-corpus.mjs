@@ -165,6 +165,8 @@ const sourceEntries = sourceRecords.map((record) => {
     outputStatus: 'source-verified',
     promptVisibility: record.prompt_visibility,
     promptSourceUrls: record.prompt_source_urls,
+    video: record.video_public_url,
+    thumbnail: record.thumbnail_public_url,
     prompt: record.prompt,
   };
 });

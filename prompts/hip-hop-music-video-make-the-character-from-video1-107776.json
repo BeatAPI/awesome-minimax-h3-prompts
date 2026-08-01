@@ -1,0 +1,33 @@
+{
+  "slug": "hip-hop-music-video-make-the-character-from-video1-107776",
+  "title": {
+    "en": "Hip-Hop Character Lip-Sync Performance",
+    "zh": "嘻哈角色对口型表演"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @bennash.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+  },
+  "category": "music-video",
+  "mode": "reference-to-video",
+  "duration": "108s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "reference-video",
+    "reference-audio",
+    "native-audio"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@bennash",
+    "url": "https://x.com/bennash/status/2083065653104107776"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/bennash/status/2083065655390031980"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/hip-hop-music-video-make-the-character-from-video1-107776-82752a8f7c3d.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/hip-hop-music-video-make-the-character-from-video1-107776-f2c554bb73d5.jpg",
+  "prompt": "hip hop music video, make the character from @Video1 dance to the beat from music @Audio1 and he lip syncs in sync with @Audio1"
+}

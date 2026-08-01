@@ -1,0 +1,35 @@
+{
+  "slug": "deck-builder-turn-ui-choreography-446745",
+  "title": {
+    "en": "Fantasy Deck-Builder Battle UI",
+    "zh": "奇幻卡组构筑战斗界面"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 gameplay prompt with attached video evidence from @AllaAisling.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3游戏画面提示词。"
+  },
+  "category": "gameplay",
+  "mode": "reference-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "reference-image",
+    "camera-direction",
+    "timed-beats",
+    "native-audio",
+    "typography"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@AllaAisling",
+    "url": "https://x.com/AllaAisling/status/2082909383424446745"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/AllaAisling/status/2082909383424446745"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/deck-builder-turn-ui-choreography-446745-3d55b47abdf6.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/deck-builder-turn-ui-choreography-446745-8cb4c8f5ec6c.jpg",
+  "prompt": "Use Image 1 for the board, art direction, and lighting. Use Image 2 for the exact UI style — preserve its card shape, filigree, colors, and iconography.\n[0–2s] Slow isometric drift across the courtyard. The card fan deals in from the bottom edge, five cards arcing into place one at a time with a slight overshoot and settle. The energy orb fills to 3.\n[2–5s] Cursor lifts the second card; it scales up, tilts toward camera, and glows. Dragging it over the left enemy paints three hex tiles red with a soft pulse. Release — the card burns from the bottom edge upward and dissolves into embers.\n[5–8s] Camera snaps to a low three-quarter angle for the resolution: a shockwave crosses the three red hexes, damage numbers arc up and fade, one skeleton shatters into bone fragments that settle physically on the tiles.\n[8–11s] Return to isometric. Energy drops to 1. The remaining cards slide left to close the gap. Cursor hovers END TURN; the button pulses gold.\n[11–15s] Enemy turn: a red banner wipes across the top of frame, the surviving skeletons step two hexes forward with staggered timing, and a threat marker appears over the player unit. The banner wipes out. Cards deal in again for the next turn. Keep all UI perfectly screen-locked and crisp regardless of camera movement. Text must be legible and spelled correctly.\nAudio: parchment card slides, a wooden clack on card placement, a low bone-crunch impact, a soft chime on energy spend, muted lute drone underneath.\nNegative: no UI drift or warping, no invented card names, no misspellings, no gore, no blood, no camera shake during UI interaction."
+}

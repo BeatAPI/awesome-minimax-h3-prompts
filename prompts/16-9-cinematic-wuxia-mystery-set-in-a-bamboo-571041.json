@@ -1,0 +1,32 @@
+{
+  "slug": "16-9-cinematic-wuxia-mystery-set-in-a-bamboo-571041",
+  "title": {
+    "en": "Bamboo Forest Wuxia Mystery",
+    "zh": "竹林武侠谜案"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 product commercial prompt with attached video evidence from @AIwithAliya.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+  },
+  "category": "product-commercial",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "camera-direction",
+    "typography"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@AIwithAliya",
+    "url": "https://x.com/AIwithAliya/status/2083132770650571041"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/AIwithAliya/status/2083132770650571041"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/16-9-cinematic-wuxia-mystery-set-in-a-bamboo-571041-da23c2db41ab.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/16-9-cinematic-wuxia-mystery-set-in-a-bamboo-571041-6d22d8f211d0.jpg",
+  "prompt": "A 16:9 cinematic wuxia mystery set in a bamboo forest at night. Use a low-saturation palette of cold blue, ink green, charcoal, and gray. Thin mist fills the forest and fine snow drifts through the air. The mood is austere, lethal, and controlled, with the tension of a martial-arts sect investigating a case and exchanging secret intelligence.\n\nDeep in the forest, dense vertical bamboo fills the background while cold white mist-light glows in the distance. Soft, out-of-focus leaves partially obscure the foreground, creating the sense of watching from within the grove. A cool, soft front-side key lights the actors’ faces; backlight keeps the foreground dark and the distance luminous. Use shallow depth of field so leaves, snow, and bamboo dissolve into soft bokeh.\nPrioritize facial close-ups and measured shot/reverse-shot coverage. Keep the rhythm restrained but tense. Photoreal period-drama production value, cinematic lighting, and no modern elements. No subtitles, on-screen text, watermarks, modern clothing or architecture, animation styling, over-smoothed skin, bright daylight, or comic performance."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "ultra-fast-paced-cinematic-action-sequence-a-man-in-a-078815",
+  "title": {
+    "en": "Jetpack Dive Through a Mountain Gorge",
+    "zh": "喷气背包俯冲山峡"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 action prompt with attached video evidence from @Ankit_patel211.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动作提示词。"
+  },
+  "category": "action",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Ankit_patel211",
+    "url": "https://x.com/Ankit_patel211/status/2082794108998078815"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/Ankit_patel211/status/2082794111384580244"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-fast-paced-cinematic-action-sequence-a-man-in-a-078815-f4b3083ef6fd.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-fast-paced-cinematic-action-sequence-a-man-in-a-078815-a70e1e0aaa52.jpg",
+  "prompt": "Ultra-fast paced cinematic action sequence, a man in a sleek black tactical suit with advanced winged jetpack on his back, dramatic high-altitude jump from a towering cliff edge, immediately diving headfirst at extreme speed down a deep rocky mountain gorge with jagged cliffs blurring past, intense free-fall with wind and dust whipping around him, at the very last second he suddenly activates powerful rocket launcher boosters, bright orange flames and thrust exploding from the jetpack, sharp high-speed swap and barrel roll to the side avoiding the rocky wall by inches, then rocketing forward aggressively straight towards an enemy vehicle ahead, eyes focused and intense, dynamic motion blur, dramatic golden hour lighting, highly detailed, epic wide cinematic angle, over-the-top action style, intense energy, 8k"
+}

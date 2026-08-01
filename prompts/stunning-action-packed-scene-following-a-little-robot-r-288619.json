@@ -1,0 +1,31 @@
+{
+  "slug": "stunning-action-packed-scene-following-a-little-robot-r-288619",
+  "title": {
+    "en": "Little Robot Cyberpunk Escape",
+    "zh": "小机器人赛博朋克逃亡"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @AIandDesign.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "camera-direction"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@AIandDesign",
+    "url": "https://x.com/AIandDesign/status/2082522979339288619"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/AIandDesign/status/2082522979339288619"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/stunning-action-packed-scene-following-a-little-robot-r-288619-92e936e50dd3.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/stunning-action-packed-scene-following-a-little-robot-r-288619-75c2c618f326.jpg",
+  "prompt": "A stunning action packed scene following a little robot running away from soldiers, drones and other things that are trying to get him. Chase cam, dystopian futuristic cyberpunk environment, cinematic lighting. The camera follows the robot from behind, chase cam style. Every now and then the robot looks behind him and the entities chasing it are shown."
+}

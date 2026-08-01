@@ -1,0 +1,33 @@
+{
+  "slug": "ver-597837",
+  "title": {
+    "en": "Photoreal Character Turnaround Sheet",
+    "zh": "写实角色转面设定图"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 anime prompt with attached video evidence from @aiehon_aya.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动画提示词。"
+  },
+  "category": "anime",
+  "mode": "text-to-video",
+  "duration": "7s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "camera-direction",
+    "timed-beats",
+    "typography"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@aiehon_aya",
+    "url": "https://x.com/aiehon_aya/status/2082501605803597837"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/aiehon_aya/status/2082501605803597837"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/ver-597837-0e075694490d.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/ver-597837-5f88cb99f6e5.jpg",
+  "prompt": "※実写ver。アニメキャラの場合はリプ参照（↓）\n──────────────────\n【スタイル指定】\n- 添付画像のデザイン（衣装・髪型・体格・配色）を完全に維持したまま、実在の人物が衣装を着用して撮影したようなフォトリアルな実写に変換する\n- 生地・肌・髪・金属などの質感は写真として自然なリアリティで再現する\n- デザインそのものの変更（衣装や小物の追加・削除）はしない\n- スタジオ写真撮影のような自然光・均一な照明にする\n\n【共通ルール】\n- SHOT区切りのみで進行する（秒数指定なし）\n- 各SHOTの最後は静止カットで終える。滑らかな変形ではなく静止→カットで切り替える\n- 各SHOTの画面には、そのSHOTで指定された要素だけを映す。それ以外の角度・別バージョンの絵を混ぜない\n- 背景は無地の単色スタジオ背景（白またはライトグレー）に統一する\n- 字幕・テキスト・ロゴ・透かしは表示しない\n\nSHOT 1：正面の立ち姿と、その顔の実写クローズアップを並べて表示する。\n\nSHOT 2：横向き（右）の立ち姿と、その横顔の実写クローズアップを並べて表示する。\n\nSHOT 3：横向き（左）の立ち姿と、その横顔の実写クローズアップを並べて表示する。\n\nSHOT 4：後ろ向きの立ち姿と、その後頭部の実写クローズアップを並べて表示する。\n\nSHOT 5：正面の立ち姿と、表情差分6パターン（普通・笑顔・怒り・驚き・悲しみ・ウインク）の実写クローズアップを並べて表示する。\n\nSHOT 6：正面の立ち姿と、身に着けているもの（衣装・小物・アクセサリー）の素材ディテール実写マクロ接写を並べて表示する。\n\nSHOT 7：正面の立ち姿・横向き（右）の立ち姿・後ろ向きの立ち姿と、正面の顔の実写クローズアップをまとめて1枚に並べる\n──────────────────"
+}

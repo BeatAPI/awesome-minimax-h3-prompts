@@ -1,0 +1,33 @@
+{
+  "slug": "cinematic-luxury-skincare-product-commercial-vertical-9-591469",
+  "title": {
+    "en": "Emerald Bio-Serum Product Film",
+    "zh": "翡翠生物精华产品片"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 product commercial prompt with attached video evidence from @noorlewisx.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+  },
+  "category": "product-commercial",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "9:16",
+  "ingredients": [
+    "camera-direction",
+    "timed-beats",
+    "typography"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@noorlewisx",
+    "url": "https://x.com/noorlewisx/status/2083081579262591469"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/noorlewisx/status/2083081579262591469"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-luxury-skincare-product-commercial-vertical-9-591469-3ae42a6b5baa.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-luxury-skincare-product-commercial-vertical-9-591469-c0c5f3bb6066.jpg",
+  "prompt": "Cinematic luxury skincare product commercial, vertical 9:16, 15 seconds. A translucent emerald green glass dropper bottle of INVENTIKO Bio-Serum 38% Renderfeel 20,000, labeled \"SERUM SKINCARE - SKIN REPAIR SKIN LIFTING\", sits on a sleek black and white pedestal against a dark teal gradient background with soft volumetric lighting and dramatic light rays. Smooth camera orbit and subtle zoom around the bottle, water droplets on glass, elegant reflections. Close-up macro shots of the bottle surface and text. Then a black dropper is slowly pulled out, filled with golden-yellow serum, and a perfect viscous drop forms and hangs at the tip in extreme slow-motion close-up against soft green bokeh. Quick transition to a soft-focus close-up of a young East Asian woman's glowing cheek and eye as a single golden serum droplet falls onto her skin, creating a delicate shimmering highlight. Final shot: the green bottle with dropper resting beside it on a white terrazzo surface against a green tiled wall with soft window light stripes. Ultra-realistic, high-end beauty advertising style, soft cinematic lighting, shallow depth of field, 4K quality, smooth camera movements."
+}

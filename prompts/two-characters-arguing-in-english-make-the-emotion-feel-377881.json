@@ -1,0 +1,31 @@
+{
+  "slug": "two-characters-arguing-in-english-make-the-emotion-feel-377881",
+  "title": {
+    "en": "Handheld Two-Person Argument",
+    "zh": "手持镜头双人争吵"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @heydin_ai.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "camera-direction"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@heydin_ai",
+    "url": "https://x.com/heydin_ai/status/2082774662342377881"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/heydin_ai/status/2082774665123246479"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/two-characters-arguing-in-english-make-the-emotion-feel-377881-629f0d40f5d5.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/two-characters-arguing-in-english-make-the-emotion-feel-377881-8cc91ed3c57e.jpg",
+  "prompt": "Two characters arguing in English. Make the emotion feel very realistic  angry, tense, the friction between them should be palpable. Shaky handheld camera. No music."
+}

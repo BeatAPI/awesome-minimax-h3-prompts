@@ -1,12 +1,15 @@
-import { readFile, writeFile } from 'node:fs/promises';
+import { mkdir, readFile, writeFile } from 'node:fs/promises';
 
 const readmeFile = new URL('../README.md', import.meta.url);
 const catalogFile = new URL('../prompts/catalog.json', import.meta.url);
 
 const startMarker = '<!-- GENERATED_VIDEO_GALLERY_START -->';
 const endMarker = '<!-- GENERATED_VIDEO_GALLERY_END -->';
-const mediaBase =
-  'https://media.beatapi.io/prompt-gallery/minimax-h3';
+const featuredCount = 30;
+const pageSize = 25;
+const pagesDir = new URL('../prompts/pages/', import.meta.url);
+const categoriesDir = new URL('../prompts/categories/', import.meta.url);
+const catalogIndexFile = new URL('../prompts/README.md', import.meta.url);
 const playButton =
   'https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge';
 
@@ -33,9 +36,15 @@ function titleFor(entry) {
 }
 
 function mediaFor(entry) {
+  if (!/^https:\/\/media\.beatapi\.io\/prompt-gallery\/minimax-h3\/.+\.webm$/.test(entry.video)) {
+    throw new Error(`${entry.slug}: exact public WebM URL is required`);
+  }
+  if (!/^https:\/\/media\.beatapi\.io\/prompt-gallery\/minimax-h3\/.+\.jpg$/.test(entry.thumbnail)) {
+    throw new Error(`${entry.slug}: exact public poster URL is required`);
+  }
   return {
-    video: `${mediaBase}/${entry.slug}.webm`,
-    thumbnail: `${mediaBase}/${entry.slug}.jpg`,
+    video: entry.video,
+    thumbnail: entry.thumbnail,
   };
 }
 
@@ -54,7 +63,7 @@ function sourceHandleFor(entry) {
   return entry.source.name;
 }
 
-function renderEntry(entry, index) {
+function renderEntry(entry, index, heading = '###') {
   const title = titleFor(entry);
   const media = mediaFor(entry);
   const isAnimated = animatedPreviewSlugs.has(entry.slug);
@@ -64,7 +73,7 @@ function renderEntry(entry, index) {
   const category = entry.category.replaceAll('-', ' ');
   const sourceName = sourceHandleFor(entry);
 
-  return `### ${index + 1}. ${title}
+  return `${heading} ${index + 1}. ${title}
 
 <a href="${media.video}">
   <img src="${preview}" alt="${escapeHtml(title)} video preview" width="700" />
@@ -111,10 +120,51 @@ const entries = catalogEntries
     return a.index - b.index;
   })
   .map(({ entry }) => entry);
+const featuredEntries = entries.slice(0, featuredCount);
+const categoryNames = [...new Set(entries.map((entry) => entry.category))].sort();
+
+function pageDocument(pageEntries, pageIndex) {
+  const start = pageIndex * pageSize;
+  return `# MiniMax H3 prompts — page ${pageIndex + 1}
+
+[Back to the featured gallery](../../README.md) · [Catalog index](../README.md)
+
+${pageEntries.map((entry, index) => renderEntry(entry, start + index, '##')).join('\n\n')}
+`;
+}
+
+function categoryDocument(category) {
+  const categoryEntries = entries.filter((entry) => entry.category === category);
+  return `# MiniMax H3 ${category.replaceAll('-', ' ')} prompts
+
+[Back to the featured gallery](../../README.md) · [Catalog index](../README.md)
+
+${categoryEntries.map((entry, index) => renderEntry(entry, index, '##')).join('\n\n')}
+`;
+}
+
+const catalogIndex = `# Browse all 100 MiniMax H3 prompts
+
+[Back to the featured gallery](../README.md)
+
+## Pages
+
+${Array.from({ length: Math.ceil(entries.length / pageSize) }, (_, index) =>
+  `- [Page ${index + 1}](./pages/${index + 1}.md) — prompts ${index * pageSize + 1}–${Math.min((index + 1) * pageSize, entries.length)}`
+).join('\n')}
+
+## Categories
+
+${categoryNames.map((category) => `- [${category.replaceAll('-', ' ')}](./categories/${category}.md)`).join('\n')}
+`;
 
 const gallery = `${startMarker}
 
-${entries.map(renderEntry).join('\n\n')}
+${featuredEntries.map((entry, index) => renderEntry(entry, index)).join('\n\n')}
+
+## Browse all 100 prompts
+
+The README features 30 examples for fast loading. Browse the complete source-verified collection through the [four paged galleries](./prompts/README.md) or [machine-readable catalog](./prompts/catalog.json).
 
 ${endMarker}
 
@@ -143,8 +193,41 @@ if (process.argv.includes('--check')) {
   if (nextReadme !== readme) {
     throw new Error('README gallery is out of date; run npm run readme:build');
   }
-  console.log(`README gallery is current (${entries.length} videos).`);
+  const generatedFiles = [
+    [catalogIndexFile, catalogIndex],
+    ...Array.from({ length: Math.ceil(entries.length / pageSize) }, (_, index) => [
+      new URL(`${index + 1}.md`, pagesDir),
+      pageDocument(entries.slice(index * pageSize, (index + 1) * pageSize), index),
+    ]),
+    ...categoryNames.map((category) => [
+      new URL(`${category}.md`, categoriesDir),
+      categoryDocument(category),
+    ]),
+  ];
+  for (const [file, expected] of generatedFiles) {
+    const actual = await readFile(file, 'utf8');
+    if (actual !== expected) {
+      throw new Error(`${file.pathname} is out of date; run npm run readme:build`);
+    }
+  }
+  console.log(`README gallery is current (${featuredEntries.length} featured, ${entries.length} total).`);
 } else {
+  await Promise.all([
+    mkdir(pagesDir, { recursive: true }),
+    mkdir(categoriesDir, { recursive: true }),
+  ]);
   await writeFile(readmeFile, nextReadme);
-  console.log(`Updated README with ${entries.length} video prompts.`);
+  await writeFile(catalogIndexFile, catalogIndex);
+  await Promise.all([
+    ...Array.from({ length: Math.ceil(entries.length / pageSize) }, (_, index) =>
+      writeFile(
+        new URL(`${index + 1}.md`, pagesDir),
+        pageDocument(entries.slice(index * pageSize, (index + 1) * pageSize), index)
+      )
+    ),
+    ...categoryNames.map((category) =>
+      writeFile(new URL(`${category}.md`, categoriesDir), categoryDocument(category))
+    ),
+  ]);
+  console.log(`Updated README with ${featuredEntries.length} featured prompts and generated ${entries.length} total prompt views.`);
 }

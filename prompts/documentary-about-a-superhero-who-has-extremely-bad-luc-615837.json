@@ -1,0 +1,33 @@
+{
+  "slug": "documentary-about-a-superhero-who-has-extremely-bad-luc-615837",
+  "title": {
+    "en": "The World's Unluckiest Superhero",
+    "zh": "世界上最倒霉的超级英雄"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 comedy prompt with attached video evidence from @NACHOS2D_.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3喜剧提示词。"
+  },
+  "category": "comedy",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "dialogue",
+    "camera-direction",
+    "timed-beats"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@NACHOS2D_",
+    "url": "https://x.com/NACHOS2D_/status/2082853567543615837"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/NACHOS2D_/status/2082853571222028586"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/documentary-about-a-superhero-who-has-extremely-bad-luc-615837-83cdec5c4d1b.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/documentary-about-a-superhero-who-has-extremely-bad-luc-615837-6a0287c8cf24.jpg",
+  "prompt": "A documentary about a superhero who has extremely bad luck and ends up saving people by accident through the destruction caused by his own misfortune. Dialogue in English. Scene direction with unique composition. Every cut, every camera angle, and every movement is of exceptionally high quality; the composition is guided by an experienced film director. The comedy is genuinely interesting, and throughout the 15 seconds everything unfolds in a perfectly crafted way, with a comedic payoff that can make anyone laugh."
+}

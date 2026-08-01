@@ -1,0 +1,34 @@
+{
+  "slug": "canyon-wingsuit-thread-world-build-a-wingsuit-pilot-thr-927857",
+  "title": {
+    "en": "Sunrise Wingsuit Canyon Run",
+    "zh": "日出峡谷翼装飞行"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 action prompt with attached video evidence from @sebatheepan.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动作提示词。"
+  },
+  "category": "action",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "native-audio",
+    "camera-direction",
+    "timed-beats",
+    "typography"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@sebatheepan",
+    "url": "https://x.com/sebatheepan/status/2082731549707927857"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/sebatheepan/status/2082731549707927857"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/canyon-wingsuit-thread-world-build-a-wingsuit-pilot-thr-927857-01462c924c2a.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/canyon-wingsuit-thread-world-build-a-wingsuit-pilot-thr-927857-e1ffb417dc47.jpg",
+  "prompt": "CANYON WINGSUIT THREAD WORLD BUILD A wingsuit pilot threading an impossible canyon route through ancient stone monuments during sunrise wind. Fear, precision, airspeed. LOOK BIBLE Ultra-wide cliff geography, warm edge light, cold shadows in canyon depth, fast ground blur, rock texture crisp near passes. HERO LOCK A female wingsuit pilot in matte black-and-copper suit, mirrored visor, compact oxygen rig. SOUND BED Wind shear, cloth tension, breathing through mask, stone flyby roar, pebble cascades from near misses. BEAT GRID 0–3s The camera drops with her off a sandstone arch into open canyon air, her body flattening into glide posture. 3–6s It locks just behind her shoulder as she skims a rock wall close enough to brush dust from it. The canyon splits ahead. 6–10s She angles through the narrower gap between two suspended stone bridges, sunrise blasting through the opening and turning the walls into streaks. 10–15s She flares hard above a hidden oasis basin and shoots through the center of a ruined archway, exiting into full gold morning light over still water. OUTPUT LOCKS No parachute deployment. Keep it pure wingsuit glide. Speed always readable."
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "dynamic-product-landing-page-ui-ux-demo-inspired-by-nik-789559",
+  "title": {
+    "en": "High-Speed Sports Product Landing Page",
+    "zh": "高速运动产品落地页"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 product commercial prompt with attached video evidence from @Voxyz_ai.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+  },
+  "category": "product-commercial",
+  "mode": "reference-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "reference-image",
+    "typography"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Voxyz_ai",
+    "url": "https://x.com/Voxyz_ai/status/2082777543824789559"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/Voxyz_ai/status/2082777543824789559"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/dynamic-product-landing-page-ui-ux-demo-inspired-by-nik-789559-08cc2ecf4395.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/dynamic-product-landing-page-ui-ux-demo-inspired-by-nik-789559-6fdf282e513d.jpg",
+  "prompt": "Create a dynamic product-landing-page UI/UX demo inspired by Nike's digital language, built around the product in Image 1. Use oversized, bold, italicized sans-serif typography and backgrounds that combine speed-driven light streaks with dark carbon fiber or breathable performance-mesh textures. Show a smooth, fast, powerful scroll through the page, plus high-impact hover interactions with scale-ups and color inversion."
+}

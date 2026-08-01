@@ -1,0 +1,35 @@
+{
+  "slug": "surreal-blue-studio-dance-with-horse-588086",
+  "title": {
+    "en": "Surreal Blue Studio Dance with a Horse",
+    "zh": "蓝色摄影棚中的超现实人马共舞"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 fashion prompt with attached video evidence from @egeberkina.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3时尚提示词。"
+  },
+  "category": "fashion",
+  "mode": "reference-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "reference-image",
+    "camera-direction",
+    "dialogue",
+    "native-audio",
+    "typography"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@egeberkina",
+    "url": "https://x.com/egeberkina/status/2083301476206588086"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/egeberkina/status/2083301476206588086"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/surreal-blue-studio-dance-with-horse-588086-35d70f2a6270.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/surreal-blue-studio-dance-with-horse-588086-c616e26c1d83.jpg",
+  "prompt": "Use @ Image1 as the man reference.\nUse @ Image2 as the woman reference.\nUse @ Image3 as the horse reference.\n\nCreate a surreal 15-second fashion-film sequence inside a minimalist monochrome blue studio.  The woman performs an elegant contemporary dance.  The man casually walks into frame wearing a completely serious expression.  Without explanation, he immediately joins the choreography.  His movements are awkward, strangely confident, almost ritualistic.  The woman never acknowledges him.  The horse behaves as though both dancers are part of its routine.  It wanders through the studio.  Runs behind them.  Appears from impossible places.  Stops.  Looks directly into the camera.  Leaves.  Returns again.  Sometimes all three performers accidentally synchronize for one beat before drifting apart again.  The choreography becomes increasingly absurd but remains perfectly cinematic.  Every movement is intentional.  Every frame feels designed.  Throughout the sequence, premium kinetic typography appears as part of the composition, not subtitles, but editorial motion graphics inspired by high-end After Effects title design.  Animated words flash for only a few frames:  THE GARDENER.  THE DRIVER.  THE HORSE.  THE WOMAN.  KNIFE.  MOVE.  FASTER.  AGAIN.  THE EXIT. These words slam into frame, wrap around the dancers, disappear behind bodies, stretch with motion blur, rotate in 3D, fragment into pieces, reveal through masks, pulse with the bass, smear across cuts, become oversized, tiny, vertical, upside down, and constantly transform using premium motion-design techniques.  Add abstract editorial graphics: animated arrows, circles, blueprint lines, tape labels, interface markers, halftone textures, scribbles, grain, tracking graphics, geometric overlays, chromatic aberration, liquid masks, flash frames, split screens, typography trails, speed ramps and graphic wipes.  Music evolves into strange electronic art-pop.  Analog synths.  Mechanical breathing.  Heavy bass.  Everything is synchronized to the rhythm.  Final close-up.  The woman whispers:  \"Again.\"  The man quietly smiles for the first time.  The horse suddenly sprints directly toward the camera.  The word  AGAIN.  fills the screen before an instant cut to black."
+}

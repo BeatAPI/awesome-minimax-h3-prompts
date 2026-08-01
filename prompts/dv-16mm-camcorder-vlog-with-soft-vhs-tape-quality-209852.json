@@ -1,0 +1,32 @@
+{
+  "slug": "dv-16mm-camcorder-vlog-with-soft-vhs-tape-quality-209852",
+  "title": {
+    "en": "Korean Idol VHS Beauty Vlog",
+    "zh": "韩国偶像 VHS 美妆 Vlog"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @saniaspeaks_.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "dialogue",
+    "camera-direction"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@saniaspeaks_",
+    "url": "https://x.com/saniaspeaks_/status/2083043197937209852"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/saniaspeaks_/status/2083043197937209852"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/dv-16mm-camcorder-vlog-with-soft-vhs-tape-quality-209852-c3f74dcdc2f5.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/dv-16mm-camcorder-vlog-with-soft-vhs-tape-quality-209852-b6975c0aebd6.jpg",
+  "prompt": "DV 16mm camcorder vlog with soft VHS tape quality, handheld POV by CHASE and mirror-mounted vanity shots. CHASE, a Korean idol in her 20s with long black hair and dewy skin, casually picks up the fictional Lumina Velvet Lip Tint (frosted pink tube, gold cap) at a mall beauty store, saying, \"Okay, everyone's talking about this shade.\" She heads home, opens and swatches the lipstick, applies it smoothly in warm vanity lighting, admires the glossy finish, smiles at the mirror, then looks into the camera for a glowing close-up reveal and says, \"Okay wow... Lumina Velvet Lip Tint, you've got a new fan.\""
+}

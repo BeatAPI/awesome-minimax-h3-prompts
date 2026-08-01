@@ -1,0 +1,32 @@
+{
+  "slug": "15-seconds-16-9-landscape-blend-live-action-footage-of-867462",
+  "title": {
+    "en": "Luminous Creature in a Dusk Kitchen",
+    "zh": "黄昏厨房里的发光生物"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 horror prompt with attached video evidence from @underwoodxie96.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3恐怖提示词。"
+  },
+  "category": "horror",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "camera-direction",
+    "timed-beats"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@underwoodxie96",
+    "url": "https://x.com/underwoodxie96/status/2082850740603867462"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/underwoodxie96/status/2082850740603867462"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/15-seconds-16-9-landscape-blend-live-action-footage-of-867462-186f665474fa.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/15-seconds-16-9-landscape-blend-live-action-footage-of-867462-12f86ca52100.jpg",
+  "prompt": "15 seconds, 16:9 landscape. Blend live-action footage of a small kitchen at dusk with hand-drawn luminous animation. The last sunset light lingers at the window. The lived-in kitchen contains an old wooden table, a half-washed mug, a lightly fogged glass bottle, and a hanging dish towel.\n- Shoot as if someone is filming one-handed on a phone: subtle hand tremor, hesitant close-focus pulls, backlit exposure breathing, and slightly coarse noise in the shadows. It should feel like an astonishing event captured in a rush at home, not a carefully dressed commercial.\n- Do not show giant eyes, split mouths, fangs, threatening behavior, lunges, sudden black frames, or jump scares. Use only room tone, cloth friction, a soft mug clink, faucet drips, the camera operator’s footsteps and quiet breathing, plus gentle electronic tones and tiny vocalizations from the drawn creatures."
+}

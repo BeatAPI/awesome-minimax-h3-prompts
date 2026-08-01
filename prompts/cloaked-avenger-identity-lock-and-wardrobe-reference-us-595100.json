@@ -1,0 +1,35 @@
+{
+  "slug": "cloaked-avenger-identity-lock-and-wardrobe-reference-us-595100",
+  "title": {
+    "en": "Cloaked Avenger vs. Cyborg Executioner",
+    "zh": "斗篷复仇者对决赛博处刑者"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @LudovicCreator.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "reference-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "reference-image",
+    "dialogue",
+    "camera-direction",
+    "timed-beats",
+    "typography"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@LudovicCreator",
+    "url": "https://x.com/LudovicCreator/status/2082519983842595100"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/LudovicCreator/status/2082519987688722576"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/cloaked-avenger-identity-lock-and-wardrobe-reference-us-595100-1663dd881714.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/cloaked-avenger-identity-lock-and-wardrobe-reference-us-595100-75eae3bbb074.jpg",
+  "prompt": "Use @Image1 as the cloaked avenger identity lock and wardrobe reference. Use @Image2 as the environment, lighting, and street layout reference. Use @Image3 as the cyborg executioner identity lock, armor design, and weapon reference.\n\nCreate a 15-second ultra-cinematic confrontation in the ruined streets of Sector 7 at night. Heavy ashfall, wet pavement, orange emergency lights, smoke columns, and reflective industrial architecture strictly follow @Image2. The cloaked avenger from @Image1 faces the red cyborg executioner from @Image3 in the center of the empty street. Maintain facial features, wardrobe, armor geometry, and environment consistency across all shots. No onscreen text, no floating letters, clean visuals.\n\n0–4s: Wide establishing shot. The cloaked avenger from @Image1 walks slowly through the rain-dark street toward the cyborg from @Image3. Camera performs a slow push-in. Coat edges move in the wind, boots splash through shallow water, ash drifts through orange backlight.\n\n4–8s: Medium close-up on @Image1. He stops, lifts his chin slightly, and says clearly in English: “Long time I was looking for you.” Deliver slowly, low, and intense, with precise lip-sync. Camera holds a subtle handheld drift. Wet hood, tired eyes, and grim determination remain consistent with @Image1.\n\n8–11s: Medium close-up on @Image3. The cyborg tilts its head, red visor brightening, and replies in a cold metallic voice: “finally”. Deliver with a short pause before the word and precise mouth-panel synchronization. Servo motion, red eye glow, and armored posture strictly follow @Image3.\n\n11–15s: Sudden action payoff. Whip pan into a dynamic wide shot as @Image3 ignites the red energy blade and lunges forward. @Image1 instantly draws his blade and rushes to meet the attack. They collide at center frame in a shower of sparks, rain spray, and reflected orange-red light. End on a dramatic frozen impact moment with crossed blades, smoke and ash swirling around them, camera orbiting slightly into a powerful hero frame. Gritty cinematic realism, strong contrast, volumetric haze, realistic body momentum, normal proportions without stretch."
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "style-dark-rap-rap-music-video-with-photoreal-high-fash-066367",
+  "title": {
+    "en": "Dark Rap Fashion Zine Music Video",
+    "zh": "暗黑说唱时尚杂志音乐视频"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 product commercial prompt with attached video evidence from @MO_IAI.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+  },
+  "category": "product-commercial",
+  "mode": "reference-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "reference-image",
+    "typography"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@MO_IAI",
+    "url": "https://x.com/MO_IAI/status/2082818054598066367"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/MO_IAI/status/2082818054598066367"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/style-dark-rap-rap-music-video-with-photoreal-high-fash-066367-f7530cdb0007.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/style-dark-rap-rap-music-video-with-photoreal-high-fash-066367-042e39743d51.jpg",
+  "prompt": "Style: dark-rap -rap music video with photoreal high-fashion polish and the texture of a scanned film magazine—high contrast without looking cheap. film scans, underground-music posters, and zine collage. Add coarse grain, subtle gate weave, halftone dots, rough print edges, and slight scan misregistration. Keep the edit fast and use hard cuts only—no fades or soft transitions. Match the typographic treatment and surface texture of the reference images."
+}

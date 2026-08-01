@@ -1,0 +1,31 @@
+{
+  "slug": "nostalgic-montage-of-different-clips-graphic-motion-lay-586917",
+  "title": {
+    "en": "Theme Park Memory Montage",
+    "zh": "主题公园回忆蒙太奇"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @magnific.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "5s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@magnific",
+    "url": "https://x.com/magnific/status/2083217899540586917"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/magnific/status/2083217899540586917"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/nostalgic-montage-of-different-clips-graphic-motion-lay-586917-5f89f4d35e10.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/nostalgic-montage-of-different-clips-graphic-motion-lay-586917-7e7b6f7defd8.jpg",
+  "prompt": "Nostalgic montage of different clips. Graphic motion layouts of friends having fun in a theme park."
+}
