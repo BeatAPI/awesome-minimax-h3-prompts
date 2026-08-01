@@ -1,11 +1,11 @@
 # MiniMax H3 anime prompts
 
-[Back to the featured gallery](../../README.md) · [Catalog index](../README.md)
+[Back to the full gallery](../../README.md) · [Catalog index](../README.md)
 
 ## 1. Greenhouse tea isekai anime
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/greenhouse-tea-isekai-anime.webm">
-  <img src="./assets/readme-previews/greenhouse-tea-isekai-anime.webp" alt="Greenhouse tea isekai anime video preview" width="700" />
+  <img src="../../assets/readme-previews/greenhouse-tea-isekai-anime.webp" alt="Greenhouse tea isekai anime video preview" width="700" />
 </a>
 
 <details>

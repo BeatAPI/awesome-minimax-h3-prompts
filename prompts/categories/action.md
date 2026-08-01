@@ -1,6 +1,6 @@
 # MiniMax H3 action prompts
 
-[Back to the featured gallery](../../README.md) · [Catalog index](../README.md)
+[Back to the full gallery](../../README.md) · [Catalog index](../README.md)
 
 ## 1. Cyber Warrior vs. Primordial Fighter
 

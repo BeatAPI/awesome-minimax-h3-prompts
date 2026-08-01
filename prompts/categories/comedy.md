@@ -1,11 +1,11 @@
 # MiniMax H3 comedy prompts
 
-[Back to the featured gallery](../../README.md) · [Catalog index](../README.md)
+[Back to the full gallery](../../README.md) · [Catalog index](../README.md)
 
 ## 1. 1980s open-source family comedy
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/1980s-open-source-family-comedy.webm">
-  <img src="./assets/readme-previews/1980s-open-source-family-comedy.webp" alt="1980s open-source family comedy video preview" width="700" />
+  <img src="../../assets/readme-previews/1980s-open-source-family-comedy.webp" alt="1980s open-source family comedy video preview" width="700" />
 </a>
 
 <details>

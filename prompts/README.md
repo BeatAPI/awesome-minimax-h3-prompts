@@ -1,6 +1,14 @@
 # Browse all 100 MiniMax H3 prompts
 
-[Back to the featured gallery](../README.md)
+[Back to the full gallery](../README.md)
+
+## Use cases
+
+- [Stories & Films](./use-cases/stories-films.md)
+- [Action & Fantasy](./use-cases/action-fantasy.md)
+- [Ads & Products](./use-cases/ads-products.md)
+- [Music & Performance](./use-cases/music-performance.md)
+- [Vlog & Social](./use-cases/vlog-social.md)
 
 ## Pages
 

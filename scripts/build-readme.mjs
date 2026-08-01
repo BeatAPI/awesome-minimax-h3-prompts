@@ -1,14 +1,14 @@
-import { mkdir, readFile, writeFile } from 'node:fs/promises';
+import { mkdir, readdir, readFile, unlink, writeFile } from 'node:fs/promises';
 
 const readmeFile = new URL('../README.md', import.meta.url);
 const catalogFile = new URL('../prompts/catalog.json', import.meta.url);
 
 const startMarker = '<!-- GENERATED_VIDEO_GALLERY_START -->';
 const endMarker = '<!-- GENERATED_VIDEO_GALLERY_END -->';
-const featuredCount = 30;
 const pageSize = 25;
 const pagesDir = new URL('../prompts/pages/', import.meta.url);
 const categoriesDir = new URL('../prompts/categories/', import.meta.url);
+const useCasesDir = new URL('../prompts/use-cases/', import.meta.url);
 const catalogIndexFile = new URL('../prompts/README.md', import.meta.url);
 const playButton =
   'https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge';
@@ -22,6 +22,39 @@ const animatedPreviewOrder = [
   'greenhouse-tea-isekai-anime',
 ];
 const animatedPreviewSlugs = new Set(animatedPreviewOrder);
+const useCases = [
+  {
+    slug: 'stories-films',
+    label: 'Stories & Films',
+    categories: [
+      'cinematic-story',
+      'cinematic-travel',
+      'title-sequence',
+      'horror',
+      'anime',
+    ],
+  },
+  {
+    slug: 'action-fantasy',
+    label: 'Action & Fantasy',
+    categories: ['action', 'gameplay', 'motion-graphics'],
+  },
+  {
+    slug: 'ads-products',
+    label: 'Ads & Products',
+    categories: ['product-commercial', 'product-demo', 'brand-film', 'fashion'],
+  },
+  {
+    slug: 'music-performance',
+    label: 'Music & Performance',
+    categories: ['music-video'],
+  },
+  {
+    slug: 'vlog-social',
+    label: 'Vlog & Social',
+    categories: ['vlog', 'comedy', 'viral-short'],
+  },
+];
 
 function escapeHtml(value) {
   return value
@@ -63,12 +96,12 @@ function sourceHandleFor(entry) {
   return entry.source.name;
 }
 
-function renderEntry(entry, index, heading = '###') {
+function renderEntry(entry, index, heading = '###', assetPrefix = '.') {
   const title = titleFor(entry);
   const media = mediaFor(entry);
   const isAnimated = animatedPreviewSlugs.has(entry.slug);
   const preview = isAnimated
-    ? `./assets/readme-previews/${entry.slug}.webp`
+    ? `${assetPrefix}/assets/readme-previews/${entry.slug}.webp`
     : media.thumbnail;
   const category = entry.category.replaceAll('-', ' ');
   const sourceName = sourceHandleFor(entry);
@@ -120,16 +153,25 @@ const entries = catalogEntries
     return a.index - b.index;
   })
   .map(({ entry }) => entry);
-const featuredEntries = entries.slice(0, featuredCount);
+for (const entry of entries) {
+  const matchingUseCases = useCases.filter((useCase) =>
+    useCase.categories.includes(entry.category)
+  );
+  if (matchingUseCases.length !== 1) {
+    throw new Error(
+      `${entry.slug}: category ${entry.category} must map to exactly one use case`
+    );
+  }
+}
 const categoryNames = [...new Set(entries.map((entry) => entry.category))].sort();
 
 function pageDocument(pageEntries, pageIndex) {
   const start = pageIndex * pageSize;
   return `# MiniMax H3 prompts — page ${pageIndex + 1}
 
-[Back to the featured gallery](../../README.md) · [Catalog index](../README.md)
+[Back to the full gallery](../../README.md) · [Catalog index](../README.md)
 
-${pageEntries.map((entry, index) => renderEntry(entry, start + index, '##')).join('\n\n')}
+${pageEntries.map((entry, index) => renderEntry(entry, start + index, '##', '../..')).join('\n\n')}
 `;
 }
 
@@ -137,15 +179,34 @@ function categoryDocument(category) {
   const categoryEntries = entries.filter((entry) => entry.category === category);
   return `# MiniMax H3 ${category.replaceAll('-', ' ')} prompts
 
-[Back to the featured gallery](../../README.md) · [Catalog index](../README.md)
+[Back to the full gallery](../../README.md) · [Catalog index](../README.md)
 
-${categoryEntries.map((entry, index) => renderEntry(entry, index, '##')).join('\n\n')}
+${categoryEntries.map((entry, index) => renderEntry(entry, index, '##', '../..')).join('\n\n')}
 `;
 }
 
-const catalogIndex = `# Browse all 100 MiniMax H3 prompts
+function useCaseDocument(useCase) {
+  const categorySet = new Set(useCase.categories);
+  const useCaseEntries = entries.filter((entry) => categorySet.has(entry.category));
+  return `# MiniMax H3 ${useCase.label} prompts
 
-[Back to the featured gallery](../README.md)
+[Back to all ${entries.length} prompts](../../README.md)
+
+${useCaseEntries.map((entry, index) => renderEntry(entry, index, '##', '../..')).join('\n\n')}
+`;
+}
+
+const useCaseLinks = useCases
+  .map((useCase) => `[${useCase.label}](./prompts/use-cases/${useCase.slug}.md)`)
+  .join(' · ');
+
+const catalogIndex = `# Browse all ${entries.length} MiniMax H3 prompts
+
+[Back to the full gallery](../README.md)
+
+## Use cases
+
+${useCases.map((useCase) => `- [${useCase.label}](./use-cases/${useCase.slug}.md)`).join('\n')}
 
 ## Pages
 
@@ -160,11 +221,9 @@ ${categoryNames.map((category) => `- [${category.replaceAll('-', ' ')}](./catego
 
 const gallery = `${startMarker}
 
-${featuredEntries.map((entry, index) => renderEntry(entry, index)).join('\n\n')}
+**Browse by use case:** ${useCaseLinks}
 
-## Browse all 100 prompts
-
-The README features 30 examples for fast loading. Browse the complete source-verified collection through the [four paged galleries](./prompts/README.md) or [machine-readable catalog](./prompts/catalog.json).
+${entries.map((entry, index) => renderEntry(entry, index)).join('\n\n')}
 
 ${endMarker}
 
@@ -203,6 +262,10 @@ if (process.argv.includes('--check')) {
       new URL(`${category}.md`, categoriesDir),
       categoryDocument(category),
     ]),
+    ...useCases.map((useCase) => [
+      new URL(`${useCase.slug}.md`, useCasesDir),
+      useCaseDocument(useCase),
+    ]),
   ];
   for (const [file, expected] of generatedFiles) {
     const actual = await readFile(file, 'utf8');
@@ -210,12 +273,22 @@ if (process.argv.includes('--check')) {
       throw new Error(`${file.pathname} is out of date; run npm run readme:build`);
     }
   }
-  console.log(`README gallery is current (${featuredEntries.length} featured, ${entries.length} total).`);
+  console.log(`README gallery is current (${entries.length} prompts).`);
 } else {
   await Promise.all([
     mkdir(pagesDir, { recursive: true }),
     mkdir(categoriesDir, { recursive: true }),
+    mkdir(useCasesDir, { recursive: true }),
   ]);
+  const expectedUseCaseFiles = new Set(
+    useCases.map((useCase) => `${useCase.slug}.md`)
+  );
+  const staleUseCaseFiles = (await readdir(useCasesDir)).filter(
+    (file) => file.endsWith('.md') && !expectedUseCaseFiles.has(file)
+  );
+  await Promise.all(
+    staleUseCaseFiles.map((file) => unlink(new URL(file, useCasesDir)))
+  );
   await writeFile(readmeFile, nextReadme);
   await writeFile(catalogIndexFile, catalogIndex);
   await Promise.all([
@@ -228,6 +301,9 @@ if (process.argv.includes('--check')) {
     ...categoryNames.map((category) =>
       writeFile(new URL(`${category}.md`, categoriesDir), categoryDocument(category))
     ),
+    ...useCases.map((useCase) =>
+      writeFile(new URL(`${useCase.slug}.md`, useCasesDir), useCaseDocument(useCase))
+    ),
   ]);
-  console.log(`Updated README with ${featuredEntries.length} featured prompts and generated ${entries.length} total prompt views.`);
+  console.log(`Updated README with all ${entries.length} prompts and generated supporting prompt views.`);
 }

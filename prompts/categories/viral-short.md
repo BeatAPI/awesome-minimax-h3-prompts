@@ -1,11 +1,11 @@
 # MiniMax H3 viral short prompts
 
-[Back to the featured gallery](../../README.md) · [Catalog index](../README.md)
+[Back to the full gallery](../../README.md) · [Catalog index](../README.md)
 
 ## 1. Giant koi park incident
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/giant-koi-park-incident.webm">
-  <img src="./assets/readme-previews/giant-koi-park-incident.webp" alt="Giant koi park incident video preview" width="700" />
+  <img src="../../assets/readme-previews/giant-koi-park-incident.webp" alt="Giant koi park incident video preview" width="700" />
 </a>
 
 <details>

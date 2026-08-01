@@ -1,6 +1,6 @@
 # MiniMax H3 product demo prompts
 
-[Back to the featured gallery](../../README.md) · [Catalog index](../README.md)
+[Back to the full gallery](../../README.md) · [Catalog index](../README.md)
 
 ## 1. Luxury wireless headphones product showcase
 

@@ -1,6 +1,6 @@
-# MiniMax H3 music video prompts
+# MiniMax H3 Music & Performance prompts
 
-[Back to the full gallery](../../README.md) · [Catalog index](../README.md)
+[Back to all 100 prompts](../../README.md)
 
 ## 1. Hip-Hop Character Lip-Sync Performance
 

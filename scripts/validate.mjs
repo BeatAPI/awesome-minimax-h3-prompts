@@ -1,5 +1,5 @@
 import assert from 'node:assert/strict';
-import { readFile } from 'node:fs/promises';
+import { readdir, readFile } from 'node:fs/promises';
 
 const file = new URL('../prompts/catalog.json', import.meta.url);
 const catalog = JSON.parse(await readFile(file, 'utf8'));
@@ -98,9 +98,38 @@ for (const entry of catalog.prompts) {
 const readme = await readFile(new URL('../README.md', import.meta.url), 'utf8');
 assert.equal(
   (readme.match(/^### \d+\./gm) ?? []).length,
-  30,
-  'README should feature exactly 30 prompts'
+  catalog.prompts.length,
+  'README should display every catalog prompt'
 );
+const useCaseSlugs = [
+  'stories-films',
+  'action-fantasy',
+  'ads-products',
+  'music-performance',
+  'vlog-social',
+];
+assert.deepEqual(
+  (await readdir(new URL('../prompts/use-cases/', import.meta.url)))
+    .filter((file) => file.endsWith('.md'))
+    .sort(),
+  useCaseSlugs.map((slug) => `${slug}.md`).sort(),
+  'README should expose exactly five use-case shortcuts'
+);
+for (const useCase of useCaseSlugs) {
+  assert.ok(
+    readme.includes(`](./prompts/use-cases/${useCase}.md)`),
+    `README should link to the ${useCase} use case`
+  );
+  const useCaseSource = await readFile(
+    new URL(`../prompts/use-cases/${useCase}.md`, import.meta.url),
+    'utf8'
+  );
+  assert.match(useCaseSource, /^# MiniMax H3 .+ prompts/m);
+  assert.ok(
+    (useCaseSource.match(/^## \d+\./gm) ?? []).length > 0,
+    `${useCase} use case should contain prompts`
+  );
+}
 for (let page = 1; page <= 4; page += 1) {
   const pageSource = await readFile(
     new URL(`../prompts/pages/${page}.md`, import.meta.url),

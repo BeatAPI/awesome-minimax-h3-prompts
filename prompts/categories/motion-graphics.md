@@ -1,6 +1,6 @@
 # MiniMax H3 motion graphics prompts
 
-[Back to the featured gallery](../../README.md) · [Catalog index](../README.md)
+[Back to the full gallery](../../README.md) · [Catalog index](../README.md)
 
 ## 1. 8-bit black and white San Francisco animation
 

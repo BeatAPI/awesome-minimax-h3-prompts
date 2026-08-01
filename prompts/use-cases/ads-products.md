@@ -1,6 +1,6 @@
-# MiniMax H3 product commercial prompts
+# MiniMax H3 Ads & Products prompts
 
-[Back to the full gallery](../../README.md) · [Catalog index](../README.md)
+[Back to all 100 prompts](../../README.md)
 
 ## 1. Luxury perfume commercial
 
@@ -36,7 +36,32 @@ Slow-motion hero shot of the luxury perfume bottle elegantly rotating as glowing
 
 ---
 
-## 2. Yellow Sunglasses in a Black Studio
+## 2. Surreal Blue Studio Dance with a Horse
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/surreal-blue-studio-dance-with-horse-588086-35d70f2a6270.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/surreal-blue-studio-dance-with-horse-588086-c616e26c1d83.jpg" alt="Surreal Blue Studio Dance with a Horse video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Use @ Image1 as the man reference. Use @ Image2 as the woman reference. Use @ Image3 as the horse reference. Create a surreal 15-second fashion-film sequence inside a minimalist...</summary>
+
+~~~~text
+Use @ Image1 as the man reference.
+Use @ Image2 as the woman reference.
+Use @ Image3 as the horse reference.
+
+Create a surreal 15-second fashion-film sequence inside a minimalist monochrome blue studio.  The woman performs an elegant contemporary dance.  The man casually walks into frame wearing a completely serious expression.  Without explanation, he immediately joins the choreography.  His movements are awkward, strangely confident, almost ritualistic.  The woman never acknowledges him.  The horse behaves as though both dancers are part of its routine.  It wanders through the studio.  Runs behind them.  Appears from impossible places.  Stops.  Looks directly into the camera.  Leaves.  Returns again.  Sometimes all three performers accidentally synchronize for one beat before drifting apart again.  The choreography becomes increasingly absurd but remains perfectly cinematic.  Every movement is intentional.  Every frame feels designed.  Throughout the sequence, premium kinetic typography appears as part of the composition, not subtitles, but editorial motion graphics inspired by high-end After Effects title design.  Animated words flash for only a few frames:  THE GARDENER.  THE DRIVER.  THE HORSE.  THE WOMAN.  KNIFE.  MOVE.  FASTER.  AGAIN.  THE EXIT. These words slam into frame, wrap around the dancers, disappear behind bodies, stretch with motion blur, rotate in 3D, fragment into pieces, reveal through masks, pulse with the bass, smear across cuts, become oversized, tiny, vertical, upside down, and constantly transform using premium motion-design techniques.  Add abstract editorial graphics: animated arrows, circles, blueprint lines, tape labels, interface markers, halftone textures, scribbles, grain, tracking graphics, geometric overlays, chromatic aberration, liquid masks, flash frames, split screens, typography trails, speed ramps and graphic wipes.  Music evolves into strange electronic art-pop.  Analog synths.  Mechanical breathing.  Heavy bass.  Everything is synchronized to the rhythm.  Final close-up.  The woman whispers:  "Again."  The man quietly smiles for the first time.  The horse suddenly sprints directly toward the camera.  The word  AGAIN.  fills the screen before an instant cut to black.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/surreal-blue-studio-dance-with-horse-588086-35d70f2a6270.webm)
+
+**Source:** [@egeberkina](https://x.com/egeberkina/status/2083301476206588086) · 15s · 16:9 · fashion
+
+---
+
+## 3. Yellow Sunglasses in a Black Studio
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/upload-use-la-ragazza-in-reference-as-a-strict-265763-3f6fdfa9ec17.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/upload-use-la-ragazza-in-reference-as-a-strict-265763-991557679b75.jpg" alt="Yellow Sunglasses in a Black Studio video preview" width="700" />
@@ -113,7 +138,7 @@ Composition: model centered, all type within the central third of the frame
 
 ---
 
-## 3. Strawberry Drink Transformation Commercial
+## 4. Strawberry Drink Transformation Commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/shots-shot-id-1-start-time-00-00-end-878083-fac16344ba1e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/shots-shot-id-1-start-time-00-00-end-878083-5b30a531bab4.jpg" alt="Strawberry Drink Transformation Commercial video preview" width="700" />
@@ -134,7 +159,7 @@ Composition: model centered, all type within the central third of the frame
 
 ---
 
-## 4. Bamboo Forest Wuxia Mystery
+## 5. Bamboo Forest Wuxia Mystery
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/16-9-cinematic-wuxia-mystery-set-in-a-bamboo-571041-da23c2db41ab.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/16-9-cinematic-wuxia-mystery-set-in-a-bamboo-571041-6d22d8f211d0.jpg" alt="Bamboo Forest Wuxia Mystery video preview" width="700" />
@@ -158,7 +183,7 @@ Prioritize facial close-ups and measured shot/reverse-shot coverage. Keep the rh
 
 ---
 
-## 5. Emerald Bio-Serum Product Film
+## 6. Emerald Bio-Serum Product Film
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-luxury-skincare-product-commercial-vertical-9-591469-3ae42a6b5baa.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-luxury-skincare-product-commercial-vertical-9-591469-c0c5f3bb6066.jpg" alt="Emerald Bio-Serum Product Film video preview" width="700" />
@@ -179,7 +204,7 @@ Cinematic luxury skincare product commercial, vertical 9:16, 15 seconds. A trans
 
 ---
 
-## 6. Black-and-Gold Perfume Commercial
+## 7. Black-and-Gold Perfume Commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-ultra-premium-luxury-perfume-commercial-in-ci-520833-3e8b79841b85.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-ultra-premium-luxury-perfume-commercial-in-ci-520833-d1f16abe5ae1.jpg" alt="Black-and-Gold Perfume Commercial video preview" width="700" />
@@ -210,7 +235,7 @@ Photorealistic, Hollywood luxury TV commercial, ultra-detailed, flawless glass r
 
 ---
 
-## 7. Morning Lip Oil UGC Testimonial
+## 8. Morning Lip Oil UGC Testimonial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-character-reference-preserve-her-fac-256521-544db8790618.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-character-reference-preserve-her-fac-256521-8add510d989f.jpg" alt="Morning Lip Oil UGC Testimonial video preview" width="700" />
@@ -239,7 +264,7 @@ Authentic UGC creator content, realistic facial expressions, natural hand gestur
 
 ---
 
-## 8. NOVA X smartphone TVC
+## 9. NOVA X smartphone TVC
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/nova-x-smartphone-tvc.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/nova-x-smartphone-tvc.jpg" alt="NOVA X smartphone TVC video preview" width="700" />
@@ -266,7 +291,7 @@ Create a 15-second premium cinematic branding TVC for a futuristic smartphone br
 
 ---
 
-## 9. SparkRush Ultra Fizz beach soft-drink commercial
+## 10. SparkRush Ultra Fizz beach soft-drink commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/sparkrush-ultra-fizz-beach-soft-drink-commercial-383681.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/sparkrush-ultra-fizz-beach-soft-drink-commercial-383681.jpg" alt="SparkRush Ultra Fizz beach soft-drink commercial video preview" width="700" />
@@ -357,7 +382,78 @@ CUT8 0:14-0:15
 
 ---
 
-## 10. Bathroom Mirror Skincare UGC Ad
+## 11. Premium cinematic fashion campaign outfit reveal
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/premium-cinematic-fashion-campaign-outfit-reveal-103224.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/premium-cinematic-fashion-campaign-outfit-reveal-103224.jpg" alt="Premium cinematic fashion campaign outfit reveal video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a premium cinematic fashion campaign video using the five uploaded apparel images as strict product references. The video should introduce each outfit one by one, while...</summary>
+
+~~~~text
+Create a premium cinematic fashion campaign video using the five uploaded apparel images as strict product references.  The video should introduce each outfit one by one, while maintaining the exact original clothing design, silhouette, fabric texture, colors, patterns, accessories, stitching, and proportions from every reference image. Do not redesign, simplify, replace, or merge any garments.  Format: vertical 9:16 Duration: approximately 15 seconds Style: luxury fashion commercial, editorial, futuristic, minimal, sophisticated Visual quality: photorealistic, commercial-grade, high-end fashion film, sharp textile detail, realistic fabric movement  Sequence:  0–2 seconds: Begin with a dark minimal studio. A narrow beam of light slowly reveals the first outfit. Start with an extreme close-up of fabric texture, stitching, metallic details, and layered materials. Smooth cinematic camera movement.  2–5 seconds: Reveal the full first outfit on a stylish fashion model. The model makes one subtle pose while the camera performs a slow vertical tilt from shoes to face.  5–8 seconds: Transition through a fast match cut into the second and third outfits. Use elegant whip pans, fabric wipes, lighting flashes, and seamless motion transitions. Each outfit must remain visible long enough to understand its full design.  8–11 seconds: Show the fourth outfit in a wider architectural studio environment. The model walks slowly toward the camera while the fabric moves naturally. Add controlled wind, soft shadows, and reflective surfaces.  11–14 seconds: Reveal the fifth outfit as the hero look. Use a dramatic low-angle shot, slow orbiting camera movement, and stronger cinematic lighting. Emphasize the silhouette, construction, and key design details.  14–15 seconds: End with all five outfits appearing rapidly in rhythmic editorial cuts, followed by a clean final frame with the hero outfit centered against a minimal background.  Camera: Smooth dolly shots, macro textile close-ups, slow orbit, low-angle fashion shots, controlled handheld energy only during transitions.  Lighting: High-contrast luxury studio lighting, soft rim lights, precise highlights on fabric, metal, leather, and accessories. Avoid overexposure.  Motion: Natural model movement, restrained confident poses, realistic walking, subtle fabric physics. No exaggerated dancing.  Editing: Fast but elegant editorial pacing. Clean match cuts between outfits. Every transition should feel intentional and synchronized with the music.  Important: Preserve the exact identity and design of all five apparel references. Do not mix clothing elements between outfits. Do not change logos, prints, colors, garment length, footwear, accessories, or materials. Do not add random text, subtitles, watermarks, extra garments, duplicated limbs, distorted hands, warped fabric, or unstable faces.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/premium-cinematic-fashion-campaign-outfit-reveal-103224.webm)
+
+**Source:** [@luxaios](https://x.com/luxaios/status/2083024913322103224) · 15s · 9:16 · brand film
+
+---
+
+## 12. Cyber-grunge fashion film with VHS glitch
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/cyber-grunge-fashion-film-with-vhs-glitch-978345.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/cyber-grunge-fashion-film-with-vhs-glitch-978345.jpg" alt="Cyber-grunge fashion film with VHS glitch video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Platinum-blonde subject, black patent-leather trench, orange firelight across the coat. Nighttime blaze, black smoke. VHS glitches, CCTV dropouts, 90s grain, scanlines, chromatic...</summary>
+
+~~~~text
+Platinum-blonde subject, black patent-leather trench, orange firelight across the coat. Nighttime blaze, black smoke.
+
+VHS glitches, CCTV dropouts, 90s grain, scanlines, chromatic aberration, flash-to-white cuts.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/cyber-grunge-fashion-film-with-vhs-glitch-978345.webm)
+
+**Source:** [@fal](https://x.com/fal/status/2083021146341978345) · 19s · 16:9 · brand film
+
+---
+
+## 13. RadiantGlo skincare commercial
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/radiantglo-skincare-commercial.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/radiantglo-skincare-commercial.jpg" alt="RadiantGlo skincare commercial video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — The Brief: &quot;Jessy x RadiantGlo&quot; 15 seconds. One face, one mask, one ritual — quiet luxury skincare. Jessy stands at her mirror at night, cool blue light on her skin, studying her...</summary>
+
+~~~~text
+The Brief: "Jessy x RadiantGlo"
+
+15 seconds. One face, one mask, one ritual — quiet luxury skincare.
+
+Jessy stands at her mirror at night, cool blue light on her skin, studying her reflection before she says a word. She presses the remote, and the RadiantGlo mask blooms to life — red LED light rising from her jaw to her brow, glowing straight through the eye and mouth cutouts. No overlay, no CGI sheen, just real diffusion through real skin. A slow profile shot, cord resting naturally, breath audible in the silence. Macro push on her cheek — pores, peach fuzz, light catching under the surface. Then morning: she lifts the mask off, daylight replaces the red glow, and she walks through her sunlit apartment with nothing performed, just calm. Final beat: the mask alone on a matte surface, LEDs still glowing, logo catching the light — hero shot. Fade to black.
+
+Cold nights fading into warm dawn color science throughout — think a skincare brand's flagship campaign, not an infomercial. Same face, same mask, same world, held together across every cut.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/radiantglo-skincare-commercial.webm)
+
+**Source:** [@AIwithJessica](https://x.com/AIwithJessica/status/2083013658230317082) · 15s · 16:9 · brand film
+
+---
+
+## 14. Bathroom Mirror Skincare UGC Ad
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ugc-style-skincare-video-featuring-a-realistic-young-wo-242986-ec288635cb7f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ugc-style-skincare-video-featuring-a-realistic-young-wo-242986-18b009c5b1b5.jpg" alt="Bathroom Mirror Skincare UGC Ad video preview" width="700" />
@@ -378,7 +474,7 @@ UGC-style skincare video featuring a realistic young woman speaking directly to 
 
 ---
 
-## 11. Luxury Sports Car Landing Page Motion
+## 15. Luxury Sports Car Landing Page Motion
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ui-ux-motion-showcase-video-for-a-high-performance-luxu-229386-9d89c4f629e6.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ui-ux-motion-showcase-video-for-a-high-performance-luxu-229386-ebbf825e1ade.jpg" alt="Luxury Sports Car Landing Page Motion video preview" width="700" />
@@ -471,7 +567,7 @@ A premium automotive brand website, similar to a supercar launch page. Dark meta
 
 ---
 
-## 12. KALDR cold perfume commercial multi-reference
+## 16. KALDR cold perfume commercial multi-reference
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/kaldr-cold-perfume-commercial-multi-reference-943073.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/kaldr-cold-perfume-commercial-multi-reference-943073.jpg" alt="KALDR cold perfume commercial multi-reference video preview" width="700" />
@@ -525,7 +621,7 @@ Do not add other people, boats, buildings, vehicles, modern objects, subtitles, 
 
 ---
 
-## 13. Luxury metallic gown desert runway fashion ad
+## 17. Luxury metallic gown desert runway fashion ad
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-metallic-gown-desert-runway-fashion-ad-907132.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-metallic-gown-desert-runway-fashion-ad-907132.jpg" alt="Luxury metallic gown desert runway fashion ad video preview" width="700" />
@@ -546,7 +642,7 @@ Do not add other people, boats, buildings, vehicles, modern objects, subtitles, 
 
 ---
 
-## 14. Luxury checkered sports-coupe night-to-dawn commercial
+## 18. Luxury checkered sports-coupe night-to-dawn commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-checkered-sports-coupe-night-to-dawn-commercial-451623.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-checkered-sports-coupe-night-to-dawn-commercial-451623.jpg" alt="Luxury checkered sports-coupe night-to-dawn commercial video preview" width="700" />
@@ -590,7 +686,7 @@ coherent character and vehicle identity across every cut 📷Image1 , cinematic 
 
 ---
 
-## 15. Marble Staircase Lip Gloss Commercial
+## 19. Marble Staircase Lip Gloss Commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-character-reference-preserve-her-fac-150697-b637e0c6f931.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-character-reference-preserve-her-fac-150697-dfa401edffbd.jpg" alt="Marble Staircase Lip Gloss Commercial video preview" width="700" />
@@ -615,7 +711,7 @@ Ultra-realistic beauty cinematography, luxury cosmetic campaign, smooth gimbal m
 
 ---
 
-## 16. Sushi Night Smartphone UGC Vlog
+## 20. Sushi Night Smartphone UGC Vlog
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/duration-15-seconds-aspect-ratio-16-9-style-authentic-613617-7d59e3e86e10.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/duration-15-seconds-aspect-ratio-16-9-style-authentic-613617-ee7d7c188983.jpg" alt="Sushi Night Smartphone UGC Vlog video preview" width="700" />
@@ -665,7 +761,7 @@ cinematic color grading, overly smooth gimbal movement, studio lighting, profess
 
 ---
 
-## 17. Strawberry seasonal match-cut food commercial
+## 21. Strawberry seasonal match-cut food commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/strawberry-seasonal-match-cut-food-commercial-117943.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/strawberry-seasonal-match-cut-food-commercial-117943.jpg" alt="Strawberry seasonal match-cut food commercial video preview" width="700" />
@@ -686,7 +782,7 @@ Premium food commercial. Extreme macro shot of a single ripe strawberry falling 
 
 ---
 
-## 18. White-Cyclorama Luxury Eyewear Campaign
+## 22. White-Cyclorama Luxury Eyewear Campaign
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/premium-9-16-fashion-eyewear-commercial-match-the-refer-665060-4d28abb73363.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/premium-9-16-fashion-eyewear-commercial-match-the-refer-665060-b6317831cfc6.jpg" alt="White-Cyclorama Luxury Eyewear Campaign video preview" width="700" />
@@ -708,7 +804,7 @@ Create a premium 9:16 fashion-eyewear commercial. Match the reference video’s 
 
 ---
 
-## 19. Dark Rap Fashion Zine Music Video
+## 23. Dark Rap Fashion Zine Music Video
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/style-dark-rap-rap-music-video-with-photoreal-high-fash-066367-f7530cdb0007.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/style-dark-rap-rap-music-video-with-photoreal-high-fash-066367-042e39743d51.jpg" alt="Dark Rap Fashion Zine Music Video video preview" width="700" />
@@ -729,7 +825,36 @@ Style: dark-rap -rap music video with photoreal high-fashion polish and the text
 
 ---
 
-## 20. Vertical car transformation street-culture film
+## 24. Luxury wireless headphones product showcase
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-wireless-headphones-product-showcase-291312.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-wireless-headphones-product-showcase-291312.jpg" alt="Luxury wireless headphones product showcase video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a 15-second luxury cinematic product showcase for premium wireless over-ear headphones. 0–4s: Begin with an extreme macro tracking shot moving across the soft memory-foam...</summary>
+
+~~~~text
+Create a 15-second luxury cinematic product showcase for premium wireless over-ear headphones.
+
+0–4s: Begin with an extreme macro tracking shot moving across the soft memory-foam ear cushion, fine fabric texture, brushed-metal hinge and precision-machined controls. A narrow light band travels across the surface, revealing realistic materials against a deep black studio background.
+
+4–8s: Pull back into a three-quarter hero view. The headphones rotate slowly above a glossy reflective pedestal. The ear cups pivot naturally while the adjustable headband extends slightly, demonstrating flexible construction and comfort. Maintain exact symmetry, stable geometry and consistent proportions.
+
+8–12s: Transition into an elegant exploded-view reveal. The ear cushion, acoustic driver, internal sound chamber, control ring and outer shell separate smoothly in perfect alignment. Subtle luminous sound waves pulse outward from the driver while the camera performs a restrained side orbit.
+
+12–15s: Every component reconnects seamlessly. The headphones settle into a centered front-facing hero composition as soft rim lighting defines the silhouette. Complete a gentle dolly-in toward the ear cups. Premium technology-commercial finish, controlled reflections, realistic shadows, shallow depth of field, crisp surface detail, stable product shape, no hands, no distortion, no onscreen text.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-wireless-headphones-product-showcase-291312.webm)
+
+**Source:** [@LudovicCreator](https://x.com/LudovicCreator/status/2082783319075291312) · 15s · 16:9 · product demo
+
+---
+
+## 25. Vertical car transformation street-culture film
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/vertical-car-transformation-street-culture-film-378938.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/vertical-car-transformation-street-culture-film-378938.jpg" alt="Vertical car transformation street-culture film video preview" width="700" />
@@ -858,7 +983,7 @@ Feels like a premium car modification advertisement
 
 ---
 
-## 21. High-Speed Sports Product Landing Page
+## 26. High-Speed Sports Product Landing Page
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/dynamic-product-landing-page-ui-ux-demo-inspired-by-nik-789559-08cc2ecf4395.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/dynamic-product-landing-page-ui-ux-demo-inspired-by-nik-789559-6fdf282e513d.jpg" alt="High-Speed Sports Product Landing Page video preview" width="700" />
@@ -879,7 +1004,7 @@ Create a dynamic product-landing-page UI/UX demo inspired by Nike's digital lang
 
 ---
 
-## 22. Ultra-premium cinematic luxury perfume commercial
+## 27. Ultra-premium cinematic luxury perfume commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-premium-cinematic-luxury-perfume-commercial-783085.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-premium-cinematic-luxury-perfume-commercial-783085.jpg" alt="Ultra-premium cinematic luxury perfume commercial video preview" width="700" />
@@ -929,7 +1054,7 @@ Low quality, blurry, noise, flickering, unstable motion, distorted anatomy, bad 
 
 ---
 
-## 23. Luxury Emerald Necklace Storyboard
+## 28. Luxury Emerald Necklace Storyboard
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/title-luxury-emerald-necklace-commercial-storyboard-for-872509-a300713c3d76.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/title-luxury-emerald-necklace-commercial-storyboard-for-872509-63e3a397f968.jpg" alt="Luxury Emerald Necklace Storyboard video preview" width="700" />
@@ -977,7 +1102,7 @@ Inspired by world-class luxury jewelry campaigns, premium fashion editorial, sof
 
 ---
 
-## 24. The Thief's Awkward Product Excuse
+## 29. The Thief's Awkward Product Excuse
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-video-prompt-300101-236581d53aa7.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-video-prompt-300101-009909ab0bfb.jpg" alt="The Thief's Awkward Product Excuse video preview" width="700" />
@@ -998,7 +1123,7 @@ Inspired by world-class luxury jewelry campaigns, premium fashion editorial, sof
 
 ---
 
-## 25. Neon Nightmare Burger Commercial
+## 30. Neon Nightmare Burger Commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-15-second-commercial-shot-fast-paced-editing-160587-6452503d24f8.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-15-second-commercial-shot-fast-paced-editing-160587-dc524a95b7c6.jpg" alt="Neon Nightmare Burger Commercial video preview" width="700" />
