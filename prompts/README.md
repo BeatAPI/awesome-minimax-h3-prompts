@@ -1,4 +1,4 @@
-# Browse all 100 MiniMax H3 prompts
+# Browse all 120 MiniMax H3 prompts
 
 [Back to the full gallery](../README.md)
 
@@ -16,10 +16,12 @@
 - [Page 2](./pages/2.md) — prompts 26–50
 - [Page 3](./pages/3.md) — prompts 51–75
 - [Page 4](./pages/4.md) — prompts 76–100
+- [Page 5](./pages/5.md) — prompts 101–120
 
 ## Categories
 
 - [action](./categories/action.md)
+- [animation](./categories/animation.md)
 - [anime](./categories/anime.md)
 - [brand film](./categories/brand-film.md)
 - [cinematic story](./categories/cinematic-story.md)

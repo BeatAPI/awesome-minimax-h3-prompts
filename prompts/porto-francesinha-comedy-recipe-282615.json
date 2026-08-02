@@ -1,0 +1,31 @@
+{
+  "slug": "porto-francesinha-comedy-recipe-282615",
+  "title": {
+    "en": "Porto Francesinha Comedy Recipe",
+    "zh": "波尔图法兰西斯克三明治喜剧食谱"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 comedy prompt with attached video evidence.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3喜剧提示词。"
+  },
+  "category": "comedy",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "92:39",
+  "ingredients": [
+    "camera-direction"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@imagineFERA",
+    "url": "https://x.com/imagineFERA/status/2083172752790282615"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/imagineFERA/status/2083172755399233946"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/porto-francesinha-comedy-recipe-282615-a05a82a8aebb.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/porto-francesinha-comedy-recipe-282615-53406ba6182d.jpg",
+  "prompt": "Style: <image_1> (don't reproduce the image, use it only as aesthetic reference)\n\nEdit: Comedy, fast paced, mixing close ups, medium shots and wide shots from uncanny and tilted angles. Super-imposed texts with doodles identify ingredients as they appear and add comic remarks.\n\nScene: In Porto, Portugal a crazy chef explains how to do a Francesinha in Portuguese from Portugal with Porto accent."
+}

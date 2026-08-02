@@ -41,7 +41,32 @@ No CGI, no digital-looking robots, no morphing, no extra people, no duplicated c
 
 ---
 
-## 2. The World's Unluckiest Superhero
+## 2. Porto Francesinha Comedy Recipe
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/porto-francesinha-comedy-recipe-282615-a05a82a8aebb.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/porto-francesinha-comedy-recipe-282615-53406ba6182d.jpg" alt="Porto Francesinha Comedy Recipe video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Style: &lt;image_1&gt; (don't reproduce the image, use it only as aesthetic reference) Edit: Comedy, fast paced, mixing close ups, medium shots and wide shots from uncanny and tilted...</summary>
+
+~~~~text
+Style: <image_1> (don't reproduce the image, use it only as aesthetic reference)
+
+Edit: Comedy, fast paced, mixing close ups, medium shots and wide shots from uncanny and tilted angles. Super-imposed texts with doodles identify ingredients as they appear and add comic remarks.
+
+Scene: In Porto, Portugal a crazy chef explains how to do a Francesinha in Portuguese from Portugal with Porto accent.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/porto-francesinha-comedy-recipe-282615-a05a82a8aebb.webm)
+
+**Source:** [@imagineFERA](https://x.com/imagineFERA/status/2083172752790282615) · 15s · 92:39 · comedy
+
+---
+
+## 3. The World's Unluckiest Superhero
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/documentary-about-a-superhero-who-has-extremely-bad-luc-615837-83cdec5c4d1b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/documentary-about-a-superhero-who-has-extremely-bad-luc-615837-6a0287c8cf24.jpg" alt="The World's Unluckiest Superhero video preview" width="700" />
@@ -62,7 +87,7 @@ A documentary about a superhero who has extremely bad luck and ends up saving pe
 
 ---
 
-## 3. Condor Heroes characters teach English word dream
+## 4. Condor Heroes characters teach English word dream
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/condor-heroes-characters-teach-english-word-dream-815758.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/condor-heroes-characters-teach-english-word-dream-815758.jpg" alt="Condor Heroes characters teach English word dream video preview" width="700" />

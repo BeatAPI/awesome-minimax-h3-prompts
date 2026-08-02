@@ -1,6 +1,6 @@
 # MiniMax H3 Music & Performance prompts
 
-[Back to all 100 prompts](../../README.md)
+[Back to all 120 prompts](../../README.md)
 
 ## 1. Hip-Hop Character Lip-Sync Performance
 
@@ -44,7 +44,28 @@ hip hop music video, make the character from @Video1 dance to the beat from musi
 
 ---
 
-## 3. Dark-pop trio music-video performance with on-screen titles
+## 3. Beat-Synced K-Pop Multimodal MV
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/beat-synced-k-pop-multimodal-mv-043716-54c0a54b87f1.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/beat-synced-k-pop-multimodal-mv-043716-62b79925bee5.jpg" alt="Beat-Synced K-Pop Multimodal MV video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Make an MV from Audio1 . Show these Kpop members from Image1 singing and dancing to the music. Add coarse grain, glitch effects, and grunge effects. Keep the edit fast and use...</summary>
+
+~~~~text
+Make an MV from Audio1 . Show these Kpop members from Image1 singing and dancing to the music. Add coarse grain, glitch effects, and grunge effects. Keep the edit fast and use hard cuts only—no fades or soft transitions. Cuts should occur within 3 seconds. Make the cuts based on the beat of the song. Use the typographic reference from Image2
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/beat-synced-k-pop-multimodal-mv-043716-54c0a54b87f1.webm)
+
+**Source:** [@aisearchio](https://x.com/aisearchio/status/2082932693613043716) · 15s · 16:9 · music video
+
+---
+
+## 4. Dark-pop trio music-video performance with on-screen titles
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/dark-pop-trio-music-video-performance-with-on-screen-titles-931081.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/dark-pop-trio-music-video-performance-with-on-screen-titles-931081.jpg" alt="Dark-pop trio music-video performance with on-screen titles video preview" width="700" />
@@ -65,7 +86,7 @@ hip hop music video, make the character from @Video1 dance to the beat from musi
 
 ---
 
-## 4. 3x3 contact sheet female rapper grid performance
+## 5. 3x3 contact sheet female rapper grid performance
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/3x3-contact-sheet-female-rapper-grid-performance-672833.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/3x3-contact-sheet-female-rapper-grid-performance-672833.jpg" alt="3x3 contact sheet female rapper grid performance video preview" width="700" />
@@ -86,7 +107,7 @@ Use @Image 1 as the exact opening frame. It is a 3x3 contact sheet of nine separ
 
 ---
 
-## 5. Nightclub Breakdance Camera Orbit
+## 6. Nightclub Breakdance Camera Orbit
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/nightclub-breakdance-orbit-717186-20acd83c2a11.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/nightclub-breakdance-orbit-717186-b6d8304760f5.jpg" alt="Nightclub Breakdance Camera Orbit video preview" width="700" />
@@ -130,7 +151,7 @@ or children.
 
 ---
 
-## 6. Dark-pop cyber-grunge rap music video style
+## 7. Dark-pop cyber-grunge rap music video style
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/dark-pop-cyber-grunge-rap-music-video-style-998615.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/dark-pop-cyber-grunge-rap-music-video-style-998615.jpg" alt="Dark-pop cyber-grunge rap music video style video preview" width="700" />
@@ -151,7 +172,7 @@ Style: dark-pop / cyber-grunge / rap music video with photoreal high-fashion pol
 
 ---
 
-## 7. Dreamlike Summer Greenhouse Anime
+## 8. Dreamlike Summer Greenhouse Anime
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-video-prompt-056852-e02bf02c9bc9.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-video-prompt-056852-6480d57e838e.jpg" alt="Dreamlike Summer Greenhouse Anime video preview" width="700" />
@@ -236,7 +257,7 @@ Style: dark-pop / cyber-grunge / rap music video with photoreal high-fashion pol
 
 ---
 
-## 8. Fantasy Academy Bread-Sharing Scene
+## 9. Fantasy Academy Bread-Sharing Scene
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-video-prompt-773075-85ff5049786e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-video-prompt-773075-702c97b9b772.jpg" alt="Fantasy Academy Bread-Sharing Scene video preview" width="700" />
@@ -323,7 +344,7 @@ Style: dark-pop / cyber-grunge / rap music video with photoreal high-fashion pol
 
 ---
 
-## 9. Would you like to dance
+## 10. Would you like to dance
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/would-you-like-to-dance-986858.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/would-you-like-to-dance-986858.jpg" alt="Would you like to dance video preview" width="700" />
@@ -344,7 +365,7 @@ Would you like to dance?
 
 ---
 
-## 10. Emotional performance lip-sync to reference audio
+## 11. Emotional performance lip-sync to reference audio
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/emotional-performance-lip-sync-to-reference-audio-609528.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/emotional-performance-lip-sync-to-reference-audio-609528.jpg" alt="Emotional performance lip-sync to reference audio video preview" width="700" />

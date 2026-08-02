@@ -1,8 +1,269 @@
 {
   "version": 1,
   "model": "MiniMax-H3",
-  "updatedAt": "2026-08-01",
+  "updatedAt": "2026-08-02",
   "prompts": [
+    {
+      "slug": "low-angle-fashion-tracking-film-062019",
+      "title": {
+        "en": "Low-Angle Fashion Tracking Film",
+        "zh": "低机位时尚跟拍短片"
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 fashion prompt with attached video evidence.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3时尚提示词。"
+      },
+      "category": "fashion",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "camera-direction"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@Kiber_Alla",
+        "url": "https://x.com/Kiber_Alla/status/2083583963512062019"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/Kiber_Alla/status/2083583966578098464"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/low-angle-fashion-tracking-film-062019-7eccbb514e51.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/low-angle-fashion-tracking-film-062019-98861d56b4fd.jpg",
+      "prompt": "Ultra realistic cinematic video, shot on ARRI Alexa 35 with spherical lens, natural daylight, photorealistic, looks like real footage filmed on location, high-end fashion film aesthetic, extreme detail, realistic skin texture, real fabric physics, subtle film grain. Continuous low angle tracking shot, camera smoothly moving backward as a beautiful young woman with long dark wind-blown hair walks and performs down a narrow sun-drenched urban alley between old textured stone buildings under deep blue sky. She wears a flowing milky white asymmetrical off-shoulder top and high-waist wide-leg technical cotton culottes with a thin rope belt. The wide pants and fabric move naturally and dramatically with the wind and her body. She sings with genuine joy, smiling and softly laughing, maintaining strong eye contact with the camera, while performing free, light dance elements — fluid arm gestures, body swaying, and elegant full turns around herself as she continues walking forward. Her movement is energetic yet effortless, full of lightness and positive energy. Cinematic natural lighting with strong sunlight and deep shadows, realistic motion blur, high dynamic range, masterpiece, best quality, no artificial look."
+    },
+    {
+      "slug": "storm-lit-pirate-galleon-battle-561048",
+      "title": {
+        "en": "Storm-Lit Pirate Galleon Battle",
+        "zh": "风暴闪电下的海盗帆船大战"
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 action prompt with attached video evidence.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动作提示词。"
+      },
+      "category": "action",
+      "mode": "text-to-video",
+      "duration": "10s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "camera-direction"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@seirdotmk",
+        "url": "https://x.com/seirdotmk/status/2083582886280561048"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/seirdotmk/status/2083582942714990765"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/storm-lit-pirate-galleon-battle-561048-52021a1ba551.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/storm-lit-pirate-galleon-battle-561048-04da999318c6.jpg",
+      "prompt": "Open ocean, storm-lit sky, two massive wooden galleons broadside to broadside, cannons blazing, sails torn and smoking.\n\nLOCATION: towering waves, rain-slicked decks, splintering wood, the ships as looming wooden fortresses dwarfing the men fighting on them. Grey-green storm light, cannon smoke rolling across the water like fog.\n\nACTORS: two pirate crews — one crew in ragged dark coats and bandanas led by a scarred captain wielding a cutlass and flintlock; the other crew in stolen naval coats, more disciplined but outnumbered. Dozens of background fighters clashing across both decks.\n\nMOVEMENT: heavy, physical combat — swinging on rigging ropes across the gap between ships, cutlass clashes with real weight and follow-through, men thrown by cannon blasts, boots slipping on wet planks.\n\nINTERACTION: the two captains as the emotional throughline — circling each other through the chaos, their duel the spine of the sequence while the crews fight around them.\n\nCINEMATOGRAPHY (Kubrick-style): open with a long, wide, almost painterly establishing shot of the two ships closing in through the storm — hold it, let the dread build before the first cannon fires. Use symmetry in the initial approach (ships mirrored on either side of frame), then shatter that order completely once battle erupts. Favor a few extended tracking shots through the melee (a single unbroken move weaving across the deck) rather than only quick cuts, so the audience feels physically present in the chaos, punctuated by hard cuts at moments of violence.\n\nCUTS:\n\n1. Wide establishing shot: the two galleons converging through rain and swell, lightning flashing behind torn sails, ominous and silent but for wind and creaking timber. Hold long.\n\n2. Close-up: the pirate captain's face, rain streaming down a scarred cheek, eyes narrowing, hand tightening on his cutlass hilt.\n\n3. Wide shot: cannons fire in unison from both ships — deafening flash and smoke, the hulls shuddering, wood splintering on impact, rigging snapping and crashing to the deck.\n\n4. Grappling hooks fly across the gap, biting into the enemy ship's rail; ships lurch together with a groan of timber as the gap closes.\n\n5. Long tracking shot: pirates swing across on ropes into the fray, landing mid-swing into combat — camera follows one pirate's full arc from rail to rail without cutting, weapons clashing all around as he lands and immediately engages.\n\n6. Fast cuts through the melee: cutlass parries, a pistol shot at close range, a man thrown overboard by a cannon's recoil, barrels rolling loose across the tilting deck.\n\n7. Medium shot: the two captains spot each other across the chaos, a beat of stillness in the middle of battle, then they cut a path toward one another through the fighting.\n\n8. Close-up duel: blades clash in tight, brutal exchanges, rain and sweat, snarled dialogue, one captain slammed back against the mast.\n\n9. Wide shot: a mast cracks and begins to fall, crew scattering, fire catching on torn sailcloth, chaos peaking as both crews scramble.\n\n10. Final close combat: the rival captain disarmed, blade at his throat — beat of hesitation, thunder cracks, and the scene holds on the standoff rather than resolving cleanly, smoke and rain swirling around them both.\n\nCamera: mostly handheld-feel tracking shots through the melee for immersion, hard cuts on cannon fire and key hits, a still symmetrical wide shot to open"
+    },
+    {
+      "slug": "stormy-claymation-whale-breach-729607",
+      "title": {
+        "en": "Stormy Claymation Whale Breach",
+        "zh": "暴风雨黏土动画鲸跃"
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 animation prompt with attached video evidence.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动画提示词。"
+      },
+      "category": "animation",
+      "mode": "reference-to-video",
+      "duration": "10s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "camera-direction",
+        "native-audio"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@shikoba_86",
+        "url": "https://x.com/shikoba_86/status/2083555537912729607"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/shikoba_86/status/2083555542253838569"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/stormy-claymation-whale-breach-729607-4af6417896bd.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/stormy-claymation-whale-breach-729607-37f44d14411d.jpg",
+      "prompt": "Claymation. A whale breaches from a stormy clay sea and rises in a slow-motion arc above the waves, body fully extended, water sheeting off its flanks. At the top of the arc it rolls onto one flank, hangs for a beat, then falls back toward the surface. Midair, the camera sweeps beneath its belly in a bold dynamic move, revealing the vast churning ocean far below and the full stretch of its clay body against the sky, then holds as it crashes down and white clay foam bursts outward across the frame. Visible fingerprints, tool marks, and material imperfections in the clay. Slightly stepped, handmade movement. The sea is sculpted clay with rolling modelled waves and white clay foam. Audio: a deep rush of water, wind, the dull slap of clay on clay, distant gulls. Composition: subject centered, action contained within the central third of the frame."
+    },
+    {
+      "slug": "blue-haired-hero-and-spirit-fox-escape-209379",
+      "title": {
+        "en": "Blue-Haired Hero and Spirit Fox Escape",
+        "zh": "蓝发英雄与灵狐逃亡"
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 cinematic-story prompt with attached video evidence.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+      },
+      "category": "cinematic-story",
+      "mode": "reference-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "camera-direction",
+        "reference-image",
+        "native-audio",
+        "timed-beats"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@HBCoop_",
+        "url": "https://x.com/HBCoop_/status/2083553619413209379"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/HBCoop_/status/2083553640544149812"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/blue-haired-hero-and-spirit-fox-escape-209379-306a2ec093ca.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/blue-haired-hero-and-spirit-fox-escape-209379-5de493373abb.jpg",
+      "prompt": "Use the reference @ image for the exact character design, clothing, proportions, blue hair, pointed ears and glowing cyan spirit fox. Preserve the cinematic stylized 3D look, saturated teal jungle palette, soft volumetric light and detailed natural textures. No dialogue; environmental sound only.\n\n0–4 seconds: Begin close to the reference composition on the ancient stone bridge. The girl kneels beside the small glowing spirit fox as ripples begin moving backward across the stream below. She notices the unnatural movement and looks over her shoulder. A massive moss-covered stone serpent suddenly erupts from beneath the bridge, lifting one side of the platform. The stone tilts physically under her weight. She loses balance, catches herself with one hand and quickly pulls the spirit fox against her chest as cracks spread beneath her knees.\n\n4–10 seconds: The bridge collapses progressively behind her. She rises naturally from the crouch and sprints barefoot across the tilting stone slabs, carrying the fox securely with one arm. Each footfall dislodges moss and small fragments; broken slabs fall with believable weight and strike the water below, producing delayed splashes. The camera tracks closely beside her at waist height. The serpent sweeps its heavy stone tail across her path. She drops into a fast knee slide beneath it; her torn cloak and blue hair trail behind with clear inertia. Still moving forward, she catches a hanging vine with her free hand. Her momentum pulls the vine taut and swings her outward across the widening gap while the camera arcs alongside her.\n\n10–15 seconds: At the highest point of the swing, the vine begins tearing from the temple ceiling. She releases before it snaps, travels forward in a natural gravity-driven arc and lands hard on the opposite platform. She absorbs the impact through her feet and one hand, then rolls once across her shoulder while protecting the fox against her chest. The camera drops and rolls partially with her, then stabilizes behind her as she rises into a defensive crouch. The spirit fox leaps from her arms and lands in front of her, its cyan light intensifying as the serpent crashes into the broken bridge behind them, sending water, dust and stone fragments through the backlight.\n\nMaintain one continuous route and clear cause-and-effect motion. No teleporting, floating, sudden directional changes, extra characters, costume changes or transformation of the girl. Keep the fox small throughout; only its light becomes brighter in the final moment."
+    },
+    {
+      "slug": "kintsugi-sword-seamless-loop-524882",
+      "title": {
+        "en": "Kintsugi Sword Seamless Loop",
+        "zh": "金继长剑无缝循环"
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 fashion prompt with attached video evidence.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3时尚提示词。"
+      },
+      "category": "fashion",
+      "mode": "reference-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "camera-direction",
+        "reference-image",
+        "timed-beats"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@Cia0_exe",
+        "url": "https://x.com/Cia0_exe/status/2083525563491524882"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/Cia0_exe/status/2083525568377876535",
+        "https://x.com/Cia0_exe/status/2083525685482828088"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/kintsugi-sword-seamless-loop-524882-18ce4fdcf3f2.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/kintsugi-sword-seamless-loop-524882-1365004257d9.jpg",
+      "prompt": "Prompt #MiniMaxH3 in Chinese:\n\n15秒 | 16:9 | 1440p | 24fps | 无缝循环\n\n[角色锁定] 完全按照 @image1 呈现，不进行任何重新设计。蓬松的蓝灰色波浪短发，刘海垂落遮住上半张脸；面容清秀，唇色偏暖；珊瑚朱红色宽袖长袍，腰间层层缠绕的宽腰带，深色内衬；持剑手戴深色手套。长剑：华丽的银金巴洛克护手与柄头，镜面剑身映出真实的天空与云。全片不得改动发量与卷曲走向、刘海遮眼的方式、袍身轮廓、腰带缠法、手套、护手纹样与剑身比例。\n\n[循环 · 核心设定] 剑身自第一帧起就已布满一张固定的旧金脉之网——那是它此前碎裂并被金继修补留下的痕迹。本片是这一循环中的又一次：它沿着既有金脉再次裂开，碎片散去，熔金重新灌回同样的裂缝，恢复成完全相同的样子。不增添任何新金脉、不改变其走向与数量。最后一帧须与第一帧完全一致。\n\n[剑的恒定 · 最高优先级] 重铸后的剑必须与开场完全相同：长度、宽度、弧度、剑尖、护手雕花、柄头、缠柄、镜面质感、金脉走向数量粗细、刻痕位置，逐一对应。严禁任何形态变化——不得变长变大、不得生出新纹饰或棱刺、不得产生光晕或能量外溢、不得改变颜色材质、不得出现任何“进化”“觉醒”“强化形态”式转变。金只填回原有裂缝，绝不溢出剑身之外、绝不覆盖镜面。\n\n[解剖锁定 · 最高优先级] 全片有且仅有一名人物：两条手臂、两只手、每只手五指、一把剑。严禁多余的手臂、手掌、手指或第二把武器。高速转身与运动模糊中，残影绝不可被渲染成额外肢体。手部每帧结构完整、指节分明；戴手套的手握柄，空出的手须清晰可见且有明确朝向。\n\n[沉浸 · 观众入画] 画面本身是一张真实存在的和纸，镜头是观众伸进这个世界的一只眼睛，世界会反过来影响它。\n一、画面裂纹：0.9 秒剑开裂的同一帧，一道极细的裂纹自画面中心向四角蔓延，如同观看的这块玻璃也被划开；裂纹全片存在并缓慢加深，10.8 秒起被金继之金一并填补，13.8 秒前完全消失。\n二、纸的边界：画面四边的和纸纤维始终微微起伏，重击时被掀起并向内卷曲，露出纸的毛边。\n三、墨上镜头：3.2 秒的长弧甩出的墨点直接溅在镜头上，附着后沿纸纤维缓慢晕开，随后逐渐变淡，13.8 秒前完全干透消失。\n四、倒影中的观众：2.2 秒与 13.4 秒各有一片碎片旋转至极近处，其镜面中短暂映出镜头本身与其外的一片天光，仿佛观众看见了自己所在的位置——只出现一瞬即转开。\n五、沉入：7.0 至 8.8 秒，墨云直扑镜头并将其吞没，镜头沉入墨中——四周被浓墨包裹，仅上方透出天光与她的剪影，纸纤维如絮状物在“水中”缓缓漂过，画面轻微起伏如同随液体晃动；8.8 秒墨向下退去，镜头破“水面”而出。\n所有以上效果必须在 13.8 秒前彻底清除，最后一帧的画面须与第一帧一样干净。\n\n[场景 · 明亮] 高空之上，正午。头顶通透饱和的湛蓝天空，向地平线渐变为明亮浅色薄雾；脚下极远处是被阳光照亮的洁白积云海。她悬浮其中——无地面、无建筑、无道具。金箔长带随上升气流飘过。全片阳光充沛、明亮通透，绝不转阴、绝不去饱和。\n\n[色彩] 天空 #2E6FA8 渐变至 #CFE3EF。长袍珊瑚朱红 #D9563F，褶皱 #A63A2A。头发蓝灰 #8CA3B8，边缘接暖色轮廓光。手套与内衬 #14161C。护手做旧银金。碎片映出真实蓝天白云。墨为纯黑 #0A0A0C。金脉为哑光金箔 #C9962E，熔金前沿炽白金 #FFEBB0，冷却后回到完全相同的 #C9962E。\n\n[风格与质感] 水墨画与照相级玻璃的融合。整个画面覆盖极淡的和纸纤维质感；天空与云以水墨渲染，边缘晕开带枯笔飞白；人物与剑为完全清晰的实体渲染，如实体嵌在画中。金为真实金箔——极薄、有褶皱、氧化磨损、受光不均。碎片有真实厚度与内部裂纹，每片映出不同的云。发丝逐根渲染，逆光半透明；袍料厚重，褶皱有真实重量与回弹；护手雕花凹处压暗。胶片高光滚降，金上柔和光晕，细腻颗粒。\n\n[特效] 逐级升级：剑锋所过之处墨如入水般翻卷晕开；金箔自长带剥落飘散；墨与金彼此排斥绝不相融，如大理石纹互相推挤；高速动作拖出枯笔飞白擦痕；每次重击有一帧纯墨黑剪影；熔金沿裂缝奔流，前沿炽白，其后冷却为哑光金箔。\n\n[动画法则] 每个动作遵循预备—爆发—收势：出手前明确反向蓄势，爆发只占少数帧，收势有减速与轻微过冲后回位，绝不匀速。发丝、宽袖、袍摆、腰带末端各以不同延迟跟随身体，绝不同步启停。所有轨迹为弧线。高空中一切略带浮力感。杜绝任何僵硬、停顿或不自然的关节角度。\n\n[逐拍动作]\n0.0-1.4 她双手垂落，右手握剑于身侧偏后，剑斜指下方，头微低、刘海遮眼；仅呼吸使胸口微起伏。剑沿一道既有金脉裂开，手指本能收紧一下。\n1.4-3.2 剑沿所有金脉同时裂开脱手，碎片向外散开，断口边缘皆为原有的金。右手仍维持握持姿势停在半空，指节微张；左手抬至胸前，掌心向上；头始终微低。\n3.2-5.2 右手将空柄自身侧向斜上方划出完整长弧，腰胯先行带动肩背，宽袖甩开翻卷；收势时手腕轻微过冲后回位，左手向后平展保持平衡。\n5.2-7.0 侧身转体半周，重心自右脚移至左脚，袍摆螺旋展开；转身中右手将空柄换至身前反握，左手抬至面侧。\n7.0-8.8 虚空中一蹬，身体略下沉蓄势，双臂猛地向两侧张开召回碎片；随后双臂收拢至胸前，掌心相对，碎片锁定成环。\n8.8-10.8 一次真实的挥臂与转身，被不同渲染风格切分呈现。\n10.8-13.0 右手缓缓翻转、掌心向上再合拢，碎片沿手臂旋绕归位；剑成形时五指依次收紧扣柄，手臂承力下沉半寸，肩线压低。\n13.0-13.8 第一次抬起头，刘海被气流分开露出双眼，平视镜头；手腕转动一周使金脉迎光。\n13.8-15.0 缓缓垂下手腕，剑回到身侧偏后斜指下方；头重新低下，刘海落回遮眼，左手垂落身侧——完全回到第一帧姿势。\n\n[表演] 全片沉静克制。碎裂时无惊慌，只有指节一次收紧；召回时下颌微抬、呼吸加深；金脉合拢时嘴角极细微的松动；抬头对视时眼神平静笃定；垂下头时回归最初的静默。\n\n[署名] 剑身护手上方刃根处刻有 CIA0（大写 C、大写 I、大写 A、数字零；末位是数字零而非字母 O），小号宽字距镌刻大写，是剑本身的一部分，绝非叠加图层。刻痕内自第一帧起已嵌金，重铸后完全相同，绝不变亮变大或增添装饰。\n\n[文字 · 墨落纸上] 所有文字为湿润毛笔书法渗入画面本身的和纸纤维：落笔带刷毛痕迹与枯笔断白，墨沿纤维晕开一拍后随纸干淡去。拉丁文为厚重镌刻衬线，日文为浓墨重笔竖排于侧三分之一。文字位于她身后并被遮挡，绝不覆盖面部。以下须原样逐字呈现：\n0.8秒「墨」竖排右三分之一\n2.4秒 \"IT HAS BROKEN BEFORE\" 单行靠左\n5.0秒 \"EVERY CRACK\" / \"REMEMBERS THE SKY\" 两行堆叠靠左\n7.6秒「金継」竖排左三分之一，墨将干时自笔画渗出金色\n10.6秒 \"AND WILL AGAIN\" 先落墨再被金箔灌满\n13.2秒 居中标题组：「天墨」上方，\"INKFALL\" 下方，须在 14.4 秒前完全淡去，最后一帧不得残留任何文字\n\n@Image1 [摄影] 变形宽银幕，椭圆焦外，暖色条状光斑，180 度快门，轻微桶形畸变。摇臂有质量、起停缓入缓出；甩镜末端轻微过冲后回稳；移焦有极短过冲再回拉。前景始终有金箔长带、碎片或袍袖掠过制造视差。\n0.0-1.4 100mm 微距沿镜面剑身向护手行进，云影流过钢面，金脉与刻痕掠过。\n1.4-3.2 35mm 环绕碎片场 180 度，穿行于碎片之间。\n3.2-5.2 24mm 广角随长弧上升，天空大面积入画。\n5.2-7.0 18mm 一镜到底，推入一片碎片的倒影穿过，自另一侧高处回望她。\n7.0-8.8 沉入墨中，镜头略微上仰仰望她的剪影，随液体轻微起伏。\n8.8-10.8 焦段随拍点跳切，85mm 特写与 24mm 广角交替。\n10.8-13.0 50mm 缓慢推入，荷兰角自五度回正。\n13.0-13.8 85mm 面部特写。\n13.8-15.0 自面部缓缓下降推近，沿剑身回到 100mm 微距，与第一帧完全对位。\n\n[分镜]\n0.0-1.4 循环点。微距沿镜面剑身疾行，云影流过钢面。剑沿一道既有金脉缓慢裂开如薄冰崩解；同一帧，一道细裂纹自画面中心向四角蔓延。墨自裂口涌出黑色羽状云。\n1.4-3.2 悬停。镜头环绕漂浮的碎片场，每片缓缓自转，各自捧着一角天空，断口的金边闪烁；2.2 秒一片碎片旋至极近，镜面中一瞬映出镜头本身。她悬于中心，刘海遮眼。\n3.2-5.2 墨绽。她以空柄划出长弧，在整片天空拖出巨大水墨笔触，湿黑弧带枯笔飞白；甩出的墨点溅上镜头并沿纸纤维晕开。落入墨中的碎片转为剪影。\n5.2-7.0 穿镜。一镜到底：镜头推入一片碎片的倒影并穿过，自另一侧高处回望她；金箔长带掠过镜头，她的转身拖出枯笔擦痕。\n7.0-8.8 沉入。墨云直扑镜头并将其吞没——四周被浓墨包裹，仅上方透出天光与她张开双臂的剪影，纸纤维如絮状物缓缓漂过，画面随液体轻微起伏，画面裂纹在墨中被压出细密支线。8.8 秒墨向下退去，镜头破出水面，碎片同帧翻转锁成绕她缓转的环。\n8.8-10.8 水墨蒙太奇，一帧一姿态交替渲染：纸白底纯墨线稿、朱红与青蓝二色木版画帧、黑底金箔剪影、枯笔拖影帧、一帧全画面墨色反转、完整渲染。墨点与金屑持续累积绝不重置。\n10.8-13.0 金继。碎片沿手臂旋绕归位，断口一一对上；熔金沿原有裂缝灌回，前沿炽白，其后冷却为哑光金箔，最终与开场金脉完全一致，不多一道不少一道。同时画面上那道裂纹也被金一并填补、随后金色渐渐淡去。全画面光线转暖。\n13.0-13.8 对视。她第一次抬头，刘海分开露出双眼，平视镜头；13.4 秒一片余留的碎片旋过，镜面中再度一瞬映出镜头。手腕转动一周使金脉迎光。\n13.8-15.0 归位。她垂下手腕与视线，剑回到身侧，刘海落回遮眼；镜头上的墨点干透消失，画面裂纹与金色痕迹尽数退去，文字淡尽；镜头沿剑身回到开场微距。最后一帧与第一帧完全一致。\n\n[音频] 每个音效卡在准确帧上，混音首尾相接可循环。底层：高空稀薄空气感，远处持续的风，一层极淡的纸张摩挲声。\n0.0-1.4 上行金属长鸣，玻璃缓慢开裂的绵长脆响，接墨入水的低沉涌动，画面裂开时一记极细的近场脆响仿佛就在耳边。\n1.4-3.2 近乎静默——碎片自转的细微水晶轻响，墨翻卷的低频液流，一次屏住的呼吸。\n3.2-5.2 宽阔湿笔拖过纸面的摩擦，墨沿纤维扩散的细密嘶声，墨点溅上镜头的一记极近的湿响，其下尺八吐息升起。\n5.2-7.0 进入碎片时气压骤降，内部闷响的封闭音，穿出一记清亮释放，金箔长带掠过的猎猎。\n7.0-8.8 沉入——全频瞬间被厚重低通滤波吞没，只余低沉的液体涌动、遥远变形的风声与一次缓慢的心跳；8.8 秒破水而出，高频与空气感轰然回归。\n8.8-10.8 八记毛笔击打卡在每次剪辑上，墨点飞溅，风格间以短滤波门分隔，反转帧一记太鼓。\n10.8-13.0 温暖低鸣升起，熔金奔流的柔和噼啪，每道裂缝闭合一声清亮短鸣，古筝音阶逐级上行。\n13.0-13.8 延长的尺八长音，剑身转动的清亮金属鸣响。\n13.8-15.0 一切收束——袖摆落定的柔响，一次平缓呼气，解析为与开场完全相同的高空风声与纸声，无缝接回起点。\n配乐：极简温暖，仅古筝与尺八。3.2 秒进入，7.0 至 8.8 秒随沉入被一同滤掉，8.8 秒回归，10.8 秒起弦乐加入，13.8 秒退出仅余风声，与开场首音无缝相接。无对白。\n\n[限制] 只有一名人物，两条手臂，两只手，一把剑。剑自第一帧即带金脉，重铸后与第一帧完全相同，严禁任何形态、尺寸、纹饰、颜色或光效变化。墨保持纯黑、金保持金箔，绝不混合成褐色。所有文字须为湿墨渗入纸面，绝非平贴叠加。镜头上的墨、画面裂纹与金痕须在 13.8 秒前彻底清除。刻痕须准确拼写为 CIA0。除上述文字外无任何标识、水印或字幕。无地面、无建筑、无道具。全片明亮饱和。首尾帧完全一致，两帧中都不得残留任何文字或镜头污迹。"
+    },
+    {
+      "slug": "ramen-bowl-ugc-taste-test-612348",
+      "title": {
+        "en": "Ramen Bowl UGC Taste Test",
+        "zh": "拉面 UGC 试吃测评"
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 product-commercial prompt with attached video evidence.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+      },
+      "category": "product-commercial",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "40:17",
+      "ingredients": [
+        "camera-direction",
+        "reference-image",
+        "timed-beats"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@Taaruk_",
+        "url": "https://x.com/Taaruk_/status/2083461207919612348"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/Taaruk_/status/2083461207919612348"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/ramen-bowl-ugc-taste-test-612348-f5a033bef00e.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/ramen-bowl-ugc-taste-test-612348-2469cb1c850e.jpg",
+      "prompt": "Duration: 15 seconds | Aspect Ratio: 16:9 | Style: Authentic UGC / iPhone selfie-vlog, handheld, natural light, slight motion blur, TikTok/Reels energy — NOT cinematic.\nProduct Reference: Use the uploaded ramen bowl image as the only product reference. Keep the broth color, noodle thickness, toppings, egg placement, chashu slices, and bowl appearance identical throughout every shot.\nCamera: iPhone 15 Pro handheld with front/back camera switching, realistic autofocus hunting, natural handheld movement, slight exposure shifts, warm apartment lighting.\nCharacter Description\nName: Yuna\nA young Japanese woman in her early 20s with soft natural beauty, shoulder-length dark hair tied loosely, subtle makeup, oversized gray hoodie, cheerful personality, filming casually inside a cozy apartment kitchen.\nShot Breakdown\nSHOT 1 (0–2s) — Selfie holding the ramen bowl.\nDialogue: \"Late-night ramen again.\"\nSHOT 2 (2–4s) — Overhead reveal with steam rising.\nSHOT 3 (4–6s) — Close-up autofocus on noodles and broth.\nSHOT 4 (6–8s) — Chopsticks lifting noodles with a natural noodle stretch.\nSHOT 5 (8–10s) — Selfie bite reaction.\nDialogue: \"That's insanely good.\"\nSHOT 6 (10–12s) — Casual b-roll of the bowl while she reaches for another bite.\nSHOT 7 (12–14s) — Selfie holding noodles toward camera.\nDialogue: \"Worth every bite.\"\nSHOT 8 (14–15s) — Freeze frame with handwritten overlay: \"ramen fix 🍜\"\nLook & Feel\nWarm lighting, natural phone quality, authentic UGC pacing, jump cuts, realistic handheld movement.\nNegative Prompt\ncinematic look, luxury commercial, perfect framing, CGI noodles, unrealistic steam, plastic food, distorted chopsticks, extra fingers, warped hands, overprocessed HDR, text artifacts."
+    },
+    {
+      "slug": "gourmet-burger-ugc-taste-test-165289",
+      "title": {
+        "en": "Gourmet Burger UGC Taste Test",
+        "zh": "精品汉堡 UGC 试吃测评"
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 product-commercial prompt with attached video evidence.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+      },
+      "category": "product-commercial",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "92:39",
+      "ingredients": [
+        "camera-direction",
+        "reference-image",
+        "timed-beats"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@oggii_0",
+        "url": "https://x.com/oggii_0/status/2083436822085165289"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/oggii_0/status/2083436822085165289"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/gourmet-burger-ugc-taste-test-165289-787be15a8d6a.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/gourmet-burger-ugc-taste-test-165289-7f4d2652dee1.jpg",
+      "prompt": "Duration: 15 seconds | Aspect Ratio: 16:9 | Style: Authentic UGC / iPhone selfie-vlog, handheld, natural light, TikTok/Reels aesthetic.\nProduct Reference: Use the uploaded gourmet burger image as the only product reference. Preserve the bun shape, patty thickness, cheese melt, lettuce, tomato, sauces, and proportions exactly in every shot.\nCharacter Description\nName: Hana\nA young Japanese woman in her early 20s with natural beauty, long dark hair in a loose ponytail, oversized cream sweatshirt, minimal makeup, bright smile, friendly lifestyle-vlogger personality.\nShot Breakdown\nSHOT 1 (0–2s) — Selfie showing the burger box.\nDialogue: \"Burger night!\"\nSHOT 2 (2–4s) — Opens the box.\nSHOT 3 (4–6s) — Quick zoom on the burger.\nSHOT 4 (6–8s) — Hands lifting the burger with cheese stretching naturally.\nSHOT 5 (8–10s) — Bite reaction.\nDialogue: \"Okay... that's incredible.\"\nSHOT 6 (10–12s) — Casual close-up b-roll while reaching for fries.\nSHOT 7 (12–14s) — Toasting the burger toward the camera.\nDialogue: \"You need this.\"\nSHOT 8 (14–15s) — Freeze frame with overlay: \"burger cravings = solved 🍔\"\nLook & Feel\nWarm apartment lighting, genuine phone footage, slight grain, natural autofocus breathing, handheld imperfections, fast jump cuts.\nNegative Prompt\ncinematic grading, commercial production, CGI burger, fake cheese, distorted hands, warped food, perfect stabilization, studio lighting, text glitches, logo distortion."
+    },
+    {
+      "slug": "luxury-skincare-storyboard-commercial-805571",
+      "title": {
+        "en": "Luxury Skincare Storyboard Commercial",
+        "zh": "奢华护肤品分镜广告"
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 product-commercial prompt with attached video evidence.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+      },
+      "category": "product-commercial",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "camera-direction",
+        "reference-image",
+        "timed-beats"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@Maercihh",
+        "url": "https://x.com/Maercihh/status/2083407991114805571"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/Maercihh/status/2083407991114805571"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-skincare-storyboard-commercial-805571-995ac1ada011.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-skincare-storyboard-commercial-805571-411a41f0ec66.jpg",
+      "prompt": "Use the uploaded storyboard as the camera guide. Follow all 8 frames in order with smooth cinematic continuity. The same woman, outfit, hairstyle, makeup, room and product must remain perfectly consistent throughout the entire 15-second commercial. Every shot must begin where the previous shot ends with seamless match cuts and natural camera movement.\n\nShot 1 (0-1.8s)\nA slow push in as morning sunlight enters through the window. The woman looks outside and gently turns toward the mirror. The camera continues moving without stopping.\n\nTransition:\nThe camera keeps pushing forward until her face fills the frame.\n\nShot 2 (1.8-3.6s)\nWithout cutting, the shot becomes a close-up of her face in the mirror. She notices dull skin and lightly touches her cheek. The camera slowly circles around her as she reaches toward the vanity.\n\nTransition"
+    },
     {
       "slug": "surreal-blue-studio-dance-with-horse-588086",
       "title": {
@@ -238,6 +499,71 @@
       "prompt": "{   \"shots\": [     {       \"shot_id\": \"1\",       \"start_time\": \"00:00\",       \"end_time\": \"00:02\",       \"camera_angle\": \"Close-up\",       \"subject\": \"Strawberry\",       \"action\": \"A single, dull strawberry transforms into a vibrant, ripe strawberry, floating against a pink background.\",       \"visual_details\": \"Initial strawberry is muted, then becomes intensely red with visible seeds; pink background; subtle glow effect.\",       \"audio_cues\": \"Light, subtle, almost magical sound effect.\"     },     {       \"shot_id\": \"2\",       \"start_time\": \"00:02\",       \"end_time\": \"00:05\",       \"camera_angle\": \"Medium shot\",       \"subject\": \"Strawberry and beverage can\",       \"action\": \"The vibrant strawberry transforms into a white and pink beverage can with 'STRAWBERRY CREAM' text. Liquid pours into the can from above, and strawberries/water droplets float around it.\",       \"visual_details\": \"Can is sleek, covered in condensation; red liquid splashing into the can; numerous floating strawberries (whole and sliced) and water droplets; pink background.\",       \"audio_cues\": \"Sound of liquid pouring, bubbling, and light splashes; upbeat, commercial-style music.\"     },     {       \"shot_id\": \"3\",       \"start_time\": \"00:06\",       \"end_time\": \"00:10\",       \"camera_angle\": \"Close-up\",       \"subject\": \"Top of the beverage can\",       \"action\": \"Focus on the top of the can as the liquid continues to pour and splash, with droplets and strawberries in motion.\",       \"visual_details\": \"Intricate details of the can's opening and condensation; dynamic splashes of liquid; close-up of floating strawberry pieces.\",       \"audio_cues\": \"Enhanced sounds of liquid splashing and bubbling; continued music.\"     },   ] }"
     },
     {
+      "slug": "ice-gunslinger-interactive-web-loop-045626",
+      "title": {
+        "en": "Ice Gunslinger Interactive Web Loop",
+        "zh": "冰霜枪手网页互动循环"
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 fashion prompt with attached video evidence.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3时尚提示词。"
+      },
+      "category": "fashion",
+      "mode": "reference-to-video",
+      "duration": "15s",
+      "aspectRatio": "959:540",
+      "ingredients": [
+        "camera-direction",
+        "reference-image",
+        "timed-beats"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@Cia0_exe",
+        "url": "https://x.com/Cia0_exe/status/2083180088775045626"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/Cia0_exe/status/2083180243687227676",
+        "https://x.com/Cia0_exe/status/2083180346540204289"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/ice-gunslinger-interactive-web-loop-045626-8ed8d15497ae.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/ice-gunslinger-interactive-web-loop-045626-b4852f65a0a0.jpg",
+      "prompt": "@Hailuo_AI Prompt #MiniMaxH3 in Chinese:\n\n无缝循环 | 网页首屏动画\n\n[核心概念] 她的每一个动作都对应一种网页交互行为，她不是站在网页前，而是在演示这个网页如何运作。加载、悬停、点击、滚动、拖拽、轮播、提交、刷新——八种交互依次发生，每一种都有对应的冰质界面反馈。\n\n[人物锁定 · @image1] 完全按照该参考图呈现，不进行任何重新设计。\n容貌：年轻女性，薄荷绿齐颏短发，发丝随动作轻扬；锐利的浅青碧色双眼，青色指甲，水晶坠耳饰。\n服装：白色剪裁西装——敞开的外套与长裤，领口环绕金色巴洛克卷草纹饰件，肩披缀满蓝色冰晶尖刺的深色皮草披领，腰间垂挂细金链，大腿绑黑色枪套束带。\n武器：两把华丽的银质左轮手枪，一手一把，枪管为冰蓝色水晶质，枪身雕花，转轮与击锤细节完整。\n场景：宏伟的宫殿大厅，高耸的拱形长窗，暖金色内饰，大理石地面有真实反射。窗外天光冷，室内金暖，冷暖对比贯穿全片。\n全片不得改动发型、面容、西装轮廓、金饰卷草纹、披领结构、枪械造型与比例。\n\n[解剖与武器锁定 · 最高优先级] 全片自始至终只有：两条手臂、两只手、每只手五指、恰好两把左轮——右手一把、左手一把，绝无第三把。拖拽段左枪明确入套，左手空出且五指清晰。所有转枪、滑步、射击及其运动模糊中，残影绝不可被渲染成额外肢体或额外枪械；手部每一帧结构完整、指节分明、扳机指位置明确。枪绝不悬空、绝不复制。\n\n[网页 UI/UX 系统 · 冰质界面] 画面按 12 栏网格构建，外边距 6%，栏间距 2%。安全区：第 1 至 5 栏为网页标题与按钮预留，人物与主冰晶结构全程不进入第 1 至 4 栏。\n所有界面元素由「冰」构成——发丝级霜线，半透明，具真实折射，如结在一层看不见的玻璃上。界面配色：霜线冰白 #EDF4F8，激活态冰蓝 #9FD8EC，确认态暖金 #D9A94C。\n骨架屏：加载段中，尚未「载入」的画面区域以磨砂半透明冰板占位，微微闪烁，内容载入时冰板融化、真实细节浮现。\n光标：一枚冰晶准星即是鼠标指针，全片跟随她当前的注意力移动，悬停时展开一圈细霜，点击时收缩并溅霜。\n悬停态：被准星悬停的物体表面泛起一层冰蓝微光并轻微上浮。\n涟漪反馈：每次「点击」命中处先扩出一圈材质涟漪，再生长冰晶。\n滚动条：右缘一根细冰柱随滚动段的横移同步充填。\n对齐参考线：拖拽段中，画面闪现发丝级的洋红对齐线 #E23D9B，元素吸附入位时消失。\n弹数指示：右下六格冰晶弹仓图标，随射击逐格碎裂。\n载入环：一圈环形霜环兼作页面载入条，1.2 秒起步，7.8 秒半圈，11.4 秒闭合爆亮，13.0 秒后逆向融化。\n缓动：所有界面与文字入场为标准缓出约 0.4 秒，退场缓入约 0.25 秒，吸附与回弹为轻微过冲后回位，绝不线性、绝不夸张弹跳，多元素错位约 0.06 秒。\n\n[文字系统 · 皆由场景物质生成] 共三处，字形统一为厚重镌刻衬线体——粗竖笔、发丝细横笔、凿刻楔形衬线、宽字距。每处均为三维实体，具厚度、倒角、折射与投影。\n以下引号内为画面实际渲染文字，须原样逐字呈现：\n1.8秒 \"GLACIA\"（G-L-A-C-I-A，全大写）由悬浮冰晶碎片在她身侧半空组装，每片旋转就位成为字母的一个刻面，冰体内部具次表面散射与气泡，边缘折射细彩虹，保持两拍后碎为粉雪。\n7.4秒 \"HAILUO AI\"（H-A-I-L-U-O 空格 A-I，全大写）以霜花在最大拱形长窗玻璃上蔓延书写——霜沿字形边缘呈羽毛状结晶生长，背后天光透过微亮，随后被继续蔓延的霜幕吞没。\n13.4秒 \"Cia0\"（大写 C、小写 i、小写 a、数字零；末位是数字零而非字母 O，须更窄更椭圆）以细雕刻纹刻于右枪银质枪身，与周围雕花同深度同色泽，仅在收枪入套、掠射高光扫过的一瞬显现，绝不发光、描边或放大。\n全片无任何其他文字、日文字符或字幕。\n\n[色彩渐变体系] 全片色彩以渐变构成，绝不平涂。宫殿内饰自受光面暖金 #C9A24A 渐变至阴影蜜褐 #8A6B35；大理石地面冷白 #E8E6E0 带灰纹，反射中带一层冰蓝。窗外天光自窗顶冷蓝 #A8C4D8 渐变至窗底近白。她的西装受光纯白 #F4F0E8 渐变至阴影暖灰 #C9C2B4。冰体自表层冰蓝 #9FD8EC 渐变至核心深青 #3D7A9E，最深处近墨蓝 #1E3A52，边缘折射完整细光谱。霜哑光白。粉雪在逆光中金边、在冷光中蓝边。冷色只属于冰、霜与窗光，暖色只属于宫殿与金饰，冷暖交界处始终是画面张力所在。\n\n[渲染品质] 最高保真。冰具真实次表面散射、内部气泡、生长纹与裂隙，边缘真实色散；霜以羽毛状晶枝逐帧生长，绝非淡入；粉雪具体积感受气流卷动。银枪抛光，雕花凹处压暗，转轮转动时反射流动。西装挺括、褶皱真实回弹；皮草逐撮渲染，冰刺在其间折射；发丝逐根渲染，甩动滞后。大理石反射她与冰晶的完整倒影。胶片式高光滚降，阴影提亮，最亮金处柔和光晕，细腻颗粒，绝不过曝。\n\n[特效 · 冰之弹道] 每发子弹是一颗冰种：弹道拖出瞬间结晶的霜线；命中处先扩涟漪、再以延时摄影速度生长冰花、冰枝、倒悬冰吊灯，逐帧可见生长；枪口喷冷雾而非火光；弹壳空中结霜、落地叮当结冰；她呼吸带白汽；足下薄霜外蔓；冰体折射窗光在金饰上投下游动冷斑\n\n@Hailuo_AI @Image1 ；变形镜条状光斑掠过每处高光；焦外粉雪呈椭圆光斑；高潮处大厅被冰晶架构半包裹，暖金自冰后透出。冰晶持续累积，绝不消失，直至终段统一升华。\n\n[动作编排 · 交互映射，每拍双手双枪明确]\n0.0-1.4 加载。无人物。窗玻璃霜结微距，四角霜框结晶延展，骨架屏冰板铺陈画面，载入环起步。\n1.4-3.0 载入完成。骨架冰板自左至右依次融化，大厅细节逐区浮现锐化，最后一块融化处是她——背对长窗，双枪在套，抬眼，一次白汽呼吸。准星光标出现。\"GLACIA\" 组装。\n3.0-4.6 悬停与点击按下。准星飘移至她的右侧枪套，枪套泛起冰蓝悬停微光并轻浮；她右手拔枪的瞬间即是按下——准星收缩溅霜。左手随后拔左枪，双枪各转一周停稳，动作利落克制。\n4.6-6.2 点击反馈。右枪射出第一发——弹道霜线飞越大厅，命中远柱：先一圈材质涟漪扩开，再炸开生长冰花。左枪抬起戒备。准星随弹道飞移并在命中点收缩。\n6.2-7.8 滚动。她沿大理石侧滑横移——整页随之「滚动」：前景柱、中景冰晶、远景长窗以不同速度视差掠过，右缘冰柱滚动条同步充填。滑行中双枪交替朝上射三发，各在头顶炸开一座倒悬冰吊灯，如同锚点依次钉入。霜同时在长窗上写出文字。\n7.8-9.6 拖拽与跳转，一镜到底。她滑停，左枪利落入套；左手抓住一块悬浮的冰晶面板向右横拖——洋红对齐参考线闪现，面板轻微过冲后吸附入位；吸附瞬间右枪朝面板中心射出一发，镜头贴弹穿过面板冰体——穿越时全画面被冰内折射充满，如一次页面跳转——穿出后甩回她，她已单膝滑跪停稳。\n9.6-11.4 轮播。八拍每拍 0.225 秒，如八张卡片依次滑入：一、白底冰蓝线稿，仅双枪与双手；二、冰蓝与暖金色块拼贴；三、二色剪影纯白配金；四、完整渲染一记真实双枪同射；五、拖影帧；六、整帧负片反转仅此一帧；七、线稿叠加冰晶折射；八、完整渲染短暂静止。每拍以水平滑切衔接如卡片轮播，冰晶持续累积。\n11.4-13.0 提交。两帧全静止。她起身，双枪缓缓合拢指向镜头——如按下主按钮——同时扣动扳机，两发弹道在镜头正前交汇，一朵冰花在镜面绽放生长为成功态；透过冰花看见她放下双枪、直视镜头的双眼。载入环闭合爆亮转暖金。\n13.0-15.0 刷新。全厅冰晶自下而上依次升华为粉雪与冷雾，如一次下拉刷新将页面推起。她双枪先右后左旋入枪套，掠射高光扫过右枪显现刻纹。首屏版式于第 1 至 5 栏短暂组装——霜线导航与三枚冰晶圆点、显示级 \"GLACIA\"、其下霜线圆角按钮内含 \"ENTER\"——保持 0.8 秒后融化。镜头推回窗玻璃霜结微距。最后一帧与第一帧完全一致。\n\n[摄影] 变形宽银幕，椭圆焦外，冷暖双色条状光斑，180 度快门。每镜头具明确动机与前中后三层纵深——粉雪、悬浮冰屑或披领冰刺始终在前景制造视差。人物始终位于第 6 至 12 栏。\n0.0-1.4 100mm 微距贴窗，霜枝逐帧生长掠过，随后离窗后拉。\n1.4-3.0 摇臂自窗顶缓降至她身后半身，逆窗光，骨架冰板在镜头前逐块融化。\n3.0-4.6 40mm 低位轻推，拔枪双臂划过前景，荷兰角三度。\n4.6-6.2 85mm 咬住枪口，射击瞬间甩镜追弹道，命中点急停看涟漪与冰花生长。\n6.2-7.8 24mm 低位横移与滑步同速同向，三层视差完整展开，三次射击各一次轻微震镜。\n7.8-9.6 一镜到底：随拖拽横移，吸附瞬间轻微过冲，随后贴弹穿板，穿越段升格至四分之一速，甩回实速。\n9.6-11.4 焦段随拍点跳切，85mm 与 24mm 交替，以水平滑切模拟轮播。\n11.4-13.0 50mm 正面缓推，冰花在镜面绽放时短暂定格。\n13.0-15.0 缓慢后拉环视升华的大厅，随后推回窗玻璃微距，与第一帧对位。\n转场一律以粉雪与冷雾溶解；仅轮播段硬切加静音门；提交前两帧全静止蓄力。\n\n[物理] 重量与利落优先。左轮真实后坐——腕部上弹、小臂吸收、肩部微沉，双枪同射全身后压半步。滑步真实借力，外套下摆与披领变向滞后回弹。拖拽面板时左臂可见牵引力，吸附瞬间手臂随之一顿。弹壳受重力落地弹跳。冰晶生长推开空气，粉雪受动作气流卷动。杜绝任何僵硬、停顿或不自然的关节角度。\n\n[音频] 每个音效卡在其画面拍点的准确帧上，混音首尾相接可循环。界面音与物理音融合：每种交互都有一枚清脆的冰质界面音——悬停一声轻霜，点击一声脆响，吸附一声实响，确认一声暖钟。底层：宏大室内安静混响，窗外极远风声，细微冰体应力吟。\n0.0-1.4 霜枝生长的细密结晶声，骨架冰板的低频闪烁嗡鸣，载入环起步的一声轻起。\n1.4-3.0 冰板逐块融化的水晶滴落音阶，她的呼吸与白汽，冷弦乐铺底进入，\"GLACIA\" 组装的逐片轻响。\n3.0-4.6 悬停轻霜音，拔枪的皮革与金属滑响、点击脆响，转枪机械咔哒，双击锤两声。\n4.6-6.2 第一声枪响带冰质混响尾音，涟漪扩开的一圈水纹音，冰花生长密集脆响，弹壳冰叮。\n6.2-7.8 滑步摩擦与滚动条充填的细流声，三声交替枪响各带回声，冰吊灯层叠生长，霜爬窗细密声。\n7.8-9.6 左枪入套一声，拖拽的冰面摩擦，对齐线两声轻嘀，吸附一声实响带轻微过冲回弹音；穿板段一切拉长降调，甩回实速，滑跪一声实响。\n9.6-11.4 八记打击卡在八拍——枪响、冰裂、击锤交替，水平滑切各带一声卡片掠"
+    },
+    {
+      "slug": "porto-francesinha-comedy-recipe-282615",
+      "title": {
+        "en": "Porto Francesinha Comedy Recipe",
+        "zh": "波尔图法兰西斯克三明治喜剧食谱"
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 comedy prompt with attached video evidence.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3喜剧提示词。"
+      },
+      "category": "comedy",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "92:39",
+      "ingredients": [
+        "camera-direction"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@imagineFERA",
+        "url": "https://x.com/imagineFERA/status/2083172752790282615"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/imagineFERA/status/2083172755399233946"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/porto-francesinha-comedy-recipe-282615-a05a82a8aebb.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/porto-francesinha-comedy-recipe-282615-53406ba6182d.jpg",
+      "prompt": "Style: <image_1> (don't reproduce the image, use it only as aesthetic reference)\n\nEdit: Comedy, fast paced, mixing close ups, medium shots and wide shots from uncanny and tilted angles. Super-imposed texts with doodles identify ingredients as they appear and add comic remarks.\n\nScene: In Porto, Portugal a crazy chef explains how to do a Francesinha in Portuguese from Portugal with Porto accent."
+    },
+    {
       "slug": "cinematic-wildlife-documentary-vertical-framing-subject-592938",
       "title": {
         "en": "Macaw Scream in Extreme Slow Motion",
@@ -272,6 +598,38 @@
       "prompt": "/gen prompt: Cinematic wildlife documentary, vertical framing, subject centered, National Geographic award-winning cinematography, anamorphic lens, rich natural color, natural sunlight, natural motion blur. States: the scream never stops, the camera always rises, every touched object reacts. Characters: a blue-and-gold macaw, cobalt wings, golden chest, green crown, white face patch, black beak; a young man, short dark curly hair, olive t-shirt. Israeli white stone apartment building, living room. 0-2s macro: silence, the macaw inhales, chest swelling, throat feathers rising, the man mid-sip. 2-5s the beak opens, the world slams into extreme slow motion: a ripple of distorted air expands from the beak, rings race across his coffee, the mug shattering into countable shards, coffee hanging in ropes, his cheeks rippling back. 5-9s time snaps back; the wave blows the shutters open, the camera rides it out, straight up the facade. 9-14s rising floor by floor: laundry lines whipping, a dog howling in one window; crawl on pigeons detonating off a ledge, feathers suspended, the ripple passing them; snap back. 14-17s the roof: solar heaters trembling, tank water rippling, car alarms flashing far below; bold 3D text \"105 DB\" slams centered mid-frame. 17-20s hard cut to the room: the macaw fluffs, tilts its head, one tiny chirp; the man frozen with the mug handle. Audio: silence, a heartbeat on the inhale; a sub-bass shockwave, one raw macaw screech Doppler shifting as the camera climbs, glass shatter, dogs and alarms join, biggest boom on the text, ringing silence, a tiny chirp. Photorealistic, no deformation, every feather barb visible, crisp letter edges, smooth fluid motion, 8k, extreme details. , resolution:720p, duration:20s, aspect_ratio:9:16"
     },
     {
+      "slug": "blackberry-vanilla-soda-ugc-vlog-998714",
+      "title": {
+        "en": "Blackberry Vanilla Soda UGC Vlog",
+        "zh": "黑莓香草汽水 UGC Vlog"
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 product-commercial prompt with attached video evidence.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+      },
+      "category": "product-commercial",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "camera-direction",
+        "native-audio"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@AIwithJessica",
+        "url": "https://x.com/AIwithJessica/status/2083136052638998714"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/AIwithJessica/status/2083136052638998714"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/blackberry-vanilla-soda-ugc-vlog-998714-1ca980fa6505.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/blackberry-vanilla-soda-ugc-vlog-998714-7b02c89bbf7e.jpg",
+      "prompt": "CHARACTER & WORLD LOCK + FULL 15-SEC MASTER PROMPT\n\nA 15-second continuous UGC-style vlog in 9:16 vertical format. Jessy, a woman in her mid-20s — use her facial features exactly as shown in her reference photo, keep everything else about the scene freshly designed — wears an attractive pastel-colored dress (soft lavender, mint, or buttery yellow) that visually pops in contrast against the bubblegum-pink Olipop can. Location: a bright, clean modern kitchen/countertop with soft natural daylight. Product: a can of Olipop Blackberry Vanilla — pastel pink can, magenta blackberry illustration, white vanilla flower, dark green \"Blackberry Vanilla\" wordmark, \"Supports Digestive Health\" text near the top, \"A New Kind of Soda™\" tagline (use the uploaded product photo as the exact visual reference for the can). Style: authentic smartphone UGC vlog, natural handheld feel, realistic skin texture, no over-retouched look. She speaks casual, upbeat, conversational English directly to camera with natural lip-sync.\n\nThe video follows this exact beat sheet, with clean cuts between each moment:\n\n00:00–00:02 — Front-camera selfie, slight handheld sway, Jessy fans herself lightly in the kitchen, looking for something refreshing, smiles at camera: \"Okay I need something fun to drink right now.\"\n\n00:02–00:04 — Eye-level medium shot, she opens the fridge and pulls out the pink Olipop can, face lighting up with delight: \"Ooh, Blackberry Vanilla Olipop — yes please.\"\n\n00:04–00:06 — Close-up on her hands slowly turning the can, label details (\"Prebiotics, Botanics, Plant Fiber\") visible: \"Prebiotics AND it tastes like dessert? Sold.\"\n\n00:06–00:08 — Tight macro shot, her fingers pop the tab, condensation and a light fizz mist visible: \"Listen to that fizz.\"\n\n00:08–00:10 — Slow-motion macro shot, pink soda pouring over ice into a clear glass, bubbles rising: \"Look how pretty that color is.\"\n\n00:10–00:12 — Close-up on her face as she sips, eyes lighting up with genuine, pleasantly surprised reaction: \"Wait... that's actually so good.\"\n\n00:12–00:13 — Macro hero shot of the can alone on the counter, condensation dripping, soft bokeh kitchen background, slow subtle push-in, no dialog.\n\n00:13–00:14 — Medium shot, she smiles at camera, can raised slightly at chest height: \"Blackberry vanilla was the right call.\"\n\n00:14–00:15 — Close front-camera selfie, can held beside her face, warm bright smile into the lens: \"Go grab an Olipop, seriously.\"\n\nContinuous natural ambient kitchen sound, subtle upbeat pop background music underneath, her voice clear and casual throughout. Consistent face, outfit, and setting across every beat. No text overlays, no captions, no watermarks, no horizontal framing, no changes to the can's design or branding."
+    },
+    {
       "slug": "16-9-cinematic-wuxia-mystery-set-in-a-bamboo-571041",
       "title": {
         "en": "Bamboo Forest Wuxia Mystery",
@@ -302,6 +660,40 @@
       "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/16-9-cinematic-wuxia-mystery-set-in-a-bamboo-571041-da23c2db41ab.webm",
       "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/16-9-cinematic-wuxia-mystery-set-in-a-bamboo-571041-6d22d8f211d0.jpg",
       "prompt": "A 16:9 cinematic wuxia mystery set in a bamboo forest at night. Use a low-saturation palette of cold blue, ink green, charcoal, and gray. Thin mist fills the forest and fine snow drifts through the air. The mood is austere, lethal, and controlled, with the tension of a martial-arts sect investigating a case and exchanging secret intelligence.\n\nDeep in the forest, dense vertical bamboo fills the background while cold white mist-light glows in the distance. Soft, out-of-focus leaves partially obscure the foreground, creating the sense of watching from within the grove. A cool, soft front-side key lights the actors’ faces; backlight keeps the foreground dark and the distance luminous. Use shallow depth of field so leaves, snow, and bamboo dissolve into soft bokeh.\nPrioritize facial close-ups and measured shot/reverse-shot coverage. Keep the rhythm restrained but tense. Photoreal period-drama production value, cinematic lighting, and no modern elements. No subtitles, on-screen text, watermarks, modern clothing or architecture, animation styling, over-smoothed skin, bright daylight, or comic performance."
+    },
+    {
+      "slug": "golden-guardian-web-hero-loop-616089",
+      "title": {
+        "en": "Golden Guardian Web Hero Loop",
+        "zh": "黄金守卫网页首屏循环"
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 fashion prompt with attached video evidence.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3时尚提示词。"
+      },
+      "category": "fashion",
+      "mode": "reference-to-video",
+      "duration": "30s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "camera-direction",
+        "reference-image",
+        "timed-beats"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@Cia0_exe",
+        "url": "https://x.com/Cia0_exe/status/2083090068378616089"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/Cia0_exe/status/2083090227166658684",
+        "https://x.com/Cia0_exe/status/2083090374382534804"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/golden-guardian-web-hero-loop-616089-ad594df1ac56.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/golden-guardian-web-hero-loop-616089-f3ffd3a6c85e.jpg",
+      "prompt": "@Hailuo_AI Prompt #MiniMaxH3 in Chinese:\n\n15秒 | 16:9 | 1440p | 24fps | 无缝循环 | 网页首屏动画\n\n[人物锁定 · @image1] 完全按照该参考图呈现，不进行任何重新设计。金色卷发、闭合的双眼、仰起的面容与安详神情；象牙色垂坠长袍；左右两枚金色玫瑰花章肩甲，含中心宝石与放射浮雕；金丝胸饰、十字垂饰、多层珠链；水晶巨剑，含金色巴洛克护手与剑柄头、缠绕剑柄，双臂高举过头横持，金色火柱自上贯入；白色大理石圆台；下方云海；深蓝天空；身后刻满金色符文的巨大光环与放射状水晶碎片及其硬边 RGB 衍射。全片不得改动发型、面部、肩甲浮雕、胸饰、长袍轮廓、护手纹样与剑身比例。\n她的双眼全片闭合，仅在 11.4 至 12.6 秒睁开，并在 15.0 秒前再次闭合。\n\n[字形锁定 · @image2] 本片所有拉丁文字必须完全采用 @image2 的字形——相同的衬线结构、凿刻感收笔、字宽比例与字距，不得发明或替换字体。材质取自 @image2：抛光铬银，每一笔画的左上缘带温暖琥珀色轮廓光，细微倒角，细腻颗粒。\n\n[解剖锁定 · 最高优先级] 全片自始至终只有两条手臂、两只手、每只手五指、一把剑。严禁多余的手臂、手掌、手指或第二把武器。快速旋转与运动模糊中，残影绝不可被渲染成额外肢体；手部每一帧结构完整、指节分明、无粘连。剑柄同时只被该拍指定的手握持；空出的手须明确可见且有清楚朝向。\n\n[网页 UI/UX 系统 · 全片骨架] 画面按 12 栏网格构建，左右外边距各占画幅宽度 6%，栏间距 2%。\n安全区：第 1 至 5 栏留空，供网页标题与行动按钮使用。人物、剑与光环全程不得进入第 1 至 4 栏。\n视窗框：铬色发丝级四角框线于 1.4 秒延展到位并保持，每次转场轻微重新吸附，绝不重置。\n载入指示：光环的进度弧兼作页面载入条——1.4 秒起步，7.8 秒约半圈，11.4 秒闭合爆亮，12.6 秒后逆向清空。\n副环：三层同心符文环于 3.2 秒依次向外展开，以不同速度反向旋转。\n准星：追踪剑身并随她运动持续修正，撞击时收紧。\n数据列：画面右缘细长字形条滚动，速度随配乐加快。\n计数器：持续攀升，9.6 秒跳动异常，11.4 秒爆红归零。\n频谱条：环外一圈径向条形随音频脉动。\n所有界面元素为铬色发丝线条与薄光，半透明，被水晶折射，统一笔画粗细，绝不越过面部，绝不进入第 1 至 4 栏。\n缓动：所有界面与文字元素以缓出曲线入场，约 0.4 秒；退场约 0.25 秒。绝不线性，绝不弹跳。多元素之间错位约 0.06 秒。\n\n[文字 · 稀少且为实体，绝非叠加] 全片只有四处文字，每一处都是场景中真实存在的物体，具备厚度、倒角、投影与光照响应，随镜头产生透视变形，被前景遮挡，被水晶折射。\n以下引号内为画面实际渲染的文字，须原样呈现，不得翻译、不得替换、不得增删：\n1.8秒 光环符文带上一段符文重组为 @image2 的字形 \"ASCENSION\"，呈深铬阴刻切入环体，随环旋转出画。\n4.6秒 \"SCROLL\" 作为小号铬色标签，下方带一枚细箭头，居于画面下缘第 6 至 7 栏，轻微脉动。\n12.8秒 首屏版式于第 1 至 5 栏组装：顶部一条铬色发丝导航横线与三个圆点；显示级 \"ASCENSION\"；其下一枚发丝圆角按钮内含小号 \"ENTER\"。保持 0.8 秒后整体溶解。\n14.2秒 \"CIA0\" 以深铬阴刻切入符文带，刻痕深度、笔画宽度、边缘磨损与氧化程度与周围符文完全一致。绝不更亮、绝不更大、无发光、无描边。它随环体弧面产生透视变形，被前方水晶碎片局部遮挡，仅在侧光扫过的一瞬显现，在正光下几乎重新隐没于金属之中。\n全片不出现任何日文字符、字幕或其他文字。\n\n[色彩] 天空自顶部深海军蓝 #0B2350 至宝石蓝 #12356B，地平线转暖白 #F0E4CE。火柱核心过曝白，向外为浅金 #FFE9B0、琥珀 #FFD98A、橙金 #E8A63C，最外缘半透明热扰动。剑身自剑尖冷青 #9FD8E0 渐变至护手暖金，中段穿插全光谱色散带沿剑身流动。长袍受光面象牙白 #F5EDDC 至暖灰米 #C9BBA4，褶皱深处冷蓝影 #8C93A6。金属高光 #FFF0C0、中调 #E0B454、暗部 #8A6220、最暗带绿调，绝不平涂。日冕自内向外为白、金、琥珀、品红、靛蓝、透明六段。云海暖白 #FFF6E6 至灰蓝 #7E96B4 至紫蓝 #4A5A85。铬色文字与界面 #E8ECEF，带暖琥珀 #D9A05B 轮廓光。全光谱仅以折射形式出现，绝不平涂。\n\n[风格与特效] 电影级手绘感 2.5D 动画，巴洛克式密度。胶片高光滚降，阴影提亮，最亮处柔和光晕，细腻颗粒，饱和浓郁不过曝。皮肤具次表面散射；金色为各向异性拉丝金属；水晶具真实色散；织物为多层布料解算，有惯性与回弹；头发逐丝渲染，逆光半透明。\n特效逐级升级：碎片投出硬边 RGB 衍射光带；金色高光上的星芒光斑；火柱以翻腾丝带状降下；上帝之光穿透云海；碎片剥落光之羽；棱镜焦散在肩甲与胸饰上爬行；圆台由内发光；可见的冲击波畸变环；日冕绽放时短暂过曝再回落；空气中始终悬浮尘埃与晶屑。\n\n[摄影] 变形宽银幕，椭圆焦外，蓝金双色条状光斑，180 度快门，轻微桶形畸变。每个镜头都有明确运动动机与前中后三层纵深——云絮、光之羽、晶屑或长袍一角始终位于前景制造视差。人物始终位于第 6 至 12 栏内。\n0.0-1.4\n\n@Hailuo_AI @Image1 微距置于水晶剑身内部，在晶体裂隙间穿行，光沿裂纹色散，随后自剑刃穿出进入开阔天空。\n1.4-3.2 摇臂沿光环内缘攀升，符文自近及远依次点亮，透视强烈压缩。\n3.2-4.6 35mm 弧形轨道绕至碎片之后，全光谱扫过镜头，她以逆光剪影浮现。\n4.6-6.0 40mm 低角度缓推，火柱自画面顶部入画与剑尖相接，构图收束为首屏比例。\n6.0-7.8 50mm 空中环绕，随她 180 度旋转同步绕行，斩击瞬间升格至四倍慢速再回落。\n7.8-9.6 18mm 一镜到底随她坠落穿过光环，穿越时全光谱填满画面，绝不切。\n9.6-11.4 焦段随拍点跳切，85mm 特写与 18mm 广角交替，中间插入一次甩镜。\n11.4-12.6 摇臂升降加滑动变焦，由低仰角升至面部齐平，背景压缩感随之改变。\n12.6-15.0 缓慢后拉，随后沿剑身推进再次进入水晶内部，与第一帧完全对位。\n开场与收束段一律使用带光晕的溶解与镜头位移，绝不硬切；仅 9.6 至 11.4 秒使用硬切并加静音门。\n\n[分镜]\n0.0-1.4 循环点。镜头在水晶剑身内部穿行，裂纹、气泡与色散缓缓掠过，随后自剑刃穿出，天空豁然展开。四角框线开始延展。\n1.4-3.2 点火。摇臂沿环内缘攀升，火沿环周逐个点亮符文奔跑一圈。1.8 秒处一段符文重组为深铬阴刻的 \"ASCENSION\" 并随环转出画。进度弧起步。\n3.2-4.6 浮现。轨道绕至碎片之后，全光谱扫过镜头，她以剪影浮现，双手同握剑柄将剑垂于身前。三层符文环展开，数据列开始滚动。\n4.6-6.0 举剑。双手将巨剑举过头顶横持，回到 @image1 姿态，下颌微仰，火柱降下与剑尖相接。\"SCROLL\" 落位于画面下缘。构图锁定为首屏比例。\n6.0-7.8 接光。她将剑举迎向降下的火柱——由剑身承接，双手始终紧握剑柄绝不松手——随即全身旋转 180 度带出一记横斩。棱镜光爆炸开，UI 全线爆红。双眼仍闭合。\n7.8-9.6 坠落。她背向下坠穿过光环中心，右手单手持剑于身侧缓慢旋转，左手向上伸展，长袍如伞面张开。一镜到底，穿越瞬间全光谱填满画面。\n9.6-11.4 蒙太奇，八拍每拍 0.225 秒：一、白底铬色线稿，仅剑与双臂轮廓；二、平涂光谱色块拼贴；三、二色剪影，象牙白配纯金；四、完整渲染，一记真实的空中回旋；五、拖影帧，拉出长条残像；六、整帧负片反转，仅此一帧；七、铬色线稿叠加彩虹衍射；八、完整渲染并短暂静止。光与云的扰动八拍之间持续累积，绝不重置。\n11.4-12.6 顶点。左手回握剑柄，双手同握将剑锋钉入虚空，冲击波向外扩散。她睁开双眼——青碧色，平静，直视镜头。睫毛先分离，眼睑上抬，瞳孔收缩后放大，泪膜捕捉火柱高光，眼角一道光。日冕绽放，进度弧闭合爆亮。\n12.6-15.0 归位。她上升落回圆台，双臂举剑横于头顶回到 @image1 姿态，各环反向折叠，日冕收敛为一道金线，双眼闭合。首屏版式于左区组装、保持、溶解。\"CIA0\" 随环转入画面，被侧光扫过而显现，随后转入正光重新隐没。镜头沿剑身推进，再次进入水晶内部。最后一帧与第一帧完全一致。\n\n[动态] 重量与优雅优先于摆姿势，动作连贯绝不生硬。长袍、卷发与垂带在每次转向时滞后，布料有真实惯性与回弹。巨剑沉重，挥动时可见承力与减速。一切略带高空浮力感。云层流动与人物动作互相影响。杜绝任何僵硬、停顿或不自然的关节角度。\n\n[音频] 每个音效卡在其画面拍点的准确帧上，混音首尾相接可循环。底层：高空空气感，远处风声，极淡持续人声。\n0.0-1.4 水晶内部的封闭共鸣，极轻的晶体应力声，穿出剑刃时空气骤然开阔。\n1.4-3.2 符文逐个点亮的清脆金属点火声，沿环奔跑形成加速连音，合唱自远处涌起，铬色文字落定时一记低音。\n3.2-4.6 全光谱扫过的高频泛音，布料舒展的柔和摩擦，副环展开的层叠环鸣。\n4.6-6.0 举剑的低频蓄势，火柱降临的持续嗡鸣，剑尖相接时一声清亮长音。\n6.0-7.8 撞击。管风琴与超低频同时落下，玻璃爆裂，反向镲片渐强，警报般明亮的界面爆红音。\n7.8-9.6 坠落气压呼啸，入环骤然滤波为水下感合唱，穿出时爆发大空间混响。\n9.6-11.4 八记打击声分别卡在八拍上，合唱断奏，每拍之间硬静音门，负片帧加一记反相金属噪音。\n11.4-12.6 顶点。完整合唱、管风琴、钟声与一记低沉铜管齐鸣，睁眼那一帧落下一声清亮的钟，混音随日冕展宽。\n12.6-15.0 收束为延长的合唱长音，各环以相反节奏收拢，最终回到与开场完全相同的水晶内部封闭共鸣。\n无对白。\n\n[限制] 画面中只有一个人物，两条手臂，两只手，一把剑。人物绝不进入第 1 至 4 栏。所有拉丁文字须完全匹配 @image2 的字形。\"CIA0\" 须准确拼写，绝不发光、描边、放大或比周围符文更亮。光谱仅以折射形式出现。界面层保持铬色发丝质感，绝不越过面部。特效持续累积直至归位段。双眼仅在 11.4 至 12.6 秒睁开。无日文字符、无品牌标识、无水印、无字幕。首尾帧完全一致，两帧中都不得残留任何浮动文字。."
     },
     {
       "slug": "cinematic-luxury-skincare-product-commercial-vertical-9-591469",
@@ -528,6 +920,38 @@
       "prompt": "Create a cinematic realistic high-speed drone video over Barcelona, Spain at golden hour, using the reference image as the exact location and flight-path guide. The drone starts very low above the Barcelona cityscape, almost skimming above the foreground rooftops and streets, facing La Sagrada Família. It accelerates quickly forward over the urban landscape, following the drawn path from the foreground toward the cathedral while maintaining a very low altitude. The drone then performs a dramatic climbing curve as La Sagrada Família fills the frame, executes a close cinematic orbit around the cathedral’s iconic spires, and after the orbit, pulls back while gaining altitude before tilting and opening toward the Barcelona skyline, Mediterranean Sea, Eixample grid, surrounding historic rooftops, golden-hour reflections, distant coastline, and glowing Barcelona atmosphere.\n\nThe red drawn line must not appear in the video; it is only a hidden flight-path reference. Add powerful emotional cinematic music: deep cello melody, dramatic percussion rhythm, orchestral strings, subtle choir texture, epic rising percussion, and a grand heroic crescendo as the drone completes its orbit around La Sagrada Família and reaches the final panoramic reveal. No text, no subtitles, no logos, no graphic overlays.@Image1"
     },
     {
+      "slug": "luxury-watch-storyboard-campaign-903017",
+      "title": {
+        "en": "Luxury Watch Storyboard Campaign",
+        "zh": "奢华腕表分镜广告"
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 product-commercial prompt with attached video evidence.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+      },
+      "category": "product-commercial",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "camera-direction"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@I_amShiti",
+        "url": "https://x.com/I_amShiti/status/2083051609953903017"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/I_amShiti/status/2083051633177686503",
+        "https://x.com/I_amShiti/status/2083051646335222012"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-watch-storyboard-campaign-903017-159289899741.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-watch-storyboard-campaign-903017-2d54ae2e9819.jpg",
+      "prompt": "Here`s the storyboard\n\nTITLE: Luxury Watch Commercial Storyboard\n\nCreate a premium single-page storyboard for a luxury watch commercial.\n\nEditorial presentation board.\n\n3:4 portrait.\n\nEight cinematic storyboard frames arranged in a clean luxury grid.\n\nMinimalist Swiss-inspired design.\n\nPremium typography.\n\nBlack, silver and champagne gold color palette.\n\nProfessional creative agency presentation.\n\nEach frame should look like a film storyboard while remaining highly realistic.\n\nFrame 1:\nLuxury mechanical watch inside an elegant leather presentation box.\n\nFrame 2:\nPresentation box opens revealing the watch with dramatic golden light.\n\nFrame 3:\nExtreme macro shot of the dial, hands, gears and sapphire crystal.\n\nFrame 4:\nElegant gentleman lifting the watch before a black-tie gala.\n\nFrame 5:\nWatch being fastened onto his wrist.\n\nFrame 6:\nClose-up of the sweeping second hand catching warm reflections.\n\nFrame 7:\nFashion editorial portrait with the watch as the hero.\n\nFrame 8:\nHero product shot on glossy black marble with floating metallic particles.\n\nLuxury presentation board.\n\nAgency-quality storyboard.\n\nMinimal annotations.\n\nWhite background.\n\n8K.\n\nUse storyboard as the complete creative direction, shot list, composition, pacing, and cinematic sequence.\n\nUse LuxuryWatch as the exact product reference. Preserve the watch's design, dial, case, leather strap, proportions, materials, and fine details consistently throughout every scene.\n\nCreate a world-class luxury watch commercial."
+    },
+    {
       "slug": "nova-x-smartphone-tvc",
       "title": {
         "en": "NOVA X smartphone TVC",
@@ -588,6 +1012,39 @@
       "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/post-workout-gym-vlog.webm",
       "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/post-workout-gym-vlog.jpg",
       "prompt": "CAMERA: DV 16mm tape camcorder POV. CHASE films herself, occasionally propping the camera on a wall or gym bag. Natural handheld shake, imperfect framing, delayed focus, clumsy zooms, face occasionally cut off. Camcorder never visible.\nLOOK: Soft blurry tape aesthetic, faint tape noise, bloomed gym lights, flickering auto-exposure, muted contrast, realistic skin.\nSTYLE: Calm post-workout gym vlog. Relaxed, reflective, slightly tired but happy. Slow pacing, natural laughs.\nCHARACTER: CHASE, Korean idol (20s). Long black hair loosely tied, light post-workout glow, slim athletic build. Modest long-sleeve athletic top, loose joggers/leggings, socks or shoes off, towel around neck, no jewelry.\nSETTING: Quiet evening gym. Stretching mat, mirror wall, gym bag, protein shake, soft lighting, mostly empty.\n15s | 6 Cuts\nPropped medium: sits on mat, exhales. \"Okay, cool-down time.\"\nHandheld stretch: hamstring stretch, laughs. \"Yeah, that was a lot today.\"\nMacro: picks up protein shake, condensation visible. Ambient sound only.\nMedium: drinks shake, smiles. \"Okay, that's actually really good.\"\nClose: overhead stretch, rates workout. \"I'd give today like an eight out of ten.\"\nSelfie: grabs bag and shake, waves. \"Alright, I'm heading out—see you guys.\""
+    },
+    {
+      "slug": "jazz-noir-anime-title-sequence-652641",
+      "title": {
+        "en": "Jazz-Noir Anime Title Sequence",
+        "zh": "爵士黑色电影动画片头"
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 anime prompt with attached video evidence.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动画提示词。"
+      },
+      "category": "anime",
+      "mode": "reference-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "camera-direction",
+        "reference-image",
+        "native-audio"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@AIWarper",
+        "url": "https://x.com/AIWarper/status/2083045838377652641"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/AIWarper/status/2083378754102202636"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/jazz-noir-anime-title-sequence-652641-7e17bcde8d5c.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/jazz-noir-anime-title-sequence-652641-d32e3f4117b6.jpg",
+      "prompt": "@Arcane_Aii Using the attached reference image for the character and the attached audio track for timing, generate a jazz-noir anime title sequence in a stylized pop-art style. Every cut must land exactly on a beat of the audio — treat the track as the edit timeline.\n\nVISUAL STYLE — apply throughout:\nRender characters as flat, high-contrast black silhouettes against solid single-color backgrounds (saturated red, mustard yellow, deep blue). No naturalistic shading — each shot commits to one or two dominant colors only, like a screen-printed poster.\n\nCompose shots like comic-book panels and pulp-magazine covers: bold panel divisions splitting the frame, hard geometric shapes, dramatic off-center cropping, extreme close-ups intercut with full-body poses.\n\nUse freeze-frames as a core device: the character hits a dynamic pose (drawing a weapon, mid-stride, lighting a cigarette, turning toward camera) and the frame HOLDS completely still for one full beat before cutting. Do not smooth or interpolate through these holds — they must be dead stops.\n\nTitle typography in mid-century Saul Bass style: stark geometric letterforms, bold sans-serif, text that slides in as flat colored bars or snaps into frame on the beat.\n\nOverlay the entire sequence with heavy analog film grain, slight gate weave, and worn-print color texture — it should look like a scratched 35mm print of a 1960s jazz album cover, not clean digital animation.\n\nMOTION AND EDITING:\nAlternate between two modes — (1) fast kinetic bursts of motion (whip pans across silhouettes, rapid cut sequences, a silhouette sprinting across a solid color field) and (2) hard freeze-frame holds. The contrast between the two IS the rhythm. Cuts are hard cuts only: no dissolves, no fades, no morphing between shots. Each new shot snaps in on the downbeat with a fresh background color.\n\nEnd on the character in silhouette, frozen mid-pose against a solid red field, with the title card snapping in beside them on the final hit of the track."
     },
     {
       "slug": "dv-16mm-camcorder-vlog-with-soft-vhs-tape-quality-209852",
@@ -724,6 +1181,37 @@
       "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/mechanical-bull-charge-the-beasts-are-coming-720815.webm",
       "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/mechanical-bull-charge-the-beasts-are-coming-720815.jpg",
       "prompt": "Use the uploaded mechanical bull image as the primary reference for the bull, and use Rahul’s image as the character reference for the rider.\n\nCreate a 15-second ultra-realistic cinematic fantasy-sci-fi sequence set in The Harvester universe. The setting is a foggy ruined industrial lane at dawn or overcast light, with drifting smoke, hanging wires, broken stone and metal structures, wet ground, ash in the air, and distant furnace glow. The giant mechanical bull is ancient, battle-scarred, and alive with furnace energy inside its cracked armor.\n\n0–3s — Hook: Start with Rahul stumbling backward into frame, breathing hard, turning to face danger in the smoke behind him. The giant mechanical bull stands in front of him like a wall, half-silhouetted in steam, protecting him.\n\n3–6s: Close on Rahul placing one hand on the bull’s armored side, steadying himself. He looks at it with trust, not fear. The bull turns its head slightly toward Rahul. Its eye glows brighter, and its internal furnace begins to pulse.\n\n6–9s: A loud metallic roar echoes from somewhere in the fog ahead. The bull reacts instantly — it lowers its head, paws the ground, steam blasts from its vents, gears lock into place, and sparks spit from its chest cavity. Rahul pulls himself up and mounts the bull in one fast motion.\n\n9–12s: The bull rears slightly, then slams down hard. Rahul leans forward, gripping tight. Through the smoke ahead, we briefly see threatening silhouettes moving toward them, just enough to imply incoming enemies.\n\n12–15s — Payoff: The bull explodes forward into a full charge with Rahul riding it, smashing through smoke and embers. End on a powerful low-angle tracking shot as both disappear into the haze, charging straight toward the unseen threat.\n\nSound: deep metal groans, steam bursts, furnace rumble, distant enemy roar, hoof impact, sparks, low cinematic score.\n\nCinematography / Color Brief\n\nUse the same signature look: desaturated steel blue, charcoal grey, mist white, weathered bronze, and restrained furnace orange accents. Soft overcast light, smoky atmosphere, wet surfaces, and strong depth. Cinematography should feel premium and mythic: low angles, slow dramatic push-ins, tactile detail, subtle shake, sharp realism, and heavy scale."
+    },
+    {
+      "slug": "ringside-phone-footage-boxing-knockout-221043",
+      "title": {
+        "en": "Ringside Phone-Footage Boxing Knockout",
+        "zh": "拳台边手机实拍击倒"
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 action prompt with attached video evidence.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动作提示词。"
+      },
+      "category": "action",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "9:16",
+      "ingredients": [
+        "camera-direction"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@johnAGI168",
+        "url": "https://x.com/johnAGI168/status/2083033353679221043"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/johnAGI168/status/2083033507278790722"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/ringside-phone-footage-boxing-knockout-221043-cf76d3103f6a.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/ringside-phone-footage-boxing-knockout-221043-0ef2df0bcaf0.jpg",
+      "prompt": "@Hailuo_AI prompt：\n【风格】UGC拳赛现场实拍（Ringside Phone Footage），真实手机竖屏手持质感（9:16 Vertical, Handheld），现场生肉感：数码变焦、轻微失焦、运动模糊、闪光灯频闪，无滤镜无调色的直出画面\n【时长】15秒\n【场景】室内拳击馆比赛之夜：正规拳台、四周围绳、台上顶灯直打，台下观众黑压压一片举着手机，闪光灯此起彼伏，拍摄者站在台边第二排人群里手持手机拍摄\n【角色】主角1@图片1（黑袍蓝边战袍方，脱袍后黑色拳裤黑手套）、主角2@图片2（白袍绿边战袍方，脱袍后白色拳裤白手套）\n【拍摄机制】全片一镜到底的手机手持视角：画面始终带轻微手抖和呼吸晃动，关键时刻拍摄者会猛推数码变焦怼近、短暂失焦再对上，激烈处镜头被前排观众起身遮挡半秒又找回角度——所有\"不完美\"都是真实感的来源\n\n[00:00-00:03] 开局试探\n手机视角越过前排观众的后脑勺拍向拳台：铃声\"铛\"一响，两人从各自角落逼近，主角1压低重心左右晃动寻找角度，主角2双拳护脸小步游走，两人互相试探刺拳，拳套相碰发出闷响。\n【现场音】铃声、观众嘈杂人声、拍摄者身边有人喊\"打他！\"\n\n[00:03-00:07] 第一波对攻\n拍摄者猛推数码变焦怼近：主角1突进一记左刺拳接右摆拳，主角2侧头闪过、贴身回敬两记摆拳组合，两人拳套砰砰互击、汗珠在顶灯下甩出，画面因变焦过快糊了半秒又对上焦。\n【现场音】拳套击打的连续闷响、观众爆发的\"哦——！\"、拍摄者忍不住的一声\"卧槽\"。\n\n[00:07-00:10] 缠斗与遮挡\n两人进入贴身缠斗互相抱架，裁判上前分开——此时前排观众激动起身，手机画面被后脑勺挡住一瞬，拍摄者手忙脚乱举高手机越过人头继续拍：两人分开各退半步，主角2抹了把脸，主角1活动了下脖子。\n【现场音】裁判喊\"Break！\"，人群骚动声浪盖过一切。\n\n[00:10-00:13] 高潮重击\n举高俯角视角：主角2抢先出重拳，主角1一个下潜躲过，起身瞬间一记右上勾拳结结实实顶中主角2下巴——主角2整个人晃了两晃、踉跄后退撞上围绳滑坐到台面，全场瞬间炸裂，闪光灯连成一片。\n【现场音】重击一声爆响后观众声浪掀顶，拍摄者激动大吼，手机剧烈晃动。\n\n[00:13-00:15] 终场定格\n画面抖着拉回全景：裁判冲上前查看，主角1退到中立角高举双拳，台下无数手机屏幕的亮光连成星海，拍摄者边喊边把镜头怼向台上，画面在主角1振臂的糊焦瞬间定格。\n【现场音】欢呼、口哨、有人狂拍前座椅背，收束在鼎沸人声里。\n\n【备注】全片保持手机直出的粗粝感：允许过曝的顶灯、糊焦、拖影和构图歪斜，禁止任何电影感调色和稳定器丝滑运镜；击打动作写意图和结果（命中、踉跄、坐地），保持竞技体育范畴，无出血无伤情特写"
     },
     {
       "slug": "wake-up-we-hunt-mechanical-bull-mount-700581",
@@ -1189,6 +1677,39 @@
       "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/seamless-loop-cinematic-warrior-blade-reconstruction-513162.webm",
       "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/seamless-loop-cinematic-warrior-blade-reconstruction-513162.jpg",
       "prompt": "@Image1  15s | 16:9 | 1440p | 24fps | PERFECT SEAMLESS LOOP  [REFERENCE LOCK] Render exactly as @image1. Preserve the character exactly as shown. Do not redesign, reinterpret, or modify any aspect of her appearance.  Do NOT alter her hairstyle, bangs, facial proportions, eye color, expression, clothing, coat silhouette, sash placement, body proportions, sword guard, hilt ornament, blade length, or overall composition.  The character must always remain holding the sword throughout the entire sequence. The sword never leaves her hand.  ---  [LOOP DESIGN]  Create a mathematically perfect infinite loop.  Frame 1 and Frame 360 must match perfectly.  Maintain identical: • Pose • Camera angle • Lens • Lighting • Sword position • Character expression • Particle placement • Composition  The sword continuously shatters and reconstructs while remaining in the character's grip, creating an endless cycle with no visible transition.  ---  [COLOR PALETTE]  Background: Smooth vertical gradient  Top: Luminous Cyan-Teal (#2AA6B4)  Bottom: Deep Petrol (#0F4A55)  No environment. No horizon. No props. Only a clean cinematic graphic backdrop.  Character  Coat: Bright Coral (#FF9273)  Inner Garment: Deep Ocean (#14454E)  Hair: Natural black with subtle blue-white rim highlights.  Metal & Glass: Bright silver-white.  Accent colors appear ONLY through light refraction and chromatic dispersion.  Gold (#FFD27A)  Electric Cyan (#6FE3F5)  Soft Magenta (#FF9ED8)  The main palette must always dominate.  ---  [VISUAL STYLE]  Premium 2.5D Anime High-end cinematic illustration Ultra-clean rendering Feature-film quality  Bright high-key lighting  Elegant bloom  Sharp specular highlights  Volumetric glow  HDR dynamic range  Soft filmic contrast  Luminous skin with subtle subsurface scattering.  Heavy cotton twill coat with realistic cloth simulation.  Hair moves naturally in layered strands with soft flyaways.  Glass has authentic thickness, edge refraction, internal fracture lines, microscopic scratches, and realistic prism reflections.  ---  [EFFECTS]  Progressively increase visual intensity.  • Time Echo Motion Trails  • Liquid Mercury Blade Reconstruction  • Kaleidoscope Mirror Fractures  • Shockwave Refraction  • One-frame Negative Flash  • Glass Crack Frame Wipes  • Reverse Gravity Debris  • Chromatic Dispersion  • Dynamic Caustic Lighting  • Floating Crystal Dust  • High-speed Light Trails  • Micro Lens Distortion during impacts  Effects should evolve naturally and never become repetitive.  ---  [CAMERA]  Premium anamorphic cinema language.  85mm intimate close-ups  35mm cinematic medium shots  24mm aggressive dynamic movement  Oval bokeh  Blue anamorphic streak flares  Subtle barrel distortion  180-degree shutter  Depth of field shifts emotionally.  Shallow during hero moments.  Deep during action moments.  Rack focus:  Blade → Eyes at 2.4s  Blade → Eyes at 14.2s  Smooth cinematic easing with invisible acceleration.  ---  [LIGHTING]  Hard cinematic sunlight originates from screen-right behind the character.  Strong rim lighting illuminates  Hair  Jawline  Shoulders  Sword edge  Soft cyan bounce light fills from the background.  Floating shards cast constantly changing colored kick lights.  Shadows remain soft, open and cinematic.  Brightness peaks around 10.4 seconds before gradually returning to the exact opening lighting by 15 seconds.  ---  [SWORD ENGRAVING]  A finely engraved  CRYPTOSAM  appears on the ricasso directly above the sword guard.  Small letter-spaced capital letters carved directly into polished steel.  This engraving is part of the blade itself.  Never an overlay.  Visible in Frame One.  Visible throughout the animation.  Visible after every blade reconstruction.  The engraving catches the sunlight whenever the camera glides across the blade.  ---  [GLASS SHARDS]  Every shard reflects a different scene.  Examples include  Blue sky  Soft white clouds  Golden wheat fields  Warm sunset  Lens flares  The character's own reflection  Moments that have not yet happened  No empty glass.  Every fragment contributes to the visual storytelling.  ---  [KINETIC TYPOGRAPHY]  Typography exists behind the character on the gradient background.  Use only premium cinematic condensed sans-serif fonts.  Animated with  Impact slams  Scroll reveals  Prism sweeps  Glass shattering  Shockwave distortion  Perspective warping  Never cover the character's face.  Timeline  0.8s  \"REFLECTION\"  Coral → Gold  2.2s  \"A BLADE THAT BREAKS\"  \"AND REFORGES FOREVER\"  Pale Cyan → White  5.0s  \"ONE IMAGE\"  \"FIFTEEN SECONDS\"  White → Coral  7.2s  \"EVERY SHARD REMEMBERS\"  Cyan → Magenta → Gold  10.6s  \"NO CUT\"  Gold → White  Warp under expanding shockwave.  13.2s  \"MIRRORFALL\"  Silver → Pale Gold  Soft coral glow.  Typography completely dissolves before 15 seconds.  ---  [SHOT 01]  0.0–1.6s  LOOP ANCHOR  The character firmly grips the sword with both hands.  An ultra-fast macro camera races along the polished blade toward the hilt.  Cloud reflections glide across the steel.  An anamorphic flare slides along the cutting edge.  The engraved word  CRYPTOSAM  briefly catches the sunlight.  Without releasing the sword, the blade suddenly fractures into thousands of crystalline shards while the hilt remains firmly in her hands.  A glass-crack transition wipes into the next shot.  ---  [SHOT 02]  1.6–3.2s  BULLET-TIME ORBIT  Time freezes.  The character remains perfectly still while tightly holding the sword hilt.  The shattered blade floats in front of her hand.  The camera performs a smooth 180-degree orbit through the suspended crystal field.  Each shard reflects a different reality.  Reverse-gravity debris hangs motionless.  As the orbit finishes, time resumes and the floating shards accelerate back toward the hilt, beginning to reconstruct the blade directly in her grip."
+    },
+    {
+      "slug": "beat-synced-k-pop-multimodal-mv-043716",
+      "title": {
+        "en": "Beat-Synced K-Pop Multimodal MV",
+        "zh": "节拍同步 K-Pop 多模态 MV"
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 music-video prompt with attached video evidence.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+      },
+      "category": "music-video",
+      "mode": "reference-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "camera-direction",
+        "native-audio",
+        "timed-beats"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@aisearchio",
+        "url": "https://x.com/aisearchio/status/2082932693613043716"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/aisearchio/status/2082932695479517354"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/beat-synced-k-pop-multimodal-mv-043716-54c0a54b87f1.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/beat-synced-k-pop-multimodal-mv-043716-62b79925bee5.jpg",
+      "prompt": "Make an MV from Audio1 . Show these Kpop members from Image1 singing and dancing to the music. Add coarse grain, glitch effects, and grunge effects. Keep the edit fast and use hard cuts only—no fades or soft transitions. Cuts should occur within 3 seconds. Make the cuts based on the beat of the song. Use the typographic reference from Image2"
     },
     {
       "slug": "kaldr-cold-perfume-commercial-multi-reference-943073",
@@ -1862,6 +2383,38 @@
       "prompt": "Style: dark-rap -rap music video with photoreal high-fashion polish and the texture of a scanned film magazine—high contrast without looking cheap. film scans, underground-music posters, and zine collage. Add coarse grain, subtle gate weave, halftone dots, rough print edges, and slight scan misregistration. Keep the edit fast and use hard cuts only—no fades or soft transitions. Match the typographic treatment and surface texture of the reference images."
     },
     {
+      "slug": "storm-cliff-golf-physics-challenge-037151",
+      "title": {
+        "en": "Storm-Cliff Golf Physics Challenge",
+        "zh": "风暴悬崖高尔夫物理挑战"
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 action prompt with attached video evidence.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动作提示词。"
+      },
+      "category": "action",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "camera-direction",
+        "native-audio"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@Dheepanratnam",
+        "url": "https://x.com/Dheepanratnam/status/2082799981426037151"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/Dheepanratnam/status/2082799984055906687"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/storm-cliff-golf-physics-challenge-037151-d69ed1c1be4c.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/storm-cliff-golf-physics-challenge-037151-6f6ccf8c0ac1.jpg",
+      "prompt": "Minimax H3 Prompt\n\nA dramatic sports sequence begins on a lush, windswept coastal cliff during a violent rainstorm. A golfer in bright yellow rain gear stands on the tee box, gripping a driver. His stance is planted firmly, eyes locked on a distant green across a churning ocean cove. As he swings, the clubhead connects with a resounding crack, launching the dimpled white ball into the stormy sky. The camera immediately accelerates and locks onto the golf ball mid-flight. The camera tracks directly behind the spinning sphere, maintaining perfect alignment as it cuts through the driving rain. The ocean waves and dark clouds become a streaking motion blur while the ball remains sharp and centered. The howling wind roars as the projectile travels straight and true. The manicured green grows rapidly larger. In the final seconds, the camera closes in tightly as the ball strikes the turf. End on an extreme close-up of the ball ripping through the wet grass, throwing up a spray of dirt before dropping perfectly into the cup."
+    },
+    {
       "slug": "pizza-night-ugc-domino-s-vlog-197798",
       "title": {
         "en": "Pizza night UGC Domino’s vlog",
@@ -2259,6 +2812,41 @@
       "prompt": "Two characters arguing in English. Make the emotion feel very realistic  angry, tense, the friction between them should be palpable. Shaky handheld camera. No music."
     },
     {
+      "slug": "seamless-warrior-sword-reflection-loop-874724",
+      "title": {
+        "en": "Seamless Warrior Sword Reflection Loop",
+        "zh": "武士剑影无缝循环"
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 fashion prompt with attached video evidence.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3时尚提示词。"
+      },
+      "category": "fashion",
+      "mode": "reference-to-video",
+      "duration": "30s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "camera-direction",
+        "reference-image",
+        "native-audio",
+        "timed-beats"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@Cia0_exe",
+        "url": "https://x.com/Cia0_exe/status/2082774526098874724"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/Cia0_exe/status/2082774668562538636",
+        "https://x.com/Cia0_exe/status/2082774703597650368"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/seamless-warrior-sword-reflection-loop-874724-8c6fd235ee6b.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/seamless-warrior-sword-reflection-loop-874724-2ae99518ad9c.jpg",
+      "prompt": "Prompt #MiniMaxH3 in Chinese:\n\n@image1\n\n15s | 16:9 | 1440p | 24fps | SEAMLESS LOOP\n\n[LOCK] Render exactly as @image1. 完全按照该参考图呈现，不进行任何重新设计。Do not alter hair, bangs, eye color, coat silhouette, sash, hilt ornament, or blade proportion.\n\n[LOOP] A perfect cycle. The final frame must match frame one exactly — same composition, focal length, lighting, blade position and pose — so playback runs endlessly with no seam. The story is a blade breaking and unbreaking forever.\n\n[PALETTE] Background: smooth vertical gradient, luminous cyan-teal #2AA6B4 top into deep petrol #0F4A55 bottom — a graphic plane, no environment, no horizon, no props. Coat bright coral #FF9273. Inner garment #14454E. Hair true black with blue-white highlights. Metal and glass bright silver-white.\nAccents as refracted light ONLY, never flat fill: gold #FFD27A, cyan #6FE3F5, magenta #FF9ED8. Core palette always dominates.\n\n[STYLE] 2.5D anime, bright cinematic. High-key, generous bloom, crisp speculars, luminous not grim. Skin luminous with subsurface warmth at ears and fingertips. Coat as heavy matte cotton twill, deep folds. Hair in clumped strands with flyaways catching the rim. Glass with real thickness — edge refraction, internal fracture lines, micro-scratches.\n\n[EFFECTS] Escalating: time-echo ghosting trailing every fast move, each afterimage a different accent; liquid mercury flow as the blade sets; kaleidoscope fracture splitting the frame into mirror symmetry; shockwave refraction warping the background and bending the type; one-frame negative invert on hard impacts; glass-crack frame wipes; reverse-gravity debris; prismatic dispersion off every shard edge casting moving caustics across her face and coat.\n\n[CAMERA + LIGHT] Anamorphic — oval bokeh, blue streak flares, slight barrel distortion wide. 85mm close, 35mm wide, 24mm on moves. 180-degree shutter. Shallow focus on hero beats, deep on montage frames. Rack focus blade-to-eyes at 2.4s and 14.2s.\nHard sun key from screen right, high and behind — bright rim on jaw, shoulder and blade edge. Broad cyan bounce fill off the background plane. Kicker thrown by the shards, hue shifting each beat. Shadows open, never crushed. Brightest at 10.4, back to the opening state by 15.0.\n\n[SIGNATURE] A fine engraved CIA0 sits on the blade's ricasso above the hilt, small letter-spaced capitals cut into steel, catching the key light as the camera races past in the opening shot. Part of the blade, not an overlay — present in frame one, in the final frame, and on the reforged blade at 14.4s.\n\n[SHARDS] Vary reflected content shard to shard: blue sky with cumulus, sunlit golden farmland, a low sun with lens flare, a fragment of her own face, pure white cloud. A few reflect a beat that has not happened yet. Never blank glass.\n\n[TYPE] Behind her on the gradient plane. Condensed sans for Latin, brush-weight for Japanese. Gradient fill, soft glow, hard offset shadow. Kinetic — slams, scrolls, shatters, warps under shockwaves. Never covers her face. Japanese runs VERTICAL in a side third; Latin STACKED, two lines max, cropped by frame edge for scale.\n0.8s 「鏡」 coral into gold\n2.2s \"A BLADE THAT BREAKS\" / \"AND UNBREAKS FOREVER\" pale cyan into white\n5.0s \"ONE IMAGE\" / \"FIFTEEN SECONDS\" white into coral\n7.2s 「反射」 diagonal prism sweep, cyan-white-magenta-gold\n10.6s \"NO CUT\" gold into white, warping under the shockwave\n13.2s title 「鏡落」 above \"MIRRORFALL\", silver into pale gold, coral glow — must fully dissolve before 15.0\n\n[SHOTS]\n0.0-1.6 LOOP POINT. Extreme close-up racing along the blade flat toward the hilt, clouds streaking on steel, flare sliding down the edge, the engraved mark passing through frame. Blade detonates. Glass-crack wipe.\n1.6-3.2 BULLET-TIME ORBIT. Time freezes on the detonation; camera arcs 180 degrees through the suspended shard field, threading between fragments, debris hanging in reverse gravity. Motion resumes as the arc completes.\n\n@Image1 3.2-4.8 TOP-DOWN CRANE. Bird's eye directly above; shards lock edge-on into a ring around her, then the camera drops fast down the vertical axis into a low hero angle as the ring fires outward.\n4.8-6.6 MIRROR PORTAL, one take, no cut. Camera pushes into the reflection inside a single shard, passes through, emerges behind her at a new angle. Time-echo ghosts trail her lunge.\n6.6-8.4 SPIKE. Kaleidoscope fracture splits the frame into sixfold symmetry, resolves, and duplicates of her peel out of the shard surfaces, each trailing a different accent. Max two of her in frame. Extreme dutch angle.\n8.4-10.4 SAKUGA MONTAGE. One exchange per frame: line-art on flat cyan, two-color coral-teal silhouette, heavy smear frame, one-frame negative invert, full render. Debris accumulates, never resets.\n10.4-12.4 ESCALATION. Camera barrel-rolls a full 360 pushing in low. A shard catches an incoming strike, splits it into spectrum, fires it back doubled — the shockwave warps the background and bends the type.\n12.4-15.0 REVERSAL. Literal time reversal in slow motion. Debris rises, cracks close, light retreats, shards spiral back along her arm and flow together as liquid mercury before setting into one unbroken blade, the engraved mark resolving last. Camera eases into the exact opening framing. Final frame matches frame one.\n\n[MOTION] Momentum over posing. Cloth, hair and coat lag every direction change. Wrist and grip rotate with the blade, weight carries through footwork. Speed ramp each beat — slow wind-up, fast snap, settle. 杜绝任何僵硬、停顿或不自然的关节角度。\n\n[AUDIO] Every cue on the exact frame of its beat. The mix loops as cleanly as the picture. Bed: open air, bright wind, thin sustained glass resonance.\n0.0-1.6 rising metallic ring, crystalline detonation on the break frame.\n1.6-3.2 filtered vacuum for the frozen orbit, faint chimes and a low drone panning with the arc, rush as motion resumes.\n3.2-4.8 hard glass snap on the lock frame, deep whoosh on the drop, wide fan of air as the ring fires.\n4.8-6.6 pressure drop entering the shard, muffled interior tone, sharp release on the exit.\n6.6-8.4 stuttering echo as the kaleidoscope splits, sub-bass swell, one chime per duplicate.\n8.4-10.4 staccato impacts locked frame-for-frame to the cuts, glass cracking, blade screech, hard gate on the invert frame.\n10.4-12.4 doppler roll following the barrel turn, spectral riser on the split, doubled bright impact out.\n12.4-15.0 the mix runs in reverse — reversed chimes, glass reassembling, liquid metallic pour, resolving into the opening ring.\nMusic: glass bells and plucks in at 3.2, strings rise at 6.6, choir swell peaks at 10.4, reversing from 12.4 back into its first note. No dialogue.\n\n[LIMITS] Max two figures. Accents as refracted light only. Effects accumulate until the reversal. All type carries its gradient. First and last frame identical, no floating type in either. Engraved mark reads CIA0, spelled exactly. No logos, watermarks, or extra subtitles. No environment. Never let the frame go dark or desaturated."
+    },
+    {
       "slug": "radio-operator-evacuation-bridge",
       "title": {
         "en": "Radio operator evacuation bridge",
@@ -2593,6 +3181,38 @@
       "prompt": "CANYON WINGSUIT THREAD WORLD BUILD A wingsuit pilot threading an impossible canyon route through ancient stone monuments during sunrise wind. Fear, precision, airspeed. LOOK BIBLE Ultra-wide cliff geography, warm edge light, cold shadows in canyon depth, fast ground blur, rock texture crisp near passes. HERO LOCK A female wingsuit pilot in matte black-and-copper suit, mirrored visor, compact oxygen rig. SOUND BED Wind shear, cloth tension, breathing through mask, stone flyby roar, pebble cascades from near misses. BEAT GRID 0–3s The camera drops with her off a sandstone arch into open canyon air, her body flattening into glide posture. 3–6s It locks just behind her shoulder as she skims a rock wall close enough to brush dust from it. The canyon splits ahead. 6–10s She angles through the narrower gap between two suspended stone bridges, sunrise blasting through the opening and turning the walls into streaks. 10–15s She flares hard above a hidden oasis basin and shoots through the center of a ruined archway, exiting into full gold morning light over still water. OUTPUT LOCKS No parachute deployment. Keep it pure wingsuit glide. Speed always readable."
     },
     {
+      "slug": "empty-suit-stop-motion-assembly-854152",
+      "title": {
+        "en": "Empty Suit Stop-Motion Assembly",
+        "zh": "空西装定格组装"
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 cinematic-story prompt with attached video evidence.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+      },
+      "category": "cinematic-story",
+      "mode": "text-to-video",
+      "duration": "12s",
+      "aspectRatio": "5:6",
+      "ingredients": [
+        "camera-direction",
+        "timed-beats"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@lukasersil",
+        "url": "https://x.com/lukasersil/status/2082727329390854152"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/lukasersil/status/2082727332637290602"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/empty-suit-stop-motion-assembly-854152-f88cb4181bff.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/empty-suit-stop-motion-assembly-854152-475cb8c1a69b.jpg",
+      "prompt": "Static locked-off camera, no zoom, no pan, no handheld drift. The frame never moves.    Open on an empty landscape: flat azure sky, six soft cumulus clouds drifting slowly, a   band of ochre and green eroded hills along the bottom. Nothing else. Hold this for a beat.    Then the composition assembles itself, piece by piece, in surreal stop-motion cadence:    First, a torso rises into frame from the bottom edge: a man in a flecked brown tweed   jacket, white collar, dark tie. It settles and locks.    Above the collar, a vertical column starts growing upward from nothing: dark earth,   roots, dried vegetation and moss, building like soil stacking against gravity.    Chunks fly in from the frame edges and snap into the column with weight: coral and   fungal growths in salmon pink, chartreuse and rust from above; a large blue elephant   head with a visible eye and pale tusks sliding in from the right; branching red vascular   coral whipping in from the right edge.    The face parts land last and land hard: a huge glossy red fleshy mouth with white teeth   locks into the lower half, its trunk-like red tongue curling into a tight loop; a second   inverted red mouth snaps into the upper half.    Final details settle: a brown and orange moth wing unfolds at the upper right, small   pink petal-like slices freeze mid-flight on the left with fine particles suspended   around them, a small blue elephant figure tucks into the crown.    The clouds keep drifting behind and through the structure the entire time, unbothered.    Everything comes to rest in a still, balanced composition. Only the clouds move.    Photoreal 3D render, hyperreal wet organic surfaces, hard midday light, deep saturation,   crisp shadows. Surrealist portrait, Magritte staging. 12 seconds, 5:6 vertical."
+    },
+    {
       "slug": "buddhist-monastery-courtyard-at-dawn-mist-drifting-betw-411584",
       "title": {
         "en": "Lightning God at a Shaolin Monastery",
@@ -2817,6 +3437,39 @@
       "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/armored-swordswoman-rock-plateau-action-sequence-009447.webm",
       "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/armored-swordswoman-rock-plateau-action-sequence-009447.jpg",
       "prompt": "@image1 完全按照参考图呈现,不重新设计角色。面部五官比例、金色浮雕铠甲纹样、服装剪裁与巨剑造型,全片保持严格一致,不因动作幅度、镜头角度或光线变化产生偏差。\n\n武器锁定:全片只使用这把巨剑,不出现任何其他武器或道具。\n\n场景:高处开阔的灰白岩石台地,四周散布着大小不一的巨岩,最远处矗立一块屋子大小的黑色巨岩。天空是清透的灰蓝色,浮着几片白云。侧向强光在岩石上投下长影。空气中悬浮着细小浮尘,被光线照出颗粒感;岩缝间偶有暗红余烬般的光点隐约明灭。\n\n剑的机制:剑身表面是焦黑的炭质外壳,壳下裂缝中流动着橙红熔岩,流速与亮度随她的发力实时联动——蓄力时如心跳般规律搏动,全力挥砍前的瞬间由暗转亮。剑尖始终有熔融的橙红液滴缓慢垂落,落地后凝成一小块暗红结晶。每完成一次切割,炭壳裂缝会略微扩大、露出更多内部熔光,全片末段剑刃发光面积明显多于开场,形成清晰的能量攀升弧线。\n\n切割效果铁律:她的剑不是劈开岩石,而是熔穿它。每一道切口必须呈现完整过程——刃口经过处岩面先烧成暗红并向内塌软,断面呈现熔融的橙红发光切面并挂着流动的熔滴,岩块随后才顺着切面滑开分离,分离时切面之间拉出细长的熔融丝线。切割瞬间偶有细小岩屑因高温爆裂点状飞溅,带着橙色光点划出短促弧线。所有发光切口在全片持续发亮不熄灭,断面的橙红光晕实时照亮她的铠甲表面与周边岩壁,形成随光源移动的动态反光;岩石落地时溅出的熔渣与火星留在地面累积。\n\n视觉效果:挥剑时刃后拖出扭曲空气与橙红热痕;高温使剑刃周围空气持续升腾扭曲;熔滴落地激起细小火星与青烟,余烬如萤火虫般在空中缓慢飘升;岩石碎块被斩飞时带着燃烧的边缘旋转;切割瞬间自切口喷出一道细长白炽气流,剑刃全亮时刃线周围溢出轻微白色光晕;她的发丝与衣摆被上升热气不均匀地掀动,呈现不对称的飘动。命中瞬间插入纯白冲击帧,全片共两次(4.5-6秒与10.5-12.5秒)。高速动作段落(1.5-3秒、3-4.5秒、7.5-9秒、10.5-12.5秒)叠加笔刷质感速度线与三重残影,缓慢或静态镜头不套用此效果。\n\n动作原则:视线先到、剑刃后到。挥剑前肩膀先转、腰胯发力、手臂最后到位,收势时手腕再补一记轻甩为刃部增速。每次落剑后剑尖因巨剑重量继续下沉半拍;大力劈砍后她的躯干会顺着剑势多转一点角度才收住,呈现真实惯性与延迟,而非机械式一刀归位。落地时膝盖沉降缓冲、脚尖抓地。她全程双手与单手交替持握,换手时剑柄在掌中转半圈。呼吸与发力同步——蓄力时短促吸气,发力瞬间从齿间压出短促吐息,大招前肩背明显起伏。每一击节奏不完全相同:部分快、脆、一闪而过,部分沉、重、带延迟惯性,避免全片动作节奏单一化。\n\n风格:2.5D剧场版动漫,赛璐璐上色配厚涂光影,线条锐利。冷色调环境(灰白岩石、灰蓝天空)与炽热橙红剑光形成互补色对比。模拟35mm变形宽银幕镜头:横向椭圆散景、浅景深。16:9,4K,24帧,15秒。镜头每1.5秒换一个角度,不重复。\n\n声音:熔岩流动的低沉咕噜声、炭壳开裂的细碎脆响、巨剑破空的沉重呼啸、岩石熔穿时的滋滋声、岩块滑开与落地的闷响、熔滴滴落的轻响、冲刺时靴底碾过碎石的摩擦声、她的呼吸与发力吐息。没有音乐。\n\n0-1.5秒 微距特写,浅景深:镜头贴着剑身缓慢滑过,焦黑炭壳裂缝里橙红熔岩如心跳般规律搏动,一颗熔滴垂落拉长后坠地溅起火星。焦点后拉,她双手握住剑柄,指节逐一收紧,黑色指甲压进缠绳。她垂眼看向第一块巨岩,瞳孔微微收紧锁定目标。\n\n1.5-3秒 侧面平移追踪,与她同速:右脚踏前瞬间脚跟先着地抓稳,腰胯先转带动双臂甩出,巨剑横向扫过第一块巨岩。刃口经过处岩面瞬间烧成暗红塌软,断面亮起熔融橙光,细小岩屑带火星四溅。岩石停半拍后顺切面滑开两半,切面间拉出数条熔丝,橙光映上她的铠甲侧面。她收剑时剑尖因重量继续下沉半拍。\n\n3-4.5秒 低角度仰拍:两块巨岩立于她两侧。她脚尖为轴原地半旋,双手举剑过顶,先是一记快、脆的斩击劈向左侧,再借剑势惯性沉重地回身劈向右侧,一快一重形成节奏对比。两道切口几乎同时亮起,四块岩体外滑砸地,溅起熔渣青烟,几缕余烬缓缓升起。她落定时双膝微屈,发丝被热气不均匀地掀向一侧。\n\n4.5-6秒 极近垂直特写:她双臂完全伸展将剑举过头顶,肩背明显收紧蓄力,剑身裂缝里熔岩流速骤然加快、亮度提升。随即整个躯干下沉发力垂直劈落,牙关咬紧、短促吐息喷出——剑刃自高大立岩顶端一路熔穿至底部,岩体沿切面倒向两侧,切口喷出细长白炽气流。插入纯白冲击帧,镜头随冲击轻微震动。\n\n6-7.5秒 侧向缓慢横移,体积光穿过热气:她剑尖点地稍作停顿,肩膀剧烈起伏,呼出一口白气,重心在两脚间轻轻晃动找回平衡。镜头横移扫过身后——三处切口仍明亮燃烧,熔滴缓缓垂落,地面已积起暗红结晶与青烟,橙光在她脸颊与铠甲上跳动反射。剑柄在掌中转半圈换到另一只手。\n\n7.5-9秒 高速环绕加速:数块小岩石被她一脚踢向空中。她双脚蹬地纵身跃起,膝盖微收加快转速,空中旋身一圈连续挥剑四次,每一击手臂完全伸展并在末端补一记手腕轻甩——每块岩石被熔穿的瞬间亮起橙色断面,燃烧的边缘"
+    },
+    {
+      "slug": "concrete-plaza-kickflip-drop-082714",
+      "title": {
+        "en": "Concrete-Plaza Kickflip Drop",
+        "zh": "混凝土广场尖翻落地"
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 action prompt with attached video evidence.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动作提示词。"
+      },
+      "category": "action",
+      "mode": "reference-to-video",
+      "duration": "10s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "camera-direction",
+        "reference-image",
+        "native-audio"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@eijo_AIart",
+        "url": "https://x.com/eijo_AIart/status/2082684613475082714"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/eijo_AIart/status/2082684616155271248"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/concrete-plaza-kickflip-drop-082714-d5ce5bc1daa2.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/concrete-plaza-kickflip-drop-082714-9305983cf0b5.jpg",
+      "prompt": "プロンプト\n\nSCENE CONTEXT Late afternoon, empty two-level concrete plaza. A young woman skateboarder rolls along the raised upper deck to its edge and launches off the TOP of a 10-step stair set with a kickflip, clearing the whole drop in one jump and landing on the lower plaza below. She travels downward from takeoff to landing.  ACTIVE REFERENCES @image1 — young woman skateboarder, long straight black hair with one bright cobalt-blue streak falling on the left side of her face, blunt fringe across the eyebrows, thin black winged eyeliner, freckles over both cheeks. 100% matches the reference.  LOCATION MAP Two levels. She rides the raised UPPER deck: pale polished concrete with black urethane scuff arcs. The upper deck ends at a hard edge, and that edge is the top step of a 10-step stair set descending away from her, chipped steel nosing, matte black handrail on the left. The LOWER plaza sits one human height below, flat open concrete, and is the landing. Beyond it: shuttered glass frontage receding into depth, haze 15% at 30 meters. Low sun at the far left, 15 degrees up, shadows raking left to right. Sunlit concrete warm bone-grey, stair treads cool blue-grey in shadow; the cobalt streak and the handrail carry the only saturated notes.  FIRST FRAME / BLOCKING Frame one is already moving: she is mid-push on the upper deck, right foot swinging back to the tail, board rolling camera-left to camera-right, camera beside her. Past her the deck edge cuts across frame and the lower plaza opens below it, so the ground visibly drops away in the direction she is heading.  FORMAT MODE Timed multishot, five beats. Cuts land only at 2.4s, 3.8s, 7.0s and 9.0s and the camera does not cut on its own.  OPTICS CUT 1 — LENS LOCK 180 degrees fisheye, barrel distortion, WS at wheel height. CUT 2 — LENS LOCK 84 degrees wide rectilinear, WS angled down over the edge. CUT 3 — LENS LOCK 47 degrees neutral, WS full profile of the descent. CUT 4 — LENS LOCK 63 degrees observational, MS to WS low on the landing. CUT 5 — LENS LOCK 18 degrees portrait compression, MCU. LENS CHECK at each cut: FOV as stated, no drift mid-segment.  CAMERA Operator on her right flank, the shadow side, half a beat behind her. CUT 1 — upper deck, glides at 22 km/h level with the trucks, 20 cm ride height, 1 to 2 cm handheld tremor. CUT 2 — upper deck behind her right shoulder, chest height, tilted DOWN 25 degrees so the stair descent and the landing fill the bottom half of frame. CUT 3 — right of the stairs at top-step height, tracking the descent at 3 km/h lateral, focus on the board. CUT 4 — lower plaza, 30 cm off the ground, tilted UP 20 degrees at the stairs above, rising 40 cm as she rolls out. CUT 5 — eye level, slow push from chest to face at 2 km/h.  ACTION 0.0s to 2.4s — CUT 1. On the upper deck she pushes twice, back foot slapping the deck and returning to the tail, rolling at 22 km/h toward the edge. Wheels rumble over the seams. The lower plaza is visible dropping away ahead of her. 2.4s HARD CUT 2.4s to 3.8s — CUT 2. From behind her, the 10-step drop and the landing lie in the lower half of frame. She sinks into a deep crouch, eyes down on the landing, slides her front foot to the bolts and snaps the tail down. The board pops and she leaves the top edge into open air above the steps, the ground now far beneath her feet. 3.8s HARD CUT 3.8s to 7.0s — CUT 3. Full profile of the descent, slow motion at 40 percent speed. She enters at the upper left of frame at the top step and travels down and to the right on a falling arc, the 10 steps passing beneath her, the landing waiting in the bottom right. Her front foot flicks off the nose edge and the board rotates one complete 360-degree roll along its long axis as she falls, knees tucked, arms wide. The griptape comes back under her feet and she catches it over the bolts, wheels aimed down. 7.0s HARD CUT 7.0s to 9.0s — CUT 4. Real time. She drops in from the top of frame, out of the air, and all four wheels bite the lower plaza at once with a hard slap. Her knees compress deep and absorb the drop, and she rolls away camera-right at 20 km/h, the stair set standing above and behind her. 9.0s HARD CUT 9.0s to 10.0s — CUT 5. Real time. Rolling out, she turns her head back over her left shoulder and looks UP at the stairs she came off, holds one beat, faces forward.  PERFORMANCE Pore-level skin realism, living eyes with a hard catch-light from the low sun. On the run-up her jaw is set, eyes down on the landing far below. On landing the impact travels through her shoulders, she blinks once, then exhales and her mouth lifts barely at one corner.  PHYSICS Real board mass: the deck flexes and rebounds on landing, wheels squash against the concrete. From the pop onward she only loses altitude, falling on a clean gravity parabola while forward inertia carries her out over the steps, touching down one human height lower and several meters further out than her takeoff point, gaining speed as she falls. The kickflip rotates at a constant rate. Contact shadows stay welded to the wheels on both levels and detach in the air, hair and fabric lagging above her as she drops.  LIGHTING Low sun as key from the far left at 15 degrees elevation, raking across the upper deck and rimming her left edge, the cobalt streak glowing where light passes through it. The stair treads sit in their own soft shadow while the lower plaza stays open and sunlit, so the two levels read as clearly separated heights. White balance 5600K, fixed across all beats.  WARDROBE Oversized faded black cotton tee flapping upward as she falls, baggy light-wash denim jeans with frayed hems over the heels, black canvas low-top skate shoes with the suede toe worn through from griptape.  AUDIO Lofi hiphop bed at 72 BPM throughout: dusty vinyl crackle, soft boom-bap kick and brushed snare, mellow jazz piano loop, warm bass. On top: wheels rumbling over seams, the crack of the tail on the top step, the board fluttering as it flips, a quiet beat of air as she falls, a hard slap as the wheels hit the lower plaza.  STYLE Photoreal live-action skate promo video, professional street skating footage, fine film grain, real motion blur on the wheels and the flipping board.  OUTPUT SETTINGS 8K, anamorphic 2.39:1, 24 fps. CUTS 1, 2, 4 and 5 real time. CUT 3 slow motion at 40 percent, constant for the whole beat.  POSITIVE LOCKS She starts on the upper deck and finishes on the lower plaza: takeoff at the top of the stairs, landing at the bottom, one human height below. Her motion is downward through the whole flight, entering each airborne frame high and leaving it low. The stair set stays exactly 10 steps and descends away from her direction of travel. The board completes one full 360-degree kickflip rotation and she lands with both feet over the bolts, rolling away upright past the bottom step. Screen direction stays camera-left to camera-right. Same rider, same face, same cobalt-blue streak, same wardrobe and same board in all five beats."
     },
     {
       "slug": "1970-japanese-urba-207488",

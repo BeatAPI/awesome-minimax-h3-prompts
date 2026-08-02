@@ -1,6 +1,6 @@
 # MiniMax H3 Stories & Films prompts
 
-[Back to all 100 prompts](../../README.md)
+[Back to all 120 prompts](../../README.md)
 
 ## 1. Radio operator evacuation bridge
 
@@ -192,7 +192,57 @@ image1の細く淡い青灰色と暖灰色の線、透明感のある二層以�
 
 ---
 
-## 3. Nighttime Motorcycle Chase Synced to Music
+## 3. Stormy Claymation Whale Breach
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/stormy-claymation-whale-breach-729607-4af6417896bd.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/stormy-claymation-whale-breach-729607-37f44d14411d.jpg" alt="Stormy Claymation Whale Breach video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Claymation. A whale breaches from a stormy clay sea and rises in a slow-motion arc above the waves, body fully extended, water sheeting off its flanks. At the top of the arc it...</summary>
+
+~~~~text
+Claymation. A whale breaches from a stormy clay sea and rises in a slow-motion arc above the waves, body fully extended, water sheeting off its flanks. At the top of the arc it rolls onto one flank, hangs for a beat, then falls back toward the surface. Midair, the camera sweeps beneath its belly in a bold dynamic move, revealing the vast churning ocean far below and the full stretch of its clay body against the sky, then holds as it crashes down and white clay foam bursts outward across the frame. Visible fingerprints, tool marks, and material imperfections in the clay. Slightly stepped, handmade movement. The sea is sculpted clay with rolling modelled waves and white clay foam. Audio: a deep rush of water, wind, the dull slap of clay on clay, distant gulls. Composition: subject centered, action contained within the central third of the frame.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/stormy-claymation-whale-breach-729607-4af6417896bd.webm)
+
+**Source:** [@shikoba_86](https://x.com/shikoba_86/status/2083555537912729607) · 10s · 16:9 · animation
+
+---
+
+## 4. Blue-Haired Hero and Spirit Fox Escape
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/blue-haired-hero-and-spirit-fox-escape-209379-306a2ec093ca.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/blue-haired-hero-and-spirit-fox-escape-209379-5de493373abb.jpg" alt="Blue-Haired Hero and Spirit Fox Escape video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Use the reference @ image for the exact character design, clothing, proportions, blue hair, pointed ears and glowing cyan spirit fox. Preserve the cinematic stylized 3D look,...</summary>
+
+~~~~text
+Use the reference @ image for the exact character design, clothing, proportions, blue hair, pointed ears and glowing cyan spirit fox. Preserve the cinematic stylized 3D look, saturated teal jungle palette, soft volumetric light and detailed natural textures. No dialogue; environmental sound only.
+
+0–4 seconds: Begin close to the reference composition on the ancient stone bridge. The girl kneels beside the small glowing spirit fox as ripples begin moving backward across the stream below. She notices the unnatural movement and looks over her shoulder. A massive moss-covered stone serpent suddenly erupts from beneath the bridge, lifting one side of the platform. The stone tilts physically under her weight. She loses balance, catches herself with one hand and quickly pulls the spirit fox against her chest as cracks spread beneath her knees.
+
+4–10 seconds: The bridge collapses progressively behind her. She rises naturally from the crouch and sprints barefoot across the tilting stone slabs, carrying the fox securely with one arm. Each footfall dislodges moss and small fragments; broken slabs fall with believable weight and strike the water below, producing delayed splashes. The camera tracks closely beside her at waist height. The serpent sweeps its heavy stone tail across her path. She drops into a fast knee slide beneath it; her torn cloak and blue hair trail behind with clear inertia. Still moving forward, she catches a hanging vine with her free hand. Her momentum pulls the vine taut and swings her outward across the widening gap while the camera arcs alongside her.
+
+10–15 seconds: At the highest point of the swing, the vine begins tearing from the temple ceiling. She releases before it snaps, travels forward in a natural gravity-driven arc and lands hard on the opposite platform. She absorbs the impact through her feet and one hand, then rolls once across her shoulder while protecting the fox against her chest. The camera drops and rolls partially with her, then stabilizes behind her as she rises into a defensive crouch. The spirit fox leaps from her arms and lands in front of her, its cyan light intensifying as the serpent crashes into the broken bridge behind them, sending water, dust and stone fragments through the backlight.
+
+Maintain one continuous route and clear cause-and-effect motion. No teleporting, floating, sudden directional changes, extra characters, costume changes or transformation of the girl. Keep the fox small throughout; only its light becomes brighter in the final moment.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/blue-haired-hero-and-spirit-fox-escape-209379-306a2ec093ca.webm)
+
+**Source:** [@HBCoop_](https://x.com/HBCoop_/status/2083553619413209379) · 15s · 16:9 · cinematic story
+
+---
+
+## 5. Nighttime Motorcycle Chase Synced to Music
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/and-reference-preserve-the-rider-s-face-short-curly-375367-9ada2b599685.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/and-reference-preserve-the-rider-s-face-short-curly-375367-89f9e4e64541.jpg" alt="Nighttime Motorcycle Chase Synced to Music video preview" width="700" />
@@ -227,7 +277,7 @@ Cinematic live-action realism, physically accurate motorcycle movement, energeti
 
 ---
 
-## 4. Theme Park Memory Montage
+## 6. Theme Park Memory Montage
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/nostalgic-montage-of-different-clips-graphic-motion-lay-586917-5f89f4d35e10.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/nostalgic-montage-of-different-clips-graphic-motion-lay-586917-7e7b6f7defd8.jpg" alt="Theme Park Memory Montage video preview" width="700" />
@@ -248,7 +298,7 @@ Nostalgic montage of different clips. Graphic motion layouts of friends having f
 
 ---
 
-## 5. Macaw Scream in Extreme Slow Motion
+## 7. Macaw Scream in Extreme Slow Motion
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-wildlife-documentary-vertical-framing-subject-592938-d5110cc8b14a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-wildlife-documentary-vertical-framing-subject-592938-1d9af280d9f7.jpg" alt="Macaw Scream in Extreme Slow Motion video preview" width="700" />
@@ -269,7 +319,7 @@ Nostalgic montage of different clips. Graphic motion layouts of friends having f
 
 ---
 
-## 6. Sagrada Família FPV flight
+## 8. Sagrada Família FPV flight
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/sagrada-familia-fpv-flight.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/sagrada-familia-fpv-flight.jpg" alt="Sagrada Família FPV flight video preview" width="700" />
@@ -292,7 +342,44 @@ The red drawn line must not appear in the video; it is only a hidden flight-path
 
 ---
 
-## 7. Korean Idol VHS Beauty Vlog
+## 9. Jazz-Noir Anime Title Sequence
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/jazz-noir-anime-title-sequence-652641-7e17bcde8d5c.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/jazz-noir-anime-title-sequence-652641-d32e3f4117b6.jpg" alt="Jazz-Noir Anime Title Sequence video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — @Arcane_Aii Using the attached reference image for the character and the attached audio track for timing, generate a jazz-noir anime title sequence in a stylized pop-art style....</summary>
+
+~~~~text
+@Arcane_Aii Using the attached reference image for the character and the attached audio track for timing, generate a jazz-noir anime title sequence in a stylized pop-art style. Every cut must land exactly on a beat of the audio — treat the track as the edit timeline.
+
+VISUAL STYLE — apply throughout:
+Render characters as flat, high-contrast black silhouettes against solid single-color backgrounds (saturated red, mustard yellow, deep blue). No naturalistic shading — each shot commits to one or two dominant colors only, like a screen-printed poster.
+
+Compose shots like comic-book panels and pulp-magazine covers: bold panel divisions splitting the frame, hard geometric shapes, dramatic off-center cropping, extreme close-ups intercut with full-body poses.
+
+Use freeze-frames as a core device: the character hits a dynamic pose (drawing a weapon, mid-stride, lighting a cigarette, turning toward camera) and the frame HOLDS completely still for one full beat before cutting. Do not smooth or interpolate through these holds — they must be dead stops.
+
+Title typography in mid-century Saul Bass style: stark geometric letterforms, bold sans-serif, text that slides in as flat colored bars or snaps into frame on the beat.
+
+Overlay the entire sequence with heavy analog film grain, slight gate weave, and worn-print color texture — it should look like a scratched 35mm print of a 1960s jazz album cover, not clean digital animation.
+
+MOTION AND EDITING:
+Alternate between two modes — (1) fast kinetic bursts of motion (whip pans across silhouettes, rapid cut sequences, a silhouette sprinting across a solid color field) and (2) hard freeze-frame holds. The contrast between the two IS the rhythm. Cuts are hard cuts only: no dissolves, no fades, no morphing between shots. Each new shot snaps in on the downbeat with a fresh background color.
+
+End on the character in silhouette, frozen mid-pose against a solid red field, with the title card snapping in beside them on the final hit of the track.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/jazz-noir-anime-title-sequence-652641-7e17bcde8d5c.webm)
+
+**Source:** [@AIWarper](https://x.com/AIWarper/status/2083045838377652641) · 15s · 16:9 · anime
+
+---
+
+## 10. Korean Idol VHS Beauty Vlog
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/dv-16mm-camcorder-vlog-with-soft-vhs-tape-quality-209852-c3f74dcdc2f5.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/dv-16mm-camcorder-vlog-with-soft-vhs-tape-quality-209852-b6975c0aebd6.jpg" alt="Korean Idol VHS Beauty Vlog video preview" width="700" />
@@ -313,7 +400,7 @@ DV 16mm camcorder vlog with soft VHS tape quality, handheld POV by CHASE and mir
 
 ---
 
-## 8. Desert Buggy Combat Chase
+## 11. Desert Buggy Combat Chase
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-16-9-photoreal-cinematic-action-sequence-with-743096-fac1842f50c4.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-16-9-photoreal-cinematic-action-sequence-with-743096-a828d66e929b.jpg" alt="Desert Buggy Combat Chase video preview" width="700" />
@@ -435,7 +522,7 @@ No subtitles, titles, logos, watermarks, additional racers, pedestrians, creatur
 
 ---
 
-## 9. Mechanical bull charge The Beasts Are Coming
+## 12. Mechanical bull charge The Beasts Are Coming
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/mechanical-bull-charge-the-beasts-are-coming-720815.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/mechanical-bull-charge-the-beasts-are-coming-720815.jpg" alt="Mechanical bull charge The Beasts Are Coming video preview" width="700" />
@@ -474,7 +561,7 @@ Use the same signature look: desaturated steel blue, charcoal grey, mist white, 
 
 ---
 
-## 10. Wake up We Hunt mechanical bull mount
+## 13. Wake up We Hunt mechanical bull mount
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/wake-up-we-hunt-mechanical-bull-mount-700581.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/wake-up-we-hunt-mechanical-bull-mount-700581.jpg" alt="Wake up We Hunt mechanical bull mount video preview" width="700" />
@@ -507,7 +594,7 @@ Sound: deep metallic groans, steam bursts, furnace rumble, hoof impact, distant 
 
 ---
 
-## 11. Fire dragon and rider over scorched world
+## 14. Fire dragon and rider over scorched world
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/fire-dragon-and-rider-over-scorched-world-726278.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/fire-dragon-and-rider-over-scorched-world-726278.jpg" alt="Fire dragon and rider over scorched world video preview" width="700" />
@@ -529,7 +616,7 @@ rising over a scorched world, cutting through smoke and sunset.
 
 ---
 
-## 12. Lilia Astra title sequence
+## 15. Lilia Astra title sequence
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/lilia-astra-title-sequence.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/lilia-astra-title-sequence-poster-12s-v2.jpg" alt="Lilia Astra title sequence video preview" width="700" />
@@ -664,7 +751,7 @@ Camera state: position=three-quarter and over-shoulder; height=eye level then lo
 
 ---
 
-## 13. Seamless-loop cinematic warrior blade reconstruction
+## 16. Seamless-loop cinematic warrior blade reconstruction
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/seamless-loop-cinematic-warrior-blade-reconstruction-513162.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/seamless-loop-cinematic-warrior-blade-reconstruction-513162.jpg" alt="Seamless-loop cinematic warrior blade reconstruction video preview" width="700" />
@@ -685,7 +772,7 @@ Camera state: position=three-quarter and over-shoulder; height=eye level then lo
 
 ---
 
-## 14. Most cinematic scenes challenge
+## 17. Most cinematic scenes challenge
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/most-cinematic-scenes-challenge-742779.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/most-cinematic-scenes-challenge-742779.jpg" alt="Most cinematic scenes challenge video preview" width="700" />
@@ -706,7 +793,7 @@ The most cinematic scenes you can make.
 
 ---
 
-## 15. Urban street superpowered punch action sequence
+## 18. Urban street superpowered punch action sequence
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/urban-street-superpowered-punch-action-sequence-712509.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/urban-street-superpowered-punch-action-sequence-712509.jpg" alt="Urban street superpowered punch action sequence video preview" width="700" />
@@ -790,7 +877,7 @@ Fighter stands alone in TOTAL DEVASTATION. Breathing HEAVILY, chest HEAVING, eye
 
 ---
 
-## 16. Pixar-style mouse adventure 3D animation
+## 19. Pixar-style mouse adventure 3D animation
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/pixar-style-mouse-adventure-3d-animation-582726.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/pixar-style-mouse-adventure-3d-animation-582726.jpg" alt="Pixar-style mouse adventure 3D animation video preview" width="700" />
@@ -811,7 +898,7 @@ Fighter stands alone in TOTAL DEVASTATION. Breathing HEAVILY, chest HEAVING, eye
 
 ---
 
-## 17. Luminous Creature in a Dusk Kitchen
+## 20. Luminous Creature in a Dusk Kitchen
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/15-seconds-16-9-landscape-blend-live-action-footage-of-867462-186f665474fa.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/15-seconds-16-9-landscape-blend-live-action-footage-of-867462-12f86ca52100.jpg" alt="Luminous Creature in a Dusk Kitchen video preview" width="700" />
@@ -834,7 +921,7 @@ Fighter stands alone in TOTAL DEVASTATION. Breathing HEAVILY, chest HEAVING, eye
 
 ---
 
-## 18. Giant Kitchen Spider Comedy Short
+## 21. Giant Kitchen Spider Comedy Short
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/3d-pixar-style-animated-comedy-short-film-ultra-premium-057697-03d1c36a6c7b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/3d-pixar-style-animated-comedy-short-film-ultra-premium-057697-6734cbaa9974.jpg" alt="Giant Kitchen Spider Comedy Short video preview" width="700" />
@@ -901,7 +988,7 @@ This ending creates a strong cliffhanger for the extension, where an unexpected 
 
 ---
 
-## 19. Cyberpunk Ice-Blue Character Awakening
+## 22. Cyberpunk Ice-Blue Character Awakening
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-source-image-and-first-frame-221921-7bd2fd15e422.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-source-image-and-first-frame-221921-4917e9fd5c81.jpg" alt="Cyberpunk Ice-Blue Character Awakening video preview" width="700" />
@@ -922,7 +1009,7 @@ Use the uploaded image as the exact source image and first frame. Preserve the o
 
 ---
 
-## 20. Hand-Drawn Ginger Pork Cooking Anime
+## 23. Hand-Drawn Ginger Pork Cooking Anime
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/hand-drawn-ginger-pork-anime-cooking-960451-b92e508d3872.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/hand-drawn-ginger-pork-anime-cooking-960451-b6c2ab769949.jpg" alt="Hand-Drawn Ginger Pork Cooking Anime video preview" width="700" />
@@ -950,7 +1037,7 @@ Use the uploaded image as the exact source image and first frame. Preserve the o
 
 ---
 
-## 21. Watercolor anime fetish montage rapid cuts
+## 24. Watercolor anime fetish montage rapid cuts
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/watercolor-anime-fetish-montage-rapid-cuts-335119.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/watercolor-anime-fetish-montage-rapid-cuts-335119.jpg" alt="Watercolor anime fetish montage rapid cuts video preview" width="700" />
@@ -1104,7 +1191,7 @@ sequence:
 
 ---
 
-## 22. Swimming strokes aesthetic showcase
+## 25. Swimming strokes aesthetic showcase
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/swimming-strokes-aesthetic-showcase-832514.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/swimming-strokes-aesthetic-showcase-832514.jpg" alt="Swimming strokes aesthetic showcase video preview" width="700" />
@@ -1155,7 +1242,7 @@ sequence:
 
 ---
 
-## 23. Rain-Soaked Korean Noir Reunion
+## 26. Rain-Soaked Korean Noir Reunion
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/16-9-15s-hyper-realistic-korean-noir-crime-teaser-a-447606-120e7ace6322.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/16-9-15s-hyper-realistic-korean-noir-crime-teaser-a-447606-eae3a767b8d2.jpg" alt="Rain-Soaked Korean Noir Reunion video preview" width="700" />
@@ -1188,7 +1275,7 @@ Audio: Rain, thunder, jazz crackle, lighter click, intimate silence during dialo
 
 ---
 
-## 24. Sci-fi explorer approaches dark gateway mystery
+## 27. Sci-fi explorer approaches dark gateway mystery
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/sci-fi-explorer-approaches-dark-gateway-mystery-410508.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/sci-fi-explorer-approaches-dark-gateway-mystery-410508.jpg" alt="Sci-fi explorer approaches dark gateway mystery video preview" width="700" />
@@ -1227,7 +1314,7 @@ No dialogue, subtitles, title cards, logos, watermarks, extra characters, vehicl
 
 ---
 
-## 25. Handheld Two-Person Argument
+## 28. Handheld Two-Person Argument
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/two-characters-arguing-in-english-make-the-emotion-feel-377881-629f0d40f5d5.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/two-characters-arguing-in-english-make-the-emotion-feel-377881-8cc91ed3c57e.jpg" alt="Handheld Two-Person Argument video preview" width="700" />
@@ -1248,7 +1335,7 @@ Two characters arguing in English. Make the emotion feel very realistic  angry, 
 
 ---
 
-## 26. ASMR multi-cut overseas snack unboxing anime
+## 29. ASMR multi-cut overseas snack unboxing anime
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/asmr-multi-cut-overseas-snack-unboxing-anime-428159.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/asmr-multi-cut-overseas-snack-unboxing-anime-428159.jpg" alt="ASMR multi-cut overseas snack unboxing anime video preview" width="700" />
@@ -1353,7 +1440,7 @@ cut16:
 
 ---
 
-## 27. Mumbai monsoon FPV drone flight
+## 30. Mumbai monsoon FPV drone flight
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/mumbai-monsoon-fpv-drone-flight-942674.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/mumbai-monsoon-fpv-drone-flight-942674.jpg" alt="Mumbai monsoon FPV drone flight video preview" width="700" />
@@ -1398,7 +1485,7 @@ IMPORTANT  Do not show the green route line. No text, captions, logos, or waterm
 
 ---
 
-## 28. 1998 Seoul rainy bus stop archival home video
+## 31. 1998 Seoul rainy bus stop archival home video
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/1998-seoul-rainy-bus-stop-archival-home-video-300930.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/1998-seoul-rainy-bus-stop-archival-home-video-300930.jpg" alt="1998 Seoul rainy bus stop archival home video video preview" width="700" />
@@ -1427,7 +1514,7 @@ Generation Requirements: Produce one continuous, uninterrupted 15-second recordi
 
 ---
 
-## 29. Ink-wash shrimp leap into futuristic city
+## 32. Ink-wash shrimp leap into futuristic city
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ink-wash-shrimp-leap-into-futuristic-city-848857.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ink-wash-shrimp-leap-into-futuristic-city-848857.jpg" alt="Ink-wash shrimp leap into futuristic city video preview" width="700" />
@@ -1448,7 +1535,7 @@ Generation Requirements: Produce one continuous, uninterrupted 15-second recordi
 
 ---
 
-## 30. Fire-breathing dragon in broken palace
+## 33. Fire-breathing dragon in broken palace
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/fire-breathing-dragon-in-broken-palace-831106.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/fire-breathing-dragon-in-broken-palace-831106.jpg" alt="Fire-breathing dragon in broken palace video preview" width="700" />
@@ -1469,7 +1556,28 @@ Fire-Breathing Dragon in a Broken Palace**  A colossal fire-breathing dragon wit
 
 ---
 
-## 31. Lightning God at a Shaolin Monastery
+## 34. Empty Suit Stop-Motion Assembly
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/empty-suit-stop-motion-assembly-854152-f88cb4181bff.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/empty-suit-stop-motion-assembly-854152-475cb8c1a69b.jpg" alt="Empty Suit Stop-Motion Assembly video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Static locked-off camera, no zoom, no pan, no handheld drift. The frame never moves. Open on an empty landscape: flat azure sky, six soft cumulus clouds drifting slowly, a band of...</summary>
+
+~~~~text
+Static locked-off camera, no zoom, no pan, no handheld drift. The frame never moves.    Open on an empty landscape: flat azure sky, six soft cumulus clouds drifting slowly, a   band of ochre and green eroded hills along the bottom. Nothing else. Hold this for a beat.    Then the composition assembles itself, piece by piece, in surreal stop-motion cadence:    First, a torso rises into frame from the bottom edge: a man in a flecked brown tweed   jacket, white collar, dark tie. It settles and locks.    Above the collar, a vertical column starts growing upward from nothing: dark earth,   roots, dried vegetation and moss, building like soil stacking against gravity.    Chunks fly in from the frame edges and snap into the column with weight: coral and   fungal growths in salmon pink, chartreuse and rust from above; a large blue elephant   head with a visible eye and pale tusks sliding in from the right; branching red vascular   coral whipping in from the right edge.    The face parts land last and land hard: a huge glossy red fleshy mouth with white teeth   locks into the lower half, its trunk-like red tongue curling into a tight loop; a second   inverted red mouth snaps into the upper half.    Final details settle: a brown and orange moth wing unfolds at the upper right, small   pink petal-like slices freeze mid-flight on the left with fine particles suspended   around them, a small blue elephant figure tucks into the crown.    The clouds keep drifting behind and through the structure the entire time, unbothered.    Everything comes to rest in a still, balanced composition. Only the clouds move.    Photoreal 3D render, hyperreal wet organic surfaces, hard midday light, deep saturation,   crisp shadows. Surrealist portrait, Magritte staging. 12 seconds, 5:6 vertical.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/empty-suit-stop-motion-assembly-854152-f88cb4181bff.webm)
+
+**Source:** [@lukasersil](https://x.com/lukasersil/status/2082727329390854152) · 12s · 5:6 · cinematic story
+
+---
+
+## 35. Lightning God at a Shaolin Monastery
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/buddhist-monastery-courtyard-at-dawn-mist-drifting-betw-411584-71ad9000d4ca.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/buddhist-monastery-courtyard-at-dawn-mist-drifting-betw-411584-e1578a62db9d.jpg" alt="Lightning God at a Shaolin Monastery video preview" width="700" />
@@ -1490,7 +1598,7 @@ Buddhist monastery courtyard at dawn, mist drifting between stone pillars. Wide 
 
 ---
 
-## 32. Skyship Through a Floating Kingdom
+## 36. Skyship Through a Floating Kingdom
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/skyship-flight-across-a-floating-kingdom-single-continu-344891-5e1c6d863a64.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/skyship-flight-across-a-floating-kingdom-single-continu-344891-5b79b9582051.jpg" alt="Skyship Through a Floating Kingdom video preview" width="700" />
@@ -1511,7 +1619,7 @@ Skyship flight across a floating kingdom (single continuous shot) From above a s
 
 ---
 
-## 33. Natural-Material Dragon Stop Motion
+## 37. Natural-Material Dragon Stop Motion
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/top-down-stop-motion-style-video-of-four-hands-assembli-679353-c8badfe5e48e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/top-down-stop-motion-style-video-of-four-hands-assembli-679353-77b783b17268.jpg" alt="Natural-Material Dragon Stop Motion video preview" width="700" />
@@ -1537,7 +1645,7 @@ Final shot: the completed dragon head sculpture sits alone on the white backgrou
 
 ---
 
-## 34. Cliffside Descent to the Ocean
+## 38. Cliffside Descent to the Ocean
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/shot-opens-tight-on-a-beautiful-woman-face-wind-452380-08dce77b0419.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/shot-opens-tight-on-a-beautiful-woman-face-wind-452380-ff89a0a5a5d0.jpg" alt="Cliffside Descent to the Ocean video preview" width="700" />
@@ -1558,7 +1666,7 @@ The shot opens tight on a beautiful woman face, wind tearing at her coat as she 
 
 ---
 
-## 35. Armored swordswoman rock-plateau action sequence
+## 39. Armored swordswoman rock-plateau action sequence
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/armored-swordswoman-rock-plateau-action-sequence-009447.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/armored-swordswoman-rock-plateau-action-sequence-009447.jpg" alt="Armored swordswoman rock-plateau action sequence video preview" width="700" />
@@ -1607,7 +1715,7 @@ The shot opens tight on a beautiful woman face, wind tearing at her coat as she 
 
 ---
 
-## 36. 1970s Shibuya Urban-Legend Horror
+## 40. 1970s Shibuya Urban-Legend Horror
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/1970-japanese-urba-207488-76b98520e830.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/1970-japanese-urba-207488-fe772a707df9.jpg" alt="1970s Shibuya Urban-Legend Horror video preview" width="700" />
@@ -1661,7 +1769,7 @@ The shot opens tight on a beautiful woman face, wind tearing at her coat as she 
 
 ---
 
-## 37. Containment Breach in a Sterile Lab
+## 41. Containment Breach in a Sterile Lab
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/slow-motion-handheld-close-up-16-9-shaky-organic-handhe-994748-bf061cee3029.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/slow-motion-handheld-close-up-16-9-shaky-organic-handhe-994748-a47bef0e059f.jpg" alt="Containment Breach in a Sterile Lab video preview" width="700" />
@@ -1682,7 +1790,7 @@ Slow-motion handheld close-up, 16:9. Shaky organic handheld shot shoving in clos
 
 ---
 
-## 38. Dark-Fantasy Tavern Fight
+## 42. Dark-Fantasy Tavern Fight
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/style-hyper-realistic-dark-fantasy-tavern-cinematic-gro-137433-61ca3ff0afb8.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/style-hyper-realistic-dark-fantasy-tavern-cinematic-gro-137433-27f527a53b15.jpg" alt="Dark-Fantasy Tavern Fight video preview" width="700" />
@@ -1787,7 +1895,7 @@ No floating, no anime combat, no superhero physics, no unrealistic flips, no wei
 
 ---
 
-## 39. Hard sci-fi desert 3x3 grid animation sequence
+## 43. Hard sci-fi desert 3x3 grid animation sequence
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/hard-sci-fi-desert-3x3-grid-animation-sequence-845158.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/hard-sci-fi-desert-3x3-grid-animation-sequence-845158.jpg" alt="Hard sci-fi desert 3x3 grid animation sequence video preview" width="700" />
@@ -1829,7 +1937,7 @@ Photorealistic, ultra-detailed skin and fabric textures, perfect sand physics, c
 
 ---
 
-## 40. Five cinematic dialogue set-piece scenes
+## 44. Five cinematic dialogue set-piece scenes
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/five-cinematic-dialogue-set-piece-scenes-875568.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/five-cinematic-dialogue-set-piece-scenes-875568.jpg" alt="Five cinematic dialogue set-piece scenes video preview" width="700" />
@@ -1957,7 +2065,7 @@ POSITIVE LOCKS Exactly two officers are in the room and no other figures enter. 
 
 ---
 
-## 41. Live-action relationship confession drama scene
+## 45. Live-action relationship confession drama scene
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/live-action-relationship-confession-drama-scene-224793.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/live-action-relationship-confession-drama-scene-224793.jpg" alt="Live-action relationship confession drama scene video preview" width="700" />
@@ -2039,7 +2147,7 @@ Final frame: Hold on the husband as the meaning lands. His hand lowers, and the 
 
 ---
 
-## 42. Little Robot Cyberpunk Escape
+## 46. Little Robot Cyberpunk Escape
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/stunning-action-packed-scene-following-a-little-robot-r-288619-92e936e50dd3.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/stunning-action-packed-scene-following-a-little-robot-r-288619-75c2c618f326.jpg" alt="Little Robot Cyberpunk Escape video preview" width="700" />
@@ -2060,7 +2168,7 @@ A stunning action packed scene following a little robot running away from soldie
 
 ---
 
-## 43. Cloaked Avenger vs. Cyborg Executioner
+## 47. Cloaked Avenger vs. Cyborg Executioner
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/cloaked-avenger-identity-lock-and-wardrobe-reference-us-595100-1663dd881714.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/cloaked-avenger-identity-lock-and-wardrobe-reference-us-595100-75eae3bbb074.jpg" alt="Cloaked Avenger vs. Cyborg Executioner video preview" width="700" />
@@ -2091,7 +2199,7 @@ Create a 15-second ultra-cinematic confrontation in the ruined streets of Sector
 
 ---
 
-## 44. Photoreal Character Turnaround Sheet
+## 48. Photoreal Character Turnaround Sheet
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ver-597837-0e075694490d.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ver-597837-5f88cb99f6e5.jpg" alt="Photoreal Character Turnaround Sheet video preview" width="700" />

@@ -36,7 +36,122 @@ Slow-motion hero shot of the luxury perfume bottle elegantly rotating as glowing
 
 ---
 
-## 2. Yellow Sunglasses in a Black Studio
+## 2. Ramen Bowl UGC Taste Test
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ramen-bowl-ugc-taste-test-612348-f5a033bef00e.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ramen-bowl-ugc-taste-test-612348-2469cb1c850e.jpg" alt="Ramen Bowl UGC Taste Test video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect Ratio: 16:9 | Style: Authentic UGC / iPhone selfie-vlog, handheld, natural light, slight motion blur, TikTok/Reels energy — NOT cinematic. Product...</summary>
+
+~~~~text
+Duration: 15 seconds | Aspect Ratio: 16:9 | Style: Authentic UGC / iPhone selfie-vlog, handheld, natural light, slight motion blur, TikTok/Reels energy — NOT cinematic.
+Product Reference: Use the uploaded ramen bowl image as the only product reference. Keep the broth color, noodle thickness, toppings, egg placement, chashu slices, and bowl appearance identical throughout every shot.
+Camera: iPhone 15 Pro handheld with front/back camera switching, realistic autofocus hunting, natural handheld movement, slight exposure shifts, warm apartment lighting.
+Character Description
+Name: Yuna
+A young Japanese woman in her early 20s with soft natural beauty, shoulder-length dark hair tied loosely, subtle makeup, oversized gray hoodie, cheerful personality, filming casually inside a cozy apartment kitchen.
+Shot Breakdown
+SHOT 1 (0–2s) — Selfie holding the ramen bowl.
+Dialogue: "Late-night ramen again."
+SHOT 2 (2–4s) — Overhead reveal with steam rising.
+SHOT 3 (4–6s) — Close-up autofocus on noodles and broth.
+SHOT 4 (6–8s) — Chopsticks lifting noodles with a natural noodle stretch.
+SHOT 5 (8–10s) — Selfie bite reaction.
+Dialogue: "That's insanely good."
+SHOT 6 (10–12s) — Casual b-roll of the bowl while she reaches for another bite.
+SHOT 7 (12–14s) — Selfie holding noodles toward camera.
+Dialogue: "Worth every bite."
+SHOT 8 (14–15s) — Freeze frame with handwritten overlay: "ramen fix 🍜"
+Look & Feel
+Warm lighting, natural phone quality, authentic UGC pacing, jump cuts, realistic handheld movement.
+Negative Prompt
+cinematic look, luxury commercial, perfect framing, CGI noodles, unrealistic steam, plastic food, distorted chopsticks, extra fingers, warped hands, overprocessed HDR, text artifacts.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/ramen-bowl-ugc-taste-test-612348-f5a033bef00e.webm)
+
+**Source:** [@Taaruk_](https://x.com/Taaruk_/status/2083461207919612348) · 15s · 40:17 · product commercial
+
+---
+
+## 3. Gourmet Burger UGC Taste Test
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/gourmet-burger-ugc-taste-test-165289-787be15a8d6a.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/gourmet-burger-ugc-taste-test-165289-7f4d2652dee1.jpg" alt="Gourmet Burger UGC Taste Test video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect Ratio: 16:9 | Style: Authentic UGC / iPhone selfie-vlog, handheld, natural light, TikTok/Reels aesthetic. Product Reference: Use the uploaded gourmet...</summary>
+
+~~~~text
+Duration: 15 seconds | Aspect Ratio: 16:9 | Style: Authentic UGC / iPhone selfie-vlog, handheld, natural light, TikTok/Reels aesthetic.
+Product Reference: Use the uploaded gourmet burger image as the only product reference. Preserve the bun shape, patty thickness, cheese melt, lettuce, tomato, sauces, and proportions exactly in every shot.
+Character Description
+Name: Hana
+A young Japanese woman in her early 20s with natural beauty, long dark hair in a loose ponytail, oversized cream sweatshirt, minimal makeup, bright smile, friendly lifestyle-vlogger personality.
+Shot Breakdown
+SHOT 1 (0–2s) — Selfie showing the burger box.
+Dialogue: "Burger night!"
+SHOT 2 (2–4s) — Opens the box.
+SHOT 3 (4–6s) — Quick zoom on the burger.
+SHOT 4 (6–8s) — Hands lifting the burger with cheese stretching naturally.
+SHOT 5 (8–10s) — Bite reaction.
+Dialogue: "Okay... that's incredible."
+SHOT 6 (10–12s) — Casual close-up b-roll while reaching for fries.
+SHOT 7 (12–14s) — Toasting the burger toward the camera.
+Dialogue: "You need this."
+SHOT 8 (14–15s) — Freeze frame with overlay: "burger cravings = solved 🍔"
+Look & Feel
+Warm apartment lighting, genuine phone footage, slight grain, natural autofocus breathing, handheld imperfections, fast jump cuts.
+Negative Prompt
+cinematic grading, commercial production, CGI burger, fake cheese, distorted hands, warped food, perfect stabilization, studio lighting, text glitches, logo distortion.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/gourmet-burger-ugc-taste-test-165289-787be15a8d6a.webm)
+
+**Source:** [@oggii_0](https://x.com/oggii_0/status/2083436822085165289) · 15s · 92:39 · product commercial
+
+---
+
+## 4. Luxury Skincare Storyboard Commercial
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-skincare-storyboard-commercial-805571-995ac1ada011.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-skincare-storyboard-commercial-805571-411a41f0ec66.jpg" alt="Luxury Skincare Storyboard Commercial video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Use the uploaded storyboard as the camera guide. Follow all 8 frames in order with smooth cinematic continuity. The same woman, outfit, hairstyle, makeup, room and product must...</summary>
+
+~~~~text
+Use the uploaded storyboard as the camera guide. Follow all 8 frames in order with smooth cinematic continuity. The same woman, outfit, hairstyle, makeup, room and product must remain perfectly consistent throughout the entire 15-second commercial. Every shot must begin where the previous shot ends with seamless match cuts and natural camera movement.
+
+Shot 1 (0-1.8s)
+A slow push in as morning sunlight enters through the window. The woman looks outside and gently turns toward the mirror. The camera continues moving without stopping.
+
+Transition:
+The camera keeps pushing forward until her face fills the frame.
+
+Shot 2 (1.8-3.6s)
+Without cutting, the shot becomes a close-up of her face in the mirror. She notices dull skin and lightly touches her cheek. The camera slowly circles around her as she reaches toward the vanity.
+
+Transition
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-skincare-storyboard-commercial-805571-995ac1ada011.webm)
+
+**Source:** [@Maercihh](https://x.com/Maercihh/status/2083407991114805571) · 15s · 16:9 · product commercial
+
+---
+
+## 5. Yellow Sunglasses in a Black Studio
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/upload-use-la-ragazza-in-reference-as-a-strict-265763-3f6fdfa9ec17.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/upload-use-la-ragazza-in-reference-as-a-strict-265763-991557679b75.jpg" alt="Yellow Sunglasses in a Black Studio video preview" width="700" />
@@ -113,7 +228,7 @@ Composition: model centered, all type within the central third of the frame
 
 ---
 
-## 3. Strawberry Drink Transformation Commercial
+## 6. Strawberry Drink Transformation Commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/shots-shot-id-1-start-time-00-00-end-878083-fac16344ba1e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/shots-shot-id-1-start-time-00-00-end-878083-5b30a531bab4.jpg" alt="Strawberry Drink Transformation Commercial video preview" width="700" />
@@ -134,7 +249,52 @@ Composition: model centered, all type within the central third of the frame
 
 ---
 
-## 4. Bamboo Forest Wuxia Mystery
+## 7. Blackberry Vanilla Soda UGC Vlog
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/blackberry-vanilla-soda-ugc-vlog-998714-1ca980fa6505.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/blackberry-vanilla-soda-ugc-vlog-998714-7b02c89bbf7e.jpg" alt="Blackberry Vanilla Soda UGC Vlog video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — CHARACTER &amp; WORLD LOCK + FULL 15-SEC MASTER PROMPT A 15-second continuous UGC-style vlog in 9:16 vertical format. Jessy, a woman in her mid-20s — use her facial features exactly...</summary>
+
+~~~~text
+CHARACTER & WORLD LOCK + FULL 15-SEC MASTER PROMPT
+
+A 15-second continuous UGC-style vlog in 9:16 vertical format. Jessy, a woman in her mid-20s — use her facial features exactly as shown in her reference photo, keep everything else about the scene freshly designed — wears an attractive pastel-colored dress (soft lavender, mint, or buttery yellow) that visually pops in contrast against the bubblegum-pink Olipop can. Location: a bright, clean modern kitchen/countertop with soft natural daylight. Product: a can of Olipop Blackberry Vanilla — pastel pink can, magenta blackberry illustration, white vanilla flower, dark green "Blackberry Vanilla" wordmark, "Supports Digestive Health" text near the top, "A New Kind of Soda™" tagline (use the uploaded product photo as the exact visual reference for the can). Style: authentic smartphone UGC vlog, natural handheld feel, realistic skin texture, no over-retouched look. She speaks casual, upbeat, conversational English directly to camera with natural lip-sync.
+
+The video follows this exact beat sheet, with clean cuts between each moment:
+
+00:00–00:02 — Front-camera selfie, slight handheld sway, Jessy fans herself lightly in the kitchen, looking for something refreshing, smiles at camera: "Okay I need something fun to drink right now."
+
+00:02–00:04 — Eye-level medium shot, she opens the fridge and pulls out the pink Olipop can, face lighting up with delight: "Ooh, Blackberry Vanilla Olipop — yes please."
+
+00:04–00:06 — Close-up on her hands slowly turning the can, label details ("Prebiotics, Botanics, Plant Fiber") visible: "Prebiotics AND it tastes like dessert? Sold."
+
+00:06–00:08 — Tight macro shot, her fingers pop the tab, condensation and a light fizz mist visible: "Listen to that fizz."
+
+00:08–00:10 — Slow-motion macro shot, pink soda pouring over ice into a clear glass, bubbles rising: "Look how pretty that color is."
+
+00:10–00:12 — Close-up on her face as she sips, eyes lighting up with genuine, pleasantly surprised reaction: "Wait... that's actually so good."
+
+00:12–00:13 — Macro hero shot of the can alone on the counter, condensation dripping, soft bokeh kitchen background, slow subtle push-in, no dialog.
+
+00:13–00:14 — Medium shot, she smiles at camera, can raised slightly at chest height: "Blackberry vanilla was the right call."
+
+00:14–00:15 — Close front-camera selfie, can held beside her face, warm bright smile into the lens: "Go grab an Olipop, seriously."
+
+Continuous natural ambient kitchen sound, subtle upbeat pop background music underneath, her voice clear and casual throughout. Consistent face, outfit, and setting across every beat. No text overlays, no captions, no watermarks, no horizontal framing, no changes to the can's design or branding.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/blackberry-vanilla-soda-ugc-vlog-998714-1ca980fa6505.webm)
+
+**Source:** [@AIwithJessica](https://x.com/AIwithJessica/status/2083136052638998714) · 15s · 16:9 · product commercial
+
+---
+
+## 8. Bamboo Forest Wuxia Mystery
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/16-9-cinematic-wuxia-mystery-set-in-a-bamboo-571041-da23c2db41ab.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/16-9-cinematic-wuxia-mystery-set-in-a-bamboo-571041-6d22d8f211d0.jpg" alt="Bamboo Forest Wuxia Mystery video preview" width="700" />
@@ -158,7 +318,7 @@ Prioritize facial close-ups and measured shot/reverse-shot coverage. Keep the rh
 
 ---
 
-## 5. Emerald Bio-Serum Product Film
+## 9. Emerald Bio-Serum Product Film
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-luxury-skincare-product-commercial-vertical-9-591469-3ae42a6b5baa.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-luxury-skincare-product-commercial-vertical-9-591469-c0c5f3bb6066.jpg" alt="Emerald Bio-Serum Product Film video preview" width="700" />
@@ -179,7 +339,7 @@ Cinematic luxury skincare product commercial, vertical 9:16, 15 seconds. A trans
 
 ---
 
-## 6. Black-and-Gold Perfume Commercial
+## 10. Black-and-Gold Perfume Commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-ultra-premium-luxury-perfume-commercial-in-ci-520833-3e8b79841b85.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-ultra-premium-luxury-perfume-commercial-in-ci-520833-d1f16abe5ae1.jpg" alt="Black-and-Gold Perfume Commercial video preview" width="700" />
@@ -210,7 +370,7 @@ Photorealistic, Hollywood luxury TV commercial, ultra-detailed, flawless glass r
 
 ---
 
-## 7. Morning Lip Oil UGC Testimonial
+## 11. Morning Lip Oil UGC Testimonial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-character-reference-preserve-her-fac-256521-544db8790618.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-character-reference-preserve-her-fac-256521-8add510d989f.jpg" alt="Morning Lip Oil UGC Testimonial video preview" width="700" />
@@ -239,7 +399,88 @@ Authentic UGC creator content, realistic facial expressions, natural hand gestur
 
 ---
 
-## 8. NOVA X smartphone TVC
+## 12. Luxury Watch Storyboard Campaign
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-watch-storyboard-campaign-903017-159289899741.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-watch-storyboard-campaign-903017-2d54ae2e9819.jpg" alt="Luxury Watch Storyboard Campaign video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Here`s the storyboard TITLE: Luxury Watch Commercial Storyboard Create a premium single-page storyboard for a luxury watch commercial. Editorial presentation board. 3:4 portrait....</summary>
+
+~~~~text
+Here`s the storyboard
+
+TITLE: Luxury Watch Commercial Storyboard
+
+Create a premium single-page storyboard for a luxury watch commercial.
+
+Editorial presentation board.
+
+3:4 portrait.
+
+Eight cinematic storyboard frames arranged in a clean luxury grid.
+
+Minimalist Swiss-inspired design.
+
+Premium typography.
+
+Black, silver and champagne gold color palette.
+
+Professional creative agency presentation.
+
+Each frame should look like a film storyboard while remaining highly realistic.
+
+Frame 1:
+Luxury mechanical watch inside an elegant leather presentation box.
+
+Frame 2:
+Presentation box opens revealing the watch with dramatic golden light.
+
+Frame 3:
+Extreme macro shot of the dial, hands, gears and sapphire crystal.
+
+Frame 4:
+Elegant gentleman lifting the watch before a black-tie gala.
+
+Frame 5:
+Watch being fastened onto his wrist.
+
+Frame 6:
+Close-up of the sweeping second hand catching warm reflections.
+
+Frame 7:
+Fashion editorial portrait with the watch as the hero.
+
+Frame 8:
+Hero product shot on glossy black marble with floating metallic particles.
+
+Luxury presentation board.
+
+Agency-quality storyboard.
+
+Minimal annotations.
+
+White background.
+
+8K.
+
+Use storyboard as the complete creative direction, shot list, composition, pacing, and cinematic sequence.
+
+Use LuxuryWatch as the exact product reference. Preserve the watch's design, dial, case, leather strap, proportions, materials, and fine details consistently throughout every scene.
+
+Create a world-class luxury watch commercial.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-watch-storyboard-campaign-903017-159289899741.webm)
+
+**Source:** [@I_amShiti](https://x.com/I_amShiti/status/2083051609953903017) · 15s · 16:9 · product commercial
+
+---
+
+## 13. NOVA X smartphone TVC
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/nova-x-smartphone-tvc.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/nova-x-smartphone-tvc.jpg" alt="NOVA X smartphone TVC video preview" width="700" />
@@ -266,7 +507,7 @@ Create a 15-second premium cinematic branding TVC for a futuristic smartphone br
 
 ---
 
-## 9. SparkRush Ultra Fizz beach soft-drink commercial
+## 14. SparkRush Ultra Fizz beach soft-drink commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/sparkrush-ultra-fizz-beach-soft-drink-commercial-383681.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/sparkrush-ultra-fizz-beach-soft-drink-commercial-383681.jpg" alt="SparkRush Ultra Fizz beach soft-drink commercial video preview" width="700" />
@@ -357,7 +598,7 @@ CUT8 0:14-0:15
 
 ---
 
-## 10. Bathroom Mirror Skincare UGC Ad
+## 15. Bathroom Mirror Skincare UGC Ad
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ugc-style-skincare-video-featuring-a-realistic-young-wo-242986-ec288635cb7f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ugc-style-skincare-video-featuring-a-realistic-young-wo-242986-18b009c5b1b5.jpg" alt="Bathroom Mirror Skincare UGC Ad video preview" width="700" />
@@ -378,7 +619,7 @@ UGC-style skincare video featuring a realistic young woman speaking directly to 
 
 ---
 
-## 11. Luxury Sports Car Landing Page Motion
+## 16. Luxury Sports Car Landing Page Motion
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ui-ux-motion-showcase-video-for-a-high-performance-luxu-229386-9d89c4f629e6.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ui-ux-motion-showcase-video-for-a-high-performance-luxu-229386-ebbf825e1ade.jpg" alt="Luxury Sports Car Landing Page Motion video preview" width="700" />
@@ -471,7 +712,7 @@ A premium automotive brand website, similar to a supercar launch page. Dark meta
 
 ---
 
-## 12. KALDR cold perfume commercial multi-reference
+## 17. KALDR cold perfume commercial multi-reference
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/kaldr-cold-perfume-commercial-multi-reference-943073.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/kaldr-cold-perfume-commercial-multi-reference-943073.jpg" alt="KALDR cold perfume commercial multi-reference video preview" width="700" />
@@ -525,7 +766,7 @@ Do not add other people, boats, buildings, vehicles, modern objects, subtitles, 
 
 ---
 
-## 13. Luxury metallic gown desert runway fashion ad
+## 18. Luxury metallic gown desert runway fashion ad
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-metallic-gown-desert-runway-fashion-ad-907132.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-metallic-gown-desert-runway-fashion-ad-907132.jpg" alt="Luxury metallic gown desert runway fashion ad video preview" width="700" />
@@ -546,7 +787,7 @@ Do not add other people, boats, buildings, vehicles, modern objects, subtitles, 
 
 ---
 
-## 14. Luxury checkered sports-coupe night-to-dawn commercial
+## 19. Luxury checkered sports-coupe night-to-dawn commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-checkered-sports-coupe-night-to-dawn-commercial-451623.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-checkered-sports-coupe-night-to-dawn-commercial-451623.jpg" alt="Luxury checkered sports-coupe night-to-dawn commercial video preview" width="700" />
@@ -590,7 +831,7 @@ coherent character and vehicle identity across every cut 📷Image1 , cinematic 
 
 ---
 
-## 15. Marble Staircase Lip Gloss Commercial
+## 20. Marble Staircase Lip Gloss Commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-character-reference-preserve-her-fac-150697-b637e0c6f931.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-character-reference-preserve-her-fac-150697-dfa401edffbd.jpg" alt="Marble Staircase Lip Gloss Commercial video preview" width="700" />
@@ -615,7 +856,7 @@ Ultra-realistic beauty cinematography, luxury cosmetic campaign, smooth gimbal m
 
 ---
 
-## 16. Sushi Night Smartphone UGC Vlog
+## 21. Sushi Night Smartphone UGC Vlog
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/duration-15-seconds-aspect-ratio-16-9-style-authentic-613617-7d59e3e86e10.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/duration-15-seconds-aspect-ratio-16-9-style-authentic-613617-ee7d7c188983.jpg" alt="Sushi Night Smartphone UGC Vlog video preview" width="700" />
@@ -665,7 +906,7 @@ cinematic color grading, overly smooth gimbal movement, studio lighting, profess
 
 ---
 
-## 17. Strawberry seasonal match-cut food commercial
+## 22. Strawberry seasonal match-cut food commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/strawberry-seasonal-match-cut-food-commercial-117943.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/strawberry-seasonal-match-cut-food-commercial-117943.jpg" alt="Strawberry seasonal match-cut food commercial video preview" width="700" />
@@ -686,7 +927,7 @@ Premium food commercial. Extreme macro shot of a single ripe strawberry falling 
 
 ---
 
-## 18. White-Cyclorama Luxury Eyewear Campaign
+## 23. White-Cyclorama Luxury Eyewear Campaign
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/premium-9-16-fashion-eyewear-commercial-match-the-refer-665060-4d28abb73363.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/premium-9-16-fashion-eyewear-commercial-match-the-refer-665060-b6317831cfc6.jpg" alt="White-Cyclorama Luxury Eyewear Campaign video preview" width="700" />
@@ -708,7 +949,7 @@ Create a premium 9:16 fashion-eyewear commercial. Match the reference video’s 
 
 ---
 
-## 19. Dark Rap Fashion Zine Music Video
+## 24. Dark Rap Fashion Zine Music Video
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/style-dark-rap-rap-music-video-with-photoreal-high-fash-066367-f7530cdb0007.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/style-dark-rap-rap-music-video-with-photoreal-high-fash-066367-042e39743d51.jpg" alt="Dark Rap Fashion Zine Music Video video preview" width="700" />
@@ -729,7 +970,7 @@ Style: dark-rap -rap music video with photoreal high-fashion polish and the text
 
 ---
 
-## 20. Vertical car transformation street-culture film
+## 25. Vertical car transformation street-culture film
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/vertical-car-transformation-street-culture-film-378938.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/vertical-car-transformation-street-culture-film-378938.jpg" alt="Vertical car transformation street-culture film video preview" width="700" />
@@ -858,7 +1099,7 @@ Feels like a premium car modification advertisement
 
 ---
 
-## 21. High-Speed Sports Product Landing Page
+## 26. High-Speed Sports Product Landing Page
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/dynamic-product-landing-page-ui-ux-demo-inspired-by-nik-789559-08cc2ecf4395.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/dynamic-product-landing-page-ui-ux-demo-inspired-by-nik-789559-6fdf282e513d.jpg" alt="High-Speed Sports Product Landing Page video preview" width="700" />
@@ -879,7 +1120,7 @@ Create a dynamic product-landing-page UI/UX demo inspired by Nike's digital lang
 
 ---
 
-## 22. Ultra-premium cinematic luxury perfume commercial
+## 27. Ultra-premium cinematic luxury perfume commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-premium-cinematic-luxury-perfume-commercial-783085.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-premium-cinematic-luxury-perfume-commercial-783085.jpg" alt="Ultra-premium cinematic luxury perfume commercial video preview" width="700" />
@@ -929,7 +1170,7 @@ Low quality, blurry, noise, flickering, unstable motion, distorted anatomy, bad 
 
 ---
 
-## 23. Luxury Emerald Necklace Storyboard
+## 28. Luxury Emerald Necklace Storyboard
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/title-luxury-emerald-necklace-commercial-storyboard-for-872509-a300713c3d76.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/title-luxury-emerald-necklace-commercial-storyboard-for-872509-63e3a397f968.jpg" alt="Luxury Emerald Necklace Storyboard video preview" width="700" />
@@ -977,7 +1218,7 @@ Inspired by world-class luxury jewelry campaigns, premium fashion editorial, sof
 
 ---
 
-## 24. The Thief's Awkward Product Excuse
+## 29. The Thief's Awkward Product Excuse
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-video-prompt-300101-236581d53aa7.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-video-prompt-300101-009909ab0bfb.jpg" alt="The Thief's Awkward Product Excuse video preview" width="700" />
@@ -998,7 +1239,7 @@ Inspired by world-class luxury jewelry campaigns, premium fashion editorial, sof
 
 ---
 
-## 25. Neon Nightmare Burger Commercial
+## 30. Neon Nightmare Burger Commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-15-second-commercial-shot-fast-paced-editing-160587-6452503d24f8.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-15-second-commercial-shot-fast-paced-editing-160587-dc524a95b7c6.jpg" alt="Neon Nightmare Burger Commercial video preview" width="700" />

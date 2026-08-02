@@ -1,0 +1,32 @@
+{
+  "slug": "empty-suit-stop-motion-assembly-854152",
+  "title": {
+    "en": "Empty Suit Stop-Motion Assembly",
+    "zh": "空西装定格组装"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic-story prompt with attached video evidence.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "12s",
+  "aspectRatio": "5:6",
+  "ingredients": [
+    "camera-direction",
+    "timed-beats"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@lukasersil",
+    "url": "https://x.com/lukasersil/status/2082727329390854152"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/lukasersil/status/2082727332637290602"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/empty-suit-stop-motion-assembly-854152-f88cb4181bff.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/empty-suit-stop-motion-assembly-854152-475cb8c1a69b.jpg",
+  "prompt": "Static locked-off camera, no zoom, no pan, no handheld drift. The frame never moves.    Open on an empty landscape: flat azure sky, six soft cumulus clouds drifting slowly, a   band of ochre and green eroded hills along the bottom. Nothing else. Hold this for a beat.    Then the composition assembles itself, piece by piece, in surreal stop-motion cadence:    First, a torso rises into frame from the bottom edge: a man in a flecked brown tweed   jacket, white collar, dark tie. It settles and locks.    Above the collar, a vertical column starts growing upward from nothing: dark earth,   roots, dried vegetation and moss, building like soil stacking against gravity.    Chunks fly in from the frame edges and snap into the column with weight: coral and   fungal growths in salmon pink, chartreuse and rust from above; a large blue elephant   head with a visible eye and pale tusks sliding in from the right; branching red vascular   coral whipping in from the right edge.    The face parts land last and land hard: a huge glossy red fleshy mouth with white teeth   locks into the lower half, its trunk-like red tongue curling into a tight loop; a second   inverted red mouth snaps into the upper half.    Final details settle: a brown and orange moth wing unfolds at the upper right, small   pink petal-like slices freeze mid-flight on the left with fine particles suspended   around them, a small blue elephant figure tucks into the crown.    The clouds keep drifting behind and through the structure the entire time, unbothered.    Everything comes to rest in a still, balanced composition. Only the clouds move.    Photoreal 3D render, hyperreal wet organic surfaces, hard midday light, deep saturation,   crisp shadows. Surrealist portrait, Magritte staging. 12 seconds, 5:6 vertical."
+}

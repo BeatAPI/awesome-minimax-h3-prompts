@@ -1,0 +1,32 @@
+{
+  "slug": "storm-cliff-golf-physics-challenge-037151",
+  "title": {
+    "en": "Storm-Cliff Golf Physics Challenge",
+    "zh": "风暴悬崖高尔夫物理挑战"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 action prompt with attached video evidence.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动作提示词。"
+  },
+  "category": "action",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "camera-direction",
+    "native-audio"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Dheepanratnam",
+    "url": "https://x.com/Dheepanratnam/status/2082799981426037151"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/Dheepanratnam/status/2082799984055906687"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/storm-cliff-golf-physics-challenge-037151-d69ed1c1be4c.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/storm-cliff-golf-physics-challenge-037151-6f6ccf8c0ac1.jpg",
+  "prompt": "Minimax H3 Prompt\n\nA dramatic sports sequence begins on a lush, windswept coastal cliff during a violent rainstorm. A golfer in bright yellow rain gear stands on the tee box, gripping a driver. His stance is planted firmly, eyes locked on a distant green across a churning ocean cove. As he swings, the clubhead connects with a resounding crack, launching the dimpled white ball into the stormy sky. The camera immediately accelerates and locks onto the golf ball mid-flight. The camera tracks directly behind the spinning sphere, maintaining perfect alignment as it cuts through the driving rain. The ocean waves and dark clouds become a streaking motion blur while the ball remains sharp and centered. The howling wind roars as the projectile travels straight and true. The manicured green grows rapidly larger. In the final seconds, the camera closes in tightly as the ball strikes the turf. End on an extreme close-up of the ball ripping through the wet grass, throwing up a spray of dirt before dropping perfectly into the cup."
+}

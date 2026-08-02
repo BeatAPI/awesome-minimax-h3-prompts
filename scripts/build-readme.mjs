@@ -6,6 +6,7 @@ const catalogFile = new URL('../prompts/catalog.json', import.meta.url);
 const startMarker = '<!-- GENERATED_VIDEO_GALLERY_START -->';
 const endMarker = '<!-- GENERATED_VIDEO_GALLERY_END -->';
 const pageSize = 25;
+const featuredCount = 30;
 const pagesDir = new URL('../prompts/pages/', import.meta.url);
 const categoriesDir = new URL('../prompts/categories/', import.meta.url);
 const useCasesDir = new URL('../prompts/use-cases/', import.meta.url);
@@ -32,6 +33,7 @@ const useCases = [
       'title-sequence',
       'horror',
       'anime',
+      'animation',
     ],
   },
   {
@@ -223,7 +225,9 @@ const gallery = `${startMarker}
 
 **Browse by use case:** ${useCaseLinks}
 
-${entries.map((entry, index) => renderEntry(entry, index)).join('\n\n')}
+**[Browse all ${entries.length} prompts](./prompts/README.md)**
+
+${entries.slice(0, featuredCount).map((entry, index) => renderEntry(entry, index)).join('\n\n')}
 
 ${endMarker}
 
@@ -305,5 +309,5 @@ if (process.argv.includes('--check')) {
       writeFile(new URL(`${useCase.slug}.md`, useCasesDir), useCaseDocument(useCase))
     ),
   ]);
-  console.log(`Updated README with all ${entries.length} prompts and generated supporting prompt views.`);
+  console.log(`Updated README with ${Math.min(featuredCount, entries.length)} featured prompts and generated views for all ${entries.length}.`);
 }

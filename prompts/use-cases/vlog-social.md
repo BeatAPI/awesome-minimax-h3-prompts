@@ -1,6 +1,6 @@
 # MiniMax H3 Vlog & Social prompts
 
-[Back to all 100 prompts](../../README.md)
+[Back to all 120 prompts](../../README.md)
 
 ## 1. 1980s open-source family comedy
 
@@ -62,7 +62,32 @@ No CGI, no digital-looking robots, no morphing, no extra people, no duplicated c
 
 ---
 
-## 3. Post-workout gym vlog
+## 3. Porto Francesinha Comedy Recipe
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/porto-francesinha-comedy-recipe-282615-a05a82a8aebb.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/porto-francesinha-comedy-recipe-282615-53406ba6182d.jpg" alt="Porto Francesinha Comedy Recipe video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Style: &lt;image_1&gt; (don't reproduce the image, use it only as aesthetic reference) Edit: Comedy, fast paced, mixing close ups, medium shots and wide shots from uncanny and tilted...</summary>
+
+~~~~text
+Style: <image_1> (don't reproduce the image, use it only as aesthetic reference)
+
+Edit: Comedy, fast paced, mixing close ups, medium shots and wide shots from uncanny and tilted angles. Super-imposed texts with doodles identify ingredients as they appear and add comic remarks.
+
+Scene: In Porto, Portugal a crazy chef explains how to do a Francesinha in Portuguese from Portugal with Porto accent.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/porto-francesinha-comedy-recipe-282615-a05a82a8aebb.webm)
+
+**Source:** [@imagineFERA](https://x.com/imagineFERA/status/2083172752790282615) · 15s · 92:39 · comedy
+
+---
+
+## 4. Post-workout gym vlog
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/post-workout-gym-vlog.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/post-workout-gym-vlog.jpg" alt="Post-workout gym vlog video preview" width="700" />
@@ -94,7 +119,7 @@ Selfie: grabs bag and shake, waves. "Alright, I'm heading out—see you guys."
 
 ---
 
-## 4. Handcrafted paper-cut stop-motion short
+## 5. Handcrafted paper-cut stop-motion short
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/handcrafted-paper-cut-stop-motion-short-512241.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/handcrafted-paper-cut-stop-motion-short-512241-poster-12s-v2.jpg" alt="Handcrafted paper-cut stop-motion short video preview" width="700" />
@@ -140,7 +165,7 @@ Premium handcrafted stop motion, museum-quality paper art, tactile cardstock tex
 
 ---
 
-## 5. The World's Unluckiest Superhero
+## 6. The World's Unluckiest Superhero
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/documentary-about-a-superhero-who-has-extremely-bad-luc-615837-83cdec5c4d1b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/documentary-about-a-superhero-who-has-extremely-bad-luc-615837-6a0287c8cf24.jpg" alt="The World's Unluckiest Superhero video preview" width="700" />
@@ -161,7 +186,7 @@ A documentary about a superhero who has extremely bad luck and ends up saving pe
 
 ---
 
-## 6. Pizza night UGC Domino’s vlog
+## 7. Pizza night UGC Domino’s vlog
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/pizza-night-ugc-domino-s-vlog-197798.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/pizza-night-ugc-domino-s-vlog-197798.jpg" alt="Pizza night UGC Domino’s vlog video preview" width="700" />
@@ -225,7 +250,7 @@ cinematic grade, overly smooth camera moves, studio lighting, professional voice
 
 ---
 
-## 7. Condor Heroes characters teach English word dream
+## 8. Condor Heroes characters teach English word dream
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/condor-heroes-characters-teach-english-word-dream-815758.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/condor-heroes-characters-teach-english-word-dream-815758.jpg" alt="Condor Heroes characters teach English word dream video preview" width="700" />

@@ -7,7 +7,7 @@ const catalog = JSON.parse(await readFile(file, 'utf8'));
 assert.equal(catalog.version, 1, 'catalog version must be 1');
 assert.equal(catalog.model, 'MiniMax-H3', 'catalog model must be MiniMax-H3');
 assert.ok(Array.isArray(catalog.prompts), 'prompts must be an array');
-assert.equal(catalog.prompts.length, 100, 'catalog should contain 100 sourced prompts');
+assert.ok(catalog.prompts.length >= 100, 'catalog should contain at least 100 sourced prompts');
 
 const allowedCategories = new Set([
   'action',
@@ -24,6 +24,7 @@ const allowedCategories = new Set([
   'product-commercial',
   'cinematic-travel',
   'anime',
+  'animation',
   'fashion',
   'horror',
 ]);
@@ -96,10 +97,15 @@ for (const entry of catalog.prompts) {
 }
 
 const readme = await readFile(new URL('../README.md', import.meta.url), 'utf8');
+const featuredCount = 30;
 assert.equal(
   (readme.match(/^### \d+\./gm) ?? []).length,
-  catalog.prompts.length,
-  'README should display every catalog prompt'
+  Math.min(featuredCount, catalog.prompts.length),
+  'README should display a bounded featured gallery'
+);
+assert.ok(
+  readme.includes(`Browse all ${catalog.prompts.length} prompts`),
+  'README should link to the full generated catalog'
 );
 const useCaseSlugs = [
   'stories-films',
@@ -130,15 +136,17 @@ for (const useCase of useCaseSlugs) {
     `${useCase} use case should contain prompts`
   );
 }
-for (let page = 1; page <= 4; page += 1) {
+const pageSize = 25;
+const pageCount = Math.ceil(catalog.prompts.length / pageSize);
+for (let page = 1; page <= pageCount; page += 1) {
   const pageSource = await readFile(
     new URL(`../prompts/pages/${page}.md`, import.meta.url),
     'utf8'
   );
   assert.equal(
     (pageSource.match(/^## \d+\./gm) ?? []).length,
-    25,
-    `page ${page} should contain 25 prompts`
+    Math.min(pageSize, catalog.prompts.length - (page - 1) * pageSize),
+    `page ${page} should contain the expected prompt slice`
   );
 }
 for (const category of allowedCategories) {

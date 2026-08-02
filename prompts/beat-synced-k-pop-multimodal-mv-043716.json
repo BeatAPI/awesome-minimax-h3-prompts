@@ -1,0 +1,33 @@
+{
+  "slug": "beat-synced-k-pop-multimodal-mv-043716",
+  "title": {
+    "en": "Beat-Synced K-Pop Multimodal MV",
+    "zh": "节拍同步 K-Pop 多模态 MV"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 music-video prompt with attached video evidence.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+  },
+  "category": "music-video",
+  "mode": "reference-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "camera-direction",
+    "native-audio",
+    "timed-beats"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@aisearchio",
+    "url": "https://x.com/aisearchio/status/2082932693613043716"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/aisearchio/status/2082932695479517354"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/beat-synced-k-pop-multimodal-mv-043716-54c0a54b87f1.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/beat-synced-k-pop-multimodal-mv-043716-62b79925bee5.jpg",
+  "prompt": "Make an MV from Audio1 . Show these Kpop members from Image1 singing and dancing to the music. Add coarse grain, glitch effects, and grunge effects. Keep the edit fast and use hard cuts only—no fades or soft transitions. Cuts should occur within 3 seconds. Make the cuts based on the beat of the song. Use the typographic reference from Image2"
+}
