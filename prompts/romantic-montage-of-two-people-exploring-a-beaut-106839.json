@@ -1,0 +1,31 @@
+{
+  "slug": "romantic-montage-of-two-people-exploring-a-beaut-106839",
+  "title": {
+    "en": "Motion Graphics Study 106839",
+    "zh": "动态图形案例 106839"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 motion graphics prompt with attached video evidence from @ikausarsolanki.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3视频提示词。"
+  },
+  "category": "motion-graphics",
+  "mode": "text-to-video",
+  "duration": "8s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ikausarsolanki",
+    "url": "https://x.com/ikausarsolanki/status/2083617497216106839"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/ikausarsolanki/status/2083617497216106839"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/romantic-montage-of-two-people-exploring-a-beaut-106839/video-5309be7fbe3d.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/romantic-montage-of-two-people-exploring-a-beaut-106839/poster-98750acaed01.jpg",
+  "prompt": "Romantic montage of two people exploring a beautiful city. Soft lighting, candid smiles, and cinematic motion graphics.\n\nDone with @Minimax H3 in @magnific https://t.co/F6F7r7Yi4n"
+}

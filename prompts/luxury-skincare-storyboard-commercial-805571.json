@@ -27,7 +27,7 @@
   "promptSourceUrls": [
     "https://x.com/Maercihh/status/2083407991114805571"
   ],
-  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-skincare-storyboard-commercial-805571-995ac1ada011.webm",
-  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-skincare-storyboard-commercial-805571-411a41f0ec66.jpg",
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-skincare-storyboard-commercial-805571/video-995ac1ada011.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-skincare-storyboard-commercial-805571/poster-411a41f0ec66.jpg",
   "prompt": "Use the uploaded storyboard as the camera guide. Follow all 8 frames in order with smooth cinematic continuity. The same woman, outfit, hairstyle, makeup, room and product must remain perfectly consistent throughout the entire 15-second commercial. Every shot must begin where the previous shot ends with seamless match cuts and natural camera movement.\n\nShot 1 (0-1.8s)\nA slow push in as morning sunlight enters through the window. The woman looks outside and gently turns toward the mirror. The camera continues moving without stopping.\n\nTransition:\nThe camera keeps pushing forward until her face fills the frame.\n\nShot 2 (1.8-3.6s)\nWithout cutting, the shot becomes a close-up of her face in the mirror. She notices dull skin and lightly touches her cheek. The camera slowly circles around her as she reaches toward the vanity.\n\nTransition"
 }

@@ -1,0 +1,31 @@
+{
+  "slug": "gpt-image-2-758841",
+  "title": {
+    "en": "GPT Image 2",
+    "zh": "GPT Image 2"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 action prompt with attached video evidence from @ImaStudio_ai.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动作提示词。"
+  },
+  "category": "action",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ImaStudio_ai",
+    "url": "https://x.com/ImaStudio_ai/status/2085211946815758841"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/ImaStudio_ai/status/2085211946815758841"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/gpt-image-2-758841/video-afbfc0676a40.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/gpt-image-2-758841/poster-3f003e8deb71.jpg",
+  "prompt": "Create a 16:9 premium ecommerce landing page UI/UX demo built around the product in Image 1. Use a luxurious, futuristic sports-performance aesthetic with oversized bold italic sans-serif typography, dark glossy backgrounds, carbon fiber and performance-mesh textures, metallic highlights, and speed-driven light streaks. Show a smooth high-speed page scroll, premium product sections, sleek feature cards, gallery modules, tech-spec areas, and strong CTA zones. Include high-impact hover interactions like scale-up, color inversion, glow effects, card expansion, and animated typography. Make the motion cinematic, expensive, and ultra-polished, like a world-class product launch website demo.\n\n💰 Generation cost: under $3\n🖼 Input: one product image\n🧩 Output: a polished website concept video\n\nTry MiniMax H3 → https://t.co/rxvRdUYoxo"
+}

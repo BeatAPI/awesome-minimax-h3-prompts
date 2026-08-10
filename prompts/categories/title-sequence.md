@@ -4,8 +4,8 @@
 
 ## 1. Lilia Astra title sequence
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/lilia-astra-title-sequence.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/lilia-astra-title-sequence-poster-12s-v2.jpg" alt="Lilia Astra title sequence video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/lilia-astra-title-sequence/video-4dd4fb0f9f64.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/lilia-astra-title-sequence/poster-13c8ea7034f2.jpg" alt="Lilia Astra title sequence video preview" width="700" />
 </a>
 
 <details>
@@ -131,7 +131,7 @@ Camera state: position=three-quarter and over-shoulder; height=eye level then lo
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/lilia-astra-title-sequence.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/lilia-astra-title-sequence/video-4dd4fb0f9f64.webm)
 
 **Source:** [@haruuraeadss](https://x.com/haruuraeadss/status/2082945363431080299) · 15s · 16:9 · title sequence
 

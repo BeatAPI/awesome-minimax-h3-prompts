@@ -1,0 +1,31 @@
+{
+  "slug": "video-prompt-case-707794",
+  "title": {
+    "en": "很多人做 AI 影片的提示词，写的是“高级、电影感、震撼”",
+    "zh": "很多人做 AI 影片的提示词，写的是“高级、电影感、震撼”"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @iluciddreaming.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "40s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@iluciddreaming",
+    "url": "https://x.com/iluciddreaming/status/2086473853136707794"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/iluciddreaming/status/2086473853136707794"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-707794/video-e5e4b44dacee.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-707794/poster-c8f971f8e6fa.jpg",
+  "prompt": "writing 就是解决这个问题的：把你的灵感拆成画面、动作、声音、参考素材，再按官方固定格式输出。\n\n基础模式会产出三个具体字段：\n- integrated_multimodal_description\n- overall_soundscape\n- non_diegetic_music\n\nRef2VA 模式是六段式重写，对应 T2VA、I2VA、FL2VA、L2VA、Ref2VA 五种生成模式。\n\n许愿式提示词该退场了。"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "ice-cave-exploration-902327",
+  "title": {
+    "en": "Ice Cave Exploration 🏔",
+    "zh": "Ice Cave Exploration 🏔"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @Strength04_X.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "7:4",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Strength04_X",
+    "url": "https://x.com/Strength04_X/status/2086471165581902327"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Strength04_X/status/2086471165581902327"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/ice-cave-exploration-902327/video-59402d4435d2.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/ice-cave-exploration-902327/poster-a1e73a65e04b.jpg",
+  "prompt": "EXPEDITION:\nTwo glaciologists enter a newly formed ice cave to document its internal structure before seasonal melting changes it.\nEXPLORERS: Two researchers, both wearing crampons, helmets and headlamps, carrying compact measurement equipment.\nSHOOT WINDOW: 7:05 AM – 7:20 AM Early morning outside. Overcast sky. Cold blue daylight enters through the cave entrance.\nLOCATION: Glacial valley, massive blue ice formation, narrow cave entrance, translucent walls, frozen water flowing beneath the surface.\nRECORDING STYLE: First-person expedition footage mixed with a second camera operator. Headlamps create moving pools of light across the ice. Natural breathing and footsteps remain prominent.\n15-SECOND EXPLORATION:\n00:00–00:03 → Researchers squeeze through the narrow entrance.\n00:03–00:06 → Camera reveals deep blue translucent ice walls surrounding them.\n00:06–00:09 → One researcher notices water suddenly moving beneath a transparent ice floor.\n00:09–00:12 → Both carefully step backward and examine the changing surface.\n00:12–00:15 → They mark the location and begin retreating toward daylight.\nAUDIO: Boots scraping ice, dripping water, distant cracking, breathing, muffled voices.\nREALISM DIRECTIVE: Ice must behave like real compressed glacier ice, not glass. Light scatters through the walls naturally. No fantasy formations, supernatural elements or impossible cave geometry."
+}

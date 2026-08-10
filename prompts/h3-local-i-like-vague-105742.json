@@ -1,0 +1,31 @@
+{
+  "slug": "h3-local-i-like-vague-105742",
+  "title": {
+    "en": "H3 local. I like vague",
+    "zh": "H3 local. I like vague"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @LikeToasters.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "10s",
+  "aspectRatio": "19:33",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@LikeToasters",
+    "url": "https://x.com/LikeToasters/status/2086224302316105742"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/LikeToasters/status/2086224302316105742"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/h3-local-i-like-vague-105742/video-0338bd5e1fc7.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/h3-local-i-like-vague-105742/poster-7cd882b94339.jpg",
+  "prompt": "a village of tiny people living on cow poop. The camera then dramatically zooms out to show where they are and the cow nearby in the field. https://t.co/NvsP2U4Ruv"
+}

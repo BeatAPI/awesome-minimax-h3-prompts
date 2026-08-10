@@ -1,0 +1,31 @@
+{
+  "slug": "no-way-this-is-golden-595436",
+  "title": {
+    "en": "No way, this is golden 🤣😂",
+    "zh": "No way, this is golden 🤣😂"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @Arminn_Ai.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Arminn_Ai",
+    "url": "https://x.com/Arminn_Ai/status/2084387316286595436"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Arminn_Ai/status/2084387316286595436"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/no-way-this-is-golden-595436/video-49223c671db4.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/no-way-this-is-golden-595436/poster-ad490cfcd11b.jpg",
+  "prompt": "The Office (US) mockumentary style. Dunder Mifflin conference room,\nmid-afternoon, harsh fluorescent lighting, cheap office chairs,\nwhiteboard at the front. Handheld documentary camera, slightly\nunsteady, with sudden reframes and quick zooms toward whoever is\nreacting.\n\nMichael Scott stands at the whiteboard, overly excited, marker in\nhand, badly drawn diagram behind him. The staff sit around the table\nlooking exhausted. Stanley Hudson sits at the far end, glasses on,\nhead down over a folded crossword puzzle, completely disengaged.\n\nDIALOGUE:\n\nMICHAEL (loud, proud): \"Okay everybody, listen up. Large language\nmodels. L-L-Ms. This is the future of the paper industry.\"\n\nBeat. Nobody reacts. Camera pushes in slowly on Stanley — he does not\nlook up, does not blink, keeps filling in his crossword.\n\nMICHAEL: \"Which is why corporate is giving a bonus to whoever—\"\n\nInstant snap zoom to Stanley. His head lifts. He takes off his\nglasses. Dead serious.\n\nSTANLEY: \"I'm listening.\"\n\nMICHAEL (waving him off): \"—anyway. Moving on. Next topic. Prompt\nengineering.\"\n\nSnap zoom back to Stanley. He immediately puts his glasses back on,\nlowers his head, and returns to the crossword as if nothing happened.\n\nCut to Jim, who slowly turns his head and looks directly into the\ncamera lens with a flat, knowing expression. Hold for two seconds.\n\nSTYLE: single-camera sitcom shot like a documentary crew is present,\nnatural performances, no laugh track, muted office color palette,\nslightly soft consumer-camera look, characters occasionally glancing\nat the lens."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "what-if-cleopatra-ordered-pizza-892346",
+  "title": {
+    "en": "What if Cleopatra ordered pizza? 😂",
+    "zh": "What if Cleopatra ordered pizza? 😂"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @Strength04_X.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+  },
+  "category": "music-video",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Strength04_X",
+    "url": "https://x.com/Strength04_X/status/2085193166437892346"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Strength04_X/status/2085193166437892346"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/what-if-cleopatra-ordered-pizza-892346/video-c8b774803106.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/what-if-cleopatra-ordered-pizza-892346/poster-9b43dc43a54e.jpg",
+  "prompt": "0:00–0:04 — Medium shot inside a golden pyramid chamber. CLEOPATRA sits on her throne looking majestic. A modern pizza delivery guy in helmet and red jacket suddenly walks in holding a large pizza box.\n0:04–0:07 — Cleopatra stands up, points at the box and starts singing in a dramatic royal voice: “Pizza man, pizza man… bring the cheese across the sand!” while doing slow Egyptian hand waves.\n0:07–0:10 — The delivery guy tries hard to stay professional and say “That’ll be 12 dollars,” but his lips start trembling.\n0:10–0:13 — He can’t hold it and bursts out laughing, almost dropping the pizza.\n0:13–0:15 — Cleopatra freezes mid-hand-wave, looks at him, and completely cracks up too. Both are laughing while the pizza box tilts dangerously."
+}

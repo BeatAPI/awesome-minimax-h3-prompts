@@ -1,10 +1,10 @@
 # MiniMax H3 Ads & Products prompts
 
-[Back to all 120 prompts](../../README.md)
+[Back to all 200 prompts](../../README.md)
 
 ## 1. Luxury perfume commercial
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-perfume-commercial.webm">
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-perfume-commercial/video-009b605b0b07.webm">
   <img src="../../assets/readme-previews/luxury-perfume-commercial.webp" alt="Luxury perfume commercial video preview" width="700" />
 </a>
 
@@ -30,16 +30,154 @@ Slow-motion hero shot of the luxury perfume bottle elegantly rotating as glowing
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-perfume-commercial.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-perfume-commercial/video-009b605b0b07.webm)
 
 **Source:** [@CaliraVal](https://x.com/CaliraVal/status/2083059583308751079) · 15s · 16:9 · product commercial
 
 ---
 
-## 2. Low-Angle Fashion Tracking Film
+## 2. Product Commercial Study 969702
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/low-angle-fashion-tracking-film-062019-7eccbb514e51.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/low-angle-fashion-tracking-film-062019-98861d56b4fd.jpg" alt="Low-Angle Fashion Tracking Film video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/16-9-luxury-fashion-commercial-using-as-exact-vi-969702/video-c07c62a99d2c.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/16-9-luxury-fashion-commercial-using-as-exact-vi-969702/poster-949e012ef325.jpg" alt="Product Commercial Study 969702 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a 15 second, 16:9 luxury fashion commercial using @Image1@Image2 as exact visual references. @Image1 is the sole product reference. Preserve the bag’s exact proportions,...</summary>
+
+~~~~text
+Create a 15 second, 16:9 luxury fashion commercial using @Image1@Image2 as exact visual references. @Image1 is the sole product reference. Preserve the bag’s exact proportions, pale grey white woven textile, irregular rectangular stitching, soft structure, curved flap, silver clasp, four black eyelets, side construction, zipper details, and hardware. Do not reinterpret it as leather. The bag has two separate short straps made from silver chain woven with matching textile. Preserve their exact construction, attachment points, resting positions, and maximum lengths. The front strap connects only the two front eyelets. The rear strap connects only the two rear eyelets. They must never cross, merge, disappear, duplicate, lengthen, or be rerouted. @Image2 is the exact character reference. Preserve the woman’s face, green eyes, straight blonde bob, natural proportions, and understated makeup. Dress her consistently in a sophisticated beige silk summer mini dress with a square neckline, narrow shoulder straps, fitted waist, and softly moving skirt. Add ivory slingback heels and small pearl earrings. The bag is the visual anchor throughout. It must always be the largest, brightest, sharpest, or most prominently framed element. The woman, hotel, landscape, and car are supporting elements only.
+0 to 1.75 seconds: Tight product shot of the bag alone on a sunlit limestone console beside a softly shimmering Riviera pool. Directional sunlight reveals the textile weave, stitching, two straps, four eyelets, side details, and clasp. 1.75 to 3.25 seconds: Keep the bag large and tack sharp in the foreground while the woman approaches through the bright hotel suite in soft focus. She has not touched it yet. 3.25 to 5 seconds: Extreme close up of her fingers lifting both straps together. Keep the front and rear straps visibly separate, correctly routed, and uncrossed. Show realistic chain tension, textile threaded through the links, and accurate hands. 5 to 7 seconds: She places both short straps together over one shoulder and wears the bag as a side shoulder bag. It hangs close beneath her arm, high against the side of her upper waist. It must never reach her hip or thigh. Both straps remain visibly separate, uncrossed, and at their true maximum length. 7 to 9 seconds: Close tracking shot through a sunlit hotel colonnade, composed mainly around the bag moving naturally against the beige silk dress. The straps respond realistically to her steps, shoulder movement, tension, and gravity. 9 to 11 seconds: The bag stands upright and tack sharp on a pale stone terrace table. Its two straps settle naturally and remain identifiable. The woman sits behind it in soft focus, looking toward the sea. 11 to 13 seconds: She carries the bag on one shoulder toward a cream vintage convertible. In a tight product focused montage, she opens the driver door, removes both straps from her shoulder, and carefully places the bag upright on the front passenger seat cushion. The bag’s entire base must rest directly on the horizontal cushion where a passenger sits. It is not on the backrest, headrest, seat edge, center console, or top of the seat. The passenger backrest rises behind it. Both straps settle naturally beside and partly behind the bag without disappearing. She enters the driver seat. Keep the car cropped and secondary. 13 to 15 seconds: The car moves along the Riviera coast. Keep the bag upright, large, and tack sharp on the passenger seat cushion while the woman holds steering wheel and drives in the soft background. The sea and road pass through the windows in gentle motion blur. Moving sunlight reveals the woven textile, stitching, eyelets, two distinct straps, and hardware. End with one controlled flash across the silver clasp.
+Use bright, fashion forward European luxury cinematography inspired by a restored 1990s campaign film. Directional Mediterranean sunlight, dimensional shadows, layered reflections, warm 35 mm grain, gentle haliation, creamy highlights, subtle film weave, natural motion blur, and tactile textile detail. Use elegant editorial cuts, realistic movement, accurate hands, and consistent spatial logic. Add a sophisticated original fashion score with crisp percussion, warm bass, airy electronic textures, subtle chain sounds, clasp click, silk movement, footsteps, coastal ambience, car door movement, and quiet engine sound. No dialogue. No product redesign, leather texture, colour change, altered stitching, missing or merged straps, crossed straps, extra straps, extended straps, changed eyelet routing, crossbody carry, low hip placement, warped chains, changed hardware, duplicated bag, distorted hands, outfit changes, blue dress, car hero shot, wide vehicle profile, empty road shot, incorrect seat placement, text, or subtitles.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/16-9-luxury-fashion-commercial-using-as-exact-vi-969702/video-c07c62a99d2c.webm)
+
+**Source:** [@Dustfinger2077](https://x.com/Dustfinger2077/status/2086086171117969702) · 15s · 16:9 · product commercial
+
+---
+
+## 3. An other great use for : Product Showcase
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/an-other-great-use-for-product-showcase-096175/video-f3fd02e0acc0.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/an-other-great-use-for-product-showcase-096175/poster-bb6598e746d6.jpg" alt="An other great use for : Product Showcase video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — @Hailuo_AI Prompt : Create a 15-second luxury cinematic product showcase for a premium compact fragrance diffuser with a sculpted ceramic body and brushed-metal top. The product...</summary>
+
+~~~~text
+@Hailuo_AI Prompt :
+
+Create a 15-second luxury cinematic product showcase for a premium compact fragrance diffuser with a sculpted ceramic body and brushed-metal top. The product has no visible branding, labels, logos or printed text.
+
+0–4s: Begin with an extreme macro tracking shot gliding across the fine matte ceramic texture, seamless curved body, precision-machined metal rim and recessed control surface. A narrow band of warm light travels across the materials against a deep black studio background, revealing delicate surface detail and controlled highlights.
+
+4–8s: Pull back into a three-quarter hero view. The diffuser rotates slowly above a glossy dark-stone pedestal. A subtle ambient light ring gradually illuminates beneath the metal top. A fine stream of mist rises naturally and disperses softly into the air. Maintain stable geometry, consistent proportions and elegant symmetry.
+
+8–12s: Transition into an exploded-view reveal. The ceramic shell, fragrance reservoir, ultrasonic plate, airflow chamber and brushed-metal top separate smoothly in perfect vertical alignment. Delicate illuminated mist particles flow upward through the internal airflow channel while the camera performs a restrained side orbit.
+
+At 9.2s, display a clean, partially transparent callout beside the ultrasonic plate. Connect it to the component with a fine pointer line. Use a thin champagne-gold border and minimal glass-like transparency. The callout title reads: “Silent Ultrasonic Diffusion”. Beneath it, in smaller text, display: “A refined mist without heat”. Keep the overlay sharp, readable, modern and premium without obscuring the internal construction.
+
+12–15s: Every component reconnects seamlessly. The diffuser settles into a centered front-facing hero composition as warm rim lighting defines its silhouette. The callout fades away before the final lockup. Complete a gentle dolly-in while a controlled plume of mist rises from the top and the ambient light ring softly pulses once.
+
+Premium wellness-commercial finish, photorealistic ceramic and metal, realistic mist simulation, controlled reflections, soft shadows, shallow depth of field, crisp surface detail, stable product shape, no liquid spills, no people, no hands, no logos, no writing on the product, no distortion, no duplicated components and no illegible overlay text.
+2/2
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/an-other-great-use-for-product-showcase-096175/video-f3fd02e0acc0.webm)
+
+**Source:** [@LudovicCreator](https://x.com/LudovicCreator/status/2085425839236096175) · 15s · 92:39 · product commercial
+
+---
+
+## 4. going open source could mark a turning point for AI
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/going-open-source-could-mark-a-turning-point-for-006285/video-41caf4846565.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/going-open-source-could-mark-a-turning-point-for-006285/poster-76c5abfc225f.jpg" alt="going open source could mark a turning point for AI video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — exaggerated comedy acting, changing identities or faces, distorted fingers or coffee cups, rapid action editing, explosions or car chases, subtitles, text, logos, watermarks.</summary>
+
+~~~~text
+exaggerated comedy acting, changing identities or faces, distorted fingers or coffee cups, rapid action editing, explosions or car chases, subtitles, text, logos, watermarks.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/going-open-source-could-mark-a-turning-point-for-006285/video-41caf4846565.webm)
+
+**Source:** [@underwoodxie96](https://x.com/underwoodxie96/status/2084873926141006285) · 15s · 16:9 · product commercial
+
+---
+
+## 5. Mind-blown. One shot
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/mind-blown-one-shot-376793/video-b2f67795e835.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/mind-blown-one-shot-376793/poster-f47b714c6d95.jpg" alt="Mind-blown. One shot video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — [Core Concept] 15s, 160 BPM, 4/4, 40 beats. Industrial Hyperpop × Deconstructed Club: hard kicks, metallic snares, glitch hi-hats, distorted bass, sliced vocals. A timeline-based...</summary>
+
+~~~~text
+[Core Concept]
+15s, 160 BPM, 4/4, 40 beats. Industrial Hyperpop × Deconstructed Club: hard kicks, metallic snares, glitch hi-hats, distorted bass, sliced vocals. A timeline-based reality where rhythm controls space and motion.
+
+[Character Identity]
+Single androgynous dancer with short black hair, silver eyebrow mark, asymmetric black jacket, wide pants, red stitching. Maintain identical face, body, hairstyle and outfit. Multiple figures are only past-frame projections.
+
+[World Logic]
+Each kick compresses the timeline toward the dancer. Each snare duplicates previous movements into adjacent frames. Moving against the timeline transforms the 2D interface into a foldable 3D structure. The dancer escapes the repetition loop.
+
+[Visual Language]
+Black, cold white, warning red. Glass timelines, metal rails, glowing frame lines, scanning grids. Extreme wide-angle, low angles, top-down shots, Dutch angles, dolly moves, impossible perspective. 3D words COPY, SAME, TREND, OUTSIDE exist as physical architecture, not subtitles.
+
+[Motion Rules]
+Use anticipation → attack → overshoot → settle. Kick drives spatial compression, snare breaks frames, hi-hats animate cursors and fragments, bass bends time. Build with glitch cuts, then explode into an impossible continuous long take during the drop.
+
+[Restrictions]
+No character changes, extra people, random text, subtitles, logos, outfit changes, bad anatomy, flat camera angles, or meaningless flashes.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/mind-blown-one-shot-376793/video-b2f67795e835.webm)
+
+**Source:** [@lepadphone](https://x.com/lepadphone/status/2084637679254376793) · 15s · 16:9 · fashion
+
+---
+
+## 6. from Hailuio can easily make motivational videos like this
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/from-hailuio-can-easily-make-motivational-videos-599712/video-936f4b9bfe14.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/from-hailuio-can-easily-make-motivational-videos-599712/poster-49c304bcd12e.jpg" alt="from Hailuio can easily make motivational videos like this video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — { &quot;title&quot;: &quot;Outrun the Static&quot;, &quot;duration&quot;: &quot;15 seconds&quot;, &quot;aspect_ratio&quot;: &quot;9:16&quot;, &quot;style&quot;: &quot;high-quality stylised 3D animation blended with graphic-novel visuals, vibrant neon and...</summary>
+
+~~~~text
+{   "title": "Outrun the Static",   "duration": "15 seconds",   "aspect_ratio": "9:16",   "style": "high-quality stylised 3D animation blended with graphic-novel visuals, vibrant neon and daylight contrast, expressive motion blur, bold geometric lighting, fluid animation, dynamic social-media advertising, polished but not photorealistic",   "prompt": "Create an explosive, fast-paced 15-second vertical animated advertisement about shattering mental noise and building instant momentum. Open immediately inside a monochrome, static-filled city street. A slouched, hesitant urban runner stands frozen as grey glitching words reading SOMEDAY, TOO TIRED, and NOT TODAY orbit them like heavy fog. Rapid visual storytelling with zero delay: the runner stomps their foot on the pavement, pulling their laces tight as vibrant electric-cyan energy flares from their shoes. They raise their gaze with sharp focus and burst into an all-out sprint. As they stride through the grey street, each powerful footstrike shatters a floating word into glowing neon shards and transforms the dreary alley into a vibrant, high-contrast world of motion light-trails. The camera dynamically tracks alongside them in rapid close-ups and side angles. On their final leap through a giant wall of static, the fog completely shatters into brilliant golden light, revealing the transformed runner reaching a sunlit city summit. Finish with the runner standing empowered in peak condition as bold text snaps onto screen: BREAK THE STATIC. RUN YOUR DAY. Maintain relentless energy, satisfying impact beats, fluid motion, crisp transitions, and a motivational narrative that makes the viewer want to move immediately.",   "timeline": [     {       "time": "0.0-3.0 seconds",       "visual": "Immediate hook: monochrome grey street filled with glitch static. The runner stands frozen in heavy posture as floating grey words (SOMEDAY, TOO TIRED, NOT TODAY) orbit around them. Fast camera push-in.",       "text": "STUCK IN THE STATIC?"     },     {       "time": "3.0-6.5 seconds",       "visual": "Rapid close-ups of laces snapping tight and shoe sole hitting the ground. Cyan energy sparks out. The runner's posture transforms instantly from sluggish to razor-sharp focus.",       "text": ""     },     {       "time": "6.5-11.5 seconds",       "visual": "High-speed sprinting sequence with dynamic side tracking camera. Every footstrike explodes with impact fx, shattering the floating negative words into neon sparks and painting the gray environment in bright colors.",       "text": ""     },     {       "time": "11.5-15.0 seconds",       "visual": "The runner leaps through the final static wall into warm, golden sunlight over an elevated city skyline. Fast pullback as they land confidently under bright skies.",       "text": "BREAK THE STATIC\nRUN YOUR DAY"     }   ],   "voiceover": {     "enabled": true,     "delivery": "direct, energetic, crisp, and motivating, like a high-performance coach speaking directly to the viewer",     "script": "Stuck in the static? The hardest part is standing still. Lock in. Outrun yesterday."   },   "audio": {     "music": "fast-paced modern electronic-hiphop training beat with driving bass drop at second 3.0",     "sound_design": "glitch hum, sharp lace snap, heavy footfall impacts, glass shatter FX for words, wind rush, crisp final bass thump",     "mix": "Punchy and clear voiceover balanced over a driving beat; footsteps and word shatters synced precisely to the musical beat."   },   "camera": {     "movement": "rapid whip push-in, low-angle boot macro shots, dynamic parallel tracking run, and high-speed final camera pullback",     "editing": "high temporal frequency, new camera angle every 0.6 to 1.0 seconds, motion-matched cuts"   },   "negative_prompt": [     "photorealistic characters",     "slow opening",     "dramatic movie trailer tone",     "long pauses",     "cluttered camera motion",     "anatomy glitches",     "unreadable text"   ] }
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/from-hailuio-can-easily-make-motivational-videos-599712/video-936f4b9bfe14.webm)
+
+**Source:** [@sebatheepan](https://x.com/sebatheepan/status/2084311486277599712) · 15s · 16:9 · product commercial
+
+---
+
+## 7. Low-Angle Fashion Tracking Film
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/low-angle-fashion-tracking-film-062019/video-7eccbb514e51.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/low-angle-fashion-tracking-film-062019/poster-98861d56b4fd.jpg" alt="Low-Angle Fashion Tracking Film video preview" width="700" />
 </a>
 
 <details>
@@ -51,16 +189,16 @@ Ultra realistic cinematic video, shot on ARRI Alexa 35 with spherical lens, natu
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/low-angle-fashion-tracking-film-062019-7eccbb514e51.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/low-angle-fashion-tracking-film-062019/video-7eccbb514e51.webm)
 
 **Source:** [@Kiber_Alla](https://x.com/Kiber_Alla/status/2083583963512062019) · 15s · 16:9 · fashion
 
 ---
 
-## 3. Kintsugi Sword Seamless Loop
+## 8. Kintsugi Sword Seamless Loop
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/kintsugi-sword-seamless-loop-524882-18ce4fdcf3f2.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/kintsugi-sword-seamless-loop-524882-1365004257d9.jpg" alt="Kintsugi Sword Seamless Loop video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/kintsugi-sword-seamless-loop-524882/video-18ce4fdcf3f2.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/kintsugi-sword-seamless-loop-524882/poster-1365004257d9.jpg" alt="Kintsugi Sword Seamless Loop video preview" width="700" />
 </a>
 
 <details>
@@ -159,16 +297,16 @@ Prompt #MiniMaxH3 in Chinese:
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/kintsugi-sword-seamless-loop-524882-18ce4fdcf3f2.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/kintsugi-sword-seamless-loop-524882/video-18ce4fdcf3f2.webm)
 
 **Source:** [@Cia0_exe](https://x.com/Cia0_exe/status/2083525563491524882) · 15s · 16:9 · fashion
 
 ---
 
-## 4. Ramen Bowl UGC Taste Test
+## 9. Ramen Bowl UGC Taste Test
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ramen-bowl-ugc-taste-test-612348-f5a033bef00e.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ramen-bowl-ugc-taste-test-612348-2469cb1c850e.jpg" alt="Ramen Bowl UGC Taste Test video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ramen-bowl-ugc-taste-test-612348/video-f5a033bef00e.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ramen-bowl-ugc-taste-test-612348/poster-2469cb1c850e.jpg" alt="Ramen Bowl UGC Taste Test video preview" width="700" />
 </a>
 
 <details>
@@ -201,16 +339,16 @@ cinematic look, luxury commercial, perfect framing, CGI noodles, unrealistic ste
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/ramen-bowl-ugc-taste-test-612348-f5a033bef00e.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/ramen-bowl-ugc-taste-test-612348/video-f5a033bef00e.webm)
 
 **Source:** [@Taaruk_](https://x.com/Taaruk_/status/2083461207919612348) · 15s · 40:17 · product commercial
 
 ---
 
-## 5. Gourmet Burger UGC Taste Test
+## 10. Gourmet Burger UGC Taste Test
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/gourmet-burger-ugc-taste-test-165289-787be15a8d6a.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/gourmet-burger-ugc-taste-test-165289-7f4d2652dee1.jpg" alt="Gourmet Burger UGC Taste Test video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/gourmet-burger-ugc-taste-test-165289/video-787be15a8d6a.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/gourmet-burger-ugc-taste-test-165289/poster-7f4d2652dee1.jpg" alt="Gourmet Burger UGC Taste Test video preview" width="700" />
 </a>
 
 <details>
@@ -242,16 +380,16 @@ cinematic grading, commercial production, CGI burger, fake cheese, distorted han
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/gourmet-burger-ugc-taste-test-165289-787be15a8d6a.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/gourmet-burger-ugc-taste-test-165289/video-787be15a8d6a.webm)
 
 **Source:** [@oggii_0](https://x.com/oggii_0/status/2083436822085165289) · 15s · 92:39 · product commercial
 
 ---
 
-## 6. Luxury Skincare Storyboard Commercial
+## 11. Luxury Skincare Storyboard Commercial
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-skincare-storyboard-commercial-805571-995ac1ada011.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-skincare-storyboard-commercial-805571-411a41f0ec66.jpg" alt="Luxury Skincare Storyboard Commercial video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-skincare-storyboard-commercial-805571/video-995ac1ada011.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-skincare-storyboard-commercial-805571/poster-411a41f0ec66.jpg" alt="Luxury Skincare Storyboard Commercial video preview" width="700" />
 </a>
 
 <details>
@@ -274,16 +412,16 @@ Transition
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-skincare-storyboard-commercial-805571-995ac1ada011.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-skincare-storyboard-commercial-805571/video-995ac1ada011.webm)
 
 **Source:** [@Maercihh](https://x.com/Maercihh/status/2083407991114805571) · 15s · 16:9 · product commercial
 
 ---
 
-## 7. Surreal Blue Studio Dance with a Horse
+## 12. Surreal Blue Studio Dance with a Horse
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/surreal-blue-studio-dance-with-horse-588086-35d70f2a6270.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/surreal-blue-studio-dance-with-horse-588086-c616e26c1d83.jpg" alt="Surreal Blue Studio Dance with a Horse video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/surreal-blue-studio-dance-with-horse-588086/video-35d70f2a6270.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/surreal-blue-studio-dance-with-horse-588086/poster-c616e26c1d83.jpg" alt="Surreal Blue Studio Dance with a Horse video preview" width="700" />
 </a>
 
 <details>
@@ -299,16 +437,39 @@ Create a surreal 15-second fashion-film sequence inside a minimalist monochrome 
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/surreal-blue-studio-dance-with-horse-588086-35d70f2a6270.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/surreal-blue-studio-dance-with-horse-588086/video-35d70f2a6270.webm)
 
 **Source:** [@egeberkina](https://x.com/egeberkina/status/2083301476206588086) · 15s · 16:9 · fashion
 
 ---
 
-## 8. Yellow Sunglasses in a Black Studio
+## 13. cinematic editorial film, not a traditional advertisement
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/upload-use-la-ragazza-in-reference-as-a-strict-265763-3f6fdfa9ec17.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/upload-use-la-ragazza-in-reference-as-a-strict-265763-991557679b75.jpg" alt="Yellow Sunglasses in a Black Studio video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-editorial-film-not-a-traditional-adver-555943/video-534c0e4af02c.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-editorial-film-not-a-traditional-adver-555943/poster-0a63df1d32fb.jpg" alt="cinematic editorial film, not a traditional advertisement video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — 15-second premium luxury coffee commercial for the coffee brand &quot;INSOMNIA&quot;. Create a cinematic editorial film, not a traditional advertisement. The visual language blends high-end...</summary>
+
+~~~~text
+15-second premium luxury coffee commercial for the coffee brand "INSOMNIA". Create a cinematic editorial film, not a traditional advertisement. The visual language blends high-end fashion campaigns, premium product films, and modern graphic design. Every shot feels intentionally art-directed and professionally edited. Deep matte black, espresso brown, warm amber highlights, soft volumetric lighting, glossy reflections, subtle film grain, rich contrast, and an expensive cinematic color grade. Fast editorial rhythm using only crisp hard cuts synchronized with the soundtrack. No dissolves or soft transitions. Integrate bold typography naturally into the scene instead of placing it like subtitles. Massive words such as "INSOMNIA", "NO SLEEP", "STAY AWAKE", and "STAY INSPIRED" appear as architectural elements, illuminated walls, floating design layers, reflections on glass, or oversized background graphics while the camera moves around the product. Typography should remain clean, sharp, readable, and premium. Mix typography styles including giant bold headlines, thin technical labels, vertical text, rotated captions, editorial annotations, product specifications, registration marks, minimal grid lines, and stylish barcode-inspired graphic elements used only as design features, not functional barcodes. Use smooth masking reveals, frame drawing animations, split layouts, sliding typography, geometric wipes, and magazine-style collage compositions while maintaining realistic live-action footage. Show premium roasted coffee beans, aromatic steam, rich espresso pouring in macro detail, a matte black luxury coffee cup, dramatic close-ups, elegant camera movement, and refined product beauty shots. The entire film should feel like an international luxury fashion campaign directed by a top creative agency, combining cinematic realism with sophisticated editorial motion graphics. Finish with the INSOMNIA logo centered on a black background with the tagline "Stay Awake. Stay Inspired." in elegant minimal typography.
+
+Created using MiniMax H3 on @openart_ai
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-editorial-film-not-a-traditional-adver-555943/video-534c0e4af02c.webm)
+
+**Source:** [@pewdenai](https://x.com/pewdenai/status/2083298802413555943) · 15s · 92:39 · product commercial
+
+---
+
+## 14. Yellow Sunglasses in a Black Studio
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/upload-use-la-ragazza-in-reference-as-a-strict-265763/video-3f6fdfa9ec17.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/upload-use-la-ragazza-in-reference-as-a-strict-265763/poster-991557679b75.jpg" alt="Yellow Sunglasses in a Black Studio video preview" width="700" />
 </a>
 
 <details>
@@ -376,16 +537,16 @@ Composition: model centered, all type within the central third of the frame
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/upload-use-la-ragazza-in-reference-as-a-strict-265763-3f6fdfa9ec17.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/upload-use-la-ragazza-in-reference-as-a-strict-265763/video-3f6fdfa9ec17.webm)
 
 **Source:** [@shikoba_86](https://x.com/shikoba_86/status/2083225662316265763) · 15s · 16:9 · product commercial
 
 ---
 
-## 9. Strawberry Drink Transformation Commercial
+## 15. Strawberry Drink Transformation Commercial
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/shots-shot-id-1-start-time-00-00-end-878083-fac16344ba1e.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/shots-shot-id-1-start-time-00-00-end-878083-5b30a531bab4.jpg" alt="Strawberry Drink Transformation Commercial video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/shots-shot-id-1-start-time-00-00-end-878083/video-fac16344ba1e.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/shots-shot-id-1-start-time-00-00-end-878083/poster-5b30a531bab4.jpg" alt="Strawberry Drink Transformation Commercial video preview" width="700" />
 </a>
 
 <details>
@@ -397,16 +558,16 @@ Composition: model centered, all type within the central third of the frame
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/shots-shot-id-1-start-time-00-00-end-878083-fac16344ba1e.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/shots-shot-id-1-start-time-00-00-end-878083/video-fac16344ba1e.webm)
 
 **Source:** [@GumVue](https://x.com/GumVue/status/2083189719827878083) · 7s · 16:9 · product commercial
 
 ---
 
-## 10. Ice Gunslinger Interactive Web Loop
+## 16. Ice Gunslinger Interactive Web Loop
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ice-gunslinger-interactive-web-loop-045626-8ed8d15497ae.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ice-gunslinger-interactive-web-loop-045626-b4852f65a0a0.jpg" alt="Ice Gunslinger Interactive Web Loop video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ice-gunslinger-interactive-web-loop-045626/video-8ed8d15497ae.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ice-gunslinger-interactive-web-loop-045626/poster-b4852f65a0a0.jpg" alt="Ice Gunslinger Interactive Web Loop video preview" width="700" />
 </a>
 
 <details>
@@ -492,16 +653,16 @@ Composition: model centered, all type within the central third of the frame
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/ice-gunslinger-interactive-web-loop-045626-8ed8d15497ae.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/ice-gunslinger-interactive-web-loop-045626/video-8ed8d15497ae.webm)
 
 **Source:** [@Cia0_exe](https://x.com/Cia0_exe/status/2083180088775045626) · 15s · 959:540 · fashion
 
 ---
 
-## 11. Blackberry Vanilla Soda UGC Vlog
+## 17. Blackberry Vanilla Soda UGC Vlog
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/blackberry-vanilla-soda-ugc-vlog-998714-1ca980fa6505.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/blackberry-vanilla-soda-ugc-vlog-998714-7b02c89bbf7e.jpg" alt="Blackberry Vanilla Soda UGC Vlog video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/blackberry-vanilla-soda-ugc-vlog-998714/video-1ca980fa6505.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/blackberry-vanilla-soda-ugc-vlog-998714/poster-7b02c89bbf7e.jpg" alt="Blackberry Vanilla Soda UGC Vlog video preview" width="700" />
 </a>
 
 <details>
@@ -537,16 +698,16 @@ Continuous natural ambient kitchen sound, subtle upbeat pop background music und
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/blackberry-vanilla-soda-ugc-vlog-998714-1ca980fa6505.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/blackberry-vanilla-soda-ugc-vlog-998714/video-1ca980fa6505.webm)
 
 **Source:** [@AIwithJessica](https://x.com/AIwithJessica/status/2083136052638998714) · 15s · 16:9 · product commercial
 
 ---
 
-## 12. Bamboo Forest Wuxia Mystery
+## 18. Bamboo Forest Wuxia Mystery
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/16-9-cinematic-wuxia-mystery-set-in-a-bamboo-571041-da23c2db41ab.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/16-9-cinematic-wuxia-mystery-set-in-a-bamboo-571041-6d22d8f211d0.jpg" alt="Bamboo Forest Wuxia Mystery video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/16-9-cinematic-wuxia-mystery-set-in-a-bamboo-571041/video-da23c2db41ab.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/16-9-cinematic-wuxia-mystery-set-in-a-bamboo-571041/poster-6d22d8f211d0.jpg" alt="Bamboo Forest Wuxia Mystery video preview" width="700" />
 </a>
 
 <details>
@@ -561,16 +722,16 @@ Prioritize facial close-ups and measured shot/reverse-shot coverage. Keep the rh
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/16-9-cinematic-wuxia-mystery-set-in-a-bamboo-571041-da23c2db41ab.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/16-9-cinematic-wuxia-mystery-set-in-a-bamboo-571041/video-da23c2db41ab.webm)
 
 **Source:** [@AIwithAliya](https://x.com/AIwithAliya/status/2083132770650571041) · 15s · 16:9 · product commercial
 
 ---
 
-## 13. Golden Guardian Web Hero Loop
+## 19. Golden Guardian Web Hero Loop
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/golden-guardian-web-hero-loop-616089-ad594df1ac56.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/golden-guardian-web-hero-loop-616089-f3ffd3a6c85e.jpg" alt="Golden Guardian Web Hero Loop video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/golden-guardian-web-hero-loop-616089/video-ad594df1ac56.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/golden-guardian-web-hero-loop-616089/poster-f3ffd3a6c85e.jpg" alt="Golden Guardian Web Hero Loop video preview" width="700" />
 </a>
 
 <details>
@@ -657,16 +818,16 @@ Prioritize facial close-ups and measured shot/reverse-shot coverage. Keep the rh
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/golden-guardian-web-hero-loop-616089-ad594df1ac56.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/golden-guardian-web-hero-loop-616089/video-ad594df1ac56.webm)
 
 **Source:** [@Cia0_exe](https://x.com/Cia0_exe/status/2083090068378616089) · 30s · 16:9 · fashion
 
 ---
 
-## 14. Emerald Bio-Serum Product Film
+## 20. Emerald Bio-Serum Product Film
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-luxury-skincare-product-commercial-vertical-9-591469-3ae42a6b5baa.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-luxury-skincare-product-commercial-vertical-9-591469-c0c5f3bb6066.jpg" alt="Emerald Bio-Serum Product Film video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-luxury-skincare-product-commercial-vertical-9-591469/video-3ae42a6b5baa.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-luxury-skincare-product-commercial-vertical-9-591469/poster-c0c5f3bb6066.jpg" alt="Emerald Bio-Serum Product Film video preview" width="700" />
 </a>
 
 <details>
@@ -678,16 +839,16 @@ Cinematic luxury skincare product commercial, vertical 9:16, 15 seconds. A trans
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-luxury-skincare-product-commercial-vertical-9-591469-3ae42a6b5baa.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-luxury-skincare-product-commercial-vertical-9-591469/video-3ae42a6b5baa.webm)
 
 **Source:** [@noorlewisx](https://x.com/noorlewisx/status/2083081579262591469) · 15s · 9:16 · product commercial
 
 ---
 
-## 15. Black-and-Gold Perfume Commercial
+## 21. Black-and-Gold Perfume Commercial
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-ultra-premium-luxury-perfume-commercial-in-ci-520833-3e8b79841b85.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-ultra-premium-luxury-perfume-commercial-in-ci-520833-d1f16abe5ae1.jpg" alt="Black-and-Gold Perfume Commercial video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-ultra-premium-luxury-perfume-commercial-in-ci-520833/video-3e8b79841b85.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-ultra-premium-luxury-perfume-commercial-in-ci-520833/poster-d1f16abe5ae1.jpg" alt="Black-and-Gold Perfume Commercial video preview" width="700" />
 </a>
 
 <details>
@@ -709,16 +870,16 @@ Photorealistic, Hollywood luxury TV commercial, ultra-detailed, flawless glass r
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-ultra-premium-luxury-perfume-commercial-in-ci-520833-3e8b79841b85.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-ultra-premium-luxury-perfume-commercial-in-ci-520833/video-3e8b79841b85.webm)
 
 **Source:** [@kingofdairyque](https://x.com/kingofdairyque/status/2083079304632520833) · 15s · 16:9 · product commercial
 
 ---
 
-## 16. Morning Lip Oil UGC Testimonial
+## 22. Morning Lip Oil UGC Testimonial
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-character-reference-preserve-her-fac-256521-544db8790618.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-character-reference-preserve-her-fac-256521-8add510d989f.jpg" alt="Morning Lip Oil UGC Testimonial video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-character-reference-preserve-her-fac-256521/video-544db8790618.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-character-reference-preserve-her-fac-256521/poster-8add510d989f.jpg" alt="Morning Lip Oil UGC Testimonial video preview" width="700" />
 </a>
 
 <details>
@@ -738,16 +899,16 @@ Authentic UGC creator content, realistic facial expressions, natural hand gestur
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-character-reference-preserve-her-fac-256521-544db8790618.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-character-reference-preserve-her-fac-256521/video-544db8790618.webm)
 
 **Source:** [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2083075282186256521) · 15s · 16:9 · product commercial
 
 ---
 
-## 17. Luxury Watch Storyboard Campaign
+## 23. Luxury Watch Storyboard Campaign
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-watch-storyboard-campaign-903017-159289899741.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-watch-storyboard-campaign-903017-2d54ae2e9819.jpg" alt="Luxury Watch Storyboard Campaign video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-watch-storyboard-campaign-903017/video-159289899741.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-watch-storyboard-campaign-903017/poster-2d54ae2e9819.jpg" alt="Luxury Watch Storyboard Campaign video preview" width="700" />
 </a>
 
 <details>
@@ -819,16 +980,16 @@ Create a world-class luxury watch commercial.
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-watch-storyboard-campaign-903017-159289899741.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-watch-storyboard-campaign-903017/video-159289899741.webm)
 
 **Source:** [@I_amShiti](https://x.com/I_amShiti/status/2083051609953903017) · 15s · 16:9 · product commercial
 
 ---
 
-## 18. NOVA X smartphone TVC
+## 24. NOVA X smartphone TVC
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/nova-x-smartphone-tvc.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/nova-x-smartphone-tvc.jpg" alt="NOVA X smartphone TVC video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/nova-x-smartphone-tvc/video-2d8b6006478e.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/nova-x-smartphone-tvc/poster-b8d3da037263.jpg" alt="NOVA X smartphone TVC video preview" width="700" />
 </a>
 
 <details>
@@ -846,16 +1007,16 @@ Create a 15-second premium cinematic branding TVC for a futuristic smartphone br
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/nova-x-smartphone-tvc.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/nova-x-smartphone-tvc/video-2d8b6006478e.webm)
 
 **Source:** [@UrMeer289](https://x.com/UrMeer289/status/2083048872566575568) · 15s · 16:9 · product commercial
 
 ---
 
-## 19. SparkRush Ultra Fizz beach soft-drink commercial
+## 25. SparkRush Ultra Fizz beach soft-drink commercial
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/sparkrush-ultra-fizz-beach-soft-drink-commercial-383681.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/sparkrush-ultra-fizz-beach-soft-drink-commercial-383681.jpg" alt="SparkRush Ultra Fizz beach soft-drink commercial video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/sparkrush-ultra-fizz-beach-soft-drink-commercial-383681/video-d58a1e1504ea.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/sparkrush-ultra-fizz-beach-soft-drink-commercial-383681/poster-2b0c0c9a968a.jpg" alt="SparkRush Ultra Fizz beach soft-drink commercial video preview" width="700" />
 </a>
 
 <details>
@@ -937,16 +1098,16 @@ CUT8 0:14-0:15
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/sparkrush-ultra-fizz-beach-soft-drink-commercial-383681.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/sparkrush-ultra-fizz-beach-soft-drink-commercial-383681/video-d58a1e1504ea.webm)
 
 **Source:** [@mi7_crypto](https://x.com/mi7_crypto/status/2083042578883383681) · 15s · 108:145 · product commercial
 
 ---
 
-## 20. Premium cinematic fashion campaign outfit reveal
+## 26. Premium cinematic fashion campaign outfit reveal
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/premium-cinematic-fashion-campaign-outfit-reveal-103224.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/premium-cinematic-fashion-campaign-outfit-reveal-103224.jpg" alt="Premium cinematic fashion campaign outfit reveal video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/premium-cinematic-fashion-campaign-outfit-reveal-103224/video-df6c020702d4.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/premium-cinematic-fashion-campaign-outfit-reveal-103224/poster-0a6dd612e1a2.jpg" alt="Premium cinematic fashion campaign outfit reveal video preview" width="700" />
 </a>
 
 <details>
@@ -958,16 +1119,16 @@ Create a premium cinematic fashion campaign video using the five uploaded appare
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/premium-cinematic-fashion-campaign-outfit-reveal-103224.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/premium-cinematic-fashion-campaign-outfit-reveal-103224/video-df6c020702d4.webm)
 
 **Source:** [@luxaios](https://x.com/luxaios/status/2083024913322103224) · 15s · 9:16 · brand film
 
 ---
 
-## 21. Cyber-grunge fashion film with VHS glitch
+## 27. Cyber-grunge fashion film with VHS glitch
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/cyber-grunge-fashion-film-with-vhs-glitch-978345.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/cyber-grunge-fashion-film-with-vhs-glitch-978345.jpg" alt="Cyber-grunge fashion film with VHS glitch video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/cyber-grunge-fashion-film-with-vhs-glitch-978345/video-c438b1df4b17.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/cyber-grunge-fashion-film-with-vhs-glitch-978345/poster-7a372fea4e5c.jpg" alt="Cyber-grunge fashion film with VHS glitch video preview" width="700" />
 </a>
 
 <details>
@@ -981,16 +1142,16 @@ VHS glitches, CCTV dropouts, 90s grain, scanlines, chromatic aberration, flash-t
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/cyber-grunge-fashion-film-with-vhs-glitch-978345.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/cyber-grunge-fashion-film-with-vhs-glitch-978345/video-c438b1df4b17.webm)
 
 **Source:** [@fal](https://x.com/fal/status/2083021146341978345) · 19s · 16:9 · brand film
 
 ---
 
-## 22. RadiantGlo skincare commercial
+## 28. RadiantGlo skincare commercial
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/radiantglo-skincare-commercial.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/radiantglo-skincare-commercial.jpg" alt="RadiantGlo skincare commercial video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/radiantglo-skincare-commercial/video-2534fd8d7746.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/radiantglo-skincare-commercial/poster-7ffd693fc2a8.jpg" alt="RadiantGlo skincare commercial video preview" width="700" />
 </a>
 
 <details>
@@ -1008,16 +1169,16 @@ Cold nights fading into warm dawn color science throughout — think a skincare 
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/radiantglo-skincare-commercial.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/radiantglo-skincare-commercial/video-2534fd8d7746.webm)
 
 **Source:** [@AIwithJessica](https://x.com/AIwithJessica/status/2083013658230317082) · 15s · 16:9 · brand film
 
 ---
 
-## 23. Bathroom Mirror Skincare UGC Ad
+## 29. Bathroom Mirror Skincare UGC Ad
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ugc-style-skincare-video-featuring-a-realistic-young-wo-242986-ec288635cb7f.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ugc-style-skincare-video-featuring-a-realistic-young-wo-242986-18b009c5b1b5.jpg" alt="Bathroom Mirror Skincare UGC Ad video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ugc-style-skincare-video-featuring-a-realistic-young-wo-242986/video-ec288635cb7f.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ugc-style-skincare-video-featuring-a-realistic-young-wo-242986/poster-18b009c5b1b5.jpg" alt="Bathroom Mirror Skincare UGC Ad video preview" width="700" />
 </a>
 
 <details>
@@ -1029,16 +1190,16 @@ UGC-style skincare video featuring a realistic young woman speaking directly to 
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/ugc-style-skincare-video-featuring-a-realistic-young-wo-242986-ec288635cb7f.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/ugc-style-skincare-video-featuring-a-realistic-young-wo-242986/video-ec288635cb7f.webm)
 
 **Source:** [@ZaraIrahh](https://x.com/ZaraIrahh/status/2083011066800242986) · 15s · 16:9 · product commercial
 
 ---
 
-## 24. Luxury Sports Car Landing Page Motion
+## 30. Luxury Sports Car Landing Page Motion
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ui-ux-motion-showcase-video-for-a-high-performance-luxu-229386-9d89c4f629e6.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ui-ux-motion-showcase-video-for-a-high-performance-luxu-229386-ebbf825e1ade.jpg" alt="Luxury Sports Car Landing Page Motion video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ui-ux-motion-showcase-video-for-a-high-performance-luxu-229386/video-9d89c4f629e6.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ui-ux-motion-showcase-video-for-a-high-performance-luxu-229386/poster-ebbf825e1ade.jpg" alt="Luxury Sports Car Landing Page Motion video preview" width="700" />
 </a>
 
 <details>
@@ -1122,16 +1283,16 @@ A premium automotive brand website, similar to a supercar launch page. Dark meta
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/ui-ux-motion-showcase-video-for-a-high-performance-luxu-229386-9d89c4f629e6.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/ui-ux-motion-showcase-video-for-a-high-performance-luxu-229386/video-9d89c4f629e6.webm)
 
 **Source:** [@BubbleBrain](https://x.com/BubbleBrain/status/2082999806948229386) · 14s · 16:9 · product commercial
 
 ---
 
-## 25. KALDR cold perfume commercial multi-reference
+## 31. KALDR cold perfume commercial multi-reference
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/kaldr-cold-perfume-commercial-multi-reference-943073.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/kaldr-cold-perfume-commercial-multi-reference-943073.jpg" alt="KALDR cold perfume commercial multi-reference video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/kaldr-cold-perfume-commercial-multi-reference-943073/video-0b03def784aa.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/kaldr-cold-perfume-commercial-multi-reference-943073/poster-b0ced00e36d5.jpg" alt="KALDR cold perfume commercial multi-reference video preview" width="700" />
 </a>
 
 <details>
@@ -1176,16 +1337,16 @@ Do not add other people, boats, buildings, vehicles, modern objects, subtitles, 
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/kaldr-cold-perfume-commercial-multi-reference-943073.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/kaldr-cold-perfume-commercial-multi-reference-943073/video-0b03def784aa.webm)
 
 **Source:** [@abulu8](https://x.com/abulu8/status/2082919486399943073) · 15s · 640:271 · product commercial
 
 ---
 
-## 26. Luxury metallic gown desert runway fashion ad
+## 32. Luxury metallic gown desert runway fashion ad
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-metallic-gown-desert-runway-fashion-ad-907132.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-metallic-gown-desert-runway-fashion-ad-907132.jpg" alt="Luxury metallic gown desert runway fashion ad video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-metallic-gown-desert-runway-fashion-ad-907132/video-79e8be8efcca.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-metallic-gown-desert-runway-fashion-ad-907132/poster-f22e97706ea8.jpg" alt="Luxury metallic gown desert runway fashion ad video preview" width="700" />
 </a>
 
 <details>
@@ -1197,16 +1358,16 @@ Do not add other people, boats, buildings, vehicles, modern objects, subtitles, 
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-metallic-gown-desert-runway-fashion-ad-907132.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-metallic-gown-desert-runway-fashion-ad-907132/video-79e8be8efcca.webm)
 
 **Source:** [@noorwithwifi](https://x.com/noorwithwifi/status/2082897758084907132) · 12s · 16:9 · product commercial
 
 ---
 
-## 27. Luxury checkered sports-coupe night-to-dawn commercial
+## 33. Luxury checkered sports-coupe night-to-dawn commercial
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-checkered-sports-coupe-night-to-dawn-commercial-451623.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-checkered-sports-coupe-night-to-dawn-commercial-451623.jpg" alt="Luxury checkered sports-coupe night-to-dawn commercial video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-checkered-sports-coupe-night-to-dawn-commercial-451623/video-741ec90432a6.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-checkered-sports-coupe-night-to-dawn-commercial-451623/poster-c2420b1685bb.jpg" alt="Luxury checkered sports-coupe night-to-dawn commercial video preview" width="700" />
 </a>
 
 <details>
@@ -1241,16 +1402,16 @@ coherent character and vehicle identity across every cut 📷Image1 , cinematic 
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-checkered-sports-coupe-night-to-dawn-commercial-451623.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-checkered-sports-coupe-night-to-dawn-commercial-451623/video-741ec90432a6.webm)
 
 **Source:** [@shirawiggles](https://x.com/shirawiggles/status/2082857595824451623) · 15s · 16:9 · product commercial
 
 ---
 
-## 28. Marble Staircase Lip Gloss Commercial
+## 34. Marble Staircase Lip Gloss Commercial
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-character-reference-preserve-her-fac-150697-b637e0c6f931.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-character-reference-preserve-her-fac-150697-dfa401edffbd.jpg" alt="Marble Staircase Lip Gloss Commercial video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-character-reference-preserve-her-fac-150697/video-b637e0c6f931.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-character-reference-preserve-her-fac-150697/poster-dfa401edffbd.jpg" alt="Marble Staircase Lip Gloss Commercial video preview" width="700" />
 </a>
 
 <details>
@@ -1266,16 +1427,16 @@ Ultra-realistic beauty cinematography, luxury cosmetic campaign, smooth gimbal m
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-character-reference-preserve-her-fac-150697-b637e0c6f931.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-character-reference-preserve-her-fac-150697/video-b637e0c6f931.webm)
 
 **Source:** [@AIwithSynthia](https://x.com/AIwithSynthia/status/2082845923152150697) · 15s · 16:9 · product commercial
 
 ---
 
-## 29. Sushi Night Smartphone UGC Vlog
+## 35. Sushi Night Smartphone UGC Vlog
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/duration-15-seconds-aspect-ratio-16-9-style-authentic-613617-7d59e3e86e10.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/duration-15-seconds-aspect-ratio-16-9-style-authentic-613617-ee7d7c188983.jpg" alt="Sushi Night Smartphone UGC Vlog video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/duration-15-seconds-aspect-ratio-16-9-style-authentic-613617/video-7d59e3e86e10.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/duration-15-seconds-aspect-ratio-16-9-style-authentic-613617/poster-ee7d7c188983.jpg" alt="Sushi Night Smartphone UGC Vlog video preview" width="700" />
 </a>
 
 <details>
@@ -1316,16 +1477,16 @@ cinematic color grading, overly smooth gimbal movement, studio lighting, profess
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/duration-15-seconds-aspect-ratio-16-9-style-authentic-613617-7d59e3e86e10.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/duration-15-seconds-aspect-ratio-16-9-style-authentic-613617/video-7d59e3e86e10.webm)
 
 **Source:** [@oggii_0](https://x.com/oggii_0/status/2082837405812613617) · 15s · 92:39 · product commercial
 
 ---
 
-## 30. Strawberry seasonal match-cut food commercial
+## 36. Strawberry seasonal match-cut food commercial
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/strawberry-seasonal-match-cut-food-commercial-117943.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/strawberry-seasonal-match-cut-food-commercial-117943.jpg" alt="Strawberry seasonal match-cut food commercial video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/strawberry-seasonal-match-cut-food-commercial-117943/video-683968bcc3d5.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/strawberry-seasonal-match-cut-food-commercial-117943/poster-d840280d5869.jpg" alt="Strawberry seasonal match-cut food commercial video preview" width="700" />
 </a>
 
 <details>
@@ -1337,16 +1498,16 @@ Premium food commercial. Extreme macro shot of a single ripe strawberry falling 
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/strawberry-seasonal-match-cut-food-commercial-117943.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/strawberry-seasonal-match-cut-food-commercial-117943/video-683968bcc3d5.webm)
 
 **Source:** [@HBCoop_](https://x.com/HBCoop_/status/2082827829172117943) · 15s · 92:39 · product commercial
 
 ---
 
-## 31. White-Cyclorama Luxury Eyewear Campaign
+## 37. White-Cyclorama Luxury Eyewear Campaign
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/premium-9-16-fashion-eyewear-commercial-match-the-refer-665060-4d28abb73363.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/premium-9-16-fashion-eyewear-commercial-match-the-refer-665060-b6317831cfc6.jpg" alt="White-Cyclorama Luxury Eyewear Campaign video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/premium-9-16-fashion-eyewear-commercial-match-the-refer-665060/video-4d28abb73363.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/premium-9-16-fashion-eyewear-commercial-match-the-refer-665060/poster-b6317831cfc6.jpg" alt="White-Cyclorama Luxury Eyewear Campaign video preview" width="700" />
 </a>
 
 <details>
@@ -1359,16 +1520,16 @@ Create a premium 9:16 fashion-eyewear commercial. Match the reference video’s 
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/premium-9-16-fashion-eyewear-commercial-match-the-refer-665060-4d28abb73363.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/premium-9-16-fashion-eyewear-commercial-match-the-refer-665060/video-4d28abb73363.webm)
 
 **Source:** [@hey_leomartin](https://x.com/hey_leomartin/status/2082820121882665060) · 15s · 9:16 · product commercial
 
 ---
 
-## 32. Dark Rap Fashion Zine Music Video
+## 38. Dark Rap Fashion Zine Music Video
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/style-dark-rap-rap-music-video-with-photoreal-high-fash-066367-f7530cdb0007.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/style-dark-rap-rap-music-video-with-photoreal-high-fash-066367-042e39743d51.jpg" alt="Dark Rap Fashion Zine Music Video video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/style-dark-rap-rap-music-video-with-photoreal-high-fash-066367/video-f7530cdb0007.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/style-dark-rap-rap-music-video-with-photoreal-high-fash-066367/poster-042e39743d51.jpg" alt="Dark Rap Fashion Zine Music Video video preview" width="700" />
 </a>
 
 <details>
@@ -1380,16 +1541,43 @@ Style: dark-rap -rap music video with photoreal high-fashion polish and the text
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/style-dark-rap-rap-music-video-with-photoreal-high-fash-066367-f7530cdb0007.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/style-dark-rap-rap-music-video-with-photoreal-high-fash-066367/video-f7530cdb0007.webm)
 
 **Source:** [@MO_IAI](https://x.com/MO_IAI/status/2082818054598066367) · 15s · 16:9 · product commercial
 
 ---
 
-## 33. Luxury wireless headphones product showcase
+## 39. The Brief: "Jessica x The Bag"
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-wireless-headphones-product-showcase-291312.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-wireless-headphones-product-showcase-291312.jpg" alt="Luxury wireless headphones product showcase video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/the-brief-jessica-x-the-bag-804089/video-0ef2025a0f9f.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/the-brief-jessica-x-the-bag-804089/poster-2901ee10dfd8.jpg" alt="The Brief: &quot;Jessica x The Bag&quot; video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — The Brief: &quot;Jessica x The Bag&quot; 15 seconds. One face, one bag, one mood — effortless luxury. Jessica walks into frame on a sun-warmed city street, the cognac leather bag with its...</summary>
+
+~~~~text
+The Brief: "Jessica x The Bag"
+
+15 seconds. One face, one bag, one mood — effortless luxury.
+
+Jessica walks into frame on a sun-warmed city street, the cognac leather bag with its hand-scribbled blue design swinging from her hand. She's in a fitted black dress with tan accents that pick up the bag's exact shade — every detail intentional. The camera pushes in as she lifts the bag, gold hardware flashing in the light, her expression shifting from composed to a knowing half-smile. A slow turn through a marble-lit interior, dress catching the glow, bag cradled at her arm. Final beat: she faces the lens dead-on, bag held forward, hero shot, soft rim light framing her like a campaign still. Fade.
+
+Warm, glossy, early-2000s fashion-film color science throughout — think The Devil Wears Prada meets a runway ad. Same face, same bag, same world, held together across every cut.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/the-brief-jessica-x-the-bag-804089/video-0ef2025a0f9f.webm)
+
+**Source:** [@AIwithJessica](https://x.com/AIwithJessica/status/2082804771220804089) · 15s · 16:9 · fashion
+
+---
+
+## 40. Luxury wireless headphones product showcase
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-wireless-headphones-product-showcase-291312/video-6d76adba9a18.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-wireless-headphones-product-showcase-291312/poster-8b57d5fe56fd.jpg" alt="Luxury wireless headphones product showcase video preview" width="700" />
 </a>
 
 <details>
@@ -1409,16 +1597,16 @@ Create a 15-second luxury cinematic product showcase for premium wireless over-e
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-wireless-headphones-product-showcase-291312.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-wireless-headphones-product-showcase-291312/video-6d76adba9a18.webm)
 
 **Source:** [@LudovicCreator](https://x.com/LudovicCreator/status/2082783319075291312) · 15s · 16:9 · product demo
 
 ---
 
-## 34. Vertical car transformation street-culture film
+## 41. Vertical car transformation street-culture film
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/vertical-car-transformation-street-culture-film-378938.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/vertical-car-transformation-street-culture-film-378938.jpg" alt="Vertical car transformation street-culture film video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/vertical-car-transformation-street-culture-film-378938/video-68111b1a63ab.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/vertical-car-transformation-street-culture-film-378938/poster-aee0c4e02707.jpg" alt="Vertical car transformation street-culture film video preview" width="700" />
 </a>
 
 <details>
@@ -1538,16 +1726,16 @@ Feels like a premium car modification advertisement
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/vertical-car-transformation-street-culture-film-378938.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/vertical-car-transformation-street-culture-film-378938/video-68111b1a63ab.webm)
 
 **Source:** [@fromjtown](https://x.com/fromjtown/status/2082783123830378938) · 15s · 16:9 · product commercial
 
 ---
 
-## 35. High-Speed Sports Product Landing Page
+## 42. High-Speed Sports Product Landing Page
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/dynamic-product-landing-page-ui-ux-demo-inspired-by-nik-789559-08cc2ecf4395.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/dynamic-product-landing-page-ui-ux-demo-inspired-by-nik-789559-6fdf282e513d.jpg" alt="High-Speed Sports Product Landing Page video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/dynamic-product-landing-page-ui-ux-demo-inspired-by-nik-789559/video-08cc2ecf4395.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/dynamic-product-landing-page-ui-ux-demo-inspired-by-nik-789559/poster-6fdf282e513d.jpg" alt="High-Speed Sports Product Landing Page video preview" width="700" />
 </a>
 
 <details>
@@ -1559,16 +1747,16 @@ Create a dynamic product-landing-page UI/UX demo inspired by Nike's digital lang
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/dynamic-product-landing-page-ui-ux-demo-inspired-by-nik-789559-08cc2ecf4395.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/dynamic-product-landing-page-ui-ux-demo-inspired-by-nik-789559/video-08cc2ecf4395.webm)
 
 **Source:** [@Voxyz_ai](https://x.com/Voxyz_ai/status/2082777543824789559) · 15s · 16:9 · product commercial
 
 ---
 
-## 36. Ultra-premium cinematic luxury perfume commercial
+## 43. Ultra-premium cinematic luxury perfume commercial
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-premium-cinematic-luxury-perfume-commercial-783085.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-premium-cinematic-luxury-perfume-commercial-783085.jpg" alt="Ultra-premium cinematic luxury perfume commercial video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-premium-cinematic-luxury-perfume-commercial-783085/video-2722820a0df4.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-premium-cinematic-luxury-perfume-commercial-783085/poster-363c20e524ca.jpg" alt="Ultra-premium cinematic luxury perfume commercial video preview" width="700" />
 </a>
 
 <details>
@@ -1609,16 +1797,16 @@ Low quality, blurry, noise, flickering, unstable motion, distorted anatomy, bad 
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-premium-cinematic-luxury-perfume-commercial-783085.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-premium-cinematic-luxury-perfume-commercial-783085/video-2722820a0df4.webm)
 
 **Source:** [@SadiaMalik182](https://x.com/SadiaMalik182/status/2082776032042783085) · 15s · 16:9 · product commercial
 
 ---
 
-## 37. Seamless Warrior Sword Reflection Loop
+## 44. Seamless Warrior Sword Reflection Loop
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/seamless-warrior-sword-reflection-loop-874724-8c6fd235ee6b.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/seamless-warrior-sword-reflection-loop-874724-2ae99518ad9c.jpg" alt="Seamless Warrior Sword Reflection Loop video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/seamless-warrior-sword-reflection-loop-874724/video-8c6fd235ee6b.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/seamless-warrior-sword-reflection-loop-874724/poster-2ae99518ad9c.jpg" alt="Seamless Warrior Sword Reflection Loop video preview" width="700" />
 </a>
 
 <details>
@@ -1686,16 +1874,16 @@ Music: glass bells and plucks in at 3.2, strings rise at 6.6, choir swell peaks 
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/seamless-warrior-sword-reflection-loop-874724-8c6fd235ee6b.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/seamless-warrior-sword-reflection-loop-874724/video-8c6fd235ee6b.webm)
 
 **Source:** [@Cia0_exe](https://x.com/Cia0_exe/status/2082774526098874724) · 30s · 16:9 · fashion
 
 ---
 
-## 38. Luxury Emerald Necklace Storyboard
+## 45. Luxury Emerald Necklace Storyboard
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/title-luxury-emerald-necklace-commercial-storyboard-for-872509-a300713c3d76.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/title-luxury-emerald-necklace-commercial-storyboard-for-872509-63e3a397f968.jpg" alt="Luxury Emerald Necklace Storyboard video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/title-luxury-emerald-necklace-commercial-storyboard-for-872509/video-a300713c3d76.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/title-luxury-emerald-necklace-commercial-storyboard-for-872509/poster-63e3a397f968.jpg" alt="Luxury Emerald Necklace Storyboard video preview" width="700" />
 </a>
 
 <details>
@@ -1734,16 +1922,16 @@ Inspired by world-class luxury jewelry campaigns, premium fashion editorial, sof
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/title-luxury-emerald-necklace-commercial-storyboard-for-872509-a300713c3d76.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/title-luxury-emerald-necklace-commercial-storyboard-for-872509/video-a300713c3d76.webm)
 
 **Source:** [@itxabdullaa](https://x.com/itxabdullaa/status/2082667261718872509) · 15s · 3:4 · product commercial
 
 ---
 
-## 39. The Thief's Awkward Product Excuse
+## 46. The Thief's Awkward Product Excuse
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-video-prompt-300101-236581d53aa7.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-video-prompt-300101-009909ab0bfb.jpg" alt="The Thief's Awkward Product Excuse video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-video-prompt-300101/video-236581d53aa7.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-video-prompt-300101/poster-009909ab0bfb.jpg" alt="The Thief's Awkward Product Excuse video preview" width="700" />
 </a>
 
 <details>
@@ -1755,16 +1943,16 @@ Inspired by world-class luxury jewelry campaigns, premium fashion editorial, sof
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-video-prompt-300101-236581d53aa7.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-video-prompt-300101/video-236581d53aa7.webm)
 
 **Source:** [@ponzponz15](https://x.com/ponzponz15/status/2082646007444300101) · 15s · 256:295 · product commercial
 
 ---
 
-## 40. Neon Nightmare Burger Commercial
+## 47. Neon Nightmare Burger Commercial
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-15-second-commercial-shot-fast-paced-editing-160587-6452503d24f8.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-15-second-commercial-shot-fast-paced-editing-160587-dc524a95b7c6.jpg" alt="Neon Nightmare Burger Commercial video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-15-second-commercial-shot-fast-paced-editing-160587/video-6452503d24f8.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-15-second-commercial-shot-fast-paced-editing-160587/poster-dc524a95b7c6.jpg" alt="Neon Nightmare Burger Commercial video preview" width="700" />
 </a>
 
 <details>
@@ -1776,7 +1964,7 @@ Cinematic 15-second commercial shot, fast-paced editing, dark humor, creepy come
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-15-second-commercial-shot-fast-paced-editing-160587-6452503d24f8.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-15-second-commercial-shot-fast-paced-editing-160587/video-6452503d24f8.webm)
 
 **Source:** [@xavier_mitjana](https://x.com/xavier_mitjana/status/2082549709240160587) · 15s · 16:9 · product commercial
 

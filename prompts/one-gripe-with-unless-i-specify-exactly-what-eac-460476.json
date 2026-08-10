@@ -1,0 +1,31 @@
+{
+  "slug": "one-gripe-with-unless-i-specify-exactly-what-eac-460476",
+  "title": {
+    "en": "One gripe with : unless I specify exactly what each",
+    "zh": "One gripe with : unless I specify exactly what each"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @cocktailpeanut.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "14s",
+  "aspectRatio": "26:15",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@cocktailpeanut",
+    "url": "https://x.com/cocktailpeanut/status/2085198361989460476"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/cocktailpeanut/status/2085198361989460476"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/one-gripe-with-unless-i-specify-exactly-what-eac-460476/video-ad0077bfa9a2.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/one-gripe-with-unless-i-specify-exactly-what-eac-460476/poster-b38317310a6c.jpg",
+  "prompt": "\"A gritty, photorealistic nighttime crime scene outside a convenience store, shot like a serious detective TV drama. Yellow police tape, flashing patrol lights, forensic markers, and two stern live-action detectives carefully examining evidence. Assisting them are Bugs Bunny and Daffy Duck, fully recognizable in classic Looney Tunes style - bright, clean 2D cartoon characters composited into the real world. Bugs is unusually calm and professional, kneeling beside a clue with a cartoon magnifying glass, while Daffy nervously points at random evidence and overreacts. The detectives remain completely serious and treat them like normal forensic partners. At the climax, Bugs holds the magnifying glass over a surface and it reveals a photorealistic fingerprint, while Daffy dramatically gasps and points. Strong contrast between cartoon and live-action, believable shadows and interaction, cinematic camera movement, tense crime-drama atmosphere played completely straight.\""
+}

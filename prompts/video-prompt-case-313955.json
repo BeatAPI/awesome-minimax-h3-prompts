@@ -1,0 +1,31 @@
+{
+  "slug": "video-prompt-case-313955",
+  "title": {
+    "en": "我让 用 3 张参考图",
+    "zh": "我让 用 3 张参考图"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @zhongying14.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "9:16",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@zhongying14",
+    "url": "https://x.com/zhongying14/status/2083615699260313955"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/zhongying14/status/2083615699260313955"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-313955/video-fdf480d99d00.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-313955/poster-dcb245bf2290.jpg",
+  "prompt": "生成一条 15 秒、竖屏 9:16 的强写实电影感短视频。\n请参考上传的 博物馆大厅图片 作为唯一场景环境参考，参考上传的 机械蝴蝶图片 作为唯一蝴蝶外观参考，参考上传的 手部图片 作为结尾落点动作参考。\n全片必须保持 同一座博物馆、同一只机械蝴蝶、同一种夜晚氛围，不要切换到其他场景，不要出现第二只蝴蝶，不要出现多余人物。\n整体风格为：\n 超写实、电影感、神秘、安静、带一点奇迹感的夜晚博物馆短片。\n光线以 冷色月光 为主，辅以少量柔和展柜灯光。\n镜头语言要求自然、克制、流畅，像真实摄影机拍摄。\n尽量表现为 一个连续镜头的观感，不要硬切，不要频繁跳镜头，不要夸张运镜。\n视频内容节奏如下：\n\n0–3 秒\n镜头从安静空旷的自然历史博物馆大厅开始，夜晚无人，月光穿过高窗照进来，照亮恐龙骨架、玻璃展柜和地面反光。镜头缓慢向前推进，氛围神秘安静。一个玻璃展柜内，一只机械蝴蝶静静停着，随后开始苏醒。它身体内部极微弱地亮起，细小机械部件开始运转，翅膀缓缓展开。\n3–7 秒\n机械蝴蝶轻轻振动翅膀，真实自然地从展柜中飞起，飞出展柜。镜头顺势跟随蝴蝶移动。蝴蝶飞行姿态轻盈优雅，金属翅膀在月光下反射出细腻光泽。展柜玻璃、地面、恐龙骨架和大厅结构在背景中保持真实稳定的空间透视。\n7–12 秒\n镜头持续跟拍机械蝴蝶穿过博物馆主展厅。它飞过巨大的恐龙骨架前方，掠过月光照亮的空气和玻璃反射，画面具有强烈的空间纵深感和电影感。飞行路线流畅清晰，不要忽快忽慢，不要突然瞬移，不要夸张魔法特效。重点表现蝴蝶的精密金属结构、半透明翅膀和真实飞行动作。\n12–15 秒\n一只成年人自然伸出的手进入画面，姿态放松、安静。机械蝴蝶缓缓减速，轻轻降落在手指上。它停稳后，翅膀慢慢合拢，身体微微发出低亮度光泽。镜头轻微推近，停留在机械蝴蝶与手指的精致近景上，形成一个安静、惊艳、富有记忆点的结尾。"
+}

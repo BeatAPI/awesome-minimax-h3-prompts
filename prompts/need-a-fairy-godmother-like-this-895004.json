@@ -1,0 +1,31 @@
+{
+  "slug": "need-a-fairy-godmother-like-this-895004",
+  "title": {
+    "en": "Need a fairy godmother like this? 🧚‍♀",
+    "zh": "Need a fairy godmother like this? 🧚‍♀"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 comedy prompt with attached video evidence from @drjoetw.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3喜剧提示词。"
+  },
+  "category": "comedy",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@drjoetw",
+    "url": "https://x.com/drjoetw/status/2085983430219895004"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/drjoetw/status/2085983430219895004"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/need-a-fairy-godmother-like-this-895004/video-09bfa49556ff.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/need-a-fairy-godmother-like-this-895004/poster-4d537b92108c.jpg",
+  "prompt": "😍👇\n\n美國喜劇reality show: 豪宅的泳池邊，20歲金髮藍眼的紅色比基尼美女與60歲灰髮憔悴的清潔婦正在激烈地爭吵，美女說\"醜死了，你這死老太婆!\"，清潔婦也不甘示弱說\"整天只會換男人，不正經!\"。這時畫誇張眼影妖后造型的drag queen飛過，便將手中的仙女棒往美女與清潔婦的頭上各點一下，結果美女迅速老化變成70歲皮膚鬆垮的老女人，清潔婦則迅速變成年輕的20歲美麗模樣。變年輕的清潔婦自信地說\"啊，我現在感覺好多了!\"就脫掉制服，露出夏季連身華麗黑色窄裙與高跟鞋，然後自信地離去，留下崩潰且一臉錯愕的老女人無助地看著鏡頭哭著吶喊:\"不!!!!!!\"\n\n#minimax #AIDrama #AIVideo #AIFilm #AIMovie #microdrama #parody"
+}

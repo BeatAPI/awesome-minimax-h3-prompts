@@ -1,0 +1,31 @@
+{
+  "slug": "model-on-generative-ai-is-getting-really-good-i-238799",
+  "title": {
+    "en": "Model on Generative AI is getting really good .. I",
+    "zh": "Model on Generative AI is getting really good .. I"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @SolutionsJoeG.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@SolutionsJoeG",
+    "url": "https://x.com/SolutionsJoeG/status/2085929499653238799"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/SolutionsJoeG/status/2085929499653238799"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/model-on-generative-ai-is-getting-really-good-i-238799/video-df2a0f1adabb.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/model-on-generative-ai-is-getting-really-good-i-238799/poster-9b550371d673.jpg",
+  "prompt": "\"Create a star trek scene on the bridge with the original captain Kirk, add ref image of Joe to the bridge with captain Kirk giving Joe and order to \"Engage\" and Joe respond \"Okie Dokie\"\n\n#aiart #hollywood #film #Advertising"
+}

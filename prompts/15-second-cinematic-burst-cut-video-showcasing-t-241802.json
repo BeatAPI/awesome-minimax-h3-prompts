@@ -1,0 +1,31 @@
+{
+  "slug": "15-second-cinematic-burst-cut-video-showcasing-t-241802",
+  "title": {
+    "en": "Cinematic Story Study 241802",
+    "zh": "电影叙事案例 241802"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @aimikoda.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "8:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@aimikoda",
+    "url": "https://x.com/aimikoda/status/2086553240448241802"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/aimikoda/status/2086553240448241802"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-cinematic-burst-cut-video-showcasing-t-241802/video-972163827ce4.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-cinematic-burst-cut-video-showcasing-t-241802/poster-a682179bc0fa.jpg",
+  "prompt": "Use @[char ref] as the strict character reference and @[audio ref] as the timing, rhythm and editing reference.\n\nKeep the character’s exact identity, proportions, hairstyle, outfit, colors and overall style consistent throughout.\n\nCreate a 15-second cinematic burst-cut video showcasing the character across 5 different environments that naturally fit their design, vibe and world.\n\nAUDIO SYNC\nSynchronize the entire edit to @[audio ref]. Cuts, camera accents, transitions and environment changes should land precisely on strong beats, half-beats and musical accents. Let audio1 control the pacing and intensity of the montage.\n\nSTRUCTURE\n- 5 environments total\n- 3 seconds per environment\n- 6 burst-cut shots per environment\n- 30 shots total\n\nEach environment must be clearly different in atmosphere, lighting, scale and visual language.\n\nShow each environment through rapid cinematic angles: wide establishing shots, aerials, low angles, side views, tracking shots, close environmental details, medium shots and hero frames.\n\nEvery cut must reveal a new angle, distance, composition or spatial relationship. Avoid repeated framing. Mix static shots, push-ins, pull-backs, tracking, orbit and crane-like movement.\n\nKeep character movement subtle and natural. The focus is environmental variety, cinematic framing and tight synchronization with audio1.\n\nHard constraints:\n- exactly 5 environments\n- exactly 6 shots per environment\n- exactly 30 shots total\n- environment changes must follow audio1’s musical phrasing\n- cuts and motion accents synchronized to audio1\n- no outfit changes\n- no character duplication\n- no morphing\n- no text or UI\n- no blurry unreadable frames\n- maintain strict character consistency"
+}

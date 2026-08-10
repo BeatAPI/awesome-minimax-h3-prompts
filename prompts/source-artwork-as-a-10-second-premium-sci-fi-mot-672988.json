@@ -1,0 +1,31 @@
+{
+  "slug": "source-artwork-as-a-10-second-premium-sci-fi-mot-672988",
+  "title": {
+    "en": "Cinematic Travel Study 672988",
+    "zh": "电影旅行案例 672988"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic travel prompt with attached video evidence from @LudovicCreator.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3视频提示词。"
+  },
+  "category": "cinematic-travel",
+  "mode": "text-to-video",
+  "duration": "10s",
+  "aspectRatio": "9:16",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@LudovicCreator",
+    "url": "https://x.com/LudovicCreator/status/2083628852165672988"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/LudovicCreator/status/2083628879407632890"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/source-artwork-as-a-10-second-premium-sci-fi-mot-672988/video-b9f63844a74b.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/source-artwork-as-a-10-second-premium-sci-fi-mot-672988/poster-d6c6a39d00a1.jpg",
+  "prompt": "@Hailuo_AI Prompt :\n\nAnimate the source artwork as a 10-second premium sci-fi motion poster while preserving the white gallery background, thin border, navy-and-orange palette, typography, composition and original poster design. Begin on an almost empty white canvas, then progressively assemble the poster: the outer frame draws itself on, the orange “ORIGIN” background typography slides vertically into place, the planetary landscape fades and expands inside the central frame, and the colossal station descends from above as its lights activate. Bring the cloaked traveler forward from the distant landscape toward the foreground with strong dimensional parallax, allowing the figure and rocky base to slightly break outside the inner frame. Introduce the smaller titles, numbering, studio credits, graphic marks and footer icons one after another with clean pop-in, slide and type-on animations, accompanied by light futuristic clicks, playful digital typing sounds and soft mechanical impacts. Finish with a restrained camera push-in, subtle station lights, drifting mist and a gentle movement in the traveler’s coat while the completed poster remains perfectly readable and close to the original still image. No major scene transformation, no camera orbit, no distorted typography, no altered layout.\n2/2"
+}

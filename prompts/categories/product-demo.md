@@ -4,8 +4,8 @@
 
 ## 1. Luxury wireless headphones product showcase
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-wireless-headphones-product-showcase-291312.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-wireless-headphones-product-showcase-291312.jpg" alt="Luxury wireless headphones product showcase video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-wireless-headphones-product-showcase-291312/video-6d76adba9a18.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-wireless-headphones-product-showcase-291312/poster-8b57d5fe56fd.jpg" alt="Luxury wireless headphones product showcase video preview" width="700" />
 </a>
 
 <details>
@@ -25,7 +25,7 @@ Create a 15-second luxury cinematic product showcase for premium wireless over-e
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-wireless-headphones-product-showcase-291312.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-wireless-headphones-product-showcase-291312/video-6d76adba9a18.webm)
 
 **Source:** [@LudovicCreator](https://x.com/LudovicCreator/status/2082783319075291312) · 15s · 16:9 · product demo
 

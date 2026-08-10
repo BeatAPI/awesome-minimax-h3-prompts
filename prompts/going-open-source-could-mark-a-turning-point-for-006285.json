@@ -1,0 +1,31 @@
+{
+  "slug": "going-open-source-could-mark-a-turning-point-for-006285",
+  "title": {
+    "en": "going open source could mark a turning point for AI",
+    "zh": "going open source could mark a turning point for AI"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 product commercial prompt with attached video evidence from @underwoodxie96.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+  },
+  "category": "product-commercial",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@underwoodxie96",
+    "url": "https://x.com/underwoodxie96/status/2084873926141006285"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/underwoodxie96/status/2084873926141006285"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/going-open-source-could-mark-a-turning-point-for-006285/video-41caf4846565.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/going-open-source-could-mark-a-turning-point-for-006285/poster-76c5abfc225f.jpg",
+  "prompt": "exaggerated comedy acting, changing identities or faces, distorted fingers or coffee cups, rapid action editing, explosions or car chases, subtitles, text, logos, watermarks."
+}

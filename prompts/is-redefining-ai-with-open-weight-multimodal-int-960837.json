@@ -1,0 +1,31 @@
+{
+  "slug": "is-redefining-ai-with-open-weight-multimodal-int-960837",
+  "title": {
+    "en": "Motion Graphics Study 960837",
+    "zh": "动态图形案例 960837"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 motion graphics prompt with attached video evidence from @itxabdullaa.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3视频提示词。"
+  },
+  "category": "motion-graphics",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@itxabdullaa",
+    "url": "https://x.com/itxabdullaa/status/2083854803801960837"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/itxabdullaa/status/2083854803801960837"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/is-redefining-ai-with-open-weight-multimodal-int-960837/video-ce9d664d9d6c.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/is-redefining-ai-with-open-weight-multimodal-int-960837/poster-096c34492314.jpg",
+  "prompt": "Epic theatrical space-opera teaser\n- (Partial prompt — expand as needed)\n- Keep the pace fast and the scale enormous without letting the edit drag. Use sharp hard cuts, a shaking command deck, white-hot flashes, split-second black frames, and a violent jump-to-warp impact. Title cards should use wide-tracked cinematic typography—not pure white—with restrained material texture, subtle illumination, and a faint edge glow. Animate the titles by emerging from deep-space shadow, catching a sweep of starlight, opening their letter spacing, leaving a slight afterimage, and flashing briefly against black."
+}

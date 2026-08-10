@@ -1,0 +1,31 @@
+{
+  "slug": "the-last-thing-you-see-in-your-first-and-last-290296",
+  "title": {
+    "en": "The last thing you see in your first and last",
+    "zh": "The last thing you see in your first and last"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic travel prompt with attached video evidence from @ivanfioravanti.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3视频提示词。"
+  },
+  "category": "cinematic-travel",
+  "mode": "text-to-video",
+  "duration": "10s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ivanfioravanti",
+    "url": "https://x.com/ivanfioravanti/status/2086553101029290296"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/ivanfioravanti/status/2086553101029290296"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/the-last-thing-you-see-in-your-first-and-last-290296/video-fae8461b3583.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/the-last-thing-you-see-in-your-first-and-last-290296/poster-ad1a13269cdc.jpg",
+  "prompt": "amateur handheld pov footage of a tourist in their plush and comfortable room of a space cruise, carpeted floor and comfy bed, large window shows a view of Gargantua blackhole, you can see their reflection in the window, they turn off the light half way through so we can see outside better and say: \"Wow look at that!\", then they show back the room"
+}

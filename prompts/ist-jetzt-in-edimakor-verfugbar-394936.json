@@ -1,0 +1,31 @@
+{
+  "slug": "ist-jetzt-in-edimakor-verfugbar-394936",
+  "title": {
+    "en": "ist jetzt in Edimakor verfügbar 🥳",
+    "zh": "ist jetzt in Edimakor verfügbar 🥳"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @DeEdimakor.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "10s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@DeEdimakor",
+    "url": "https://x.com/DeEdimakor/status/2084816642031394936"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/DeEdimakor/status/2084816642031394936"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/ist-jetzt-in-edimakor-verfugbar-394936/video-6cbb234d1631.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/ist-jetzt-in-edimakor-verfugbar-394936/poster-84537b07fa2c.jpg",
+  "prompt": "zwei Ergebnisse.\nWelches gefällt dir besser? 👀\nhttps://t.co/X3lEByUF0n\nEntdecke neue Ideen mit der All-in-One-Referenzfunktion! ✨"
+}

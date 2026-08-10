@@ -1,0 +1,32 @@
+{
+  "slug": "dramatic-performances-301360",
+  "title": {
+    "en": "Dramatic performances ✅",
+    "zh": "Dramatic performances ✅"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @EccentrismArt.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@EccentrismArt",
+    "url": "https://x.com/EccentrismArt/status/2085006715339301360"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/EccentrismArt/status/2085006722926776687",
+    "https://x.com/EccentrismArt/status/2085006728178160108"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/dramatic-performances-301360/video-39f613ace4a3.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/dramatic-performances-301360/poster-ca12f1684e28.jpg",
+  "prompt": "Image made with @magnific using Recraft v4.1 then upscaled using @topazlabs\n\nPrompt:\n\nGritty hand held independent thriller movie, an extreme closeup of a gaunt man named Charlie trying to smoke a cigarette but his hand is trembling. He is in his 40s with messy brown hair and some stubble wearing a white dress shirt with the top button undone and a black tie that has been loosened, he has some dark red blood splatters on his face, he is standing in a dark room with side lighting coming from a window with some newspaper glued to the glass and there is a whole in the window thats cracked and allowing a beam of light to come in through the dark room.\n\nStyle: Cinematic, Film grain, dark shadows, crushed blacks.\n\nVideo prompt made with @magnific  and @Hailuo_AI :\n\nGritty hand held independent thriller movie, the camera starts off on an extreme closeup of a gaunt man named Charlie trying to smoke a cigarette but his hand is trembling, he eventually pulls the cigarette away and the camera slowly moves back to reveal more the man. He is in his 40s with messy brown hair and some stubble wearing a white dress shirt with the top button undone and a black tie that has been loosened, he has some dark red blood splatters on his face, he is standing in a dark room with side lighting coming from a window with some newspaper glued to the glass and there is a whole in the window thats cracked and allowing a beam of light to come in through the dark room. The room is a bedroom and on floor is a man turned upside down laying down and that man is wearing a white tank top and and dress pants he has a gun wound on his back and is laying in a pool of blood, then Charlie is holding a black revolver with also a shaking hand and he accidently drops the gun on the floor and he then says with a trembling voice \"fuck Charlie, you really fucked up this time.\"\n\nHe then starts to raise up the cigarette again but then hesitates and screams \"fuck!\"  with his hands up and his head bent down in total frustration, he then walks out of the frame toward the left\n\nStyle: Film grain, dark shadows, crushed blacks, in and out of focus."
+}

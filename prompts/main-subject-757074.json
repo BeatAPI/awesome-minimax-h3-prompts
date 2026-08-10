@@ -1,0 +1,31 @@
+{
+  "slug": "main-subject-757074",
+  "title": {
+    "en": "Documentary Study 757074",
+    "zh": "纪实影像案例 757074"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @Strength04_X.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Strength04_X",
+    "url": "https://x.com/Strength04_X/status/2085786048521757074"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Strength04_X/status/2085786048521757074"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/main-subject-757074/video-1b3d79ad1932.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/main-subject-757074/poster-7308afe8eda6.jpg",
+  "prompt": "Main Subject:\nYoung Korean woman, early 20s, loose linen shirt over shorts, hair tied back with a cloth, dirt-smudged fingers, gentle focused expression.\nLocation:\nSmall backyard herb garden beside the house, late morning. Wooden planter boxes, scattered gardening tools, soft natural sunlight, a low fence. No modern structures.\nVisual Style:\nUltra-realistic documentary realism, candid hands-on feeling, bright natural daylight.\nCamera Style:\nEarly 2000s DV camcorder, handheld close framing, autofocus adjusting between her hands and the plants, warm faded tones, soft grain. No stabilization.\nTimeline (15 sec, each slot = 2 compressed beats):\n00:00–00:03 → She kneels by the planter box, then snips a few basil leaves carefully.\n00:03–00:06 → She smells the leaves, then says to camera \"향 진짜 좋다\" (\"The smell is really nice\"), smiling.\n00:06–00:09 → She moves to another box, then pulls a small weed from the soil.\n00:09–00:12 → She wipes her hands on her shirt, then gathers the herbs into a small basket.\n00:12–00:15 → She looks at camera saying \"오늘 저녁에 쓸 거야\" (\"I'll use these for dinner tonight\"), standing up as it fades.\nAudio:\nLeaves rustling, soil shifting, faint birds, distant wind. Her dialogue as noted above. No music.\nGoal: A small, grounded gardening moment warm, patient, authentic."
+}

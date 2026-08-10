@@ -1,0 +1,31 @@
+{
+  "slug": "main-subject-young-korean-woman-early-20s-oversi-162229",
+  "title": {
+    "en": "Documentary Study 162229",
+    "zh": "纪实影像案例 162229"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @Strength04_X.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Strength04_X",
+    "url": "https://x.com/Strength04_X/status/2085973447562162229"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Strength04_X/status/2085973447562162229"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/main-subject-young-korean-woman-early-20s-oversi-162229/video-e506e31f1751.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/main-subject-young-korean-woman-early-20s-oversi-162229/poster-a46afa77bbaf.jpg",
+  "prompt": "Main Subject : Young Korean woman, early 20s, oversized flannel over a tank top, cargo shorts, hair in a practical braid, focused cheerful energy.\nLocation: Quiet forest campsite near a mountain stream, late afternoon. A half-set-up tent, camping gear scattered on a mat, tall pine trees, dappled sunlight. No other campers nearby.\nVisual Style:\nUltra-realistic documentary realism, adventurous candid feeling, warm natural forest light.\nCamera Style:\nEarly 2000s DV camcorder, handheld with natural outdoor shake, autofocus hunting in dappled light, soft grain, faded tones. No stabilization.\nTimeline (15 sec, each slot = 2 compressed beats):\n00:00–00:03 → She hammers a tent stake into the ground, then checks the tension of the rope.\n00:03–00:06 → She struggles with a stubborn pole, then says to camera \"이거 왜 이렇게 안 들어가\" (\"Why won't this go in\").\n00:06–00:09 → She finally gets it to click into place, laughing in relief.\n00:09–00:12 → She steps back to admire the standing tent, hands on her hips.\n00:12–00:15 → She looks at camera saying \"다 됐다, 오늘 여기서 자자!\" (\"Done, let's sleep here tonight!\"), smiling as it fades.\nAudio:\nWind through trees, distant stream flowing, birds, fabric rustling. Her dialogue as noted above. No music.\nGoal: An adventurous, cheerful camping setup moment grounded, warm, authentic."
+}

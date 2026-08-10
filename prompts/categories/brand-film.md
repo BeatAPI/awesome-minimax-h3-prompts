@@ -4,8 +4,8 @@
 
 ## 1. Premium cinematic fashion campaign outfit reveal
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/premium-cinematic-fashion-campaign-outfit-reveal-103224.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/premium-cinematic-fashion-campaign-outfit-reveal-103224.jpg" alt="Premium cinematic fashion campaign outfit reveal video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/premium-cinematic-fashion-campaign-outfit-reveal-103224/video-df6c020702d4.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/premium-cinematic-fashion-campaign-outfit-reveal-103224/poster-0a6dd612e1a2.jpg" alt="Premium cinematic fashion campaign outfit reveal video preview" width="700" />
 </a>
 
 <details>
@@ -17,7 +17,7 @@ Create a premium cinematic fashion campaign video using the five uploaded appare
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/premium-cinematic-fashion-campaign-outfit-reveal-103224.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/premium-cinematic-fashion-campaign-outfit-reveal-103224/video-df6c020702d4.webm)
 
 **Source:** [@luxaios](https://x.com/luxaios/status/2083024913322103224) · 15s · 9:16 · brand film
 
@@ -25,8 +25,8 @@ Create a premium cinematic fashion campaign video using the five uploaded appare
 
 ## 2. Cyber-grunge fashion film with VHS glitch
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/cyber-grunge-fashion-film-with-vhs-glitch-978345.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/cyber-grunge-fashion-film-with-vhs-glitch-978345.jpg" alt="Cyber-grunge fashion film with VHS glitch video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/cyber-grunge-fashion-film-with-vhs-glitch-978345/video-c438b1df4b17.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/cyber-grunge-fashion-film-with-vhs-glitch-978345/poster-7a372fea4e5c.jpg" alt="Cyber-grunge fashion film with VHS glitch video preview" width="700" />
 </a>
 
 <details>
@@ -40,7 +40,7 @@ VHS glitches, CCTV dropouts, 90s grain, scanlines, chromatic aberration, flash-t
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/cyber-grunge-fashion-film-with-vhs-glitch-978345.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/cyber-grunge-fashion-film-with-vhs-glitch-978345/video-c438b1df4b17.webm)
 
 **Source:** [@fal](https://x.com/fal/status/2083021146341978345) · 19s · 16:9 · brand film
 
@@ -48,8 +48,8 @@ VHS glitches, CCTV dropouts, 90s grain, scanlines, chromatic aberration, flash-t
 
 ## 3. RadiantGlo skincare commercial
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/radiantglo-skincare-commercial.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/radiantglo-skincare-commercial.jpg" alt="RadiantGlo skincare commercial video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/radiantglo-skincare-commercial/video-2534fd8d7746.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/radiantglo-skincare-commercial/poster-7ffd693fc2a8.jpg" alt="RadiantGlo skincare commercial video preview" width="700" />
 </a>
 
 <details>
@@ -67,7 +67,7 @@ Cold nights fading into warm dawn color science throughout — think a skincare 
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/radiantglo-skincare-commercial.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/radiantglo-skincare-commercial/video-2534fd8d7746.webm)
 
 **Source:** [@AIwithJessica](https://x.com/AIwithJessica/status/2083013658230317082) · 15s · 16:9 · brand film
 

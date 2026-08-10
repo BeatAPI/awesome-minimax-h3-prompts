@@ -4,8 +4,8 @@
 
 ## 1. Post-workout gym vlog
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/post-workout-gym-vlog.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/post-workout-gym-vlog.jpg" alt="Post-workout gym vlog video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/post-workout-gym-vlog/video-d10c5d55f742.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/post-workout-gym-vlog/poster-d214dd09f572.jpg" alt="Post-workout gym vlog video preview" width="700" />
 </a>
 
 <details>
@@ -28,7 +28,7 @@ Selfie: grabs bag and shake, waves. "Alright, I'm heading out—see you guys."
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/post-workout-gym-vlog.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/post-workout-gym-vlog/video-d10c5d55f742.webm)
 
 **Source:** [@doctorwasif](https://x.com/doctorwasif/status/2083048782581858681) · 15s · 16:9 · vlog
 
@@ -36,8 +36,8 @@ Selfie: grabs bag and shake, waves. "Alright, I'm heading out—see you guys."
 
 ## 2. Pizza night UGC Domino’s vlog
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/pizza-night-ugc-domino-s-vlog-197798.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/pizza-night-ugc-domino-s-vlog-197798.jpg" alt="Pizza night UGC Domino’s vlog video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/pizza-night-ugc-domino-s-vlog-197798/video-a0d77ef8aa24.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/pizza-night-ugc-domino-s-vlog-197798/poster-8658d09b5618.jpg" alt="Pizza night UGC Domino’s vlog video preview" width="700" />
 </a>
 
 <details>
@@ -92,7 +92,7 @@ cinematic grade, overly smooth camera moves, studio lighting, professional voice
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/pizza-night-ugc-domino-s-vlog-197798.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/pizza-night-ugc-domino-s-vlog-197798/video-a0d77ef8aa24.webm)
 
 **Source:** [@ShamiWeb3](https://x.com/ShamiWeb3/status/2082799917140197798) · 15s · 16:9 · vlog
 

@@ -1,0 +1,31 @@
+{
+  "slug": "circle-square-triangle-and-star-317678",
+  "title": {
+    "en": "Circle, Square, Triangle, and Star",
+    "zh": "Circle, Square, Triangle, and Star"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic travel prompt with attached video evidence from @Strength04_X.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3视频提示词。"
+  },
+  "category": "cinematic-travel",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Strength04_X",
+    "url": "https://x.com/Strength04_X/status/2084586713205317678"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Strength04_X/status/2084586713205317678"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/circle-square-triangle-and-star-317678/video-e5ca7ba239b5.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/circle-square-triangle-and-star-317678/poster-456c0864c892.jpg",
+  "prompt": "Create a 15-second animated educational video that teaches young children the shapes Circle, Square, Triangle, and Star.\n\nLearning pattern for every shape:\nSHAPE → NAME SOUND → OBJECT → PLAYFUL ACTION → OBJECT NAME\nTarget audience: children ages 3 to 6\n\nVisual style: Same premium-cute aesthetic pastel colors, rounded 3D forms, soft lighting, minimalist off-white background, unique glow color per shape, crisp bold typography, polished smooth morphing transitions.\n\n0:00–0:01 Intro: Mascot bounces in, shapes float briefly, text \"Let's learn shapes!\", tap reveals first shape with a ripple.\n\n0:01–0:04 | Circle is for Orange: A perfect circle appears. Narrator: \"Circle. Round and round. Circle is for Orange.\" Circle gains texture and a tiny stem, becomes a smiling orange, bounces once. Word \"ORANGE,\" highlight shape outline in orange.\n\n0:04–0:07 | Square is for Gift Box: The orange rolls and reshapes into a square. Narrator: \"Square. Four equal sides. Square is for Gift Box.\" Square gains a ribbon and bow, wiggles playfully. Word \"GIFT BOX,\" highlight in purple.\n\n0:07–0:10 | Triangle is for Mountain: The ribbon folds into a triangle. Narrator: \"Triangle. Three sides. Triangle is for Mountain.\" Triangle grows a snowy peak and a small smiling sun beside it. Word \"MOUNTAIN,\" highlight in brown/teal.\n\n0:10–0:13 | Star is for Sky: The mountain peak stretches into a star. Narrator: \"Star. Star is for Sky.\" Star twinkles softly with tiny sparkles floating around it, gentle glow pulse. Word \"STAR,\" highlight in golden yellow.\n\n0:13–0:15 Recap: Orange, gift box, mountain, star line up in four tiles with shape outlines above. Mascot points to each in sequence.\n\nNarrator: \"Circle, Square, Triangle, Star. Great job!\" Sparkle + warm chime.\n\nRequirements: Each shape fully visible before morph, uppercase-clarity level precision on shape edges, no warped or duplicated forms, gentle motion only, synced sound cues, calm and beautifully polished finish."
+}

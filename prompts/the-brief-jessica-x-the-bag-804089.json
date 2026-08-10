@@ -1,0 +1,31 @@
+{
+  "slug": "the-brief-jessica-x-the-bag-804089",
+  "title": {
+    "en": "The Brief: \"Jessica x The Bag\"",
+    "zh": "The Brief: \"Jessica x The Bag\""
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 fashion prompt with attached video evidence from @AIwithJessica.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3时尚提示词。"
+  },
+  "category": "fashion",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@AIwithJessica",
+    "url": "https://x.com/AIwithJessica/status/2082804771220804089"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/AIwithJessica/status/2082804771220804089"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/the-brief-jessica-x-the-bag-804089/video-0ef2025a0f9f.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/the-brief-jessica-x-the-bag-804089/poster-2901ee10dfd8.jpg",
+  "prompt": "The Brief: \"Jessica x The Bag\"\n\n15 seconds. One face, one bag, one mood — effortless luxury.\n\nJessica walks into frame on a sun-warmed city street, the cognac leather bag with its hand-scribbled blue design swinging from her hand. She's in a fitted black dress with tan accents that pick up the bag's exact shade — every detail intentional. The camera pushes in as she lifts the bag, gold hardware flashing in the light, her expression shifting from composed to a knowing half-smile. A slow turn through a marble-lit interior, dress catching the glow, bag cradled at her arm. Final beat: she faces the lens dead-on, bag held forward, hero shot, soft rim light framing her like a campaign still. Fade.\n\nWarm, glossy, early-2000s fashion-film color science throughout — think The Devil Wears Prada meets a runway ad. Same face, same bag, same world, held together across every cut."
+}

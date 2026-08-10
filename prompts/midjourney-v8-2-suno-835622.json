@@ -1,0 +1,31 @@
+{
+  "slug": "midjourney-v8-2-suno-835622",
+  "title": {
+    "en": "Midjourney v8.2 + Suno",
+    "zh": "Midjourney v8.2 + Suno"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @aimikoda.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@aimikoda",
+    "url": "https://x.com/aimikoda/status/2085691802233835622"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/aimikoda/status/2085691802233835622"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/midjourney-v8-2-suno-835622/video-88fd290481d8.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/midjourney-v8-2-suno-835622/poster-4c18e4d923ff.jpg",
+  "prompt": "Create a fast-paced surreal editorial sequence synchronized tightly to the reference audio @[audio1].  No static poses, no pauses, no idle moments. https://t.co/lwV19qbt8t"
+}

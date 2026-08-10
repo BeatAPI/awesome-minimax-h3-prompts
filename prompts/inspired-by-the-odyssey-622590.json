@@ -1,0 +1,31 @@
+{
+  "slug": "inspired-by-the-odyssey-622590",
+  "title": {
+    "en": "Inspired by The Odyssey",
+    "zh": "Inspired by The Odyssey"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic travel prompt with attached video evidence from @apiframe.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3视频提示词。"
+  },
+  "category": "cinematic-travel",
+  "mode": "text-to-video",
+  "duration": "25s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@apiframe",
+    "url": "https://x.com/apiframe/status/2085720283336622590"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/apiframe/status/2085720292706619649"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/inspired-by-the-odyssey-622590/video-58166fc986e6.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/inspired-by-the-odyssey-622590/poster-f8d993d18e7a.jpg",
+  "prompt": "An ancient Greek warrior resembling Odysseus stands alone inside a colossal cave, illuminated only by shafts of golden light piercing through cracks in the ceiling. Behind him, an enormous Cyclops slowly emerges from the darkness, its single eye glowing like molten fire. Dust falls from the ceiling with every thunderous footstep. The warrior tightens his grip on a weathered bronze spear without looking back. The camera slowly circles before rapidly pulling away to reveal the overwhelming scale of the giant. Hyper-realistic Greek mythology, cinematic IMAX lighting, volumetric fog, dramatic shadows, epic scale, photorealistic, breathtaking.\n\nEpic ancient Greek mythology, grounded realism, sweeping IMAX cinematography, practical-looking costumes and armor, dramatic natural lighting, weathered bronze, marble architecture, vast Mediterranean landscapes, cinematic atmosphere, emotional scale, ultra-detailed, award-winning historical fantasy."
+}

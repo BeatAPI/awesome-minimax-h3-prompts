@@ -1,0 +1,31 @@
+{
+  "slug": "video-models-are-going-to-revolutionize-educatio-411987",
+  "title": {
+    "en": "Video models are going to revolutionize education!",
+    "zh": "Video models are going to revolutionize education!"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 motion graphics prompt with attached video evidence from @umesh_ai.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3视频提示词。"
+  },
+  "category": "motion-graphics",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@umesh_ai",
+    "url": "https://x.com/umesh_ai/status/2084227244533411987"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/umesh_ai/status/2084227247586832868"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/video-models-are-going-to-revolutionize-educatio-411987/video-1acb0e9eaf71.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/video-models-are-going-to-revolutionize-educatio-411987/poster-c90a3b4e4cc1.jpg",
+  "prompt": "Create a 15-second animated educational video that teaches young children the letters A, B, C, and D.\n\nThe learning pattern for every letter must be:\n\nLETTER → SOUND → OBJECT → PLAYFUL ACTION → OBJECT NAME\n\nTarget audience: children ages 3 to 6.\n\nVisual style:\nUse adorable rounded 3D characters, soft pastel colors, gentle facial expressions, and simple recognizable objects. Combine this with a premium minimalist technology aesthetic featuring clean white space, elegant composition, soft studio lighting, subtle reflections, smooth gradients, rounded geometry, crisp typography, and extremely polished transitions.\n\nThe animation should feel playful and child-friendly while remaining calm, uncluttered, and beautifully designed.\n\nUse a clean off-white background with a different soft color glow behind each letter.\n\n0:00–0:01 | Introduction\nA small smiling star mascot bounces into the center of the screen.\n\nColorful letters briefly float around it.\n\nDisplay the text:\n\n“Let’s learn!”\n\nThe mascot taps the screen, creating a soft ripple that reveals the first letter.\n\n0:01–0:04 | A is for Apple\n\nShow a large uppercase “A” and smaller lowercase “a” beside it.\nUse thick, rounded, highly readable typography.\n\nThe narrator says:\n\n“A. A says ah. A is for Apple.”\n\nThe uppercase A gently inflates and transforms into a shiny red apple.\n\nIts top point becomes the apple stem, and a small green leaf unfolds from the side.\n\nThe apple gains a cute smiling face and performs one soft bounce.\n\nDisplay the word:\n\n“APPLE”\n\nHighlight the first letter A in red.\n\nAdd a soft pop and a tiny crunchy sound.\n\n0:04–0:07 | B is for Ball\n\nThe apple rolls across the screen and leaves behind a curved red trail.\n\nThe trail loops twice and forms a large uppercase “B,” with a lowercase “b” appearing beside it.\nThe narrator says:\n\n“B. B says buh. B is for Ball.”\n\nThe two rounded sections of the B expand and merge into a colorful striped ball.\n\nThe ball bounces twice with playful squash-and-stretch animation.\n\nDisplay the word:\n\n“BALL”\n\nHighlight the first letter B in blue.\n\nSynchronize each bounce with a soft musical note.\n\n0:07–0:10 | C is for Cat\n\nOn its final bounce, the ball stretches into a curved shape and becomes a large uppercase “C.”\n\nA lowercase “c” slides gently into place beside it.\n\nThe narrator says:\n“C. C says kuh. C is for Cat.”\n\nThe C rotates and becomes the curled tail of a cute orange cat.\n\nThe rest of the cat forms from soft rounded shapes.\n\nThe cat stretches, blinks, and gives one gentle wave with its paw.\n\nDisplay the word:\n\n“CAT”\n\nHighlight the first letter C in orange.\n\nAdd a quiet and friendly “meow.”\n\n0:10–0:13 | D is for Duck\n\nThe cat’s tail uncurls and transforms into the curved side of a large uppercase “D.”\n\nA lowercase “d” pops up beside it.\n\nThe narrator says:\n\n“D. D says duh. D is for Duck.”\nThe straight line of the D becomes the duck’s neck.\n\nThe curved section becomes its round yellow body.\n\nA small orange beak and two tiny wings pop into place.\n\nThe duck waddles forward, flaps its wings, and gives one cheerful quack.\n\nDisplay the word:\n\n“DUCK”\n\nHighlight the first letter D in yellow.\n\nAdd tiny water ripples beneath its feet.\n\n0:13–0:15 | Recap\n\nThe apple, ball, cat, and duck slide into four clean rounded tiles.\n\nPlace their letters above them:\n\n“A  B  C  D”\n\nThe mascot returns and points to each object as they bounce once in sequence.\n\nNarrator:\n“A, B, C, D. Great job!”\n\nFinish with the text:\n\n“Great job!”\n\nUse a small sparkle animation and a warm musical chime.\n\nAnimation requirements:\n\nKeep each letter fully visible for a moment before it transforms.\n\nShow uppercase and lowercase versions clearly.\n\nMake every object instantly recognizable.\n\nUse smooth shape morphing so children can visually understand how the letter becomes the object.\n\nMaintain stable spelling, clean letterforms, accurate object shapes, and consistent character design.\n\nUse gentle squash-and-stretch, soft motion blur, subtle shadows, polished lighting, and precisely synchronized sound effects.\nAvoid fast camera movement, cluttered backgrounds, harsh colors, tiny text, warped letters, random symbols, duplicated objects, scary expressions, or overly complex transformations.\n\nThe final video should feel cute, educational, memorable, calming, and exceptionally polished."
+}

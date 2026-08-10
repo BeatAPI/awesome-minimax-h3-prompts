@@ -1,0 +1,31 @@
+{
+  "slug": "ai-cant-replace-you-joey-113820",
+  "title": {
+    "en": "AI can’t replace you Joey",
+    "zh": "AI can’t replace you Joey"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @TechieBySA.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "14s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@TechieBySA",
+    "url": "https://x.com/TechieBySA/status/2084600512180113820"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/TechieBySA/status/2084600515908796631"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/ai-cant-replace-you-joey-113820/video-978781c592e7.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/ai-cant-replace-you-joey-113820/poster-6f8fa9df057e.jpg",
+  "prompt": "“Joey and Chandler sit side by side on the couch with coffee cups. Joey turns to Chandler with a completely sincere, concerned expression.\n\nDIALOGUE:\n\nJOEY: “Could AI replace us?”\n\nChandler slowly looks up from his coffee. Pauses. Looks Joey dead in the eye.\n\nCHANDLER: “Joey, AI cannot replace you. Nothing can replace you.”\n\nJoey nods slowly. Visibly relieved. Processing.\n\nJOEY: “Because I’m too good?”\n\nChandler stares at him. Long beat. He looks down at his coffee, then back up.\n\nCHANDLER: “…Sure. Let’s go with that.”\n\nSTYLE: Warm 90s sitcom aesthetic, steady handheld feel, natural performances, characters in casual clothing. Joey played completely straight — zero irony. Chandler delivers every line with exhausted deadpan sarcasm. Hold on Chandler’s face after the final line for a full beat before cut.”"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "player-stats-ui-170293",
+  "title": {
+    "en": "Player stats UI",
+    "zh": "Player stats UI"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic travel prompt with attached video evidence from @adithatipalli.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3视频提示词。"
+  },
+  "category": "cinematic-travel",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "9:16",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@adithatipalli",
+    "url": "https://x.com/adithatipalli/status/2086477914699170293"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/adithatipalli/status/2086478122241962266"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/player-stats-ui-170293/video-797862e901ab.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/player-stats-ui-170293/poster-9579885d0aab.jpg",
+  "prompt": "@higgsfield @aimikoda video Prompt\n\n@[ref img] is the sole visual authority for ZENITH, his face, body, hairstyle, black tactical bodysuit, cyan circuit details, exposed cybernetic arm, and the complete operative-dossier interface including typography, numbers, icons, colors, panels, lighting, layout, and 9:16 vertical composition.\n\nAnimate this exact screen without redesigning it. Preserve every existing label, stat value, diagnostic value, icon, panel boundary, and final UI position.\n\n[GOAL]\nCreate a polished 15-second futuristic cyber-operative character dossier opening. The feeling is elite black-ops intelligence software coming online and identifying an extremely dangerous enhanced operative.\n\nUse one continuous locked straight-on full-screen composition. No camera movement, cuts, reframing, cropping, zooming, rotation, or perspective distortion.\n\n[SEQUENCE]\n\n0–2.2 seconds:\nBegin from near-black charcoal with only extremely faint cyan interface traces visible.\n\nA thin horizontal biometric scanner travels downward through the screen, gradually revealing ZENITH’s silhouette and the outer dossier frame.\n\nFine digital particles, tiny grid points, circuit traces, and subtle cyan data noise activate progressively.\n\nZENITH remains almost motionless in shadow.\n\nHis cybernetic arm gives one extremely subtle mechanical initialization twitch as internal joints power on.\n\n2.2–5.5 seconds:\nThe OPERATIVE DOSSIER header, FILE ID: ZN-7X-00, ZENITH nameplate, CYBERNETIC OPERATIVE subtitle, PROFILE panel, portrait frame, biometric panel, and THREAT LEVEL panel resolve through precise line-draw and scanning animations.\n\nReveal the existing profile information exactly:\nROLE: Black Ops / Infiltration\nHEIGHT: 6’2” / 188 cm\nBUILD: Lean / Athletic\nAFFILIATION: Unknown\n\nThe THREAT LEVEL display resolves into:\nEXTREME\nCLASS: OMEGA\n\nZENITH emerges completely from darkness into the exact referenced standing pose.\n\nHe takes one controlled breath, subtly raises his chest and shoulders, then settles.\n\nHis stern gaze sharpens toward the viewer.\n\nMaintain his exact angular face, slick black hairstyle, lean proportions, black fitted suit, cyan circuitry, and single exposed cybernetic arm.\n\nThin cyan suit lines illuminate progressively from the upper torso toward the legs and cybernetic arm.\n\n5.5–10.8 seconds:\nAnimate the OPERATIVE METRICS panel sequentially.\n\nEach bar fills smoothly left-to-right and lands precisely on the existing final value:\n\nSTRENGTH — 84\nAGILITY — 96\nREFLEX — 98\nENDURANCE — 88\nSTEALTH — 97\nCOMBAT IQ — 93\nCYBER SYNC — 94\nTACTICAL EFFICIENCY — 91\n\nEach completed value receives one restrained cyan confirmation pulse. Do not alter the final numbers.\n\nSimultaneously, the biometric body scan draws vertically through the miniature human silhouette.\n\nSmall waveform and graph elements activate with subtle believable data movement.\n\nThe CYBERNETIC ARM DIAGNOSTICS section powers online from shoulder to fingertips.\n\nCallout lines trace toward the mechanical joints while the existing diagnostic values resolve exactly:\n\nMOTOR UNITS — 100%\nSTRENGTH OUTPUT — 132%\nRESPONSE TIME — 0.008s\nSENSOR SUITE — ONLINE\nGRIP FORCE — 2,400 N\nSYSTEM INTEGRITY — 100% / OPTIMAL\n\nThe circular SYSTEM INTEGRITY indicator completes one clean clockwise sweep and locks at 100%.\n\nZENITH’s mechanical fingers make one tiny natural calibration movement before returning to the exact referenced resting position.\n\n10.8–13.3 seconds:\nThe SPECIALIZATIONS and EQUIPMENT LOADOUT sections activate from left to right.\n\nExisting specialization icons receive brief controlled cyan illumination:\nSTEALTH INFILTRATION\nCQC EXPERT\nCYBERNETIC ENHANCEMENT\nINTEL GATHERING\n\nExisting equipment cards resolve cleanly:\nSHADOW BLADE\nEMP SHARD\nSMOKE DISPERSER\nDATA SPIKE\n\nDo not physically place these weapons or tools into ZENITH’s hands. They remain UI inventory graphics only.\n\nA subtle electronic current travels through the cyan circuitry across ZENITH’s suit and into the cybernetic arm."
+}

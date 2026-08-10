@@ -1,0 +1,31 @@
+{
+  "slug": "i-created-this-fun-days-of-the-week-lesson-for-k-723522",
+  "title": {
+    "en": "Motion Graphics Study 723522",
+    "zh": "动态图形案例 723522"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 motion graphics prompt with attached video evidence from @Strength04_X.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3视频提示词。"
+  },
+  "category": "motion-graphics",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "92:39",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Strength04_X",
+    "url": "https://x.com/Strength04_X/status/2084874623825723522"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Strength04_X/status/2084874623825723522"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/i-created-this-fun-days-of-the-week-lesson-for-k-723522/video-3a96a8fc6976.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/i-created-this-fun-days-of-the-week-lesson-for-k-723522/poster-6ec600100c7b.jpg",
+  "prompt": "Create a 15-second animated educational video that introduces young children to the first four days of the week: Monday, Tuesday, Wednesday, Thursday.\nLearning pattern: DAY NAME → SOUND → FUN ACTIVITY ICON → PLAYFUL ACTION → DAY NAME REPEAT\nTarget audience: children ages 3 to 6.\nVisual style: Same premium-cute aesthetic — pastel tones, rounded 3D icons, soft lighting, off-white background, unique glow per day, clean bold typography, gentle calendar-page-flip style transitions.\n0:00–0:01 Intro: Mascot bounces onto a soft floating calendar page, text \"Let's learn the days!\", tap flips to reveal Monday.\n\n▪️0:01–0:04 | Monday — School Day: Calendar page shows \"Monday\" in big rounded text. Narrator: \"Monday. Time for school!\" A tiny backpack icon bounces onto the page and wiggles happily. Word \"MONDAY\" highlighted in soft blue.\n\n▪️0:04–0:07 | Tuesday — Park Day: Page flips gently to Tuesday. Narrator: \"Tuesday. Time to play!\" A small swing icon appears and swings back and forth once. Word \"TUESDAY\" highlighted in soft orange.\n\n▪️0:07–0:10 | Wednesday — Art Day: Page flips to Wednesday. Narrator: \"Wednesday. Time to paint!\" A tiny paintbrush icon appears and draws one curved rainbow line. Word \"WEDNESDAY\" highlighted in soft purple.\n\n▪️0:10–0:13 | Thursday — Story Day: Page flips to Thursday. Narrator: \"Thursday. Time for stories!\" A small open book icon appears, pages gently flutter. Word \"THURSDAY\" highlighted in soft green.\n\n▪️0:13–0:15 Recap: Backpack, swing, paintbrush, book appear in four tiles with day names above. Mascot points to each; Narrator: \"Monday, Tuesday, Wednesday, Thursday. Great job!\" Sparkle + chime."
+}

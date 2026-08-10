@@ -1,0 +1,31 @@
+{
+  "slug": "okay-one-more-i-couldn-t-stop-837115",
+  "title": {
+    "en": "Okay one more, I couldn't stop 😂",
+    "zh": "Okay one more, I couldn't stop 😂"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @Arminn_Ai.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Arminn_Ai",
+    "url": "https://x.com/Arminn_Ai/status/2084619631742837115"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Arminn_Ai/status/2084619631742837115"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/okay-one-more-i-couldn-t-stop-837115/video-2efb5b2da659.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/okay-one-more-i-couldn-t-stop-837115/poster-8e8a54172485.jpg",
+  "prompt": "The Office (US) mockumentary style. Dunder Mifflin break room, mid-afternoon, flat fluorescent lighting, vending machine, cheap\nround table, coffee pot. Handheld documentary camera, slightly\nunsteady, deep focus, one continuous setup with a sudden snap zoom\ntoward whoever is reacting.\nMichael Scott and Dwight Schrute stand on opposite sides of the small\ntable, mid-argument. Michael is animated and enthusiastic. Dwight is\nrigid, intense, deadly serious.\nDIALOGUE:\nMICHAEL (excited): \"AI is the future, Dwight.\"\nDWIGHT (sharp): \"It's a threat. I challenged it to an endurance test.\nIt refused.\"\nMICHAEL: \"It wrote my performance review in nine seconds.\"\nDWIGHT: \"I could've done it in seven.\"\nSnap zoom to Michael. He puts down his mug.\nMICHAEL (voice climbing, wounded, slapping the table): \"It listens to\nme! Which is more than anyone here does!\"\nHard silence. Both men frozen.\nCut to Jim Halpert at his desk. He slowly turns his head and looks\ndirectly into the camera lens. Hold for two seconds. End.\nSTYLE: single-camera sitcom shot as if a documentary crew is present,\nnatural performances, no laugh track, muted office color palette,\nslightly soft consumer-camera look, dry deadpan comedic timing, no\nmusic, ambient room tone only."
+}

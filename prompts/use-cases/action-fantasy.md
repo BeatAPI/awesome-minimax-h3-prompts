@@ -1,10 +1,10 @@
 # MiniMax H3 Action & Fantasy prompts
 
-[Back to all 120 prompts](../../README.md)
+[Back to all 200 prompts](../../README.md)
 
 ## 1. Modern warfare FPS gameplay
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/modern-warfare-fps-gameplay.webm">
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/modern-warfare-fps-gameplay/video-411b189c5435.webm">
   <img src="../../assets/readme-previews/modern-warfare-fps-gameplay.webp" alt="Modern warfare FPS gameplay video preview" width="700" />
 </a>
 
@@ -17,16 +17,414 @@ Camera: First-person perspective at eye level with authentic handheld player mov
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/modern-warfare-fps-gameplay.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/modern-warfare-fps-gameplay/video-411b189c5435.webm)
 
 **Source:** [@Just_sharon7](https://x.com/Just_sharon7/status/2083064417798025721) · 15s · 16:9 · gameplay
 
 ---
 
-## 2. Storm-Lit Pirate Galleon Battle
+## 2. GPT Image 2
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/storm-lit-pirate-galleon-battle-561048-52021a1ba551.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/storm-lit-pirate-galleon-battle-561048-04da999318c6.jpg" alt="Storm-Lit Pirate Galleon Battle video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/gpt-image-2-758841/video-afbfc0676a40.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/gpt-image-2-758841/poster-3f003e8deb71.jpg" alt="GPT Image 2 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a 16:9 premium ecommerce landing page UI/UX demo built around the product in Image 1. Use a luxurious, futuristic sports-performance aesthetic with oversized bold italic...</summary>
+
+~~~~text
+Create a 16:9 premium ecommerce landing page UI/UX demo built around the product in Image 1. Use a luxurious, futuristic sports-performance aesthetic with oversized bold italic sans-serif typography, dark glossy backgrounds, carbon fiber and performance-mesh textures, metallic highlights, and speed-driven light streaks. Show a smooth high-speed page scroll, premium product sections, sleek feature cards, gallery modules, tech-spec areas, and strong CTA zones. Include high-impact hover interactions like scale-up, color inversion, glow effects, card expansion, and animated typography. Make the motion cinematic, expensive, and ultra-polished, like a world-class product launch website demo.
+
+💰 Generation cost: under $3
+🖼 Input: one product image
+🧩 Output: a polished website concept video
+
+Try MiniMax H3 → https://t.co/rxvRdUYoxo
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/gpt-image-2-758841/video-afbfc0676a40.webm)
+
+**Source:** [@ImaStudio_ai](https://x.com/ImaStudio_ai/status/2085211946815758841) · 15s · 16:9 · action
+
+---
+
+## 3. Motion Graphics Study 723522
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/i-created-this-fun-days-of-the-week-lesson-for-k-723522/video-3a96a8fc6976.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/i-created-this-fun-days-of-the-week-lesson-for-k-723522/poster-6ec600100c7b.jpg" alt="Motion Graphics Study 723522 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a 15-second animated educational video that introduces young children to the first four days of the week: Monday, Tuesday, Wednesday, Thursday. Learning pattern: DAY NAME →...</summary>
+
+~~~~text
+Create a 15-second animated educational video that introduces young children to the first four days of the week: Monday, Tuesday, Wednesday, Thursday.
+Learning pattern: DAY NAME → SOUND → FUN ACTIVITY ICON → PLAYFUL ACTION → DAY NAME REPEAT
+Target audience: children ages 3 to 6.
+Visual style: Same premium-cute aesthetic — pastel tones, rounded 3D icons, soft lighting, off-white background, unique glow per day, clean bold typography, gentle calendar-page-flip style transitions.
+0:00–0:01 Intro: Mascot bounces onto a soft floating calendar page, text "Let's learn the days!", tap flips to reveal Monday.
+
+▪️0:01–0:04 | Monday — School Day: Calendar page shows "Monday" in big rounded text. Narrator: "Monday. Time for school!" A tiny backpack icon bounces onto the page and wiggles happily. Word "MONDAY" highlighted in soft blue.
+
+▪️0:04–0:07 | Tuesday — Park Day: Page flips gently to Tuesday. Narrator: "Tuesday. Time to play!" A small swing icon appears and swings back and forth once. Word "TUESDAY" highlighted in soft orange.
+
+▪️0:07–0:10 | Wednesday — Art Day: Page flips to Wednesday. Narrator: "Wednesday. Time to paint!" A tiny paintbrush icon appears and draws one curved rainbow line. Word "WEDNESDAY" highlighted in soft purple.
+
+▪️0:10–0:13 | Thursday — Story Day: Page flips to Thursday. Narrator: "Thursday. Time for stories!" A small open book icon appears, pages gently flutter. Word "THURSDAY" highlighted in soft green.
+
+▪️0:13–0:15 Recap: Backpack, swing, paintbrush, book appear in four tiles with day names above. Mascot points to each; Narrator: "Monday, Tuesday, Wednesday, Thursday. Great job!" Sparkle + chime.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/i-created-this-fun-days-of-the-week-lesson-for-k-723522/video-3a96a8fc6976.webm)
+
+**Source:** [@Strength04_X](https://x.com/Strength04_X/status/2084874623825723522) · 15s · 92:39 · motion graphics
+
+---
+
+## 4. Motion Graphics Study 446929
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/i-created-this-kids-counting-video-with-on-446929/video-589a2687bccb.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/i-created-this-kids-counting-video-with-on-446929/poster-74cb284382c7.jpg" alt="Motion Graphics Study 446929 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a 15-second animated educational video that teaches young children the numbers 1, 2, 3, and 4. Learning pattern for every number: NUMBER → COUNT SOUND → OBJECTS → PLAYFUL...</summary>
+
+~~~~text
+Create a 15-second animated educational video that teaches young children the numbers 1, 2, 3, and 4.
+Learning pattern for every number:
+NUMBER → COUNT SOUND → OBJECTS → PLAYFUL ACTION → NUMBER NAME
+Target audience: children ages 3 to 6.
+Visual style: Adorable rounded 3D characters, soft pastel colors, gentle expressions, premium minimalist tech aesthetic clean white space, soft studio lighting, smooth gradients, rounded geometry, crisp typography, polished transitions. Clean off-white background with a different soft color glow behind each number.
+0:00–0:01 Intro: Star mascot bounces in, numbers float around it, text "Let's count!", tap creates ripple revealing "1".
+0:01–0:04 | 1 is for One Sun: Large "1" shown, narrator: "One. Just one. One Sun." The 1 transforms into a smiling sun with soft rays. One gentle pulse of light. Word "ONE SUN" appears, highlight "1" in yellow.
+0:04–0:07 | 2 is for Two Birds: The sun's rays curve into a "2." Narrator: "Two. Two Birds." The 2 splits gently into two round bluebirds that flutter and land side by side. Word "TWO BIRDS," highlight "2" in blue.
+0:07–0:10 | 3 is for Three Flowers: The birds' wings curl into a "3." Narrator: "Three. Three Flowers." The 3 blooms into three pink flowers swaying gently. Word "THREE FLOWERS," highlight "3" in pink.
+0:10–0:13 | 4 is for Four Fish: The flower stems bend into a "4." Narrator: "Four. Four Fish." The 4 splits into four little green fish swimming in a soft circle. Water ripple effect. Word "FOUR FISH," highlight "4" in green.
+0:13–0:15 Recap: Sun, birds, flowers, fish appear as four tiles with "1 2 3 4" above. Mascot points to each; Narrator: "1, 2, 3, 4. Great counting!" Sparkle + chime.
+Requirements: Keep each number visible before morphing, smooth shape transitions, no clutter, no scary faces, gentle squash-and-stretch, synced sound effects, calm and polished finish.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/i-created-this-kids-counting-video-with-on-446929/video-589a2687bccb.webm)
+
+**Source:** [@Strength04_X](https://x.com/Strength04_X/status/2084552480554446929) · 15s · 16:9 · motion graphics
+
+---
+
+## 5. Action Film Study 735905
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/10-second-16-9-photoreal-cinematic-wide-shot-fly-735905/video-894f1df37865.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/10-second-16-9-photoreal-cinematic-wide-shot-fly-735905/poster-21876ff1a52e.jpg" alt="Action Film Study 735905 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — ) [FORMAT] Create a 10-second, 16:9 photoreal cinematic wide-shot flyby of a stealth aircraft activating optical camouflage at extreme speed. [IDENTITY] Preserve a wide tailless...</summary>
+
+~~~~text
+)
+
+[FORMAT]
+Create a 10-second, 16:9 photoreal cinematic wide-shot flyby of a stealth aircraft activating optical camouflage at extreme speed.
+
+[IDENTITY]
+Preserve a wide tailless delta wing, sharp faceted edges, flat wedge-shaped nose, recessed dark cockpit, matte charcoal surface, twin buried exhausts, no insignia, and rigid non-morphing geometry.
+
+[BEATS]
+[0–2 seconds] A vast open sky above distant clouds. The stealth aircraft suddenly enters from the far left and races laterally across the wide frame at extreme speed.
+
+[2–4 seconds] The camera performs a fast, controlled pan to track the aircraft. Strong background parallax and slight motion blur emphasize its velocity while its shape remains readable.
+
+[4–6 seconds] Optical camouflage sweeps from the nose across both wings. The solid aircraft rapidly vanishes without slowing down or changing direction.
+
+[6–8 seconds] The camera continues tracking the same trajectory. The invisible delta-wing shape remains clearly perceptible because the sky and clouds inside its exact volume ripple and bend like concentrated heat haze.
+
+[8–10 seconds] The refractive aircraft streaks toward the distant horizon, leaving a narrow turbulent distortion wake before exiting the frame.
+
+[CAMERA]
+One continuous very wide lateral tracking shot. The aircraft stays relatively small within the expansive frame. Fast pan tracking, broad environmental scale, strong lateral movement, subtle handheld vibration, and realistic motion blur. No close-up and no chase-camera angle.
+
+[LIGHT]
+Bright high-altitude daylight, cool blue sky, white cloud field, natural atmospheric haze, restrained contrast, and realistic cinematic texture.
+
+[EDIT]
+One uninterrupted shot. No cuts, transitions, slow motion, or camera repositioning.
+
+[AUDIO]
+Audio: violent high-altitude wind rush, rapidly approaching jet roar, a powerful Doppler flyby, and a brief vacuum-like sound as the camouflage activates.
+BGM: an original 10-second cue, 80% tension and 20% awe. Low sub-bass pulse and metallic air textures, building sharply during the flyby and fading into a low tone over the final 2 seconds. Do not imitate an existing melody.
+
+[NEGATIVE]
+Do not show an empty sky after cloaking. Maintain a coherent, fast-moving delta-wing refraction that bends the background inside the aircraft’s exact volume.
+No glowing outline, glass aircraft, force-field bubble, pixel dissolve, smoke camouflage, teleportation, morphing, or reappearance.
+No extra aircraft, weapons, explosions, contrails, subtitles, on-screen text, watermarks, platform logos, or stickers.
+Do not introduce Chinese text, garbled characters, or misspellings.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/10-second-16-9-photoreal-cinematic-wide-shot-fly-735905/video-894f1df37865.webm)
+
+**Source:** [@opener_ai](https://x.com/opener_ai/status/2084441225667735905) · 10s · 16:9 · action
+
+---
+
+## 6. is a huge model for some themes
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/is-a-huge-model-for-some-themes-157293/video-3a23900fd3b4.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/is-a-huge-model-for-some-themes-157293/poster-c2ebc5d6241f.jpg" alt="is a huge model for some themes video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — @Hailuo_AI Prompt : Camera: First-person, eye level, handheld gameplay. Simulate a player operating a modern military FPS while holding a frost-covered assault rifle and...</summary>
+
+~~~~text
+@Hailuo_AI Prompt :
+
+Camera: First-person, eye level, handheld gameplay. Simulate a player operating a modern military FPS while holding a frost-covered assault rifle and cautiously advancing through a remote Arctic military installation. Move forward across an icy service road between snowbanks, radar stations and frozen cargo containers, periodically scanning rooftops, watchtowers and mountain ridgelines. Sweep the reticle naturally across possible threats, briefly stop behind cover to fire several controlled bursts toward a distant enemy near the radar dome, then continue advancing deeper into the frozen base like authentic player-controlled gameplay.
+
+Lighting: Cold Arctic daylight with soft overcast skies and pale winter sunlight reflecting across ice and snow. Blend crisp blue ambient light with warm floodlights from the base, vehicle headlights, subtle smoke drifting from generators, blowing snow, frozen breath, and atmospheric ice particles. Maintain ultra-photorealistic AAA rendering with highly detailed weapon materials, realistic snow deformation, wet ice reflections, volumetric fog, and cinematic environmental depth.
+
+Camera movement: Natural player-controlled movement with subtle handheld sway while walking across uneven frozen terrain. Perform small tactical checks left and right, briefly aim down the central lane, add realistic recoil and muzzle flash while firing short bursts, then smoothly recover and continue pushing forward. Include slight weapon bobbing, responsive aim corrections, natural acceleration and deceleration, and authentic FPS movement throughout, preserving the immersive feel of high-end modern military gameplay.
+2/2
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/is-a-huge-model-for-some-themes-157293/video-3a23900fd3b4.webm)
+
+**Source:** [@LudovicCreator](https://x.com/LudovicCreator/status/2084338573210157293) · 15s · 16:9 · gameplay
+
+---
+
+## 7. Video models are going to revolutionize education!
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-models-are-going-to-revolutionize-educatio-411987/video-1acb0e9eaf71.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-models-are-going-to-revolutionize-educatio-411987/poster-c90a3b4e4cc1.jpg" alt="Video models are going to revolutionize education! video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a 15-second animated educational video that teaches young children the letters A, B, C, and D. The learning pattern for every letter must be: LETTER → SOUND → OBJECT →...</summary>
+
+~~~~text
+Create a 15-second animated educational video that teaches young children the letters A, B, C, and D.
+
+The learning pattern for every letter must be:
+
+LETTER → SOUND → OBJECT → PLAYFUL ACTION → OBJECT NAME
+
+Target audience: children ages 3 to 6.
+
+Visual style:
+Use adorable rounded 3D characters, soft pastel colors, gentle facial expressions, and simple recognizable objects. Combine this with a premium minimalist technology aesthetic featuring clean white space, elegant composition, soft studio lighting, subtle reflections, smooth gradients, rounded geometry, crisp typography, and extremely polished transitions.
+
+The animation should feel playful and child-friendly while remaining calm, uncluttered, and beautifully designed.
+
+Use a clean off-white background with a different soft color glow behind each letter.
+
+0:00–0:01 | Introduction
+A small smiling star mascot bounces into the center of the screen.
+
+Colorful letters briefly float around it.
+
+Display the text:
+
+“Let’s learn!”
+
+The mascot taps the screen, creating a soft ripple that reveals the first letter.
+
+0:01–0:04 | A is for Apple
+
+Show a large uppercase “A” and smaller lowercase “a” beside it.
+Use thick, rounded, highly readable typography.
+
+The narrator says:
+
+“A. A says ah. A is for Apple.”
+
+The uppercase A gently inflates and transforms into a shiny red apple.
+
+Its top point becomes the apple stem, and a small green leaf unfolds from the side.
+
+The apple gains a cute smiling face and performs one soft bounce.
+
+Display the word:
+
+“APPLE”
+
+Highlight the first letter A in red.
+
+Add a soft pop and a tiny crunchy sound.
+
+0:04–0:07 | B is for Ball
+
+The apple rolls across the screen and leaves behind a curved red trail.
+
+The trail loops twice and forms a large uppercase “B,” with a lowercase “b” appearing beside it.
+The narrator says:
+
+“B. B says buh. B is for Ball.”
+
+The two rounded sections of the B expand and merge into a colorful striped ball.
+
+The ball bounces twice with playful squash-and-stretch animation.
+
+Display the word:
+
+“BALL”
+
+Highlight the first letter B in blue.
+
+Synchronize each bounce with a soft musical note.
+
+0:07–0:10 | C is for Cat
+
+On its final bounce, the ball stretches into a curved shape and becomes a large uppercase “C.”
+
+A lowercase “c” slides gently into place beside it.
+
+The narrator says:
+“C. C says kuh. C is for Cat.”
+
+The C rotates and becomes the curled tail of a cute orange cat.
+
+The rest of the cat forms from soft rounded shapes.
+
+The cat stretches, blinks, and gives one gentle wave with its paw.
+
+Display the word:
+
+“CAT”
+
+Highlight the first letter C in orange.
+
+Add a quiet and friendly “meow.”
+
+0:10–0:13 | D is for Duck
+
+The cat’s tail uncurls and transforms into the curved side of a large uppercase “D.”
+
+A lowercase “d” pops up beside it.
+
+The narrator says:
+
+“D. D says duh. D is for Duck.”
+The straight line of the D becomes the duck’s neck.
+
+The curved section becomes its round yellow body.
+
+A small orange beak and two tiny wings pop into place.
+
+The duck waddles forward, flaps its wings, and gives one cheerful quack.
+
+Display the word:
+
+“DUCK”
+
+Highlight the first letter D in yellow.
+
+Add tiny water ripples beneath its feet.
+
+0:13–0:15 | Recap
+
+The apple, ball, cat, and duck slide into four clean rounded tiles.
+
+Place their letters above them:
+
+“A  B  C  D”
+
+The mascot returns and points to each object as they bounce once in sequence.
+
+Narrator:
+“A, B, C, D. Great job!”
+
+Finish with the text:
+
+“Great job!”
+
+Use a small sparkle animation and a warm musical chime.
+
+Animation requirements:
+
+Keep each letter fully visible for a moment before it transforms.
+
+Show uppercase and lowercase versions clearly.
+
+Make every object instantly recognizable.
+
+Use smooth shape morphing so children can visually understand how the letter becomes the object.
+
+Maintain stable spelling, clean letterforms, accurate object shapes, and consistent character design.
+
+Use gentle squash-and-stretch, soft motion blur, subtle shadows, polished lighting, and precisely synchronized sound effects.
+Avoid fast camera movement, cluttered backgrounds, harsh colors, tiny text, warped letters, random symbols, duplicated objects, scary expressions, or overly complex transformations.
+
+The final video should feel cute, educational, memorable, calming, and exceptionally polished.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/video-models-are-going-to-revolutionize-educatio-411987/video-1acb0e9eaf71.webm)
+
+**Source:** [@umesh_ai](https://x.com/umesh_ai/status/2084227244533411987) · 15s · 16:9 · motion graphics
+
+---
+
+## 8. Motion Graphics Study 960837
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/is-redefining-ai-with-open-weight-multimodal-int-960837/video-ce9d664d9d6c.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/is-redefining-ai-with-open-weight-multimodal-int-960837/poster-096c34492314.jpg" alt="Motion Graphics Study 960837 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Epic theatrical space-opera teaser - (Partial prompt — expand as needed) - Keep the pace fast and the scale enormous without letting the edit drag. Use sharp hard cuts, a shaking...</summary>
+
+~~~~text
+Epic theatrical space-opera teaser
+- (Partial prompt — expand as needed)
+- Keep the pace fast and the scale enormous without letting the edit drag. Use sharp hard cuts, a shaking command deck, white-hot flashes, split-second black frames, and a violent jump-to-warp impact. Title cards should use wide-tracked cinematic typography—not pure white—with restrained material texture, subtle illumination, and a faint edge glow. Animate the titles by emerging from deep-space shadow, catching a sweep of starlight, opening their letter spacing, leaving a slight afterimage, and flashing briefly against black.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/is-redefining-ai-with-open-weight-multimodal-int-960837/video-ce9d664d9d6c.webm)
+
+**Source:** [@itxabdullaa](https://x.com/itxabdullaa/status/2083854803801960837) · 15s · 16:9 · motion graphics
+
+---
+
+## 9. Motion Graphics Study 106839
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/romantic-montage-of-two-people-exploring-a-beaut-106839/video-5309be7fbe3d.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/romantic-montage-of-two-people-exploring-a-beaut-106839/poster-98750acaed01.jpg" alt="Motion Graphics Study 106839 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Romantic montage of two people exploring a beautiful city. Soft lighting, candid smiles, and cinematic motion graphics. Done with @Minimax H3 in @magnific https://t.co/F6F7r7Yi4n</summary>
+
+~~~~text
+Romantic montage of two people exploring a beautiful city. Soft lighting, candid smiles, and cinematic motion graphics.
+
+Done with @Minimax H3 in @magnific https://t.co/F6F7r7Yi4n
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/romantic-montage-of-two-people-exploring-a-beaut-106839/video-5309be7fbe3d.webm)
+
+**Source:** [@ikausarsolanki](https://x.com/ikausarsolanki/status/2083617497216106839) · 8s · 16:9 · motion graphics
+
+---
+
+## 10. Storm-Lit Pirate Galleon Battle
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/storm-lit-pirate-galleon-battle-561048/video-52021a1ba551.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/storm-lit-pirate-galleon-battle-561048/poster-04da999318c6.jpg" alt="Storm-Lit Pirate Galleon Battle video preview" width="700" />
 </a>
 
 <details>
@@ -72,16 +470,16 @@ Camera: mostly handheld-feel tracking shots through the melee for immersion, har
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/storm-lit-pirate-galleon-battle-561048-52021a1ba551.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/storm-lit-pirate-galleon-battle-561048/video-52021a1ba551.webm)
 
 **Source:** [@seirdotmk](https://x.com/seirdotmk/status/2083582886280561048) · 10s · 16:9 · action
 
 ---
 
-## 3. Y2K K-Pop Candy Typography Music Video
+## 11. Y2K K-Pop Candy Typography Music Video
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/soft-cute-y2k-crush-k-pop-girl-group-rap-mv-748313-7588687fb895.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/soft-cute-y2k-crush-k-pop-girl-group-rap-mv-748313-ca11d6e8f8b2.jpg" alt="Y2K K-Pop Candy Typography Music Video video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/soft-cute-y2k-crush-k-pop-girl-group-rap-mv-748313/video-7588687fb895.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/soft-cute-y2k-crush-k-pop-girl-group-rap-mv-748313/poster-ca11d6e8f8b2.jpg" alt="Y2K K-Pop Candy Typography Music Video video preview" width="700" />
 </a>
 
 <details>
@@ -111,16 +509,16 @@ Shot 7 — Group Rap Performance「UNBREAKABLE」 Three members together.
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/soft-cute-y2k-crush-k-pop-girl-group-rap-mv-748313-7588687fb895.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/soft-cute-y2k-crush-k-pop-girl-group-rap-mv-748313/video-7588687fb895.webm)
 
 **Source:** [@LeoCreaIA](https://x.com/LeoCreaIA/status/2083240416166748313) · 15s · 16:9 · gameplay
 
 ---
 
-## 4. Cyber Warrior vs. Primordial Fighter
+## 12. Cyber Warrior vs. Primordial Fighter
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-cinematic-showdown-between-the-most-technolog-354071-f1fbd8ae7b01.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-cinematic-showdown-between-the-most-technolog-354071-f3ccda5d88dd.jpg" alt="Cyber Warrior vs. Primordial Fighter video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-cinematic-showdown-between-the-most-technolog-354071/video-f1fbd8ae7b01.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-cinematic-showdown-between-the-most-technolog-354071/poster-f3ccda5d88dd.jpg" alt="Cyber Warrior vs. Primordial Fighter video preview" width="700" />
 </a>
 
 <details>
@@ -160,16 +558,16 @@ Cinematic 4K, 16:9, ultra-realistic VFX, physically accurate destruction, volume
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-cinematic-showdown-between-the-most-technolog-354071-f1fbd8ae7b01.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-cinematic-showdown-between-the-most-technolog-354071/video-f1fbd8ae7b01.webm)
 
 **Source:** [@alex_bagnuoli89](https://x.com/alex_bagnuoli89/status/2083207597025354071) · 15s · 16:9 · action
 
 ---
 
-## 5. Ringside Phone-Footage Boxing Knockout
+## 13. Ringside Phone-Footage Boxing Knockout
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ringside-phone-footage-boxing-knockout-221043-cf76d3103f6a.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ringside-phone-footage-boxing-knockout-221043-0ef2df0bcaf0.jpg" alt="Ringside Phone-Footage Boxing Knockout video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ringside-phone-footage-boxing-knockout-221043/video-cf76d3103f6a.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ringside-phone-footage-boxing-knockout-221043/poster-0ef2df0bcaf0.jpg" alt="Ringside Phone-Footage Boxing Knockout video preview" width="700" />
 </a>
 
 <details>
@@ -208,16 +606,16 @@ Cinematic 4K, 16:9, ultra-realistic VFX, physically accurate destruction, volume
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/ringside-phone-footage-boxing-knockout-221043-cf76d3103f6a.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/ringside-phone-footage-boxing-knockout-221043/video-cf76d3103f6a.webm)
 
 **Source:** [@johnAGI168](https://x.com/johnAGI168/status/2083033353679221043) · 15s · 9:16 · action
 
 ---
 
-## 6. 8-bit black and white San Francisco animation
+## 14. 8-bit black and white San Francisco animation
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/8-bit-black-and-white-san-francisco-animation-325353.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/8-bit-black-and-white-san-francisco-animation-325353.jpg" alt="8-bit black and white San Francisco animation video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/8-bit-black-and-white-san-francisco-animation-325353/video-aa7ee56eb15f.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/8-bit-black-and-white-san-francisco-animation-325353/poster-d41927c64648.jpg" alt="8-bit black and white San Francisco animation video preview" width="700" />
 </a>
 
 <details>
@@ -229,16 +627,16 @@ Cinematic 4K, 16:9, ultra-realistic VFX, physically accurate destruction, volume
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/8-bit-black-and-white-san-francisco-animation-325353.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/8-bit-black-and-white-san-francisco-animation-325353/video-aa7ee56eb15f.webm)
 
 **Source:** [@vercel_dev](https://x.com/vercel_dev/status/2083007144111325353) · 10s · 16:9 · motion graphics
 
 ---
 
-## 7. Explorer and Cat in a Floating Eco-City
+## 15. Explorer and Cat in a Floating Eco-City
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-cinematic-aaa-adventure-game-trailer-one-continuo-722460-8df5c20c5939.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-cinematic-aaa-adventure-game-trailer-one-continuo-722460-478284a3421e.jpg" alt="Explorer and Cat in a Floating Eco-City video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-cinematic-aaa-adventure-game-trailer-one-continuo-722460/video-8df5c20c5939.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-cinematic-aaa-adventure-game-trailer-one-continuo-722460/poster-478284a3421e.jpg" alt="Explorer and Cat in a Floating Eco-City video preview" width="700" />
 </a>
 
 <details>
@@ -250,16 +648,16 @@ Ultra cinematic AAA adventure game trailer, one continuous seamless camera shot,
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-cinematic-aaa-adventure-game-trailer-one-continuo-722460-8df5c20c5939.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-cinematic-aaa-adventure-game-trailer-one-continuo-722460/video-8df5c20c5939.webm)
 
 **Source:** [@AiMeowing](https://x.com/AiMeowing/status/2082937573559722460) · 43s · 16:9 · gameplay
 
 ---
 
-## 8. Fantasy Deck-Builder Battle UI
+## 16. Fantasy Deck-Builder Battle UI
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/deck-builder-turn-ui-choreography-446745-3d55b47abdf6.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/deck-builder-turn-ui-choreography-446745-8cb4c8f5ec6c.jpg" alt="Fantasy Deck-Builder Battle UI video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/deck-builder-turn-ui-choreography-446745/video-3d55b47abdf6.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/deck-builder-turn-ui-choreography-446745/poster-8cb4c8f5ec6c.jpg" alt="Fantasy Deck-Builder Battle UI video preview" width="700" />
 </a>
 
 <details>
@@ -278,16 +676,16 @@ Negative: no UI drift or warping, no invented card names, no misspellings, no go
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/deck-builder-turn-ui-choreography-446745-3d55b47abdf6.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/deck-builder-turn-ui-choreography-446745/video-3d55b47abdf6.webm)
 
 **Source:** [@AllaAisling](https://x.com/AllaAisling/status/2082909383424446745) · 15s · 16:9 · gameplay
 
 ---
 
-## 9. Colorful Paint-Weapon Selection Screen
+## 17. Colorful Paint-Weapon Selection Screen
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-1-for-the-character-image-2-for-the-619967-7ac98e27a185.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-1-for-the-character-image-2-for-the-619967-e51bf318751f.jpg" alt="Colorful Paint-Weapon Selection Screen video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-1-for-the-character-image-2-for-the-619967/video-7ac98e27a185.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-1-for-the-character-image-2-for-the-619967/poster-e51bf318751f.jpg" alt="Colorful Paint-Weapon Selection Screen video preview" width="700" />
 </a>
 
 <details>
@@ -317,16 +715,16 @@ The world loads into a bright, colorful ink-covered city filled with graffiti, p
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/image-1-for-the-character-image-2-for-the-619967-7ac98e27a185.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/image-1-for-the-character-image-2-for-the-619967/video-7ac98e27a185.webm)
 
 **Source:** [@craftian_keskin](https://x.com/craftian_keskin/status/2082893990995619967) · 15s · 16:9 · gameplay
 
 ---
 
-## 10. Storm-Cliff Golf Physics Challenge
+## 18. Storm-Cliff Golf Physics Challenge
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/storm-cliff-golf-physics-challenge-037151-d69ed1c1be4c.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/storm-cliff-golf-physics-challenge-037151-6f6ccf8c0ac1.jpg" alt="Storm-Cliff Golf Physics Challenge video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/storm-cliff-golf-physics-challenge-037151/video-d69ed1c1be4c.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/storm-cliff-golf-physics-challenge-037151/poster-6f6ccf8c0ac1.jpg" alt="Storm-Cliff Golf Physics Challenge video preview" width="700" />
 </a>
 
 <details>
@@ -340,16 +738,16 @@ A dramatic sports sequence begins on a lush, windswept coastal cliff during a vi
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/storm-cliff-golf-physics-challenge-037151-d69ed1c1be4c.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/storm-cliff-golf-physics-challenge-037151/video-d69ed1c1be4c.webm)
 
 **Source:** [@Dheepanratnam](https://x.com/Dheepanratnam/status/2082799981426037151) · 15s · 16:9 · action
 
 ---
 
-## 11. Jetpack Dive Through a Mountain Gorge
+## 19. Jetpack Dive Through a Mountain Gorge
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-fast-paced-cinematic-action-sequence-a-man-in-a-078815-f4b3083ef6fd.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-fast-paced-cinematic-action-sequence-a-man-in-a-078815-a70e1e0aaa52.jpg" alt="Jetpack Dive Through a Mountain Gorge video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-fast-paced-cinematic-action-sequence-a-man-in-a-078815/video-f4b3083ef6fd.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-fast-paced-cinematic-action-sequence-a-man-in-a-078815/poster-a70e1e0aaa52.jpg" alt="Jetpack Dive Through a Mountain Gorge video preview" width="700" />
 </a>
 
 <details>
@@ -361,16 +759,16 @@ Ultra-fast paced cinematic action sequence, a man in a sleek black tactical suit
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-fast-paced-cinematic-action-sequence-a-man-in-a-078815-f4b3083ef6fd.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-fast-paced-cinematic-action-sequence-a-man-in-a-078815/video-f4b3083ef6fd.webm)
 
 **Source:** [@Ankit_patel211](https://x.com/Ankit_patel211/status/2082794108998078815) · 15s · 16:9 · action
 
 ---
 
-## 12. Sunrise Wingsuit Canyon Run
+## 20. Sunrise Wingsuit Canyon Run
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/canyon-wingsuit-thread-world-build-a-wingsuit-pilot-thr-927857-01462c924c2a.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/canyon-wingsuit-thread-world-build-a-wingsuit-pilot-thr-927857-e1ffb417dc47.jpg" alt="Sunrise Wingsuit Canyon Run video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/canyon-wingsuit-thread-world-build-a-wingsuit-pilot-thr-927857/video-01462c924c2a.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/canyon-wingsuit-thread-world-build-a-wingsuit-pilot-thr-927857/poster-e1ffb417dc47.jpg" alt="Sunrise Wingsuit Canyon Run video preview" width="700" />
 </a>
 
 <details>
@@ -382,16 +780,16 @@ CANYON WINGSUIT THREAD WORLD BUILD A wingsuit pilot threading an impossible cany
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/canyon-wingsuit-thread-world-build-a-wingsuit-pilot-thr-927857-01462c924c2a.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/canyon-wingsuit-thread-world-build-a-wingsuit-pilot-thr-927857/video-01462c924c2a.webm)
 
 **Source:** [@sebatheepan](https://x.com/sebatheepan/status/2082731549707927857) · 15s · 16:9 · action
 
 ---
 
-## 13. Concrete-Plaza Kickflip Drop
+## 21. Concrete-Plaza Kickflip Drop
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/concrete-plaza-kickflip-drop-082714-d5ce5bc1daa2.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/concrete-plaza-kickflip-drop-082714-9305983cf0b5.jpg" alt="Concrete-Plaza Kickflip Drop video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/concrete-plaza-kickflip-drop-082714/video-d5ce5bc1daa2.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/concrete-plaza-kickflip-drop-082714/poster-9305983cf0b5.jpg" alt="Concrete-Plaza Kickflip Drop video preview" width="700" />
 </a>
 
 <details>
@@ -405,7 +803,7 @@ SCENE CONTEXT Late afternoon, empty two-level concrete plaza. A young woman skat
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/concrete-plaza-kickflip-drop-082714-d5ce5bc1daa2.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/concrete-plaza-kickflip-drop-082714/video-d5ce5bc1daa2.webm)
 
 **Source:** [@eijo_AIart](https://x.com/eijo_AIart/status/2082684613475082714) · 10s · 16:9 · action
 

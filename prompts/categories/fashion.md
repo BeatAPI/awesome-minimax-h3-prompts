@@ -2,10 +2,47 @@
 
 [Back to the full gallery](../../README.md) · [Catalog index](../README.md)
 
-## 1. Low-Angle Fashion Tracking Film
+## 1. Mind-blown. One shot
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/low-angle-fashion-tracking-film-062019-7eccbb514e51.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/low-angle-fashion-tracking-film-062019-98861d56b4fd.jpg" alt="Low-Angle Fashion Tracking Film video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/mind-blown-one-shot-376793/video-b2f67795e835.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/mind-blown-one-shot-376793/poster-f47b714c6d95.jpg" alt="Mind-blown. One shot video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — [Core Concept] 15s, 160 BPM, 4/4, 40 beats. Industrial Hyperpop × Deconstructed Club: hard kicks, metallic snares, glitch hi-hats, distorted bass, sliced vocals. A timeline-based...</summary>
+
+~~~~text
+[Core Concept]
+15s, 160 BPM, 4/4, 40 beats. Industrial Hyperpop × Deconstructed Club: hard kicks, metallic snares, glitch hi-hats, distorted bass, sliced vocals. A timeline-based reality where rhythm controls space and motion.
+
+[Character Identity]
+Single androgynous dancer with short black hair, silver eyebrow mark, asymmetric black jacket, wide pants, red stitching. Maintain identical face, body, hairstyle and outfit. Multiple figures are only past-frame projections.
+
+[World Logic]
+Each kick compresses the timeline toward the dancer. Each snare duplicates previous movements into adjacent frames. Moving against the timeline transforms the 2D interface into a foldable 3D structure. The dancer escapes the repetition loop.
+
+[Visual Language]
+Black, cold white, warning red. Glass timelines, metal rails, glowing frame lines, scanning grids. Extreme wide-angle, low angles, top-down shots, Dutch angles, dolly moves, impossible perspective. 3D words COPY, SAME, TREND, OUTSIDE exist as physical architecture, not subtitles.
+
+[Motion Rules]
+Use anticipation → attack → overshoot → settle. Kick drives spatial compression, snare breaks frames, hi-hats animate cursors and fragments, bass bends time. Build with glitch cuts, then explode into an impossible continuous long take during the drop.
+
+[Restrictions]
+No character changes, extra people, random text, subtitles, logos, outfit changes, bad anatomy, flat camera angles, or meaningless flashes.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/mind-blown-one-shot-376793/video-b2f67795e835.webm)
+
+**Source:** [@lepadphone](https://x.com/lepadphone/status/2084637679254376793) · 15s · 16:9 · fashion
+
+---
+
+## 2. Low-Angle Fashion Tracking Film
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/low-angle-fashion-tracking-film-062019/video-7eccbb514e51.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/low-angle-fashion-tracking-film-062019/poster-98861d56b4fd.jpg" alt="Low-Angle Fashion Tracking Film video preview" width="700" />
 </a>
 
 <details>
@@ -17,16 +54,16 @@ Ultra realistic cinematic video, shot on ARRI Alexa 35 with spherical lens, natu
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/low-angle-fashion-tracking-film-062019-7eccbb514e51.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/low-angle-fashion-tracking-film-062019/video-7eccbb514e51.webm)
 
 **Source:** [@Kiber_Alla](https://x.com/Kiber_Alla/status/2083583963512062019) · 15s · 16:9 · fashion
 
 ---
 
-## 2. Kintsugi Sword Seamless Loop
+## 3. Kintsugi Sword Seamless Loop
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/kintsugi-sword-seamless-loop-524882-18ce4fdcf3f2.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/kintsugi-sword-seamless-loop-524882-1365004257d9.jpg" alt="Kintsugi Sword Seamless Loop video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/kintsugi-sword-seamless-loop-524882/video-18ce4fdcf3f2.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/kintsugi-sword-seamless-loop-524882/poster-1365004257d9.jpg" alt="Kintsugi Sword Seamless Loop video preview" width="700" />
 </a>
 
 <details>
@@ -125,16 +162,16 @@ Prompt #MiniMaxH3 in Chinese:
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/kintsugi-sword-seamless-loop-524882-18ce4fdcf3f2.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/kintsugi-sword-seamless-loop-524882/video-18ce4fdcf3f2.webm)
 
 **Source:** [@Cia0_exe](https://x.com/Cia0_exe/status/2083525563491524882) · 15s · 16:9 · fashion
 
 ---
 
-## 3. Surreal Blue Studio Dance with a Horse
+## 4. Surreal Blue Studio Dance with a Horse
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/surreal-blue-studio-dance-with-horse-588086-35d70f2a6270.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/surreal-blue-studio-dance-with-horse-588086-c616e26c1d83.jpg" alt="Surreal Blue Studio Dance with a Horse video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/surreal-blue-studio-dance-with-horse-588086/video-35d70f2a6270.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/surreal-blue-studio-dance-with-horse-588086/poster-c616e26c1d83.jpg" alt="Surreal Blue Studio Dance with a Horse video preview" width="700" />
 </a>
 
 <details>
@@ -150,16 +187,16 @@ Create a surreal 15-second fashion-film sequence inside a minimalist monochrome 
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/surreal-blue-studio-dance-with-horse-588086-35d70f2a6270.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/surreal-blue-studio-dance-with-horse-588086/video-35d70f2a6270.webm)
 
 **Source:** [@egeberkina](https://x.com/egeberkina/status/2083301476206588086) · 15s · 16:9 · fashion
 
 ---
 
-## 4. Ice Gunslinger Interactive Web Loop
+## 5. Ice Gunslinger Interactive Web Loop
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ice-gunslinger-interactive-web-loop-045626-8ed8d15497ae.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ice-gunslinger-interactive-web-loop-045626-b4852f65a0a0.jpg" alt="Ice Gunslinger Interactive Web Loop video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ice-gunslinger-interactive-web-loop-045626/video-8ed8d15497ae.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ice-gunslinger-interactive-web-loop-045626/poster-b4852f65a0a0.jpg" alt="Ice Gunslinger Interactive Web Loop video preview" width="700" />
 </a>
 
 <details>
@@ -245,16 +282,16 @@ Create a surreal 15-second fashion-film sequence inside a minimalist monochrome 
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/ice-gunslinger-interactive-web-loop-045626-8ed8d15497ae.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/ice-gunslinger-interactive-web-loop-045626/video-8ed8d15497ae.webm)
 
 **Source:** [@Cia0_exe](https://x.com/Cia0_exe/status/2083180088775045626) · 15s · 959:540 · fashion
 
 ---
 
-## 5. Golden Guardian Web Hero Loop
+## 6. Golden Guardian Web Hero Loop
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/golden-guardian-web-hero-loop-616089-ad594df1ac56.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/golden-guardian-web-hero-loop-616089-f3ffd3a6c85e.jpg" alt="Golden Guardian Web Hero Loop video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/golden-guardian-web-hero-loop-616089/video-ad594df1ac56.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/golden-guardian-web-hero-loop-616089/poster-f3ffd3a6c85e.jpg" alt="Golden Guardian Web Hero Loop video preview" width="700" />
 </a>
 
 <details>
@@ -341,16 +378,43 @@ Create a surreal 15-second fashion-film sequence inside a minimalist monochrome 
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/golden-guardian-web-hero-loop-616089-ad594df1ac56.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/golden-guardian-web-hero-loop-616089/video-ad594df1ac56.webm)
 
 **Source:** [@Cia0_exe](https://x.com/Cia0_exe/status/2083090068378616089) · 30s · 16:9 · fashion
 
 ---
 
-## 6. Seamless Warrior Sword Reflection Loop
+## 7. The Brief: "Jessica x The Bag"
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/seamless-warrior-sword-reflection-loop-874724-8c6fd235ee6b.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/seamless-warrior-sword-reflection-loop-874724-2ae99518ad9c.jpg" alt="Seamless Warrior Sword Reflection Loop video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/the-brief-jessica-x-the-bag-804089/video-0ef2025a0f9f.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/the-brief-jessica-x-the-bag-804089/poster-2901ee10dfd8.jpg" alt="The Brief: &quot;Jessica x The Bag&quot; video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — The Brief: &quot;Jessica x The Bag&quot; 15 seconds. One face, one bag, one mood — effortless luxury. Jessica walks into frame on a sun-warmed city street, the cognac leather bag with its...</summary>
+
+~~~~text
+The Brief: "Jessica x The Bag"
+
+15 seconds. One face, one bag, one mood — effortless luxury.
+
+Jessica walks into frame on a sun-warmed city street, the cognac leather bag with its hand-scribbled blue design swinging from her hand. She's in a fitted black dress with tan accents that pick up the bag's exact shade — every detail intentional. The camera pushes in as she lifts the bag, gold hardware flashing in the light, her expression shifting from composed to a knowing half-smile. A slow turn through a marble-lit interior, dress catching the glow, bag cradled at her arm. Final beat: she faces the lens dead-on, bag held forward, hero shot, soft rim light framing her like a campaign still. Fade.
+
+Warm, glossy, early-2000s fashion-film color science throughout — think The Devil Wears Prada meets a runway ad. Same face, same bag, same world, held together across every cut.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/the-brief-jessica-x-the-bag-804089/video-0ef2025a0f9f.webm)
+
+**Source:** [@AIwithJessica](https://x.com/AIwithJessica/status/2082804771220804089) · 15s · 16:9 · fashion
+
+---
+
+## 8. Seamless Warrior Sword Reflection Loop
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/seamless-warrior-sword-reflection-loop-874724/video-8c6fd235ee6b.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/seamless-warrior-sword-reflection-loop-874724/poster-2ae99518ad9c.jpg" alt="Seamless Warrior Sword Reflection Loop video preview" width="700" />
 </a>
 
 <details>
@@ -418,7 +482,7 @@ Music: glass bells and plucks in at 3.2, strings rise at 6.6, choir swell peaks 
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/seamless-warrior-sword-reflection-loop-874724-8c6fd235ee6b.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/seamless-warrior-sword-reflection-loop-874724/video-8c6fd235ee6b.webm)
 
 **Source:** [@Cia0_exe](https://x.com/Cia0_exe/status/2082774526098874724) · 30s · 16:9 · fashion
 

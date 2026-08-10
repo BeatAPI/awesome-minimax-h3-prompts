@@ -1,0 +1,31 @@
+{
+  "slug": "main-subject-603469",
+  "title": {
+    "en": "Documentary Study 603469",
+    "zh": "纪实影像案例 603469"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @Strength04_X.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Strength04_X",
+    "url": "https://x.com/Strength04_X/status/2085335642515603469"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Strength04_X/status/2085335642515603469"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/main-subject-603469/video-357d96831db6.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/main-subject-603469/poster-28688cc39b25.jpg",
+  "prompt": "Main Subject:\nYoung Korean woman, early 20s, oversized cardigan over pajamas, hair down and slightly messy, sleepy relaxed expression.\nLocation:\nSmall kitchen counter, early morning. Sliced bread, a jar of jam, a butter knife, soft morning light through a window. No modern clutter.\nVisual Style:\nUltra-realistic documentary realism, quiet intimate feeling, soft warm morning light.\nCamera Style:\nEarly 2000s DV camcorder, handheld close framing, autofocus slow adjusting to morning light, warm faded tones, soft grain. No stabilization.\nTimeline (15 sec, each slot = 2 compressed beats):\n00:00–00:03 → She spreads jam onto a slice of bread, then places another slice on top.\n00:03–00:06 → She cuts it diagonally, then says to camera \"아침엔 이게 제일 편해\" (\"This is easiest in the morning\").\n00:06–00:09 → She takes a bite, then chews slowly, looking out the window.\n00:09–00:12 → She wipes a crumb from her lip, then smiles at the taste.\n00:12–00:15 → She looks at camera saying \"맛있다, 진짜\" (\"It's really good\"), taking another bite as it fades.\nAudio:\nKnife scraping softly, faint chewing, distant birds, quiet kitchen ambience. Her dialogue as noted above. No music.\nGoal: A quiet, cozy breakfast moment calm, warm, deeply relatable."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "s-expressive-imagination-is-also-top-notch-052621",
+  "title": {
+    "en": "'s expressive imagination is also top-notch",
+    "zh": "'s expressive imagination is also top-notch"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic travel prompt with attached video evidence from @opener_ai.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3视频提示词。"
+  },
+  "category": "cinematic-travel",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@opener_ai",
+    "url": "https://x.com/opener_ai/status/2084075915706052621"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/opener_ai/status/2084075915706052621"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/s-expressive-imagination-is-also-top-notch-052621/video-e6443b6f6847.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/s-expressive-imagination-is-also-top-notch-052621/poster-817d615630c2.jpg",
+  "prompt": "[1] FORMAT\nCreate a 15-second, 16:9 surreal live-action scene inside a quiet laundromat at night.\n\n[4] BEATS\n[0–3s] Slow handheld push toward a running front-loading washing machine.\n[3–6s] Inside the drum, the water becomes a miniature stormy ocean with waves, lightning, and a tiny lighthouse.\n[6–11s]The lighthouse beam shines through the glass as the storm grows stronger.\n[11-15s]The door suddenly opens. Only ordinary wet laundry falls onto the floor.\n\n[5] CAMERA\nOne continuous handheld push-in, ending on the falling laundry.\n\n[6] LIGHT\nCold flickering fluorescent lights, wet glass reflections, deep blue storm light inside the washer, realistic phone-camera texture.\n\n[8] AUDIO\nAudio: washing-machine rumble, water splashes, distant thunder, one door click, and wet laundry hitting the floor.\nBGM: a subtle 15-second mystery drone, building from 4 seconds and stopping abruptly when the door opens.\n\n[9] NEGATIVE\nKeep the laundromat fully photorealistic. The miniature ocean exists only inside the washing machine.\nNo people, text, subtitles, logos, watermarks, monsters, or cartoon styling."
+}

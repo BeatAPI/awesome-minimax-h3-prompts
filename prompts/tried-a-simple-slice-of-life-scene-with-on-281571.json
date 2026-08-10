@@ -1,0 +1,31 @@
+{
+  "slug": "tried-a-simple-slice-of-life-scene-with-on-281571",
+  "title": {
+    "en": "Documentary Study 281571",
+    "zh": "纪实影像案例 281571"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @Strength04_X.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Strength04_X",
+    "url": "https://x.com/Strength04_X/status/2085344414466281571"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Strength04_X/status/2085344414466281571"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/tried-a-simple-slice-of-life-scene-with-on-281571/video-bb8dca82f171.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/tried-a-simple-slice-of-life-scene-with-on-281571/poster-62eb9f01e71b.jpg",
+  "prompt": "Main Subject:\nYoung Korean woman, early 20s, natural everyday appearance, oversized soft t-shirt over shorts, hair in a loose bun, minimal makeup, realistic skin texture, calm content personality.\nLocation:\nSmall bedroom with a pile of clean laundry on the bed, mid-morning. Soft light through curtains, a wicker basket nearby, potted plant on the windowsill. No modern clutter.\nVisual Style:\nUltra-realistic documentary realism, unscripted domestic feeling, soft natural morning light.\nCamera Style:\nEarly 2000s consumer DV camcorder aesthetic, handheld shake, autofocus hunting between her and the fabric, faded soft contrast, mild sensor noise. No stabilization.\nTimeline (15 sec, each slot = 2 compressed beats):\n00:00–00:03 → She picks up a shirt, then folds it neatly into a small square.\n00:03–00:06 → She glances at camera saying \"이거 진짜 지루한 일이야\" (\"This is such a boring task\"), laughing softly.\n00:06–00:09 → She stacks the folded clothes, then reaches for a pair of socks.\n00:09–00:12 → She struggles to match the socks, then finally finds the pair, smiling.\n00:12–00:15 → She looks at camera saying \"거의 다 했다\" (\"Almost done\"), placing the last item in the basket as it fades.\nAudio:\nFabric rustling, faint birds, distant street sounds, soft breathing. Her dialogue as noted above. No music.\nGoal: A quiet, ordinary household moment grounded, warm, believable."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "i-created-this-kids-counting-video-with-on-446929",
+  "title": {
+    "en": "Motion Graphics Study 446929",
+    "zh": "动态图形案例 446929"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 motion graphics prompt with attached video evidence from @Strength04_X.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3视频提示词。"
+  },
+  "category": "motion-graphics",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Strength04_X",
+    "url": "https://x.com/Strength04_X/status/2084552480554446929"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Strength04_X/status/2084552480554446929"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/i-created-this-kids-counting-video-with-on-446929/video-589a2687bccb.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/i-created-this-kids-counting-video-with-on-446929/poster-74cb284382c7.jpg",
+  "prompt": "Create a 15-second animated educational video that teaches young children the numbers 1, 2, 3, and 4.\nLearning pattern for every number:\nNUMBER → COUNT SOUND → OBJECTS → PLAYFUL ACTION → NUMBER NAME\nTarget audience: children ages 3 to 6.\nVisual style: Adorable rounded 3D characters, soft pastel colors, gentle expressions, premium minimalist tech aesthetic clean white space, soft studio lighting, smooth gradients, rounded geometry, crisp typography, polished transitions. Clean off-white background with a different soft color glow behind each number.\n0:00–0:01 Intro: Star mascot bounces in, numbers float around it, text \"Let's count!\", tap creates ripple revealing \"1\".\n0:01–0:04 | 1 is for One Sun: Large \"1\" shown, narrator: \"One. Just one. One Sun.\" The 1 transforms into a smiling sun with soft rays. One gentle pulse of light. Word \"ONE SUN\" appears, highlight \"1\" in yellow.\n0:04–0:07 | 2 is for Two Birds: The sun's rays curve into a \"2.\" Narrator: \"Two. Two Birds.\" The 2 splits gently into two round bluebirds that flutter and land side by side. Word \"TWO BIRDS,\" highlight \"2\" in blue.\n0:07–0:10 | 3 is for Three Flowers: The birds' wings curl into a \"3.\" Narrator: \"Three. Three Flowers.\" The 3 blooms into three pink flowers swaying gently. Word \"THREE FLOWERS,\" highlight \"3\" in pink.\n0:10–0:13 | 4 is for Four Fish: The flower stems bend into a \"4.\" Narrator: \"Four. Four Fish.\" The 4 splits into four little green fish swimming in a soft circle. Water ripple effect. Word \"FOUR FISH,\" highlight \"4\" in green.\n0:13–0:15 Recap: Sun, birds, flowers, fish appear as four tiles with \"1 2 3 4\" above. Mascot points to each; Narrator: \"1, 2, 3, 4. Great counting!\" Sparkle + chime.\nRequirements: Keep each number visible before morphing, smooth shape transitions, no clutter, no scary faces, gentle squash-and-stretch, synced sound effects, calm and polished finish."
+}

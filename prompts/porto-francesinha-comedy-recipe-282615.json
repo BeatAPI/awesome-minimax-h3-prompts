@@ -25,7 +25,7 @@
   "promptSourceUrls": [
     "https://x.com/imagineFERA/status/2083172755399233946"
   ],
-  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/porto-francesinha-comedy-recipe-282615-a05a82a8aebb.webm",
-  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/porto-francesinha-comedy-recipe-282615-53406ba6182d.jpg",
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/porto-francesinha-comedy-recipe-282615/video-a05a82a8aebb.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/porto-francesinha-comedy-recipe-282615/poster-53406ba6182d.jpg",
   "prompt": "Style: <image_1> (don't reproduce the image, use it only as aesthetic reference)\n\nEdit: Comedy, fast paced, mixing close ups, medium shots and wide shots from uncanny and tilted angles. Super-imposed texts with doodles identify ingredients as they appear and add comic remarks.\n\nScene: In Porto, Portugal a crazy chef explains how to do a Francesinha in Portuguese from Portugal with Porto accent."
 }

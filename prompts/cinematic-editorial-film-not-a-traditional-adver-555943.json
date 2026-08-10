@@ -1,0 +1,31 @@
+{
+  "slug": "cinematic-editorial-film-not-a-traditional-adver-555943",
+  "title": {
+    "en": "cinematic editorial film, not a traditional advertisement",
+    "zh": "cinematic editorial film, not a traditional advertisement"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 product commercial prompt with attached video evidence from @pewdenai.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+  },
+  "category": "product-commercial",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "92:39",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@pewdenai",
+    "url": "https://x.com/pewdenai/status/2083298802413555943"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/pewdenai/status/2083298802413555943"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-editorial-film-not-a-traditional-adver-555943/video-534c0e4af02c.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-editorial-film-not-a-traditional-adver-555943/poster-0a63df1d32fb.jpg",
+  "prompt": "15-second premium luxury coffee commercial for the coffee brand \"INSOMNIA\". Create a cinematic editorial film, not a traditional advertisement. The visual language blends high-end fashion campaigns, premium product films, and modern graphic design. Every shot feels intentionally art-directed and professionally edited. Deep matte black, espresso brown, warm amber highlights, soft volumetric lighting, glossy reflections, subtle film grain, rich contrast, and an expensive cinematic color grade. Fast editorial rhythm using only crisp hard cuts synchronized with the soundtrack. No dissolves or soft transitions. Integrate bold typography naturally into the scene instead of placing it like subtitles. Massive words such as \"INSOMNIA\", \"NO SLEEP\", \"STAY AWAKE\", and \"STAY INSPIRED\" appear as architectural elements, illuminated walls, floating design layers, reflections on glass, or oversized background graphics while the camera moves around the product. Typography should remain clean, sharp, readable, and premium. Mix typography styles including giant bold headlines, thin technical labels, vertical text, rotated captions, editorial annotations, product specifications, registration marks, minimal grid lines, and stylish barcode-inspired graphic elements used only as design features, not functional barcodes. Use smooth masking reveals, frame drawing animations, split layouts, sliding typography, geometric wipes, and magazine-style collage compositions while maintaining realistic live-action footage. Show premium roasted coffee beans, aromatic steam, rich espresso pouring in macro detail, a matte black luxury coffee cup, dramatic close-ups, elegant camera movement, and refined product beauty shots. The entire film should feel like an international luxury fashion campaign directed by a top creative agency, combining cinematic realism with sophisticated editorial motion graphics. Finish with the INSOMNIA logo centered on a black background with the tagline \"Stay Awake. Stay Inspired.\" in elegant minimal typography.\n\nCreated using MiniMax H3 on @openart_ai"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "the-necromancer-walks-along-raising-skeletons-wi-614835",
+  "title": {
+    "en": "Fantasy Film Study 614835",
+    "zh": "奇幻短片案例 614835"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @UnrealRafael.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "5s",
+  "aspectRatio": "9:5",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@UnrealRafael",
+    "url": "https://x.com/UnrealRafael/status/2085884187626614835"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/UnrealRafael/status/2085884187626614835"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/the-necromancer-walks-along-raising-skeletons-wi-614835/video-dd624d4a68c1.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/the-necromancer-walks-along-raising-skeletons-wi-614835/poster-4b29619c28be.jpg",
+  "prompt": "The necromancer walks along, raising skeletons with magic; they smoothly rise to their feet—a grim scene, bathed in a dark green glow."
+}

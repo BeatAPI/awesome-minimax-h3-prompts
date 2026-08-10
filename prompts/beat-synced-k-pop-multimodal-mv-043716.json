@@ -27,7 +27,7 @@
   "promptSourceUrls": [
     "https://x.com/aisearchio/status/2082932695479517354"
   ],
-  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/beat-synced-k-pop-multimodal-mv-043716-54c0a54b87f1.webm",
-  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/beat-synced-k-pop-multimodal-mv-043716-62b79925bee5.jpg",
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/beat-synced-k-pop-multimodal-mv-043716/video-54c0a54b87f1.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/beat-synced-k-pop-multimodal-mv-043716/poster-62b79925bee5.jpg",
   "prompt": "Make an MV from Audio1 . Show these Kpop members from Image1 singing and dancing to the music. Add coarse grain, glitch effects, and grunge effects. Keep the edit fast and use hard cuts only—no fades or soft transitions. Cuts should occur within 3 seconds. Make the cuts based on the beat of the song. Use the typographic reference from Image2"
 }

@@ -2,10 +2,96 @@
 
 [Back to the full gallery](../../README.md) · [Catalog index](../README.md)
 
-## 1. Desert Buggy Combat Chase
+## 1. Horror Film Study 836142
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-16-9-photoreal-cinematic-action-sequence-with-743096-fac1842f50c4.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-16-9-photoreal-cinematic-action-sequence-with-743096-a828d66e929b.jpg" alt="Desert Buggy Combat Chase video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/the-real-horror-wasn-t-the-ghost-it-was-trusting-836142/video-870106c1d95d.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/the-real-horror-wasn-t-the-ghost-it-was-trusting-836142/poster-cf71c1889ddc.jpg" alt="Horror Film Study 836142 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — 👹👇 古裝浪漫鬼片，香港1970年代復古懷舊風格。...</summary>
+
+~~~~text
+👹👇
+
+古裝浪漫鬼片，香港1970年代復古懷舊風格。
+
+深夜黑暗的郊區森林中的一口古井，一個穿白色浴袍、頭髮蓬亂、臉色蒼白的英俊男鬼慢慢地從井裡飄出來。這時，一個躲避蒙面忍者們的追逐、全身沾著泥土的粉紅和服甜美女孩跑向井邊朝男鬼大喊"公子救命!有人在追我!"。然後她一把推開男鬼，想要投井了斷。女孩正伸出雙手推的瞬間(慢動作)，男鬼看到女孩無助又疲憊的臉孔在月夜下顯得特別美麗動人，男鬼的心跳加速，結果男鬼的臉孔瞬間恢復紅潤的膚色，他整理了一下頭髮(將亂髮往後綁緊固定，耍帥姿態)，然後從古井邊飛向追來的幾名持刀蒙面忍者。男鬼突然面露凶光、張開血盆大口就將受到驚嚇想轉身逃跑的蒙面忍者們一個個吞入肚子。當男鬼得意地轉頭看向古井，卻發現女孩飄在半空中，和服微微敞開，雙手握著一把閃耀著淡藍色火光的長劍朝男鬼用力一揮，淡藍色的劍氣立刻如同一道道繩索將男鬼緊緊纏住。女孩冷笑了一聲說"哈，破!"，男鬼立刻被纏繞的劍氣擠壓，身體開始崩裂，男鬼發出痛苦的慘叫聲然後就化為白色粉末消失了。
+
+#AIDrama #AIHorror #AIFilm #AIMovie #AIVideo #AIShorts #Microdrama
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/the-real-horror-wasn-t-the-ghost-it-was-trusting-836142/video-870106c1d95d.webm)
+
+**Source:** [@drjoetw](https://x.com/drjoetw/status/2085407344234836142) · 15s · 16:9 · horror
+
+---
+
+## 2. Horror Film Study 335284
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/found-footage-film-with-335284/video-d0f6e38d9844.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/found-footage-film-with-335284/poster-40daaaf7a40d.jpg" alt="Horror Film Study 335284 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — &quot;Hyper-realistic found-footage horror video, filmed by a cheap action camera mounted inside a small fishing boat on a quiet lake. A lone fisherman violently reels in something...</summary>
+
+~~~~text
+"Hyper-realistic found-footage horror video, filmed by a cheap action camera mounted inside a small fishing boat on a quiet lake. A lone fisherman violently reels in something heavy. He pulls up a muddy smartphone tangled in weeds. He answers, breathing hard. A distorted voice says, "Finally. I’ve been trying to switch places with you." The phone flashes blinding white and the footage glitches. When the image returns, the phone shows the terrified fisherman trapped inside its screen, silently pounding on the glass. Behind him, an identical soaking-wet fisherman slowly climbs out of the lake into the boat, notices the camera, and reaches toward the lens. Abrupt cut to black. Raw handheld realism, imperfect autofocus, clipped audio, no music, no stylization."
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/found-footage-film-with-335284/video-d0f6e38d9844.webm)
+
+**Source:** [@cocktailpeanut](https://x.com/cocktailpeanut/status/2084842607411335284) · 14s · 26:15 · horror
+
+---
+
+## 3. Is this real? I honestly can’t believe it 😱😮
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/is-this-real-i-honestly-cant-believe-it-988527/video-bf9310e39939.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/is-this-real-i-honestly-cant-believe-it-988527/poster-87bf19bf8e78.jpg" alt="Is this real? I honestly can’t believe it 😱😮 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — The Office &amp; Breaking Bad. 0:00–0:04 — Medium-wide handheld shot. Jesse angrily throws several shovelfuls of dirt into the deep hole. Realistic shovel impacts, scattering dirt,...</summary>
+
+~~~~text
+The Office & Breaking Bad.
+0:00–0:04 — Medium-wide handheld shot. Jesse angrily throws several shovelfuls of dirt into the deep hole. Realistic shovel impacts, scattering dirt, and heavy breathing. Dwight suddenly walks into frame, studies the hole suspiciously, and adjusts his glasses.
+
+0:04–0:07 — Dwight looks down at Jesse with a smug, sarcastic expression and says:
+
+“Hello, little man. Digging your own grave?”
+
+0:07–0:11 — Jesse immediately stops digging, slowly turns toward Dwight, and tightly grips the shovel. With an angry, threatening expression, he replies:
+
+“No, no, no… I’m digging it for you. Just like I did for Michael.”
+
+0:11–0:15 — Dwight’s confidence instantly collapses. His face fills with horror, his eyes widen, and he begins crying and panicking dramatically. He grabs Jesse by the shoulders and screams:
+
+“No! What did you do to Michael?! Where is he? Tell me now!”
+
+Jesse remains completely emotionless, silently staring at Dwight while holding the shovel. The video ends abruptly on Dwight’s terrified face.
+
+#Flovaai #Flovacpp @Flovaai @Flovaai_Japan
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/is-this-real-i-honestly-cant-believe-it-988527/video-bf9310e39939.webm)
+
+**Source:** [@WolfRiccardo](https://x.com/WolfRiccardo/status/2084402067120988527) · 15s · 16:9 · horror
+
+---
+
+## 4. Desert Buggy Combat Chase
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-16-9-photoreal-cinematic-action-sequence-with-743096/video-fac1842f50c4.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-16-9-photoreal-cinematic-action-sequence-with-743096/poster-a828d66e929b.jpg" alt="Desert Buggy Combat Chase video preview" width="700" />
 </a>
 
 <details>
@@ -118,16 +204,16 @@ No subtitles, titles, logos, watermarks, additional racers, pedestrians, creatur
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-16-9-photoreal-cinematic-action-sequence-with-743096-fac1842f50c4.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-16-9-photoreal-cinematic-action-sequence-with-743096/video-fac1842f50c4.webm)
 
 **Source:** [@beginnersblog1](https://x.com/beginnersblog1/status/2083039412506743096) · 21s · 637:270 · horror
 
 ---
 
-## 2. Luminous Creature in a Dusk Kitchen
+## 5. Luminous Creature in a Dusk Kitchen
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/15-seconds-16-9-landscape-blend-live-action-footage-of-867462-186f665474fa.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/15-seconds-16-9-landscape-blend-live-action-footage-of-867462-12f86ca52100.jpg" alt="Luminous Creature in a Dusk Kitchen video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/15-seconds-16-9-landscape-blend-live-action-footage-of-867462/video-186f665474fa.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/15-seconds-16-9-landscape-blend-live-action-footage-of-867462/poster-12f86ca52100.jpg" alt="Luminous Creature in a Dusk Kitchen video preview" width="700" />
 </a>
 
 <details>
@@ -141,16 +227,16 @@ No subtitles, titles, logos, watermarks, additional racers, pedestrians, creatur
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/15-seconds-16-9-landscape-blend-live-action-footage-of-867462-186f665474fa.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/15-seconds-16-9-landscape-blend-live-action-footage-of-867462/video-186f665474fa.webm)
 
 **Source:** [@underwoodxie96](https://x.com/underwoodxie96/status/2082850740603867462) · 15s · 16:9 · horror
 
 ---
 
-## 3. Cyberpunk Ice-Blue Character Awakening
+## 6. Cyberpunk Ice-Blue Character Awakening
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-source-image-and-first-frame-221921-7bd2fd15e422.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-source-image-and-first-frame-221921-4917e9fd5c81.jpg" alt="Cyberpunk Ice-Blue Character Awakening video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-source-image-and-first-frame-221921/video-7bd2fd15e422.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-source-image-and-first-frame-221921/poster-4917e9fd5c81.jpg" alt="Cyberpunk Ice-Blue Character Awakening video preview" width="700" />
 </a>
 
 <details>
@@ -162,16 +248,16 @@ Use the uploaded image as the exact source image and first frame. Preserve the o
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-source-image-and-first-frame-221921-7bd2fd15e422.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-source-image-and-first-frame-221921/video-7bd2fd15e422.webm)
 
 **Source:** [@ainextastro](https://x.com/ainextastro/status/2082830892209221921) · 15s · 16:9 · horror
 
 ---
 
-## 4. 1970s Shibuya Urban-Legend Horror
+## 7. 1970s Shibuya Urban-Legend Horror
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/1970-japanese-urba-207488-76b98520e830.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/1970-japanese-urba-207488-fe772a707df9.jpg" alt="1970s Shibuya Urban-Legend Horror video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/1970-japanese-urba-207488/video-76b98520e830.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/1970-japanese-urba-207488/poster-fe772a707df9.jpg" alt="1970s Shibuya Urban-Legend Horror video preview" width="700" />
 </a>
 
 <details>
@@ -216,16 +302,16 @@ Use the uploaded image as the exact source image and first frame. Preserve the o
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/1970-japanese-urba-207488-76b98520e830.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/1970-japanese-urba-207488/video-76b98520e830.webm)
 
 **Source:** [@drjoetw](https://x.com/drjoetw/status/2082669221222207488) · 15s · 16:9 · horror
 
 ---
 
-## 5. Containment Breach in a Sterile Lab
+## 8. Containment Breach in a Sterile Lab
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/slow-motion-handheld-close-up-16-9-shaky-organic-handhe-994748-bf061cee3029.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/slow-motion-handheld-close-up-16-9-shaky-organic-handhe-994748-a47bef0e059f.jpg" alt="Containment Breach in a Sterile Lab video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/slow-motion-handheld-close-up-16-9-shaky-organic-handhe-994748/video-bf061cee3029.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/slow-motion-handheld-close-up-16-9-shaky-organic-handhe-994748/poster-a47bef0e059f.jpg" alt="Containment Breach in a Sterile Lab video preview" width="700" />
 </a>
 
 <details>
@@ -237,7 +323,7 @@ Slow-motion handheld close-up, 16:9. Shaky organic handheld shot shoving in clos
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/slow-motion-handheld-close-up-16-9-shaky-organic-handhe-994748-bf061cee3029.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/slow-motion-handheld-close-up-16-9-shaky-organic-handhe-994748/video-bf061cee3029.webm)
 
 **Source:** [@plasm0](https://x.com/plasm0/status/2082659300090994748) · 15s · 839:360 · horror
 

@@ -1,0 +1,31 @@
+{
+  "slug": "afternoon-nap-in-a-hammock-190553",
+  "title": {
+    "en": "Afternoon Nap in a Hammock",
+    "zh": "Afternoon Nap in a Hammock"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @Strength04_X.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Strength04_X",
+    "url": "https://x.com/Strength04_X/status/2085009719371190553"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Strength04_X/status/2085009719371190553"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/afternoon-nap-in-a-hammock-190553/video-251802f07ed2.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/afternoon-nap-in-a-hammock-190553/poster-f25f86a4ddf2.jpg",
+  "prompt": "Main Subject:\nYoung Korean woman, early 20s, oversized soft cardigan over shorts, hair loose and slightly messy, relaxed sleepy expression, natural unguarded energy.\nLocation:\nSmall backyard with a hammock strung between two trees, early afternoon. Dappled sunlight through leaves, a small side table with a book, quiet garden sounds. No modern clutter.\nVisual Style:\nUltra-realistic documentary realism, intimate candid feeling, soft warm afternoon light.\nCamera Style:\nEarly 2000s DV camcorder, handheld gentle drift, autofocus adjusting slowly to shifting light through leaves, warm faded color cast, soft grain. No stabilization.\nTimeline (30 sec):\n00:00–00:03 → She climbs into the hammock carefully, adjusting her position.\n00:03–00:06 → She picks up a book from the side table, flipping to her page.\n00:06–00:09 → She reads quietly for a moment, then yawns softly.\n00:09–00:12 → She sets the book on her stomach, then closes her eyes briefly.\n00:12–00:15 → A breeze sways the hammock gently; she smiles without opening her eyes.\n00:15–00:18 → She peeks one eye open at camera saying \"여기 진짜 시원하다\" (\"It's really cool here\").\n00:18–00:21 → She stretches one arm lazily, then lets it dangle off the hammock.\n00:21–00:24 → Dappled light shifts across her face as leaves move overhead.\n00:24–00:27 → She murmurs sleepily, then closes her eyes again, fully relaxed.\n00:27–00:30 → She whispers to camera \"나 좀 잘게...\" (\"I'm going to sleep a bit...\"), drifting off as it fades.\nAudio:\nLeaves rustling, hammock creaking softly, distant birds, faint wind. Her dialogue as noted above. No music.\nGoal: A calm, drowsy afternoon rest moment intimate, soft, deeply believable."
+}

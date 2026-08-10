@@ -1,0 +1,31 @@
+{
+  "slug": "is-this-real-i-honestly-cant-believe-it-988527",
+  "title": {
+    "en": "Is this real? I honestly can’t believe it 😱😮",
+    "zh": "Is this real? I honestly can’t believe it 😱😮"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 horror prompt with attached video evidence from @WolfRiccardo.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3恐怖提示词。"
+  },
+  "category": "horror",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@WolfRiccardo",
+    "url": "https://x.com/WolfRiccardo/status/2084402067120988527"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/WolfRiccardo/status/2084402067120988527"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/is-this-real-i-honestly-cant-believe-it-988527/video-bf9310e39939.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/is-this-real-i-honestly-cant-believe-it-988527/poster-87bf19bf8e78.jpg",
+  "prompt": "The Office & Breaking Bad.\n0:00–0:04 — Medium-wide handheld shot. Jesse angrily throws several shovelfuls of dirt into the deep hole. Realistic shovel impacts, scattering dirt, and heavy breathing. Dwight suddenly walks into frame, studies the hole suspiciously, and adjusts his glasses.\n\n0:04–0:07 — Dwight looks down at Jesse with a smug, sarcastic expression and says:\n\n“Hello, little man. Digging your own grave?”\n\n0:07–0:11 — Jesse immediately stops digging, slowly turns toward Dwight, and tightly grips the shovel. With an angry, threatening expression, he replies:\n\n“No, no, no… I’m digging it for you. Just like I did for Michael.”\n\n0:11–0:15 — Dwight’s confidence instantly collapses. His face fills with horror, his eyes widen, and he begins crying and panicking dramatically. He grabs Jesse by the shoulders and screams:\n\n“No! What did you do to Michael?! Where is he? Tell me now!”\n\nJesse remains completely emotionless, silently staring at Dwight while holding the shovel. The video ends abruptly on Dwight’s terrified face.\n\n#Flovaai #Flovacpp @Flovaai @Flovaai_Japan"
+}

@@ -2,10 +2,94 @@
 
 [Back to the full gallery](../../README.md) · [Catalog index](../README.md)
 
-## 1. Storm-Lit Pirate Galleon Battle
+## 1. GPT Image 2
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/storm-lit-pirate-galleon-battle-561048-52021a1ba551.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/storm-lit-pirate-galleon-battle-561048-04da999318c6.jpg" alt="Storm-Lit Pirate Galleon Battle video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/gpt-image-2-758841/video-afbfc0676a40.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/gpt-image-2-758841/poster-3f003e8deb71.jpg" alt="GPT Image 2 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a 16:9 premium ecommerce landing page UI/UX demo built around the product in Image 1. Use a luxurious, futuristic sports-performance aesthetic with oversized bold italic...</summary>
+
+~~~~text
+Create a 16:9 premium ecommerce landing page UI/UX demo built around the product in Image 1. Use a luxurious, futuristic sports-performance aesthetic with oversized bold italic sans-serif typography, dark glossy backgrounds, carbon fiber and performance-mesh textures, metallic highlights, and speed-driven light streaks. Show a smooth high-speed page scroll, premium product sections, sleek feature cards, gallery modules, tech-spec areas, and strong CTA zones. Include high-impact hover interactions like scale-up, color inversion, glow effects, card expansion, and animated typography. Make the motion cinematic, expensive, and ultra-polished, like a world-class product launch website demo.
+
+💰 Generation cost: under $3
+🖼 Input: one product image
+🧩 Output: a polished website concept video
+
+Try MiniMax H3 → https://t.co/rxvRdUYoxo
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/gpt-image-2-758841/video-afbfc0676a40.webm)
+
+**Source:** [@ImaStudio_ai](https://x.com/ImaStudio_ai/status/2085211946815758841) · 15s · 16:9 · action
+
+---
+
+## 2. Action Film Study 735905
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/10-second-16-9-photoreal-cinematic-wide-shot-fly-735905/video-894f1df37865.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/10-second-16-9-photoreal-cinematic-wide-shot-fly-735905/poster-21876ff1a52e.jpg" alt="Action Film Study 735905 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — ) [FORMAT] Create a 10-second, 16:9 photoreal cinematic wide-shot flyby of a stealth aircraft activating optical camouflage at extreme speed. [IDENTITY] Preserve a wide tailless...</summary>
+
+~~~~text
+)
+
+[FORMAT]
+Create a 10-second, 16:9 photoreal cinematic wide-shot flyby of a stealth aircraft activating optical camouflage at extreme speed.
+
+[IDENTITY]
+Preserve a wide tailless delta wing, sharp faceted edges, flat wedge-shaped nose, recessed dark cockpit, matte charcoal surface, twin buried exhausts, no insignia, and rigid non-morphing geometry.
+
+[BEATS]
+[0–2 seconds] A vast open sky above distant clouds. The stealth aircraft suddenly enters from the far left and races laterally across the wide frame at extreme speed.
+
+[2–4 seconds] The camera performs a fast, controlled pan to track the aircraft. Strong background parallax and slight motion blur emphasize its velocity while its shape remains readable.
+
+[4–6 seconds] Optical camouflage sweeps from the nose across both wings. The solid aircraft rapidly vanishes without slowing down or changing direction.
+
+[6–8 seconds] The camera continues tracking the same trajectory. The invisible delta-wing shape remains clearly perceptible because the sky and clouds inside its exact volume ripple and bend like concentrated heat haze.
+
+[8–10 seconds] The refractive aircraft streaks toward the distant horizon, leaving a narrow turbulent distortion wake before exiting the frame.
+
+[CAMERA]
+One continuous very wide lateral tracking shot. The aircraft stays relatively small within the expansive frame. Fast pan tracking, broad environmental scale, strong lateral movement, subtle handheld vibration, and realistic motion blur. No close-up and no chase-camera angle.
+
+[LIGHT]
+Bright high-altitude daylight, cool blue sky, white cloud field, natural atmospheric haze, restrained contrast, and realistic cinematic texture.
+
+[EDIT]
+One uninterrupted shot. No cuts, transitions, slow motion, or camera repositioning.
+
+[AUDIO]
+Audio: violent high-altitude wind rush, rapidly approaching jet roar, a powerful Doppler flyby, and a brief vacuum-like sound as the camouflage activates.
+BGM: an original 10-second cue, 80% tension and 20% awe. Low sub-bass pulse and metallic air textures, building sharply during the flyby and fading into a low tone over the final 2 seconds. Do not imitate an existing melody.
+
+[NEGATIVE]
+Do not show an empty sky after cloaking. Maintain a coherent, fast-moving delta-wing refraction that bends the background inside the aircraft’s exact volume.
+No glowing outline, glass aircraft, force-field bubble, pixel dissolve, smoke camouflage, teleportation, morphing, or reappearance.
+No extra aircraft, weapons, explosions, contrails, subtitles, on-screen text, watermarks, platform logos, or stickers.
+Do not introduce Chinese text, garbled characters, or misspellings.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/10-second-16-9-photoreal-cinematic-wide-shot-fly-735905/video-894f1df37865.webm)
+
+**Source:** [@opener_ai](https://x.com/opener_ai/status/2084441225667735905) · 10s · 16:9 · action
+
+---
+
+## 3. Storm-Lit Pirate Galleon Battle
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/storm-lit-pirate-galleon-battle-561048/video-52021a1ba551.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/storm-lit-pirate-galleon-battle-561048/poster-04da999318c6.jpg" alt="Storm-Lit Pirate Galleon Battle video preview" width="700" />
 </a>
 
 <details>
@@ -51,16 +135,16 @@ Camera: mostly handheld-feel tracking shots through the melee for immersion, har
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/storm-lit-pirate-galleon-battle-561048-52021a1ba551.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/storm-lit-pirate-galleon-battle-561048/video-52021a1ba551.webm)
 
 **Source:** [@seirdotmk](https://x.com/seirdotmk/status/2083582886280561048) · 10s · 16:9 · action
 
 ---
 
-## 2. Cyber Warrior vs. Primordial Fighter
+## 4. Cyber Warrior vs. Primordial Fighter
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-cinematic-showdown-between-the-most-technolog-354071-f1fbd8ae7b01.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-cinematic-showdown-between-the-most-technolog-354071-f3ccda5d88dd.jpg" alt="Cyber Warrior vs. Primordial Fighter video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-cinematic-showdown-between-the-most-technolog-354071/video-f1fbd8ae7b01.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-cinematic-showdown-between-the-most-technolog-354071/poster-f3ccda5d88dd.jpg" alt="Cyber Warrior vs. Primordial Fighter video preview" width="700" />
 </a>
 
 <details>
@@ -100,16 +184,16 @@ Cinematic 4K, 16:9, ultra-realistic VFX, physically accurate destruction, volume
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-cinematic-showdown-between-the-most-technolog-354071-f1fbd8ae7b01.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-cinematic-showdown-between-the-most-technolog-354071/video-f1fbd8ae7b01.webm)
 
 **Source:** [@alex_bagnuoli89](https://x.com/alex_bagnuoli89/status/2083207597025354071) · 15s · 16:9 · action
 
 ---
 
-## 3. Ringside Phone-Footage Boxing Knockout
+## 5. Ringside Phone-Footage Boxing Knockout
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ringside-phone-footage-boxing-knockout-221043-cf76d3103f6a.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ringside-phone-footage-boxing-knockout-221043-0ef2df0bcaf0.jpg" alt="Ringside Phone-Footage Boxing Knockout video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ringside-phone-footage-boxing-knockout-221043/video-cf76d3103f6a.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ringside-phone-footage-boxing-knockout-221043/poster-0ef2df0bcaf0.jpg" alt="Ringside Phone-Footage Boxing Knockout video preview" width="700" />
 </a>
 
 <details>
@@ -148,16 +232,16 @@ Cinematic 4K, 16:9, ultra-realistic VFX, physically accurate destruction, volume
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/ringside-phone-footage-boxing-knockout-221043-cf76d3103f6a.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/ringside-phone-footage-boxing-knockout-221043/video-cf76d3103f6a.webm)
 
 **Source:** [@johnAGI168](https://x.com/johnAGI168/status/2083033353679221043) · 15s · 9:16 · action
 
 ---
 
-## 4. Storm-Cliff Golf Physics Challenge
+## 6. Storm-Cliff Golf Physics Challenge
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/storm-cliff-golf-physics-challenge-037151-d69ed1c1be4c.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/storm-cliff-golf-physics-challenge-037151-6f6ccf8c0ac1.jpg" alt="Storm-Cliff Golf Physics Challenge video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/storm-cliff-golf-physics-challenge-037151/video-d69ed1c1be4c.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/storm-cliff-golf-physics-challenge-037151/poster-6f6ccf8c0ac1.jpg" alt="Storm-Cliff Golf Physics Challenge video preview" width="700" />
 </a>
 
 <details>
@@ -171,16 +255,16 @@ A dramatic sports sequence begins on a lush, windswept coastal cliff during a vi
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/storm-cliff-golf-physics-challenge-037151-d69ed1c1be4c.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/storm-cliff-golf-physics-challenge-037151/video-d69ed1c1be4c.webm)
 
 **Source:** [@Dheepanratnam](https://x.com/Dheepanratnam/status/2082799981426037151) · 15s · 16:9 · action
 
 ---
 
-## 5. Jetpack Dive Through a Mountain Gorge
+## 7. Jetpack Dive Through a Mountain Gorge
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-fast-paced-cinematic-action-sequence-a-man-in-a-078815-f4b3083ef6fd.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-fast-paced-cinematic-action-sequence-a-man-in-a-078815-a70e1e0aaa52.jpg" alt="Jetpack Dive Through a Mountain Gorge video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-fast-paced-cinematic-action-sequence-a-man-in-a-078815/video-f4b3083ef6fd.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-fast-paced-cinematic-action-sequence-a-man-in-a-078815/poster-a70e1e0aaa52.jpg" alt="Jetpack Dive Through a Mountain Gorge video preview" width="700" />
 </a>
 
 <details>
@@ -192,16 +276,16 @@ Ultra-fast paced cinematic action sequence, a man in a sleek black tactical suit
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-fast-paced-cinematic-action-sequence-a-man-in-a-078815-f4b3083ef6fd.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-fast-paced-cinematic-action-sequence-a-man-in-a-078815/video-f4b3083ef6fd.webm)
 
 **Source:** [@Ankit_patel211](https://x.com/Ankit_patel211/status/2082794108998078815) · 15s · 16:9 · action
 
 ---
 
-## 6. Sunrise Wingsuit Canyon Run
+## 8. Sunrise Wingsuit Canyon Run
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/canyon-wingsuit-thread-world-build-a-wingsuit-pilot-thr-927857-01462c924c2a.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/canyon-wingsuit-thread-world-build-a-wingsuit-pilot-thr-927857-e1ffb417dc47.jpg" alt="Sunrise Wingsuit Canyon Run video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/canyon-wingsuit-thread-world-build-a-wingsuit-pilot-thr-927857/video-01462c924c2a.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/canyon-wingsuit-thread-world-build-a-wingsuit-pilot-thr-927857/poster-e1ffb417dc47.jpg" alt="Sunrise Wingsuit Canyon Run video preview" width="700" />
 </a>
 
 <details>
@@ -213,16 +297,16 @@ CANYON WINGSUIT THREAD WORLD BUILD A wingsuit pilot threading an impossible cany
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/canyon-wingsuit-thread-world-build-a-wingsuit-pilot-thr-927857-01462c924c2a.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/canyon-wingsuit-thread-world-build-a-wingsuit-pilot-thr-927857/video-01462c924c2a.webm)
 
 **Source:** [@sebatheepan](https://x.com/sebatheepan/status/2082731549707927857) · 15s · 16:9 · action
 
 ---
 
-## 7. Concrete-Plaza Kickflip Drop
+## 9. Concrete-Plaza Kickflip Drop
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/concrete-plaza-kickflip-drop-082714-d5ce5bc1daa2.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/concrete-plaza-kickflip-drop-082714-9305983cf0b5.jpg" alt="Concrete-Plaza Kickflip Drop video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/concrete-plaza-kickflip-drop-082714/video-d5ce5bc1daa2.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/concrete-plaza-kickflip-drop-082714/poster-9305983cf0b5.jpg" alt="Concrete-Plaza Kickflip Drop video preview" width="700" />
 </a>
 
 <details>
@@ -236,7 +320,7 @@ SCENE CONTEXT Late afternoon, empty two-level concrete plaza. A young woman skat
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/concrete-plaza-kickflip-drop-082714-d5ce5bc1daa2.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/concrete-plaza-kickflip-drop-082714/video-d5ce5bc1daa2.webm)
 
 **Source:** [@eijo_AIart](https://x.com/eijo_AIart/status/2082684613475082714) · 10s · 16:9 · action
 

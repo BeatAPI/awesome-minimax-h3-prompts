@@ -4,7 +4,7 @@
 
 ## 1. Giant koi park incident
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/giant-koi-park-incident.webm">
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/giant-koi-park-incident/video-729817c9bf42.webm">
   <img src="../../assets/readme-previews/giant-koi-park-incident.webp" alt="Giant koi park incident video preview" width="700" />
 </a>
 
@@ -17,7 +17,7 @@
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/giant-koi-park-incident.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/giant-koi-park-incident/video-729817c9bf42.webm)
 
 **Source:** [@underwoodxie96](https://x.com/underwoodxie96/status/2082747838782386563) · 15s · 16:9 · viral short
 
@@ -25,8 +25,8 @@
 
 ## 2. Handcrafted paper-cut stop-motion short
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/handcrafted-paper-cut-stop-motion-short-512241.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/handcrafted-paper-cut-stop-motion-short-512241-poster-12s-v2.jpg" alt="Handcrafted paper-cut stop-motion short video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/handcrafted-paper-cut-stop-motion-short-512241/video-a26c7d456dc4.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/handcrafted-paper-cut-stop-motion-short-512241/poster-8062cc672db4.jpg" alt="Handcrafted paper-cut stop-motion short video preview" width="700" />
 </a>
 
 <details>
@@ -63,7 +63,7 @@ Premium handcrafted stop motion, museum-quality paper art, tactile cardstock tex
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/handcrafted-paper-cut-stop-motion-short-512241.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/handcrafted-paper-cut-stop-motion-short-512241/video-a26c7d456dc4.webm)
 
 **Source:** [@AiMeowing](https://x.com/AiMeowing/status/2082964095410512241) · 15s · 4:3 · viral short
 
