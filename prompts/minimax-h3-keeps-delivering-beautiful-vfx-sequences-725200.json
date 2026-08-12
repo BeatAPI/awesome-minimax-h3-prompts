@@ -1,0 +1,31 @@
+{
+  "slug": "minimax-h3-keeps-delivering-beautiful-vfx-sequences-725200",
+  "title": {
+    "en": "Minimax H3 keeps delivering beautiful VFX sequences.",
+    "zh": "Minimax H3 keeps delivering beautiful VFX sequences."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @CharaspowerAI.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+  },
+  "category": "music-video",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@CharaspowerAI",
+    "url": "https://x.com/CharaspowerAI/status/2086754531698725200"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/CharaspowerAI/status/2086754531698725200"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-keeps-delivering-beautiful-vfx-sequences-725200/video-e88007d9788b.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-keeps-delivering-beautiful-vfx-sequences-725200/poster-0c2e0703e6a5.jpg",
+  "prompt": "Epic cinematic aerial shot: Endless rolling clouds flow across towering mountain peaks during sunrise. The golden light transforms the clouds into rivers of glowing vapor. Air currents gradually sculpt the cloud formations into the gigantic word \"MORNING\", stretching naturally across the sky. As the sun rises higher, the cloud letters slowly dissolve into the atmosphere while brilliant light floods the frame. Interstellar meets National Geographic, majestic, emotionally powerful."
+}

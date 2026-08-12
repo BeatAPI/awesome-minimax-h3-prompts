@@ -1,0 +1,31 @@
+{
+  "slug": "via-mlx-serve-by-561487",
+  "title": {
+    "en": "via MLX Serve by",
+    "zh": "via MLX Serve by"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 animation prompt with attached video evidence from @albertgao.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动画提示词。"
+  },
+  "category": "animation",
+  "mode": "text-to-video",
+  "duration": "5s",
+  "aspectRatio": "1:1",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@albertgao",
+    "url": "https://x.com/albertgao/status/2085137397134561487"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/albertgao/status/2085137397134561487"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/via-mlx-serve-by-561487/video-1ad83b3257d1.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/via-mlx-serve-by-561487/poster-0445b17ec191.jpg",
+  "prompt": "\"A cute little girl walks through a sunny forest when a small, friendly dinosaur steps out, waves, and says hi. Suddenly, the dinosaur sneezes—and a shower of colorful butterflies bursts from its nose. They both laugh. Cute, colorful animated style.\"\n\n- time: 15min ish\n- 768x768"
+}

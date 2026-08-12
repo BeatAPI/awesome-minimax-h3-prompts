@@ -1,0 +1,31 @@
+{
+  "slug": "created-with-minimax-h3-059973",
+  "title": {
+    "en": "Created with MiniMax H3",
+    "zh": "Created with MiniMax H3"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 vlog prompt with attached video evidence from @ayzalnooor24521.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3视频提示词。"
+  },
+  "category": "vlog",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "68:45",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ayzalnooor24521",
+    "url": "https://x.com/ayzalnooor24521/status/2086671141998059973"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/ayzalnooor24521/status/2086671141998059973"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-059973/video-3896db6ced5e.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-059973/poster-7280e63a51f7.jpg",
+  "prompt": "Create a 15-second ultra-realistic cinematic lifestyle vlog video, vertical 9:16, featuring the same young woman throughout the entire video. Preserve her facial identity, facial proportions, hairstyle, skin tone and overall appearance consistently in every shot. She wears the same outfit throughout: fitted white V-neck T-shirt with a small subtle logo, blue denim jeans, natural makeup, long softly wavy brown hair.\n\n0:00–0:01 — Wake-up:\nClose-up inside a beautiful bright bedroom. The woman is lying comfortably on the bed, slowly wakes up, stretches naturally and opens her eyes. She is NOT filming a vlog yet and does not hold a phone or camera. Soft morning sunlight enters through the curtains.\n\n0:01–0:02 — Gets up:\nMedium shot. She sits up on the bed, smiles softly, fixes her hair and gets ready to start her morning. Natural, effortless movement.\n\n0:02–0:03 — Walks to window:\nShe walks toward the large glass balcony door/window. Camera follows her naturally from behind/side.\n\n0:03–0:04 — Seaside reveal:\nShe opens the curtains/door and looks outside. Reveal a breathtaking blue ocean, coastal hills, flowers, balcony and beautiful morning sunlight. She smiles happily while taking in the view.\n\n0:04–0:05 — Steps outside:\nShe walks out onto the seaside terrace. Gentle ocean breeze moves her hair naturally. Wide cinematic shot showing the beautiful surroundings.\n\n0:05–0:06 — VLOG START:\nOnly now she starts filming herself in handheld selfie-vlog style. She looks into the camera with a bright natural smile and says:\n“Good morning!”\n\n0:06–0:07 — Show the view:\nShe turns the camera away from herself and slowly pans across the stunning ocean, coastal mountains, flowers and terrace. Smooth handheld vlog movement.\n\n0:07–0:08 — Back to selfie:\nSelfie shot. She looks into the camera and happily says:\n“This place is just perfect!”\n\n0:08–0:09 — Location reveal:\nWide cinematic shot of the cozy seaside terrace with wooden table, chairs, plants and flowers overlooking the ocean.\n\n0:09–0:10 — Walk to table:\nMedium tracking shot as she walks toward the table, enjoying the view. Her hair and T-shirt move gently in the sea breeze.\n\n0:10–0:11 — Sit and relax:\nShe sits at the seaside table, smiling peacefully and enjoying the ocean view. A refreshing orange-colored juice is placed on the table.\n\n0:11–0:12 — Juice close-up:\nCinematic close-up of her hand picking up the glass of fresh orange juice. Beautiful ocean bokeh in the background, natural sunlight reflecting through the glass.\n\n0:12–0:13 — Vlog toast:\nSelfie shot. She raises the juice toward the camera with a cheerful smile and says:\n“Cheers to good days!”\n\n0:13–0:14 — Happy close-up:\nBeautiful close-up of her smiling naturally at the camera, ocean and warm sunlight softly blurred behind her.\n\n0:14–0:15 — Ending:\nCamera moves from her toward the sparkling ocean and peaceful coastal landscape. Warm sunlight, gentle waves and a relaxing cinematic ending.\n\nOverall Style\n\nUltra-realistic, cinematic travel vlog, natural handheld camera movement, realistic human motion, smooth transitions, soft morning sunlight, realistic ocean waves, gentle wind in hair and clothes, beautiful coastal atmosphere, premium lifestyle aesthetic, natural expressions, authentic vlog feeling, shallow depth of field, cinematic composition, realistic skin texture, high detail, 4K quality."
+}

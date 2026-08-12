@@ -2,7 +2,82 @@
 
 [Back to the full gallery](../../README.md) · [Catalog index](../README.md)
 
-## 1. Cinematic Travel Study 474111
+## 1. Audioリファレンスでエラーが出る場合は、表示上15秒でも小数点以下でわずかに超えていることがあるので、実際の尺をチェックしてみてください！
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/audio15-594554/video-ecc108df5599.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/audio15-594554/poster-366a5dfe5895.jpg" alt="Audioリファレンスでエラーが出る場合は、表示上15秒でも小数点以下でわずかに超えていることがあるので、実際の尺をチェックしてみてください！ video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — プロンプトです。Neon仕様になってるのでGPTなどで参照キャラクターに調整して使ってみてください😆 ------------------------------------------------------- @[face ref] をNEONの顔、ピンクのボブヘア、黒い丸眼鏡の厳密な参照として使用します。 @[body ref]...</summary>
+
+~~~~text
+プロンプトです。Neon仕様になってるのでGPTなどで参照キャラクターに調整して使ってみてください😆
+-------------------------------------------------------
+@[face ref] をNEONの顔、ピンクのボブヘア、黒い丸眼鏡の厳密な参照として使用します。
+@[body ref] をNEONの体格、黒と赤のサイバーパンク衣装、装備、ブーツの厳密な参照として使用します。
+@[audio ref] は映像のリズム、カットの強弱、主要な音楽アクセントの参照として使用します。
+
+15秒のハイエンドなサイバーパンク・キャラクター紹介映像。
+主役はNEONただ一人。
+クールで知的、危険な雰囲気。動作は自信に満ち、抑制されている。
+
+構成：
+
+0–3秒：IDENTITY REVEAL
+暗いネオン照明の空間。
+ブーツ、赤いジャケットのディテール、眼鏡越しの目元を短いバーストカットで見せる。
+最後に顔のクローズアップ。
+カットを@[audio ref] の最初の強いアクセントに合わせる。
+
+3–6秒：NEON ALLEY
+雨に濡れた未来都市の路地。
+NEONがゆっくりカメラ方向へ歩く。
+ローアングル、横方向のトラッキング、濡れた路面に映る赤いネオン。
+人物の動きよりもカメラワークを強調。
+
+6–9秒：TECH UNDERGROUND
+赤い警告灯が点滅する地下施設。
+肩越しのショット、手袋と装備のクローズアップ、短いオービットショット。
+NEONは静かに周囲を観察する。
+
+9–12秒：MEGACITY ROOFTOP
+巨大な未来都市を見下ろす夜の屋上。
+風でピンクの髪とジャケットがわずかに揺れる。
+ワイドショットからローアングルのヒーローフレームへ切り替える。
+
+12–15秒：FINAL HERO REVEAL
+赤とマゼンタの逆光。
+カメラがNEONの周囲を短く回り込み、正面のミディアムクローズアップで止まる。
+NEONが眼鏡越しにカメラを見る。
+最後の音楽アクセントで力強い静止ヒーローフレーム。
+
+編集：
+合計12〜15ショット。
+主要カットを@[audio ref] の強拍に合わせる。
+環境変更は音楽フレーズの変化に合わせる。
+細かい半拍すべてにカットを入れず、強いアクセントを優先する。
+
+一貫性：
+同じ顔、同じ髪型、同じ眼鏡、同じ体格、同じ衣装を全編で維持。
+衣装の黒・赤・ゴールドの配色と装備位置を維持。
+キャラクターは常に一人だけ。
+
+禁止：
+複数のNEON、分身、衣装変更、髪型変更、眼鏡の消失、
+顔や身体のモーフィング、過剰なアクション、文字、ロゴ、字幕、UI、
+キャラクターシート風レイアウト、分割画面、白背景。
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/audio15-594554/video-ecc108df5599.webm)
+
+**Source:** [@Nokosu_kansoku](https://x.com/Nokosu_kansoku/status/2086700416654594554) · 15s · 7:4 · cinematic travel
+
+---
+
+## 2. Cinematic Travel Study 474111
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-1-starting-frame-474111/video-bd69c73377b9.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-1-starting-frame-474111/poster-69cf37945736.jpg" alt="Cinematic Travel Study 474111 video preview" width="700" />
@@ -49,7 +124,7 @@ None. No music.
 
 ---
 
-## 2. The last thing you see in your first and last
+## 3. The last thing you see in your first and last
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/the-last-thing-you-see-in-your-first-and-last-290296/video-fae8461b3583.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/the-last-thing-you-see-in-your-first-and-last-290296/poster-ad1a13269cdc.jpg" alt="The last thing you see in your first and last video preview" width="700" />
@@ -70,7 +145,7 @@ amateur handheld pov footage of a tourist in their plush and comfortable room of
 
 ---
 
-## 3. Player stats UI
+## 4. Player stats UI
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/player-stats-ui-170293/video-797862e901ab.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/player-stats-ui-170293/poster-9579885d0aab.jpg" alt="Player stats UI video preview" width="700" />
@@ -190,7 +265,44 @@ A subtle electronic current travels through the cyan circuitry across ZENITH’s
 
 ---
 
-## 4. Inspired by The Odyssey
+## 5. 这是Omni生成的视频，TtoV，你觉得如何？（没有用过Kling3.0，MiniMax H3，不知道对比如何）
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/omnittovkling3-0minimax-h3-630895/video-7a35d86967c0.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/omnittovkling3-0minimax-h3-630895/poster-7ebc221bed60.jpg" alt="这是Omni生成的视频，TtoV，你觉得如何？（没有用过Kling3.0，MiniMax H3，不知道对比如何） video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — A dreamy 10-second cinematic surreal video, 16:9 aspect ratio. A tiny graceful cloud humanoid figure with a soft fluffy body made entirely of translucent white mist and glowing...</summary>
+
+~~~~text
+A dreamy 10-second cinematic surreal video, 16:9 aspect ratio.
+
+A tiny graceful cloud humanoid figure with a soft fluffy body made entirely of translucent white mist and glowing vapor. Her silhouette constantly changes slightly like a living cloud, with soft edges and delicate atmospheric particles floating around.
+
+She is sitting on a small swing made from two golden sunlight rays connected by thin cloud strands. The swing slowly floats above a vast ocean of clouds.
+
+She gently reaches out and touches small floating cloud bubbles, shaping them into tiny animals and releasing them into the sky.
+
+Environment: endless bright blue sky, massive white clouds below, distant mountains above the cloud layer, sunlight breaking through atmospheric mist.
+
+Lighting: golden sunrise, volumetric rays, soft glowing highlights.
+
+Camera: slow aerial orbital movement, cinematic drone macro perspective, shallow depth of field.
+
+Style: photorealistic surreal fantasy, ultra detailed atmospheric effects, 4K.
+
+Mood: peaceful, heavenly, dreamlike.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/omnittovkling3-0minimax-h3-630895/video-7a35d86967c0.webm)
+
+**Source:** [@XiaoKooeye](https://x.com/XiaoKooeye/status/2085747183446630895) · 10s · 16:9 · cinematic travel
+
+---
+
+## 6. Inspired by The Odyssey
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/inspired-by-the-odyssey-622590/video-58166fc986e6.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/inspired-by-the-odyssey-622590/poster-f8d993d18e7a.jpg" alt="Inspired by The Odyssey video preview" width="700" />
@@ -213,7 +325,7 @@ Epic ancient Greek mythology, grounded realism, sweeping IMAX cinematography, pr
 
 ---
 
-## 5. Ultra cinematic macro shot: A calm mountain lake at dawn
+## 7. Ultra cinematic macro shot: A calm mountain lake at dawn
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-cinematic-macro-shot-a-calm-mountain-lake-039920/video-904bee4a707b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-cinematic-macro-shot-a-calm-mountain-lake-039920/poster-544eed646f07.jpg" alt="Ultra cinematic macro shot: A calm mountain lake at dawn video preview" width="700" />
@@ -234,7 +346,64 @@ Ultra cinematic macro shot: A calm mountain lake at dawn reflects the first gold
 
 ---
 
-## 6. Circle, Square, Triangle, and Star
+## 8. "Drowning deep down the ocean" created with MiniMax H3
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/drowning-deep-down-the-ocean-created-with-minimax-h3-773704/video-b17ae8dd6b39.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/drowning-deep-down-the-ocean-created-with-minimax-h3-773704/poster-55b4bf456688.jpg" alt="&quot;Drowning deep down the ocean&quot; created with MiniMax H3 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — &quot;Use the uploaded character sheet the ONLY identity reference. Preserve the exact face, hairstyle, body proportions, skin tone, and appearance throughout the video. The camera...</summary>
+
+~~~~text
+"Use the uploaded character sheet the ONLY identity reference. Preserve the exact face, hairstyle, body proportions, skin tone, and appearance throughout the video.
+
+The camera remains directly above him looking straight downward during the entire sequence. He falls vertically beneath the camera through an impossible underwater abyss without changing direction.
+He stays on his back facing the lens, both arms reaching upward while bubbles, hair, clothing, and loose fabric stream upward through the water.
+
+He continuously falls through:
+vibrant coral reef, abandoned pirate ship, underwater research station, giant kelp forest
+submerged ancient city, whale migration corridor, volcanic hydrothermal vent field, endless dark ocean trench.
+
+Every level is entered by crashing through ceilings, glass domes, ship decks, coral arches, ruined temples, and collapsing structures. Schools of fish, jellyfish, manta rays, bubbles, seaweed, bioluminescent creatures, and debris flow upward past the camera naturally.
+
+His expressions progress from surprise and panic to determination, breath-holding, fear, exhaustion, and final acceptance while continuously reaching upward for anything that might stop his fall.
+
+24mm anamorphic lens, underwater cinematic lighting, volumetric light rays, realistic water distortion, gentle bloom, film grain, radial motion blur, handheld floating movement.
+
+Audio: Epic orchestral score mixed with deep underwater ambience, whale calls, distant metallic creaks, volcanic rumbles, rushing currents, and a powerful cinematic finale."
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/drowning-deep-down-the-ocean-created-with-minimax-h3-773704/video-b17ae8dd6b39.webm)
+
+**Source:** [@I_Muhammadali44](https://x.com/I_Muhammadali44/status/2085234595784773704) · 15s · 16:9 · cinematic travel
+
+---
+
+## 9. Created with MiniMax H3
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-879541/video-6681b10df8b3.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-879541/poster-796cacf77743.jpg" alt="Created with MiniMax H3 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — A cinematic 15-second fantasy adventure following a lone traveler as they cross an ancient stone bridge toward a forgotten medieval kingdom hidden beneath towering cliffs. As...</summary>
+
+~~~~text
+A cinematic 15-second fantasy adventure following a lone traveler as they cross an ancient stone bridge toward a forgotten medieval kingdom hidden beneath towering cliffs. As colossal gates slowly open, giant stone guardians awaken and glowing light spills through the mist, revealing a city untouched by time. The traveler steps forward as thousands of lanterns illuminate the streets, waterfalls cascade from towering cliffs, and majestic dragons soar across the sunrise sky. Epic cinematic camera movements, IMAX-scale visuals, volumetric lighting, realistic weather effects, premium VFX, emotional orchestral atmosphere, ARRI Alexa 35 aesthetic, anamorphic lenses, 4K HDR, seamless continuity, blockbuster movie quality, no text, no logos.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-879541/video-6681b10df8b3.webm)
+
+**Source:** [@aiwithaly](https://x.com/aiwithaly/status/2085221226335879541) · 15s · 16:9 · cinematic travel
+
+---
+
+## 10. Circle, Square, Triangle, and Star
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/circle-square-triangle-and-star-317678/video-e5ca7ba239b5.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/circle-square-triangle-and-star-317678/poster-456c0864c892.jpg" alt="Circle, Square, Triangle, and Star video preview" width="700" />
@@ -277,7 +446,7 @@ Requirements: Each shape fully visible before morph, uppercase-clarity level pre
 
 ---
 
-## 7. Cinematic Travel Study 844521
+## 11. Cinematic Travel Study 844521
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/is-now-publicly-available-844521/video-990083180050.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/is-now-publicly-available-844521/poster-ce9252bbb567.jpg" alt="Cinematic Travel Study 844521 video preview" width="700" />
@@ -298,7 +467,7 @@ CAIRN MUNRO — "ARRIVE UNHEARD" — 14 CUTS · 15s · 2K · 24fps  REFERENCES: 
 
 ---
 
-## 8. 's expressive imagination is also top-notch
+## 12. 's expressive imagination is also top-notch
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/s-expressive-imagination-is-also-top-notch-052621/video-e6443b6f6847.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/s-expressive-imagination-is-also-top-notch-052621/poster-817d615630c2.jpg" alt="'s expressive imagination is also top-notch video preview" width="700" />
@@ -340,7 +509,7 @@ No people, text, subtitles, logos, watermarks, monsters, or cartoon styling.
 
 ---
 
-## 9. Cinematic Travel Study 672988
+## 13. Cinematic Travel Study 672988
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/source-artwork-as-a-10-second-premium-sci-fi-mot-672988/video-b9f63844a74b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/source-artwork-as-a-10-second-premium-sci-fi-mot-672988/poster-d6c6a39d00a1.jpg" alt="Cinematic Travel Study 672988 video preview" width="700" />
@@ -364,7 +533,7 @@ Animate the source artwork as a 10-second premium sci-fi motion poster while pre
 
 ---
 
-## 10. Sagrada Família FPV flight
+## 14. Sagrada Família FPV flight
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/sagrada-familia-fpv-flight/video-bee48e110362.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/sagrada-familia-fpv-flight/poster-ad81c1bd1065.jpg" alt="Sagrada Família FPV flight video preview" width="700" />
@@ -387,7 +556,7 @@ The red drawn line must not appear in the video; it is only a hidden flight-path
 
 ---
 
-## 11. Mumbai monsoon FPV drone flight
+## 15. Mumbai monsoon FPV drone flight
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/mumbai-monsoon-fpv-drone-flight-942674/video-76b74f79f0dc.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/mumbai-monsoon-fpv-drone-flight-942674/poster-e9942b897901.jpg" alt="Mumbai monsoon FPV drone flight video preview" width="700" />

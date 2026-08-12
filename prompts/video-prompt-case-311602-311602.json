@@ -1,0 +1,31 @@
+{
+  "slug": "video-prompt-case-311602-311602",
+  "title": {
+    "en": "単にリップシンクだけさせると無表情になりがちだったので表情の演技を追加してみました✨",
+    "zh": "単にリップシンクだけさせると無表情になりがちだったので表情の演技を追加してみました✨"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @MireilleDartois.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "10s",
+  "aspectRatio": "421:237",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@MireilleDartois",
+    "url": "https://x.com/MireilleDartois/status/2085254169259311602"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/MireilleDartois/status/2085254169259311602"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-311602-311602/video-21d975aba71b.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-311602-311602/poster-bb822cd95010.jpg",
+  "prompt": "She jokingly brings her face close to the camera and laughs.\nShe sings cheerfully, full of excitement. She laughs with her eyes crinkled, smiles with the corners of her mouth turned up, and looks away briefly before looking back at the camera and laughing again. She sways her head to the rhythm, and her hair bounces up and down."
+}

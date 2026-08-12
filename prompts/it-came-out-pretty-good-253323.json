@@ -1,0 +1,31 @@
+{
+  "slug": "it-came-out-pretty-good-253323",
+  "title": {
+    "en": "It came out pretty good",
+    "zh": "It came out pretty good"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @adithatipalli.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@adithatipalli",
+    "url": "https://x.com/adithatipalli/status/2086698076325253323"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/adithatipalli/status/2086698079508729956"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/it-came-out-pretty-good-253323/video-c6dbc7691117.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/it-came-out-pretty-good-253323/poster-20df70c2cfc2.jpg",
+  "prompt": "cinematic 15-second ultra-realistic sequence inside a luxurious modern boardroom during daytime. Soft natural light enters through large glass windows. Four powerful industrialists in expensive tailored suits sit around a long polished dark wooden table. The atmosphere is tense and high-stakes.\n\nThe senior industrialist at the head of the table leans forward slightly and says firmly:\n“This acquisition will change the entire market. Either we move now, or someone else will.”\n\nAnother industrialist across the table adjusts his cufflinks and replies calmly:\n“Moving now is risky. The numbers still don’t support a full takeover.”A third industrialist places both hands on the table and speaks with intensity:\n“Risk is the price of control.\n\nThe investors are already waiting for our decision.”The camera slowly pushes in as the most powerful industrialist leans back, looks at everyone, and delivers the final line with quiet authority:\n“Then we take it. No more delays.”\n\nCinematic lighting, sharp details on suits and the wooden table, subtle tension in their faces, realistic skin textures, high-end corporate atmosphere, shallow depth of field, filmic look."
+}

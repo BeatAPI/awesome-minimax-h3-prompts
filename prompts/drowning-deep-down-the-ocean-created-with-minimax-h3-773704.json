@@ -1,0 +1,31 @@
+{
+  "slug": "drowning-deep-down-the-ocean-created-with-minimax-h3-773704",
+  "title": {
+    "en": "\"Drowning deep down the ocean\" created with MiniMax H3",
+    "zh": "\"Drowning deep down the ocean\" created with MiniMax H3"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic travel prompt with attached video evidence from @I_Muhammadali44.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3视频提示词。"
+  },
+  "category": "cinematic-travel",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@I_Muhammadali44",
+    "url": "https://x.com/I_Muhammadali44/status/2085234595784773704"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/I_Muhammadali44/status/2085234595784773704"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/drowning-deep-down-the-ocean-created-with-minimax-h3-773704/video-b17ae8dd6b39.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/drowning-deep-down-the-ocean-created-with-minimax-h3-773704/poster-55b4bf456688.jpg",
+  "prompt": "\"Use the uploaded character sheet the ONLY identity reference. Preserve the exact face, hairstyle, body proportions, skin tone, and appearance throughout the video.\n\nThe camera remains directly above him looking straight downward during the entire sequence. He falls vertically beneath the camera through an impossible underwater abyss without changing direction.\nHe stays on his back facing the lens, both arms reaching upward while bubbles, hair, clothing, and loose fabric stream upward through the water.\n\nHe continuously falls through:\nvibrant coral reef, abandoned pirate ship, underwater research station, giant kelp forest\nsubmerged ancient city, whale migration corridor, volcanic hydrothermal vent field, endless dark ocean trench.\n\nEvery level is entered by crashing through ceilings, glass domes, ship decks, coral arches, ruined temples, and collapsing structures. Schools of fish, jellyfish, manta rays, bubbles, seaweed, bioluminescent creatures, and debris flow upward past the camera naturally.\n\nHis expressions progress from surprise and panic to determination, breath-holding, fear, exhaustion, and final acceptance while continuously reaching upward for anything that might stop his fall.\n\n24mm anamorphic lens, underwater cinematic lighting, volumetric light rays, realistic water distortion, gentle bloom, film grain, radial motion blur, handheld floating movement.\n\nAudio: Epic orchestral score mixed with deep underwater ambience, whale calls, distant metallic creaks, volcanic rumbles, rushing currents, and a powerful cinematic finale.\""
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "pixversev6-795780",
+  "title": {
+    "en": "質感はPixVerseのV6と似ているような。",
+    "zh": "質感はPixVerseのV6と似ているような。"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 product commercial prompt with attached video evidence from @tanabe_fragm.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+  },
+  "category": "product-commercial",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@tanabe_fragm",
+    "url": "https://x.com/tanabe_fragm/status/2084855587540795780"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/tanabe_fragm/status/2084855587540795780"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/pixversev6-795780/video-ab11677b3664.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/pixversev6-795780/poster-0744d89c149c.jpg",
+  "prompt": "integrated_multimodal_description: [Shot 1] Live-action, cinematic, photorealistic with true fine pores and real skin texture, no beauty filter. A full-body side-on wide shot of a 25-year-old woman with cool fair skin, dark almond eyes and long straight black hair, walking steadily from left to right along a colonnade of stone columns on a city street. Her face is identical in every era of the film; only her clothing, her hair styling and the world behind her change. Her stride never changes speed and she never looks at the camera until the final moment. The camera trucks right with large amplitude at slow speed, travelling alongside her for the entire film with no other camera movement and no change of direction. Foreground columns sweep across the lens as the camera moves, and each time a column wipes the frame the world behind her changes to the next era.\n\nThe film opens in the 1920s: low-saturation sepia light, gas lamps, a horse-drawn carriage, a beaded drop-waist dress and a cloche hat. At 00:03.000 a column wipes past and the world becomes the 1950s: warm amber light, a pastel car at the kerb, a chrome diner sign, a full-skirted dress and red lipstick. At 00:06.000 the next column wipes past and the world becomes the 1980s: dense pink and cyan neon reflecting off wet asphalt, a padded-shoulder jacket, heavy dark night air. At 00:09.000 the next column wipes past and the world becomes the present day: cool white daylight, glass office towers, passers-by lit by phone screens, an oversized wool coat. At 00:12.000 the last column wipes past and the world becomes the near future: pale blue light, floating holographic advertisements drifting between the columns, a sleek structured coat with a faint luminous seam.\n\nAt 00:14.000 she stops walking. The camera comes to rest with her. She turns her head and looks straight into the lens for the final beat, holding still until the end. No on-screen text or subtitles at any point.\n\noverall_soundscape: Her footsteps strike the stone at exactly the same steady pace from the first frame to the last, the one sound that never changes. Behind her the street swaps out at each era: horse hooves and a distant bell, then car horns and chattering pedestrians, then heavy rain on asphalt and a low traffic drone, then a modern city hum, then an almost silent electric whirr. Each column wipe is marked by a short dry rush of air across the lens.\n\nnon_diegetic_music: A steady four-beat pulse at a constant tempo runs from the first frame to the last, gaining one new instrument at every era change: a lone bass drum, then upright bass, then analogue synth, then layered electronic percussion, then a wide sustained synth chord. It reaches full volume as she stops and cuts off on her final look."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "been-testing-the-new-flux3-and-hailuo-minimax-h3-models-282651",
+  "title": {
+    "en": "Been testing the new Flux3 and Hailuo Minimax H3 models like crazy lately.",
+    "zh": "Been testing the new Flux3 and Hailuo Minimax H3 models like crazy lately."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @opener_ai.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+  },
+  "category": "music-video",
+  "mode": "text-to-video",
+  "duration": "20s",
+  "aspectRatio": "68:29",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@opener_ai",
+    "url": "https://x.com/opener_ai/status/2085228024690282651"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/opener_ai/status/2085228027257254057"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/been-testing-the-new-flux3-and-hailuo-minimax-h3-models-282651/video-94592e26e50f.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/been-testing-the-new-flux3-and-hailuo-minimax-h3-models-282651/poster-2a1a79751bf4.jpg",
+  "prompt": "Prompt\n\nDuration: 20 seconds\nAspect ratio: 21:9\n\nOverview\nPhotorealistic smartphone footage from a moving car. Begin directly behind a helmeted female rider, showing only her back. The filming car catches up and pulls alongside. She glances at the camera, then the motorcycle transforms into a two-seat hypercar. She removes her helmet and places the empty helmet on the passenger seat. In the final beat, the outer cover and canopy close while the car accelerates past the filming vehicle and ends ahead. One continuous shot.\n\nSetting\nBright multilane highway, clear sky, sparse traffic, hard midday sun. Both vehicles move forward in parallel lanes. Road direction and lighting stay consistent.\n\nCast\n[CHAR_A] Young woman in black riding gear. A graphite full-face helmet completely hides her face and hair. After removal she has one face and a blonde ponytail. Identity locked.\n\n[VEH_A] Matte graphite futuristic motorcycle with blue-violet lights. Folded car structures are stored inside its chassis. Final form: low two-seat hypercar with four aligned wheels, passenger seat, dashboard, outer cover and transparent canopy.\n\nAction\n0–4s: Start strictly behind [CHAR_A], centered on her back, helmet and rear wheel. Her face and visor front are invisible. The filming car approaches faster from behind.\n\n4–7s: The filming car reaches a rear three-quarter angle and pulls alongside. [CHAR_A] turns only her helmeted head, gives the camera a quick glance, then looks forward and continues straight.\n\n7–12s: Transformation begins without slowing. Front and rear hubs split into paired wheel modules and slide outward on telescoping axles, forming four wheels. The frame widens, rails extend and folded panels rotate into wheel arches. The seat lowers into the driver cockpit. Every part stays connected through hinges, rails, gears, pistons and locks.\n\n12–16s: The cockpit stays open. [CHAR_A] lifts the helmet vertically off her real head with both hands, revealing her single face and blonde ponytail. The removed helmet is an empty shell with only dark padding and empty space. Never show a face, eyes, skin, hair or duplicate head inside it. A passenger seat forms beside her. She places the helmet on it and it remains visible.\n\n16–18s: Dashboard, controls, lower doors, wheel arches and rear panels lock into place. The upper cover and canopy remain open. All four tires stay on the road.\n\n18–20s: [VEH_A] accelerates as the upper cover folds inward and the transparent canopy sweeps shut. Closing and overtaking happen simultaneously. While passing the filming car, the roof panels meet, the canopy seals and the final locks click. The hypercar pulls several lengths ahead. The camera pans forward slightly late. End with the fully closed car racing away in front.\n\nCamera\nSingle continuous handheld smartphone shot from inside the moving passenger car. Begin behind the rider, then shift to rear three-quarter and side tracking only because the filming car catches up. No cuts, teleportation or impossible jumps. Natural motion blur and window reflections.\n\nPhysics\nFast, smooth mechanical transformation with believable weight and clearance. Panels never pass through the rider or helmet. Wheel rotation, suspension and road contact stay synchronized.\n\nAudio\nHighway wind, tires and traffic. Synchronized servos, rails, hydraulics and metal locks. Helmet handling sounds. During the final pass, electric turbine whine combines with cover-folding sounds and a strong sealing click. No dialogue or music.\n\nRestrictions\nExactly one woman, one head, one face and one helmet. Face hidden until helmet removal. Removed helmet always empty. No duplicate face, disappearing helmet, floating parts, liquid morphing, clipping, extra wheels or malformed limbs. Exactly four wheels after transformation. The cover and canopy must close while it overtakes the filming car. End with the sealed car clearly ahead. No lane reversal, drift, crash, captions, logos, HUD or watermark."
+}

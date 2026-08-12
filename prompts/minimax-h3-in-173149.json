@@ -1,0 +1,31 @@
+{
+  "slug": "minimax-h3-in-173149",
+  "title": {
+    "en": "Minimax H3 in",
+    "zh": "Minimax H3 in"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 product commercial prompt with attached video evidence from @airina_xyz.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+  },
+  "category": "product-commercial",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "4:7",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@airina_xyz",
+    "url": "https://x.com/airina_xyz/status/2085784390903173149"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/airina_xyz/status/2085784395273642419"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-in-173149/video-f43c338c8766.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-in-173149/poster-c2e45f6b45ee.jpg",
+  "prompt": "{\n  \"title\": \"Wake the Wonder\",\n  \"duration\": \"15 seconds\",\n  \"aspect_ratio\": \"9:16\",\n  \"style\": \"retro-futurist 1960s editorial illustration blended with hand-painted gouache animation, geometric space-age design, limited mustard, teal, coral and midnight-blue palette, grainy print texture, imaginative cosmic transitions, sophisticated picture-book composition, polished non-photorealistic motion graphics\",\n  \"prompt\": \"Create a fast, imaginative 15-second vertical animated advertisement about escaping routine through curiosity. Open immediately inside a silent library located on a tiny moon. A middle-aged lunar librarian wearing a bubble helmet and neat retro uniform sits behind a circular desk, mechanically stamping identical grey books. Endless shelves curve around the moon's interior while dusty speech bubbles reading SAME OLD, ALREADY KNOW, WHY BOTHER and NOTHING NEW drift through the air. The librarian's movements are repetitive and perfectly synchronized with a ticking clock. At second 3.0, a small coral-colored book falls from the highest shelf and lands open on the desk. Instead of printed words, a miniature galaxy spins between its pages. The librarian's eyes widen. They slam the date stamp onto the glowing page, sending a teal shockwave through the library. Shelves bend into planetary rings, book pages become flocks of geometric spacecraft and the dusty speech bubbles burst into constellations. The librarian leaps onto a giant flying page and surfs through the transforming archive while the camera spirals beside them. Every book they pass opens into a different illustrated world: an underwater city, a jungle growing on an asteroid, a mechanical whale and a floating orchestra. At the climax, the librarian flies toward a locked circular door labelled NOTHING NEW. The glowing book opens in front of it and transforms the door into a vast cosmic iris. They burst through into an infinite colorful universe made of pages, stars and painted shapes. Finish with the librarian floating confidently above the small moon while bold retro typography appears: OPEN ONE DOOR. EXPAND YOUR WORLD. Maintain rapid wonder, clear visual storytelling, elegant graphic design and continuous transformation.\",\n  \"timeline\": [\n    {\n      \"time\": \"0.0-3.0 seconds\",\n      \"visual\": \"Immediate hook: a circular moon library in muted colors. The librarian mechanically stamps identical books while dusty phrases reading SAME OLD, ALREADY KNOW, WHY BOTHER and NOTHING NEW float around the desk. Fast orbiting push-in.\",\n      \"text\": \"WHEN DID EVERYTHING FEEL FAMILIAR?\"\n    },\n    {\n      \"time\": \"3.0-6.5 seconds\",\n      \"visual\": \"A coral-colored book falls open, revealing a spinning miniature galaxy. The librarian stamps the page, releasing a teal shockwave that bends shelves into planetary rings and lights up their expression.\",\n      \"text\": \"\"\n    },\n    {\n      \"time\": \"6.5-11.5 seconds\",\n      \"visual\": \"The librarian rides a giant flying page through the transforming archive. Books burst open into surreal worlds while grey speech bubbles collapse into bright constellations.\",\n      \"text\": \"\"\n    },\n    {\n      \"time\": \"11.5-15.0 seconds\",\n      \"visual\": \"The librarian races through a locked door labelled NOTHING NEW as it becomes a huge cosmic iris. Wide pullback reveals them floating over the moon inside a limitless illustrated universe.\",\n      \"text\": \"OPEN ONE DOOR\\nEXPAND YOUR WORLD\"\n    }\n  ],\n  \"voiceover\": {\n    \"enabled\": true,\n    \"delivery\": \"bright, intelligent and inviting, accelerating from restrained curiosity into genuine excitement\",\n    \"script\": \"Seen it all before? Look closer. One question opens a door. Wonder does the rest.\"\n  },\n  \"audio\": {\n    \"music\": \"up-tempo retro space-age jazz blended with modern electronic percussion, launching into full rhythm at second 3.0\",\n    \"sound_design\": \"clock ticks, rubber stamp impacts, page flutters, cosmic shimmer, orbital whooshes, opening-book chimes and a bright final orchestral hit\",\n    \"mix\": \"Narration stays crisp while page movements and cosmic effects bounce rhythmically around the beat.\"\n  },\n  \"camera\": {\n    \"movement\": \"circular push around the stamping desk, extreme macro on the miniature galaxy, spiralling tracking shot beside the flying page and dramatic orbital pullback around the moon\",\n    \"editing\": \"rapid graphic match cuts using circular books, planets, helmet reflections and cosmic doorways\"\n  },\n  \"negative_prompt\": [\n    \"photorealistic outer space\",\n    \"modern realistic spacecraft\",\n    \"slow educational documentary tone\",\n    \"dark existential mood\",\n    \"generic children's cartoon\",\n    \"overcrowded cosmic imagery\",\n    \"unreadable books or typography\",\n    \"stiff character movement\"\n  ]\n}"
+}

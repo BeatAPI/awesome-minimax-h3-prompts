@@ -1,0 +1,31 @@
+{
+  "slug": "created-using-minimax-h3-on-933942",
+  "title": {
+    "en": "Created using MiniMax H3 on .",
+    "zh": "Created using MiniMax H3 on ."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @keneth_ai.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+  },
+  "category": "music-video",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "943:540",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@keneth_ai",
+    "url": "https://x.com/keneth_ai/status/2087039444146933942"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/keneth_ai/status/2087039447473041914"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-using-minimax-h3-on-933942/video-5f61370b7f96.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-using-minimax-h3-on-933942/poster-8cafaa3f4e11.jpg",
+  "prompt": "[CHARACTER LOCK — use attached reference sheet]\nHaru: teen boy, short messy dark-brown hair with warm amber rim-light on the\nedges, tired amber eyes, single silver earring on left ear, thin dark cord\nchoker, oversized grey-blue windbreaker open over a longline blue hoodie, black\njoggers with dangling straps, scuffed black high-top sneakers. Face, hair\nsilhouette, and outfit identical in every shot.\n\n[FORMAT]\nAnime television opening, 2D cel-shaded, crisp linework, 16:9, high contrast,\nfilm grain. Total runtime 15 seconds, 12 shots, beat-synced hard cuts.\n\n[SHOT LIST — 15s]\n00.0–01.2  Black. Hard white flash. Haru's silhouette snaps in, back to camera,\n           jacket billowing. Background floods CYAN.\n01.2–02.4  Whip-pan to profile close-up. Downcast eyes flick up, sharp.\n           Flash. Background MAGENTA.\n02.4–03.2  Low-angle wide: he sprints along a rooftop ledge, coat trailing,\n           paper and leaves scattering. ORANGE-RED, speed lines.\n03.2–03.9  Freeze-frame mid-leap between rooftops. Pure black silhouette\n           against strobing YELLOW-to-LIME.\n03.9–04.7  Top-down spin: lands, one hand on concrete, dust ring bursts out.\n           Snap to DEEP PURPLE.\n04.7–05.3  Extreme close-up: silver earring swings, catches a lens flare.\n           White flash frame.\n05.3–06.2  Split-screen triptych — three duotone copies of his face\n           (blue / red / green) rotating, one per beat.\n06.2–07.4  Back view, walking into wind, hood snapping, hair whipping.\n           Background ELECTRIC BLUE with horizontal scan lines.\n07.4–08.2  Hands-in-pockets front shot, camera orbits fast around him.\n           Colors cycle GREEN → PINK → WHITE across the orbit.\n08.2–09.4  Seated on the ledge, knees up, head down, city lights blooming\n           behind. Muted TEAL. Brief calm — no flash on this cut.\n09.4–10.6  He stands, turns to camera, hair lifting, single amber rim-light\n           igniting along his edge. Background goes pure WHITE.\n10.6–15.0  Pull-back wide: Haru walks away toward the sunset skyline, hands in\n           pockets, clothes drifting. Color settles into the warm painted\n           palette of the reference sheet. Camera dollies out, holds on\n           centered title-card space.\n\n[MOTION]\nSimple punchy character animation on twos. Hair and fabric always drifting.\nCamera: whip pans, snap zooms, one fast orbit, one final dolly-out.\n\n[COLOR & FX]\nFull-frame color swaps on every cut, synced to an implied beat. White\nflash-frames between shots 1–9. Chromatic aberration on impacts, halftone dot\nbursts, quick duotone inversions, floating leaf and paper debris throughout.\nWarm amber rim-light preserved on the character in every shot.\n\n[NEGATIVE]\nphotorealistic, 3D render, live action, extra characters, text or logos,\nchanging outfit, changing hair color, distorted face, extra fingers, watermark"
+}

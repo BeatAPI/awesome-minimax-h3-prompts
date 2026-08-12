@@ -1,0 +1,31 @@
+{
+  "slug": "tested-minimax-h3-for-the-first-time-with-a-scene-784843",
+  "title": {
+    "en": "Tested MiniMax H3 for the first time with a scene like this",
+    "zh": "Tested MiniMax H3 for the first time with a scene like this"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 action prompt with attached video evidence from @RuzainaMeer.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动作提示词。"
+  },
+  "category": "action",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@RuzainaMeer",
+    "url": "https://x.com/RuzainaMeer/status/2085240792067784843"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/RuzainaMeer/status/2085240792067784843"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/tested-minimax-h3-for-the-first-time-with-a-scene-784843/video-b624937f2ff2.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/tested-minimax-h3-for-the-first-time-with-a-scene-784843/poster-8ac125ae6c19.jpg",
+  "prompt": "A powerful warrior woman stands alone in a destroyed futuristic city at night, facing a massive towering monster covered in dark armor and glowing cracks. The monster roars and charges toward her, shaking the ground with every step. She dodges its attacks with incredible speed, leaps through the air, and strikes with a glowing energy weapon. Intense hand-to-hand combat, flying debris, explosions, dramatic slow motion shots, cinematic camera movements, close-up of her determined face. The battle reaches its peak as she unleashes her final powerful attack, defeating the giant monster and standing victorious as the city burns behind her. Epic Hollywood action movie style, ultra-realistic, dramatic lighting, dynamic camera angles, high detail, cinematic quality."
+}

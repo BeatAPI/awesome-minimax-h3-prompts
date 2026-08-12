@@ -1,0 +1,31 @@
+{
+  "slug": "created-in-675674",
+  "title": {
+    "en": "Created in",
+    "zh": "Created in"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 fashion prompt with attached video evidence from @airina_xyz.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3时尚提示词。"
+  },
+  "category": "fashion",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "4:7",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@airina_xyz",
+    "url": "https://x.com/airina_xyz/status/2085309090511675674"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/airina_xyz/status/2085309093439287567"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-in-675674/video-5664945c8d42.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-in-675674/poster-e575573517d2.jpg",
+  "prompt": "{ \"title\": \"The Void Replies\", \"duration\": \"15 seconds\", \"aspect_ratio\": \"9:16\", \"style\": \"surreal architectural etching blended with animated bureaucratic flowcharts, endless stairways, cream paper, black ink and warning-red pathways, Escher-like scale, sharp editorial illustration\", \"prompt\": \"Create a meaningful 15-second vertical animation about learned helplessness inside systems so complex that personal action appears useless. Open on a citizen standing before a small civic desk labelled START HERE. They submit a simple request marked HOUSING. The paper enters a maze of pipes branching into DEPARTMENT, REVIEW, CONSULTATION, JURISDICTION, APPEAL and PENDING. The person runs alongside it through endless stairs and corridors, but the request repeatedly returns stamped WRONG FORM. Their voice becomes a visible red waveform that travels into the maze and gradually shrinks. Floating phrases gather around them: NOTHING CHANGES, WHY TRY, TOO COMPLICATED and SOMEONE ELSE'S JOB. They sit down. Another citizen arrives carrying a different request. Instead of entering alone, the two connect their red waveforms. More people join, and the combined signal illuminates a direct path through the structure. The maze does not vanish, but doors begin opening and officials become visible. Finish with the original request reaching a real human desk as bold text appears: POWERLESSNESS GROWS IN ISOLATION. AGENCY GROWS THROUGH CONNECTION. Avoid suggesting that every civic problem has a simple solution.\", \"timeline\": [ { \"time\": \"0.0-3.0 seconds\", \"visual\": \"A HOUSING request enters a vast bureaucratic maze.\", \"text\": \"HOW MANY TIMES CAN A PERSON TRY?\" }, { \"time\": \"3.0-8.0 seconds\", \"visual\": \"The request cycles through REVIEW, JURISDICTION, PENDING and WRONG FORM.\", \"text\": \"\" }, { \"time\": \"8.0-12.0 seconds\", \"visual\": \"NOTHING CHANGES and WHY TRY surround the exhausted citizen.\", \"text\": \"\" }, { \"time\": \"12.0-15.0 seconds\", \"visual\": \"Connected voices illuminate a shared route through the maze.\", \"text\": \"AGENCY GROWS\\nTHROUGH CONNECTION\" } ], \"voiceover\": { \"enabled\": true, \"delivery\": \"empathetic, grounded and steadily empowering\", \"script\": \"When every path leads nowhere, people stop walking. Connection can make a route visible again.\" }, \"audio\": { \"music\": \"repetitive ticking rhythm expanding into layered human percussion\", \"sound_design\": \"paper tubes, stamps, footsteps, fading echoes and joined vocal tones\" }, \"camera\": { \"movement\": \"paper-following maze chase, dizzying overhead pullback and direct final push toward the open desk\", \"editing\": \"repeating loops interrupted by connected red lines\" }, \"negative_prompt\": [ \"mocking public workers\", \"simple anti-government message\", \"photorealism\", \"hopeless ending\", \"illegible flowcharts\", \"magical instant solution\" ] }"
+}

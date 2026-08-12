@@ -2,7 +2,305 @@
 
 [Back to the full gallery](../../README.md) · [Catalog index](../README.md)
 
-## 1. Mind-blown. One shot
+## 1. Created with MiniMax H3
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-540945/video-13cbea5b7467.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-540945/poster-9a426723aa8a.jpg" alt="Created with MiniMax H3 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a premium 15-second cinematic ad for Audionic Trance Airbud 850. Start with a close-up of the silver earbuds and case, then show a stylish Korean girl wearing them and...</summary>
+
+~~~~text
+Create a premium 15-second cinematic ad for Audionic Trance Airbud 850. Start with a close-up of the silver earbuds and case, then show a stylish Korean girl wearing them and walking through a luxurious Korean shopping street while enjoying a modern Korean K-pop song. Use beautiful city lights, soft bokeh, elegant fashion, natural expressions and smooth cinematic camera movement. End with one clean hero shot of the silver earbuds and case only. No phone screen, Bluetooth connection, discount text, logo end card or extra ending scene.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-540945/video-13cbea5b7467.webm)
+
+**Source:** [@ayzalnooor24521](https://x.com/ayzalnooor24521/status/2087042771257540945) · 15s · 68:45 · fashion
+
+---
+
+## 2. T2V Hailuo MinimaxH3 Prompt [FORMAT] Create a 15-second, 16:9 retro graphic
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/t2v-hailuo-minimaxh3-prompt-format-create-a-15-second-16-099381/video-7d3845a01378.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/t2v-hailuo-minimaxh3-prompt-format-create-a-15-second-16-099381/poster-77292751d7b1.jpg" alt="T2V Hailuo MinimaxH3 Prompt [FORMAT] Create a 15-second, 16:9 retro graphic video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — T2V Hailuo MinimaxH3 Prompt [FORMAT] Create a 15-second, 16:9 retro graphic opening-title sequence titled &quot;INK AFTER DARK&quot;. A stylish 1960s pulp-noir animation about a mysterious...</summary>
+
+~~~~text
+T2V Hailuo MinimaxH3 Prompt
+
+[FORMAT]
+Create a 15-second, 16:9 retro graphic opening-title sequence titled "INK AFTER DARK".
+A stylish 1960s pulp-noir animation about a mysterious night writer. Bold, minimal, elegant, slightly dangerous, with dry visual wit.
+
+[IDENTITY]
+Keep one female writer visually consistent throughout: sharp angular bob haircut, narrow almond-shaped eyes, long black turtleneck, high-waisted trousers, slim silhouette, black leather gloves, calm expression, upright self-assured posture, and hard graphic highlights along one side of her face.
+Use flat hand-inked 2D illustration with rough screen-print texture, imperfect paper grain, and slightly uneven ink edges.
+
+[BEATS]
+[0–3 seconds] Extreme close-up of the writer's face emerging from near-total black. A narrow cream-colored strip of light slides across her eyes. The frame abruptly opens sideways like torn paper, revealing her full silhouette walking across a burnt-red background while loose sheets of paper trail behind her like a long ribbon.
+
+[3–6 seconds] The paper ribbon sweeps across frame and becomes a graphic wipe. Reveal her in profile at a desk. She strikes one typewriter key. On impact, the screen fractures into three bold rectangular panels: her gloved fingers, the metal typebar snapping forward, and a giant black ink letter striking paper.
+
+[6–9 seconds] Rapid rhythmic close-ups: spinning typewriter ribbon spool, carriage return lever snapping sideways, black ink spreading through rough paper fibers. Thin cream lines cut diagonally across the screen and reorganize the images into an asymmetric editorial collage.
+
+[9–12 seconds] Pull wide. The writer stands alone beside an enormous abstract typewriter rendered as a black geometric silhouette. She pulls one endless page upward. The rising page becomes a full-frame cream vertical wipe while scattered black letters tumble downward like physical debris.
+
+[12–15 seconds] The letters rapidly assemble into the exact title "INK AFTER DARK" centered large on a burnt-red paper field. The writer's small black silhouette crosses beneath the title and exits frame. The title appears through sharp letter-by-letter mechanical impacts over 0.5 seconds, holds completely still through the ending. No bouncing, spinning, stretching, or fly-in typography.
+
+[CAMERA]
+Use aggressive graphic changes in scale: extreme facial close-up → full-body silhouette → macro mechanical inserts → monumental wide composition.
+Camera movement should feel designed rather than realistic: fast lateral pushes, sudden graphic crops, one rapid pull-out, and precise locked compositions. Avoid conventional cinematic orbit shots.
+
+[LIGHT]
+Limited palette only: burnt red, aged cream, deep black, with tiny muted silver highlights on typewriter metal.
+Hard noir side-lighting translated into flat graphic shapes. Rough vintage print stock, subtle paper scratches, coarse ink grain, slight registration offsets, and occasional frame jitter.
+
+[EDIT]
+Fast editorial rhythm with hard cuts, paper wipes, diagonal panel slices, oversized object masks, and split-screen recompositions.
+Transitions must be motivated by paper, ink, typewriter mechanisms, or moving silhouettes. No soft dissolves.
+Make every shot feel newly composed rather than simply zooming into the previous image.
+
+[AUDIO]
+Audio: dry typewriter key strikes, paper slides, ribbon-spool clicks, carriage-return snaps, faint room hum, and one heavy mechanical impact when the final title locks.
+BGM: an original 15-second cue, 65% noir suspense and 35% cool jazz. Upright bass, brushed snare, muted vibraphone, sparse low piano, and short clipped brass accents. Begin almost empty, introduce bass at 3 seconds, rhythmic percussion at 6 seconds, a brief brass accent at 10 seconds, then freeze the final 2 seconds on one bass note and the mechanical title hit. Do not imitate an existing melody.
+
+[NEGATIVE]
+No subtitles, extra on-screen text, watermarks, platform logos, or stickers.
+Do not introduce Chinese text, garbled characters, misspellings, or additional title variations. Render "INK AFTER DARK" once only.
+No 3D CGI, photorealism, anime styling, glossy modern motion graphics, neon cyberpunk aesthetics, or smooth vector-clean surfaces.
+Never a slideshow. Maintain active graphic motion, physical visual transitions, and continuously evolving compositions.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/t2v-hailuo-minimaxh3-prompt-format-create-a-15-second-16-099381/video-7d3845a01378.webm)
+
+**Source:** [@opener_ai](https://x.com/opener_ai/status/2087042643369099381) · 15s · 16:9 · fashion
+
+---
+
+## 3. This model shines at generating mixed‑media motion graphics combining visuals and text information.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/this-model-shines-at-generating-mixedmedia-motion-graphics-combining-vis-961590/video-d529433d7a27.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/this-model-shines-at-generating-mixedmedia-motion-graphics-combining-vis-961590/poster-f3b7316a5e07.jpg" alt="This model shines at generating mixed‑media motion graphics combining visuals and text information. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Use [img1] as the sole visual authority for the architecture, courtyard, container modules, roof geometry, facade openings, materials, landscape, people, diagrams, site plan,...</summary>
+
+~~~~text
+Use [img1] as the sole visual authority for the architecture, courtyard, container modules, roof geometry, facade openings, materials, landscape, people, diagrams, site plan, typography, labels, colors, and final presentation-board composition.
+
+Create a fast-paced 15-second architectural presentation reveal. Do not begin with the completed board. Start from a dark charcoal background and progressively assemble the board through point clouds, depth maps, wireframes, technical drawings, typography, diagrams, and finally the photorealistic architecture.
+
+Preserve the architecture exactly. Do not redesign the building.
+
+[0.0–1.5s — ARCHITECTURE EMERGES]
+
+Start from near-black.
+
+A faint point cloud flashes into existence in the upper portion of the frame, rapidly transforming:
+
+point cloud → depth map → white architectural wireframe → shaded clay model.
+
+Roof edges, container modules, balconies, windows, courtyard boundaries, and structural lines are traced in quick succession with sharp rhythmic flashes and scanning effects.
+
+[1.5–3.2s — HERO IMAGE REVEAL]
+
+The wireframe snaps into the photorealistic courtyard rendering.
+
+Color and material flood into the image:
+white container walls, timber roofs, glass reflections, grass, trees, and warm sunlight.
+
+The hero image locks into its final upper-board position.
+
+Subtle life begins immediately:
+tree branches sway,
+grass moves,
+people make small gestures,
+sunlight shifts across the facades.
+
+[3.2–4.4s — TYPOGRAPHY]
+
+The title appears letter-by-letter with elegant tracking expansion.
+
+Subtitle and location follow.
+
+Divider lines shoot into place.
+
+Small labels reveal sequentially.
+
+Keep all typography sharp, clean, and stable once revealed.
+
+[4.4–6.4s — SPATIAL SEQUENCE]
+
+The first analytical module flashes in as fragmented white linework.
+
+Its layers rapidly assemble:
+ground plane → building volumes → balconies → roofs → courtyard.
+
+Orange arrows sweep through thresholds and semi-private zones toward the courtyard.
+
+Labels appear one by one beneath the diagram.
+
+[6.4–8.3s — DAYLIGHTING]
+
+A lateral light sweep activates the second diagram.
+
+Sun icons appear.
+
+A curved solar path draws across the architecture.
+
+Warm light rays move over the roofs and into the courtyard.
+
+Reflected light and subtle airflow paths animate briefly.
+
+The hero image above responds with changing sunlight and moving tree shadows.
+
+[8.3–10.1s — CIRCULATION]
+
+The third axonometric appears as a translucent technical model.
+
+Orange circulation paths race around balconies and climb vertical connectors.
+
+Small moving points suggest occupants traveling through the building.
+
+The animation settles into the final circulation diagram.
+
+[10.1–11.8s — SITE + DATA]
+
+The lower section assembles rapidly from left to right.
+
+Site context appears.
+
+The site boundary traces itself.
+
+The plan develops from thin drafting lines.
+
+Project data appears row-by-row with precise editorial timing.
+
+The full board is now nearly complete.
+
+[11.8–13.5s — BUILDING COMES ALIVE]
+
+Shift emphasis back to the large hero rendering.
+
+A subtle push-in occurs only inside this image.
+
+Existing people begin moving naturally.
+
+Add several more occupants:
+one person enters a ground-floor doorway,
+another exits,
+a student crosses the courtyard,
+one person walks along an upper balcony.
+
+Doors open and close softly.
+
+Foliage moves more clearly.
+
+Sunlight passes through leaves and shadows glide across the facades.
+
+[13.5–15.0s — FINAL CLIMAX]
+
+A final pulse travels from the hero rendering downward through the board.
+
+Spatial sequence activates.
+Daylighting activates.
+Circulation activates.
+Site plan activates.
+
+Fine orange and white lines briefly connect the analytical systems, then settle.
+
+Hold the complete final board while subtle life continues inside the hero rendering:
+people walking,
+people entering and leaving,
+moving foliage,
+soft reflections,
+shifting sunlight.
+
+[MOTION STYLE]
+
+Fast, rhythmic architectural motion graphics.
+Point-cloud reconstruction.
+Depth-map transitions.
+Wireframe-to-photoreal reveal.
+Rapid drafting-line animation.
+Masked typography.
+Diagram assembly.
+Circulation tracing.
+Animated light paths.
+Strong acceleration and clean easing.
+
+The first 11 seconds should contain frequent visual events every 0.3–0.8 seconds.
+
+Use the rhythm:
+FLASH → DRAW → ASSEMBLE → LOCK.
+
+Once revealed, each module remains in its final position.
+
+[CRITICAL RULES]
+
+Do not rotate the entire board.
+Do not turn the board into a separate full-screen architectural flythrough.
+Do not rearrange the layout.
+Do not redesign the building.
+Do not alter the container massing, roof geometry, facade rhythm, courtyard proportions, balconies, windows, or structural logic.
+Do not replace the original diagrams.
+
+Avoid neon HUDs, cyberpunk effects, random particles, excessive glow, or generic tech graphics.
+
+Keep the visual language architectural, editorial, precise, and premium.
+
+[AUDIO]
+
+Deep opening impact, scanner pulses, drafting scratches, paper-like swishes, subtle mechanical clicks, soft transition whooshes.
+
+As the hero image comes alive, introduce quiet courtyard ambience:
+footsteps, distant conversation, doors opening, leaves moving in the breeze.
+
+Finish with one clean low-frequency impact as the full board locks into place.
+
+No dialogue.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/this-model-shines-at-generating-mixedmedia-motion-graphics-combining-vis-961590/video-d529433d7a27.webm)
+
+**Source:** [@vkuoo](https://x.com/vkuoo/status/2086254335021961590) · 15s · 3:4 · fashion
+
+---
+
+## 4. Created in
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-in-675674/video-5664945c8d42.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-in-675674/poster-e575573517d2.jpg" alt="Created in video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — { &quot;title&quot;: &quot;The Void Replies&quot;, &quot;duration&quot;: &quot;15 seconds&quot;, &quot;aspect_ratio&quot;: &quot;9:16&quot;, &quot;style&quot;: &quot;surreal architectural etching blended with animated bureaucratic flowcharts, endless...</summary>
+
+~~~~text
+{ "title": "The Void Replies", "duration": "15 seconds", "aspect_ratio": "9:16", "style": "surreal architectural etching blended with animated bureaucratic flowcharts, endless stairways, cream paper, black ink and warning-red pathways, Escher-like scale, sharp editorial illustration", "prompt": "Create a meaningful 15-second vertical animation about learned helplessness inside systems so complex that personal action appears useless. Open on a citizen standing before a small civic desk labelled START HERE. They submit a simple request marked HOUSING. The paper enters a maze of pipes branching into DEPARTMENT, REVIEW, CONSULTATION, JURISDICTION, APPEAL and PENDING. The person runs alongside it through endless stairs and corridors, but the request repeatedly returns stamped WRONG FORM. Their voice becomes a visible red waveform that travels into the maze and gradually shrinks. Floating phrases gather around them: NOTHING CHANGES, WHY TRY, TOO COMPLICATED and SOMEONE ELSE'S JOB. They sit down. Another citizen arrives carrying a different request. Instead of entering alone, the two connect their red waveforms. More people join, and the combined signal illuminates a direct path through the structure. The maze does not vanish, but doors begin opening and officials become visible. Finish with the original request reaching a real human desk as bold text appears: POWERLESSNESS GROWS IN ISOLATION. AGENCY GROWS THROUGH CONNECTION. Avoid suggesting that every civic problem has a simple solution.", "timeline": [ { "time": "0.0-3.0 seconds", "visual": "A HOUSING request enters a vast bureaucratic maze.", "text": "HOW MANY TIMES CAN A PERSON TRY?" }, { "time": "3.0-8.0 seconds", "visual": "The request cycles through REVIEW, JURISDICTION, PENDING and WRONG FORM.", "text": "" }, { "time": "8.0-12.0 seconds", "visual": "NOTHING CHANGES and WHY TRY surround the exhausted citizen.", "text": "" }, { "time": "12.0-15.0 seconds", "visual": "Connected voices illuminate a shared route through the maze.", "text": "AGENCY GROWS\nTHROUGH CONNECTION" } ], "voiceover": { "enabled": true, "delivery": "empathetic, grounded and steadily empowering", "script": "When every path leads nowhere, people stop walking. Connection can make a route visible again." }, "audio": { "music": "repetitive ticking rhythm expanding into layered human percussion", "sound_design": "paper tubes, stamps, footsteps, fading echoes and joined vocal tones" }, "camera": { "movement": "paper-following maze chase, dizzying overhead pullback and direct final push toward the open desk", "editing": "repeating loops interrupted by connected red lines" }, "negative_prompt": [ "mocking public workers", "simple anti-government message", "photorealism", "hopeless ending", "illegible flowcharts", "magical instant solution" ] }
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/created-in-675674/video-5664945c8d42.webm)
+
+**Source:** [@airina_xyz](https://x.com/airina_xyz/status/2085309090511675674) · 15s · 4:7 · fashion
+
+---
+
+## 5. Mind-blown. One shot
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/mind-blown-one-shot-376793/video-b2f67795e835.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/mind-blown-one-shot-376793/poster-f47b714c6d95.jpg" alt="Mind-blown. One shot video preview" width="700" />
@@ -39,7 +337,53 @@ No character changes, extra people, random text, subtitles, logos, outfit change
 
 ---
 
-## 2. Low-Angle Fashion Tracking Film
+## 6. Minimax 3 Prompt: Create a premium 16:9 landscape fashion film. Use Image 1 for
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-3-prompt-create-a-premium-16-9-landscape-fashion-108362/video-1ab7df834413.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-3-prompt-create-a-premium-16-9-landscape-fashion-108362/poster-7377fe4eb43b.jpg" alt="Minimax 3 Prompt: Create a premium 16:9 landscape fashion film. Use Image 1 for video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Minimax 3 Prompt: Create a premium 16:9 landscape fashion film. Use Image 1 for the overall mood, location, and film texture; Image 2 for the talent; Image 3 for the bag; and...</summary>
+
+~~~~text
+Minimax 3 Prompt: Create a premium 16:9 landscape fashion film. Use Image 1 for the overall mood, location, and film texture; Image 2 for the talent; Image 3 for the bag; and Image 4 for the closing brand mark. This is a fashion campaign for the clothing and bag. The tone is elevated, cool, and restrained, but the edit should still feel lively and fashion-forward—not like a conventional narrative film or an e-commerce ad.
+
+Keep the story simple: beside a vintage car on a desert highway, a woman walks to the rear of the car, opens the trunk, takes out a black bag, shares a quiet beat with the man standing nearby, then leaves carrying the bag. Integrate the clothing and bag naturally into the performance so they feel like part of the characters’ identity.
+
+I added the final video in and the reference images for you to learn from!
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-3-prompt-create-a-premium-16-9-landscape-fashion-108362/video-1ab7df834413.webm)
+
+**Source:** [@influencer_seo](https://x.com/influencer_seo/status/2084355335222108362) · 15s · 16:9 · fashion
+
+---
+
+## 7. MiniMax H3 is incredible at text rendering!
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-is-incredible-at-text-rendering-644291/video-62c6959966f0.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-is-incredible-at-text-rendering-644291/poster-051de0428cc7.jpg" alt="MiniMax H3 is incredible at text rendering! video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a 15-second cinematic text-animation video built around the quote: “Every great change begins quietly, grows through courage, and becomes impossible to ignore.” The quote...</summary>
+
+~~~~text
+Create a 15-second cinematic text-animation video built around the quote:  “Every great change begins quietly, grows through courage, and becomes impossible to ignore.”  The quote should appear gradually as a visual story. Each new phrase must transform the design, atmosphere, movement, and emotional intensity of the scene. Use elegant typography, accurate spelling, cinematic lighting, smooth transitions, and perfectly readable text.  0:00–0:03 | “Every great change”  Begin with a completely black screen.  A tiny point of warm light slowly appears in the center, like the first spark of an idea.  The words “Every great change” emerge softly from the darkness, one word at a time. Use thin, elegant serif typography with wide letter spacing.  “Every” fades in gently.  “Great” grows slightly larger.  “Change” forms from small drifting particles that gather into solid letters.  Keep the scene quiet, minimal, and mysterious.  0:03–0:06 | “begins quietly,”  The camera slowly moves closer to the text.  The previous words shrink and reposition toward the upper-left corner as the phrase “begins quietly,” appears in delicate lowercase letters.  Animate the phrase as though it is being written by an invisible hand.  Each letter should create a subtle ripple in the darkness.  Introduce faint textures, soft shadows, floating dust, and gentle light rays.  The comma should appear last and create a small circular pulse.  0:06–0:09 | “grows through courage,”  The pulse expands and transforms the scene from darkness into a rich sunrise gradient with deep orange, red, and golden tones.  The words “grows through courage” rise upward from the bottom of the frame.  Animate “grows” by gradually increasing its size and weight.  Animate “through” along a curved path.  Animate “courage” in bold uppercase letters that push through a translucent barrier, causing it to crack into geometric fragments.  The movement should feel powerful but controlled.  0:09–0:12 | “and becomes”  The fragments rotate in slow motion and reorganize into a clean editorial grid.  The phrase “AND BECOMES” appears across the frame in condensed sans-serif typography.  Animate the letters with fast tracking changes, vertical stretching, masking, and perspective movement.  The camera accelerates forward through the center of the word “BECOMES.”  The sound and visual energy should steadily build.  0:12–0:14 | “impossible to ignore.”  Reveal a vast bright space filled with light, moving shapes, and large-scale typography.  The words “IMPOSSIBLE TO IGNORE” appear one after another.  “IMPOSSIBLE” expands beyond the edges of the screen.  “TO” remains small and perfectly centered.  “IGNORE” slams into place with strong visual impact, briefly shaking the surrounding grid and shapes.  Use bold contrast, dramatic scale, sharp shadows, and synchronized motion.  0:14–0:15 | Final quote  All movement stops instantly.  The complete quote appears centered on a clean off-white background:  “Every great change begins quietly, grows through courage, and becomes impossible to ignore.”  Use refined black typography with “change,” “courage,” and “impossible” highlighted in deep red.  Hold the final composition clearly for the last second.  Maintain one continuous visual journey from darkness to light, silence to impact, and simplicity to complexity. Keep every phrase connected through visual transformations rather than hard cuts.  Use realistic motion blur, precise kerning, clean masks, stable letterforms, smooth camera movement, subtle film grain, cinematic sound design, rising ambient music, soft particles, controlled color transitions, and a final deep impact sound.  Avoid misspelled words, warped letters, duplicated characters, unreadable text, random symbols, excessive flickering, chaotic layouts, inconsistent fonts.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-is-incredible-at-text-rendering-644291/video-62c6959966f0.webm)
+
+**Source:** [@umesh_ai](https://x.com/umesh_ai/status/2083909535593644291) · 15s · 16:9 · fashion
+
+---
+
+## 8. Low-Angle Fashion Tracking Film
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/low-angle-fashion-tracking-film-062019/video-7eccbb514e51.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/low-angle-fashion-tracking-film-062019/poster-98861d56b4fd.jpg" alt="Low-Angle Fashion Tracking Film video preview" width="700" />
@@ -60,7 +404,7 @@ Ultra realistic cinematic video, shot on ARRI Alexa 35 with spherical lens, natu
 
 ---
 
-## 3. Kintsugi Sword Seamless Loop
+## 9. Kintsugi Sword Seamless Loop
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/kintsugi-sword-seamless-loop-524882/video-18ce4fdcf3f2.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/kintsugi-sword-seamless-loop-524882/poster-1365004257d9.jpg" alt="Kintsugi Sword Seamless Loop video preview" width="700" />
@@ -168,7 +512,7 @@ Prompt #MiniMaxH3 in Chinese:
 
 ---
 
-## 4. Surreal Blue Studio Dance with a Horse
+## 10. Surreal Blue Studio Dance with a Horse
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/surreal-blue-studio-dance-with-horse-588086/video-35d70f2a6270.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/surreal-blue-studio-dance-with-horse-588086/poster-c616e26c1d83.jpg" alt="Surreal Blue Studio Dance with a Horse video preview" width="700" />
@@ -193,7 +537,7 @@ Create a surreal 15-second fashion-film sequence inside a minimalist monochrome 
 
 ---
 
-## 5. Ice Gunslinger Interactive Web Loop
+## 11. Ice Gunslinger Interactive Web Loop
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ice-gunslinger-interactive-web-loop-045626/video-8ed8d15497ae.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ice-gunslinger-interactive-web-loop-045626/poster-b4852f65a0a0.jpg" alt="Ice Gunslinger Interactive Web Loop video preview" width="700" />
@@ -288,7 +632,7 @@ Create a surreal 15-second fashion-film sequence inside a minimalist monochrome 
 
 ---
 
-## 6. Golden Guardian Web Hero Loop
+## 12. Golden Guardian Web Hero Loop
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/golden-guardian-web-hero-loop-616089/video-ad594df1ac56.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/golden-guardian-web-hero-loop-616089/poster-f3ffd3a6c85e.jpg" alt="Golden Guardian Web Hero Loop video preview" width="700" />
@@ -384,7 +728,7 @@ Create a surreal 15-second fashion-film sequence inside a minimalist monochrome 
 
 ---
 
-## 7. The Brief: "Jessica x The Bag"
+## 13. The Brief: "Jessica x The Bag"
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/the-brief-jessica-x-the-bag-804089/video-0ef2025a0f9f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/the-brief-jessica-x-the-bag-804089/poster-2901ee10dfd8.jpg" alt="The Brief: &quot;Jessica x The Bag&quot; video preview" width="700" />
@@ -411,7 +755,7 @@ Warm, glossy, early-2000s fashion-film color science throughout — think The De
 
 ---
 
-## 8. Seamless Warrior Sword Reflection Loop
+## 14. Seamless Warrior Sword Reflection Loop
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/seamless-warrior-sword-reflection-loop-874724/video-8c6fd235ee6b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/seamless-warrior-sword-reflection-loop-874724/poster-2ae99518ad9c.jpg" alt="Seamless Warrior Sword Reflection Loop video preview" width="700" />

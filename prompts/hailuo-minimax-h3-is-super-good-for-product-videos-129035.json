@@ -1,0 +1,31 @@
+{
+  "slug": "hailuo-minimax-h3-is-super-good-for-product-videos-129035",
+  "title": {
+    "en": "Hailuo Minimax H3 is super good for product videos🤩",
+    "zh": "Hailuo Minimax H3 is super good for product videos🤩"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 product commercial prompt with attached video evidence from @guicastellanos1.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+  },
+  "category": "product-commercial",
+  "mode": "text-to-video",
+  "duration": "10s",
+  "aspectRatio": "9:16",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@guicastellanos1",
+    "url": "https://x.com/guicastellanos1/status/2085418202457129035"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/guicastellanos1/status/2085418489381019869"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-minimax-h3-is-super-good-for-product-videos-129035/video-df83e5dfea13.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-minimax-h3-is-super-good-for-product-videos-129035/poster-c95680ed0247.jpg",
+  "prompt": "cinematic commercial Begin with peat smoke, rain droplets, and oak wood dust floating deliberately in mid-air.  These materials compact into amber liquid and glass, forming the iconic Macallan bottle. Mist drifts as the label embosses and the liquid settles with slow viscosity.  End with the completed Macallan bottle centered, logo present, and the 3-word slogan: “Time Finds Depth”  Dark smoke-to-amber lighting, warm cinematic reflections, premium heritage tone."
+}

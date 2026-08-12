@@ -1,0 +1,31 @@
+{
+  "slug": "first-try-with-minimax-h3-and-is-full-cinematic-276158",
+  "title": {
+    "en": "First try with Minimax H3 and is full cinematic 📽️ 🤩",
+    "zh": "First try with Minimax H3 and is full cinematic 📽️ 🤩"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @guicastellanos1.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+  },
+  "category": "music-video",
+  "mode": "text-to-video",
+  "duration": "10s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@guicastellanos1",
+    "url": "https://x.com/guicastellanos1/status/2085411288218276158"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/guicastellanos1/status/2085411289921175780"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/first-try-with-minimax-h3-and-is-full-cinematic-276158/video-e77014093dbc.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/first-try-with-minimax-h3-and-is-full-cinematic-276158/poster-33f9f340f70f.jpg",
+  "prompt": "Whip pan from a screaming crowd to a massive kraken-like creature rising from flooded city streets. Tentacles crush traffic lights and wrap around buildings. The camera sways violently with each impact. Water rushes at lens level, debris floats by. VFX water simulation, dynamic lighting, and lens flare through broken signs."
+}

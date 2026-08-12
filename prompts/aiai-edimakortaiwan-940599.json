@@ -1,0 +1,31 @@
+{
+  "slug": "aiai-edimakortaiwan-940599",
+  "title": {
+    "en": "非常震惊！我居然现在才发现！AI已经发展到一站式全部搞定所有功能的超强平台！如果你是导演，应该主动拥抱AI，而不是视而不见。 我在@edimakortaiwan",
+    "zh": "非常震惊！我居然现在才发现！AI已经发展到一站式全部搞定所有功能的超强平台！如果你是导演，应该主动拥抱AI，而不是视而不见。 我在@edimakortaiwan"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @PixelAigc.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "10s",
+  "aspectRatio": "7:4",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@PixelAigc",
+    "url": "https://x.com/PixelAigc/status/2084559907395940599"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/PixelAigc/status/2084559907395940599"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/aiai-edimakortaiwan-940599/video-e4fa018f8fca.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/aiai-edimakortaiwan-940599/poster-57d8a69127a0.jpg",
+  "prompt": "非常震惊！我居然现在才发现！AI已经发展到一站式全部搞定所有功能的超强平台！如果你是导演，应该主动拥抱AI，而不是视而不见。\n\n我在@edimakortaiwan 上用 MiniMax H3 把这一段非常简单的提示词重新生成一条视频，出来的效果一样震撼！\n\n这是一个集图片，音乐，视频等创作于一体的大型平台，还有很多辅助功能，我还仅仅测试了一条H3视频，没有抽卡，就实现了与seedance 2.0一样水平的视频效果。\n\n接下来我会继续测试这个网站的AIMV功能，一句提示词就能实现3分钟歌曲MV制作，这也太强大了。\n视频提示词如下，一键复制可用：\n摩天大楼大小的石龙冲破云层并展开巨大的翅膀几乎把天空填满。两个人站在悬崖上看着它升起。环绕立体鳞片的体积雾。光穿过它头后的云层。"
+}

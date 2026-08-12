@@ -23,7 +23,36 @@ Camera: First-person perspective at eye level with authentic handheld player mov
 
 ---
 
-## 2. is a huge model for some themes
+## 2. MiniMax H3 feels like a really good fit for interactive game concepts.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-feels-like-a-really-good-fit-for-interactive-417323/video-47c399792570.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-feels-like-a-really-good-fit-for-interactive-417323/poster-cfb4a8498788.jpg" alt="MiniMax H3 feels like a really good fit for interactive game concepts. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Use Image 1 as the main character role. Use Image 2 as the layout of the game selection interface. [0–2 seconds] Display the complete skateboard selection interface from the...</summary>
+
+~~~~text
+Use Image 1 as the main character role. Use Image 2 as the layout of the game selection interface.
+[0–2 seconds] Display the complete skateboard selection interface from the front. NOVA is in the selected and active state, the four ports at the bottom emit green light. HOTDOG and SHARK are in the unselected state, completely stationary.
+[2–4 seconds] The player presses the right selection key. SHARK ROCKET RIDER slides from the right preview slot into the middle selected module, NOVA JET GLIDER simultaneously slides from the middle into the left preview slot, HOTDOG DASH moves to the right preview slot. As soon as NOVA leaves the middle selected module, the green light immediately turns off and stops. After SHARK enters the middle, orange flames appear at the tail. The skateboard name, attribute bars, and SELECTED label update synchronously.
+[4–6.5 seconds] The player switches the selection again. HOTDOG DASH moves horizontally from the side preview slot to the middle selected module, SHARK ROCKET RIDER simultaneously slides into the other side slot, NOVA moves to the remaining side slot. As soon as SHARK loses the selected state, the orange flame immediately turns off. After HOTDOG becomes the selected item, facing the camera, it barks twice accurately, then turns around in place once.
+[6.5–8 seconds] The bottom CONFIRM button is clicked by the player. The button compresses downwards and bounces back, the right arrow extends forward. HOTDOG DASH becomes the final confirmed selection. The two unselected skateboards on the left and right continue to stay in the fixed preview slots, completely stationary.
+[8–10 seconds] The middle fixed selected module expands towards the depth of the screen. The light-colored display area inside the central card naturally transforms into the World Plaza. The complete world has been fully loaded, with no texture popping, placeholder models, or unfinished buildings. At the same time, the UI displays as the in-game HUD.
+[10–12 seconds] The camera enters the third-person game perspective, with HOTDOG DASH located under the protagonist’s feet. During normal gliding and preparation actions, both feet of the protagonist are standing on HOTDOG DASH. The game HUD appears at this time: mini-map in the top right corner, speed and health status in the bottom left corner, action and combo slots in the bottom right corner, mission route markers and interactive prompts appear ahead.
+[12–15 seconds] The protagonist enters the world riding the running HOTDOG DASH, passing pedestrians, stairs, slopes, railings, and multiple explorable routes. HOTDOG jumps before a low slope, completes a rotation action in the air, and upon landing, the protagonist’s feet are still standing on HOTDOG DASH, the combo count and TRICK prompt briefly increase in the HUD. Subsequently, lean to bypass street obstacles, then perform a small directional jump, and then continue sliding forward.
+Sound Design: Use pure instrumental music mixed with electronic arcade sounds, no vocals. UI switching corresponds to crisp key press sounds, card slot sliding sounds, sticker slapping sounds, and attribute bar update sounds. When SHARK is selected, ignition and propulsion sounds appear, and stop immediately when losing selection. When HOTDOG is selected, two barks are played accurately, and light footsteps are added when spinning around. After entering the world, add city ambient sounds, wind sounds, running footsteps, shoe friction sounds when pedaling to accelerate, and jump and landing feedback sounds.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-feels-like-a-really-good-fit-for-interactive-417323/video-47c399792570.webm)
+
+**Source:** [@0xbisc](https://x.com/0xbisc/status/2084626773015417323) · 15s · 16:9 · gameplay
+
+---
+
+## 3. is a huge model for some themes
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/is-a-huge-model-for-some-themes-157293/video-3a23900fd3b4.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/is-a-huge-model-for-some-themes-157293/poster-c2ebc5d6241f.jpg" alt="is a huge model for some themes video preview" width="700" />
@@ -51,7 +80,7 @@ Camera movement: Natural player-controlled movement with subtle handheld sway wh
 
 ---
 
-## 3. Y2K K-Pop Candy Typography Music Video
+## 4. Y2K K-Pop Candy Typography Music Video
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/soft-cute-y2k-crush-k-pop-girl-group-rap-mv-748313/video-7588687fb895.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/soft-cute-y2k-crush-k-pop-girl-group-rap-mv-748313/poster-ca11d6e8f8b2.jpg" alt="Y2K K-Pop Candy Typography Music Video video preview" width="700" />
@@ -90,7 +119,7 @@ Shot 7 — Group Rap Performance「UNBREAKABLE」 Three members together.
 
 ---
 
-## 4. Explorer and Cat in a Floating Eco-City
+## 5. Explorer and Cat in a Floating Eco-City
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-cinematic-aaa-adventure-game-trailer-one-continuo-722460/video-8df5c20c5939.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-cinematic-aaa-adventure-game-trailer-one-continuo-722460/poster-478284a3421e.jpg" alt="Explorer and Cat in a Floating Eco-City video preview" width="700" />
@@ -111,7 +140,7 @@ Ultra cinematic AAA adventure game trailer, one continuous seamless camera shot,
 
 ---
 
-## 5. Fantasy Deck-Builder Battle UI
+## 6. Fantasy Deck-Builder Battle UI
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/deck-builder-turn-ui-choreography-446745/video-3d55b47abdf6.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/deck-builder-turn-ui-choreography-446745/poster-8cb4c8f5ec6c.jpg" alt="Fantasy Deck-Builder Battle UI video preview" width="700" />
@@ -139,7 +168,7 @@ Negative: no UI drift or warping, no invented card names, no misspellings, no go
 
 ---
 
-## 6. Colorful Paint-Weapon Selection Screen
+## 7. Colorful Paint-Weapon Selection Screen
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-1-for-the-character-image-2-for-the-619967/video-7ac98e27a185.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-1-for-the-character-image-2-for-the-619967/poster-e51bf318751f.jpg" alt="Colorful Paint-Weapon Selection Screen video preview" width="700" />

@@ -1,0 +1,31 @@
+{
+  "slug": "image-model-gpt-image-2-143224",
+  "title": {
+    "en": "Image Model: GPT Image 2",
+    "zh": "Image Model: GPT Image 2"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 product commercial prompt with attached video evidence from @ShamsAmin56.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+  },
+  "category": "product-commercial",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ShamsAmin56",
+    "url": "https://x.com/ShamsAmin56/status/2082798559901143224"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/ShamsAmin56/status/2082798564032282747"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/image-model-gpt-image-2-143224/video-83cdd5450477.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/image-model-gpt-image-2-143224/poster-97e396da2238.jpg",
+  "prompt": "Claude\n\nInteractive Game Equipment UI (15s)\n\nUse Image 1 as a STRICT CHARACTER REFERENCE. Preserve the character exactly: oversized yellow hooded jacket, glossy black faceless helmet, black armored tactical torso, tattooed left arm, glossy red tactical cargo pants with hanging straps and pouches, black combat boots, and the massive crimson-black biomechanical right arm with organic tendrils and clawed fingers. Do not alter colors, proportions, outfit, or mechanical design.\n0–2 Seconds\n\nHigh-angle overhead cinematic shot. The character sits on a vivid, highly saturated purple floor with one knee raised and the enormous crimson biomechanical arm resting beside him. He slowly tilts his head upward toward the camera. A premium AAA futuristic game interface fades in.\n\nTop left:\n Player Profile\n REAPER\n Level 42\nRight side menu:\nSTART NEW GAME\nCONTINUE (highlighted)\n\nLOADOUT\n\nSETTINGS\nEXIT GAME\nA sleek white cursor smoothly clicks CONTINUE.\n2–4 Seconds\nCamera pushes in toward the biomechanical right arm.\n\nA translucent RIGHT ARM EQUIPMENT panel slides in.\n\nEquipment list:\n\nPHANTOM GRIP\nABYSS CLAW\nHELLFORGE TALON\n\nCRIMSON REAVER\nThe selector moves to ABYSS CLAW.\nThe right arm begins transforming.\nRed-black armor plates separate.\n\nOrganic crimson tendrils weave together.\n\nMechanical pistons rotate.\n\nClaw fingers extend into longer razor blades.\n\nInternal red energy pulses through exposed cables.\n\nSmall particles and sparks emit as the transformation locks into place.\n\n4–7 Seconds\n\nCamera smoothly arcs around the character's right side.\n\nA large ARMAMENT CUSTOMIZATION interface appears.\n\nComponent grid:\n\nShoulder\n\nUpper Arm\n\nElbow\n\nForearm\nWrist\nClaw System\nCore Reactor\nTendril Matrix\nSelections cycle rapidly.\nThe biomechanical arm partially disassembles.\nArmor segments detach.\n\nInternal skeletal frame becomes visible.\n\nHydraulic pistons rotate.\n\nMechanical tendrils retract and regrow.\n\nNew crimson armor slides into place.\n\nClaw geometry reshapes into a more aggressive configuration before locking with a satisfying mechanical snap.\n\n7–8.5 Seconds\n\nCamera pulls back to a medium shot.\n\nA large glowing CONFIRM CONFIGURATION button appears.\n\nCursor clicks.\n\nEvery interface panel folds inward using holographic animations and disappears.\n\nThe character rises from the seated position.\n\nHe slowly flexes the upgraded biomechanical arm.\n\nThe massive claws open and close once.\n\nCrimson energy briefly surges through the entire limb.\n\n8.5–10 Seconds\n\nA cinematic LOADING bar appears across the bottom.\n\nProgress accelerates from 0% → 100%.\n\nThe purple environment gradually fades into darkness.\n\nGolden light leaks through the scene.\n\nSubtle volumetric fog forms.\n\nAmbient audio transitions from UI sounds to a living city.\n\n10–15 Seconds\n\nThe world fully loads.\n\nThe character now stands inside a dense cyberpunk megacity.\n\nRain-soaked streets.\n\nNeon holographic advertisements.\n\nSteam rising from vents.\n\nMoving crowds.\n\nHover drones patrol overhead.\n\nMotorcycles race past.\n\nTowering futuristic skyscrapers loom in the distance.\n\nCamera settles into a polished third-person gameplay perspective behind the character.\n\nHUD fades in:\n\nMinimap (top right)\n\nHealth & Energy (bottom left)\n\nAbility Icons\n\nWeapon Indicator\nObjective Marker\nThe character activates the crimson biomechanical arm, flexes the claws once, then confidently walks into the neon-lit street as the mission begins.\nStyle: AAA Unreal Engine 5 cinematic, photorealistic PBR materials, production-quality game UI, premium sci-fi HUD, seamless mechanical transformation, cinematic camera motion, ray-traced lighting, volumetric fog, rain reflections, 4K, 60fps, no glitches, no UI clipping, no extra limbs, perfect character consistency, movie-grade color grading."
+}

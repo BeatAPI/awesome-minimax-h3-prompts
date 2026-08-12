@@ -1,0 +1,31 @@
+{
+  "slug": "omnittovkling3-0minimax-h3-630895",
+  "title": {
+    "en": "这是Omni生成的视频，TtoV，你觉得如何？（没有用过Kling3.0，MiniMax H3，不知道对比如何）",
+    "zh": "这是Omni生成的视频，TtoV，你觉得如何？（没有用过Kling3.0，MiniMax H3，不知道对比如何）"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic travel prompt with attached video evidence from @XiaoKooeye.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3视频提示词。"
+  },
+  "category": "cinematic-travel",
+  "mode": "text-to-video",
+  "duration": "10s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@XiaoKooeye",
+    "url": "https://x.com/XiaoKooeye/status/2085747183446630895"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/XiaoKooeye/status/2085747240300339568"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/omnittovkling3-0minimax-h3-630895/video-7a35d86967c0.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/omnittovkling3-0minimax-h3-630895/poster-7ebc221bed60.jpg",
+  "prompt": "A dreamy 10-second cinematic surreal video, 16:9 aspect ratio.\n\nA tiny graceful cloud humanoid figure with a soft fluffy body made entirely of translucent white mist and glowing vapor. Her silhouette constantly changes slightly like a living cloud, with soft edges and delicate atmospheric particles floating around.\n\nShe is sitting on a small swing made from two golden sunlight rays connected by thin cloud strands. The swing slowly floats above a vast ocean of clouds.\n\nShe gently reaches out and touches small floating cloud bubbles, shaping them into tiny animals and releasing them into the sky.\n\nEnvironment: endless bright blue sky, massive white clouds below, distant mountains above the cloud layer, sunlight breaking through atmospheric mist.\n\nLighting: golden sunrise, volumetric rays, soft glowing highlights.\n\nCamera: slow aerial orbital movement, cinematic drone macro perspective, shallow depth of field.\n\nStyle: photorealistic surreal fantasy, ultra detailed atmospheric effects, 4K.\n\nMood: peaceful, heavenly, dreamlike."
+}

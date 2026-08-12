@@ -1,0 +1,31 @@
+{
+  "slug": "minimax-h3-one-shotted-this-complete-scene-726491",
+  "title": {
+    "en": "Minimax H3 one-shotted this complete scene",
+    "zh": "Minimax H3 one-shotted this complete scene"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 action prompt with attached video evidence from @karankendre.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动作提示词。"
+  },
+  "category": "action",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@karankendre",
+    "url": "https://x.com/karankendre/status/2085952141395726491"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/karankendre/status/2085952141395726491"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-one-shotted-this-complete-scene-726491/video-893671c8cc5e.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-one-shotted-this-complete-scene-726491/poster-e357d0faddff.jpg",
+  "prompt": "\"The Office (US) mockumentary style. Dunder Mifflin bullpen, mid-afternoon, harsh fluorescent office lighting, beige cubicles, cluttered desks, printers humming in the background. Handheld documentary camera with subtle shake, imperfect framing, sudden snap zooms during reactions, quick reframes as if a real documentary crew is trying to keep up. Muted office color palette, soft consumer-camera look.\nMichael Scott proudly stands beside an empty desk with a laptop open. Dwight Schrute stands nearby, suspicious and visibly offended. Only Michael Scott and Dwight Schrute appear in the scene. The laptop represents an AI assistant named \"Claude\" but no third person appears.\nDIALOGUE (≈15 seconds):\nMICHAEL (excited):\n\"Dwight, I'd like you to meet our newest employee... Claude.\"\nDwight squints at the laptop.\nDWIGHT:\n\"That's a computer.\"\nSnap zoom to Michael.\nMICHAEL (grinning):\n\"It's AI. It works faster... and it doesn't ask for vacation.\"\nBeat.\nDWIGHT (confident):\n\"It also cannot harvest beets.\"\nMichael nods thoughtfully.\nMICHAEL:\n\"...Fair point.\"\nBeat.\nMichael suddenly smiles again.\nMICHAEL:\n\"But it can replace you.\"\nSnap zoom to Dwight.\nDWIGHT (dead serious):\n\"Then it's my enemy.\"\nDwight slowly closes the laptop lid as Michael stares into the documentary camera.\nSTYLE: Single-camera mockumentary, natural performances, dry deadpan humor, subtle handheld movement, documentary snap zooms, awkward pauses, realistic office ambience, no laugh track, with only Michael Scott and Dwight Schrute appearing in the scene.\""
+}

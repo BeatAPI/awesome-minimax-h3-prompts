@@ -32,7 +32,99 @@
 
 ---
 
-## 2. Stormy Claymation Whale Breach
+## 2. ピクサー風の広告などを作る時に活用できそうな感触です😃
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-917120-917120/video-fdbb726fc9e9.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-917120-917120/poster-de4b410d218b.jpg" alt="ピクサー風の広告などを作る時に活用できそうな感触です😃 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — integrated_multimodal_description: [Shot 1] 2D hand-drawn animation in a psychedelic Japanese illustration style: heavy colored-pencil and crayon grain visible on every surface,...</summary>
+
+~~~~text
+integrated_multimodal_description: [Shot 1] 2D hand-drawn animation in a psychedelic Japanese illustration style: heavy colored-pencil and crayon grain visible on every surface, thin uneven black ink outlines that wobble slightly, flat matte fills with no gradients, and a limited palette of cream off-white, muted rust-brown, deep forest green and pale peach. One single continuous unbroken take from start to finish, no cuts and no transitions. A frontal close-up at eye level frames a teenage girl drawn in this style: loose rust-brown wavy hair falling just past her shoulders, very large eyes whose irises are drawn as tight concentric pencil rings, a plain white round collar with a deep forest-green scarf knotted at her throat, cream-white skin with a faint peach shading on her cheeks. She is centered against a flat cream off-white background with no scenery, motionless and expressionless, looking straight into the lens without blinking. The camera pushes in with small amplitude at slow speed toward her face. The concentric rings inside her irises begin to rotate clockwise, slowly widening until each iris resolves into a spiral. At 00:04.000, still within the same continuous take, individual strands of her hair detach from her head and flow sideways like poured ink, stretching into long smooth curling ribbons that sweep across the frame while her face stays still. As the hair unspools, the cream background inverts to saturated fluorescent magenta and the black outlines invert to pale cyan, the colored-pencil grain remaining visible through the inverted colors. At 00:08.000, her facial contours dissolve: the hair ribbons, the green scarf and the peach cheek shading stretch and fold into one another until the entire frame is a slow marbled swirl of rust-brown, forest green and cream, still rendered with the same hand-drawn pencil texture. The swirl rotates clockwise at slow speed and fills the whole frame. At 00:12.000, the marbled swirl contracts inward toward the center, tightening steadily until it becomes a single small round black pupil ringed by a thin gold circle, resting on the flat cream off-white background that matches the opening frame so the video loops seamlessly. No human characters other than this single girl. No text, no captions, no subtitles, no lyrics, no logos and no watermark anywhere in the frame at any time.
+overall_soundscape: A dry pencil-on-paper scratching runs quietly underneath the whole shot. As the hair unspools, a soft paper rustle spreads outward and drifts across the stereo field. When the frame dissolves, a low liquid whoosh rises and slowly rotates from left to right. The shot ends with one short inward suction sound as everything contracts to a point.
+non_diegetic_music: A slow detuned analog synthesizer drone at roughly 70 BPM that bends gradually in pitch. A muted electric-piano figure repeats every two bars over a tape-delayed hi-hat keeping a half-time pulse. The drone swells across the final three seconds and cuts off abruptly on the last beat.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-917120-917120/video-fdbb726fc9e9.webm)
+
+**Source:** [@tanabe_fragm](https://x.com/tanabe_fragm/status/2085323195301917120) · 15s · 16:9 · animation
+
+---
+
+## 3. MiniMax H3
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-268047/video-e74ec7e0a953.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-268047/poster-b9c8c85ef38d.jpg" alt="MiniMax H3 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — [Core Creative Concept] 12 seconds, 16:9 landscape format, European church stained-glass animation style. Jesus blesses five loaves and two fish, and the food is distributed to...</summary>
+
+~~~~text
+[Core Creative Concept]
+
+12 seconds, 16:9 landscape format, European church stained-glass animation style. Jesus blesses five loaves and two fish, and the food is distributed to the waiting crowd. All figures and scenery are composed of stained-glass segments, black lead lines, and transmitted sunlight; the visual style is flat, symmetrical, bright, and solemn. No dialogue.
+
+Jesus has long dark brown hair and a short beard; he wears a white robe and a blue-and-red shawl, with a simple golden circular halo behind his head. His appearance remains consistent throughout the film.
+
+[Visual Sequence Description]
+
+0–3 seconds | Medium Shot:
+On a stained-glass hillside, Jesus sits in front of the crowd. A basket clearly holds five round loaves and two fish; the quantity of food must be accurate.
+
+3–6 seconds | Close-up on Hands:
+Standard cut. Jesus holds up the loaves with both hands and bows his head in blessing. Golden sunlight passes through the stained glass, creating soft light patterns around the loaves and fish.
+
+6–9 seconds | High-Angle Shot:
+The loaves and fish extend outward in stained-glass patterns, gradually filling multiple baskets. The increase in quantity is depicted through the replication and expansion of glass patterns; no explosions, magical particles, or realistic food morphing are used.
+
+9–12 seconds | Extreme Wide Shot:
+Baskets filled with food are passed among the crowd; people raise the food high, and the golden sunlight at the top of the frame brightens. The camera pulls back, and all elements resolve into the image of a complete church stained-glass window.
+
+Audio: Gentle wind, sounds of baskets moving, ambient crowd noise from a distance, pipe organ and choral harmonies; no lyrics, no dialogue.
+
+Avoid: Realistic live-action, generic 3D glass effects, flying food, chaotic crowds, modern objects, changes in Jesus's appearance, incorrect initial food count, garbled text, subtitles, logos, or shattering glass.
+
+Must Maintain: The texture of stained glass, black lead lines, and transmitted light; a clear depiction of five loaves and two fish at the start; multiple baskets filled with food at the end; an overall theme of sharing, care, and abundance.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-268047/video-e74ec7e0a953.webm)
+
+**Source:** [@xianshi666123](https://x.com/xianshi666123/status/2085308481981268047) · 15s · 489:272 · animation
+
+---
+
+## 4. via MLX Serve by
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/via-mlx-serve-by-561487/video-1ad83b3257d1.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/via-mlx-serve-by-561487/poster-0445b17ec191.jpg" alt="via MLX Serve by video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — &quot;A cute little girl walks through a sunny forest when a small, friendly dinosaur steps out, waves, and says hi. Suddenly, the dinosaur sneezes—and a shower of colorful butterflies...</summary>
+
+~~~~text
+"A cute little girl walks through a sunny forest when a small, friendly dinosaur steps out, waves, and says hi. Suddenly, the dinosaur sneezes—and a shower of colorful butterflies bursts from its nose. They both laugh. Cute, colorful animated style."
+
+- time: 15min ish
+- 768x768
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/via-mlx-serve-by-561487/video-1ad83b3257d1.webm)
+
+**Source:** [@albertgao](https://x.com/albertgao/status/2085137397134561487) · 5s · 1:1 · animation
+
+---
+
+## 5. Stormy Claymation Whale Breach
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/stormy-claymation-whale-breach-729607/video-4af6417896bd.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/stormy-claymation-whale-breach-729607/poster-37f44d14411d.jpg" alt="Stormy Claymation Whale Breach video preview" width="700" />

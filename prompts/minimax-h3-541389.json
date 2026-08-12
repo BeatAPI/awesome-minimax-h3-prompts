@@ -1,0 +1,31 @@
+{
+  "slug": "minimax-h3-541389",
+  "title": {
+    "en": "MiniMax H3在配音情绪上把握很好，点赞！",
+    "zh": "MiniMax H3在配音情绪上把握很好，点赞！"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @ou_zhen599.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "27s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ou_zhen599",
+    "url": "https://x.com/ou_zhen599/status/2086121943615541389"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/ou_zhen599/status/2086121943615541389"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-541389/video-ae9465a0035d.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-541389/poster-5b18881bd183.jpg",
+  "prompt": "15秒古装电影写实剧情，花海庭园氛围，镜头丝滑自然推进，情绪反转强烈，人物表演细腻真实，有明显的“悠闲惬意 -> 突闻噩耗 -> 身体先崩 -> 情绪失控前的不可置信”递进。女人一开始站在花丛中悠闲赏景，手中轻轻摇着团扇，神情放松，眼神柔和，肩膀、手腕和呼吸都是松弛的，衣袖、发饰和流苏在微风里轻轻晃动，整个人毫无防备。画外突然传来带着慌乱和哭腔的女声：“夫人！老爷被斩首了！”\n\n0-3秒：镜头穿过前景花丛丝滑推近到女人半身，女人悠闲地轻轻扇着团扇，神情安静惬意，嘴角甚至有一丝若有若无的闲适笑意，正在轻松看风景。\n\n3-6秒：画外音猛地刺入：“夫人！老爷被斩首了！”女人的扇风动作瞬间断掉，手腕僵在半空，眼神猛地定住，呼吸像被一下掐断，头极轻地偏过去一点，像不敢相信自己听到了什么，脸上的放松感瞬间消失。\n\n6-10秒：她猛地往后退一步，肩膀本能一缩，后背绷紧，脚下发软，差点站不稳跌倒，另一只手下意识抬起想抓住什么稳住自己却落空。与此同时，拿扇子的手因惊吓脱力，团扇从指间滑落，掉进脚边花丛里。她眼睛失神般睁大，嘴唇微张，想说话却几乎发不出声，只能失神低语：“你……说什么？”\n\n10-15秒：镜头迅速压近到脸和上半身。她勉强站住，但整个人像魂被抽空，胸口呼吸乱掉，眼眶迅速泛红，泪意猛地涌上来。她不是立刻大哭，而是先陷入更狠的不可置信崩塌状态，表情从空白到震惊再到痛得不敢承认，嘴唇发抖，眼神溃散，像下一秒就要彻底撑不住。\n\n音效与配乐：前半段是柔和古风环境音与轻微风声、衣袖与花叶摩擦声；噩耗传来的一瞬间配乐骤停半拍，再压入低沉悲音和压迫弦乐；团扇掉进花丛要有清晰轻响；整体情绪要像中国古装电影中的突变悲剧时刻。\n\n负面限制：不要夸张嚎哭，不要立刻瘫倒，不要卡通化表演，不要慢动作，不要过多甩头动作，不要让团扇乱飞太远，不要字幕。"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "minimax-3-prompt-create-a-premium-16-9-landscape-fashion-108362",
+  "title": {
+    "en": "Minimax 3 Prompt: Create a premium 16:9 landscape fashion film. Use Image 1 for",
+    "zh": "Minimax 3 Prompt: Create a premium 16:9 landscape fashion film. Use Image 1 for"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 fashion prompt with attached video evidence from @influencer_seo.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3时尚提示词。"
+  },
+  "category": "fashion",
+  "mode": "reference-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@influencer_seo",
+    "url": "https://x.com/influencer_seo/status/2084355335222108362"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/influencer_seo/status/2084355335222108362"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-3-prompt-create-a-premium-16-9-landscape-fashion-108362/video-1ab7df834413.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-3-prompt-create-a-premium-16-9-landscape-fashion-108362/poster-7377fe4eb43b.jpg",
+  "prompt": "Minimax 3 Prompt: Create a premium 16:9 landscape fashion film. Use Image 1 for the overall mood, location, and film texture; Image 2 for the talent; Image 3 for the bag; and Image 4 for the closing brand mark. This is a fashion campaign for the clothing and bag. The tone is elevated, cool, and restrained, but the edit should still feel lively and fashion-forward—not like a conventional narrative film or an e-commerce ad.\n\nKeep the story simple: beside a vintage car on a desert highway, a woman walks to the rear of the car, opens the trunk, takes out a black bag, shares a quiet beat with the man standing nearby, then leaves carrying the bag. Integrate the clothing and bag naturally into the performance so they feel like part of the characters’ identity.\n\nI added the final video in and the reference images for you to learn from!"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "video-prompt-case-710776-710776",
+  "title": {
+    "en": "お題「宮島を散歩する猫」使ったプロンプトはリプのやつ。",
+    "zh": "お題「宮島を散歩する猫」使ったプロンプトはリプのやつ。"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 action prompt with attached video evidence from @sanasana0707.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动作提示词。"
+  },
+  "category": "action",
+  "mode": "text-to-video",
+  "duration": "8s",
+  "aspectRatio": "33:19",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@sanasana0707",
+    "url": "https://x.com/sanasana0707/status/2086839288025710776"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/sanasana0707/status/2086839289875398717"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-710776-710776/video-cf49f7822360.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-710776-710776/poster-fe9266b9c0e4.jpg",
+  "prompt": "No live-action photo style, no 3D CGI rendering, no text, no subtitles, no logos, no watermarks, no distorted anatomy, no abrupt jittery motion."
+}

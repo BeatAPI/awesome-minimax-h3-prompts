@@ -1,0 +1,31 @@
+{
+  "slug": "7-second-video-the-office-us-mockumentary-style-inside-the-709123",
+  "title": {
+    "en": "7-second video. The Office (US) mockumentary style, inside the Dunder Mifflin",
+    "zh": "7-second video. The Office (US) mockumentary style, inside the Dunder Mifflin"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @uniqornate.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+  },
+  "category": "music-video",
+  "mode": "text-to-video",
+  "duration": "7s",
+  "aspectRatio": "43:24",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@uniqornate",
+    "url": "https://x.com/uniqornate/status/2085097057073709123"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/uniqornate/status/2085097057073709123"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/7-second-video-the-office-us-mockumentary-style-inside-the-709123/video-9569d415640f.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/7-second-video-the-office-us-mockumentary-style-inside-the-709123/poster-5b88ac86aefe.jpg",
+  "prompt": "7-second video. The Office (US) mockumentary style, inside the Dunder Mifflin conference room in Scranton. Harsh fluorescent office lighting, beige walls, cheap chairs, whiteboard, muted colors, slightly soft consumer-documentary camera quality. Michael Scott stands at the head of the table while Jim, Pam, Dwight, and Stanley sit around him. Handheld single-camera cinematography with subtle shake, sudden reframing, and fast reaction zooms.\n\nMichael raises one hand with complete sincerity, defending an absurd opinion.\n\nMICHAEL: “Everybody says Donald Trump’s fart smelled terrible. I was there. Honestly? Not that bad.”\n\nInstant snap zoom to Dwight, who nods gravely.\n\nDWIGHT: “Strong. Presidential.”\n\nJim slowly turns toward the documentary camera with a silent, deeply uncomfortable stare. Pam presses her lips together, trying not to laugh. Stanley keeps reading his crossword without looking up.\n\nNatural English dialogue, precise lip synchronization, realistic overlapping office ambience, awkward silence after the punchline, no laugh track, no subtitles, no on-screen text, dry deadpan comedy, authentic mockumentary performances."
+}

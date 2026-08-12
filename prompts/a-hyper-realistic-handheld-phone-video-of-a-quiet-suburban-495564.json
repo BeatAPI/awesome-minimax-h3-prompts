@@ -1,0 +1,31 @@
+{
+  "slug": "a-hyper-realistic-handheld-phone-video-of-a-quiet-suburban-495564",
+  "title": {
+    "en": "\"A hyper-realistic handheld phone video of a quiet suburban backyard on a bright",
+    "zh": "\"A hyper-realistic handheld phone video of a quiet suburban backyard on a bright"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @cocktailpeanut.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+  },
+  "category": "music-video",
+  "mode": "text-to-video",
+  "duration": "14s",
+  "aspectRatio": "26:15",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@cocktailpeanut",
+    "url": "https://x.com/cocktailpeanut/status/2086879654116495564"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/cocktailpeanut/status/2086879654116495564"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/a-hyper-realistic-handheld-phone-video-of-a-quiet-suburban-495564/video-ed6186000378.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/a-hyper-realistic-handheld-phone-video-of-a-quiet-suburban-495564/poster-3f2373d244e6.jpg",
+  "prompt": "\"A hyper-realistic handheld phone video of a quiet suburban backyard on a bright normal afternoon. A person casually waters plants near a fence while birds chirp, distant traffic hums, and everything feels completely ordinary and mundane. The camera drifts naturally like a real home video, capturing the lawn, patio furniture, and blue sky with soft white clouds. After several seconds of normal peaceful activity, a deep cracking sound suddenly comes from above. Without warning, the entire sky begins dropping straight downward like a gigantic solid ceiling, with the blue sky and clouds moving as one physical surface descending toward the yard. The person looks up in shock just as the sky rapidly fills the frame, swallowing the scene in a terrifying instant. The camera jerks and falls to the ground at the last moment. No cinematic buildup, no surreal visual style, it should feel like a totally normal real-life recording interrupted by one sudden impossible and visceral event.\""
+}

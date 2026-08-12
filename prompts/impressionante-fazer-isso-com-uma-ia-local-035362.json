@@ -1,0 +1,31 @@
+{
+  "slug": "impressionante-fazer-isso-com-uma-ia-local-035362",
+  "title": {
+    "en": "Impressionante fazer isso com uma IA local.",
+    "zh": "Impressionante fazer isso com uma IA local."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @Cardoso.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+  },
+  "category": "music-video",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "7:4",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Cardoso",
+    "url": "https://x.com/Cardoso/status/2086063980234035362"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Cardoso/status/2086063980234035362"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/impressionante-fazer-isso-com-uma-ia-local-035362/video-10625d317dea.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/impressionante-fazer-isso-com-uma-ia-local-035362/poster-22117ffd06a7.jpg",
+  "prompt": "Style: Adult animated television comedy in the distinctive flat-vector / limited-animation style of a suave-spy cartoon. Bold inked outlines, flat cel-shaded colors, slightly stiff comedic timing, hard graphic shadows, subtle film-grain texture. 2K, cinematic but comedic.\n\nSetting: A bright sunny beach. Clear blue sky, soft sand, ocean waves in the background.\n\nCharacters:\nSterling Archer: a handsome secret agent with jet-black slicked-back hair, wearing a tight dark swimsuit. Self-satisfied, manic energy, perpetually smug.\nLana Kane: a tall, striking brown-skinned female agent, wearing a stylish bikini. Exasperated, eyes-wide \"are-you-kidding-me\" energy.\n\nShot 1 (0:00–0:03): Medium shot of Archer and Lana standing on the beach. Archer cups his hands around his mouth and calls out: <d>[English] Lana? Lana? LANA!!!!</d>\n\nShot 2 (0:03–0:05): Cut to Lana turning sharply toward him, annoyed: <d>[English] What?!</d>\n\nShot 3 (0:05–0:07): Archer leans in with a smug grin: <d>[English] With MiniMax any internet pervert can draw us!</d>\n\nShot 4 (0:07–0:08): Lana frowns, confused: <d>[English] What do you mean?</d>\n\nShot 5 (0:08–0:09): Archer points at her with a knowing look: <d>[English] They can even change your clothes!</d>\n\nShot 6 (0:09–0:10): Quick flash. Lana’s bikini instantly becomes a modern one-piece swimsuit. She looks down in surprise.\n\nShot 7 (0:10–0:11): Another quick flash. The swimsuit changes into a 1920s-style bathing suit. Lana’s eyes widen further.\n\nShot 8 (0:11–0:13): Final flash. The bathing suit disappears completely. Lana is suddenly naked and quickly covers herself with both hands, shocked and angry: <d>[English] Archer, stop that!</d>\n\nShot 9 (0:13–0:15): Archer raises both hands defensively, looking genuine: <d>[English] That’s not me!</d>\n\noverall_soundscape: Soft ocean waves and light beach ambience. Clear comedic dialogue with sharp cuts between the clothing changes.\n\nnon_diegetic_music: None. Dry, absurd, self-aware comedic timing."
+}

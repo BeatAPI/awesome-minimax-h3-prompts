@@ -1,0 +1,31 @@
+{
+  "slug": "video-seedance-2-5-and-minimax-h3-on-161893",
+  "title": {
+    "en": "Video: Seedance 2.5 and Minimax H3 on",
+    "zh": "Video: Seedance 2.5 and Minimax H3 on"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @FikkkFX.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+  },
+  "category": "music-video",
+  "mode": "text-to-video",
+  "duration": "5s",
+  "aspectRatio": "8:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@FikkkFX",
+    "url": "https://x.com/FikkkFX/status/2085973171581161893"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/FikkkFX/status/2085973176069267487"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/video-seedance-2-5-and-minimax-h3-on-161893/video-584b838bee7b.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/video-seedance-2-5-and-minimax-h3-on-161893/poster-9ea6c927bb53.jpg",
+  "prompt": "[PROSE & IN-LINE SPATIAL & GLOBAL LOCK]: At 0.0s, heavy weathered leather boots wrapped in thick wet mud violently stomp down onto a murky black water puddle, instantly snapping a thick wooden branch underneath with crushing weight. Strict environment geometry: ground covered in wet black mud, scattered dead leaves, and thick atmospheric fog. At 2.5s, [SMASH CUT TO: EXTREME CLOSE-UP] Elias's face snaps sharply toward SCREEN-LEFT in a sudden panic, his jaw clenched tight and his pupils contracting, freezing in terror as he stares at an off-screen threat. Strict character state: rugged 30-year-old man, face heavily splattered with dark wet mud and cold sweat micro-drops, wearing a thick moss-green canvas hunting jacket. Strict universal numerical quota lock: exactly one pair of boots, exactly one man, zero duplicate entities, zero melting geometry.\n[ACTING & LIGHTING SCIENCE]: Zero cartoon facial blushing, zero screaming, pure grounded realistic micro-expressions, eyes locked strictly off-camera to SCREEN-LEFT. Gloomy overcast daylight filtering through thick fog. Strict Triadic Color Law: Moss Green (#284D34), Pale cold skin tone (#D4D0C5), Deep shadow negative space (#121A15).\n[CAMERA SCIENCE & KINETIC PHYSICS]: [0.0s-2.5s] Cinematic extreme low-angle macro shot on the boots, organic micro-jitter human-held camera physics capturing the downward kinetic force. [2.5s-5.0s] Pure static locked-off camera physics emphasizing the sudden tense stillness on the face. Fast f/1.2 Leica anamorphic optics, heavy depth-of-field isolation melting the dead pine forest background into a creamy defocused blur."
+}

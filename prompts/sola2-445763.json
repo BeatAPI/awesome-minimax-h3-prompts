@@ -1,0 +1,31 @@
+{
+  "slug": "sola2-445763",
+  "title": {
+    "en": "すこし演技ができるもののSola2みたいに感情を出すのは無理のようです🤔",
+    "zh": "すこし演技ができるもののSola2みたいに感情を出すのは無理のようです🤔"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @MireilleDartois.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "8s",
+  "aspectRatio": "9:5",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@MireilleDartois",
+    "url": "https://x.com/MireilleDartois/status/2085168181648445763"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/MireilleDartois/status/2085168181648445763"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/sola2-445763/video-371b46d15c8e.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/sola2-445763/poster-75968517178b.jpg",
+  "prompt": "A scene showing a male student wearing a green tracksuit and a female student in a sailor uniform running together on the school path along s small river.\nA shot of the two people viewed from directly the side. They are running from the right side of the frame toward the left. The frame captures their upper bodies.\nSeveral classmates on the way, walking to school.\nRefer to <Picture 1> for the characters.\nVoice 1(male):またワイら遅刻ちゃうか\nVoice 2(female):あと30秒！あたしらの勝ちやな！"
+}

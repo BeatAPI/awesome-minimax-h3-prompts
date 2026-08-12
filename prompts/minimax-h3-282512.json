@@ -1,0 +1,31 @@
+{
+  "slug": "minimax-h3-282512",
+  "title": {
+    "en": "MiniMax H3",
+    "zh": "MiniMax H3"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @TheAwakenOne619.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+  },
+  "category": "music-video",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "9:5",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@TheAwakenOne619",
+    "url": "https://x.com/TheAwakenOne619/status/2085602322177282512"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/TheAwakenOne619/status/2085602322177282512"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-282512/video-f22944aa48a4.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-282512/poster-b3406822b7ee.jpg",
+  "prompt": "Cinematic comedy sequence, 15 seconds. [SCENE 1: 0-4s] Extreme close-up: A morbidly obese, orange tabby cat is fast asleep on a tiny, expensive velvet pillow in a pristine living room. The cat’s stomach rumbles ominously, emitting a deep, bass-heavy vibration that violently shakes the coffee table. [CUT TO] [SCENE 2: 4-7s] Low angle macro shot: The cat lifts one hind leg slightly. A tiny, glowing neon-green puff of gas escapes in ultra slow-motion, accompanied by a rippling shockwave that visually warps the air around it. [CUT TO] [SCENE 3: 7-11s] Wide tracking shot: The shockwave expands violently, blowing the living room furniture, the TV, and the doors out of the house in a fiery blast of glowing green energy and flying cat hair. [CUT TO] [SCENE 4: 11-15s] Orbiting space shot: Looking down at Earth from orbit. A colossal, glowing green mushroom cloud erupts from the continent, rapidly expanding into the exact shape of a giant, glowing cat paw. Epic cinematic lighting, hyper-realistic, deep shadows."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "minimax-h3-268047",
+  "title": {
+    "en": "MiniMax H3",
+    "zh": "MiniMax H3"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 animation prompt with attached video evidence from @xianshi666123.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动画提示词。"
+  },
+  "category": "animation",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "489:272",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@xianshi666123",
+    "url": "https://x.com/xianshi666123/status/2085308481981268047"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/xianshi666123/status/2085308481981268047"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-268047/video-e74ec7e0a953.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-268047/poster-b9c8c85ef38d.jpg",
+  "prompt": "[Core Creative Concept]\n\n12 seconds, 16:9 landscape format, European church stained-glass animation style. Jesus blesses five loaves and two fish, and the food is distributed to the waiting crowd. All figures and scenery are composed of stained-glass segments, black lead lines, and transmitted sunlight; the visual style is flat, symmetrical, bright, and solemn. No dialogue.\n\nJesus has long dark brown hair and a short beard; he wears a white robe and a blue-and-red shawl, with a simple golden circular halo behind his head. His appearance remains consistent throughout the film.\n\n[Visual Sequence Description]\n\n0–3 seconds | Medium Shot:\nOn a stained-glass hillside, Jesus sits in front of the crowd. A basket clearly holds five round loaves and two fish; the quantity of food must be accurate.\n\n3–6 seconds | Close-up on Hands:\nStandard cut. Jesus holds up the loaves with both hands and bows his head in blessing. Golden sunlight passes through the stained glass, creating soft light patterns around the loaves and fish.\n\n6–9 seconds | High-Angle Shot:\nThe loaves and fish extend outward in stained-glass patterns, gradually filling multiple baskets. The increase in quantity is depicted through the replication and expansion of glass patterns; no explosions, magical particles, or realistic food morphing are used.\n\n9–12 seconds | Extreme Wide Shot:\nBaskets filled with food are passed among the crowd; people raise the food high, and the golden sunlight at the top of the frame brightens. The camera pulls back, and all elements resolve into the image of a complete church stained-glass window.\n\nAudio: Gentle wind, sounds of baskets moving, ambient crowd noise from a distance, pipe organ and choral harmonies; no lyrics, no dialogue.\n\nAvoid: Realistic live-action, generic 3D glass effects, flying food, chaotic crowds, modern objects, changes in Jesus's appearance, incorrect initial food count, garbled text, subtitles, logos, or shattering glass.\n\nMust Maintain: The texture of stained glass, black lead lines, and transmitted light; a clear depiction of five loaves and two fish at the start; multiple baskets filled with food at the end; an overall theme of sharing, care, and abundance."
+}

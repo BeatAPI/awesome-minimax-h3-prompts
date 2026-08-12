@@ -1,6 +1,6 @@
 # MiniMax H3 Vlog & Social prompts
 
-[Back to all 200 prompts](../../README.md)
+[Back to all 300 prompts](../../README.md)
 
 ## 1. 1980s open-source family comedy
 
@@ -62,7 +62,80 @@ No CGI, no digital-looking robots, no morphing, no extra people, no duplicated c
 
 ---
 
-## 3. Need a fairy godmother like this? 🧚‍♀
+## 3. Created with MiniMax H3
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-059973/video-3896db6ced5e.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-059973/poster-7280e63a51f7.jpg" alt="Created with MiniMax H3 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a 15-second ultra-realistic cinematic lifestyle vlog video, vertical 9:16, featuring the same young woman throughout the entire video. Preserve her facial identity, facial...</summary>
+
+~~~~text
+Create a 15-second ultra-realistic cinematic lifestyle vlog video, vertical 9:16, featuring the same young woman throughout the entire video. Preserve her facial identity, facial proportions, hairstyle, skin tone and overall appearance consistently in every shot. She wears the same outfit throughout: fitted white V-neck T-shirt with a small subtle logo, blue denim jeans, natural makeup, long softly wavy brown hair.
+
+0:00–0:01 — Wake-up:
+Close-up inside a beautiful bright bedroom. The woman is lying comfortably on the bed, slowly wakes up, stretches naturally and opens her eyes. She is NOT filming a vlog yet and does not hold a phone or camera. Soft morning sunlight enters through the curtains.
+
+0:01–0:02 — Gets up:
+Medium shot. She sits up on the bed, smiles softly, fixes her hair and gets ready to start her morning. Natural, effortless movement.
+
+0:02–0:03 — Walks to window:
+She walks toward the large glass balcony door/window. Camera follows her naturally from behind/side.
+
+0:03–0:04 — Seaside reveal:
+She opens the curtains/door and looks outside. Reveal a breathtaking blue ocean, coastal hills, flowers, balcony and beautiful morning sunlight. She smiles happily while taking in the view.
+
+0:04–0:05 — Steps outside:
+She walks out onto the seaside terrace. Gentle ocean breeze moves her hair naturally. Wide cinematic shot showing the beautiful surroundings.
+
+0:05–0:06 — VLOG START:
+Only now she starts filming herself in handheld selfie-vlog style. She looks into the camera with a bright natural smile and says:
+“Good morning!”
+
+0:06–0:07 — Show the view:
+She turns the camera away from herself and slowly pans across the stunning ocean, coastal mountains, flowers and terrace. Smooth handheld vlog movement.
+
+0:07–0:08 — Back to selfie:
+Selfie shot. She looks into the camera and happily says:
+“This place is just perfect!”
+
+0:08–0:09 — Location reveal:
+Wide cinematic shot of the cozy seaside terrace with wooden table, chairs, plants and flowers overlooking the ocean.
+
+0:09–0:10 — Walk to table:
+Medium tracking shot as she walks toward the table, enjoying the view. Her hair and T-shirt move gently in the sea breeze.
+
+0:10–0:11 — Sit and relax:
+She sits at the seaside table, smiling peacefully and enjoying the ocean view. A refreshing orange-colored juice is placed on the table.
+
+0:11–0:12 — Juice close-up:
+Cinematic close-up of her hand picking up the glass of fresh orange juice. Beautiful ocean bokeh in the background, natural sunlight reflecting through the glass.
+
+0:12–0:13 — Vlog toast:
+Selfie shot. She raises the juice toward the camera with a cheerful smile and says:
+“Cheers to good days!”
+
+0:13–0:14 — Happy close-up:
+Beautiful close-up of her smiling naturally at the camera, ocean and warm sunlight softly blurred behind her.
+
+0:14–0:15 — Ending:
+Camera moves from her toward the sparkling ocean and peaceful coastal landscape. Warm sunlight, gentle waves and a relaxing cinematic ending.
+
+Overall Style
+
+Ultra-realistic, cinematic travel vlog, natural handheld camera movement, realistic human motion, smooth transitions, soft morning sunlight, realistic ocean waves, gentle wind in hair and clothes, beautiful coastal atmosphere, premium lifestyle aesthetic, natural expressions, authentic vlog feeling, shallow depth of field, cinematic composition, realistic skin texture, high detail, 4K quality.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-059973/video-3896db6ced5e.webm)
+
+**Source:** [@ayzalnooor24521](https://x.com/ayzalnooor24521/status/2086671141998059973) · 15s · 68:45 · vlog
+
+---
+
+## 4. Need a fairy godmother like this? 🧚‍♀
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/need-a-fairy-godmother-like-this-895004/video-09bfa49556ff.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/need-a-fairy-godmother-like-this-895004/poster-4d537b92108c.jpg" alt="Need a fairy godmother like this? 🧚‍♀ video preview" width="700" />
@@ -87,7 +160,77 @@ No CGI, no digital-looking robots, no morphing, no extra people, no duplicated c
 
 ---
 
-## 4. Porto Francesinha Comedy Recipe
+## 5. Created with MiniMax H3
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-915217/video-696701f03b89.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-915217/poster-bde0396afc1c.jpg" alt="Created with MiniMax H3 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — A cinematic 15-second ultra-realistic travel vlog following a young female creator exploring Bangkok's vibrant street food scene. She walks through a lively daytime market,...</summary>
+
+~~~~text
+A cinematic 15-second ultra-realistic travel vlog following a young female creator exploring Bangkok's vibrant street food scene. She walks through a lively daytime market, introduces the legendary Pad Thai, watches a skilled street chef prepare the dish with fresh ingredients, and captures detailed close-ups of sizzling noodles, colorful toppings, and authentic cooking moments. She tastes the freshly made Pad Thai and shares her genuine reaction while surrounded by the energy of local vendors and travelers. Handheld vlog realism, natural lip-sync, expressive emotions, cinematic food close-ups, realistic market atmosphere, bright tropical daylight, ARRI Alexa 35 aesthetic, HDR, immersive street sounds, premium travel documentary style, 4K photorealistic quality, seamless character consistency, no text, no logos.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-915217/video-696701f03b89.webm)
+
+**Source:** [@nawalsehar](https://x.com/nawalsehar/status/2085233880353915217) · 15s · 16:9 · vlog
+
+---
+
+## 6. 效果顶尖+全能参考+超高性价比，2K 低至 ¥0.53/秒。
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/2k-0-53-484730/video-228f4863d525.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/2k-0-53-484730/poster-8ab57b1dbab4.jpg" alt="效果顶尖+全能参考+超高性价比，2K 低至 ¥0.53/秒。 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — 生成一段 15 秒、写实电影质感的动作 Vlog 视频。主角是一位 24 岁左右的中国女孩 图片1 ，黑色自然长发，清晰可辨的东方面容，五官真实自然，穿着浅色针织上衣和深色半裙。地点是现代中国一线城市清晨街道 图片3 ，小区门口外有包子铺、便利店、公交站牌、共享单车、梧桐树、人行道、中文店招和来往行人。视频开头像手机自拍...</summary>
+
+~~~~text
+生成一段 15 秒、写实电影质感的动作 Vlog 视频。主角是一位 24 岁左右的中国女孩
+
+图片1 ，黑色自然长发，清晰可辨的东方面容，五官真实自然，穿着浅色针织上衣和深色半裙。地点是现代中国一线城市清晨街道
+
+图片3 ，小区门口外有包子铺、便利店、公交站牌、共享单车、梧桐树、人行道、中文店招和来往行人。视频开头像手机自拍 Vlog，手持镜头轻微晃动，真实生活感。
+
+0–2 秒：现实女孩图片1 从中国城市小区门口走出来，举着手机自拍，微笑看向镜头。背景是清晨街道、包子铺、便利店、公交站牌和中文店招。镜头是手机前置自拍视角，轻微手持晃动，环境声有早高峰人声、车辆声、早餐店蒸汽声。
+
+2–4 秒：她身后街口突然传来沉重撞击声，一只高大的黑色怪兽从公交站旁冲出，撞翻共享单车，路人惊慌逃散。女孩猛地回头，笑容消失，眼神变冷。镜头快速转向她身后，怪兽清晰出现在画面中央，身形巨大，皮肤粗糙，低吼，脚步震动地面。
+
+4–7 秒：女孩站定，镜头切到中近景，重点拍她完整变身
+图片4 。她抬手挡在身前，金色和青色神力从手腕、肩膀、发梢涌出，普通针织上衣被光纹覆盖，逐层变化成中国神话女神战甲
+图片2 。战甲有青铜金属纹理、云纹、羽状肩甲和发光腰带，长发被气流扬起，额间浮现金色神印。必须看清从现实女孩变成神话女神的过程，不要一闪而过。她低声说一句中文：“别再往前了。”
+
+7–9 秒：怪兽扑向她。镜头切到低角度广角，女神向前冲刺，脚下地面裂出金色光纹。她侧身躲开怪兽爪击，右手凝聚青金色长刃，反手斩中怪兽手臂，火花和黑色鳞片飞溅。动作要清楚，人物和怪兽都在画面中央，不要只拍光效。
+
+9–11 秒：连续近身打斗。镜头跟随女神绕到怪兽侧面，她跃起踢中怪兽胸口，怪兽后退撞到公交站牌。女神落地后双手结印，身后短暂浮现中国神话女神虚影，云纹神环展开。怪兽再次扑来，她用神力护盾正面挡住冲撞，冲击波吹动路边树叶和中文店招。
+
+11–13 秒：女神抓住怪兽破绽，向前一步，掌心爆发青金色能量，将怪兽击退到街道中央。怪兽倒地低吼，烟尘散开，路人远远停下脚步。镜头轻微晃动，像手机真实拍到这一幕。女神站在街道中央，战甲发光，背后是现代中国城市街景。
+
+13–15 秒：重点保留 2 秒现实女孩状态。女神身上的青金色神光慢慢收回，战甲一层层消散，重新变回最开始那个现实中国女孩图片1 ，浅色针织上衣和深色半裙恢复原样，额间神印消失，长发自然落下。她站在街边，轻轻喘气，看了一眼倒地的怪兽，又转头看向手机镜头，露出一点尴尬又淡定的表情，像什么都没发生一样，小声说一句中文：“上班要迟到了。” 最后画面停留在现实女孩的脸和普通穿搭上，至少保留 2 秒。
+
+全程保持同一个中国女孩的脸，不要变成欧美面孔，不要变成二次元，不要卡通风。最后必须从神话女神明确变回现实女孩，并且现实女孩状态保留完整 2 秒。
+
+打斗部分集中在 7–13 秒，必须有闪避、斩击、踢击、格挡、反击和击退怪兽，不要只用发光和烟雾代替打斗。
+
+全程无字幕、无背景音乐，仅保留城市环境声、怪兽低吼、能量音效、打斗撞击声和人物中文对白。
+
+画面保持写实电影质感，中国城市环境真实，有中文招牌和中国街景细节。
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/2k-0-53-484730/video-228f4863d525.webm)
+
+**Source:** [@joshesye](https://x.com/joshesye/status/2084852295607484730) · 14s · 4:5 · vlog
+
+---
+
+## 7. Porto Francesinha Comedy Recipe
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/porto-francesinha-comedy-recipe-282615/video-a05a82a8aebb.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/porto-francesinha-comedy-recipe-282615/poster-53406ba6182d.jpg" alt="Porto Francesinha Comedy Recipe video preview" width="700" />
@@ -112,7 +255,7 @@ Scene: In Porto, Portugal a crazy chef explains how to do a Francesinha in Portu
 
 ---
 
-## 5. Post-workout gym vlog
+## 8. Post-workout gym vlog
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/post-workout-gym-vlog/video-d10c5d55f742.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/post-workout-gym-vlog/poster-d214dd09f572.jpg" alt="Post-workout gym vlog video preview" width="700" />
@@ -144,7 +287,7 @@ Selfie: grabs bag and shake, waves. "Alright, I'm heading out—see you guys."
 
 ---
 
-## 6. Handcrafted paper-cut stop-motion short
+## 9. Handcrafted paper-cut stop-motion short
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/handcrafted-paper-cut-stop-motion-short-512241/video-a26c7d456dc4.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/handcrafted-paper-cut-stop-motion-short-512241/poster-8062cc672db4.jpg" alt="Handcrafted paper-cut stop-motion short video preview" width="700" />
@@ -190,7 +333,7 @@ Premium handcrafted stop motion, museum-quality paper art, tactile cardstock tex
 
 ---
 
-## 7. The World's Unluckiest Superhero
+## 10. The World's Unluckiest Superhero
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/documentary-about-a-superhero-who-has-extremely-bad-luc-615837/video-83cdec5c4d1b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/documentary-about-a-superhero-who-has-extremely-bad-luc-615837/poster-6a0287c8cf24.jpg" alt="The World's Unluckiest Superhero video preview" width="700" />
@@ -211,7 +354,7 @@ A documentary about a superhero who has extremely bad luck and ends up saving pe
 
 ---
 
-## 8. Pizza night UGC Domino’s vlog
+## 11. Pizza night UGC Domino’s vlog
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/pizza-night-ugc-domino-s-vlog-197798/video-a0d77ef8aa24.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/pizza-night-ugc-domino-s-vlog-197798/poster-8658d09b5618.jpg" alt="Pizza night UGC Domino’s vlog video preview" width="700" />
@@ -275,7 +418,7 @@ cinematic grade, overly smooth camera moves, studio lighting, professional voice
 
 ---
 
-## 9. Condor Heroes characters teach English word dream
+## 12. Condor Heroes characters teach English word dream
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/condor-heroes-characters-teach-english-word-dream-815758/video-03be0f08dc7a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/condor-heroes-characters-teach-english-word-dream-815758/poster-00caa9c91219.jpg" alt="Condor Heroes characters teach English word dream video preview" width="700" />

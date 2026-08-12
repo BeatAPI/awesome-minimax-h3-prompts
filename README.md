@@ -16,7 +16,7 @@ by [BeatAPI](https://beatapi.io).
 
 **Browse by use case:** [Stories & Films](./prompts/use-cases/stories-films.md) · [Action & Fantasy](./prompts/use-cases/action-fantasy.md) · [Ads & Products](./prompts/use-cases/ads-products.md) · [Music & Performance](./prompts/use-cases/music-performance.md) · [Vlog & Social](./prompts/use-cases/vlog-social.md)
 
-**[Browse all 200 prompts](./prompts/README.md)**
+**[Browse all 300 prompts](./prompts/README.md)**
 
 ### 1. Modern warfare FPS gameplay
 
@@ -323,7 +323,6567 @@ image1の細く淡い青灰色と暖灰色の線、透明感のある二層以�
 
 ---
 
-### 7. Cinematic Travel Study 474111
+### 7. I made a comedy special with Hailuo H3 and the timing is spot on
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/i-made-a-comedy-special-with-hailuo-h3-and-the-076759/video-cad41e26b34c.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/i-made-a-comedy-special-with-hailuo-h3-and-the-076759/poster-abdb310fd381.jpg" alt="I made a comedy special with Hailuo H3 and the timing is spot on video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Style: Live stand-up comedy special, intimate comedy club, professional multi-camera production, warm stage lighting, packed audience around small tables, sharp HD broadcast look,...</summary>
+
+~~~~text
+Style: Live stand-up comedy special, intimate comedy club, professional multi-camera production, warm stage lighting, packed audience around small tables, sharp HD broadcast look, natural facial expressions, authentic comedic timing, clean microphone audio, realistic audience reactions, subtle handheld audience camera, 15-second video, 5 cinematic cuts
+
+0–3s: [Wide Establishing → Medium Push-In]
+A comedian stands center stage holding a microphone as the audience settles. The comedian smiles and says:
+
+Comedian: “I asked AI to organize my life yesterday”
+
+Brief beat
+
+3–6s: [Medium Close-Up]
+The comedian maintains a completely serious expression
+
+Comedian: “It looked at my schedule and said, ‘Actually... I’m just a language model.’”
+
+Audience immediately laughs
+
+6–9s: [Side Angle + Audience Reaction]
+The comedian waits for the laughter, then slowly nods
+
+Comedian: “Even artificial intelligence has boundaries”
+
+Quick cut to the front row laughing and clapping
+
+9–12s: [Tight Close-Up]
+The comedian leans toward the microphone
+
+Comedian: “My mom thinks AI is listening to everything we say”
+
+Beat
+
+Comedian: “Mom... nobody wants that podcast”
+
+Audience erupts into louder laughter
+
+12–15s: [Medium → Wide Ending]
+The comedian waits for silence, then delivers the final line:
+
+Comedian: “AI isn't replacing us. It saw our search history and declined the position”
+
+Big audience laugh. The comedian smiles and lowers the microphone as the camera pulls out to reveal the applauding club
+
+Production details: Keep the same comedian, outfit, microphone, stage and audience throughout. Prioritize precise comedic timing, short pauses before punchlines, believable facial expressions and natural audience reactions. Never cut during a punchline. Audience laughter starts only after the punchline lands. No canned laughter, no overlapping dialogue, coherent eyelines, realistic club acoustics, professional live comedy special editing
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/i-made-a-comedy-special-with-hailuo-h3-and-the-076759/video-cad41e26b34c.webm)
+
+**Source:** [@azed_ai](https://x.com/azed_ai/status/2087208466264076759) · 15s · 16:9 · product commercial
+
+---
+
+### 8. Created with Minimax H3 in
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-in-453795/video-cf2ea34358cc.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-in-453795/poster-7f7e45997bf1.jpg" alt="Created with Minimax H3 in video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Animate the uploaded CHUNG LEE movie poster as a 10-second cinematic martial-arts motion poster while preserving the original artwork, characters, typography, composition and...</summary>
+
+~~~~text
+Animate the uploaded CHUNG LEE movie poster as a 10-second cinematic martial-arts motion poster while preserving the original artwork, characters, typography, composition and layout.
+
+Bring the static poster to life with rich cinematic colors — crimson red, golden yellow, fiery orange, electric blue, emerald green and magenta. Animate the lanterns, drifting smoke, flying dust, sparks, debris and the surrounding crowd.
+
+Give CHUNG LEE subtle drunken-master movement: shifting shoulders, flowing hair, a confident expression and a casual lift of the gourd with liquid splashing in slow motion.
+
+Then make “CHUNG LEE” the ultimate visual flex — dramatic brush-stroke reveals, golden particles, energy trails and a powerful 3D pop-out effect that makes the title feel like it is breaking out of the poster.
+
+Add glowing red energy around the Chinese characters, dynamic martial-arts impacts, moving background fighters, cinematic camera movement and bursts of colorful light.
+
+Finish with a dramatic push toward the CHUNG LEE title, then pull back to reveal the complete poster before locking into the final frame.
+
+No redesign. No new text. No distorted typography. Preserve the original poster — just make it move.
+
+Animation made with Minimax H3
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-in-453795/video-cf2ea34358cc.webm)
+
+**Source:** [@MonetizationDon](https://x.com/MonetizationDon/status/2087183007874453795) · 23s · 16:9 · music video
+
+---
+
+### 9. Human Cakes MiniMax h3 local
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/human-cakes-minimax-h3-local-046088/video-6d9833daf182.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/human-cakes-minimax-h3-local-046088/poster-983cf855f21f.jpg" alt="Human Cakes MiniMax h3 local video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Shaky handheld smartphone footage, pure first-person view, bright clear Manhattan street under shiny midday sun.The camera jerks, sways and shakes heavily like a real phone held...</summary>
+
+~~~~text
+Shaky handheld smartphone footage, pure first-person view, bright clear Manhattan street under shiny midday sun.The camera jerks, sways and shakes heavily like a real phone held by someone walking backward in panic. Sharp sunlight, hard shadows, clean blue sky above brick buildings and dry asphalt. Strong natural motion blur and smartphone digital noise.
+Continuous 20-second sequence (new subject + vehicle every 5 seconds):
+[0s–5s] Operator walks backward from a white man in a black agent suit and sunglasses. The operator’s hand silently points urgently behind the man. The man turns his head, eyes widening in shock as he sees a bright red sports car drifting sideways at high speed toward him. The car slides in at an angle with screeching tires and physically slams into his body first — the impact throws him hard against the hood. Only after the physical hit does his body dissipate into a chaotic spray of tiny randomized fragments — almost pure thick cream mixed with very small irregular cake crumbs, no large pieces. The intricate cream explosion splatters in all directions, coating the red hood, windshield and street in messy streaks and droplets. The suit is ripped off by the force and either sticks to the car or drops to the ground. Cream heavily sprays across the lens.
+[5s–10s] Camera keeps shaking and moving back. A Black woman in a business blazer. Operator silently points hard behind her. She turns, face reacting with sudden fear as a dark blue SUV drifts sharply toward her. The SUV locks brakes mid-drift and physically smashes into her body first. Immediately after the impact her body dissipates into an intricate burst of tiny randomized particles — mostly thick chocolate cream with only minuscule dark cake crumbs. The fine cream spray coats the blue SUV surface and asphalt in dense, chaotic patterns. The blazer and skirt are torn away, parts sticking to the vehicle mixed with cream, the rest dropping naturally. Chocolate cream heavily splatters the lens.
+[10s–15s] Operator still walking backward, phone shaking. An Asian man in a hoodie. Operator silently points behind him. The man turns and freezes in panic seeing a white delivery van sliding into a wide drift. The van physically crashes into his body first. Right after the hit he dissipates into a highly randomized spray of tiny fragments — almost entirely cream with very small scattered sponge and fruit particles. The intricate cream explosion covers the van and pavement in messy droplets and streaks. The hoodie and jeans are stripped off, some cloth remaining on the van mixed with cream, the rest falling with natural physics. Cream hits the lens hard.
+[15s–20s] Camera continues with heavy smartphone shake. A Latina woman in a trench coat. Operator silently points urgently behind her. She spins around, eyes wide in terror as a black pickup truck performs a long cinematic drift straight at her. The truck physically hits her body first. Only then does her body dissipate into a fine, chaotic spray of tiny randomized particles — mostly thick caramel cream with only minute golden crumbs. The intricate cream blast coats the truck hood, grille and ground in dense, irregular patterns. The trench coat is ripped off, sections sticking to the truck with cream, the rest falling realistically. Cream and tiny fragments cascade over the vehicle and street, heavily streaking the lens.
+Throughout: constant heavy smartphone-style camera shake and jitter, natural motion blur, dense cream sprays and tiny randomized particles hitting the lens, realistic cloth physics, cinematic vehicle drifts, clear physical body impact first followed by dissipation into almost pure cream with only very small irregular cake crumbs (never large pieces or whole shapes), photorealistic, bright clear daylight, raw live smartphone footage look. No text, no logos, no stabilisation.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/human-cakes-minimax-h3-local-046088/video-6d9833daf182.webm)
+
+**Source:** [@sadlemonjuice](https://x.com/sadlemonjuice/status/2087131708223046088) · 15s · 43:24 · cinematic story
+
+---
+
+### 10. Create a 15-second ultra-photorealistic live-action war sequence set in the
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/create-a-15-second-ultra-photorealistic-live-action-war-sequence-714552/video-5a1aa71322f9.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/create-a-15-second-ultra-photorealistic-live-action-war-sequence-714552/poster-c2fc59c43935.jpg" alt="Create a 15-second ultra-photorealistic live-action war sequence set in the video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a 15-second ultra-photorealistic live-action war sequence set in the United States in 1947, designed to look like authentic historical footage captured on a 1940s film...</summary>
+
+~~~~text
+Create a 15-second ultra-photorealistic live-action war sequence set in the United States in 1947, designed to look like authentic historical footage captured on a 1940s film camera. The entire scene must feel grounded, documentary-like, raw, and physically realistic.
+Environment: A rural American town in 1947 with wooden houses, old brick buildings, telephone poles, dirt roads, vintage American cars from the 1940s, wooden fences, farmland, and period-accurate street details. Overcast afternoon light, light fog, drifting smoke, dust in the air, damaged buildings, scattered debris, and a tense wartime atmosphere.
+Characters: American soldiers wearing historically accurate late-1940s military uniforms, helmets, boots, and equipment. Civilians wear authentic 1940s American clothing. Natural faces, realistic skin texture, sweat, dirt, fatigue, and believable body movements.
+0–3s — Establishing Shot:
+Wide handheld shot of a quiet rural American street suddenly filled with smoke and confusion. Vintage 1940s vehicles are parked along the road while soldiers move quickly between wooden buildings. Civilians rush toward safer areas.
+3–6s — Tension:
+Camera moves through the street at shoulder height, following several soldiers as distant gunfire is heard. They immediately react and take cover behind a vintage vehicle and a brick wall. Their movements are cautious and realistic.
+6–10s — Combat:
+Fast handheld tracking shot as the soldiers move between cover while distant gunfire impacts the environment. Small pieces of wood, dust, and debris fall naturally from nearby impacts. Weapon recoil, movement, and body weight must be physically accurate. Keep the violence realistic and restrained.
+10–13s — Human Moment:
+Camera briefly focuses on a soldier helping an injured civilian move behind cover. Their breathing, facial expressions, body language, and movement should feel natural and unscripted.
+13–15s — Final Shot:
+Camera pulls back into a wide shot of the American town as smoke slowly moves through the street. Soldiers remain behind cover while vintage vehicles and damaged buildings fill the background. The scene ends with an authentic, tense 1940s documentary feeling.
+Visual Style: Ultra-photorealistic live-action, authentic 1940s American environment, vintage 35mm film texture, subtle film grain, natural imperfections, realistic exposure, handheld documentary cinematography, muted historical color palette, realistic smoke and dust, natural shadows, accurate depth of field.
+Physics: Strictly obey real-world gravity, momentum, inertia, friction, recoil, weight, collision physics, and human biomechanics. No exaggerated explosions, impossible movements, superhero behavior, or choreographed-looking combat.
+Negative Prompt: modern buildings, modern cars, smartphones, modern clothing, modern weapons, futuristic technology, CGI appearance, video-game graphics, fantasy, superhero action, excessive explosions, excessive blood, gore, impossible physics, unrealistic recoil, slow-motion physics, distorted faces, extra limbs, floating objects, plastic skin, artificial-looking environments.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/create-a-15-second-ultra-photorealistic-live-action-war-sequence-714552/video-5a1aa71322f9.webm)
+
+**Source:** [@RuzainaMeer](https://x.com/RuzainaMeer/status/2087117707816714552) · 15s · 16:9 · music video
+
+---
+
+### 11. Created with MiniMax H3.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-522089/video-c091a3bdd9be.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-522089/poster-1264d9cf5d1a.jpg" alt="Created with MiniMax H3. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — A young Western female street photographer walks through a lively downtown street and notices an elderly man sitting outside a café with his small dog. She carefully composes the...</summary>
+
+~~~~text
+A young Western female street photographer walks through a lively downtown street and notices an elderly man sitting outside a café with his small dog. She carefully composes the candid moment through her camera, captures the photo, then turns the camera toward the viewer to proudly show the shot she just took. She smiles, says “Look at that,” then continues walking through the city. Ultra-photorealistic visuals, natural handheld documentary movement, realistic camera interaction, authentic facial expressions, accurate hand movements, realistic dog behavior, natural daylight, cinematic depth of field, continuous character consistency, immersive city ambience, premium documentary realism.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-522089/video-c091a3bdd9be.webm)
+
+**Source:** [@aiwithaly](https://x.com/aiwithaly/status/2087102541146522089) · 15s · 16:9 · music video
+
+---
+
+### 12. Second Storyboard Image to video using MiniMax H3 on
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/second-storyboard-image-to-video-using-minimax-h3-on-665414/video-2c4784f7af18.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/second-storyboard-image-to-video-using-minimax-h3-on-665414/poster-bbe5730a76e8.jpg" alt="Second Storyboard Image to video using MiniMax H3 on video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — &quot;[REFERENCE CONTROL] Use the uploaded PART 2 storyboard image for: “THE LAST POP BEFORE CLOSING” as the STRICT PRIMARY visual and narrative reference. This video continues...</summary>
+
+~~~~text
+"[REFERENCE CONTROL]
+
+Use the uploaded PART 2 storyboard image for:
+
+“THE LAST POP BEFORE CLOSING”
+
+as the STRICT PRIMARY visual and narrative reference.
+
+This video continues DIRECTLY from PART 1.
+
+PART 1 ended with:
+
+- Fizz’s final carbonation bubble drifting toward the ceiling fan
+- Fizz and Crunch failing to reach it
+- Chill calmly studying the situation
+- Chill noticing his silver spoon tool
+- Chill removing the spoon from his back
+- Chill saying:
+
+<d>[English] I have an idea.</d>
+
+PART 2 begins at that EXACT story moment.
+
+Use the storyboard to lock:
+
+- Fizz’s exact glossy red soda-can design
+- Crunch’s exact bright-yellow snack-bag design
+- Chill’s exact blue ice-cream-cup design
+- their faces, shoes, gloves and proportions
+- Chill’s spoon
+- the ONE surviving bubble
+- shopping basket
+- snack bowl / tray
+- freezer
+- cold mist
+- hanging price tags
+- ceiling fan
+- same convenience-store architecture
+- same nighttime lighting
+- same tiny-mascot scale
+- Part 2 rescue progression
+- final three-character payoff
+
+Generate a FINISHED cinematic 3D animated sequence.
+
+DO NOT animate or reproduce the storyboard sheet itself.
+
+The final video must NOT contain:
+
+- storyboard borders
+- panel numbers
+- timestamps
+- captions
+- storyboard headers
+- production notes
+- prop/reference sheets
+- character turnaround drawings
+- page background
+- watermarks
+- brand logos
+- unnecessary text overlays
+
+Translate the storyboard’s 15 one-second panels into approximately:
+
+# 8 COHERENT CINEMATIC SHOTS
+
+Do NOT use fifteen frantic one-second cuts.
+
+Story progression:
+
+Chill reveals the plan
+→ trio races ahead of bubble
+→ Chill uses freezer air
+→ bubble changes direction
+→ Crunch catches it temporarily
+→ bubble escapes again
+→ Chill triggers price-tag chain reaction
+→ bubble descends
+→ Fizz makes one perfect jump
+→ bubble returns
+→ Fizz recharges
+→ friends celebrate
+→ warm final shelf payoff.
+
+==================================================
+VIDEO GOAL
+==================================================
+
+Duration:
+
+# EXACTLY 15 SECONDS
+
+Story range:
+
+PART 2 — 0:15 to 0:30
+
+Aspect ratio:
+16:9 landscape
+
+Frame-rate feeling:
+cinematic 24 fps
+
+Visual medium:
+premium stylized 3D product-mascot animation
+
+Genre:
+
+- miniature adventure
+- product mascot comedy
+- friendship story
+- playful rescue mission
+
+Tone:
+
+- energetic
+- clever
+- cute
+- visually satisfying
+- comedic
+- wholesome
+- heartwarming
+- triumphant
+
+Dialogue:
+short natural synchronized English
+
+Audio:
+native dialogue + store ambience + physical comedy SFX + original playful cinematic score
+
+CORE PAYOFF:
+
+Fizz thinks his “spark” depends on one final bubble.
+
+But what actually saves that spark is:
+
+# teamwork.
+
+Chill supplies the idea.
+Crunch supplies chaotic effort.
+Fizz supplies the final leap.
+
+==================================================
+PART 2 START / END
+==================================================
+
+START:
+
+Chill stands beneath the drifting bubble holding his silver spoon.
+
+Fizz and Crunch look toward him.
+
+Chill immediately begins executing his plan.
+
+END:
+
+Fizz has successfully regained his carbonation.
+
+Fizz, Crunch, and Chill stand together in a warm celebratory final pose.
+
+The story must feel COMPLETE.
+
+No cliffhanger.
+
+==================================================
+CHARACTER IDENTITY LOCK — FIZZ
+==================================================
+
+Match PART 1 and the uploaded PART 2 storyboard EXACTLY.
+
+FIZZ — RED SODA CAN MASCOT
+
+Appearance:
+
+- small glossy red aluminum soda can
+- cylindrical body
+- metallic silver top and bottom rims
+- silver pull tab
+- original fictional graphics only
+- large expressive blue/dark cartoon eyes
+- flexible eyebrows
+- expressive mouth
+- tiny arms
+- white mascot gloves
+- small legs
+- red-and-white sneakers
+
+Material:
+
+- glossy aluminum
+- strong store-light reflections
+- subtle metallic highlights
+- optional tiny condensation beads
+- body remains mostly rigid
+
+Do NOT redesign him.
+
+PART 2 PERFORMANCE ARC:
+
+0–3 sec:
+desperate hope
+
+3–6 sec:
+excited as Chill’s plan works
+
+6–8 sec:
+celebrates too early
+
+8–11 sec:
+focused determination
+
+11–13 sec:
+heroic relief
+
+13–15 sec:
+full joyful Fizz energy
+
+MOTION:
+
+Fizz is:
+
+- springy
+- quick
+- dramatic
+- highly expressive
+
+But his can body should not behave like rubber.
+
+==================================================
+CHARACTER IDENTITY LOCK — CRUNCH
+==================================================
+
+CRUNCH — YELLOW SNACK BAG MASCOT
+
+Appearance:
+
+- bright yellow flexible snack bag
+- sealed ridged top
+- crinkled packaging material
+- original fictional package graphics
+- large expressive eyes
+- small expressive mouth
+- thin arms
+- white gloves
+- tiny legs
+- oversized orange sneakers
+
+Personality:
+
+- loyal
+- excitable
+- chaotic
+- lovable
+- desperate to help
+- occasionally useful by accident
+
+PART 2 PERFORMANCE ARC:
+
+0–3 sec:
+hopeful and ready
+
+3–6 sec:
+heroic enthusiasm
+
+6–8 sec:
+brief victory
+
+8–10 sec:
+immediate panic when bubble escapes
+
+10–13 sec:
+cheering Fizz
+
+13–15 sec:
+happy friend celebration
+
+PACKAGING MOTION:
+
+Use:
+
+- small crinkles
+- squash
+- puffing
+- top-edge wobble
+
+Do not deform him beyond recognition.
+
+==================================================
+CHARACTER IDENTITY LOCK — CHILL
+==================================================
+
+CHILL — BLUE ICE-CREAM CUP MASCOT
+
+Appearance:
+
+- small mint-blue / cool-blue cylindrical ice cream cup
+- white lid like a flat cap
+- original minimal fictional graphics
+- relaxed half-lidded eyes
+- small mouth
+- tiny arms
+- white gloves
+- tiny white shoes
+- silver spoon normally attached on back
+
+Personality:
+
+- calm
+- intelligent
+- deadpan
+- observant
+- precise
+- quietly confident
+
+PART 2 PERFORMANCE ARC:
+
+0–4 sec:
+plan execution
+
+4–8 sec:
+calm supervision
+
+8–11 sec:
+second tactical idea
+
+11–13 sec:
+watches Fizz finish plan
+
+13–15 sec:
+small proud smile
+
+Chill should NEVER become hyperactive.
+
+His calmness is the joke.
+
+==================================================
+KEY PROP LOCK — THE LAST BUBBLE
+==================================================
+
+There is:
+
+# ONE SINGLE BUBBLE.
+
+No duplicates.
+
+Appearance:
+
+- transparent
+- iridescent
+- subtle rainbow edge
+- about the size of Fizz’s head
+- reflects store lights
+- delicate and lightweight
+
+Bubble trajectory for Part 2 must remain easy to follow:
+
+ceiling fan area
+→ redirected by freezer airflow
+→ descends toward Crunch
+→ briefly rests in bowl
+→ escapes
+→ drifts toward hanging price tags
+→ price-tag chain reaction guides it downward
+→ Fizz jumps
+→ bubble enters through slightly opened pull-tab area
+→ carbonation returns.
+
+Never teleport the bubble.
+
+Never spawn extra copies.
+
+==================================================
+KEY PROP LOCK — CHILL’S SPOON
+==================================================
+
+Use exactly one small silver spoon.
+
+It begins in Chill’s hand because he removed it at the end of Part 1.
+
+Uses:
+
+1. operating / assisting with freezer opening safely
+2. precisely flicking the price-tag string later
+
+The spoon is a clever tool.
+
+It is NOT a weapon.
+
+No dangerous swinging.
+
+No sharp-object action.
+
+==================================================
+KEY PROP — SHOPPING BASKET
+==================================================
+
+Small red convenience-store shopping basket relative to human scale, but large enough for the mascots to ride in.
+
+Use it only as a comic transport device.
+
+Safe movement.
+
+No crashes.
+
+No dangerous speed.
+
+==================================================
+ENVIRONMENT LOCK
+==================================================
+
+Same convenience store from Part 1.
+
+Maintain:
+
+- glossy tile floor
+- large aisles
+- soda shelf
+- snack aisle
+- freezers
+- candy displays
+- fruit display
+- hanging price cards
+- ceiling fan
+- warm overhead practical lights
+- cool freezer illumination
+- midnight darkness beyond storefront windows
+
+The store should feel enormous compared with the mascots.
+
+Keep miniature cinematography throughout.
+
+==================================================
+WORLD / PHYSICS RULES
+==================================================
+
+Bubble:
+
+extremely light.
+
+It responds to:
+
+- airflow
+- small impacts
+- movement
+- gentle rebounds
+
+Freezer:
+
+cold air pushes bubble away from fan.
+
+Snack bowl:
+
+bubble can rest briefly without popping.
+
+Price tags:
+
+small hanging cardboard tags swing like pendulums and redirect the bubble through gentle contact / airflow.
+
+Fizz’s recovery:
+
+bubble enters Fizz through his slightly opened pull-tab opening.
+
+Then carbonation visibly rebuilds INSIDE the can through:
+
+- subtle internal fizz
+- a few tiny external bubbles
+- brighter expression
+- energetic body language
+
+Do NOT show explosive pressure.
+
+No dangerous soda burst.
+
+==================================================
+INTEGRATED_MULTIMODAL_DESCRIPTION
+==================================================
+
+[SHOT 1 — 0:00–0:01.7]
+CHILL’S PLAN BEGINS
+
+Continue EXACTLY from Part 1.
+
+Bubble floats high in the background near the ceiling airflow.
+
+Fizz and Crunch turn toward Chill.
+
+Chill holds the silver spoon.
+
+Chill looks toward:
+
+bubble
+→ freezer aisle.
+
+He points the spoon forward like a tiny conductor.
+
+Chill:
+
+<d>[English] Freezer.</d>
+
+Fizz:
+
+<d>[English] The freezer?</d>
+
+Chill gives a tiny confident nod.
+
+Crunch:
+
+<d>[English] I love plans I don’t understand!</d>
+
+Chill starts moving.
+
+CAMERA:
+
+close Chill hero angle
+→ rack focus to bubble
+→ fast low-angle follow as trio starts moving.
+
+Music immediately restarts with clever playful momentum.
+
+==================================================
+[SHOT 2 — 0:01.7–0:03.3]
+THE SHOPPING-BASKET DASH
+
+Fizz and Crunch jump into / grab a small red shopping basket.
+
+Chill pushes / steers it from behind or rides at the edge while controlling direction.
+
+The basket rolls/slides smoothly across the polished store floor.
+
+Use a low mascot-height tracking shot.
+
+Bubble remains visible above and ahead.
+
+Crunch points upward.
+
+Crunch:
+
+<d>[English] Faster!</d>
+
+Fizz:
+
+<d>[English] It’s getting away!</d>
+
+Chill:
+
+<d>[English] Relax.</d>
+
+They pass:
+
+- oversized product shelves
+- cool refrigerator reflections
+- hanging price tags
+
+No collision.
+
+No store destruction.
+
+==================================================
+[SHOT 3 — 0:03.3–0:05.1]
+COLD AIR CHANGES THE GAME
+
+They arrive at the freezer.
+
+Chill safely uses the spoon as a tiny lever/tool to pull the freezer-door edge enough to open it.
+
+Door opens.
+
+# FWHOOSH.
+
+A beautiful plume of cold mist rolls outward.
+
+Blue-white freezer light contrasts with the warm store.
+
+Fizz and Crunch brace themselves behind the basket.
+
+The cold airflow reaches the drifting bubble.
+
+The bubble slows.
+
+Then gently curves AWAY from the ceiling fan.
+
+Fizz’s expression instantly changes.
+
+Fizz:
+
+<d>[English] It’s working!</d>
+
+Chill, completely calm:
+
+<d>[English] Obviously.</d>
+
+CAMERA:
+
+freezer close-up
+→ cold mist
+→ follow airflow visually
+→ bubble changing trajectory.
+
+SFX:
+
+- freezer seal opening
+- gentle cold-air whoosh
+- faint icy shimmer
+- bubble wobble
+
+==================================================
+[SHOT 4 — 0:05.1–0:06.8]
+CRUNCH GETS HIS HERO MOMENT
+
+Bubble now floats downward through the aisle.
+
+Crunch spots the snack bowl / tray.
+
+His eyes widen.
+
+Crunch:
+
+<d>[English] My turn!</d>
+
+He grabs the bowl.
+
+Runs underneath the bubble.
+
+Fizz guides him:
+
+<d>[English] Left! Left! No—your other left!</d>
+
+Crunch shifts.
+
+The bubble gently drops—
+
+# into the bowl.
+
+Perfect catch.
+
+Crunch freezes.
+
+Looks down.
+
+His eyes become huge with joy.
+
+Crunch:
+
+<d>[English] I GOT IT!</d>
+
+Fizz throws both arms up.
+
+==================================================
+[SHOT 5 — 0:06.8–0:08.4]
+CELEBRATED TOO EARLY
+
+Fizz and Crunch start celebrating immediately.
+
+Crunch lifts the bowl proudly.
+
+Bad idea.
+
+The movement tilts it.
+
+The bubble gently floats back out.
+
+All three characters track it.
+
+Fizz and Crunch’s smiles disappear at the exact same time.
+
+Crunch:
+
+<d>[English] ...I don’t got it.</d>
+
+Fizz:
+
+<d>[English] CRUNCH!</d>
+
+The bubble continues toward a row of hanging price tags.
+
+Chill does not panic.
+
+He simply turns his eyes upward.
+
+Camera pushes in on Chill.
+
+He notices the tags.
+
+Then the spoon in his hand.
+
+Second idea.
+
+Tiny eyebrow raise.
+
+==================================================
+[SHOT 6 — 0:08.4–0:10.4]
+THE PRICE-TAG CHAIN REACTION
+
+Chill steps into position beneath the first hanging price tag.
+
+Precisely:
+
+he taps the hanging string with the spoon.
+
+# tik.
+
+First price tag swings.
+
+It gently nudges the next hanging tag.
+
+Second swings.
+
+Then third.
+
+Create a clean satisfying cascading motion:
+
+TAG 1
+→ TAG 2
+→ TAG 3
+→ TAG 4.
+
+The bubble moves through this chain.
+
+Each swinging tag / tiny air current guides it slightly lower.
+
+No hard impact.
+
+No popping.
+
+Use highly satisfying visual rhythm.
+
+Fizz watches.
+
+His eyes widen.
+
+Crunch:
+
+<d>[English] He planned THAT?!</d>
+
+Chill:
+
+<d>[English] Mostly.</d>
+
+Music syncs each tag movement to percussion:
+
+tik
+tik
+tik
+tik.
+
+==================================================
+[SHOT 7 — 0:10.4–0:12.6]
+ONE PERFECT JUMP
+
+The bubble is finally descending.
+
+Fizz runs underneath it.
+
+Crunch runs behind him cheering.
+
+Chill watches calmly.
+
+Fizz’s expression becomes focused.
+
+No more panic.
+
+Camera drops to dramatic low angle.
+
+Fizz accelerates.
+
+He jumps.
+
+Use a brief cinematic slow-down—not full slow motion.
+
+His arms spread.
+
+Bubble directly above him.
+
+Fizz opens his silver pull tab just slightly.
+
+Fizz:
+
+<d>[English] Come on...</d>
+
+The bubble descends.
+
+Closer.
+
+Closer.
+
+Then—
+
+# PLOOP / FIZZ.
+
+It slips neatly through the opening.
+
+Fizz’s eyes widen.
+
+Pause for one beat.
+
+==================================================
+[SHOT 8 — 0:12.6–0:15.0]
+FIZZ GETS HIS SPARK BACK — FINAL PAYOFF
+
+Immediately after the bubble enters:
+
+# FSSSSHHH!
+
+A playful carbonation pulse moves through Fizz.
+
+NOT an explosion.
+
+His red aluminum surface becomes bright and lively.
+
+Tiny fizzy bubbles swirl around him.
+
+His eyes light up.
+
+His posture pops back into full confidence.
+
+Fizz lands safely.
+
+Fizz:
+
+<d>[English] I’M BACK!</d>
+
+Crunch cheers wildly.
+
+Crunch:
+
+<d>[English] WE SAVED THE FIZZ!</d>
+
+Chill walks up calmly.
+
+Fizz looks toward both friends.
+
+For one sincere beat:
+
+Fizz:
+
+<d>[English] You guys saved me.</d>
+
+Crunch immediately poses proudly.
+
+Chill:
+
+<d>[English] Technically, the bubble did.</d>
+
+Small comedy beat.
+
+Fizz laughs.
+
+A few harmless tiny carbonation bubbles float around all three.
+
+One bubble lands perfectly on Chill’s white lid.
+
+Chill slowly looks upward at it.
+
+Tiny smile.
+
+FINAL COMPOSITION:
+
+Fizz in the center, fully recharged.
+
+Crunch beside him, excited and proud.
+
+Chill beside them, calm and satisfied.
+
+Store shelves glow warmly behind.
+
+Small bubbles drift around them.
+
+Optional quick match transition / cut:
+
+the three mascots back near their product shelf, posing together like the night’s adventure is their secret.
+
+Camera gently pulls backward.
+
+Warm practical lights.
+
+Cool midnight shadows.
+
+Playful final musical chord.
+
+FADE TO BLACK.
+
+END STORY.
+
+==================================================
+AUDIO DESCRIPTION
+==================================================
+
+Generate synchronized native stereo audio.
+
+Audio tone:
+
+- playful
+- tactile
+- energetic
+- miniature
+- cinematic
+- satisfying
+- wholesome
+
+==================================================
+FIZZ VOICE
+==================================================
+
+Energetic youthful masculine mascot voice.
+
+Qualities:
+
+- charismatic
+- dramatic
+- quick
+- lovable
+- expressive
+
+Part 2 progression:
+
+hopeful urgency
+→ premature celebration
+→ focused determination
+→ huge relief
+→ grateful friendship.
+
+Priority lines:
+
+<d>[English] It’s working!</d>
+
+<d>[English] CRUNCH!</d>
+
+<d>[English] Come on...</d>
+
+<d>[English] I’M BACK!</d>
+
+<d>[English] You guys saved me.</d>
+
+Final sincere line should be warmer and quieter than his usual show-off delivery.
+
+==================================================
+CRUNCH VOICE
+==================================================
+
+Excitable comedic mascot voice.
+
+Qualities:
+
+- enthusiastic
+- slightly squeaky
+- dramatic
+- lovable
+- fast reaction timing
+
+Priority:
+
+<d>[English] My turn!</d>
+
+<d>[English] I GOT IT!</d>
+
+<d>[English] ...I don’t got it.</d>
+
+<d>[English] He planned THAT?!</d>
+
+<d>[English] WE SAVED THE FIZZ!</d>
+
+Use tiny packaging crinkles with body motion.
+
+==================================================
+CHILL VOICE
+==================================================
+
+Calm, understated, low-energy mascot voice.
+
+Qualities:
+
+- dry humor
+- relaxed
+- intelligent
+- confident
+- slightly sleepy
+
+Priority lines:
+
+<d>[English] Freezer.</d>
+
+<d>[English] Obviously.</d>
+
+<d>[English] Mostly.</d>
+
+Final:
+
+<d>[English] Technically, the bubble did.</d>
+
+Deliver completely deadpan.
+
+==================================================
+STORE SOUND DESIGN
+==================================================
+
+Maintain subtle closed-store ambience:
+
+- refrigerator hum
+- freezer compressor
+- ventilation
+- faint building hum
+- soft sneaker taps
+- packaging crinkles
+- shopping basket wheel/slide sounds
+- tiny metal spoon clicks
+- hanging card flutter
+- distant night ambience
+
+Do not introduce humans.
+
+==================================================
+FREEZER SOUND DESIGN
+==================================================
+
+When freezer opens:
+
+- soft magnetic seal release
+- cold air whoosh
+- compressor hum slightly louder
+- gentle mist movement
+
+Do NOT use giant icy explosion SFX.
+
+==================================================
+PRICE TAG CHAIN SFX
+==================================================
+
+Make this extremely satisfying.
+
+Use four slightly different light sounds:
+
+tik
+tap
+tik
+tap
+
+Each synchronized to a swinging tag.
+
+Add gentle cardboard flutter.
+
+Music percussion should sync perfectly.
+
+==================================================
+BUBBLE SOUND DESIGN
+==================================================
+
+Bubble signature:
+
+- tiny glassy shimmer
+- fizzy air texture
+- delicate elastic wobble
+
+Bowl landing:
+
+soft:
+
+“plip.”
+
+Leaving bowl:
+
+tiny airy:
+
+“woop.”
+
+Returning to Fizz:
+
+small:
+
+“ploop”
+→ immediately followed by carbonation:
+
+“fsssshhhh.”
+
+==================================================
+NON-DIEGETIC MUSIC
+==================================================
+
+Continue the ORIGINAL miniature adventure score from Part 1.
+
+Instrumentation:
+
+- pizzicato strings
+- marimba
+- woodblocks
+- brushed percussion
+- muted brass
+- upright bass
+- tiny synth plucks
+- glockenspiel
+- warm orchestral accents
+
+MUSIC ARC:
+
+0:00–0:03
+clever plan / movement energy.
+
+0:03–0:05
+freezer solution reveal.
+
+0:05–0:07
+comic triumph.
+
+0:07–0:08.5
+comedic drop after bubble escapes.
+
+0:08.5–0:10.5
+precise rhythmic chain-reaction sequence.
+
+0:10.5–0:12.5
+heroic but playful Fizz build.
+
+0:12.5–0:15
+warm celebratory theme combining motifs associated with all three mascots.
+
+Final chord:
+
+bright,
+satisfying,
+complete.
+
+==================================================
+CAMERA LANGUAGE
+==================================================
+
+PART 2 should feel slightly more cinematic and energetic than Part 1.
+
+Use:
+
+- floor-level tracking
+- macro bubble shots
+- low mascot-scale lensing
+- freezer push-ins
+- dramatic cool/warm lighting contrast
+- overhead shot for bowl catch
+- rhythmic insert shots during price-tag chain
+- low-angle Fizz hero jump
+- expressive reaction close-ups
+- final slow pull-back
+
+Camera progression:
+
+0–3 sec:
+quick planning/action.
+
+3–5 sec:
+cold-air spectacle.
+
+5–8 sec:
+physical comedy.
+
+8–10 sec:
+precise chain-reaction rhythm.
+
+10–13 sec:
+heroic focus.
+
+13–15 sec:
+warm emotional resolution.
+
+Avoid:
+
+- shaky handheld
+- extreme motion blur
+- chaotic whip pans
+- fisheye distortion
+- unreadable fast cutting
+- action-movie explosions
+
+==================================================
+VISUAL STYLE
+==================================================
+
+Premium high-end stylized 3D animation.
+
+Material quality:
+
+Fizz:
+glossy reflective aluminum.
+
+Crunch:
+soft flexible crinkly snack-film packaging.
+
+Chill:
+semi-matte coated paper/plastic ice-cream cup.
+
+Spoon:
+clean brushed silver.
+
+Bubble:
+transparent iridescent membrane.
+
+Store:
+
+- realistic enough product shelves
+- stylized family-animation proportions
+- polished floor
+- soft global illumination
+- cinematic depth of field
+- beautiful reflections
+- highly readable character silhouettes
+
+The final result should feel like:
+
+A PREMIUM 3D PRODUCT-MASCOT COMMERCIAL
++
+A MINIATURE ANIMATED ADVENTURE FILM.
+
+==================================================
+COLOR / LIGHTING ARC
+==================================================
+
+OPENING:
+
+warm store lighting + cool midnight shadows.
+
+FREEZER SEQUENCE:
+
+increase:
+
+- cyan
+- icy white
+- cool blue
+
+but keep characters’ faces readable.
+
+PRICE-TAG SEQUENCE:
+
+return to mixed warm/cool store tones.
+
+FIZZ HERO JUMP:
+
+bubble receives brightest highlight.
+
+RECHARGE:
+
+Fizz becomes visual focal point through:
+
+- stronger red reflections
+- small sparkling bubbles
+- warm rim light
+
+FINAL:
+
+slightly warmer than Part 1.
+
+Use:
+
+- amber practicals
+- rich red Fizz
+- yellow Crunch
+- mint-blue Chill
+- subtle blue night shadows
+
+The final shot should visually communicate:
+
+# problem solved.
+
+==================================================
+MOTION RULES — FIZZ
+==================================================
+
+Before recovery:
+
+quick,
+slightly frantic,
+high-energy.
+
+During hero jump:
+
+movement becomes focused and precise.
+
+After recovery:
+
+- chest/body held proudly
+- big expressive arm gestures
+- springy landing
+- happy tiny hops
+- playful bubbles
+
+Keep can body rigid enough to preserve product identity.
+
+==================================================
+MOTION RULES — CRUNCH
+==================================================
+
+Use:
+
+- energetic running
+- bowl held with both hands
+- packaging bounce
+- little bag crinkles
+- exaggerated celebration
+- embarrassed deflation after bubble escapes
+- proud cheering at ending
+
+Keep him cute.
+
+No chaotic deformation.
+
+==================================================
+MOTION RULES — CHILL
+==================================================
+
+Use controlled precision.
+
+Actions:
+
+- point spoon
+- safely open freezer
+- watch bubble path
+- precise tag flick
+- small eyebrow response
+- quiet final approach
+- understated smile
+
+Chill must visually appear to think BEFORE acting.
+
+==================================================
+CONTINUITY RULES
+==================================================
+
+Maintain exactly:
+
+ONE Fizz.
+ONE Crunch.
+ONE Chill.
+ONE final bubble.
+ONE spoon.
+
+Same:
+
+- mascot packaging designs
+- facial features
+- shoe colors
+- glove designs
+- relative heights
+- store layout
+- freezer
+- bubble appearance
+- shopping basket
+- bowl
+- hanging price cards
+
+Bubble progression:
+
+fan
+→ cold-air redirect
+→ bowl
+→ escape
+→ price tags
+→ Fizz
+→ inside Fizz.
+
+Once bubble enters Fizz:
+
+do NOT show the original giant bubble outside him again.
+
+Small NEW carbonation bubbles may appear only AFTER Fizz has recovered.
+
+==================================================
+EMOTIONAL PRIORITY
+==================================================
+
+Although this is comedy, the ending needs one brief emotional beat.
+
+Fizz has spent both parts obsessed with getting his sparkle back.
+
+After he succeeds:
+
+he looks at Crunch and Chill.
+
+Realizes:
+
+he could not have done it alone.
+
+Use a tiny pause before:
+
+<d>[English] You guys saved me.</d>
+
+That brief sincerity makes the comedic ending feel earned.
+
+Then immediately let Chill release tension with:
+
+<d>[English] Technically, the bubble did.</d>
+
+==================================================
+DIALOGUE TIMING PRIORITY
+==================================================
+
+15 seconds is short.
+
+Natural voice timing is more important than including every line.
+
+HIGHEST PRIORITY:
+
+1.
+Chill:
+<d>[English] Freezer.</d>
+
+2.
+Fizz:
+<d>[English] It’s working!</d>
+
+3.
+Crunch:
+<d>[English] I GOT IT!</d>
+
+4.
+Crunch:
+<d>[English] ...I don’t got it.</d>
+
+5.
+Chill:
+<d>[English] Mostly.</d>
+
+6.
+Fizz:
+<d>[English] Come on...</d>
+
+7.
+Fizz:
+<d>[English] I’M BACK!</d>
+
+8.
+Fizz:
+<d>[English] You guys saved me.</d>
+
+9.
+Chill:
+<d>[English] Technically, the bubble did.</d>
+
+If timing becomes crowded:
+
+REMOVE secondary lines.
+
+Do NOT make dialogue unnaturally fast.
+
+Let:
+
+- expressions
+- movement
+- sound effects
+- music
+
+tell much of the story.
+
+==================================================
+SAFETY / CONTENT RULES
+==================================================
+
+Everything remains cute and family-friendly.
+
+No injury.
+No violence.
+No weapons.
+No broken glass.
+No sharp attacks.
+No dangerous ceiling fan interaction.
+No exploding cans.
+No destructive store damage.
+No falling from dangerous heights.
+No freezer entrapment.
+No food contamination.
+No humans stepping on characters.
+
+...
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/second-storyboard-image-to-video-using-minimax-h3-on-665414/video-2c4784f7af18.webm)
+
+**Source:** [@ManuAGI01](https://x.com/ManuAGI01/status/2087066113775665414) · 15s · 16:9 · product commercial
+
+---
+
+### 13. First Storyboard Image to video using 's MiniMax H3 on
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-517354/video-f661e6c0d06a.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-517354/poster-b7e70bb4f45d.jpg" alt="First Storyboard Image to video using 's MiniMax H3 on video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — &quot;[REFERENCE CONTROL] Use the uploaded PART 1 storyboard image for: “THE LAST POP BEFORE CLOSING” as the STRICT PRIMARY reference for: - Fizz’s exact red soda-can design - Crunch’s...</summary>
+
+~~~~text
+"[REFERENCE CONTROL]
+
+Use the uploaded PART 1 storyboard image for:
+
+“THE LAST POP BEFORE CLOSING”
+
+as the STRICT PRIMARY reference for:
+
+- Fizz’s exact red soda-can design
+- Crunch’s exact yellow snack-bag design
+- Chill’s exact blue ice-cream-cup design
+- character proportions
+- facial features
+- arms, legs, gloves and footwear
+- packaging materials
+- relative mascot scale
+- convenience-store environment
+- soda shelves
+- snack aisle
+- fruit display
+- shopping basket
+- ceiling ventilation fan
+- hanging price tags
+- Chill’s spoon tool
+- bubble design
+- midnight lighting
+- Part 1 story progression
+
+Generate a FINISHED cinematic 3D animated sequence from the storyboard.
+
+DO NOT animate the storyboard sheet itself.
+
+The final video must NOT contain:
+
+- storyboard borders
+- panel numbers
+- timestamps
+- captions
+- production notes
+- character reference drawings
+- prop reference drawings
+- page background
+- storyboard labels
+- watermark
+- unnecessary subtitles
+
+Translate the 15 storyboard panels into approximately:
+
+# 8 COHERENT CINEMATIC SHOTS
+
+Do NOT make fifteen separate one-second cuts.
+
+The story progression must read clearly as:
+
+Fizz makes a flashy entrance
+→ discovers only one bubble remains
+→ the final bubble escapes
+→ Fizz and Crunch chase it
+→ repeated funny near-misses
+→ bubble reaches ceiling fan
+→ Fizz and Crunch cannot reach it
+→ Chill quietly discovers the solution
+→ cliffhanger.
+
+==================================================
+VIDEO GOAL
+==================================================
+
+Duration:
+
+# EXACTLY 15 SECONDS
+
+Story range:
+
+PART 1 — 0:00 to 0:15
+
+Aspect ratio:
+16:9 landscape
+
+Frame-rate feeling:
+cinematic 24 fps
+
+Visual medium:
+premium stylized 3D animated product-mascot film
+
+Genre:
+
+- miniature adventure
+- product mascot comedy
+- friendship story
+- playful rescue mission
+
+Tone:
+
+- energetic
+- cute
+- funny
+- visually satisfying
+- slightly suspenseful
+- heartwarming
+- family-friendly
+
+Dialogue:
+short synchronized English dialogue
+
+Audio:
+native dialogue + convenience-store ambience + physical comedy SFX + playful cinematic music
+
+CORE PART 1 IDEA:
+
+Fizz thinks he is still the fizziest product in the store...
+
+until he discovers he has only ONE bubble left.
+
+When that final bubble escapes, his friends launch a tiny midnight rescue mission.
+
+==================================================
+PART 1 STORY LIMIT
+==================================================
+
+START:
+
+A quiet convenience store after closing.
+
+Fizz suddenly makes a ridiculous heroic entrance riding a giant bubble.
+
+END:
+
+The final bubble is almost lost near the ceiling ventilation fan.
+
+Fizz and Crunch are helplessly too short.
+
+Chill studies the situation, removes the spoon from his back, smiles slightly and says:
+
+<d>[English] I have an idea.</d>
+
+CUT TO BLACK.
+
+DO NOT show:
+
+- Chill executing the solution
+- freezer rescue
+- shopping-basket rescue tower
+- bubble returning to Fizz
+- Fizz becoming fully carbonated again
+- final celebration
+- morning customer
+- shelf ending
+
+Save ALL successful rescue payoff for PART 2.
+
+==================================================
+CHARACTER IDENTITY LOCK — FIZZ
+==================================================
+
+Match the storyboard EXACTLY.
+
+FIZZ — RED SODA CAN MASCOT
+
+Appearance:
+
+- small glossy cylindrical red aluminum soda can
+- metallic silver top and bottom rims
+- silver pull tab
+- original fictional red label graphics
+- NO recognizable real-world soda branding
+- large expressive cartoon eyes integrated naturally into can body
+- flexible black eyebrows
+- tiny expressive mouth
+- thin cartoon arms
+- white four-finger-style mascot gloves
+- tiny legs
+- red-and-white sneakers
+
+Surface:
+
+- glossy lacquered aluminum
+- crisp reflections
+- slightly cool metal highlights
+- subtle condensation if appropriate
+
+Personality:
+
+- energetic
+- dramatic
+- overconfident
+- loves showing off
+- easily panics
+- lovable rather than annoying
+
+PART 1 EMOTIONAL ARC:
+
+0–2 sec:
+maximum confidence
+
+2–4 sec:
+confusion
+
+4–6 sec:
+panic
+
+6–11 sec:
+desperate comic determination
+
+11–13 sec:
+fear of losing the bubble
+
+13–15 sec:
+confused hope as Chill gets an idea
+
+IMPORTANT:
+
+Fizz must remain clearly identifiable as the SAME red can in every shot.
+
+Do not alter:
+
+- shape
+- height
+- face placement
+- silver top
+- shoes
+- glove style
+- red color
+
+==================================================
+CHARACTER IDENTITY LOCK — CRUNCH
+==================================================
+
+CRUNCH — YELLOW SNACK BAG MASCOT
+
+Appearance:
+
+- small puffy rectangular snack bag
+- bright warm yellow packaging
+- crinkled foil/plastic texture
+- sealed ridged top edge
+- original fictional package graphics only
+- large expressive eyes
+- tiny mouth
+- short flexible arms
+- white gloves
+- tiny legs
+- oversized orange sneakers
+
+Personality:
+
+- enthusiastic
+- loyal
+- easily alarmed
+- physically comedic
+- wants to be heroic
+- often makes things more chaotic
+
+PART 1 PERFORMANCE:
+
+0–2 sec:
+Fizz fanboy / applause
+
+2–4 sec:
+instant concern
+
+4–6 sec:
+dramatic panic
+
+6–10 sec:
+overenthusiastic rescue attempts
+
+10–13 sec:
+full comic emergency mode
+
+13–15 sec:
+confused by Chill’s calmness
+
+Packaging motion:
+
+Crunch’s bag should lightly crinkle, squash and puff with emotion.
+
+Do NOT deform him so much that his identity changes.
+
+==================================================
+CHARACTER IDENTITY LOCK — CHILL
+==================================================
+
+CHILL — BLUE ICE-CREAM CUP MASCOT
+
+Appearance:
+
+- compact cylindrical mint-blue / cool-blue ice cream cup
+- white plastic lid resembling a flat cap
+- clean original fictional cup graphics
+- relaxed half-lidded expressive eyes
+- small understated mouth
+- tiny flexible arms
+- white gloves
+- small legs
+- white sneakers
+- one silver spoon attached vertically/diagonally to his back like a tiny tool
+
+Personality:
+
+- extremely calm
+- intelligent
+- observant
+- dry sense of humor
+- speaks rarely
+- never panics
+
+PART 1 PERFORMANCE:
+
+0–5 sec:
+unimpressed observer
+
+5–10 sec:
+quietly follows and studies
+
+10–13 sec:
+analyzes fan + bubble trajectory
+
+13–15 sec:
+solution clicks into place
+
+His comedy comes from contrast:
+
+Fizz and Crunch = chaos.
+
+Chill = almost completely calm.
+
+==================================================
+KEY PROP LOCK — LAST BUBBLE
+==================================================
+
+The final bubble is the MAIN STORY OBJECT.
+
+Appearance:
+
+- one transparent soap-like carbonation bubble
+- roughly the size of Fizz’s head or slightly smaller
+- subtle rainbow iridescence
+- reflective convenience-store lights on surface
+- transparent center
+- physically delicate
+- readable against dark backgrounds
+
+The bubble must remain:
+
+# ONE SINGLE BUBBLE
+
+Never duplicate it.
+
+Trajectory must be physically understandable.
+
+It moves through the story:
+
+Fizz
+→ floats upward
+→ drifts into aisle
+→ passes candy / price tags
+→ Crunch misses it
+→ bounces gently from shiny apple
+→ rises toward ceiling
+→ ventilation airflow begins drawing it upward.
+
+The audience must always understand where the bubble is going.
+
+==================================================
+“1 BUBBLE LEFT” VISUAL
+==================================================
+
+At the discovery beat, briefly show a simple ORIGINAL diegetic graphic beside or reflected near Fizz:
+
+“1 BUBBLE LEFT”
+
+Style:
+
+- tiny red/orange digital indicator
+- simple iconography
+- readable for less than one second
+- not a permanent HUD
+- not a video-game interface
+
+It should feel like a comedic internal soda-status visualization.
+
+Do NOT cover the whole frame with UI.
+
+==================================================
+ENVIRONMENT LOCK — MIDNIGHT CONVENIENCE STORE
+==================================================
+
+Maintain the uploaded storyboard environment.
+
+Store:
+
+- closed for the night
+- organized aisles
+- soda shelves
+- snack shelves
+- candy section
+- fruit display
+- shopping baskets
+- small paper price tags
+- refrigerators/freezers
+- ceiling ventilation fans
+- glossy tile floor
+- large storefront windows
+- shelves dramatically oversized compared with the tiny mascots
+
+Lighting:
+
+- warm practical ceiling lights
+- soft orange shelf illumination
+- cool midnight blue shadows
+- occasional moonlight from storefront windows
+- reflections on polished floor
+- subtle refrigerator cyan light
+
+The store should feel huge from mascot scale.
+
+Use miniature cinematography.
+
+==================================================
+WORLD / PHYSICS RULES
+==================================================
+
+The characters are tiny product mascots living secretly inside a normal convenience store.
+
+Maintain believable miniature scale.
+
+Fizz jumping:
+lightweight metal-can motion.
+
+Crunch:
+soft bag bounce and packaging crinkle.
+
+Chill:
+small solid cup motion with slightly heavier stable footing.
+
+Bubble physics:
+
+- extremely lightweight
+- slow upward drift
+- reacts to air currents
+- gently rebounds from objects
+- never behaves like a heavy ball
+- never explodes in Part 1
+
+CAUSE → EFFECT must remain readable.
+
+Fizz releases last bubble
+→ bubble rises.
+
+Characters chase
+→ air movement causes slight drift.
+
+Crunch misses
+→ bubble continues.
+
+Bubble touches apple
+→ gently redirects upward.
+
+Ceiling fan airflow
+→ bubble starts being pulled toward fan.
+
+==================================================
+INTEGRATED_MULTIMODAL_DESCRIPTION
+==================================================
+
+[SHOT 1 — 0:00–0:01.8]
+MIDNIGHT — THE GREAT FIZZ ENTRANCE
+
+Open outside / just inside the convenience store at midnight.
+
+Establish:
+
+- dark blue night sky
+- quiet storefront
+- warm store lights glowing inside
+
+Move quickly into the soda aisle.
+
+Suddenly—
+
+# POP!
+
+Fizz shoots upward from the soda shelf riding on top of a large fizzy bubble.
+
+He balances dramatically like a tiny action hero.
+
+Several tiny harmless carbonation bubbles trail around him.
+
+He lands perfectly on the front edge of the shelf.
+
+Crunch immediately applauds enthusiastically.
+
+Chill stands nearby with half-lidded eyes and almost no reaction.
+
+Fizz opens his arms proudly.
+
+Fizz:
+
+<d>[English] Still got it.</d>
+
+Crunch:
+
+<d>[English] That was AMAZING!</d>
+
+Chill gives a tiny unimpressed:
+
+<d>[English] Mm-hm.</d>
+
+CAMERA:
+
+wide store establish
+→ fast push toward soda shelf
+→ low-angle Fizz entrance
+→ medium three-character reaction.
+
+SFX:
+
+- fizzy POP
+- bubble wobble
+- tiny sneaker landing
+- Crunch package crinkle
+- small celebratory sparkle sound
+
+MUSIC:
+
+playful miniature heist/adventure theme begins.
+
+==================================================
+[SHOT 2 — 0:01.8–0:03.6]
+ONE BUBBLE LEFT
+
+Medium close-up on Fizz.
+
+He continues posing proudly.
+
+Then—
+
+a tiny pathetic bubble emerges from near his pull tab.
+
+SFX:
+
+# “pip.”
+
+Fizz slowly looks upward.
+
+The bubble floats beside him.
+
+A tiny diegetic indicator flashes:
+
+# 1 BUBBLE LEFT
+
+Fizz’s smile disappears.
+
+Crunch stops applauding.
+
+Chill raises one eyebrow.
+
+Fizz:
+
+<d>[English] Wait...</d>
+
+Fizz gently shakes himself.
+
+No bubbles.
+
+He shakes again.
+
+Nothing.
+
+Fizz:
+
+<d>[English] That can’t be right.</d>
+
+Crunch:
+
+<d>[English] ONE?!</d>
+
+Chill remains calm.
+
+Camera:
+
+Fizz hero close-up
+→ tiny bubble
+→ status indicator
+→ reaction three-shot.
+
+Music drops into a comic suspense note.
+
+==================================================
+[SHOT 3 — 0:03.6–0:05.4]
+THE FINAL BUBBLE ESCAPES
+
+Fizz tries increasingly silly but safe methods to make more carbonation:
+
+tiny bounce,
+small shake,
+quick spin.
+
+Nothing.
+
+Then—
+
+the ONE remaining bubble slowly drifts away from him.
+
+Fizz freezes.
+
+His pupils track it.
+
+Fizz:
+
+<d>[English] No no no no...</d>
+
+Bubble clears the edge of the shelf.
+
+Fizz reaches forward.
+
+Too late.
+
+Fizz:
+
+<d>[English] MY BUBBLE!</d>
+
+Crunch gasps dramatically.
+
+Chill turns his eyes toward the bubble’s trajectory.
+
+Camera follows the bubble over the shelf edge.
+
+==================================================
+[SHOT 4 — 0:05.4–0:07.5]
+THE STORE-WIDE CHASE
+
+Fizz leaps safely down from the low product display and runs after the floating bubble.
+
+Crunch runs immediately behind him, bag bouncing and crinkling wildly.
+
+Chill calmly climbs/slides down and follows at an efficient pace.
+
+The camera tracks low at mascot height.
+
+The bubble floats through the giant store aisle.
+
+Pass:
+
+- candy displays
+- hanging price cards
+- colorful product shelves
+- oversized boxes
+- polished tiles
+
+Fizz stretches both hands upward while running.
+
+Fizz:
+
+<d>[English] Don’t let it get away!</d>
+
+Crunch:
+
+<d>[English] I GOT IT!</d>
+
+Chill, quietly:
+
+<d>[English] You don’t.</d>
+
+Strong visual scale:
+
+tiny mascots below,
+huge supermarket aisle above.
+
+==================================================
+[SHOT 5 — 0:07.5–0:09.4]
+CRUNCH’S GREAT RESCUE ATTEMPT
+
+Crunch spots an empty decorative snack bowl / tray.
+
+His eyes light up.
+
+He grabs it with both hands.
+
+Crunch:
+
+<d>[English] Stand back!</d>
+
+He runs underneath the bubble.
+
+Moves bowl left.
+
+Bubble moves right.
+
+He moves right.
+
+Bubble moves left.
+
+Crunch finally jumps and thrusts the bowl upward.
+
+MISS.
+
+Fizz also makes a tiny dive beneath it.
+
+MISS.
+
+Crunch lands seated inside / behind the bowl, stunned but unharmed.
+
+Fizz:
+
+<d>[English] Great plan!</d>
+
+Crunch:
+
+<d>[English] Thank you!</d>
+
+Beat.
+
+Fizz:
+
+<d>[English] I was being sarcastic!</d>
+
+If dialogue timing is crowded, prioritize:
+“Stand back!” + visual comedy.
+
+Bubble continues forward.
+
+==================================================
+[SHOT 6 — 0:09.4–0:11.0]
+THE APPLE BOUNCE
+
+The last bubble drifts toward the fruit display.
+
+Close macro shot:
+
+a shiny red apple reflects the bubble and tiny running mascots.
+
+Bubble gently touches the apple.
+
+# boop.
+
+It redirects upward.
+
+Fizz arrives just beneath it.
+
+His eyes widen.
+
+Fizz:
+
+<d>[English] Uh-oh.</d>
+
+Camera tilts vertically following the bubble.
+
+Reveal:
+
+a ceiling ventilation fan high above.
+
+The bubble begins drifting toward it.
+
+Music shifts from playful chase to light suspense.
+
+Chill stops running.
+
+He studies the situation.
+
+==================================================
+[SHOT 7 — 0:11.0–0:13.3]
+TOO SHORT
+
+The ventilation fan rotates above.
+
+IMPORTANT:
+
+Do not make it threatening or dangerous-looking.
+
+It is simply creating airflow.
+
+The bubble begins moving upward faster.
+
+Fizz jumps repeatedly.
+
+Too short.
+
+Crunch rushes behind him.
+
+Fizz grabs a safe shelf lip / hanging display support.
+
+Crunch holds Fizz around the legs.
+
+They stretch upward in a ridiculous mascot chain.
+
+Fizz:
+
+<d>[English] Almost...</d>
+
+Crunch:
+
+<d>[English] I can’t stretch anymore!</d>
+
+Fizz:
+
+<d>[English] You’re a BAG!</d>
+
+Crunch:
+
+<d>[English] EXACTLY!</d>
+
+The bubble remains just beyond reach.
+
+Wide low-angle composition:
+
+Fizz + Crunch foreground
+→ bubble above
+→ fan far overhead.
+
+Chill watches from below.
+
+Do NOT show either character falling dangerously.
+
+==================================================
+[SHOT 8 — 0:13.3–0:15.0]
+CHILL GETS AN IDEA — CLIFFHANGER
+
+Cut away from the chaos.
+
+Close-up on Chill.
+
+He calmly looks upward.
+
+His eyes track:
+
+bubble
+→ ventilation fan
+→ nearby store environment
+→ spoon attached to his back.
+
+Use a subtle visual thought sequence.
+
+No literal thought bubble required.
+
+His half-lidded expression changes.
+
+One eyebrow rises.
+
+Then—
+
+the smallest confident smile.
+
+Chill reaches behind himself.
+
+Slowly removes his silver spoon.
+
+Fizz and Crunch turn toward him.
+
+Fizz:
+
+<d>[English] Chill?!</d>
+
+Crunch:
+
+<d>[English] Why are you smiling?!</d>
+
+Chill looks at the spoon.
+
+Then at the bubble.
+
+Chill:
+
+<d>[English] I have an idea.</d>
+
+Hold on:
+
+Chill foreground with spoon,
+Fizz and Crunch staring,
+bubble suspended high in background,
+fan visible above.
+
+Music stops on a clever suspense sting.
+
+CUT TO BLACK.
+
+END PART 1.
+
+==================================================
+AUDIO DESCRIPTION
+==================================================
+
+Generate synchronized native stereo audio.
+
+Soundscape should feel:
+
+- playful
+- tactile
+- miniature
+- energetic
+- clean
+- cinematic
+- family-friendly
+
+==================================================
+FIZZ VOICE
+==================================================
+
+Young energetic masculine cartoon voice.
+
+Qualities:
+
+- quick
+- confident
+- charismatic
+- expressive
+- slightly dramatic
+- high energy without becoming shrill
+
+Emotional progression:
+
+show-off
+→ disbelief
+→ panic
+→ desperate determination.
+
+Priority lines:
+
+<d>[English] Still got it.</d>
+
+<d>[English] Wait...</d>
+
+<d>[English] MY BUBBLE!</d>
+
+<d>[English] Don’t let it get away!</d>
+
+<d>[English] Uh-oh.</d>
+
+==================================================
+CRUNCH VOICE
+==================================================
+
+Energetic comedic masculine/androgynous mascot voice.
+
+Qualities:
+
+- excitable
+- earnest
+- slightly squeaky
+- lovable
+- nervous
+
+Use packaging crinkle underneath body movement.
+
+Priority lines:
+
+<d>[English] That was AMAZING!</d>
+
+<d>[English] ONE?!</d>
+
+<d>[English] Stand back!</d>
+
+<d>[English] I can’t stretch anymore!</d>
+
+<d>[English] Why are you smiling?!</d>
+
+==================================================
+CHILL VOICE
+==================================================
+
+Low-energy calm mascot voice.
+
+Qualities:
+
+- dry
+- relaxed
+- understated
+- clever
+- almost sleepy
+
+Do NOT make him emotionless.
+
+His minimalism is the joke.
+
+Priority:
+
+<d>[English] Mm-hm.</d>
+
+Optional:
+
+<d>[English] You don’t.</d>
+
+Final line MUST be clear:
+
+<d>[English] I have an idea.</d>
+
+==================================================
+STORE AMBIENCE
+==================================================
+
+Use:
+
+- quiet refrigerator hum
+- fluorescent / practical store ambience
+- subtle ventilation
+- distant compressor
+- small shelf creaks
+- soft floor squeaks
+- tiny packaging rustles
+- very faint outdoor night ambience
+
+Because the store is closed:
+
+no human voices,
+no shopping crowd,
+no cashier sounds.
+
+==================================================
+BUBBLE SOUND DESIGN
+==================================================
+
+Bubble gets a very subtle signature sound.
+
+Use:
+
+- tiny glassy shimmer
+- soft fizzy sparkle
+- gentle elastic “boop” on apple
+- airy upward whoosh near fan
+
+Do NOT make it sound magical or supernatural.
+
+It is stylized carbonation.
+
+==================================================
+NON-DIEGETIC MUSIC
+==================================================
+
+Create an ORIGINAL playful miniature-adventure score.
+
+Instrumentation:
+
+- pizzicato strings
+- muted marimba
+- light bass
+- tiny brass accents
+- brushed percussion
+- woodblocks
+- playful synth plucks
+- occasional glockenspiel
+
+Music arc:
+
+0:00–0:02
+heroic-comedy entrance.
+
+0:02–0:04
+sudden “something is wrong” motif.
+
+0:04–0:06
+bubble escape acceleration.
+
+0:06–0:10
+fast playful chase rhythm.
+
+0:10–0:13
+rising light suspense.
+
+0:13–0:15
+music strips back for Chill’s realization.
+
+Finish with:
+
+short clever unresolved sting.
+
+==================================================
+CAMERA LANGUAGE
+==================================================
+
+The camera should emphasize the mascots’ TINY SCALE.
+
+Use:
+
+- low floor-level tracking
+- macro product close-ups
+- wide oversized aisle shots
+- shelf-edge perspective
+- dynamic but readable pans
+- bubble-follow camera
+- rack focus between characters and bubble
+- low-angle ceiling reveal
+- intimate reaction close-ups
+
+Camera energy progression:
+
+0–3 sec:
+confident and playful.
+
+3–6 sec:
+tighter reactions.
+
+6–10 sec:
+faster chase.
+
+10–13 sec:
+vertical tension.
+
+13–15 sec:
+slow down for Chill’s idea.
+
+Avoid:
+
+- excessive handheld shake
+- giant action-movie camera spins
+- extreme fisheye
+- incomprehensible rapid cuts
+- heavy motion blur
+
+==================================================
+VISUAL STYLE
+==================================================
+
+Premium stylized 3D animated product-mascot short.
+
+Use:
+
+- polished CGI
+- expressive cartoon animation
+- glossy packaging materials
+- realistic-enough product reflections
+- soft global illumination
+- detailed miniature environments
+- cinematic depth of field
+- playful squash-and-stretch
+- clean readable silhouettes
+- premium commercial-quality rendering
+- subtle filmic motion blur
+- tactile packaging surfaces
+
+Fizz:
+hard glossy aluminum.
+
+Crunch:
+soft crinkled flexible bag.
+
+Chill:
+semi-matte paper/plastic ice-cream cup.
+
+This material contrast must remain visible.
+
+==================================================
+COLOR / LIGHTING
+==================================================
+
+Primary mascot colors:
+
+Fizz:
+bright glossy red + silver + white.
+
+Crunch:
+saturated yellow + orange.
+
+Chill:
+cool mint blue + white + silver spoon.
+
+Environment:
+
+- dark navy shadows
+- warm amber practical lighting
+- muted shelf colors
+- warm wood/brown accents
+- cool freezer cyan
+
+Lighting should keep all faces readable.
+
+No horror lighting.
+
+No flashing emergency lights.
+
+==================================================
+MOTION RULES — FIZZ
+==================================================
+
+Fizz is lightweight and energetic.
+
+Movement:
+
+- springy jumps
+- fast arm gestures
+- exaggerated facial acting
+- metallic body stays mostly rigid
+- slight cartoon body squash only
+- fast sneaker movement
+- pull tab remains attached
+
+Do NOT bend the can like rubber.
+
+==================================================
+MOTION RULES — CRUNCH
+==================================================
+
+Crunch can deform more than Fizz because he is flexible packaging.
+
+Use:
+
+- little crinkles
+- puffing
+- squash
+- bounce
+- flappy top edge
+- oversized sneaker motion
+
+Do not flatten him completely.
+
+==================================================
+MOTION RULES — CHILL
+==================================================
+
+Chill is the calmest.
+
+Movement:
+
+- minimal head turns
+- slow eye movement
+- controlled walking
+- small eyebrow raises
+- careful spoon removal
+
+His final slow action should contrast strongly against the chaotic chase.
+
+==================================================
+CONTINUITY RULES
+==================================================
+
+Maintain exactly:
+
+ONE Fizz.
+ONE Crunch.
+ONE Chill.
+ONE final bubble.
+
+No duplicate mascots.
+
+No bubble duplication.
+
+Same:
+
+- character colors
+- footwear
+- glove designs
+- facial layouts
+- packaging shapes
+- spoon
+- bubble size
+- store environment
+
+Bubble trajectory must remain continuous across shots.
+
+Fizz does NOT regain carbonation in Part 1.
+
+Chill does NOT execute the rescue before cut to black.
+
+==================================================
+DIALOGUE TIMING PRIORITY
+==================================================
+
+15 seconds is very short.
+
+Natural pacing is MORE important than using every optional line.
+
+Highest-priority dialogue:
+
+1.
+Fizz:
+<d>[English] Still got it.</d>
+
+2.
+Crunch:
+<d>[English] ONE?!</d>
+
+3.
+Fizz:
+<d>[English] MY BUBBLE!</d>
+
+4.
+Crunch:
+<d>[English] Stand back!</d>
+
+5.
+Fizz:
+<d>[English] Uh-oh.</d>
+
+6.
+Crunch:
+<d>[English] Why are you smiling?!</d>
+
+7.
+Chill:
+<d>[English] I have an idea.</d>
+
+If needed, remove secondary dialogue.
+
+Do NOT speed voices unnaturally.
+
+Use facial acting and SFX to carry comedy.
+
+==================================================
+SAFETY / CONTENT RULES
+==================================================
+
+All action is playful and safe.
+
+No injury.
+No violence.
+No weapons.
+No dangerous machinery contact.
+No character gets pulled into the fan.
+No sharp-object threat.
+No crashing glass.
+No broken products.
+No food contamination.
+No human conflict.
+
+The ventilation fan remains high and distant.
+
+The bubble is the only object being affected by its airflow.
+
+==================================================
+NEGATIVE CONSTRAINTS
+==================================================
+
+No storyboard sheet.
+No borders.
+No captions.
+No timestamps.
+No production notes.
+No reference drawings.
+No watermark.
+No brand logos.
+
+No real soda brands.
+No real snack brands.
+No real ice-cream brands.
+
+No duplicate Fizz.
+No duplicate Crunch.
+No duplicate Chill.
+No duplicate bubble.
+
+No character identity drift.
+No color changes.
+No shoe changes.
+No glove changes.
+No missing spoon.
+No disappearing pull tab.
+
+No humanoid humans joining the chase.
+No customers.
+No morning scene.
+
+No bubble returning to Fizz yet.
+No Part 2 resolution.
+
+No dangerous ceiling fan contact.
+No crushed mascots.
+No exploding products.
+No soda explosion.
+
+No malformed hands.
+No extra arms.
+No extra legs.
+No face distortion.
+No label flicker.
+No packaging morphing.
+
+==================================================
+FINAL 3-SECOND PRIORITY
+==================================================
+
+The final three seconds must create a STRONG Part 2 hook.
+
+Bubble rises toward ceiling ventilation.
+
+Fizz and Crunch form a ridiculous stretched chain beneath it.
+
+They are still too short.
+
+Fizz reaches desperately.
+
+Crunch struggles below.
+
+Then—
+
+CUT TO CHILL.
+
+...
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-517354/video-f661e6c0d06a.webm)
+
+**Source:** [@ManuAGI01](https://x.com/ManuAGI01/status/2087065646903517354) · 15s · 16:9 · product commercial
+
+---
+
+### 14. Created with MiniMax H3
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-540945/video-13cbea5b7467.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-540945/poster-9a426723aa8a.jpg" alt="Created with MiniMax H3 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a premium 15-second cinematic ad for Audionic Trance Airbud 850. Start with a close-up of the silver earbuds and case, then show a stylish Korean girl wearing them and...</summary>
+
+~~~~text
+Create a premium 15-second cinematic ad for Audionic Trance Airbud 850. Start with a close-up of the silver earbuds and case, then show a stylish Korean girl wearing them and walking through a luxurious Korean shopping street while enjoying a modern Korean K-pop song. Use beautiful city lights, soft bokeh, elegant fashion, natural expressions and smooth cinematic camera movement. End with one clean hero shot of the silver earbuds and case only. No phone screen, Bluetooth connection, discount text, logo end card or extra ending scene.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-540945/video-13cbea5b7467.webm)
+
+**Source:** [@ayzalnooor24521](https://x.com/ayzalnooor24521/status/2087042771257540945) · 15s · 68:45 · fashion
+
+---
+
+### 15. T2V Hailuo MinimaxH3 Prompt [FORMAT] Create a 15-second, 16:9 retro graphic
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/t2v-hailuo-minimaxh3-prompt-format-create-a-15-second-16-099381/video-7d3845a01378.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/t2v-hailuo-minimaxh3-prompt-format-create-a-15-second-16-099381/poster-77292751d7b1.jpg" alt="T2V Hailuo MinimaxH3 Prompt [FORMAT] Create a 15-second, 16:9 retro graphic video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — T2V Hailuo MinimaxH3 Prompt [FORMAT] Create a 15-second, 16:9 retro graphic opening-title sequence titled &quot;INK AFTER DARK&quot;. A stylish 1960s pulp-noir animation about a mysterious...</summary>
+
+~~~~text
+T2V Hailuo MinimaxH3 Prompt
+
+[FORMAT]
+Create a 15-second, 16:9 retro graphic opening-title sequence titled "INK AFTER DARK".
+A stylish 1960s pulp-noir animation about a mysterious night writer. Bold, minimal, elegant, slightly dangerous, with dry visual wit.
+
+[IDENTITY]
+Keep one female writer visually consistent throughout: sharp angular bob haircut, narrow almond-shaped eyes, long black turtleneck, high-waisted trousers, slim silhouette, black leather gloves, calm expression, upright self-assured posture, and hard graphic highlights along one side of her face.
+Use flat hand-inked 2D illustration with rough screen-print texture, imperfect paper grain, and slightly uneven ink edges.
+
+[BEATS]
+[0–3 seconds] Extreme close-up of the writer's face emerging from near-total black. A narrow cream-colored strip of light slides across her eyes. The frame abruptly opens sideways like torn paper, revealing her full silhouette walking across a burnt-red background while loose sheets of paper trail behind her like a long ribbon.
+
+[3–6 seconds] The paper ribbon sweeps across frame and becomes a graphic wipe. Reveal her in profile at a desk. She strikes one typewriter key. On impact, the screen fractures into three bold rectangular panels: her gloved fingers, the metal typebar snapping forward, and a giant black ink letter striking paper.
+
+[6–9 seconds] Rapid rhythmic close-ups: spinning typewriter ribbon spool, carriage return lever snapping sideways, black ink spreading through rough paper fibers. Thin cream lines cut diagonally across the screen and reorganize the images into an asymmetric editorial collage.
+
+[9–12 seconds] Pull wide. The writer stands alone beside an enormous abstract typewriter rendered as a black geometric silhouette. She pulls one endless page upward. The rising page becomes a full-frame cream vertical wipe while scattered black letters tumble downward like physical debris.
+
+[12–15 seconds] The letters rapidly assemble into the exact title "INK AFTER DARK" centered large on a burnt-red paper field. The writer's small black silhouette crosses beneath the title and exits frame. The title appears through sharp letter-by-letter mechanical impacts over 0.5 seconds, holds completely still through the ending. No bouncing, spinning, stretching, or fly-in typography.
+
+[CAMERA]
+Use aggressive graphic changes in scale: extreme facial close-up → full-body silhouette → macro mechanical inserts → monumental wide composition.
+Camera movement should feel designed rather than realistic: fast lateral pushes, sudden graphic crops, one rapid pull-out, and precise locked compositions. Avoid conventional cinematic orbit shots.
+
+[LIGHT]
+Limited palette only: burnt red, aged cream, deep black, with tiny muted silver highlights on typewriter metal.
+Hard noir side-lighting translated into flat graphic shapes. Rough vintage print stock, subtle paper scratches, coarse ink grain, slight registration offsets, and occasional frame jitter.
+
+[EDIT]
+Fast editorial rhythm with hard cuts, paper wipes, diagonal panel slices, oversized object masks, and split-screen recompositions.
+Transitions must be motivated by paper, ink, typewriter mechanisms, or moving silhouettes. No soft dissolves.
+Make every shot feel newly composed rather than simply zooming into the previous image.
+
+[AUDIO]
+Audio: dry typewriter key strikes, paper slides, ribbon-spool clicks, carriage-return snaps, faint room hum, and one heavy mechanical impact when the final title locks.
+BGM: an original 15-second cue, 65% noir suspense and 35% cool jazz. Upright bass, brushed snare, muted vibraphone, sparse low piano, and short clipped brass accents. Begin almost empty, introduce bass at 3 seconds, rhythmic percussion at 6 seconds, a brief brass accent at 10 seconds, then freeze the final 2 seconds on one bass note and the mechanical title hit. Do not imitate an existing melody.
+
+[NEGATIVE]
+No subtitles, extra on-screen text, watermarks, platform logos, or stickers.
+Do not introduce Chinese text, garbled characters, misspellings, or additional title variations. Render "INK AFTER DARK" once only.
+No 3D CGI, photorealism, anime styling, glossy modern motion graphics, neon cyberpunk aesthetics, or smooth vector-clean surfaces.
+Never a slideshow. Maintain active graphic motion, physical visual transitions, and continuously evolving compositions.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/t2v-hailuo-minimaxh3-prompt-format-create-a-15-second-16-099381/video-7d3845a01378.webm)
+
+**Source:** [@opener_ai](https://x.com/opener_ai/status/2087042643369099381) · 15s · 16:9 · fashion
+
+---
+
+### 16. Created using MiniMax H3 on .
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-using-minimax-h3-on-933942/video-5f61370b7f96.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-using-minimax-h3-on-933942/poster-8cafaa3f4e11.jpg" alt="Created using MiniMax H3 on . video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — [CHARACTER LOCK — use attached reference sheet] Haru: teen boy, short messy dark-brown hair with warm amber rim-light on the edges, tired amber eyes, single silver earring on left...</summary>
+
+~~~~text
+[CHARACTER LOCK — use attached reference sheet]
+Haru: teen boy, short messy dark-brown hair with warm amber rim-light on the
+edges, tired amber eyes, single silver earring on left ear, thin dark cord
+choker, oversized grey-blue windbreaker open over a longline blue hoodie, black
+joggers with dangling straps, scuffed black high-top sneakers. Face, hair
+silhouette, and outfit identical in every shot.
+
+[FORMAT]
+Anime television opening, 2D cel-shaded, crisp linework, 16:9, high contrast,
+film grain. Total runtime 15 seconds, 12 shots, beat-synced hard cuts.
+
+[SHOT LIST — 15s]
+00.0–01.2  Black. Hard white flash. Haru's silhouette snaps in, back to camera,
+           jacket billowing. Background floods CYAN.
+01.2–02.4  Whip-pan to profile close-up. Downcast eyes flick up, sharp.
+           Flash. Background MAGENTA.
+02.4–03.2  Low-angle wide: he sprints along a rooftop ledge, coat trailing,
+           paper and leaves scattering. ORANGE-RED, speed lines.
+03.2–03.9  Freeze-frame mid-leap between rooftops. Pure black silhouette
+           against strobing YELLOW-to-LIME.
+03.9–04.7  Top-down spin: lands, one hand on concrete, dust ring bursts out.
+           Snap to DEEP PURPLE.
+04.7–05.3  Extreme close-up: silver earring swings, catches a lens flare.
+           White flash frame.
+05.3–06.2  Split-screen triptych — three duotone copies of his face
+           (blue / red / green) rotating, one per beat.
+06.2–07.4  Back view, walking into wind, hood snapping, hair whipping.
+           Background ELECTRIC BLUE with horizontal scan lines.
+07.4–08.2  Hands-in-pockets front shot, camera orbits fast around him.
+           Colors cycle GREEN → PINK → WHITE across the orbit.
+08.2–09.4  Seated on the ledge, knees up, head down, city lights blooming
+           behind. Muted TEAL. Brief calm — no flash on this cut.
+09.4–10.6  He stands, turns to camera, hair lifting, single amber rim-light
+           igniting along his edge. Background goes pure WHITE.
+10.6–15.0  Pull-back wide: Haru walks away toward the sunset skyline, hands in
+           pockets, clothes drifting. Color settles into the warm painted
+           palette of the reference sheet. Camera dollies out, holds on
+           centered title-card space.
+
+[MOTION]
+Simple punchy character animation on twos. Hair and fabric always drifting.
+Camera: whip pans, snap zooms, one fast orbit, one final dolly-out.
+
+[COLOR & FX]
+Full-frame color swaps on every cut, synced to an implied beat. White
+flash-frames between shots 1–9. Chromatic aberration on impacts, halftone dot
+bursts, quick duotone inversions, floating leaf and paper debris throughout.
+Warm amber rim-light preserved on the character in every shot.
+
+[NEGATIVE]
+photorealistic, 3D render, live action, extra characters, text or logos,
+changing outfit, changing hair color, distorted face, extra fingers, watermark
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/created-using-minimax-h3-on-933942/video-5f61370b7f96.webm)
+
+**Source:** [@keneth_ai](https://x.com/keneth_ai/status/2087039444146933942) · 15s · 943:540 · music video
+
+---
+
+### 17. 動画プロンプトはリプ欄に
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-813383-813383/video-80bf4915acd6.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-813383-813383/poster-02f5468c0bb7.jpg" alt="動画プロンプトはリプ欄に video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — タイトル：ENDLESS STEP / 終わらない階段 尺：15秒 ジャンル：現代アート / Op Art / Surrealism 画面：16:9 カラー：白黒モノクロ中心 BGM：なし コンセプト：「進み続けているのに、どこにも辿り着いていない」...</summary>
+
+~~~~text
+タイトル：ENDLESS STEP / 終わらない階段 尺：15秒 ジャンル：現代アート / Op Art / Surrealism 画面：16:9 カラー：白黒モノクロ中心 BGM：なし コンセプト：「進み続けているのに、どこにも辿り着いていない」 演出方針：前半は空間の異常、中盤は物理法則の崩壊、後半は人間と空間そのものの境界を崩す。ネオン・派手なグリッチ・大量の粒子は禁止。幾何学、錯視、建築、人体の融合だけで見せる。 CUT1｜0.0–1.8秒 Visuals｜何も存在しない真っ白な巨大空間。中央に一本だけ細長い黒い階段が奥へ伸びている。黒いミニマルな衣装の主人公が背中を向け、ゆっくり階段を上る。階段の表面だけが細い白黒ストライプになっている。最初は完全に静かな世界。 Camera｜24mm / F4。床ギリギリのローアングル。主人公を中央固定した完全シンメトリー構図。ゆっくり前方へドリーイン。 Motion｜主人公の歩行のみ。1歩につき約0.7秒。最後の0.5秒から階段表面のストライプがごく僅かに波打つ。 Lighting｜巨大な白いソフトボックスで空間全体を均一照明。人物と階段の下だけにシャープな黒い影。 VFX｜非常に弱い水平波状ディストーション。まだ異常だと断定できない程度。 SFX｜乾いた靴音「コツ、コツ」。極低音のルームトーン。 Emotion｜静寂。整いすぎていることへの違和感。 Transition｜足が次の段へ触れた瞬間にCUT2。 CUT2｜1.8–3.3秒 Visuals｜足元の極端なクローズアップ。靴底が階段へ触れるたび、白黒ストライプが水面のように沈み込み、波紋となって階段全体へ広がる。階段自体は固体なのに、模様だけが液体のように反応する。 Camera｜70mm / F2.8。階段より少し低い位置から足を追うローアングルトラッキング。 Motion｜足が接触 → 模様が沈む → 円状波紋が広がる → 次の一歩。足の動きはリアル、模様だけ非現実。 Lighting｜白背景を飛ばし気味にし、靴とストライプの黒を強調。 VFX｜Optical ripple、局所的なストライプ変形、軽いレンズ屈折。 SFX｜足音の直後に低い「ブゥン」という短い共鳴音。 Emotion｜世界が人物の存在に反応し始める。 Transition｜波紋が画面いっぱいへ広がりCUT3。 CUT3｜3.3–5.0秒 Visuals｜主人公の横顔ミディアム。背後の真っ白な壁に、横方向へ伸びる黒い階段がいつの間にか存在している。その階段を、もう一人の人物が壁面に対して垂直に歩いている。さらに天井には逆さになった人物が歩く。主人公本人はまだ気づいていない。 Camera｜50mm / F2.8。主人公の横顔にフォーカス。約0.7秒後、背景の異常な階段へラックフォーカス。 Motion｜主人公、壁の人物、天井の人物は全員まったく同じ歩行周期。ただし方向だけ異なる。 Lighting｜全人物へ同じ方向から光が当たっている。重力方向と影の方向が一致しない。 VFX｜Impossible perspective、非ユークリッド建築、重力不一致。 SFX｜正面の足音に、左・上方向から別の足音が薄く加わる。 Emotion｜「何かがおかしい」が明確になる瞬間。 Transition｜主人公が次の一段へ足を置く瞬間、低音と同時にCUT4。 CUT4｜5.0–6.7秒 Visuals｜足が一段に着地した瞬間、巨大空間全体が突然90°回転する。床が右側の壁へ変わり、天井だった面が床になる。しかし主人公は何事もなかったかのように同じ階段を上り続ける。階段の白黒ストライプが一気に巨大な同心円へ変形。 Camera｜18mm / F5.6。主人公正面寄りの超広角。空間回転と完全同期してカメラも90°ロール。その後、主人公だけ水平に見える角度で固定。 Motion｜空間：高速90°回転。主人公：速度一定。同心円：主人公から外側へ膨張。 Lighting｜回転開始時に0.1秒だけ光量低下。回転後は光源方向だけ元の位置を維持し、不自然な影を作る。 VFX｜90° spatial rotation、同心円ディストーション、短いモーションブラー、パース破綻。 SFX｜重い「ゴォン」＋低周波スイープ。 Emotion｜重力のルールが完全に壊れる。 Transition｜同心円の中心へカメラが吸い込まれCUT5。 CUT5｜6.7–8.5秒 Visuals｜超広角全景。上下左右、斜め、天井、壁へ無数の階段が伸びる巨大な不可能建築。人物は複数存在するが大量には増やさず、5〜7人程度。それぞれ異なる重力方向で歩いている。階段同士は交差しているように見えるが、実際には接続していない。中央の主人公だけが正常方向にいる。 Camera｜14mm / F5.6。空間中央を中心に高速オービット約100°。少しだけロールを加える。 Motion｜階段は静止。人物は一定速度で歩行。背景のストライプのみ逆方向へゆっくり移動。 Lighting｜完全モノクロ。白背景、黒い階段。影だけが異なる方向へ伸び、現実感を壊す。 VFX｜Non-Euclidean architecture、forced perspective、figure-ground ambiguity。 SFX｜異なる方向から足音が重なり、リズムが少しずつズレる。 Emotion｜空間そのものが巨大な錯視装置になった感覚。 Transition｜オービット中、主人公の顔がフレーム中央へ入りCUT6。 CUT6｜8.5–10.2秒 Visuals｜主人公の正面クローズアップ。主人公が初めて立ち止まる。顔の右側が模様になるのではなく、頬の表面そのものがゆっくり内側へ折れ始める。皮膚が建築物の壁のように変形し、顔の内部へ何百メートルも続く小さな白黒階段が現れる。片目、鼻、口の位置は正常なまま。顔の内部だけが巨大空間になっている。 Camera｜85mm / F2。顔正面。0.8秒かけてゆっくりドリーイン。最後の0.4秒で顔内部の階段へ急速接近。 Motion｜主人公は完全静止。まばたき一回。顔表面が紙を内側へ折るように段階的に陥没。内部階段の小さな人物だけが歩き続ける。 Lighting｜顔中央に柔らかい正面光。顔内部の空間はCUT1と同じ白い美術館照明。 VFX｜Face-to-architecture morph、recursive geometry、skin folding、深度拡張。顔への単純な模様貼り付けは禁止。 SFX｜周囲の足音が突然消える。顔が開く瞬間に紙を折るような乾いた音＋低い吸引音。 Emotion｜人体と建築の境界が崩れる。 Transition｜カメラが顔内部の階段へ完全に突入してCUT7。 CUT7｜10.2–12.5秒 Visuals｜顔内部の階段を歩く小さな主人公を追う。カメラが180°回転すると、これまで階段だと思っていた巨大な構造が、実は横向きになった人間の顔の輪郭だったと判明する。鼻梁が階段、唇の輪郭が通路、眼窩が巨大な円形空間になっている。さらにもう一度角度が変わると、再びただの階段に見える。「顔」と「建築」が視点によって交互に切り替わる。 Camera｜18mm / F4。人物後方から高速プッシュイン → 180°カメラロール → 一瞬静止 → ゆっくりドリーアウト。 Motion｜小さな主人公は歩行継続。巨大構造は動かさず、カメラ角度だけで顔と階段の認識が反転する。 Lighting｜均一な白黒照明。輪郭にだけ薄いサイドライトを入れ、顔として認識できるギリギリまで強調。 VFX｜Figure-ground reversal、anamorphic perspective、face/architecture ambiguity。モーフではなく「見る角度で意味が変わる」錯視を優先。 SFX｜短い逆再生音。顔として見えた瞬間だけ人間の呼吸音が一度入る。 Emotion｜「見えているものが何なのか分からない」状態。 Transition｜階段の最上部にある巨大な黒い円へ主人公が近づきCUT8。 CUT8｜12.5–15.0秒 Visuals｜主人公が階段の頂上へ到達。正面には巨大な完全な黒い円。その向こうは見えない。主人公が黒い円へ足を踏み入れる。瞬間、カメラが真上へ高速ドリーアウト。巨大な階段構造全体が一度ねじれ、メビウスの輪のようにつながっていることが判明。さらに引くと、先ほどの黒い円は実はCUT1で主人公が最初に踏み出した「階段の一段目」の黒い面だったことが分かる。構図がCUT1と完全一致。主人公が再び最初の一歩を踏み出す。 Camera｜35mmから開始。黒い円への短いプッシュイン → 真上視点へ急上昇 → 14mm相当の超ワイド → CUT1と同じ24mmローアングル構図へシームレス変形。 Motion｜階段全体がゆっくり180°ねじれてメビウス構造になる。主人公は止まらず歩き続ける。最後の0.5秒はCUT1と完全同一の動き。 Lighting｜最後まで完全モノクロ。白と黒のみ。ループ直前に一瞬だけ白黒を反転し、すぐ元へ戻す。 VFX｜Möbius topology transformation、recursive space、black-white inversion、seamless loop。 SFX｜黒い円へ入る直前に音が完全停止。CUT1の構図へ戻った瞬間、最初と同じ「コツ」という一歩目の足音。 Emotion｜「15秒間進んでいたのに、実は最初の一歩から抜け出せていなかった」。 END｜暗転なし。文字なし。ロゴなし。CUT1へ完全に戻るシームレスループ。 最重要生成ルール｜  1. 主役は常に同一人物。同じ黒い衣装・髪型・体格を固定。 2. 世界は白・黒のみ。サイバーパンク、未来都市、ネオンは禁止。 3. 階段の形状と白黒ストライプを全CUTで共通モチーフとして維持。 4. CUT6は「顔に模様を貼る」のではなく「顔内部が巨大建築空間になる」。 5. CUT7は単純な顔モーフではなく、視点によって顔と階段の認識が反転する錯視。 6. CUT8は必ずCUT1へ物理的につながるメビウス構造にする。 7. グリッチは使わない。AIらしい溶け・崩れ・余計な手足・余計な人物生成を避ける。 8. オプ・アートらしい幾何学的精度、直線、反復、同心円、白黒コントラストを優先する。
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-813383-813383/video-80bf4915acd6.webm)
+
+**Source:** [@su_nagomi](https://x.com/su_nagomi/status/2086943242713813383) · 15s · 7:4 · cinematic story
+
+---
+
+### 18. "A hyper-realistic handheld phone video of a quiet suburban backyard on a bright
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/a-hyper-realistic-handheld-phone-video-of-a-quiet-suburban-495564/video-ed6186000378.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/a-hyper-realistic-handheld-phone-video-of-a-quiet-suburban-495564/poster-3f2373d244e6.jpg" alt="&quot;A hyper-realistic handheld phone video of a quiet suburban backyard on a bright video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — &quot;A hyper-realistic handheld phone video of a quiet suburban backyard on a bright normal afternoon. A person casually waters plants near a fence while birds chirp, distant traffic...</summary>
+
+~~~~text
+"A hyper-realistic handheld phone video of a quiet suburban backyard on a bright normal afternoon. A person casually waters plants near a fence while birds chirp, distant traffic hums, and everything feels completely ordinary and mundane. The camera drifts naturally like a real home video, capturing the lawn, patio furniture, and blue sky with soft white clouds. After several seconds of normal peaceful activity, a deep cracking sound suddenly comes from above. Without warning, the entire sky begins dropping straight downward like a gigantic solid ceiling, with the blue sky and clouds moving as one physical surface descending toward the yard. The person looks up in shock just as the sky rapidly fills the frame, swallowing the scene in a terrifying instant. The camera jerks and falls to the ground at the last moment. No cinematic buildup, no surreal visual style, it should feel like a totally normal real-life recording interrupted by one sudden impossible and visceral event."
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/a-hyper-realistic-handheld-phone-video-of-a-quiet-suburban-495564/video-ed6186000378.webm)
+
+**Source:** [@cocktailpeanut](https://x.com/cocktailpeanut/status/2086879654116495564) · 14s · 26:15 · music video
+
+---
+
+### 19. お題「宮島を散歩する猫」使ったプロンプトはリプのやつ。
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-710776-710776/video-cf49f7822360.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-710776-710776/poster-fe9266b9c0e4.jpg" alt="お題「宮島を散歩する猫」使ったプロンプトはリプのやつ。 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — No live-action photo style, no 3D CGI rendering, no text, no subtitles, no logos, no watermarks, no distorted anatomy, no abrupt jittery motion.</summary>
+
+~~~~text
+No live-action photo style, no 3D CGI rendering, no text, no subtitles, no logos, no watermarks, no distorted anatomy, no abrupt jittery motion.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-710776-710776/video-cf49f7822360.webm)
+
+**Source:** [@sanasana0707](https://x.com/sanasana0707/status/2086839288025710776) · 8s · 33:19 · action
+
+---
+
+### 20. Generated with Minimax H3 on
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/generated-with-minimax-h3-on-116099/video-324e8e0741a4.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/generated-with-minimax-h3-on-116099/poster-44259f5d470e.jpg" alt="Generated with Minimax H3 on video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Hyper-realistic cinematic fantasy action sequence, 15 seconds, aspect ratio 16:9. Daytime in a vast cold northern sea surrounded by jagged mountains and dark rocky cliffs. A fleet...</summary>
+
+~~~~text
+Hyper-realistic cinematic fantasy action sequence, 15 seconds, aspect ratio 16:9.
+
+Daytime in a vast cold northern sea surrounded by jagged mountains and dark rocky cliffs. A fleet of large medieval wooden warships sails through rough black-blue water while armored soldiers prepare for battle on the decks. Massive sails snap violently in the wind. The ships carry burning braziers, ropes, shields, spears, banners, wooden siege weapons, and rows of armed warriors. Thick storm clouds hang low above the sea. Wind drives sea spray across the decks. The danger comes from the sky: a giant dragon approaches from behind the mountains, its enormous wings gradually emerging through the mist.
+
+Begin with a high sweeping view of the entire fleet moving through the dangerous northern sea. Several warships sail in formation while smaller boats move between them. Soldiers look toward the distant mountains as a huge shadow passes across the water.
+Shift to a low deck-level view among the warriors. Men raise shields and grab spears while officers shout commands. The camera moves toward the front of the ship as the wind suddenly becomes violent.
+Cut to a distant view of the mountains. The dragon bursts through the clouds and flies directly toward the fleet, enormous wings beating through the storm mist. Its silhouette grows rapidly larger.
+
+Return above the ships as the dragon dives toward the fleet. Sailors scramble across the decks while archers rush into position. Burning arrows are lit and giant ballistae are rotated toward the approaching creature.
+
+Near the end, the dragon suddenly opens its jaws and releases a massive stream of fire toward the lead warship. The flames illuminate the dark sea as the crew raises shields and desperately attempts to turn the vessel.
+
+End with the dragon flying directly above the fleet as the first fireball crashes into the lead ship, exploding across its wooden deck.
+
+Style: hyper-realistic, cinematic, intense, fast-paced, suspenseful, fantasy atmosphere, strong sense of scale, warships, dragon battle, ocean storm, medieval warfare, fire, smoke, dynamic varied camera movement, no text, no logos, no cartoon style, no slow motion, no famous celebrity faces, no recognizable actors, no movie-star resemblance, no public-figure likenesses, no clear facial close-ups. Keep proportions. Keep style and features. Aspect ratio 16:9.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/generated-with-minimax-h3-on-116099/video-324e8e0741a4.webm)
+
+**Source:** [@Diplomeme](https://x.com/Diplomeme/status/2086833428713116099) · 15s · 16:9 · music video
+
+---
+
+### 21. 但实际证明Seedance2依然能打啊！
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/seedance2-854556/video-fd825440ee98.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/seedance2-854556/poster-04f43b4f5394.jpg" alt="但实际证明Seedance2依然能打啊！ video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — ​ — A young Caucasian woman, 177 cm tall, with long, straight, silky light-blonde hair and neat, airy bangs; she has light gray, clear eyes and delicate, cool-looking features....</summary>
+
+~~~~text
+​ — A young Caucasian woman, 177 cm tall, with long, straight, silky light-blonde hair and neat, airy bangs; she has light gray, clear eyes and delicate, cool-looking features. She is wearing a white, fitted, short, pleated V-neck spaghetti-strap tank top, blue fitted jeans, a brown leather belt with a large vintage-style silver buckle, and dark brown leather knee-high boots.
+ — white wireless microphone.
+ — round stage in the center of the arena, surrounded by crowd on all sides, LED screen above.
+ — music track, exactly this track must play throughout the entire scene.
+
+Mira performing on stage to the track — not singing, moving like a rock star, dynamic chaotic movements, aggressively moving to the beat, sharply headbanging. White microphone in hand. Not looking at the camera. Shooting only mira — super close-up, cuts allowed. No zooms — camera always physically right next to mira on stage, heavily tilted, handheld. Dark cinematic lighting — top light, soft warm light barely touching her face, deep shadows below. Realistic skin. ARRI Alexa 35, anamorphic lenses. No 3D, no VFX.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/seedance2-854556/video-fd825440ee98.webm)
+
+**Source:** [@ou_zhen599](https://x.com/ou_zhen599/status/2086831315559854556) · 27s · 3:4 · music video
+
+---
+
+### 22. Minimax H3 keeps delivering beautiful VFX sequences.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-keeps-delivering-beautiful-vfx-sequences-725200/video-e88007d9788b.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-keeps-delivering-beautiful-vfx-sequences-725200/poster-0c2e0703e6a5.jpg" alt="Minimax H3 keeps delivering beautiful VFX sequences. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Epic cinematic aerial shot: Endless rolling clouds flow across towering mountain peaks during sunrise. The golden light transforms the clouds into rivers of glowing vapor. Air...</summary>
+
+~~~~text
+Epic cinematic aerial shot: Endless rolling clouds flow across towering mountain peaks during sunrise. The golden light transforms the clouds into rivers of glowing vapor. Air currents gradually sculpt the cloud formations into the gigantic word "MORNING", stretching naturally across the sky. As the sun rises higher, the cloud letters slowly dissolve into the atmosphere while brilliant light floods the frame. Interstellar meets National Geographic, majestic, emotionally powerful.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-keeps-delivering-beautiful-vfx-sequences-725200/video-e88007d9788b.webm)
+
+**Source:** [@CharaspowerAI](https://x.com/CharaspowerAI/status/2086754531698725200) · 15s · 16:9 · music video
+
+---
+
+### 23. Created with MiniMax H3
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-823597/video-68e6bf825c2a.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-823597/poster-27f10be5609b.jpg" alt="Created with MiniMax H3 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — A Luxury perfume bottle on glossy black surface, warm amber lighting, golden smoke, dark elegant background, soft reflections, cinematic close-up, slow push-in, photorealistic 4K....</summary>
+
+~~~~text
+A Luxury perfume bottle on glossy black surface, warm amber lighting, golden smoke, dark elegant background, soft reflections, cinematic close-up, slow push-in, photorealistic 4K.
+Confident woman in a burnt-orange satin dress, long dark hair, luxurious dark interior with golden lights, subtle smoke, cinematic medium shot, photorealistic 4K.
+Close-up of the same woman spraying perfume on her neck. Visible fragrance mist, warm golden light, natural hair movement, shallow depth of field, cinematic beauty ad.
+Same woman walking confidently toward camera in the luxury interior. Smooth tracking shot, reflective floor, warm golden lighting, subtle smoke, elegant cinematic look.
+Same perfume bottle centered on glossy black surface with amber crystals and golden smoke. Dramatic spotlight, dark luxury background, slow push-in, photorealistic 4K.
+
+Consistency:
+Keep the same woman, face, hair, skin tone, outfit, and perfume bottle across all scenes. Warm amber lighting, realistic skin and movement. No extra people, distorted hands, duplicate objects, text, or logos.
+
+Style: Luxury fragrance commercial, cinematic, photorealistic, 4K.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-823597/video-68e6bf825c2a.webm)
+
+**Source:** [@Lianaalane](https://x.com/Lianaalane/status/2086730655161823597) · 15s · 16:9 · product commercial
+
+---
+
+### 24. Audioリファレンスでエラーが出る場合は、表示上15秒でも小数点以下でわずかに超えていることがあるので、実際の尺をチェックしてみてください！
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/audio15-594554/video-ecc108df5599.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/audio15-594554/poster-366a5dfe5895.jpg" alt="Audioリファレンスでエラーが出る場合は、表示上15秒でも小数点以下でわずかに超えていることがあるので、実際の尺をチェックしてみてください！ video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — プロンプトです。Neon仕様になってるのでGPTなどで参照キャラクターに調整して使ってみてください😆 ------------------------------------------------------- @[face ref] をNEONの顔、ピンクのボブヘア、黒い丸眼鏡の厳密な参照として使用します。 @[body ref]...</summary>
+
+~~~~text
+プロンプトです。Neon仕様になってるのでGPTなどで参照キャラクターに調整して使ってみてください😆
+-------------------------------------------------------
+@[face ref] をNEONの顔、ピンクのボブヘア、黒い丸眼鏡の厳密な参照として使用します。
+@[body ref] をNEONの体格、黒と赤のサイバーパンク衣装、装備、ブーツの厳密な参照として使用します。
+@[audio ref] は映像のリズム、カットの強弱、主要な音楽アクセントの参照として使用します。
+
+15秒のハイエンドなサイバーパンク・キャラクター紹介映像。
+主役はNEONただ一人。
+クールで知的、危険な雰囲気。動作は自信に満ち、抑制されている。
+
+構成：
+
+0–3秒：IDENTITY REVEAL
+暗いネオン照明の空間。
+ブーツ、赤いジャケットのディテール、眼鏡越しの目元を短いバーストカットで見せる。
+最後に顔のクローズアップ。
+カットを@[audio ref] の最初の強いアクセントに合わせる。
+
+3–6秒：NEON ALLEY
+雨に濡れた未来都市の路地。
+NEONがゆっくりカメラ方向へ歩く。
+ローアングル、横方向のトラッキング、濡れた路面に映る赤いネオン。
+人物の動きよりもカメラワークを強調。
+
+6–9秒：TECH UNDERGROUND
+赤い警告灯が点滅する地下施設。
+肩越しのショット、手袋と装備のクローズアップ、短いオービットショット。
+NEONは静かに周囲を観察する。
+
+9–12秒：MEGACITY ROOFTOP
+巨大な未来都市を見下ろす夜の屋上。
+風でピンクの髪とジャケットがわずかに揺れる。
+ワイドショットからローアングルのヒーローフレームへ切り替える。
+
+12–15秒：FINAL HERO REVEAL
+赤とマゼンタの逆光。
+カメラがNEONの周囲を短く回り込み、正面のミディアムクローズアップで止まる。
+NEONが眼鏡越しにカメラを見る。
+最後の音楽アクセントで力強い静止ヒーローフレーム。
+
+編集：
+合計12〜15ショット。
+主要カットを@[audio ref] の強拍に合わせる。
+環境変更は音楽フレーズの変化に合わせる。
+細かい半拍すべてにカットを入れず、強いアクセントを優先する。
+
+一貫性：
+同じ顔、同じ髪型、同じ眼鏡、同じ体格、同じ衣装を全編で維持。
+衣装の黒・赤・ゴールドの配色と装備位置を維持。
+キャラクターは常に一人だけ。
+
+禁止：
+複数のNEON、分身、衣装変更、髪型変更、眼鏡の消失、
+顔や身体のモーフィング、過剰なアクション、文字、ロゴ、字幕、UI、
+キャラクターシート風レイアウト、分割画面、白背景。
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/audio15-594554/video-ecc108df5599.webm)
+
+**Source:** [@Nokosu_kansoku](https://x.com/Nokosu_kansoku/status/2086700416654594554) · 15s · 7:4 · cinematic travel
+
+---
+
+### 25. It came out pretty good
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/it-came-out-pretty-good-253323/video-c6dbc7691117.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/it-came-out-pretty-good-253323/poster-20df70c2cfc2.jpg" alt="It came out pretty good video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — cinematic 15-second ultra-realistic sequence inside a luxurious modern boardroom during daytime. Soft natural light enters through large glass windows. Four powerful...</summary>
+
+~~~~text
+cinematic 15-second ultra-realistic sequence inside a luxurious modern boardroom during daytime. Soft natural light enters through large glass windows. Four powerful industrialists in expensive tailored suits sit around a long polished dark wooden table. The atmosphere is tense and high-stakes.
+
+The senior industrialist at the head of the table leans forward slightly and says firmly:
+“This acquisition will change the entire market. Either we move now, or someone else will.”
+
+Another industrialist across the table adjusts his cufflinks and replies calmly:
+“Moving now is risky. The numbers still don’t support a full takeover.”A third industrialist places both hands on the table and speaks with intensity:
+“Risk is the price of control.
+
+The investors are already waiting for our decision.”The camera slowly pushes in as the most powerful industrialist leans back, looks at everyone, and delivers the final line with quiet authority:
+“Then we take it. No more delays.”
+
+Cinematic lighting, sharp details on suits and the wooden table, subtle tension in their faces, realistic skin textures, high-end corporate atmosphere, shallow depth of field, filmic look.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/it-came-out-pretty-good-253323/video-c6dbc7691117.webm)
+
+**Source:** [@adithatipalli](https://x.com/adithatipalli/status/2086698076325253323) · 15s · 16:9 · cinematic story
+
+---
+
+### 26. Created with MiniMax H3
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-059973/video-3896db6ced5e.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-059973/poster-7280e63a51f7.jpg" alt="Created with MiniMax H3 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a 15-second ultra-realistic cinematic lifestyle vlog video, vertical 9:16, featuring the same young woman throughout the entire video. Preserve her facial identity, facial...</summary>
+
+~~~~text
+Create a 15-second ultra-realistic cinematic lifestyle vlog video, vertical 9:16, featuring the same young woman throughout the entire video. Preserve her facial identity, facial proportions, hairstyle, skin tone and overall appearance consistently in every shot. She wears the same outfit throughout: fitted white V-neck T-shirt with a small subtle logo, blue denim jeans, natural makeup, long softly wavy brown hair.
+
+0:00–0:01 — Wake-up:
+Close-up inside a beautiful bright bedroom. The woman is lying comfortably on the bed, slowly wakes up, stretches naturally and opens her eyes. She is NOT filming a vlog yet and does not hold a phone or camera. Soft morning sunlight enters through the curtains.
+
+0:01–0:02 — Gets up:
+Medium shot. She sits up on the bed, smiles softly, fixes her hair and gets ready to start her morning. Natural, effortless movement.
+
+0:02–0:03 — Walks to window:
+She walks toward the large glass balcony door/window. Camera follows her naturally from behind/side.
+
+0:03–0:04 — Seaside reveal:
+She opens the curtains/door and looks outside. Reveal a breathtaking blue ocean, coastal hills, flowers, balcony and beautiful morning sunlight. She smiles happily while taking in the view.
+
+0:04–0:05 — Steps outside:
+She walks out onto the seaside terrace. Gentle ocean breeze moves her hair naturally. Wide cinematic shot showing the beautiful surroundings.
+
+0:05–0:06 — VLOG START:
+Only now she starts filming herself in handheld selfie-vlog style. She looks into the camera with a bright natural smile and says:
+“Good morning!”
+
+0:06–0:07 — Show the view:
+She turns the camera away from herself and slowly pans across the stunning ocean, coastal mountains, flowers and terrace. Smooth handheld vlog movement.
+
+0:07–0:08 — Back to selfie:
+Selfie shot. She looks into the camera and happily says:
+“This place is just perfect!”
+
+0:08–0:09 — Location reveal:
+Wide cinematic shot of the cozy seaside terrace with wooden table, chairs, plants and flowers overlooking the ocean.
+
+0:09–0:10 — Walk to table:
+Medium tracking shot as she walks toward the table, enjoying the view. Her hair and T-shirt move gently in the sea breeze.
+
+0:10–0:11 — Sit and relax:
+She sits at the seaside table, smiling peacefully and enjoying the ocean view. A refreshing orange-colored juice is placed on the table.
+
+0:11–0:12 — Juice close-up:
+Cinematic close-up of her hand picking up the glass of fresh orange juice. Beautiful ocean bokeh in the background, natural sunlight reflecting through the glass.
+
+0:12–0:13 — Vlog toast:
+Selfie shot. She raises the juice toward the camera with a cheerful smile and says:
+“Cheers to good days!”
+
+0:13–0:14 — Happy close-up:
+Beautiful close-up of her smiling naturally at the camera, ocean and warm sunlight softly blurred behind her.
+
+0:14–0:15 — Ending:
+Camera moves from her toward the sparkling ocean and peaceful coastal landscape. Warm sunlight, gentle waves and a relaxing cinematic ending.
+
+Overall Style
+
+Ultra-realistic, cinematic travel vlog, natural handheld camera movement, realistic human motion, smooth transitions, soft morning sunlight, realistic ocean waves, gentle wind in hair and clothes, beautiful coastal atmosphere, premium lifestyle aesthetic, natural expressions, authentic vlog feeling, shallow depth of field, cinematic composition, realistic skin texture, high detail, 4K quality.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-059973/video-3896db6ced5e.webm)
+
+**Source:** [@ayzalnooor24521](https://x.com/ayzalnooor24521/status/2086671141998059973) · 15s · 68:45 · vlog
+
+---
+
+### 27. Seocnd Storyboard image to video using 's MiniMax H3 on
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/seocnd-storyboard-image-to-video-using-s-minimax-h3-on-442041/video-252019a6d170.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/seocnd-storyboard-image-to-video-using-s-minimax-h3-on-442041/poster-b607393e7e7f.jpg" alt="Seocnd Storyboard image to video using 's MiniMax H3 on video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — [REFERENCE CONTROL] Use the uploaded PART 2 storyboard image for: “ARI &amp; BRUNO — THE CROISSANT BLOOMS” as the STRICT PRIMARY visual, character, environment, prop, food-design,...</summary>
+
+~~~~text
+[REFERENCE CONTROL]
+
+Use the uploaded PART 2 storyboard image for:
+
+“ARI & BRUNO — THE CROISSANT BLOOMS”
+
+as the STRICT PRIMARY visual, character, environment, prop, food-design, lighting, performance, and story-continuity reference.
+
+This sequence continues DIRECTLY from PART 1.
+
+PART 1 ended with:
+
+- Ari believing he had accidentally ruined the raw croissants
+- Bruno remaining calm and supportive
+- Bruno reshaping one squashed pastry into a flower
+- Ari realizing the mistake could become a new idea
+- Ari saying:
+  <d>[English] Then let’s make them bloom.</d>
+- Ari and Bruno beginning to reshape the remaining raw pastries together
+
+PART 2 begins AFTER they have completed the flower-shaped raw pastries and baked them.
+
+Generate a FINISHED cinematic animated short from the storyboard.
+
+DO NOT animate the storyboard sheet itself.
+
+The finished video must NOT contain:
+
+- storyboard borders
+- panel numbers
+- timestamps
+- handwritten captions
+- production notes
+- character-reference drawings
+- prop-reference drawings
+- color swatches
+- storyboard-paper background
+- title/header
+- page labels
+- subtitles
+- speech bubbles
+- watermarks
+- logos
+
+The uploaded storyboard locks:
+
+1. Ari’s exact face
+2. Ari’s short tousled brown hair
+3. Ari’s youthful slim proportions
+4. Ari’s white/cream baker shirt
+5. Ari’s rolled sleeves
+6. Ari’s light apron
+7. Bruno’s exact face
+8. Bruno’s curly dark hair
+9. Bruno’s beard
+10. Bruno’s large heavyset build
+11. Bruno’s cream baker clothing/apron
+12. same cozy artisan bakery
+13. same wooden counters and shelving
+14. same warm morning lighting
+15. same oven area
+16. same baking tray
+17. same croissant-flower concept
+18. baked croissant bloom design
+19. powdered sugar
+20. berries/apricot accents
+21. serving platter/cake stand
+22. mentor-apprentice emotional relationship
+23. Ari’s nervous-to-proud performance arc
+24. Bruno’s calm encouraging personality
+
+Translate the storyboard’s fifteen one-second panels into approximately:
+
+# 8 COHERENT CINEMATIC SHOTS
+
+Do NOT make fifteen frantic cuts.
+
+Narrative progression:
+
+oven reveal
+→ beautiful baked transformation
+→ delicate finishing
+→ Ari spots imperfection
+→ Bruno calmly fixes it
+→ hero food reveal
+→ customer reaction
+→ Ari gains confidence
+→ bakery comes alive
+→ final mentor/apprentice payoff.
+
+==================================================
+VIDEO GOAL
+==================================================
+
+Duration:
+
+# EXACTLY 15 SECONDS
+
+Story range:
+
+PART 2 — 0:15 to 0:30
+
+Aspect ratio:
+16:9 landscape
+
+Frame-rate feeling:
+cinematic 24 fps
+
+Visual medium:
+premium hand-painted 2D animated-film style
+
+Genre:
+cozy bakery story / uplifting mentor-apprentice short
+
+Tone:
+
+- warm
+- satisfying
+- tactile
+- charming
+- lightly comedic
+- emotionally uplifting
+- delicious-looking
+- wholesome
+- family-friendly
+
+Dialogue:
+natural synchronized English
+
+Audio:
+native dialogue + bakery ambience + baking sounds + subtle customer reactions + original cinematic score
+
+CORE PAYOFF:
+
+The pastries Ari thought were ruined become the bakery’s most beautiful creation.
+
+But the real transformation is Ari:
+
+worried apprentice
+→ proud young baker.
+
+==================================================
+PART 2 START / END
+==================================================
+
+START:
+
+Bruno safely opens the bakery oven.
+
+Warm steam escapes.
+
+Ari leans forward.
+
+Their experimental flower-shaped pastries have baked beautifully.
+
+END:
+
+Ari confidently presents the finished Croissant Bloom.
+
+Customers are delighted.
+
+Bruno stands proudly beside him.
+
+Finish with Ari and Bruno together behind the counter, glowing bakery around them.
+
+The story must feel COMPLETE.
+
+NO cliffhanger.
+
+==================================================
+CHARACTER IDENTITY LOCK — ARI
+==================================================
+
+Match the uploaded storyboard and Part 1 EXACTLY.
+
+ARI — APPRENTICE BAKER
+
+Appearance:
+
+- young teenage boy
+- warm light skin
+- short tousled brown hair
+- large expressive dark/brown eyes
+- soft youthful face
+- slim body
+- narrow shoulders
+- white/cream baker shirt
+- rolled sleeves
+- light beige apron
+- simple work trousers
+
+Do NOT alter:
+
+- face
+- age
+- hairstyle
+- proportions
+- shirt
+- apron
+- coloring
+
+PERSONALITY:
+
+- earnest
+- hardworking
+- careful
+- talented but inexperienced
+- slightly perfectionistic
+- eager to learn
+- kind
+- quietly creative
+
+PART 2 PERFORMANCE ARC:
+
+0–3 sec:
+hopeful anticipation
+
+3–5 sec:
+amazed by successful bake
+
+5–7 sec:
+careful craftsmanship
+
+7–9 sec:
+brief perfectionist worry
+
+9–11 sec:
+reassured
+
+11–13 sec:
+surprised by customer approval
+
+13–15 sec:
+genuine confidence and pride
+
+IMPORTANT:
+
+Ari should not instantly become wildly confident.
+
+His pride grows through the sequence.
+
+Use small acting details:
+
+- widened eyes
+- careful hands
+- tiny nervous breath
+- relieved smile
+- shoulders gradually relaxing
+- final stronger posture
+
+==================================================
+CHARACTER IDENTITY LOCK — BRUNO
+==================================================
+
+Match PART 1 EXACTLY.
+
+BRUNO — HEAD BAKER
+
+Appearance:
+
+- large heavyset adult build
+- curly dark hair
+- full short beard
+- warm expressive eyes
+- broad face
+- large friendly hands
+- light baker shirt
+- cream apron
+
+Personality:
+
+- calm
+- experienced
+- cheerful
+- patient
+- encouraging
+- playful
+- deeply supportive of Ari
+
+PERFORMANCE ARC:
+
+0–3 sec:
+proud anticipation
+
+3–7 sec:
+quiet mentor satisfaction
+
+7–10 sec:
+calm reassurance
+
+10–13 sec:
+lets Ari own the success
+
+13–15 sec:
+proud mentor
+
+Bruno should NEVER steal Ari’s final hero moment.
+
+By the ending:
+
+Bruno moves slightly into the background while Ari presents the pastry.
+
+His expression should communicate:
+
+“You made this.”
+
+==================================================
+CROISSANT BLOOM — STRICT FOOD DESIGN LOCK
+==================================================
+
+This is the visual centerpiece.
+
+Use the exact concept from the storyboard.
+
+The finished Croissant Bloom consists of:
+
+- multiple golden baked croissant/flower pastries
+- arranged radially like overlapping flower petals
+- circular bouquet-like structure
+- crisp flaky laminated layers
+- buttery golden-brown surface
+- slightly darker toasted edges
+- small berry / apricot accents clustered near center
+- delicate powdered sugar finish
+- presented on a round platter / cake stand
+
+It must look:
+
+- handmade
+- delicious
+- premium
+- warm
+- elegant
+- slightly imperfect in a charming artisanal way
+
+Do NOT make it look like:
+
+- cake
+- pizza
+- giant single croissant
+- plastic prop
+- unrealistic floral sculpture
+- magical glowing object
+
+It remains believable pastry.
+
+==================================================
+FOOD CONTINUITY
+==================================================
+
+Part 1:
+
+pale raw dough flowers.
+
+Part 2:
+
+the SAME flower pastries are now baked.
+
+The transformation is caused by OVEN BAKING.
+
+Correct sequence:
+
+raw flowers
+→ oven
+→ baked golden flowers
+→ plating
+→ powdered sugar
+→ fruit accents
+→ finished Croissant Bloom.
+
+No magical morph.
+
+==================================================
+ENVIRONMENT LOCK — ARI & BRUNO BAKERY
+==================================================
+
+Maintain the same artisan bakery.
+
+Include:
+
+- wooden counters
+- warm shelving
+- glass and ceramic jars
+- flour containers
+- bowls
+- old-fashioned oven
+- mixing tools
+- baking trays
+- rustic wood
+- baskets
+- cloth towels
+- berries
+- morning light
+- subtle flour particles
+
+Lighting:
+
+warm morning sunlight from the window.
+
+Secondary:
+
+amber oven glow.
+
+By the ending:
+
+the bakery feels slightly brighter and livelier because customers have entered.
+
+Do NOT change the building or create a new location.
+
+==================================================
+CUSTOMER DESIGN
+==================================================
+
+Introduce customers ONLY during the second half.
+
+Use a very small group.
+
+Primary customer:
+
+a friendly bakery regular, parent with a child, or warm young adult customer.
+
+Expression:
+
+- curious
+- delighted
+- impressed
+- warm
+
+Optional additional customers near ending:
+
+2–4 people maximum.
+
+Keep them visually secondary.
+
+The story remains about:
+
+ARI + BRUNO.
+
+No huge crowd.
+
+No influencer cameras.
+
+No modern social-media behavior.
+
+==================================================
+WORLD / ACTION LOGIC
+==================================================
+
+Bruno opens oven
+→ heat/steam reveals baked pastries.
+
+Ari sees they worked
+→ amazement.
+
+Pastries cool briefly / move to finishing station
+→ Ari decorates.
+
+Ari notices one uneven petal
+→ perfectionist worry returns.
+
+Bruno adjusts it gently
+→ Ari learns imperfection is manageable.
+
+Bloom completed
+→ hero reveal.
+
+Customer sees pastry
+→ delighted reaction.
+
+Praise reaches Ari
+→ confidence rises.
+
+Bruno encourages Ari
+→ Ari presents it himself.
+
+More bakery visitors notice
+→ morning becomes joyful.
+
+==================================================
+INTEGRATED_MULTIMODAL_DESCRIPTION
+==================================================
+
+[SHOT 1 — 0:00–0:01.8]
+THE OVEN REVEAL
+
+Continue naturally from Part 1.
+
+Warm bakery morning.
+
+Bruno, wearing a safe oven cloth/mitt, opens the oven.
+
+A soft wave of warm steam rises.
+
+Amber oven light spills onto Bruno and Ari.
+
+Ari leans forward from a safe distance.
+
+Bruno carefully slides the baking tray outward.
+
+REVEAL:
+
+their flower-shaped pastries have puffed into beautiful golden layered blooms.
+
+Ari’s eyes become huge.
+
+Ari:
+
+<d>[English] Bruno...</d>
+
+Bruno smiles.
+
+<d>[English] Take a look.</d>
+
+CAMERA:
+
+medium oven shot
+→ gentle push toward tray
+→ Ari reaction close-up.
+
+SFX:
+
+- oven door
+- subtle oven crackle
+- tray glide
+- warm steam
+- quiet bakery ambience
+
+MUSIC:
+
+Part 1 creative motif returns, now warmer and fuller.
+
+==================================================
+[SHOT 2 — 0:01.8–0:03.4]
+THE CROISSANTS BLOOMED
+
+Macro food hero photography-style animation.
+
+Camera glides slowly over the tray.
+
+Show:
+
+- flaky golden layers
+- crisp edges
+- flower-like shapes
+- buttery highlights
+- tiny warm steam
+- rich pastry texture
+
+Ari carefully lifts/rotates the tray on the work surface.
+
+Bruno stands behind him proudly.
+
+Ari:
+
+<d>[English] They actually bloomed.</d>
+
+Bruno:
+
+<d>[English] Told you.</d>
+
+Ari looks toward Bruno.
+
+Bruno adds, playfully:
+
+<d>[English] Mostly.</d>
+
+Tiny smile.
+
+Keep comedy subtle.
+
+==================================================
+[SHOT 3 — 0:03.4–0:05.2]
+THE FINAL DELICATE TOUCH
+
+Move to decorating station.
+
+The pastries are arranged into a circular floral display.
+
+Ari focuses intensely.
+
+Use tactile close-ups.
+
+First:
+
+Ari places several small red berries / apricot pieces into the center.
+
+Then:
+
+he gently shakes a fine layer of powdered sugar.
+
+Powder falls through golden morning light.
+
+Very beautiful slow visual moment.
+
+Not full slow motion—just graceful.
+
+Bruno watches nearby.
+
+Bruno:
+
+<d>[English] Easy...</d>
+
+Ari carefully finishes.
+
+<d>[English] Got it.</d>
+
+SFX:
+
+- berry placement taps
+- metal shaker
+- powdered sugar fall
+- soft plate movement
+
+==================================================
+[SHOT 4 — 0:05.2–0:06.8]
+ONE PETAL IS WRONG
+
+Ari steps backward to admire the Croissant Bloom.
+
+His smile begins.
+
+Then stops.
+
+His eyes lock onto ONE slightly tilted pastry petal.
+
+Camera push toward the small imperfection.
+
+Back to Ari.
+
+His brows tighten.
+
+Ari:
+
+<d>[English] Wait.</d>
+
+He leans closer.
+
+<d>[English] That one’s crooked.</d>
+
+Bruno looks.
+
+Small pause.
+
+Bruno:
+
+<d>[English] So?</d>
+
+Ari turns toward him, surprised.
+
+Keep this beat light and charming.
+
+==================================================
+[SHOT 5 — 0:06.8–0:08.3]
+BRUNO KNOWS JUST WHAT TO DO
+
+Bruno steps beside Ari.
+
+He gently reaches toward the slightly tilted pastry.
+
+With TWO fingers:
+
+tiny adjustment.
+
+That is all.
+
+The pastry sits naturally within the flower arrangement.
+
+Bruno:
+
+<d>[English] Handmade things don’t need to be identical.</d>
+
+If dialogue timing is tight, shorten to:
+
+<d>[English] Handmade isn’t perfect.</d>
+
+Ari studies the bloom.
+
+Bruno:
+
+<d>[English] It has character.</d>
+
+Ari gives a tiny relieved smile.
+
+This should echo Part 1’s message without becoming preachy.
+
+==================================================
+[SHOT 6 — 0:08.3–0:10.0]
+THE CROISSANT BLOOM — HERO REVEAL
+
+Ari and Bruno together place the finished Croissant Bloom on a raised round serving stand.
+
+Then both hands withdraw.
+
+CAMERA:
+
+start close
+→ slowly dolly backward
+→ reveal full pastry centerpiece.
+
+This is the MAIN FOOD BEAUTY SHOT.
+
+Warm morning sunlight catches:
+
+- flaky croissant layers
+- powdered sugar
+- berries
+- apricot pieces
+- golden crust
+- polished platter
+
+Tiny flour particles sparkle naturally in the sunlight.
+
+NO magical light.
+
+Bruno looks toward Ari rather than the food.
+
+Bruno is proud of HIM.
+
+Ari quietly smiles.
+
+No dialogue for a beat.
+
+Let music carry the reveal.
+
+==================================================
+[SHOT 7 — 0:10.0–0:12.3]
+THE FIRST CUSTOMER
+
+The bakery door bell gently rings.
+
+SFX:
+
+DING.
+
+Ari’s smile immediately becomes nervous again.
+
+A friendly customer approaches the counter, perhaps accompanied by a child.
+
+The customer sees the Croissant Bloom.
+
+Stops.
+
+Eyes widen.
+
+Customer:
+
+<d>[English] Oh, wow.</d>
+
+The child / companion leans closer with delight.
+
+Customer:
+
+<d>[English] Who made this?</d>
+
+Ari freezes briefly.
+
+He looks toward Bruno.
+
+Bruno does NOT answer.
+
+Instead:
+
+Bruno places one warm hand lightly on Ari’s shoulder.
+
+Then subtly gestures toward Ari.
+
+Ari:
+
+<d>[English] I... did.</d>
+
+Bruno smiles.
+
+<d>[English] He did.</d>
+
+Customer:
+
+<d>[English] It’s beautiful.</d>
+
+Close on Ari.
+
+His nervous expression melts into surprised pride.
+
+==================================================
+[SHOT 8 — 0:12.3–0:15.0]
+ARI’S MOMENT — COMPLETE PAYOFF
+
+Transition smoothly to a slightly wider bakery view.
+
+Two or three more customers have noticed the pastry.
+
+Keep crowd modest.
+
+Warm happy chatter.
+
+Someone points at the Croissant Bloom.
+
+Another customer smiles.
+
+The bakery becomes gently lively.
+
+Ari now stands behind the pastry.
+
+His posture is visibly more confident.
+
+Bruno steps half a pace behind him.
+
+Ari opens one hand toward the display like a real baker presenting his work.
+
+Ari:
+
+<d>[English] It’s our Croissant Bloom.</d>
+
+Bruno raises one eyebrow.
+
+Ari realizes what he said.
+
+Looks toward Bruno.
+
+Bruno gently corrects:
+
+<d>[English] Your Croissant Bloom.</d>
+
+Ari pauses.
+
+Warm genuine smile.
+
+FINAL COMPOSITION:
+
+Ari centered beside the beautiful pastry.
+
+Bruno behind/next to him with proud mentor smile.
+
+Croissant Bloom in foreground.
+
+Customers softly enjoying the bakery behind.
+
+Morning sunlight pours across the counter.
+
+Ari looks down at the pastry.
+
+Then at Bruno.
+
+Ari:
+
+<d>[English] Not bad for a mistake.</d>
+
+Bruno laughs warmly.
+
+<d>[English] Not bad at all.</d>
+
+Camera slowly pulls backward.
+
+Hold on:
+
+Ari
++
+Bruno
++
+Croissant Bloom
++
+warm living bakery.
+
+FADE TO BLACK.
+
+END STORY.
+
+==================================================
+AUDIO DESCRIPTION
+==================================================
+
+Generate synchronized native stereo audio.
+
+Sound should feel:
+
+- intimate
+- tactile
+- appetizing
+- cozy
+- cheerful
+- emotionally warm
+
+==================================================
+ARI VOICE
+==================================================
+
+Young teenage male voice.
+
+Qualities:
+
+- sincere
+- soft
+- hopeful
+- slightly nervous
+- naturally expressive
+- increasingly confident
+
+Performance arc:
+
+opening:
+wonder.
+
+finishing:
+focused.
+
+crooked petal:
+small perfectionist concern.
+
+customer:
+nervous again.
+
+ending:
+earned confidence.
+
+Important lines:
+
+<d>[English] They actually bloomed.</d>
+
+Deliver with genuine surprise.
+
+<d>[English] I... did.</d>
+
+small hesitation.
+
+Final:
+
+<d>[English] Not bad for a mistake.</d>
+
+gentle humor + pride.
+
+==================================================
+BRUNO VOICE
+==================================================
+
+Warm adult male voice.
+
+Qualities:
+
+- deep
+- gentle
+- broad
+- relaxed
+- encouraging
+- playful
+- mentor-like
+
+Important performance:
+
+Bruno never sounds like a lecturer.
+
+His lessons emerge naturally through action.
+
+Key lines:
+
+<d>[English] So?</d>
+
+light, amused.
+
+<d>[English] It has character.</d>
+
+warm.
+
+<d>[English] Your Croissant Bloom.</d>
+
+proud and sincere.
+
+Final laugh should feel genuine.
+
+==================================================
+CUSTOMER VOICE
+==================================================
+
+Friendly natural adult voice.
+
+Very little dialogue.
+
+Priority:
+
+<d>[English] Oh, wow.</d>
+
+<d>[English] Who made this?</d>
+
+<d>[English] It’s beautiful.</d>
+
+Do not exaggerate into advertisement-style praise.
+
+It should sound like a real warm customer reaction.
+
+==================================================
+BAKERY SOUND DESIGN
+==================================================
+
+Use:
+
+- oven crackle
+- oven door hinge
+- baking tray glide
+- warm steam
+- plate / stand contact
+- berry placement
+- powdered sugar shaker
+- fabric/apron movement
+- wooden floor
+- soft ceramic clinks
+- bakery door bell
+- low customer chatter
+- subtle room ambience
+
+FOOD SOUND:
+
+Keep realistic and restrained.
+
+No exaggerated ASMR crunching.
+
+==================================================
+NON-DIEGETIC MUSIC
+==================================================
+
+Create an ORIGINAL cozy bakery score continuing Part 1.
+
+Instrumentation:
+
+- warm piano
+- acoustic guitar
+- pizzicato strings
+- clarinet
+- light upright bass
+- brushed percussion
+- subtle accordion
+- glockenspiel accents
+
+MUSIC ARC:
+
+0:00–0:02
+anticipation from oven reveal.
+
+0:02–0:04
+warm success motif.
+
+0:04–0:06
+delicate decorating rhythm.
+
+0:06–0:08
+tiny comic uncertainty.
+
+0:08–0:10
+beautiful food-reveal swell.
+
+0:10–0:12
+soft emotional customer moment.
+
+0:12–0:15
+full warm resolution of Part 1 melody.
+
+Final chord should feel:
+
+complete,
+cozy,
+satisfying.
+
+==================================================
+CAMERA LANGUAGE
+==================================================
+
+Part 2 camera progression:
+
+0–3 sec:
+oven + food reveal.
+
+3–6 sec:
+intimate tactile decorating.
+
+6–8 sec:
+character interaction.
+
+8–10 sec:
+premium centerpiece reveal.
+
+10–12 sec:
+emotional reaction coverage.
+
+12–15 sec:
+confidence + warm bakery-wide payoff.
+
+Preferred camera techniques:
+
+- gentle dolly
+- macro pastry photography
+- top-down food detail
+- medium two-shot
+- subtle rack focus
+- close expression coverage
+- shallow depth
+- slow hero pull-back
+- natural parallax
+
+Avoid:
+
+- handheld shake
+- crash zoom
+- fast whip pans
+- dramatic Dutch angles
+- 360-degree spins
+- excessive motion blur
+
+==================================================
+FOOD CINEMATOGRAPHY PRIORITY
+==================================================
+
+The Croissant Bloom should be extremely appealing.
+
+Show clearly:
+
+- laminated pastry layers
+- tiny crisp flakes
+- buttery golden surface
+- toasted ridges
+- soft center
+- powdered sugar
+- berry reds
+- apricot orange accents
+- radial flower arrangement
+
+Lighting should create small specular highlights across flaky crust.
+
+Do NOT oversaturate.
+
+Do NOT make food unnaturally glossy.
+
+Aim for:
+
+handmade artisan bakery beauty.
+
+==================================================
+VISUAL STYLE
+==================================================
+
+Premium finished hand-painted 2D animated short.
+
+MATCH PART 1 EXACTLY.
+
+Use:
+
+- expressive ink contours
+- watercolor/gouache-inspired rendering
+- painterly shadows
+- warm textured backgrounds
+- stylized but believable food
+- expressive faces
+- tactile fabric
+- beautiful wooden surfaces
+- subtle depth of field
+- gentle cinematic bloom
+- hand-crafted animation feeling
+- soft natural squash-and-stretch
+
+The final video should feel like:
+
+THE STORYBOARD ILLUSTRATIONS HAVE COME TO LIFE.
+
+NOT:
+
+- storyboard animatic
+- motion comic
+- slideshow
+- photorealistic live action
+- generic 3D CGI
+- flat vector art
+- anime
+- hyperreal food commercial
+
+==================================================
+COLOR / LIGHTING
+==================================================
+
+Primary colors:
+
+- warm cream
+- pastry gold
+- flour white
+- berry red
+- apricot orange
+- bakery wood brown
+- muted sage
+- honey sunlight
+
+ARI:
+
+cream/white outfit,
+warm brown hair.
+
+BRUNO:
+
+warm neutral clothing,
+dark hair/beard.
+
+FOOD:
+
+richest golden tones in frame.
+
+LIGHTING:
+
+soft morning sun through bakery window.
+
+Use:
+
+- warm rim light
+- amber highlights
+- subtle cool fill from window shadows
+- gentle oven glow early
+- brighter counter light for hero reveal
+
+Do not suddenly change time of day.
+
+==================================================
+MOTION RULES — ARI
+==================================================
+
+Use:
+
+- excited lean toward oven
+- careful tray handling
+- delicate berry placement
+- controlled powdered-sugar dusting
+- small worried eyebrow shift
+- slightly tense hands
+- relief after Bruno fixes petal
+- nervous customer glance
+- gradually straighter posture
+- confident final presentation
+
+==================================================
+MOTION RULES — BRUNO
+==================================================
+
+Use:
+
+- safe oven handling
+- broad warm smile
+- calm gestures
+- tiny pastry adjustment
+- supportive shoulder touch
+- subtle nods
+- allowing Ari to lead
+- warm final laugh
+
+Bruno should never dominate the finished presentation.
+
+==================================================
+CONTINUITY RULES
+==================================================
+
+Maintain exactly:
+
+ONE Ari.
+ONE Bruno.
+
+Same:
+
+- character faces
+- hairstyles
+- clothing
+- aprons
+- proportions
+- bakery
+- oven
+- counter
+- tools
+- morning lighting
+
+Croissant Bloom continuity:
+
+oven tray
+→ finishing station
+→ serving platter
+→ customer presentation.
+
+Do NOT randomly alter:
+
+- pastry arrangement
+- fruit center
+- serving stand
+- number/shape of major pastry petals
+
+Once powdered sugar is added:
+
+keep it visible.
+
+Once berries are added:
+
+keep them visible.
+
+==================================================
+PART 1 → PART 2 CONTINUITY
+==================================================
+
+Part 1 final image:
+
+raw flower pastry idea.
+
+Part 2 beginning:
+
+those flower pastries are now baked.
+
+Do NOT begin with normal conventional croissants.
+
+The audience must immediately understand:
+
+THE “MISTAKE” BECAME THE NEW DESIGN.
+
+==================================================
+EMOTIONAL PERFORMANCE PRIORITY
+==================================================
+
+The strongest emotional chain is:
+
+Ari sees successful bake
+→ feels proud.
+
+Notices tiny imperfection
+→ old insecurity briefly returns.
+
+Bruno casually fixes it
+→ demonstrates perfection is not required.
+
+Customer loves pastry
+→ Ari discovers others value his creative work.
+
+Bruno lets Ari receive the credit
+→ confidence becomes internal.
+
+The ending is NOT:
+
+“Ari made perfect pastries.”
+
+The ending is:
+
+“Ari learned that imperfect beginnings can produce something worth sharing.”
+
+==================================================
+DIALOGUE TIMING PRIORITY
+==================================================
+
+15 seconds is short.
+
+Natural performance is more important than using every line.
+
+HIGHEST PRIORITY:
+
+1.
+Ari:
+<d>[English] They actually bloomed.</d>
+
+2.
+Ari:
+<d>[English] That one’s crooked.</d>
+
+3.
+Bruno:
+<d>[English] So?</d>
+
+4.
+Bruno:
+<d>[English] It has character.</d>
+
+5.
+Customer:
+<d>[English] Who made this?</d>
+
+6.
+Ari:
+<d>[English] I... did.</d>
+
+7.
+Customer:
+<d>[English] It’s beautiful.</d>
+
+8.
+Bruno:
+<d>[English] Your Croissant Bloom.</d>
+
+9.
+Ari:
+<d>[English] Not bad for a mistake.</d>
+
+If timing becomes crowded:
+
+REMOVE secondary dialogue.
+
+Do NOT make characters speak unnaturally fast.
+
+Let expressions carry several beats.
+
+==================================================
+SAFETY / CONTENT RULES
+==================================================
+
+Everything remains wholesome and safe.
+
+No injuries.
+No burns.
+No unsafe oven behavior.
+No dangerous tools.
+No conflict.
+No yelling.
+No humiliation.
+No bullying.
+
+Bruno handles hot oven equipment safely.
+
+Ari only handles the tray once it is safe / using proper protection where necessary.
+
+==================================================
+NEGATIVE CONSTRAINTS
+==================================================
+
+No storyboard sheet.
+No borders.
+No captions.
+No panel numbers.
+No timestamps.
+No title text.
+No production notes.
+No reference drawings.
+No subtitles.
+No watermarks.
+No logos.
+
+No duplicate Ari.
+No duplicate Bruno.
+
+No identity drift.
+No clothing changes.
+No hairstyle changes.
+No age changes.
+No apron flickering.
+
+No angry Bruno.
+No crying Ari.
+No food accident.
+No burned pastries.
+No smoke emergency.
+No fire.
+No broken dishes.
+
+No magical food transformation.
+No glowing supernatural pastry.
+No levitating food.
+
+...
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/seocnd-storyboard-image-to-video-using-s-minimax-h3-on-442041/video-252019a6d170.webm)
+
+**Source:** [@ManuAGI01](https://x.com/ManuAGI01/status/2086667788488442041) · 15s · 16:9 · product commercial
+
+---
+
+### 28. First Storyboard image to video using 's MiniMax H3 on
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-995928/video-9cbd5b66bb9b.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-995928/poster-7150a1d5c769.jpg" alt="First Storyboard image to video using 's MiniMax H3 on video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — [REFERENCE CONTROL] Use the uploaded PART 1 storyboard image for: “ARI &amp; BRUNO — THE CROISSANT THAT BLOOMED” as the STRICT PRIMARY visual, character, environment, prop, lighting,...</summary>
+
+~~~~text
+[REFERENCE CONTROL]
+
+Use the uploaded PART 1 storyboard image for:
+
+“ARI & BRUNO — THE CROISSANT THAT BLOOMED”
+
+as the STRICT PRIMARY visual, character, environment, prop, lighting, scale, performance, and narrative reference.
+
+Generate a FINISHED cinematic animated sequence based on this storyboard.
+
+DO NOT animate the storyboard sheet itself.
+
+The finished video must NOT contain:
+
+- storyboard borders
+- panel numbers
+- timestamps
+- handwritten captions
+- production notes
+- character reference drawings
+- prop reference drawings
+- color swatches
+- title/header
+- page background
+- annotations
+- subtitles
+- logos
+- watermarks
+
+The uploaded storyboard locks:
+
+1. Ari’s exact face
+2. Ari’s short messy brown hair
+3. Ari’s slim teenage proportions
+4. Ari’s cream/white baker shirt
+5. Ari’s rolled sleeves
+6. Ari’s light apron
+7. Ari’s expressive large eyes
+8. Bruno’s exact face
+9. Bruno’s curly dark hair
+10. Bruno’s short full beard
+11. Bruno’s large heavyset build
+12. Bruno’s light baker shirt and cream apron
+13. cozy artisan bakery environment
+14. warm sunrise lighting
+15. wooden worktable
+16. bowls, flour, rolling pin and baking tray
+17. original croissant dough design
+18. squashed dough design
+19. first flower-shaped dough concept
+20. Ari and Bruno’s mentor/apprentice relationship
+
+Translate the storyboard’s 15 one-second panels into approximately:
+
+# 8 COHERENT CINEMATIC SHOTS
+
+Do NOT create fifteen frantic one-second cuts.
+
+Story progression:
+
+warm bakery morning
+→ Bruno teaches
+→ Ari succeeds
+→ confidence grows
+→ small tray accident
+→ Ari believes he failed
+→ Bruno responds calmly
+→ mistake becomes a creative idea
+→ hopeful Part 1 cliffhanger.
+
+==================================================
+VIDEO GOAL
+==================================================
+
+Duration:
+
+# EXACTLY 15 SECONDS
+
+Story range:
+
+PART 1 — 0:00 to 0:15
+
+Aspect ratio:
+16:9 landscape
+
+Frame-rate feeling:
+cinematic 24 fps
+
+Visual medium:
+premium hand-painted 2D animated-film style
+
+Genre:
+cozy bakery story / mentor-apprentice friendship
+
+Tone:
+
+- warm
+- tactile
+- charming
+- gentle
+- lightly comedic
+- emotionally sincere
+- hopeful
+- family-friendly
+
+Dialogue:
+natural synchronized English
+
+Audio:
+native character dialogue + bakery ambience + baking sounds + original warm score
+
+CORE STORY IDEA:
+
+Ari wants to make everything perfectly.
+
+A small mistake makes him think he has failed.
+
+Bruno sees something else:
+
+a chance to create something new.
+
+==================================================
+PART 1 STORY LIMIT
+==================================================
+
+PART 1 ONLY.
+
+START:
+
+Morning begins inside the cozy bakery.
+
+Bruno teaches Ari how to shape croissants.
+
+END:
+
+Bruno reshapes ONE squashed pastry into a flower.
+
+Ari realizes the ruined batch might become something completely new.
+
+The remaining pastries are only BEGINNING to be reshaped.
+
+CUT TO BLACK.
+
+DO NOT show:
+
+- fully finished croissant bloom
+- baked flower pastries
+- berries added to finished bloom
+- powdered sugar finishing
+- final cake stand
+- customer reaction
+- customers entering bakery
+- Ari presenting final pastry
+- bakery crowd
+- final success
+
+All of those belong to PART 2.
+
+==================================================
+CHARACTER IDENTITY LOCK — ARI
+==================================================
+
+Match the uploaded storyboard EXACTLY.
+
+ARI — APPRENTICE BAKER
+
+Young teenage baker apprentice.
+
+Appearance:
+
+- warm light skin
+- youthful soft face
+- large expressive brown/dark eyes
+- short tousled medium-brown hair
+- slim build
+- narrow shoulders
+- youthful proportions
+- cream/white baker shirt
+- sleeves rolled to forearms
+- light beige/cream apron
+- simple work trousers
+- practical bakery shoes
+
+Do NOT redesign him.
+
+Do NOT change:
+
+- hairstyle
+- age
+- body proportions
+- apron
+- shirt
+- facial structure
+
+PERSONALITY:
+
+- hopeful
+- hardworking
+- eager
+- careful
+- slightly nervous
+- wants to impress Bruno
+- learns through doing
+
+PART 1 PERFORMANCE ARC:
+
+0–4 sec:
+focused learner
+
+4–6 sec:
+small success and growing confidence
+
+6–8 sec:
+careful but slightly rushed
+
+8–10 sec:
+sudden worry
+
+10–12 sec:
+expects disappointment
+
+12–15 sec:
+surprise → curiosity → renewed hope
+
+IMPORTANT:
+
+Ari is NOT terrified.
+
+His reaction to the mistake should be:
+
+“Oh no, I ruined our work.”
+
+Not:
+
+panic,
+trauma,
+extreme fear,
+crying.
+
+Use subtle emotional acting.
+
+==================================================
+CHARACTER IDENTITY LOCK — BRUNO
+==================================================
+
+Match uploaded storyboard EXACTLY.
+
+BRUNO — HEAD BAKER
+
+Appearance:
+
+- large broad heavyset build
+- warm medium/light-olive skin
+- curly dark-brown hair
+- short full beard
+- thick eyebrows
+- kind expressive eyes
+- large friendly hands
+- light baker shirt
+- cream apron
+- sturdy practical bakery clothing
+
+PERSONALITY:
+
+- grounded
+- cheerful
+- experienced
+- patient
+- reassuring
+- playful
+- mentor/fatherly energy
+
+Movement style:
+
+- broad
+- calm
+- confident
+- fluid
+- never rushed unnecessarily
+
+PART 1 PERFORMANCE ARC:
+
+0–4 sec:
+enthusiastic teacher
+
+4–7 sec:
+quietly proud of Ari
+
+7–10 sec:
+occupied nearby
+
+10–12 sec:
+notices mistake calmly
+
+12–15 sec:
+thinking → inspired → encouraging
+
+CRITICAL:
+
+Bruno must NEVER look angry.
+
+When he sees the squashed pastries:
+
+no yelling,
+no disappointment,
+no aggressive gestures.
+
+His first reaction should be:
+
+observe
+→ think
+→ smile slightly
+→ find possibility.
+
+==================================================
+ENVIRONMENT LOCK — MORNING BAKERY
+==================================================
+
+Maintain the exact bakery world from the storyboard.
+
+Environment:
+
+- artisan bakery kitchen
+- rustic wooden work counters
+- warm wooden shelves
+- flour jars
+- ceramic bowls
+- mixing bowls
+- rolling pins
+- baking trays
+- berries
+- butter
+- utensils
+- hanging cookware
+- old-fashioned oven
+- bread/pastry preparation surfaces
+- warm morning window
+- subtle flour particles floating in sunlight
+
+Lighting:
+
+warm sunrise entering from windows.
+
+Secondary lighting:
+
+soft amber oven glow.
+
+Color palette:
+
+- pastry gold
+- butter cream
+- flour white
+- berry red
+- wood brown
+- honey orange
+- muted sage accents
+
+The bakery should feel:
+
+handmade,
+lived-in,
+warm,
+inviting,
+delicious.
+
+==================================================
+KEY PROP LOCK — CROISSANT DOUGH
+==================================================
+
+Maintain clear physical progression.
+
+STAGE 1:
+flat triangular croissant dough.
+
+STAGE 2:
+rolled crescent-shaped raw croissants.
+
+STAGE 3:
+several neat croissants arranged on tray.
+
+STAGE 4:
+tray accidentally tilts.
+
+STAGE 5:
+some dough pieces become softly squashed / flattened.
+
+STAGE 6:
+Bruno uses the flattened shape as material for a flower pastry.
+
+IMPORTANT:
+
+The pastries are RAW DOUGH in Part 1.
+
+Do NOT suddenly turn them golden-baked before Part 2.
+
+Do not duplicate pastries unnaturally.
+
+==================================================
+FLOWER-SHAPED PASTRY IDEA LOCK
+==================================================
+
+The Part 1 ending reveals only the INITIAL IDEA.
+
+Bruno takes ONE squashed dough piece.
+
+He carefully:
+
+pinches one edge
+→ folds another section
+→ curves the layers
+→ forms overlapping dough petals.
+
+The result should resemble a simple raw pastry rose / flower.
+
+It is still:
+
+- pale dough
+- unbaked
+- soft
+- lightly floured
+
+The transformation must happen through Bruno’s HANDS.
+
+No magical transformation.
+
+No glowing magic.
+
+No instant morph.
+
+The creativity itself is the magic.
+
+==================================================
+WORLD / ACTION LOGIC
+==================================================
+
+Bruno demonstrates
+→ Ari copies.
+
+Ari copies correctly
+→ croissants look good.
+
+Success
+→ Ari gains confidence.
+
+Ari moves tray
+→ edge catches / tray tilts slightly.
+
+Tray tilts
+→ several soft raw pastries slide together.
+
+Soft pastries collide
+→ shapes become flattened.
+
+Ari sees damaged shapes
+→ thinks he failed.
+
+Bruno notices
+→ stays calm.
+
+Bruno studies flattened dough
+→ recognizes flower-like possibility.
+
+Bruno reshapes one pastry
+→ Ari understands the new idea.
+
+Everything must follow readable physical cause-and-effect.
+
+==================================================
+INTEGRATED_MULTIMODAL_DESCRIPTION
+==================================================
+
+[SHOT 1 — 0:00–0:01.8]
+MORNING IN THE LITTLE BAKERY
+
+Open with a warm cinematic establishing shot.
+
+Golden sunrise streams through the bakery window.
+
+Flour dust floats softly through light beams.
+
+Wooden counters are covered with:
+
+- bowls
+- butter
+- flour
+- dough
+- berries
+- rolling pins
+- baking tools
+
+Ari and Bruno work together at the center table.
+
+Camera glides slowly toward them.
+
+Bruno happily places a smooth sheet of dough on the floured work surface.
+
+Ari stands beside him, attentive.
+
+Bruno:
+
+<d>[English] Ready?</d>
+
+Ari nods enthusiastically.
+
+Ari:
+
+<d>[English] Ready.</d>
+
+Bruno smiles.
+
+MUSIC:
+
+soft morning bakery theme begins.
+
+Use:
+
+- acoustic guitar
+- pizzicato strings
+- piano
+- clarinet
+- subtle brushed percussion
+
+AUDIO:
+
+- quiet room tone
+- wooden counter sounds
+- soft bowl clinks
+- distant oven fire
+- flour brushing
+- morning birds outside
+
+==================================================
+[SHOT 2 — 0:01.8–0:03.6]
+BRUNO SHOWS THE FIRST STEP
+
+Move closer to the worktable.
+
+Bruno cuts / presents a triangle of laminated dough.
+
+Macro close-up of his large hands.
+
+He gently rolls from the wide end toward the point.
+
+One smooth motion.
+
+The layers curl into a neat croissant.
+
+Bruno:
+
+<d>[English] Gentle hands.</d>
+
+He lightly taps the finished shape.
+
+<d>[English] Let the dough do the work.</d>
+
+Ari watches closely.
+
+Use tactile food detail:
+
+- soft flour
+- buttery layers
+- subtle dough elasticity
+- hand pressure
+- flour fingerprints
+
+CAMERA:
+
+medium mentor/apprentice
+→ close dough triangle
+→ macro rolling hands
+→ finished raw croissant.
+
+==================================================
+[SHOT 3 — 0:03.6–0:05.4]
+ARI TRIES
+
+Bruno slides another dough triangle toward Ari.
+
+Ari inhales quietly.
+
+He places both hands carefully.
+
+He imitates Bruno.
+
+First fold.
+
+Small pause.
+
+Second roll.
+
+Final curl.
+
+The croissant holds its shape.
+
+Ari’s eyes widen.
+
+Ari:
+
+<d>[English] I did it.</d>
+
+Bruno smiles behind him.
+
+Bruno:
+
+<d>[English] You did.</d>
+
+Quick reveal of the tray:
+
+several neat raw croissants lined beautifully.
+
+Ari smiles.
+
+Bruno gives him a warm thumbs-up.
+
+Music becomes slightly brighter.
+
+==================================================
+[SHOT 4 — 0:05.4–0:07.0]
+CONFIDENCE GROWS
+
+Create a short flowing preparation sequence.
+
+Ari shapes another croissant.
+
+Then another.
+
+His movements become slightly faster and more natural.
+
+Bruno prepares something at the neighboring station.
+
+Ari places the final neat piece onto the baking tray.
+
+He proudly looks at the complete row.
+
+Ari:
+
+<d>[English] Not bad.</d>
+
+From nearby Bruno replies:
+
+<d>[English] Not bad?</d>
+
+Bruno glances toward the tray.
+
+Smiles.
+
+<d>[English] Very good.</d>
+
+Ari’s smile becomes bigger.
+
+Do not linger too long.
+
+==================================================
+[SHOT 5 — 0:07.0–0:08.8]
+ONE SMALL MISTAKE
+
+Ari reaches for the baking tray.
+
+Use clear physical movement.
+
+He grips both sides.
+
+Begins lifting it from the work surface.
+
+As he turns:
+
+one tray edge gently catches the corner of a folded cloth / wooden board.
+
+The tray tips several degrees.
+
+NOT a dramatic fall.
+
+The tray remains in Ari’s hands.
+
+The soft croissants slide toward one side.
+
+Ari:
+
+<d>[English] Whoa—!</d>
+
+He quickly levels the tray.
+
+Nothing falls onto the floor.
+
+No dangerous action.
+
+But several pastries have pressed softly into one another.
+
+A tiny puff of flour rises.
+
+Music stops on a gentle comic “oops” beat.
+
+SFX:
+
+- tray scrape
+- dough sliding
+- soft flour PUFF
+- light metal wobble
+
+==================================================
+[SHOT 6 — 0:08.8–0:10.4]
+ARI THINKS HE RUINED IT
+
+Close-up on the tray.
+
+Several once-perfect croissants are now:
+
+- flattened
+- pressed together
+- irregular
+- soft and misshapen
+
+Not disgusting.
+
+Not destroyed.
+
+Just imperfect.
+
+Rack focus to Ari.
+
+His eyes widen.
+
+Shoulders drop.
+
+Ari:
+
+<d>[English] Oh no...</d>
+
+He carefully sets the tray back down.
+
+Looks at the pastries.
+
+Ari, quietly:
+
+<d>[English] I ruined them.</d>
+
+Hold briefly on his worried expression.
+
+No crying.
+
+No melodrama.
+
+==================================================
+[SHOT 7 — 0:10.4–0:12.3]
+BRUNO DOESN’T GET UPSET
+
+Bruno enters the composition.
+
+Ari looks toward him nervously.
+
+Ari:
+
+<d>[English] Bruno... I’m sorry.</d>
+
+Bruno looks at:
+
+Ari
+→ tray
+→ squashed dough.
+
+He does NOT frown angrily.
+
+He simply leans closer.
+
+Studies one flattened piece.
+
+Tilts his head.
+
+Touches his beard thoughtfully.
+
+Ari waits.
+
+Silence for a small emotional beat.
+
+Then Bruno’s eyebrow rises.
+
+His expression becomes curious.
+
+A tiny smile begins.
+
+Bruno:
+
+<d>[English] Hmm...</d>
+
+Ari looks confused.
+
+Bruno:
+
+<d>[English] Maybe you didn’t.</d>
+
+Music introduces a soft playful “idea” motif.
+
+==================================================
+[SHOT 8 — 0:12.3–0:15.0]
+THE CROISSANT BEGINS TO BLOOM
+
+Bruno gently picks up ONE squashed raw pastry.
+
+Place it on the floured work surface.
+
+Ari leans closer.
+
+Bruno uses both hands.
+
+CLEAR ACTION:
+
+he pinches one edge inward
+→ folds a soft dough section
+→ curls another layer around it
+→ rotates it slightly
+→ gently opens the outer layers.
+
+The flattened pastry begins looking like a little flower / rose.
+
+Ari’s worried face transforms.
+
+Concern
+→ confusion
+→ surprise
+→ hope.
+
+Ari:
+
+<d>[English] A flower?</d>
+
+Bruno smiles.
+
+<d>[English] Why not?</d>
+
+He places the raw flower pastry onto the tray.
+
+Camera reveals several remaining squashed pieces beside it.
+
+Bruno looks at Ari.
+
+Bruno:
+
+<d>[English] Mistakes can become ideas.</d>
+
+Ari looks from the little flower pastry to the rest of the tray.
+
+His eyes brighten.
+
+Ari reaches toward another flattened piece.
+
+Ari:
+
+<d>[English] Then let’s make them bloom.</d>
+
+IMPORTANT:
+
+Do NOT show all pastries completed.
+
+Only:
+- ONE clear finished raw flower
+- perhaps ONE second pastry just beginning to be reshaped.
+
+End on:
+
+Ari and Bruno leaning over the tray together.
+
+The raw flower pastry sits between them.
+
+Warm sunlight catches the flour.
+
+Ari smiles with renewed confidence.
+
+Music lifts into hopeful cliffhanger chord.
+
+CUT TO BLACK.
+
+END PART 1.
+
+==================================================
+AUDIO DESCRIPTION
+==================================================
+
+Generate synchronized native stereo audio.
+
+Audio should be:
+
+- intimate
+- warm
+- tactile
+- cozy
+- emotionally clear
+- lightly playful
+
+==================================================
+ARI VOICE
+==================================================
+
+Young teenage male voice.
+
+Qualities:
+
+- sincere
+- gentle
+- slightly nervous
+- curious
+- eager
+- natural
+- not overly childish
+
+Performance progression:
+
+beginning:
+focused excitement
+
+success:
+proud but modest
+
+mistake:
+embarrassed and worried
+
+ending:
+surprised and inspired
+
+Important lines:
+
+<d>[English] I did it.</d>
+
+should feel like small genuine pride.
+
+<d>[English] I ruined them.</d>
+
+soft disappointment, not dramatic despair.
+
+Final:
+
+<d>[English] Then let’s make them bloom.</d>
+
+should carry renewed excitement.
+
+==================================================
+BRUNO VOICE
+==================================================
+
+Warm adult male voice.
+
+Qualities:
+
+- broad
+- relaxed
+- cheerful
+- grounded
+- reassuring
+- mentor-like
+- slightly playful
+
+Never harsh.
+
+Important dialogue:
+
+<d>[English] Gentle hands.</d>
+
+instructional and warm.
+
+<d>[English] Maybe you didn’t.</d>
+
+spoken calmly, creating curiosity.
+
+<d>[English] Mistakes can become ideas.</d>
+
+simple, natural, not overly inspirational or preachy.
+
+==================================================
+BAKERY SOUND DESIGN
+==================================================
+
+Use detailed but subtle sounds:
+
+- flour brush
+- soft dough pressing
+- rolling dough
+- metal bowl clinks
+- tray sliding
+- rolling pin on wood
+- apron fabric movement
+- oven crackle
+- distant kitchen ambience
+- gentle footsteps
+
+TRAY ACCIDENT:
+
+Keep sounds light.
+
+Use:
+
+small metal scrape
+→ dough slide
+→ flour puff.
+
+No loud crash.
+
+No smashing.
+
+==================================================
+NON-DIEGETIC MUSIC
+==================================================
+
+Create an ORIGINAL cozy bakery score.
+
+Instrumentation:
+
+- warm piano
+- acoustic guitar
+- pizzicato strings
+- clarinet
+- upright bass
+- brushed percussion
+- subtle accordion texture
+- tiny glockenspiel for inspiration moment
+
+MUSIC ARC:
+
+0:00–0:02
+warm morning introduction.
+
+0:02–0:05
+gentle learning rhythm.
+
+0:05–0:07
+small confidence lift.
+
+0:07–0:09
+brief playful “oops” punctuation.
+
+0:09–0:11
+soft emotional uncertainty.
+
+0:11–0:13
+curious pause.
+
+0:13–0:15
+hopeful creative motif.
+
+End unresolved enough to invite Part 2, but emotionally positive.
+
+==================================================
+CAMERA LANGUAGE
+==================================================
+
+Use a tactile cinematic food-storytelling approach.
+
+Start:
+
+wide environment.
+
+Then progressively move into:
+
+- hands
+- dough
+- facial reactions
+- food texture
+
+Preferred camera:
+
+- gentle dolly
+- medium two-shot
+- overhead preparation detail
+- macro dough close-ups
+- rack focus
+- subtle side tracking
+- eye-level emotional close-ups
+- final slow push-in on flower pastry
+
+The mistake should NOT use action-movie camera language.
+
+No shaky camera.
+
+No aggressive whip pan.
+
+No dramatic Dutch angle.
+
+No huge slow motion.
+
+Keep everything readable and intimate.
+
+==================================================
+FOOD CINEMATOGRAPHY
+==================================================
+
+Make the food visually satisfying.
+
+Show:
+
+- flour texture
+- laminated dough layers
+- soft butter sheen
+- gentle hand pressure
+- subtle elasticity
+- raw croissant curves
+- flour particles
+- flower-petal dough layers
+
+IMPORTANT:
+
+Part 1 pastries remain RAW.
+
+Use pale:
+
+- butter cream
+- flour beige
+- soft dough yellow
+
+Do NOT make them baked golden brown yet.
+
+Golden baked pastries belong to Part 2.
+
+==================================================
+VISUAL STYLE
+==================================================
+
+Premium finished hand-painted 2D animated short.
+
+Match the uploaded storyboard.
+
+Use:
+
+- clean expressive ink linework
+- watercolor/gouache inspired rendering
+- soft painterly shadows
+- warm textured wood
+- expressive stylized faces
+- detailed hand-painted food
+- subtle atmospheric depth
+- gentle cinematic bloom
+- warm morning light
+- tactile materials
+- tasteful squash-and-stretch
+
+The final animation should feel like:
+
+THE STORYBOARD ILLUSTRATIONS HAVE COME TO LIFE.
+
+NOT:
+
+- storyboard animatic
+- motion comic
+- slideshow
+- photorealistic live action
+- generic 3D CGI
+- flat vector cartoon
+- anime
+- hyperreal food commercial
+
+==================================================
+COLOR / LIGHTING
+==================================================
+
+Primary palette:
+
+- warm cream
+- butter yellow
+- pastry beige
+- flour white
+- wood brown
+- soft berry red
+- honey orange
+- muted sage
+
+LIGHTING:
+
+strong but soft sunrise through window.
+
+Use warm rim lighting on:
+
+- Ari’s brown hair
+- Bruno’s curly hair/beard
+- hands
+- flour particles
+- dough edges
+
+Oven provides subtle secondary amber glow.
+
+During Ari’s mistake:
+
+do NOT suddenly darken the scene.
+
+Maintain visual warmth.
+
+During Bruno’s idea:
+
+let sunlight gently highlight the newly formed flower pastry.
+
+No magical glow required.
+
+==================================================
+MOTION RULES — ARI
+==================================================
+
+Use:
+
+- careful hand movements
+- slightly hesitant shaping
+- focused eye movements
+- small proud smile
+- faster confidence after success
+- safe tray lift
+- small startled body recoil
+- lowered shoulders after mistake
+- leaning forward with curiosity
+- renewed energy at ending
+
+No exaggerated panic.
+
+==================================================
+MOTION RULES — BRUNO
+==================================================
+
+Use:
+
+- broad demonstration gestures
+- steady hand movements
+- relaxed posture
+- expressive eyebrows
+- thoughtful beard-touch
+- gentle dough reshaping
+- warm smile
+- subtle nods
+
+He is an experienced baker.
+
+His movements should feel effortless.
+
+==================================================
+CONTINUITY RULES
+==================================================
+
+Maintain exactly:
+
+ONE Ari.
+ONE Bruno.
+
+Same:
+
+- faces
+- hairstyles
+- clothing
+- aprons
+- body proportions
+- bakery layout
+- morning light
+- worktable
+- utensils
+- tray
+- dough appearance
+
+Raw croissant progression must stay continuous.
+
+Once the tray is squashed:
+
+do NOT show perfect original croissants again.
+
+Once Bruno creates the flower:
+
+that flower stays on the tray.
+
+No instant baked transformation.
+
+No berries or powdered sugar added to the flower pastries yet unless already incidental in the environment.
+
+==================================================
+EMOTIONAL PERFORMANCE PRIORITY
+==================================================
+
+The most important emotional transition is:
+
+ARI:
+
+“I ruined them.”
+
+BRUNO:
+
+does NOT react negatively.
+
+He studies the dough.
+
+Then:
+
+“Maybe you didn’t.”
+
+That small reaction teaches Ari that mistakes do not automatically equal failure.
+
+The final flower idea should feel earned through:
+
+observation
++
+craft
++
+creativity.
+
+Not magic.
+
+==================================================
+DIALOGUE TIMING PRIORITY
+==================================================
+
+Because the sequence is only 15 seconds, DO NOT force every optional line.
+
+Highest-priority spoken dialogue:
+
+1.
+Bruno:
+<d>[English] Gentle hands.</d>
+
+2.
+Ari:
+<d>[English] I did it.</d>
+
+3.
+Ari:
+<d>[English] Oh no...</d>
+
+4.
+Ari:
+<d>[English] I ruined them.</d>
+
+5.
+Bruno:
+<d>[English] Maybe you didn’t.</d>
+
+6.
+Ari:
+<d>[English] A flower?</d>
+
+7.
+Bruno:
+<d>[English] Why not?</d>
+
+8.
+Ari:
+<d>[English] Then let’s make them bloom.</d>
+
+If timing becomes tight:
+
+remove secondary dialogue rather than speeding up voices.
+
+==================================================
+SAFETY / CONTENT RULES
+==================================================
+
+Keep the entire video safe and family-friendly.
+
+No injury.
+No dangerous oven interaction.
+No burns.
+No fire accident.
+No knives used dangerously.
+No yelling.
+No conflict.
+No bullying.
+No harsh discipline.
+
+When oven appears:
+
+Bruno handles it safely.
+
+Ari stays at safe distance unless supervised.
+
+Tray accident occurs at the WORKTABLE, not near a dangerous hot oven.
+
+==================================================
+NEGATIVE CONSTRAINTS
+==================================================
+
+No storyboard sheet.
+No panels.
+No timestamps.
+No captions.
+No production notes.
+No reference drawings.
+No typography.
+No subtitle text.
+No logo.
+No watermark.
+
+No duplicate Ari.
+No duplicate Bruno.
+
+No character identity drift.
+No hairstyle changes.
+No apron changes.
+No costume changes.
+No sudden age changes.
+
+No angry Bruno.
+No crying Ari.
+No screaming.
+No dangerous accident.
+No food falling onto floor.
+No burning food.
+No fire emergency.
+
+No baked golden flower bloom yet.
+No customer.
+No bakery crowd.
+No finished presentation stand.
+No Part 2 payoff.
+
+No magical dough transformation.
+No levitating pastries.
+No glowing supernatural food.
+
+No malformed hands.
+No extra fingers.
+No warped faces.
+No flickering props.
+No disappearing tray.
+No inconsistent pastry count.
+
+==================================================
+FINAL 4-SECOND PRIORITY
+==================================================
+
+The final four seconds must create the Part 2 hook.
+
+Ari looks down sadly at the squashed raw croissants.
+
+Bruno studies them calmly.
+
+Bruno touches his beard.
+
+His eyes brighten with an idea.
+
+Bruno:
+
+<d>[English] Maybe you didn’t.</d>
+
+He takes ONE flattened pastry.
+
+Using his hands:
+
+pinch
+→ fold
+→ curl
+→ open the layers.
+
+It becomes a simple RAW flower-shaped pastry.
+
+Ari leans closer.
+
+His eyes widen.
+
+Ari:
+
+<d>[English] A flower?</d>
+
+Bruno smiles:
+
+<d>[English] Why not?</d>
+
+Bruno places the flower on the tray.
+
+Ari looks at the remaining flattened pastries.
+
+Then at Bruno.
+
+Ari smiles.
+
+<d>[English] Then let’s make them bloom.</d>
+
+Ari reaches toward the next pastry.
+
+STOP BEFORE THE FULL TRANSFORMATION.
+
+Slow camera push toward:
+
+one flower pastry
++
+several squashed pastries
++
+Ari’s hopeful face
++
+Bruno’s encouraging smile.
+
+Warm sunrise illuminates the flour particles.
+
+CUT TO BLACK.
+
+END PART 1.
+
+The viewer should immediately want to see:
+
+# “What will their mistake become?”
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-995928/video-9cbd5b66bb9b.webm)
+
+**Source:** [@ManuAGI01](https://x.com/ManuAGI01/status/2086667268700995928) · 15s · 16:9 · product commercial
+
+---
+
+### 29. Cinematic Travel Study 474111
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-1-starting-frame-474111/video-bd69c73377b9.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-1-starting-frame-474111/poster-69cf37945736.jpg" alt="Cinematic Travel Study 474111 video preview" width="700" />
@@ -370,7 +6930,7 @@ None. No music.
 
 ---
 
-### 8. Cinematic Story Study 170082
+### 30. Cinematic Story Study 170082
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/time-for-some-munchies-uh-h3-local-looks-like-th-170082/video-8cf1d13e3ca8.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/time-for-some-munchies-uh-h3-local-looks-like-th-170082/poster-d3dd74039b80.jpg" alt="Cinematic Story Study 170082 video preview" width="700" />
@@ -410,939 +6970,6 @@ None.
 [![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/time-for-some-munchies-uh-h3-local-looks-like-th-170082/video-8cf1d13e3ca8.webm)
 
 **Source:** [@LikeToasters](https://x.com/LikeToasters/status/2086603936736170082) · 10s · 23:31 · cinematic story
-
----
-
-### 9. Enra Vael Forge-City Character Introduction
-
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/enra-vael-forge-city-character-introduction-325876/video-860852f08613.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/enra-vael-forge-city-character-introduction-325876/poster-084b15d05dee.jpg" alt="Enra Vael Forge-City Character Introduction video preview" width="700" />
-</a>
-
-<details>
-<summary><strong>Prompt</strong> — subject_definitions: &lt;Subject 1&gt; is ENRA VAEL, the woman from &lt; 📷Image1 &gt;: the same sharp face, dark wispy bangs, long braid threaded through copper rings, spiked hair ornaments,...</summary>
-
-~~~~text
-subject_definitions:
-<Subject 1> is ENRA VAEL, the woman from < 📷Image1 >: the same sharp face, dark wispy bangs, long braid threaded through copper rings, spiked hair ornaments, severe expression, layered red robes, tattered soot-black panels, high metal collar, dark shoulder armor, red lamellar plates, ropes, beads, and weathered fittings. Her left arm alone remains blackened and lava-cracked and holds the fire-wreathed bladed weapon; her normal right hand holds the heavy chain and attached bronze vessel-like weight. The burning double metal ring remains a separate floating halo behind her.
-
-<Subject 2> is the colossal forge city from < 📷Image2 >: one black-basalt shelf beside a lower-center lava river, a cylindrical furnace tower left, layered bridges overhead, a lavafall and furnace opening right, distant towers in gray smoke, hanging chains, heat haze, and embers.
-
-< 📷Audio1 > is the 15.00-second stereo music track used continuously and as the exact editorial-timing source.
-summary:
-[reference generation + audio reuse] Nine beat-matched angles present <Subject 1> inside <Subject 2> as a high-impact character music video. The empty opening shot reveals the exact name "ENRA VAEL" before the character appears; a furnace-light scan, ring-aperture transition, solarized accent, six-segment fire sigil, escalating heat rings, and posterized charge build toward the 00:14.120 iron-sun detonation.
-
-retention_analysis:
-
-<Subject 1> (appears in [Shot 2], [Shot 3], [Shot 4], [Shot 5], [Shot 6], [Shot 7], [Shot 8], [Shot 9]): fully_preserved - face, proportions, braid, hair ornaments, asymmetrical arms, wardrobe, armor, handed props, weighted chain, floating double ring, and expression remain consistent beneath every effect.
-<Subject 2> (appears in [Shot 1], [Shot 2], [Shot 3], [Shot 4], [Shot 5], [Shot 6], [Shot 7], [Shot 8], [Shot 9]): fully_preserved - connected geography, landmarks, materials, smoke, lava, and orange-charcoal lighting persist while viewpoint and temporary transition treatments change.
-< 📷Audio1 >: partially_copy - the full musical layer is copied in its original order and timing; only restrained diegetic chain, cloth, fire, title-weld, and impact sounds are mixed beneath it.
-
-detailed_description:
-
-AAA anime action-RPG music video; effects alter only environment and end by 00:13.770.
-[Shot 1] Empty extreme-wide of <Subject 2>; no character, halo, or weapon. At 00:00.120 an ember seam opens. At 00:00.240, the complete exact uppercase "ENRA VAEL" appears simultaneously, centered, black iron with a thin white-hot rim, maximum 42% frame width. It holds through 00:01.120, collapses, and is gone by 00:01.350. No text crosses the next cut. <Audio 1> starts at 00:00.000.
-
-[Shot 2] At 00:01.430, a left-front full-body angle pedestals up as she drags the chain weight. From 00:01.880 to 00:02.650, a furnace-light scan travels boots-to-face, revealing robe, armor, chain, and ornaments with afterglow.
-[Shot 3] At 00:02.840, a near-static right-front three-quarter hero card keeps her face, halo, and weapon unobstructed. No text is visible.
-
-[Shot 4] At 00:04.470, a close-up frames her face inside the unattached ring. Molten arm pulses at 00:04.940; right hand closes on chain at 00:05.410. The ring turns front-on at 00:05.870 and expands; its black center fills frame from 00:06.170 to 00:06.300 without covering her face.
-[Shot 5] At 00:06.340, the ring aperture opens on the drop to a ground-level full-body angle. She yanks the weighted chain; ring spins independently, weapon traces a molten circle, and furnaces flash. One black-red solarized frame hits, then normal color returns.
-[Shot 6] At 00:08.240, overhead, she pivots as fire engraves a six-segment solar sigil. Segments lock at 00:08.710, 00:09.180, and 00:09.650; it flashes at 00:09.800, then lifts as ribbons into the ring by 00:10.090.
-[Shot 7] At 00:10.090, a weapon-side view tracks blade, cracked arm, and face. Pulses send one, two, then three heat rings through the background at 00:10.580, 00:11.040, and 00:11.480; her geometry stays stable.
-
-[Shot 8] At 00:11.950, a low medium-wide pushes in fast. She pulls chain taut, raises weapon at 00:12.440, turns it down at 00:12.900, and compresses an iron sun at 00:13.360. That accent briefly posterizes her charcoal-red with a white rim, then restores detail.
-
-[Shot 9] At 00:13.770, prior effects gone, a frontal ultra-wide catches her downward strike. At 00:14.120, weapon meets basalt and chain snaps taut: the iron sun erupts behind her into corona, lava shockwave, fire plume, furnace flares, and bowed smoke. A second shell hits at 00:14.560; a final flare at 00:14.910 frames her intact silhouette. Camera pulls back and shakes only on primary impact. End centered, weapon planted, chain weighted. Render exact "ENRA VAEL" once during the empty opening only; no reversed letters, extra glyphs, subtitles, logos, extra characters, costume changes, duplicate limbs, extra weapons, or fire across her face.
-overall_soundscape:
-
-Lava roar, furnace resonance, wind, metal fittings, cloth, and chain clinks sit beneath the music. Add a restrained metal-weld sizzle at 00:00.240, a chain snap and ring whoosh at 00:06.340, then a metal strike, concussive blast, pressure rush, and ember hiss at 00:14.120 without overpowering < 📷Audio1 >.
-non_diegetic_music:
-Directly reuse the 00:00.000-00:15.000 musical layer of < 📷Audio1 > unchanged. Preserve its sparse opening, 00:06.340 drop, approximately 128-BPM pulse, 00:13.770 ignition, 00:14.120 detonation, 00:14.560 secondary burst, 00:14.910 flare, and hard ending; every cut, title state, and VFX change lands on the stated transient, with no replacement score.
-~~~~
-
-</details>
-
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/enra-vael-forge-city-character-introduction-325876/video-860852f08613.webm)
-
-**Source:** [@GlitterPixely](https://x.com/GlitterPixely/status/2086599324125872626) · 15s · 1889:1080 · music video
-
----
-
-### 10. Cinematic Story Study 241802
-
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-cinematic-burst-cut-video-showcasing-t-241802/video-972163827ce4.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-cinematic-burst-cut-video-showcasing-t-241802/poster-a682179bc0fa.jpg" alt="Cinematic Story Study 241802 video preview" width="700" />
-</a>
-
-<details>
-<summary><strong>Prompt</strong> — Use @[char ref] as the strict character reference and @[audio ref] as the timing, rhythm and editing reference. Keep the character’s exact identity, proportions, hairstyle,...</summary>
-
-~~~~text
-Use @[char ref] as the strict character reference and @[audio ref] as the timing, rhythm and editing reference.
-
-Keep the character’s exact identity, proportions, hairstyle, outfit, colors and overall style consistent throughout.
-
-Create a 15-second cinematic burst-cut video showcasing the character across 5 different environments that naturally fit their design, vibe and world.
-
-AUDIO SYNC
-Synchronize the entire edit to @[audio ref]. Cuts, camera accents, transitions and environment changes should land precisely on strong beats, half-beats and musical accents. Let audio1 control the pacing and intensity of the montage.
-
-STRUCTURE
-- 5 environments total
-- 3 seconds per environment
-- 6 burst-cut shots per environment
-- 30 shots total
-
-Each environment must be clearly different in atmosphere, lighting, scale and visual language.
-
-Show each environment through rapid cinematic angles: wide establishing shots, aerials, low angles, side views, tracking shots, close environmental details, medium shots and hero frames.
-
-Every cut must reveal a new angle, distance, composition or spatial relationship. Avoid repeated framing. Mix static shots, push-ins, pull-backs, tracking, orbit and crane-like movement.
-
-Keep character movement subtle and natural. The focus is environmental variety, cinematic framing and tight synchronization with audio1.
-
-Hard constraints:
-- exactly 5 environments
-- exactly 6 shots per environment
-- exactly 30 shots total
-- environment changes must follow audio1’s musical phrasing
-- cuts and motion accents synchronized to audio1
-- no outfit changes
-- no character duplication
-- no morphing
-- no text or UI
-- no blurry unreadable frames
-- maintain strict character consistency
-~~~~
-
-</details>
-
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-cinematic-burst-cut-video-showcasing-t-241802/video-972163827ce4.webm)
-
-**Source:** [@aimikoda](https://x.com/aimikoda/status/2086553240448241802) · 15s · 8:9 · cinematic story
-
----
-
-### 11. The last thing you see in your first and last
-
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/the-last-thing-you-see-in-your-first-and-last-290296/video-fae8461b3583.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/the-last-thing-you-see-in-your-first-and-last-290296/poster-ad1a13269cdc.jpg" alt="The last thing you see in your first and last video preview" width="700" />
-</a>
-
-<details>
-<summary><strong>Prompt</strong> — amateur handheld pov footage of a tourist in their plush and comfortable room of a space cruise, carpeted floor and comfy bed, large window shows a view of Gargantua blackhole,...</summary>
-
-~~~~text
-amateur handheld pov footage of a tourist in their plush and comfortable room of a space cruise, carpeted floor and comfy bed, large window shows a view of Gargantua blackhole, you can see their reflection in the window, they turn off the light half way through so we can see outside better and say: "Wow look at that!", then they show back the room
-~~~~
-
-</details>
-
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/the-last-thing-you-see-in-your-first-and-last-290296/video-fae8461b3583.webm)
-
-**Source:** [@ivanfioravanti](https://x.com/ivanfioravanti/status/2086553101029290296) · 10s · 16:9 · cinematic travel
-
----
-
-### 12. The Downhill Slingshot 🏎️💨
-
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/the-downhill-slingshot-698388/video-460ca4f77a31.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/the-downhill-slingshot-698388/poster-761ffa9438e1.jpg" alt="The Downhill Slingshot 🏎️💨 video preview" width="700" />
-</a>
-
-<details>
-<summary><strong>Prompt</strong> — Cinematic Anime Video Scene Generate a 15-second horizontal 16:9 original high-speed hover-bike racing anime video from the provided first frame. CRITICAL ENTITY LOCK: There must...</summary>
-
-~~~~text
-Cinematic Anime Video Scene
-
-Generate a 15-second horizontal 16:9 original high-speed hover-bike racing anime video from the provided first frame.
-
-CRITICAL ENTITY LOCK:
-There must be exactly 2 racers and 2 bikes in the entire video: RENJI on VALKYRIE-01 (cyan/black drift bike) and ELENA on AERO-X (crimson/white draft bike).
-Do not add extra racers, drone support vehicles, spectators, or traffic.
-Maintain total visual consistency for both bikes, helmet visors, suit patterns, repulsor spark colors, and bike liveries throughout the sequence.
-
-Entity identity:
-VALKYRIE-01: Matte-black and cyan angular hover-bike, exposed repulsor pads, lateral drift brakes, blue plasma exhaust trails, ridden by Renji (cyan trim suit).
-AERO-X: Pearl-white and neon-crimson aerodynamic hover-bike, enclosed canopy, crimson energy draft aura, white-hot central booster, ridden by Elena (crimson/gold visor suit).
-
-Video style:
-High-budget modern sports anime, sakuga-level velocity animation, crisp line art, vibrant neon lighting contrast, high-speed camera tracking, hyper-realistic friction and energy particle effects. Set on a wet downhill mountain pass at dawn.
-
-Camera and pacing:
-Continuous forward velocity, zero slow-motion interruptions:
-0.0s - 3.0s: High-speed rear-tracking shot diving into the first downhill hairpin curve; instant drift initiation.
-3.0s - 7.5s: Tight side-parallel tracking shot as bikes navigate rock debris and trade positions through S-curves.
-7.5s - 11.5s: Close camera lock on the draft-slingshot maneuver; high-energy particle displacement as booster ignition occurs.
-11.5s - 15.0s: Low-angle front-facing camera lock on the final sprint to the finish line bridge, ending on a hyper-speed photo-finish freeze.
-
-Action timing:
-0.0s - 1.5s:
-Sequence begins at speed. VALKYRIE-01 leads downhill; AERO-X locks onto its rear bumper. Anti-gravity repulsors spray road water and blue sparks into the frame.
-
-1.5s - 4.0s:
-First sharp hairpin. VALKYRIE-01 deploys lateral drift airbrakes with a burst of blue thruster fire, sliding sideways at 300 km/h. AERO-X stays glued inside its slipstream aura.
-
-4.0s - 7.0s:
-Mountain debris hazard. VALKYRIE-01 hops over a boulder using a repulsor burst. AERO-X ducks under it, scraping the neon magenta guardrail in a cloud of friction sparks.
-
-7.0s - 10.0s:
-S-Curve exchange. Bikes lean side-by-side; their repulsor fields collide, creating a bright electrical shockwave. ELENA pulls the overdrive lever; AERO-X's rear fins extend.
-
-10.0s - 13.0s:
-Slingshot maneuver. AERO-X bursts out of VALKYRIE-01's draft, igniting its central white plasma booster. Both bikes roar down the final straightaway side-by-side.
-
-13.0s - 15.0s:
-Final sprint toward the finish light gate. Water sprays violently behind them. Both nose cones cross the finish line simultaneously in a flash of light. Final freeze frame.
-
-Motion quality:
-Fluid 2D animation, extreme speed-line integration, stable bike geometry, flawless vehicle reflection rendering, zero limb or body clipping, high-frame-rate kinetic realism.
-
-Environment:
-Wet mountain pass asphalt, sheer cliff walls, neon cyan and magenta guardrail lights, early dawn sky with pink/purple clouds, water spray, floating spark particles.
-
-Final output:
-15 seconds, horizontal 16:9, original high-budget sports racing anime, exactly 2 racers, relentless kinetic pacing, dynamic cinematography, no subtitles, no watermarks, no logos.
-~~~~
-
-</details>
-
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/the-downhill-slingshot-698388/video-460ca4f77a31.webm)
-
-**Source:** [@yourPlugAI](https://x.com/yourPlugAI/status/2086528067019698388) · 15s · 16:9 · anime
-
----
-
-### 13. Player stats UI
-
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/player-stats-ui-170293/video-797862e901ab.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/player-stats-ui-170293/poster-9579885d0aab.jpg" alt="Player stats UI video preview" width="700" />
-</a>
-
-<details>
-<summary><strong>Prompt</strong> — @higgsfield @aimikoda video Prompt @[ref img] is the sole visual authority for ZENITH, his face, body, hairstyle, black tactical bodysuit, cyan circuit details, exposed cybernetic...</summary>
-
-~~~~text
-@higgsfield @aimikoda video Prompt
-
-@[ref img] is the sole visual authority for ZENITH, his face, body, hairstyle, black tactical bodysuit, cyan circuit details, exposed cybernetic arm, and the complete operative-dossier interface including typography, numbers, icons, colors, panels, lighting, layout, and 9:16 vertical composition.
-
-Animate this exact screen without redesigning it. Preserve every existing label, stat value, diagnostic value, icon, panel boundary, and final UI position.
-
-[GOAL]
-Create a polished 15-second futuristic cyber-operative character dossier opening. The feeling is elite black-ops intelligence software coming online and identifying an extremely dangerous enhanced operative.
-
-Use one continuous locked straight-on full-screen composition. No camera movement, cuts, reframing, cropping, zooming, rotation, or perspective distortion.
-
-[SEQUENCE]
-
-0–2.2 seconds:
-Begin from near-black charcoal with only extremely faint cyan interface traces visible.
-
-A thin horizontal biometric scanner travels downward through the screen, gradually revealing ZENITH’s silhouette and the outer dossier frame.
-
-Fine digital particles, tiny grid points, circuit traces, and subtle cyan data noise activate progressively.
-
-ZENITH remains almost motionless in shadow.
-
-His cybernetic arm gives one extremely subtle mechanical initialization twitch as internal joints power on.
-
-2.2–5.5 seconds:
-The OPERATIVE DOSSIER header, FILE ID: ZN-7X-00, ZENITH nameplate, CYBERNETIC OPERATIVE subtitle, PROFILE panel, portrait frame, biometric panel, and THREAT LEVEL panel resolve through precise line-draw and scanning animations.
-
-Reveal the existing profile information exactly:
-ROLE: Black Ops / Infiltration
-HEIGHT: 6’2” / 188 cm
-BUILD: Lean / Athletic
-AFFILIATION: Unknown
-
-The THREAT LEVEL display resolves into:
-EXTREME
-CLASS: OMEGA
-
-ZENITH emerges completely from darkness into the exact referenced standing pose.
-
-He takes one controlled breath, subtly raises his chest and shoulders, then settles.
-
-His stern gaze sharpens toward the viewer.
-
-Maintain his exact angular face, slick black hairstyle, lean proportions, black fitted suit, cyan circuitry, and single exposed cybernetic arm.
-
-Thin cyan suit lines illuminate progressively from the upper torso toward the legs and cybernetic arm.
-
-5.5–10.8 seconds:
-Animate the OPERATIVE METRICS panel sequentially.
-
-Each bar fills smoothly left-to-right and lands precisely on the existing final value:
-
-STRENGTH — 84
-AGILITY — 96
-REFLEX — 98
-ENDURANCE — 88
-STEALTH — 97
-COMBAT IQ — 93
-CYBER SYNC — 94
-TACTICAL EFFICIENCY — 91
-
-Each completed value receives one restrained cyan confirmation pulse. Do not alter the final numbers.
-
-Simultaneously, the biometric body scan draws vertically through the miniature human silhouette.
-
-Small waveform and graph elements activate with subtle believable data movement.
-
-The CYBERNETIC ARM DIAGNOSTICS section powers online from shoulder to fingertips.
-
-Callout lines trace toward the mechanical joints while the existing diagnostic values resolve exactly:
-
-MOTOR UNITS — 100%
-STRENGTH OUTPUT — 132%
-RESPONSE TIME — 0.008s
-SENSOR SUITE — ONLINE
-GRIP FORCE — 2,400 N
-SYSTEM INTEGRITY — 100% / OPTIMAL
-
-The circular SYSTEM INTEGRITY indicator completes one clean clockwise sweep and locks at 100%.
-
-ZENITH’s mechanical fingers make one tiny natural calibration movement before returning to the exact referenced resting position.
-
-10.8–13.3 seconds:
-The SPECIALIZATIONS and EQUIPMENT LOADOUT sections activate from left to right.
-
-Existing specialization icons receive brief controlled cyan illumination:
-STEALTH INFILTRATION
-CQC EXPERT
-CYBERNETIC ENHANCEMENT
-INTEL GATHERING
-
-Existing equipment cards resolve cleanly:
-SHADOW BLADE
-EMP SHARD
-SMOKE DISPERSER
-DATA SPIKE
-
-Do not physically place these weapons or tools into ZENITH’s hands. They remain UI inventory graphics only.
-
-A subtle electronic current travels through the cyan circuitry across ZENITH’s suit and into the cybernetic arm.
-~~~~
-
-</details>
-
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/player-stats-ui-170293/video-797862e901ab.webm)
-
-**Source:** [@adithatipalli](https://x.com/adithatipalli/status/2086477914699170293) · 15s · 9:16 · cinematic travel
-
----
-
-### 14. 很多人做 AI 影片的提示词，写的是“高级、电影感、震撼”
-
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-707794/video-e5e4b44dacee.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-707794/poster-c8f971f8e6fa.jpg" alt="很多人做 AI 影片的提示词，写的是“高级、电影感、震撼” video preview" width="700" />
-</a>
-
-<details>
-<summary><strong>Prompt</strong> — writing 就是解决这个问题的：把你的灵感拆成画面、动作、声音、参考素材，再按官方固定格式输出。 基础模式会产出三个具体字段： - integrated_multimodal_description - overall_soundscape - non_diegetic_music Ref2VA 模式是六段式重写，对应...</summary>
-
-~~~~text
-writing 就是解决这个问题的：把你的灵感拆成画面、动作、声音、参考素材，再按官方固定格式输出。
-
-基础模式会产出三个具体字段：
-- integrated_multimodal_description
-- overall_soundscape
-- non_diegetic_music
-
-Ref2VA 模式是六段式重写，对应 T2VA、I2VA、FL2VA、L2VA、Ref2VA 五种生成模式。
-
-许愿式提示词该退场了。
-~~~~
-
-</details>
-
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-707794/video-e5e4b44dacee.webm)
-
-**Source:** [@iluciddreaming](https://x.com/iluciddreaming/status/2086473853136707794) · 40s · 16:9 · cinematic story
-
----
-
-### 15. Ice Cave Exploration 🏔
-
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ice-cave-exploration-902327/video-59402d4435d2.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ice-cave-exploration-902327/poster-a1e73a65e04b.jpg" alt="Ice Cave Exploration 🏔 video preview" width="700" />
-</a>
-
-<details>
-<summary><strong>Prompt</strong> — EXPEDITION: Two glaciologists enter a newly formed ice cave to document its internal structure before seasonal melting changes it. EXPLORERS: Two researchers, both wearing...</summary>
-
-~~~~text
-EXPEDITION:
-Two glaciologists enter a newly formed ice cave to document its internal structure before seasonal melting changes it.
-EXPLORERS: Two researchers, both wearing crampons, helmets and headlamps, carrying compact measurement equipment.
-SHOOT WINDOW: 7:05 AM – 7:20 AM Early morning outside. Overcast sky. Cold blue daylight enters through the cave entrance.
-LOCATION: Glacial valley, massive blue ice formation, narrow cave entrance, translucent walls, frozen water flowing beneath the surface.
-RECORDING STYLE: First-person expedition footage mixed with a second camera operator. Headlamps create moving pools of light across the ice. Natural breathing and footsteps remain prominent.
-15-SECOND EXPLORATION:
-00:00–00:03 → Researchers squeeze through the narrow entrance.
-00:03–00:06 → Camera reveals deep blue translucent ice walls surrounding them.
-00:06–00:09 → One researcher notices water suddenly moving beneath a transparent ice floor.
-00:09–00:12 → Both carefully step backward and examine the changing surface.
-00:12–00:15 → They mark the location and begin retreating toward daylight.
-AUDIO: Boots scraping ice, dripping water, distant cracking, breathing, muffled voices.
-REALISM DIRECTIVE: Ice must behave like real compressed glacier ice, not glass. Light scatters through the walls naturally. No fantasy formations, supernatural elements or impossible cave geometry.
-~~~~
-
-</details>
-
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/ice-cave-exploration-902327/video-59402d4435d2.webm)
-
-**Source:** [@Strength04_X](https://x.com/Strength04_X/status/2086471165581902327) · 15s · 7:4 · cinematic story
-
----
-
-### 16. Xiamen Lacquer Thread Sculpture Craft Film
-
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/xiamen-lacquer-thread-sculpture-craft-film-985938/video-6f68682477c9.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/xiamen-lacquer-thread-sculpture-craft-film-985938/poster-ece810c067ed.jpg" alt="Xiamen Lacquer Thread Sculpture Craft Film video preview" width="700" />
-</a>
-
-<details>
-<summary><strong>Prompt</strong> — 我的参考图片也是用AI生成的，生成3张不同状态的图片，然后将下面提示词发给H3： 【参考图规则】 @图片1 是最终漆线雕作品的唯一权威参考。 必须严格保持图片1中的作品造型、主体比例、漆面颜色、金色漆线纹样、纹样走向、器型和整体气质。 不得随意增加龙、凤、佛像、文字或不存在的装饰。 @图片2 是包装盒、包装纸、品牌标识以及产品标签的唯一权威参考。...</summary>
-
-~~~~text
-我的参考图片也是用AI生成的，生成3张不同状态的图片，然后将下面提示词发给H3：
-【参考图规则】
-@图片1 是最终漆线雕作品的唯一权威参考。 必须严格保持图片1中的作品造型、主体比例、漆面颜色、金色漆线纹样、纹样走向、器型和整体气质。 不得随意增加龙、凤、佛像、文字或不存在的装饰。
- @图片2 是包装盒、包装纸、品牌标识以及产品标签的唯一权威参考。 所有包装结构、颜色和标识均按照图片2执行。
-@图片3 是厦门传统漆线雕工作室的环境与工匠服装参考。 保持真实闽南手工作坊质感，不做古装影视化处理，不制造虚假的“古代作坊”。
-
-【目标】  制作一支15秒、9:16竖版的厦门漆线雕非遗工艺短片。  主题：  “一根线，走完三百年的手艺。”  影片完整呈现：  备料 → 舂打漆线土 → 搓线 → 盘线成纹 → 安金 → 贴金 → 清理完成 → 包装 → 上架  快速剪辑， 字幕驱动， 即使完全静音观看也能理解整个制作过程。  视觉采用真实高端人文纪录广告摄影：  35毫米胶片电影质感， 细腻颗粒， 浅景深， 大量微距， 自然手持， 运动非常克制， 不做旅游宣传片， 不做华丽国潮特效， 不做博物馆宣传片。  重点永远是：  手， 线， 漆， 金箔， 纹样， 时间。
-
-【金色就是时间】  整支影片必须存在一条不可逆的视觉变化：  画面中的“金色”从无到有，并越来越多。  影片开始：  只有黑、 深褐、 砖灰、 暗红， 几乎看不到金色。  漆线开始盘绕以后， 画面出现第一点暖金。  贴金以后， 金色迅速扩大。  作品完成时， 精细金色纹样覆盖主体。  最后上架时， 整个作品被温暖自然光照亮。  每一个镜头都必须比前一个镜头拥有更多的金色。  这个变化不能倒退。  金色就是这支影片的时间。
-
-【固定字幕牌】  整个影片始终只有一个字幕牌。  位置：  画面下方三分之一， 水平居中， 所有镜头完全相同的位置。  造型：  非常克制的小型圆角矩形， 深朱砂红底， 暖米白文字。  两行文字：  第一行： 较细字体， 显示“工序”。  第二行： 粗体， 显示一句极短的动作描述。  字幕牌：  不移动， 不放大， 不缩小， 不淡入淡出， 不跳动。  只在指定剪辑点瞬间更换文字。  字体必须清楚、正确。
-
-【镜头序列】
- 0—1.7秒  主镜头。  深夜般昏暗的传统工作台。  一盏暖色工作灯只照亮双手。  桌面上可以看到：  陈年砖粉质感的细粉、 深色大漆材料、 正在被反复捶打揉合的深褐色漆线土。  工匠双手将材料反复捶、压、揉， 逐渐形成柔软、富有韧性的泥团。  周围环境全部沉入黑暗。  没有金色。  字幕：  “第一道” “捶土成线”
-1.7—3.3秒  极端微距。  一小块漆线土放在传统搓线板之间。  工匠双手稳定向前推动搓板。  原本粗厚的泥条逐渐被搓成长而均匀的细线。  摄影机贴得非常近。  能够清楚看到：  漆线轻微湿润的表面， 细小纹理， 手指压力， 线条被不断拉细。  背景完全虚化。  字幕保持：  “第一道” “捶土成线”
- 3.3—5.0秒  主镜头。  朱红漆面的器物坯体第一次出现。  工匠用极细工具， 将刚刚搓好的柔软漆线轻轻落在器物表面。  第一根漆线贴上去。  只有一根。  然后第二根。  线条开始形成第一个小小的卷云纹。  画面第一次出现非常微弱的暖色高光。  字幕：  “第二道” “一线起纹”
- 5.0—6.8秒  微距插入镜头。  镜头几乎贴着器物表面横向观察。  工匠用竹制细工具推动漆线：  盘， 绕， 结， 堆。  几根不足毫米级视觉尺度的柔软漆线， 逐渐形成具有明显高度差的浮凸纹样。  线条之间非常紧密。  卷云、缠枝、如意形态逐渐出现。  重点展示：  线并不是画上去的，  而是真正一根一根盘出来的。  字幕保持：  “第二道” “一线起纹”
-6.8—8.6秒  主镜头。  器物已经完成大部分漆线纹样。  摄影机非常缓慢地向前推近。  工匠旋转器物。  光线擦过密集漆线表面。  能够看到：  高低起伏， 盘绕结构， 层层叠叠的线性浮雕。  这时依然没有真正的金箔。  只有漆线自身的暖棕色。  字幕：  “第三道” “盘线成雕”
-8.6—10.2秒  全片最重要的声音与视觉高潮。  极端微距。  一张极薄金箔悬在空气里轻微颤动。  几乎没有重量。  工匠屏住动作， 用传统工具将金箔缓缓落向已经完成的漆线纹样。  金箔接触表面的瞬间，  贴住。  镜头保持。  不要快速切走。  细小金箔自然贴合漆线的高低起伏， 金色第一次大面积出现。  字幕：  “第四道” “一片金落下”
-10.2—11.7秒  微距。  柔软毛刷轻轻扫过作品表面。  多余金箔碎屑被一点点扫开。  随着刷毛经过，  清晰、 锐利、 细密的金色漆线纹样从杂乱金箔中显现。  这是第二个视觉高潮。  镜头必须清楚表现：  杂乱金箔  变成  精确金色纹样。  字幕：  “第五道” “金纹醒来”
-11.7—12.8秒  主镜头。  完成后的作品放在深色木质工作台上。  工匠用双手缓慢旋转检查。  没有任何戏剧表演。  只检查：  纹样， 漆面， 金箔， 边缘， 细节。  自然光已经明显进入工作室。  金色纹样被晨光照亮。  字幕：  “第六道” “最后一眼”
-12.8—13.8秒  插入镜头。  作品被轻轻放入定制包装盒。  暖米色软布包裹器物。  盒盖缓慢合上。  手将包装盒推向画面前方。  纸张、 布料、 木盒均保持真实触感。  不要奢侈品浮夸包装。  字幕：  “第七道” “入盒”
-13.8—15秒  最终镜头。  切到极简现代非遗精品店。  温暖自然晨光。  深色木制陈列架。  一只手将完成的漆线雕作品从画面侧面轻轻放到展示台中央。  手退出画面。  作品保持完全静止。  金色漆线在自然光中形成极精细的浮雕反光。  背景虚化。  最后0.6秒不再运动。  字幕：  “第八道” “上架”  画面中央仅允许出现一句极小的中文：  “厦门漆线雕”  下面更小：  “一线成雕”  最终画面必须像高端工艺品牌的静态产品摄影。  绝对不要继续运动。
-
-【色彩】  整支影片限制在以下颜色：  陈年砖粉灰， 生漆深褐， 木质黑褐， 朱砂红， 暖米白， 金箔金。  影片前半段：  黑褐色占主导。  中段：  朱红逐渐出现。  后半段：  金色逐渐占据视觉中心。  禁止：  青蓝科技色， 霓虹， 紫色， 赛博朋克， 高饱和国潮配色。  金色必须来自真实金箔和真实光线。  不能使用发光特效制造金色。
-
-【摄影】  全片使用真实人文纪录摄影语言。  大量：  100毫米微距镜头， 近距离手部特写， 极浅景深， 35毫米胶片颗粒。  摄影机运动非常少。  允许：  轻微呼吸感手持， 一次非常缓慢的轴向推进， 极细微的跟随动作。  禁止：  无人机， 环绕运镜， 快速推拉， 旋转镜头， 甩镜， 变焦冲击， 慢动作， 速度渐变， 镜头炫技。  镜头永远尊重手艺本身。
-
-【声音】  全片没有任何音乐。  没有旁白。  没有人物对白。  没有广告配音。  只使用现场真实声音。
- 0—3.3秒：  凌晨安静工作室。  远处非常轻的环境底噪。  漆线土落在木板上的闷响。  手掌揉压材料的湿润摩擦声。  搓板来回运动产生细密摩擦声。   3.3—8.6秒：  整体声音进一步降低。  细工具轻碰器物表面的声音。  手指移动。  漆线被放下时极轻微的黏连声音。  器物缓慢旋转时木架产生细小摩擦声。   8.6—10.2秒：  这是整支影片最重要的声音时刻。  其他环境声音全部压低。  只留下：  金箔极薄的纸张颤动声， 轻微呼吸， 工具触碰金箔的细小声音。  金箔落到漆线表面的瞬间，  接近安静。  让观众感觉自己离这张金箔只有几厘米。   10.2—12.8秒：  软毛刷扫过金箔。  细碎金箔摩擦。  器物在木架上轻轻旋转。   12.8—15秒：  包装纸折叠。  布料摩擦。  盒盖轻轻合上。  随后进入店铺：  作品底座接触木质展台，  “嗒”。  最后接近完全安静。  只保留非常微弱的室内环境声。
-
-【核心视觉原则】  不要把它拍成：  “传统文化宣传片”。  要把它拍成：  “世界顶级手工艺品牌新品诞生纪录”。  传统来自材料和工艺，  高级感来自摄影、节奏和克制。
-
-【禁止项】  不得出现任何与产品无关的文字。  不得出现旅游宣传标语。  不得出现：  “匠心传承” “非遗之美” “千年文化” “东方美学” 等泛化宣传口号。  不得出现不存在的历史年代。  不得出现虚假的皇宫或寺庙场景。  不得增加和尚、古装人物、舞狮、灯笼等所谓中国元素。  不得把漆线雕表现成木雕、石雕或刀刻。  重点必须明确表现：  搓线， 放线， 盘线， 绕线， 堆线， 贴金。  不得用三维特效让纹样自动生长。  不得让漆线自行移动。  所有纹样必须由人的手完成。  不得使用魔法粒子。  不得让金箔发光。  不得使用人工光晕。  不得使用慢动作。  不得加入速度渐变。  不得加入转场音效。  不得使用呼啸声。  不得出现手机界面。  不得出现电商界面。  不得出现价格。  不得出现二维码。  不得出现网站。  不得出现社交媒体账号。  不得出现水印。  不得增加第十个镜头。  最终画面完全静止。
-~~~~
-
-</details>
-
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/xiamen-lacquer-thread-sculpture-craft-film-985938/video-6f68682477c9.webm)
-
-**Source:** [@derek_wall90176](https://x.com/derek_wall90176/status/2086464559439855938) · 15s · 16:9 · cinematic story
-
----
-
-### 17. Anime Film Study 135392
-
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-character-introduction-focused-on-pres-135392/video-a5403f903f53.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-character-introduction-focused-on-pres-135392/poster-16737aaf3f80.jpg" alt="Anime Film Study 135392 video preview" width="700" />
-</a>
-
-<details>
-<summary><strong>Prompt</strong> — Use @[char ref] as the sole character reference. Preserve the exact identity, face, body proportions, hairstyle, outfit, colors, materials and overall silhouette of the character...</summary>
-
-~~~~text
-Use @[char ref] as the sole character reference. Preserve the exact identity, face, body proportions, hairstyle, outfit, colors, materials and overall silhouette of the character throughout the entire video. Do not redesign, simplify or replace any defining visual features.
-
-Create a cinematic character introduction focused on presence, silhouette, attitude and controlled motion.
-
-0–4s
-Begin with a close shot of a defining lower-body or detail element such as boots, shoes, feet, hands, clothing hem or an important accessory. The character enters frame or settles into position. The camera slowly tracks upward while hair, clothing and secondary elements move naturally in the wind or environment.
-
-4–8s
-Reveal more of the body with a medium or medium-wide shot from the back, side or three-quarter angle. The character stands in a calm, composed way inside the environment. The camera makes a smooth orbit, arc or lateral move to gradually reveal the character’s face and silhouette.
-
-8–12s
-Move into a tight cinematic portrait or upper-body shot. The character performs one subtle signature action that fits their personality, such as lifting the chin, turning the head, adjusting clothing, brushing hair aside, opening a hand, looking toward camera, or shifting posture. Keep the motion minimal and intentional. The expression should match the character’s vibe.
-
-12–15s
-End with a strong full-body hero shot that clearly presents the entire design and silhouette. Use a low-angle, eye-level or slightly dramatic framing depending on the character’s personality. The character settles into a natural final pose and holds it confidently for a clean final reveal.
-
-VISUAL DIRECTION
-Premium cinematic presentation. Match the visual medium and rendering style of @[char ref]. Emphasize clean silhouette, elegant staging, subtle secondary motion, believable hair and cloth movement, strong composition, atmospheric depth and polished lighting. The scene should feel like a high-end anime, game or film character introduction.
-
-CAMERA
-Use a clear progression from detail reveal to partial reveal to face reveal to full-body hero reveal. Camera movement should be smooth, controlled and intentional. Avoid chaotic motion.
-
-ENVIRONMENT
-Place the character in a fitting environment that supports their identity and mood. The background should enhance the character without distracting from them.
-~~~~
-
-</details>
-
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-character-introduction-focused-on-pres-135392/video-a5403f903f53.webm)
-
-**Source:** [@aimikoda](https://x.com/aimikoda/status/2086412223061135392) · 15s · 241:256 · anime
-
----
-
-### 18. An 1890s field guide plate, drawing itself
-
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/an-1890s-field-guide-plate-drawing-itself-963371/video-e96200ab35e1.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/an-1890s-field-guide-plate-drawing-itself-963371/poster-02d3a9dc60dd.jpg" alt="An 1890s field guide plate, drawing itself video preview" width="700" />
-</a>
-
-<details>
-<summary><strong>Prompt</strong> — Hailuo Minimax H3 prompt @ Image1 is the sole visual authority for the folio spread, the wren, the hazel twig, the egg study, the foot sketch, the handwriting, the printed type,...</summary>
-
-~~~~text
-Hailuo Minimax H3 prompt
-
-@ Image1 is the sole visual authority for the folio spread, the wren, the hazel twig, the egg study, the foot sketch, the handwriting, the printed type, the paper, the foxing, the lighting, the palette, the layout and the horizontal composition.
-
-Animate this exact page without redesigning it. Preserve every existing mark, letter and colour in its final state.
-
-[Goal] Create a 15-second sequence in which this plate makes itself, and then the bird inside it comes quietly alive. One continuous, locked, straight-on overhead composition. No camera movement, no cuts, no cropping, no perspective change, no page turning.
-
-[Sequence]  0-2.4 seconds: Begin on blank aged ivory paper — the empty spread, correct in paper texture, chain lines, foxing and lighting, but carrying no image, no writing and no type. A faint graphite underdrawing appears across the right page in light searching strokes, finding the wren's posture and the line of the twig.
-A few construction marks overshoot and are left uncorrected.
-
-2.4-6 seconds: Engraved ink linework draws itself over the pencil, following the exact contours of the finished plate — outline first, then hatching building the shadow under the wing, the barring of the tail, the texture of the twig. The rectangular plate mark presses into the paper around the image with a soft physical impression, lifting the paper very slightly at its edge.
-
-6-10.5 seconds: Watercolour floods in. Washes enter the printed outlines and settle into them, warm russet across the back, buff along the eyebrow stripe, muted olive on the twig, each wash landing exactly within the shapes of the finished plate and overrunning the line in the same few places the reference does.
-
-The colour blooms wet and then visibly dries, darkening slightly at the edges. On the left page, the sepia handwriting writes itself line by line from the top, in a period cursive hand that is elegant, cramped and only partly legible. The small egg study fills with colour and the pencil foot sketch appears faintly beside it.
-10.5-13 seconds: The printed type impresses into the right page — TROGLODYTES TROGLODYTES, then The Common Wren beneath it, then PLATE XVII in the top right corner. Foxing spots deepen. The last details resolve: the highlight in the bird's eye, the fine barring on the flank. The page settles. Everything on the spread is now exactly as in @[ref img].  13-15 seconds: The page stays completely still and completely flat
-
-— it is paper and it behaves like paper. But the printed bird begins to breathe. Its flank rises and falls very slightly. It blinks once. It turns its head a few degrees and holds, alert, looking past the viewer at something outside the page. The cocked tail gives one small twitch. It does not fly, it does not leave the plate, it does not become three-dimensional, and it does not look at the viewer. Settle into a living idle: the bird breathing, one more slow blink, the paper still.  Render as photoreal archival photography of a real object under warm north-window light. Keep the printed page flat and matte with no glow, no emission, no glint and no digital sheen.
-
-Keep the two motion layers distinct: the page is a made thing being made, the bird is alive. Keep all type, handwriting, marks and geometry fixed once they appear.  Do not introduce any new text, letters, numerals, marks, birds, objects, hands, tools, logos, captions, borders, watermarks or page numbers. Do not turn or lift the page. Do not move, rotate or scale the camera. Do not zoom. Do not add glow, neon, coloured light, lens flare, bokeh or shallow-focus racking.
-
-Do not make the bird photoreal or three-dimensional — it must remain a hand-coloured engraving that happens to be alive. Do not have it fly, hop, open its beak wide, or leave the plate.
-
-Audio: fine graphite scratching on rough paper; the dry precise scrape of a steel nib; the deep soft compression of a plate press; a sable brush loaded with water moving across paper; paper fibres settling; the quiet room tone of a study with a slow long-case clock ticking somewhere behind.
-At 13 seconds, one Eurasian wren song — sudden, intricate and far louder than anything that small should produce — then the room tone returns and the clock keeps going. No music, no dialogue, no narration, no electronic tones.
-~~~~
-
-</details>
-
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/an-1890s-field-guide-plate-drawing-itself-963371/video-e96200ab35e1.webm)
-
-**Source:** [@Dheepanratnam](https://x.com/Dheepanratnam/status/2086312209919963371) · 15s · 4:3 · music video
-
----
-
-### 19. H3 local. I like vague
-
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/h3-local-i-like-vague-105742/video-0338bd5e1fc7.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/h3-local-i-like-vague-105742/poster-7cd882b94339.jpg" alt="H3 local. I like vague video preview" width="700" />
-</a>
-
-<details>
-<summary><strong>Prompt</strong> — a village of tiny people living on cow poop. The camera then dramatically zooms out to show where they are and the cow nearby in the field. https://t.co/NvsP2U4Ruv</summary>
-
-~~~~text
-a village of tiny people living on cow poop. The camera then dramatically zooms out to show where they are and the cow nearby in the field. https://t.co/NvsP2U4Ruv
-~~~~
-
-</details>
-
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/h3-local-i-like-vague-105742/video-0338bd5e1fc7.webm)
-
-**Source:** [@LikeToasters](https://x.com/LikeToasters/status/2086224302316105742) · 10s · 19:33 · cinematic story
-
----
-
-### 20. Music Video Study 455917
-
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/someone-got-up-at-four-so-you-didn-t-have-to-455917/video-d12f55f27d28.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/someone-got-up-at-four-so-you-didn-t-have-to-455917/poster-8e724bf262b3.jpg" alt="Music Video Study 455917 video preview" width="700" />
-</a>
-
-<details>
-<summary><strong>Prompt</strong> — @ Image1 is the sole authority for the PROOF logo: the roundel of five concentric rings and the PROOF wordmark in heavy geometric rounded sans. Reproduce the mark and the spelling...</summary>
-
-~~~~text
-@ Image1 is the sole authority for the PROOF logo: the roundel of five concentric rings
-and the PROOF wordmark in heavy geometric rounded sans. Reproduce the mark and the
-spelling P-R-O-O-F exactly and never alter, restyle or re-letter them. @ Image2 is the
-authority for the branded kraft bakery bag. @ Image3 is the authority for the courier,
-the canvas bread satchel and the dawn street.
-
-[GOAL]
-A 15-second vertical 9:16 social launch commercial for PROOF, a dawn bakery delivery
-service. Fast-cut, caption-led, designed to be understood with the sound off. Photoreal
-documentary commercial cinematography on 35mm, fine grain, shallow depth of field,
-handheld with restrained movement.
-
-[THE LIGHT IS THE CLOCK]
-The film brightens continuously from beginning to end. It opens in near-darkness lit by
-a single work lamp and finishes in full warm golden sunrise. Every shot is measurably
-lighter than the one before it. This progression must be unbroken.
-
-[CAPTION CHIPS]
-Throughout, a single caption chip sits in the lower third, horizontally centred, in the
-same position in every shot. It is a rounded rectangle in burnt ochre with warm cream
-text, two lines: a lighter-weight top line and a bold bottom line. The chip changes
-content on the cuts listed below and never moves, resizes or animates. Type must be
-crisp and correctly spelled.
-
-[SEQUENCE — cut on every timing, eight cuts]
-0-1.9s    HERO. Interior of a small bakery at night, lit by one overhead work lamp.
-          A baker's hands turn a large mass of wet dough on a floured steel bench.
-          Everything else in the room is black.
-          CHIP: "04:12" / "someone is already awake"
-1.9-3.6s  INSERT. Extreme close-up, a handful of flour thrown across the bench, dust
-          catching the single lamp.
-          CHIP unchanged.
-3.6-5.4s  HERO. A row of round dough balls resting in floured proving baskets on a rack.
-          Slightly warmer, slightly brighter. One dough is visibly swollen and domed.
-          CHIP: "05:30" / "it's proving"
-5.4-7.1s  INSERT. An oven door swings open and a wall of steam rolls out toward camera,
-          lit warm from inside.
-          CHIP unchanged.
-7.1-8.9s  HERO. A dark-crusted round sourdough loaf lands on a cooling rack. Hold on it.
-          The crust is visibly crackling and ticking as it cools.
-          CHIP: "06:15" / "it's out of the oven"
-8.9-10.6s INSERT. The loaf is slid into the kraft PROOF bag from @ Image2, the top folded
-          over once and taped. The ochre roundel and wordmark clearly readable.
-          CHIP unchanged.
-10.6-12.3s HERO. The courier from @ Image3 rides away down an empty terraced street in
-          low golden sunrise, satchel on their back, PROOF mark readable, streetlights
-          switching off behind them.
-          CHIP: "06:52" / "it's moving"
-12.3-13.6s INSERT. The kraft bag set down on a stone doorstep in full golden light,
-          exactly as in @ Image2. A hand withdraws from frame. Steam rises from the fold.
-          CHIP: "07:04" / "it's at your door"
-13.6-15s  END FRAME. Cut to a clean flat warm cream background. The PROOF concentric
-          ring mark and wordmark from @ Image1 sit centred, still, in burnt ochre and
-          dark rye brown. Beneath them, small, in dark rye brown: "now delivering".
-          CHIP for the final beat only: "bread younger than your alarm", single bold
-          line, centred. Absolutely no motion on this frame — it is a still card.
-
-[COLOUR]
-Burnt ochre is a physical object in the world before it is ever an interface colour —
-it is printed ink on the kraft bag and on the canvas satchel, lit by real light. The
-caption chip is the only ochre graphic element. Palette: warm cream, kraft brown, burnt
-ochre, dark rye brown, one cool blue-grey in the pre-dawn shadows.
-
-[AUDIO]
-Diegetic sound only, no music of any kind. The mix should feel close, warm and real.
-0-3.6s    The dead quiet of a room at 4am: an extractor fan humming, wet dough slapping
-          and stretching against steel, a scraper, the soft thud of flour.
-3.6-7.1s  Quieter still. A rack wheeled a short distance. The heavy clunk of an oven
-          latch and a deep roll of escaping steam.
-7.1-8.9s  THIS IS THE MOMENT THE WHOLE FILM IS BUILT AROUND. A loaf on a wire rack, its
-          crust crackling and ticking as it cools — a fine, irregular, delicate series
-          of snaps and pops, close-miked and clearly audible above everything else.
-          Bring the rest of the mix down under it.
-8.9-12.3s Kraft paper crumpling and folding, tape torn. Then outdoors: a freewheel
-          ticking, tyres on wet tarmac, one blackbird, distant early traffic.
-12.3-15s  The bag setting down on stone. Footsteps leaving. Birdsong. Then near silence
-          under the end card, with one last faint crust tick.
-No music, no voiceover, no narration, no dialogue, no whoosh transitions, no sound
-effects that are not physically present in the scene.
-
-[NEGATIVE]
-No text of any kind other than the caption chips, the PROOF wordmark, and "now
-delivering". No other logos, no brand names, no shop signage, no readable street signs,
-no house numbers, no phone screens, no app interfaces, no price, no website, no social
-handles, no hashtags, no watermarks. Do not alter the PROOF mark's ring count or the
-spelling of the wordmark. No music. No people speaking. No faces held in close-up for
-longer than one second — this is about the bread, not a character. No slow motion, no
-speed ramps, no lens flare, no colour grading toward teal or blue. The caption chip
-never moves position. Do not add a ninth shot. Do not animate the end card.
-~~~~
-
-</details>
-
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/someone-got-up-at-four-so-you-didn-t-have-to-455917/video-d12f55f27d28.webm)
-
-**Source:** [@Dheepanratnam](https://x.com/Dheepanratnam/status/2086199653922455917) · 15s · 9:16 · music video
-
----
-
-### 21. Anime Film Study 575169
-
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/player-stats-ui-animation-with-gpt-image-2-and-575169/video-684a93323721.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/player-stats-ui-animation-with-gpt-image-2-and-575169/poster-4aaa4f5eebd0.jpg" alt="Anime Film Study 575169 video preview" width="700" />
-</a>
-
-<details>
-<summary><strong>Prompt</strong> — @[ref img] is the sole visual authority for Kaze, the football, the complete player-stats interface, typography, numbers, icons, colors, lighting, layout, and vertical...</summary>
-
-~~~~text
-@[ref img] is the sole visual authority for Kaze, the football, the complete player-stats interface, typography, numbers, icons, colors, lighting, layout, and vertical composition. Animate this exact screen without redesigning it. Preserve all existing labels and final stat values.
-[Goal]
-Create a polished 15-second anime sports-game player stats screen opening. Use one continuous, locked, straight-on full-screen composition with no camera movement, cuts, cropping, or perspective distortion.
-
-[Sequence]
-0–2.2 seconds: Begin from near-black teal. A faint horizontal scanner passes downward, revealing Kaze’s silhouette and the outer edges of the interface. Fine particles and dim mint circuitry flicker awake.
-2.2–5.5 seconds: The header, KAZE nameplate, role badge, level panel, and overall panel resolve through clean line-draw animations. Kaze emerges fully from shadow, takes a controlled breath, subtly shifts her shoulders and raised arm into the referenced pose, then fixes an intense gaze toward the viewer. Her hair, ribbons, and loose clothing react naturally to a growing current of wind. The football begins a slow, stable rotation beside her hand.
-
-5.5–10.8 seconds: The large overall score counts rapidly upward and lands precisely on 92. The level settles on 46. Each attribute bar fills smoothly from left to right in sequence—Speed 93, Power 91, Control 88, Stamina 90, Agility 94, Technique 89—each landing with a restrained mint pulse. The radar chart draws outward from its center and locks into the exact final polygon. Skill cards activate from top to bottom; their icons flare briefly while the ACTIVE and ULTIMATE states illuminate.
-10.8–13.3 seconds: The player ID strip and bottom navigation fade and slide into their exact final positions. The wind energy around Kaze accelerates clockwise, wrapping around the rotating ball and sweeping behind her body with layered luminous trails. Kaze tightens her hand, leans slightly into the current, and gives one natural blink; preserve her identity, anatomy, costume, and right-side placement.
-
-13.3–15 seconds: The energy arc reaches a bright controlled crest, then settles into a living idle pulse. Hold the fully assembled screen matching @[ref img] exactly. Kaze continues subtle breathing; hair and ribbons drift, the football rotates slowly, particles shimmer, and all stats remain stable and readable.
-
-Use crisp premium game-UI motion, clean 2D anime character animation, subtle depth between Kaze and the interface, and stable legible typography. Keep every panel, icon, label, number, and geometric boundary fixed once revealed. Do not introduce new text, extra characters, additional objects, logos, captions, or UI elements.
-
-Audio: low electronic boot hum, delicate scanning ticks, short confirmation tones as values lock, rising airy wind around the ball, soft cloth movement, and one refined completion chime. No dialogue and no music.
-~~~~
-
-</details>
-
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/player-stats-ui-animation-with-gpt-image-2-and-575169/video-684a93323721.webm)
-
-**Source:** [@aimikoda](https://x.com/aimikoda/status/2086122377633575169) · 15s · 9:16 · anime
-
----
-
-### 22. Product Commercial Study 969702
-
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/16-9-luxury-fashion-commercial-using-as-exact-vi-969702/video-c07c62a99d2c.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/16-9-luxury-fashion-commercial-using-as-exact-vi-969702/poster-949e012ef325.jpg" alt="Product Commercial Study 969702 video preview" width="700" />
-</a>
-
-<details>
-<summary><strong>Prompt</strong> — Create a 15 second, 16:9 luxury fashion commercial using @Image1@Image2 as exact visual references. @Image1 is the sole product reference. Preserve the bag’s exact proportions,...</summary>
-
-~~~~text
-Create a 15 second, 16:9 luxury fashion commercial using @Image1@Image2 as exact visual references. @Image1 is the sole product reference. Preserve the bag’s exact proportions, pale grey white woven textile, irregular rectangular stitching, soft structure, curved flap, silver clasp, four black eyelets, side construction, zipper details, and hardware. Do not reinterpret it as leather. The bag has two separate short straps made from silver chain woven with matching textile. Preserve their exact construction, attachment points, resting positions, and maximum lengths. The front strap connects only the two front eyelets. The rear strap connects only the two rear eyelets. They must never cross, merge, disappear, duplicate, lengthen, or be rerouted. @Image2 is the exact character reference. Preserve the woman’s face, green eyes, straight blonde bob, natural proportions, and understated makeup. Dress her consistently in a sophisticated beige silk summer mini dress with a square neckline, narrow shoulder straps, fitted waist, and softly moving skirt. Add ivory slingback heels and small pearl earrings. The bag is the visual anchor throughout. It must always be the largest, brightest, sharpest, or most prominently framed element. The woman, hotel, landscape, and car are supporting elements only.
-0 to 1.75 seconds: Tight product shot of the bag alone on a sunlit limestone console beside a softly shimmering Riviera pool. Directional sunlight reveals the textile weave, stitching, two straps, four eyelets, side details, and clasp. 1.75 to 3.25 seconds: Keep the bag large and tack sharp in the foreground while the woman approaches through the bright hotel suite in soft focus. She has not touched it yet. 3.25 to 5 seconds: Extreme close up of her fingers lifting both straps together. Keep the front and rear straps visibly separate, correctly routed, and uncrossed. Show realistic chain tension, textile threaded through the links, and accurate hands. 5 to 7 seconds: She places both short straps together over one shoulder and wears the bag as a side shoulder bag. It hangs close beneath her arm, high against the side of her upper waist. It must never reach her hip or thigh. Both straps remain visibly separate, uncrossed, and at their true maximum length. 7 to 9 seconds: Close tracking shot through a sunlit hotel colonnade, composed mainly around the bag moving naturally against the beige silk dress. The straps respond realistically to her steps, shoulder movement, tension, and gravity. 9 to 11 seconds: The bag stands upright and tack sharp on a pale stone terrace table. Its two straps settle naturally and remain identifiable. The woman sits behind it in soft focus, looking toward the sea. 11 to 13 seconds: She carries the bag on one shoulder toward a cream vintage convertible. In a tight product focused montage, she opens the driver door, removes both straps from her shoulder, and carefully places the bag upright on the front passenger seat cushion. The bag’s entire base must rest directly on the horizontal cushion where a passenger sits. It is not on the backrest, headrest, seat edge, center console, or top of the seat. The passenger backrest rises behind it. Both straps settle naturally beside and partly behind the bag without disappearing. She enters the driver seat. Keep the car cropped and secondary. 13 to 15 seconds: The car moves along the Riviera coast. Keep the bag upright, large, and tack sharp on the passenger seat cushion while the woman holds steering wheel and drives in the soft background. The sea and road pass through the windows in gentle motion blur. Moving sunlight reveals the woven textile, stitching, eyelets, two distinct straps, and hardware. End with one controlled flash across the silver clasp.
-Use bright, fashion forward European luxury cinematography inspired by a restored 1990s campaign film. Directional Mediterranean sunlight, dimensional shadows, layered reflections, warm 35 mm grain, gentle haliation, creamy highlights, subtle film weave, natural motion blur, and tactile textile detail. Use elegant editorial cuts, realistic movement, accurate hands, and consistent spatial logic. Add a sophisticated original fashion score with crisp percussion, warm bass, airy electronic textures, subtle chain sounds, clasp click, silk movement, footsteps, coastal ambience, car door movement, and quiet engine sound. No dialogue. No product redesign, leather texture, colour change, altered stitching, missing or merged straps, crossed straps, extra straps, extended straps, changed eyelet routing, crossbody carry, low hip placement, warped chains, changed hardware, duplicated bag, distorted hands, outfit changes, blue dress, car hero shot, wide vehicle profile, empty road shot, incorrect seat placement, text, or subtitles.
-~~~~
-
-</details>
-
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/16-9-luxury-fashion-commercial-using-as-exact-vi-969702/video-c07c62a99d2c.webm)
-
-**Source:** [@Dustfinger2077](https://x.com/Dustfinger2077/status/2086086171117969702) · 15s · 16:9 · product commercial
-
----
-
-### 23. Red-and-Black Papercut Game Opening
-
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/red-black-papercut-game-opening-064990/video-d515b7eeaf54.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/red-black-papercut-game-opening-064990/poster-0b3671d65f84.jpg" alt="Red-and-Black Papercut Game Opening video preview" width="700" />
-</a>
-
-<details>
-<summary><strong>Prompt</strong> — 提示词灵感来源于 douyin 的【小彻的AI乱造】（国内的朋友可以关注下，真的把minimax 玩出花了） 游戏宣传...</summary>
-
-~~~~text
-提示词灵感来源于 douyin 的【小彻的AI乱造】（国内的朋友可以关注下，真的把minimax 玩出花了）
-
-游戏宣传 PV，整体为纯二维中式剪纸版画动画与黑色电影平面合成。【美术风格】红黑视觉风格：深墨黑、朱砂红、暗猩红、骨白和少量旧金色构成高反差画面，人物使用硬边剪影、木刻纹理与套印错位效果，阴影只有一至两层。城市被高度平面化，只保留中式牌楼、红柱、木窗格、灯笼、屋檐、电线、潮湿石板路和高楼剪影，以粗糙木刻线条、剪纸层次、飞白墨痕与大面积负空间构成。融合旧式通缉海报、犯罪漫画封面、皮影戏、印章、雨线、纸屑和水墨笔触。画面像一张张被撕开、压印、重新拼贴的红黑犯罪海报，空间允许不合理地折叠、拉长、平移和错位。转场依靠人物剪影、短刀刀痕、纸张撕裂、红色印章、墨迹擦除和黑白反相完成。红色只用于灯笼、反派服饰、酒液、危险信号、印章与关键情绪爆点。
-【角色】女主为参考图中的黑发年轻女性，穿黑色长衣与长靴，手持一把短刀。保留她冷冽、克制、强势的气质；人物造型简洁平面，主要由黑色身体剪影、骨白色面部与刀刃高光、暗红色轮廓线组成。反派为提供参考图中的女性：黑色长发盘起，佩戴红色耳坠，身穿深红色华贵长袍，长袍有繁复的金色龙纹刺绣。她气质端庄、从容、优雅而危险，始终带着淡淡的审视感与掌控感；人物以深红剪纸轮廓、旧金色木刻纹样和黑色阴影表现，不要写实肖像，不要改变其红袍与金色刺绣的核心识别特征。
-【分镜】0–3 秒纯黑背景中落下斜向朱砂红雨线，女主的黑色长靴与短刀刀尖出现，只有人物下半身，没有完整街景。脚步落下时，骨白色木刻裂纹、红色印章残影和不规则纸片从地面向外弹开。短刀刀尖划过画面，留下一道骨白色的刀痕，切开黑暗。
-3–6 秒镜头沿短刀向上移动，女主身体由黑色剪影、骨白面部和暗红衣摆分层揭示。她从一张黑色通缉海报上的剪影瞬间翻转为木刻版画人物，再恢复为红黑剪纸动画形象。背景城市不是立体场景，而是由中式屋檐、窗棂、灯笼、电线和高楼轮廓逐层压印拼合。
-6–9 秒女主继续向前行走，人物保持侧面平移，背景像展开的长卷画一样向反方向滑动。巨大的暗红色印章圆形从她身后压下，黑色屋檐和骨白雨线穿过人物，将画面切成多个不规则纸片区域。女主冰冷的眼睛短暂出现在独立的横向木刻特写框中。
-9–12 秒一只骨白色纸剪蝴蝶掠过女主眼前，蝴蝶轮廓放大成为覆盖画面的红黑纸屑。女主握住短刀，刀刃横向扫过，但不进入写实战斗；刀光直接转化为白色书法笔锋、破碎的红色月亮和飞散的印刷颗粒。反派以红袍女性的皮影剪影出现：金色龙纹像木刻图案沿衣袖和披肩亮起，她站在红月中央，面容只显露一双冷静的眼睛与微微上扬的嘴角。
-12–15 秒进入快速红黑版画蒙太奇：女主侧脸、握刀手部、短刀轮廓、反派红袍上的金色龙纹、反派耳坠、红色满月、灯笼和雨夜屋檐不断重叠。人物动作以关键姿态、剪纸抽拉和海报定格表现，不制作连续写实打斗。每次鼓点触发黑白反相、单帧朱砂红闪和纸张撕裂。最后女主站在纯黑城市剪影中央，短刀垂在身侧；反派的红袍剪影在她身后如幕布般展开，猩红月亮收缩成一滴酒液，酒液扩散为原创游戏标题，出现英文文案：“BLADE IN THE RAIN”。
-【严格限制】全片保持二维剪纸、木刻版画、皮影与红黑犯罪海报美术不要抽象科技 MG，不要写实光影，不要立体 3D 城市，不要电影级真实透视，不要复杂连续打斗，不要大面积霓虹灯，不要赛博朋克写实街景。人物、建筑、房间和道具全部平面化、剪影化、纸张化、图形化，所有镜头都像一张动态的红黑犯罪版画海报。
-~~~~
-
-</details>
-
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/red-black-papercut-game-opening-064990/video-d515b7eeaf54.webm)
-
-**Source:** [@TanLuAI](https://x.com/TanLuAI/status/2086053955315064990) · 15s · 7:4 · animation
-
----
-
-### 24. The CEO thought he could handle anything... until he met
-
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/the-ceo-thought-he-could-handle-anything-until-h-761388/video-907b663e80a2.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/the-ceo-thought-he-could-handle-anything-until-h-761388/poster-2f0231bd8309.jpg" alt="The CEO thought he could handle anything... until he met video preview" width="700" />
-</a>
-
-<details>
-<summary><strong>Prompt</strong> — 😊🌹👇...</summary>
-
-~~~~text
-😊🌹👇
-
-1960年代，香港邵氏復古電影風格：戴黑粗框眼鏡、頭髮微捲及肩的霸總生氣地按住女秘書(粉紅色廉價套裝、明顯腮紅、淡藍色眼影)的肩膀，質問女秘書道"昨晚，妳到底去了哪裡？"。女秘書開始眼眶泛淚，推開霸總的雙手，然後轉身拭淚哭泣著說"總裁這是我私人的事情，不用你管!"。總裁快步接近女秘書，然後將女秘書的身體按壓在復古的竹製躺椅上，總裁認真地對女秘書說"對不起，我錯了。"然後總裁開始親吻女秘書的臉頰。女秘書一邊假裝喘氣，一邊從總裁的背後拿高了手機喀擦一聲拍照。下一個畫面是香港街道的路人，手中拿著報紙(上面有總裁親吻流淚女秘書的自拍照 新聞標題寫著"OFFICE SCANDAL")。下一個畫面是圍著時尚花頭巾的女秘書(改穿米色連身風衣、黑色高跟鞋)自信地"哼"一聲，從書報攤拿了一份有相同頭版照片的報紙，然後得意地看著鏡頭比了個"shh"的手勢。畫面fade into black.
-
-#AIDrama #AIFillm #AIMovie #AIVideo #microdrama #CEO #霸道總裁
-~~~~
-
-</details>
-
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/the-ceo-thought-he-could-handle-anything-until-h-761388/video-907b663e80a2.webm)
-
-**Source:** [@drjoetw](https://x.com/drjoetw/status/2086020747336761388) · 15s · 16:9 · cinematic story
-
----
-
-### 25. Need a fairy godmother like this? 🧚‍♀
-
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/need-a-fairy-godmother-like-this-895004/video-09bfa49556ff.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/need-a-fairy-godmother-like-this-895004/poster-4d537b92108c.jpg" alt="Need a fairy godmother like this? 🧚‍♀ video preview" width="700" />
-</a>
-
-<details>
-<summary><strong>Prompt</strong> — 😍👇 美國喜劇reality show: 豪宅的泳池邊，20歲金髮藍眼的紅色比基尼美女與60歲灰髮憔悴的清潔婦正在激烈地爭吵，美女說&quot;醜死了，你這死老太婆!&quot;，清潔婦也不甘示弱說&quot;整天只會換男人，不正經!&quot;。這時畫誇張眼影妖后造型的drag...</summary>
-
-~~~~text
-😍👇
-
-美國喜劇reality show: 豪宅的泳池邊，20歲金髮藍眼的紅色比基尼美女與60歲灰髮憔悴的清潔婦正在激烈地爭吵，美女說"醜死了，你這死老太婆!"，清潔婦也不甘示弱說"整天只會換男人，不正經!"。這時畫誇張眼影妖后造型的drag queen飛過，便將手中的仙女棒往美女與清潔婦的頭上各點一下，結果美女迅速老化變成70歲皮膚鬆垮的老女人，清潔婦則迅速變成年輕的20歲美麗模樣。變年輕的清潔婦自信地說"啊，我現在感覺好多了!"就脫掉制服，露出夏季連身華麗黑色窄裙與高跟鞋，然後自信地離去，留下崩潰且一臉錯愕的老女人無助地看著鏡頭哭著吶喊:"不!!!!!!"
-
-#minimax #AIDrama #AIVideo #AIFilm #AIMovie #microdrama #parody
-~~~~
-
-</details>
-
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/need-a-fairy-godmother-like-this-895004/video-09bfa49556ff.webm)
-
-**Source:** [@drjoetw](https://x.com/drjoetw/status/2085983430219895004) · 15s · 16:9 · comedy
-
----
-
-### 26. Documentary Study 162229
-
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/main-subject-young-korean-woman-early-20s-oversi-162229/video-e506e31f1751.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/main-subject-young-korean-woman-early-20s-oversi-162229/poster-a46afa77bbaf.jpg" alt="Documentary Study 162229 video preview" width="700" />
-</a>
-
-<details>
-<summary><strong>Prompt</strong> — Main Subject : Young Korean woman, early 20s, oversized flannel over a tank top, cargo shorts, hair in a practical braid, focused cheerful energy. Location: Quiet forest campsite...</summary>
-
-~~~~text
-Main Subject : Young Korean woman, early 20s, oversized flannel over a tank top, cargo shorts, hair in a practical braid, focused cheerful energy.
-Location: Quiet forest campsite near a mountain stream, late afternoon. A half-set-up tent, camping gear scattered on a mat, tall pine trees, dappled sunlight. No other campers nearby.
-Visual Style:
-Ultra-realistic documentary realism, adventurous candid feeling, warm natural forest light.
-Camera Style:
-Early 2000s DV camcorder, handheld with natural outdoor shake, autofocus hunting in dappled light, soft grain, faded tones. No stabilization.
-Timeline (15 sec, each slot = 2 compressed beats):
-00:00–00:03 → She hammers a tent stake into the ground, then checks the tension of the rope.
-00:03–00:06 → She struggles with a stubborn pole, then says to camera "이거 왜 이렇게 안 들어가" ("Why won't this go in").
-00:06–00:09 → She finally gets it to click into place, laughing in relief.
-00:09–00:12 → She steps back to admire the standing tent, hands on her hips.
-00:12–00:15 → She looks at camera saying "다 됐다, 오늘 여기서 자자!" ("Done, let's sleep here tonight!"), smiling as it fades.
-Audio:
-Wind through trees, distant stream flowing, birds, fabric rustling. Her dialogue as noted above. No music.
-Goal: An adventurous, cheerful camping setup moment grounded, warm, authentic.
-~~~~
-
-</details>
-
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/main-subject-young-korean-woman-early-20s-oversi-162229/video-e506e31f1751.webm)
-
-**Source:** [@Strength04_X](https://x.com/Strength04_X/status/2085973447562162229) · 15s · 16:9 · cinematic story
-
----
-
-### 27. Bond-style spy-thriller op-art anime title sequence
-
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/bond-style-spy-thriller-op-art-anime-title-seque-295024/video-d1f8c9968b69.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/bond-style-spy-thriller-op-art-anime-title-seque-295024/poster-95af26b8a77f.jpg" alt="Bond-style spy-thriller op-art anime title sequence video preview" width="700" />
-</a>
-
-<details>
-<summary><strong>Prompt</strong> — Using Image as the character reference and the attached modern retro-western electro track for timing, create a 60s Bond-style spy-thriller op-art anime title sequence. Every cut...</summary>
-
-~~~~text
-Using Image as the character reference and the attached modern retro-western electro track for timing, create a 60s Bond-style spy-thriller op-art anime title sequence. Every cut must land exactly on the beat. Start with slow, sparse shots and progressively accelerate into rapid-fire montage as the drum pulse intensifies.
-
-STYLE: Flat, high-contrast pure black/white silhouette against psychedelic 1960s op-art backgrounds: concentric circles, starbursts, spirals, stripes, chevrons and kaleidoscopic patterns. Rotate through hot pink/orange, electric teal/violet, and acid yellow/magenta palettes. No realistic shading.
-
-Use classic Bond-title compositions: walking/spinning silhouettes, gun-barrel-style irises, mirrored/kaleidoscopic duplicates, and extreme close-ups of eyes, hands and weapons. Backgrounds may swirl and morph, but all shot transitions are hard cuts only.
-
-Use frequent half-to-one-beat freeze-frames on dramatic poses, with the character and pattern completely frozen before snapping to the next beat and palette. Alternate kinetic movement with sudden dead-stop freezes.
-
-Add bold 1960s Bond-style geometric italic typography, spinning/tiling/zooming in sync with the music. Apply subtle analog film grain and warm, saturated vintage print grading.
-
-ENDING: On the final hit, freeze the character in full black silhouette at center of a fully bloomed hot-pink-and-gold radiating starburst, while the title card spins/zooms into frame beside them.
-~~~~
-
-</details>
-
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/bond-style-spy-thriller-op-art-anime-title-seque-295024/video-d1f8c9968b69.webm)
-
-**Source:** [@doctorwasif](https://x.com/doctorwasif/status/2085947083463295024) · 15s · 16:9 · anime
-
----
-
-### 28. Model on Generative AI is getting really good .. I
-
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/model-on-generative-ai-is-getting-really-good-i-238799/video-df2a0f1adabb.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/model-on-generative-ai-is-getting-really-good-i-238799/poster-9b550371d673.jpg" alt="Model on Generative AI is getting really good .. I video preview" width="700" />
-</a>
-
-<details>
-<summary><strong>Prompt</strong> — &quot;Create a star trek scene on the bridge with the original captain Kirk, add ref image of Joe to the bridge with captain Kirk giving Joe and order to &quot;Engage&quot; and Joe respond &quot;Okie...</summary>
-
-~~~~text
-"Create a star trek scene on the bridge with the original captain Kirk, add ref image of Joe to the bridge with captain Kirk giving Joe and order to "Engage" and Joe respond "Okie Dokie"
-
-#aiart #hollywood #film #Advertising
-~~~~
-
-</details>
-
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/model-on-generative-ai-is-getting-really-good-i-238799/video-df2a0f1adabb.webm)
-
-**Source:** [@SolutionsJoeG](https://x.com/SolutionsJoeG/status/2085929499653238799) · 15s · 16:9 · cinematic story
-
----
-
-### 29. 添付のキャラクター参照（ 📷Image1 ）とオーディオトラックをタ
-
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-765882/video-b72b7f816e36.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-765882/poster-39035d6a8edf.jpg" alt="添付のキャラクター参照（ 📷Image1 ）とオーディオトラックをタ video preview" width="700" />
-</a>
-
-<details>
-<summary><strong>Prompt</strong> — 添付のキャラクター参照（ 📷Image1...</summary>
-
-~~~~text
-添付のキャラクター参照（ 📷Image1 ）とオーディオトラックをタイミングガイドとして使用してください。オーディオにある「音声」に完全に会うようにキャラクターの口とアクションを入れてリップシンクしてダイナミックなカメラアングルでラップを披露してください。カメラはマルチカットでキャラの部位をクローズアップしてください。全て超ハイスピードで激しく行ってください。
-
-モード2：Omni Reference
-プロンプト：添付のキャラクター参照（ 📷Image1 ）とオーディオトラックをタイミングガイドとして使用してください。オーディオにある「音声」に完全に会うようにキャラクターの口とアクションを入れてリップシンクしてダイナミックなカメラアングルでラップを披露してください。カメラはマルチカットで超ローアングル・超ハイアングルを小刻みに切り替えたUS東海岸のラップビデオのようなスタイルに仕上げる。全て超ハイスピードで激しく行ってください。
-~~~~
-
-</details>
-
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-765882/video-b72b7f816e36.webm)
-
-**Source:** [@KEETY2591756](https://x.com/KEETY2591756/status/2085918684879765882) · 30s · 7:4 · cinematic story
-
----
-
-### 30. Can reason? -- I wanted to see if reasoning could
-
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/can-reason-i-wanted-to-see-if-reasoning-could-167396/video-cda3ecc92797.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/can-reason-i-wanted-to-see-if-reasoning-could-167396/poster-bbf4883d7fe0.jpg" alt="Can reason? -- I wanted to see if reasoning could video preview" width="700" />
-</a>
-
-<details>
-<summary><strong>Prompt</strong> — A single continuous fixed wide shot in a plain, brightly lit test room, filmed like an unedited behavioral experiment. At the start, a red cube is on a table, a drawer is closed,...</summary>
-
-~~~~text
-A single continuous fixed wide shot in a plain, brightly lit test room, filmed like an unedited behavioral experiment. At the start, a red cube is on a table, a drawer is closed, a lamp is off, a chair sits precisely inside a taped floor outline, a hat hangs on a wall hook beside a bare mannequin, and a door is open. One person quickly performs six clearly separated actions in this exact order: places the red cube on a shelf, opens the drawer, turns on the lamp, moves the chair away from its taped outline, takes the hat from the hook and puts it on the mannequin, then closes the door. An off-screen instructor clearly says, "Undo only the last three actions." The person pauses briefly, understands the instruction, and carries it out exactly. No cuts, no time jumps, no extra actions, no additional dialogue, realistic synchronized room sounds.
-~~~~
-
-</details>
-
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/can-reason-i-wanted-to-see-if-reasoning-could-167396/video-cda3ecc92797.webm)
-
-**Source:** [@cocktailpeanut](https://x.com/cocktailpeanut/status/2085893756688167396) · 14s · 26:15 · cinematic story
 
 ---
 

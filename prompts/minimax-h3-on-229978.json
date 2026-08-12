@@ -1,0 +1,31 @@
+{
+  "slug": "minimax-h3-on-229978",
+  "title": {
+    "en": "Minimax H3 on",
+    "zh": "Minimax H3 on"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @bmx_ai13.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+  },
+  "category": "music-video",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "7:4",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@bmx_ai13",
+    "url": "https://x.com/bmx_ai13/status/2085584972778229978"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/bmx_ai13/status/2085584972778229978"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-on-229978/video-1d57d72e7cfc.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-on-229978/poster-2d13a8cb7005.jpg",
+  "prompt": "Create a 15 second cinematic sports video in 16:9 inside a real indoor strength competition arena packed with spectators. The story contrasts repeated failure with one calm, unexpected success. It must feel like authentic live event footage captured by a professional broadcast crew, with natural human motion, believable weight, consistent anatomy, coherent crowd behavior, and physically accurate object movement.\n\n0.00 to 2.70 seconds. Show three rapid failed keg toss attempts by three different heavyweight athletes. Use low sideline wide shots that include the athlete, tall steel throwing rig, red crossbar, and full keg arc. Each attempt lasts less than one second. One keg clips the bar and spins backward, one falls short, and one drifts sideways. The athletes show brief frustration while the crowd gives disappointed gasps. Use clean match cuts based on the circular keg shape.\n\n2.70 to 4.40 seconds. Let the music soften. Cut to a medium wide shot of an unassuming compact middle aged competitor entering from the arena tunnel. He wears a plain black competition shirt, dark blue shorts, knee sleeves, lifting shoes, and a worn leather belt. He walks calmly toward the keg while larger athletes watch from the edge of frame.\n\n4.40 to 7.20 seconds. Use three tactile close shots. Chalk pressing into his palms. Fingers locking around a cold dented steel rim. Shoes gripping the gray rubber floor as his knees bend. Show subtle breathing, sweat, fabric tension, skin compression, and a slight forearm tremor. Keep the same face, body, wardrobe, keg, and arena geography in every shot.\n\n7.20 to 11.80 seconds. Continue in one unbroken low angle tracking shot with a natural 35 mm lens look. He swings the keg between his legs, drives through the hips, extends the knees, pulls upward, and releases at the correct moment. The camera makes a controlled upward tilt. The keg rotates with realistic inertia and follows a clean parabolic arc. Use natural motion blur at 30 frames per second with a 1 over 60 shutter feel. Hold a brief near silence before release.\n\n11.80 to 13.40 seconds. The keg clears the red crossbar by only a few centimeters and lands heavily on the padded platform behind the rig without an unrealistic bounce. The crowd erupts on impact. A judge instinctively raises both arms to confirm success.\n\n13.40 to 15.00 seconds. Cut to a medium close shot as the competitor raises one fist and gives a restrained relieved smile. Larger athletes behind him stare in disbelief, then applaud. Finish on a natural crowd reaction, not a freeze frame.\n\nUse cool white overhead arena lighting, subtle blue haze, realistic warm skin tones, gentle lens bloom around practical lights, deep readable shadows, neutral cinematic color, controlled contrast, fine film grain, realistic sweat highlights, and no excessive sharpness.\n\nSound and music. Use an original 82 BPM cinematic percussion track with deep toms, restrained bass pulses, and a steady tension build. Layer authentic arena room tone, crowd murmur, chalk rubbing, metal scraping, shoe friction, breathing, a sharp air movement sound during release, a solid steel landing impact, and a powerful crowd swell after clearance. No dialogue.\n\nDo not include text, captions, logos, watermarks, brand names, duplicated spectators, warped faces, extra fingers, changing clothing, inconsistent body size, floating objects, rubbery metal, impossible physics, sudden camera teleportation, or artificial slow motion. The final result must look photographic, grounded, spontaneous, and genuinely filmed at a live competition."
+}

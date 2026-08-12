@@ -1,0 +1,31 @@
+{
+  "slug": "cinematic-sci-fi-suspense-video-a-realistic-spaceship-crew-in-024495",
+  "title": {
+    "en": "cinematic sci-fi suspense video. A realistic spaceship crew in full futuristic",
+    "zh": "cinematic sci-fi suspense video. A realistic spaceship crew in full futuristic"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @cocktailpeanut.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "14s",
+  "aspectRatio": "26:15",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@cocktailpeanut",
+    "url": "https://x.com/cocktailpeanut/status/2085498501384024495"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/cocktailpeanut/status/2085498501384024495"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-sci-fi-suspense-video-a-realistic-spaceship-crew-in-024495/video-dfe92e389553.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-sci-fi-suspense-video-a-realistic-spaceship-crew-in-024495/poster-1d2a943ae1f8.jpg",
+  "prompt": "cinematic sci-fi suspense video. A realistic spaceship crew in full futuristic uniforms follows a mysterious distress signal and boards a dark, abandoned spacecraft drifting in space. Flashlights cut through darkness as they move cautiously through narrow metallic corridors. Warning lights flicker, metal creaks, and their boots echo on the floor. One crew member says, \"Signal's coming from deeper inside.\" They enter a large chamber filled with hundreds of empty cryogenic pods, all open and abandoned. Another crew member says nervously, \"Where did everyone go?\" They approach a final closed door at the far end. The captain slowly opens it, and instead of another ship compartment, it reveals a completely normal present-day elementary school classroom in bright daylight. Children sit at desks, backpacks on the floor, colorful posters on the walls, and a teacher at the front turns to the crew and scolds them: \"You're late again. Take your seats.\" The astronauts stand frozen in confusion at the doorway. Realistic tone, smooth camera movement, strong suspense buildup, with the final reveal clear, sudden, and absurd. Include realistic audio: radio static, low ship hum, footsteps, pod machinery ambience, door hiss, then ordinary classroom sounds and the teacher's voice."
+}

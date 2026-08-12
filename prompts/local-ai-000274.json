@@ -1,0 +1,31 @@
+{
+  "slug": "local-ai-000274",
+  "title": {
+    "en": "Local AI",
+    "zh": "Local AI"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @NsitnovSitnov.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "reference-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@NsitnovSitnov",
+    "url": "https://x.com/NsitnovSitnov/status/2085329351915000274"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/NsitnovSitnov/status/2085329351915000274"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/local-ai-000274/video-e03d0617d09a.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/local-ai-000274/poster-06d2e19f1724.jpg",
+  "prompt": "Photorealistic cinematic 1990s American diner — red vinyl booths, neon signs, chrome details, checkerboard floor, soft window light mixed with warm practicals, subtle handheld texture, heavy film grain. Modern realism with precise temporal control.\n\nUse the provided reference image as the exact character lock for the bald bearded man in black sunglasses and dark hoodie. Maintain identical facial structure, beard, head shape, skin texture and clothing at all times.\n\n0-3s: [Medium Wide] The bald man rises from a red vinyl booth, turns, and collides hard into a waitress carrying a full breakfast tray (eggs, bacon, toast, coffee pot). Sudden, physical impact.\n\n3-8s: [Dynamic Orbit into Super Slow-Motion] The collision detonates. Tray, plates, eggs, bacon and coffee pot explode upward; coffee erupts into long liquid ribbons and suspended droplets. Camera orbits the impact as time locks completely at the peak of the spill. Every face freezes in shock. Only the bald man still moves — one beat of a clear \"I messed up\" expression, then he calmly plucks two bacon strips and a fried egg out of the floating debris.\n\n8-12s: [Tracking Shot] Still inside the frozen diner, he walks toward the exit taking deliberate bites of bacon, then egg. Patrons, waitress and flying food stay perfectly suspended mid-air.\n\n12-15s: [Medium Shot into Medium Close-Up] His hand touches the door — time snaps back to full speed and everything crashes down at once: plates, eggs, tray and coffee slam to the floor in loud chaos as the patrons jolt into real-time shock. He pauses, glances back over his shoulder, raises his eyebrows and gives a small \"it is what it is\" shrug with a quiet half-smile, still holding the food.\n\nPhotorealistic, ultra-detailed fluid and object physics, correct volume and surface tension on liquids, motion blur only on moving elements, stable character identity, cinematic lighting, heavy natural film grain, no artifacts, movie-level temporal coherence."
+}

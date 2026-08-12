@@ -1,0 +1,31 @@
+{
+  "slug": "seedance2-854556",
+  "title": {
+    "en": "但实际证明Seedance2依然能打啊！",
+    "zh": "但实际证明Seedance2依然能打啊！"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @ou_zhen599.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+  },
+  "category": "music-video",
+  "mode": "text-to-video",
+  "duration": "27s",
+  "aspectRatio": "3:4",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ou_zhen599",
+    "url": "https://x.com/ou_zhen599/status/2086831315559854556"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/ou_zhen599/status/2086831315559854556"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/seedance2-854556/video-fd825440ee98.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/seedance2-854556/poster-04f43b4f5394.jpg",
+  "prompt": "​ — A young Caucasian woman, 177 cm tall, with long, straight, silky light-blonde hair and neat, airy bangs; she has light gray, clear eyes and delicate, cool-looking features. She is wearing a white, fitted, short, pleated V-neck spaghetti-strap tank top, blue fitted jeans, a brown leather belt with a large vintage-style silver buckle, and dark brown leather knee-high boots.\n — white wireless microphone.\n — round stage in the center of the arena, surrounded by crowd on all sides, LED screen above.\n — music track, exactly this track must play throughout the entire scene.\n\nMira performing on stage to the track — not singing, moving like a rock star, dynamic chaotic movements, aggressively moving to the beat, sharply headbanging. White microphone in hand. Not looking at the camera. Shooting only mira — super close-up, cuts allowed. No zooms — camera always physically right next to mira on stage, heavily tilted, handheld. Dark cinematic lighting — top light, soft warm light barely touching her face, deep shadows below. Realistic skin. ARRI Alexa 35, anamorphic lenses. No 3D, no VFX."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "created-this-with-minimax-h3-on-185447",
+  "title": {
+    "en": "Created this with Minimax H3 on",
+    "zh": "Created this with Minimax H3 on"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 product commercial prompt with attached video evidence from @Inshrah_ali_.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+  },
+  "category": "product-commercial",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Inshrah_ali_",
+    "url": "https://x.com/Inshrah_ali_/status/2085595583927185447"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Inshrah_ali_/status/2085595583927185447"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-this-with-minimax-h3-on-185447/video-fdee2411a77e.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-this-with-minimax-h3-on-185447/poster-577d23675580.jpg",
+  "prompt": "Style: Premium music commercial, ultra-realistic, cinematic, 8K HDR, natural lighting, luxury fashion aesthetic, smooth professional camera work, vibrant neon accents, realistic skin textures, high-end choreography, dynamic typography synced to the beat, music-video quality, no watermark.\n\nScene 1 (0–3s)\n\nA stylish young female artist walks confidently through a modern city street at night, flanked by two equally fashionable dancers. They wear coordinated luxury streetwear with premium sneakers and jewelry. The beat drops as the camera circles them in slow motion. Giant animated typography appears behind them, displaying the lyrics in bold kinetic text synchronized perfectly with every word.\n\nScene 2 (3–8s)\n\nThe trio performs energetic hip-hop choreography in a neon-lit urban plaza. The camera switches between cinematic gimbal shots, low-angle tracking, drone passes, and close-ups of expressive faces. Every lyric appears on screen with premium motion graphics, glowing typography, smooth transitions, and rhythmic animations that pulse with the music.\n\nScene 3 (8–12s)\n\nFast-paced performance featuring synchronized dance moves, stylish hand gestures, confident attitude, realistic hair movement, natural fabric physics, and dynamic lighting. The lyrics continue appearing in large, eye-catching typography that interacts with the environment, wrapping around buildings and moving with the beat.\n\nScene 4 (12–15s)\n\nThe music reaches its climax. All three performers strike a powerful final pose as the camera cranes upward. Massive cinematic typography fills the background with the final lyric while city lights sparkle behind them. Premium commercial color grading, flawless visual effects, realistic crowd energy, luxury music-video finish.\n\nHip-Hop Lyrics (On-Screen Typography):\n\nWe rise, no limits, we own the night,\nDreams in motion, shining so bright.\nMove with the rhythm, feel the fire,\nWe came to win—taking it higher!\n\nVisual Style: Premium commercial production, Billboard music video aesthetic, luxury fashion campaign, realistic camera movement, cinematic lens flares, authentic facial expressions, smooth choreography, vibrant urban atmosphere, perfectly synchronized kinetic lyric typography."
+}

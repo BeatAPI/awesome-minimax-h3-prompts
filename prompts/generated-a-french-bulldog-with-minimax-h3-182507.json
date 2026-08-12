@@ -1,0 +1,31 @@
+{
+  "slug": "generated-a-french-bulldog-with-minimax-h3-182507",
+  "title": {
+    "en": "Generated a french bulldog with MiniMax H3",
+    "zh": "Generated a french bulldog with MiniMax H3"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @cocktailpeanut.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "14s",
+  "aspectRatio": "26:15",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@cocktailpeanut",
+    "url": "https://x.com/cocktailpeanut/status/2085448660612182507"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/cocktailpeanut/status/2085448660612182507"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/generated-a-french-bulldog-with-minimax-h3-182507/video-eb80c2704709.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/generated-a-french-bulldog-with-minimax-h3-182507/poster-0b12ef8276be.jpg",
+  "prompt": "A casual handheld smartphone video filmed by the dog's owner in an ordinary suburban backyard. A cute, stocky French bulldog excitedly runs through a small homemade agility course, awkwardly weaving between plastic poles, hopping over two low hurdles, scrambling through a short fabric tunnel, and finally bumping a little bell with its nose."
+}

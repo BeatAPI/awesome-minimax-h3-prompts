@@ -1,0 +1,31 @@
+{
+  "slug": "total-gen-time-29-minuets-on-a-rtx-3060-976597",
+  "title": {
+    "en": "Total gen time: 29 minuets on a RTX 3060",
+    "zh": "Total gen time: 29 minuets on a RTX 3060"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 action prompt with attached video evidence from @leuk_o.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动作提示词。"
+  },
+  "category": "action",
+  "mode": "text-to-video",
+  "duration": "10s",
+  "aspectRatio": "9:5",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@leuk_o",
+    "url": "https://x.com/leuk_o/status/2086419768047976597"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/leuk_o/status/2086419768047976597"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/total-gen-time-29-minuets-on-a-rtx-3060-976597/video-2f6735f9d46a.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/total-gen-time-29-minuets-on-a-rtx-3060-976597/poster-49d40e8b7a79.jpg",
+  "prompt": "Create a cinematic Hollywood movie scene, action adventure, explosions, Jackie Chan is fighting an opponent on top of a moving train, have multiple camera cuts and angles"
+}

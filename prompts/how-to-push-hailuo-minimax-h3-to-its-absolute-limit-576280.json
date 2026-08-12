@@ -1,0 +1,31 @@
+{
+  "slug": "how-to-push-hailuo-minimax-h3-to-its-absolute-limit-576280",
+  "title": {
+    "en": "How to push Hailuo Minimax H3 to its absolute LIMIT. ⚙️🪐",
+    "zh": "How to push Hailuo Minimax H3 to its absolute LIMIT. ⚙️🪐"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 product commercial prompt with attached video evidence from @nonameoasis.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+  },
+  "category": "product-commercial",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@nonameoasis",
+    "url": "https://x.com/nonameoasis/status/2085459203892576280"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/nonameoasis/status/2085459821445177625"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/how-to-push-hailuo-minimax-h3-to-its-absolute-limit-576280/video-cda3bf06a3ff.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/how-to-push-hailuo-minimax-h3-to-its-absolute-limit-576280/poster-389ea7176822.jpg",
+  "prompt": "Zero post-production cuts. Pure spatial awareness and temporal coherence from the engine. Using semantic motion design to make typography emerge from the environment is the future of title sequences. 🎬🔥\n\nUse the provided image as the final state. Audio-driven motion sync.\n[0s-6s] The space nomad walks forward with a heavy, confident stride. Procedural world assembly: the environment mechanically builds itself around him. Asteroid rock shifts, interlocking clockwork gears spin, and glowing amber holograms activate.\n[6s-10s] The character halts, looking out over the horizon as the mechanical world construction completes behind him.\n[10s-15s] CRITICAL SEQUENCE: The camera smoothly settles into a centered frame. Massive dark rusted metal and brass gears dynamically emerge from the foreground, interlocking and snapping into place to form the main title text. Satisfying kinetic pop-up motion, seamless structural transformation, cinematic finish."
+}

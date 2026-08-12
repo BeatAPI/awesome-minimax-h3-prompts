@@ -1,0 +1,31 @@
+{
+  "slug": "minimax-h3-449246",
+  "title": {
+    "en": "如果你喜欢这个视频，可以自己做一下，提示词在评论区👇，MiniMax H3的优缺点在引用的推文里",
+    "zh": "如果你喜欢这个视频，可以自己做一下，提示词在评论区👇，MiniMax H3的优缺点在引用的推文里"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @Stellakjbk.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "10s",
+  "aspectRatio": "4:3",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Stellakjbk",
+    "url": "https://x.com/Stellakjbk/status/2084691296472449246"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/Stellakjbk/status/2084691437136863285"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-449246/video-3af38045ee82.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-449246/poster-b6eb63ae95b2.jpg",
+  "prompt": "以参考图为首帧，保持原有构图、建筑布局、人物服饰与蓝紫色东方幻想夜景风格不变。\n\n5秒电影级连续镜头：镜头从河面上方以低机位缓慢向前推进，轻微掠过前景乌篷船，形成自然的前中后景视差。夜市人群熙熙攘攘地流动，岸边行人缓步穿行、驻足交谈、摊贩招呼客人，动作细微但丰富，避免所有人同步运动。河面上的小船沿不同方向缓慢划行，船夫自然摆动船桨，船身随水波轻轻起伏。两岸灯笼被晚风吹得轻微摇晃，暖黄色灯火自然闪烁，倒影在水面上被船桨和涟漪缓缓拉开。紫藤花穗随风摆动，少量花瓣飘落，远处瀑布持续流淌，山间薄雾与云层缓慢移动，月光洒在水面形成流动的银蓝色高光。\n\n整体节奏繁华但不混乱，画面稳定、动作真实、层次丰富，具有东方古城夜游的沉浸感。运镜平滑克制，无突然加速、无镜头抖动、无建筑变形、无人脸扭曲、无人物闪现、无物体穿模、无新增大型元素，保持高细节、电影级光影与史诗感。"
+}

@@ -2,7 +2,28 @@
 
 [Back to the full gallery](../../README.md) · [Catalog index](../README.md)
 
-## 1. Horror Film Study 836142
+## 1. 動画プロンプトはリプ欄に
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-010351-010351/video-7e9e767d9993.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-010351-010351/poster-a3d71659bc86.jpg" alt="動画プロンプトはリプ欄に video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — KAWAII HORRORミュージックビデオを完成させる。これは映像とキネティック・タイポグラフィを一括生成する実験である。歌詞テロップは後処理に回さず、生成動画の中へ直接描画する。Picture 1はぬいぐるみのフルフレーム映像の主画像として使う。Picture 2は、デザインされたテロップの形とモーション言語だけを参考にする。Picture...</summary>
+
+~~~~text
+KAWAII HORRORミュージックビデオを完成させる。これは映像とキネティック・タイポグラフィを一括生成する実験である。歌詞テロップは後処理に回さず、生成動画の中へ直接描画する。Picture 1はぬいぐるみのフルフレーム映像の主画像として使う。Picture 2は、デザインされたテロップの形とモーション言語だけを参考にする。Picture 2そのもの、絵コンテのグリッド、グリーンバック、CUTラベル、時間表示、サイドパネル、サイドバー、黒いレール、固定されたテキスト枠は映像内に表示しない。  ぬいぐるみのキャラクター、顔の特徴、縫い目、リボン、ボタン、ドクロチャーム、CRT画面、ピンク・ラベンダー・シアンの色、各キャラクターの位置関係を正確に保つ。ぬいぐるみには、呼吸、瞬き、小さな首の傾き、耳の動き、リボンの揺れ、手の動き、目の中のハートの発光、カットごとの小さなポーズ変化を必ず付ける。顔は最後まで認識可能にする。カメラは、ゆっくりしたプッシュイン、短い横移動、小さな弧の移動、引きの動き、ハードなグラフィックカットを使う。ランダムな手ブレ、顔の変形、溶解、ゴア、新キャラクター、物体のランダムな置き換えは禁止。  アップロードした音源だけをマスター音源として使う。新しい音楽を生成しない。歌い直さない。自動字幕のタイミングを使わない。以下の歌詞タイムラインをハードロックする。歌詞を早く出さない。後半の歌詞イベントを前半へ詰め込まない。字幕が前倒しされて最後の0.360秒が空白になることも禁止する。  テロップは普通の字幕ではなく、大きなデザイン文字によるモーショングラフィックにする。手描きで少し不規則な文字形、文字ごとに異なる大きさ、ベースラインのずれ、意図的な傾き、太い白文字、不規則な黒い抜き形、ホットピンクの縁、シアンとマゼンタのRGB残像、尖った終端、斜めの軌跡、インク片、ピクセル片を使う。各フレーズは、カットごとに違う侵入、移動、読みやすい保持、退場を持たせる。指定した場合は、文字単位または2〜3文字の小グループ単位で時間差をつける。メインの白文字は保持中に完全に読める状態にし、綴りを変えない。  【文字の完全固定】使用できる歌詞は次の8フレーズだけ。順番も固定する。"Sweet Error"、"愛して"、"こわれた分だけ"、"可愛くして"、"Sweet Error"、"消さないで"、"私はここだよ"、"ここだよ"。漢字の"壊れた"は絶対に使わず、必ず"こわれた"と表示する。翻訳、言い換え、追加、削除、結合、順番変更、重複、文字の入れ替え、文字化け、別の文字の発明は禁止。Shot 4だけは指定した2行表示を許可する。  [Shot 1] 00.000〜01.520秒。Picture 1のぬいぐるみ全体を見せ、中央のラベンダーのぬいぐるみへ小さな振幅でゆっくりプッシュインする。中央のぬいぐるみが呼吸し、1回瞬きをし、リボンを少し揺らす。左のピンクのぬいぐるみは首を少し傾け、青いぬいぐるみは片手を少し動かし、右上の白いぬいぐるみの目のハートが小さく光る。CRT画面は弱くちらつく。歌詞、文字の一部、残像、文字の侵入も一切表示しない。  [Shot 2] 00:01.520秒でハードカット。右側の固定パネルではなく、画面左上の空いた空間に"Sweet Error"だけを表示する。モーションパターンA＋F＋Dを使う。単語グループごとに別々の画面外から侵入させ、最初の単語は右上から、次の単語は右下から入れる。2つの単語を反対方向へ約12度ずつ回転させ、不規則な斜めのベースラインへスナップさせる。4フレームのシアン・マゼンタ分離と曲線状のカラートレイルを付ける。文字列全体を1回だけ小さく弾ませ、完全に読める状態で保持する。03.050秒で残像だけを水平に引き裂き、03.260秒までに文字と残像をすべて消す。  [Shot 3] 00:03.260秒でハードカット。少し寄った新しいポーズにする。ピンクのぬいぐるみが文字の方向へ首を傾け、青いぬいぐるみが片手を上げ、中央のぬいぐるみが瞬きをする。画面中央右に"愛して"だけを表示する。モーションパターンC＋Fを使う。文字を1文字ずつ下から出し、それぞれ少し異なる曲線軌道で上昇させる。隣り合う文字を時計回り・反時計回りで交互に約16度回転させ、2フレームずつ時間差をつける。フレーズ全体を4分の1円弧に沿って移動させ、上方向へ1回オーバーシュートし、回転を戻して整列させる。シアンの細い軌跡を付ける。04.600秒から斜めに退場させ、04.840秒までに完全に消す。  [Shot 4] 00:04.840秒でハードカット。新しい集合ポーズにし、カメラをゆっくり右へ横移動させる。中央のぬいぐるみが顎を上げ、ピンクのリボンが1回揺れ、青いぬいぐるみが少し顔を向け、右上の白いぬいぐるみが瞬きをする。画面右下の空いた空間に、1つのデザインブロックとして2行を表示する。1行目は"こわれた分だけ"、2行目は"可愛くして"。モーションパターンA＋J＋Hを使う。1行目は右上から斜めに落とし、文字ごとにマイナス14度・プラス14度を交互に付ける。2行目は右下から上昇させ、反対方向の傾きを使う。文字を一度に全部出さず、2〜3文字ずつ時間差を付ける。05.250秒で2行を3フレームだけ衝突・圧縮させ、その後ばねのように跳ね戻して2行の最終配置にする。05.400〜07.300秒は2行とも完全に読みやすく保持する。07.300秒で黒い抜き形を磁気粒子へ分解し、前の位置の薄い残像を左へにじませ、シアンとマゼンタの残りを散らす。08.000秒までに両方の行を完全に消す。"壊れた"は表示しない。  [Shot 5] 00:08.000秒で強いパステル・グリッチブリッジを作り、新しい読みやすいぬいぐるみポーズへ切り替える。中央の目のハートが1回発光し、ピンクのぬいぐるみが耳を動かし、青いぬいぐるみが少し顔を向ける。画面左下の空間に2回目の"Sweet Error"だけを表示する。モーションパターンB＋D＋Iを使う。1フレームの白・シアン衝撃フラッシュで文字をテレポートさせ、文字列全体を時計回りに18度回転させながら横方向へ伸ばす。文字を3つのRGBコピーに分離し、3方向へ短く飛ばし、白いメイン文字を鋭く再構成する。短いCRTスキャンラインの裂け目を1回だけ入れる。08.350〜09.200秒は完全に読める状態で保持する。09.200秒で残像を反時計回りに回転させ、左下の画面外へ排出し、09.580秒までにすべて消す。08.000秒より前に始めない。  [Shot 6] 00:09.580秒で安定した新しいポーズへハードカット。中央のぬいぐるみが口を少し開くが、顔を変形させない。青いぬいぐるみが瞬きをし、全体がカメラへ少し傾く。カメラは小さくゆっくり引く。画面右上の空間に"消さないで"だけを表示する。モーションパターンC＋Fを使う。文字を左から右へ速い斜めの波として移動させ、各文字を3フレームずつ遅らせて出す。時計回り10度・反時計回り10度を交互に付け、1回だけ行き過ぎてから小さく上下に跳ねて止める。シアンとマゼンタの軌跡は顔の上ではなく文字のベースラインに沿わせる。10.050〜10.850秒は読みやすく保持する。10.850秒から左から右への斜めスライスで消し、11.160秒までに完全に消す。  [Shot 7] 00:11.160秒で中央のラベンダーのぬいぐるみの周囲をカメラが小さく滑らかな弧を描く。ぬいぐるみを左から右へ順番に瞬きさせ、中央のぬいぐるみが少し前へ傾き、目のハートを1回明るくする。固定サイドレールではなく、画面中央左の空間に"私はここだよ"だけを表示する。モーションパターンG＋Hを使う。まず各文字を細いシアンのワイヤーフレーム線で描き、2フレーム後に白いデザイン文字として塗り込む。隣り合う文字の大きさとベースラインを少し変え、約8度の穏やかな揺れ回転を付ける。前の線の残像を薄く残し、単語の間でハートを1回だけ脈動させ、最後にフレーズ全体を固定する。12.700秒から文字をずれた輪郭片へゆるめ、左上へ漂わせる。13.020秒までに文字と残像をすべて消す。  [Shot 8] 00:13.020秒で独立した最後の歌詞イベントを作る。中央のラベンダーのぬいぐるみがカメラへ少し傾き、目を合わせる。ピンクのぬいぐるみがリボンを1回動かし、青いぬいぐるみが片手を上げる。画面右下の空間に"ここだよ"だけを表示し、文字全体を画面内へ収める。モーションパターンK＋Eを使う。文字を1文字ずつ3フレーム間隔で出し、各文字を内側へ12度回転させて、少し異なるベースラインへスナップさせる。歌声のアクセントでフレーズ全体を約12パーセント拡大し、背後に2フレームだけシアン・白のフルフィールドフラッシュを入れ、最後の文字を1回だけ跳ねさせる。14.350秒まで完全に読みやすく保持する。14.350秒から文字を曲線状のカラートレイルに乗せて右下へ退場させ、14.640秒までにすべて消す。"私はここだよ"と結合しない。  [Shot 9] 14.640〜15.000秒は、きれいなぬいぐるみ全体だけを表示する。歌詞、文字の一部、残像、パネル、黒いレール、フェードアウトは一切使わない。中央のポーズを安定させ、目の中のハートを小さく光らせ、CRTを1回だけ控えめにちらつかせて終了する。  禁止事項: 普通の字幕バー、中央のカラオケ字幕、固定右側パネル、サイドバー、黒いレール、グリーンバック、絵コンテのコラージュ、CUTラベル、時間表示、文字の変形、文字化け、漢字への置き換え、余計な単語、歌詞の重複、歌詞の重なり、動かないぬいぐるみ、制御不能な手ブレ、顔の変形、追加BGM、フェードトランジション。  overall_soundscape: アップロードしたマスター音源をそのまま使う。新しい台詞、歌声、BGM、環境音、効果音は追加しない。ぬいぐるみの動きとテロップの衝撃を音源に合わせる。ただし、歌詞の開始・終了は上記の固定タイムラインを最優先する。  non_diegetic_music: アップロードしたマスター曲だけを使う。追加の音楽は使わない。
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-010351-010351/video-7e9e767d9993.webm)
+
+**Source:** [@su_nagomi](https://x.com/su_nagomi/status/2085594060384010351) · 15s · 7:4 · horror
+
+---
+
+## 2. Horror Film Study 836142
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/the-real-horror-wasn-t-the-ghost-it-was-trusting-836142/video-870106c1d95d.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/the-real-horror-wasn-t-the-ghost-it-was-trusting-836142/poster-cf71c1889ddc.jpg" alt="Horror Film Study 836142 video preview" width="700" />
@@ -29,7 +50,7 @@
 
 ---
 
-## 2. Horror Film Study 335284
+## 3. Horror Film Study 335284
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/found-footage-film-with-335284/video-d0f6e38d9844.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/found-footage-film-with-335284/poster-40daaaf7a40d.jpg" alt="Horror Film Study 335284 video preview" width="700" />
@@ -50,7 +71,7 @@
 
 ---
 
-## 3. Is this real? I honestly can’t believe it 😱😮
+## 4. Is this real? I honestly can’t believe it 😱😮
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/is-this-real-i-honestly-cant-believe-it-988527/video-bf9310e39939.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/is-this-real-i-honestly-cant-believe-it-988527/poster-87bf19bf8e78.jpg" alt="Is this real? I honestly can’t believe it 😱😮 video preview" width="700" />
@@ -88,7 +109,7 @@ Jesse remains completely emotionless, silently staring at Dwight while holding t
 
 ---
 
-## 4. Desert Buggy Combat Chase
+## 5. Desert Buggy Combat Chase
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-16-9-photoreal-cinematic-action-sequence-with-743096/video-fac1842f50c4.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-16-9-photoreal-cinematic-action-sequence-with-743096/poster-a828d66e929b.jpg" alt="Desert Buggy Combat Chase video preview" width="700" />
@@ -210,7 +231,7 @@ No subtitles, titles, logos, watermarks, additional racers, pedestrians, creatur
 
 ---
 
-## 5. Luminous Creature in a Dusk Kitchen
+## 6. Luminous Creature in a Dusk Kitchen
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/15-seconds-16-9-landscape-blend-live-action-footage-of-867462/video-186f665474fa.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/15-seconds-16-9-landscape-blend-live-action-footage-of-867462/poster-12f86ca52100.jpg" alt="Luminous Creature in a Dusk Kitchen video preview" width="700" />
@@ -233,7 +254,7 @@ No subtitles, titles, logos, watermarks, additional racers, pedestrians, creatur
 
 ---
 
-## 6. Cyberpunk Ice-Blue Character Awakening
+## 7. Cyberpunk Ice-Blue Character Awakening
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-source-image-and-first-frame-221921/video-7bd2fd15e422.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-source-image-and-first-frame-221921/poster-4917e9fd5c81.jpg" alt="Cyberpunk Ice-Blue Character Awakening video preview" width="700" />
@@ -254,7 +275,7 @@ Use the uploaded image as the exact source image and first frame. Preserve the o
 
 ---
 
-## 7. 1970s Shibuya Urban-Legend Horror
+## 8. 1970s Shibuya Urban-Legend Horror
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/1970-japanese-urba-207488/video-76b98520e830.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/1970-japanese-urba-207488/poster-fe772a707df9.jpg" alt="1970s Shibuya Urban-Legend Horror video preview" width="700" />
@@ -308,7 +329,7 @@ Use the uploaded image as the exact source image and first frame. Preserve the o
 
 ---
 
-## 8. Containment Breach in a Sterile Lab
+## 9. Containment Breach in a Sterile Lab
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/slow-motion-handheld-close-up-16-9-shaky-organic-handhe-994748/video-bf061cee3029.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/slow-motion-handheld-close-up-16-9-shaky-organic-handhe-994748/poster-a47bef0e059f.jpg" alt="Containment Breach in a Sterile Lab video preview" width="700" />

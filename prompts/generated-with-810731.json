@@ -1,0 +1,31 @@
+{
+  "slug": "generated-with-810731",
+  "title": {
+    "en": "Generated with",
+    "zh": "Generated with"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @noorwithwifi.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "12s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@noorwithwifi",
+    "url": "https://x.com/noorwithwifi/status/2084289809359810731"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/noorwithwifi/status/2084289809359810731"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/generated-with-810731/video-83eacf931d6b.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/generated-with-810731/poster-78ada233cc1f.jpg",
+  "prompt": "Continuous 15-second cinematic shot, extreme slow-motion: a futuristic cyberpunk samurai standing in heavy neon rain, reflective wet armor. The samurai slowly draws a glowing katana, lens flare, volumetric neon fog, dynamic camera panning around the character, continuous fluid motion, photorealistic 8k"
+}

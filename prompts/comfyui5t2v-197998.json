@@ -1,0 +1,31 @@
+{
+  "slug": "comfyui5t2v-197998",
+  "title": {
+    "en": "ComfyUIのワークフローのサンプルプロンプトは下記のとおりでした。今までの知見から、アニメ調でアイドルの女の子が日本語で挨拶をする5秒のt2v動画のプロンプトを考案してください。",
+    "zh": "ComfyUIのワークフローのサンプルプロンプトは下記のとおりでした。今までの知見から、アニメ調でアイドルの女の子が日本語で挨拶をする5秒のt2v動画のプロンプトを考案してください。"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 product commercial prompt with attached video evidence from @riddi0908.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+  },
+  "category": "product-commercial",
+  "mode": "text-to-video",
+  "duration": "5s",
+  "aspectRatio": "9:5",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@riddi0908",
+    "url": "https://x.com/riddi0908/status/2084233895202197998"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/riddi0908/status/2084538454596354549"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/comfyui5t2v-197998/video-6e2a3aca2761.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/comfyui5t2v-197998/poster-17ac5e98500e.jpg",
+  "prompt": "プロンプト置いときます✋\n\nJapanese anime style, high-end TV anime production quality, soft pastel lighting, clean line art, subtle cel shading, bright and cheerful idol stage atmosphere, glowing lens flare, gentle bokeh in background, smooth vibrant 60fps animation feel.\n\nScene overview: An adorable anime idol girl stands center stage, looking directly at the camera with a brilliant smile. She holds a colorful microphone, energetic and joyful, giving a cute greeting to her fans. A short, charming 5-second anime idol greeting scene.\n\nStoryboard:\n[0s-1.5s] Shot 1: Medium close-up: The idol girl steps forward with a big smile, bringing the microphone to her mouth, blinking playfully as stage lights twinkle behind her.\n[1.5s-3.5s] Shot 2: Close-up on her face: She speaks clearly into the microphone with precise lip-sync: \"みんな、こんにちは！今日も一緒に楽しもうね！\" (Minna, konnichiwa! Kyou mo issho ni tanoshimou ne!). She winks on \"tanoshimou ne!\".\n[3.5s-5s] Shot 3: Slightly pulled-back medium shot: She strikes a cute victory-pose/heart-pose with her free hand, tilting her head with a beaming smile as sparkle particles drift around her.\n\nCamera: Smooth pan-in at the start, staying centered and static during the lip-sync for maximum clarity, subtle handheld bounce on the final pose at 3.5s.\n\nAudio: Crisp female anime idol voice clearly pronouncing \"みんな、こんにちは！今日も一緒に楽しもうね！\" in Japanese. Underneath, an upbeat synth-pop idol BGM playing, accompanied by a soft microphone \"pop\" sound at 0.5s and a sparkling magic SFX hit at 3.5s during the pose.\n\nNo real-life live action rendering, no realistic skin texture, no 3D CG look, no English subtitles or on-screen text clutter, keep the pure 2D anime aesthetic."
+}

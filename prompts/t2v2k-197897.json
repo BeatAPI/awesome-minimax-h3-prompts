@@ -1,0 +1,31 @@
+{
+  "slug": "t2v2k-197897",
+  "title": {
+    "en": "t2vで2Kで生成。",
+    "zh": "t2vで2Kで生成。"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @tanabe_fragm.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+  },
+  "category": "music-video",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "9:16",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@tanabe_fragm",
+    "url": "https://x.com/tanabe_fragm/status/2084854693403197897"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/tanabe_fragm/status/2084854693403197897"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/t2v2k-197897/video-5c6884d5b0d4.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/t2v2k-197897/poster-44d24ab575b8.jpg",
+  "prompt": "integrated_multimodal_description: [Shot 1] Live-action, cinematic, photorealistic with true fine pores and real skin texture, no beauty filter. A wide low-angle shot in a wrecked living room at dusk: a shattered window, an overturned wooden chair, a smashed vase with white petals scattered across the floor, broken glass everywhere and dust hanging in the low amber light. A 25-year-old woman with cool fair skin, dark almond eyes, long straight black hair and a plain charcoal slip dress stands motionless in the centre of the wreckage, arms at her sides, looking straight into the lens. The camera performs an Arc Shot with small amplitude at slow speed, circling her from left to right for the whole shot and never changing direction. At 00:03.000 the destruction begins to run backwards: every object except the woman moves as if the footage were playing in reverse, while she stays in normal forward time and does not move at all. Broken glass lifts off the floor, rises through the air and knits itself back into the window pane from the outside in. The white petals float upward, gather and fold back into a whole vase that lands upright on the table. The overturned chair swings up onto its legs. Dust and small fragments are drawn inward from every corner of the room, and a pool of water on the floor pulls back up into an intact drinking glass. At 00:09.000 the last few fragments converge on the window. At 00:11.000 the final shard slots into place and the room is completely whole and undamaged, warm evening light now falling through clean glass.\n\n[Shot 2] At 00:11.500, the camera cuts to a chest-up close-up, Static Shot at eye level, of the same woman in the now-perfect room, her appearance, hair and charcoal dress unchanged. She is still motionless. She blinks once, the only human movement in the film, and the frame holds on her face until the end. No on-screen text or subtitles at any point.\n\noverall_soundscape: Deep silence in the wrecked room, broken only by the woman's slow breathing. As the reversal starts, glass shards tick and chime upward through the air and wood scrapes as the chair rights itself, under a long inward rushing sound that draws the dust back from the edges of the room. The final shard clicks into the window and everything stops into complete silence.\n\nnon_diegetic_music: A single low synth drone that begins under the wreckage and rises steadily in pitch and volume through the reassembly, joined by sparse reversed piano notes. It cuts off dead at the moment the last shard locks into the window, leaving nothing underneath."
+}

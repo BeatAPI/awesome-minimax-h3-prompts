@@ -1,0 +1,31 @@
+{
+  "slug": "i-made-a-comedy-special-with-hailuo-h3-and-the-076759",
+  "title": {
+    "en": "I made a comedy special with Hailuo H3 and the timing is spot on",
+    "zh": "I made a comedy special with Hailuo H3 and the timing is spot on"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 product commercial prompt with attached video evidence from @azed_ai.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+  },
+  "category": "product-commercial",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@azed_ai",
+    "url": "https://x.com/azed_ai/status/2087208466264076759"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/azed_ai/status/2087208478758842551"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/i-made-a-comedy-special-with-hailuo-h3-and-the-076759/video-cad41e26b34c.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/i-made-a-comedy-special-with-hailuo-h3-and-the-076759/poster-abdb310fd381.jpg",
+  "prompt": "Style: Live stand-up comedy special, intimate comedy club, professional multi-camera production, warm stage lighting, packed audience around small tables, sharp HD broadcast look, natural facial expressions, authentic comedic timing, clean microphone audio, realistic audience reactions, subtle handheld audience camera, 15-second video, 5 cinematic cuts\n\n0–3s: [Wide Establishing → Medium Push-In]\nA comedian stands center stage holding a microphone as the audience settles. The comedian smiles and says:\n\nComedian: “I asked AI to organize my life yesterday”\n\nBrief beat\n\n3–6s: [Medium Close-Up]\nThe comedian maintains a completely serious expression\n\nComedian: “It looked at my schedule and said, ‘Actually... I’m just a language model.’”\n\nAudience immediately laughs\n\n6–9s: [Side Angle + Audience Reaction]\nThe comedian waits for the laughter, then slowly nods\n\nComedian: “Even artificial intelligence has boundaries”\n\nQuick cut to the front row laughing and clapping\n\n9–12s: [Tight Close-Up]\nThe comedian leans toward the microphone\n\nComedian: “My mom thinks AI is listening to everything we say”\n\nBeat\n\nComedian: “Mom... nobody wants that podcast”\n\nAudience erupts into louder laughter\n\n12–15s: [Medium → Wide Ending]\nThe comedian waits for silence, then delivers the final line:\n\nComedian: “AI isn't replacing us. It saw our search history and declined the position”\n\nBig audience laugh. The comedian smiles and lowers the microphone as the camera pulls out to reveal the applauding club\n\nProduction details: Keep the same comedian, outfit, microphone, stage and audience throughout. Prioritize precise comedic timing, short pauses before punchlines, believable facial expressions and natural audience reactions. Never cut during a punchline. Audience laughter starts only after the punchline lands. No canned laughter, no overlapping dialogue, coherent eyelines, realistic club acoustics, professional live comedy special editing"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "krea-2-turbo-minimax-h3-in-comfyui-742459",
+  "title": {
+    "en": "Krea 2 Turbo + Minimax H3 in Comfyui = ...",
+    "zh": "Krea 2 Turbo + Minimax H3 in Comfyui = ..."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @EndFolding79421.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+  },
+  "category": "music-video",
+  "mode": "text-to-video",
+  "duration": "8s",
+  "aspectRatio": "40:23",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@EndFolding79421",
+    "url": "https://x.com/EndFolding79421/status/2085282791906742459"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/EndFolding79421/status/2085282791906742459"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/krea-2-turbo-minimax-h3-in-comfyui-742459/video-f6039a6c447c.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/krea-2-turbo-minimax-h3-in-comfyui-742459/poster-529b077379d4.jpg",
+  "prompt": "Krea 2:\nNight interior shot in a modern art gallery during a private after-hours viewing, sultry auburn redhead standing in front of a large abstract painting, long fiery auburn-red hair cascading, porcelain skin under gallery spotlights, heavy-lidded emerald eyes staring directly with arched brow and confident half-smirk. Deep black satin slip dress completely open down the front, thin straps slipped off both shoulders, deep cleavage fully exposed and fabric hanging by a thread, high slit pulled higher revealing garter clips and stocking tops. One hand holding a glass of champagne, the other casually holding the open dress closed at the waist as if deciding whether to let it fall. White walls, modern art, and dramatic spotlighting behind, ultra-detailed satin sheen, soft gallery lighting, photorealistic.\n\nH3:\nA sophisticated art gallery with soft warm museum lighting. A beautiful elegant red-haired woman wearing a flowing black evening dress stands directly in front of a large modern abstract painting while holding a champagne flute.\n\nShe looks directly into the camera with a warm, confident, slightly flirtatious smile. She pauses naturally for a brief moment before gently tilting her head back and taking a graceful sip of her champagne.\n\nAs she lowers the glass, she turns toward the painting behind her and calmly takes several elegant steps forward. Instead of colliding with the canvas, her body slowly melts seamlessly into the surface of the painting as though the artwork is absorbing her. The transition is magical, smooth, and dreamlike, with no visible portal or special effects—she simply becomes part of the artwork.\n\nBy the final second, the gallery is empty except for the painting. Inside the painting is now a painted version of the woman, frozen in the exact pose she had after taking her sip, rendered in the identical brushwork, colors, and artistic style of the abstract painting. Only the upper portion of her body is visible because the bottom of the painting crops her below the knees, making it appear she has always belonged inside the artwork.\n\nStatic camera throughout. No cuts. Smooth cinematic motion. Museum lighting remains consistent. Premium film quality. The transformation should feel subtle, elegant, and mysterious rather than flashy."
+}

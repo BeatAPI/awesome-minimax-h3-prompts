@@ -1,0 +1,31 @@
+{
+  "slug": "video-prompt-case-917120-917120",
+  "title": {
+    "en": "ピクサー風の広告などを作る時に活用できそうな感触です😃",
+    "zh": "ピクサー風の広告などを作る時に活用できそうな感触です😃"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 animation prompt with attached video evidence from @tanabe_fragm.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动画提示词。"
+  },
+  "category": "animation",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@tanabe_fragm",
+    "url": "https://x.com/tanabe_fragm/status/2085323195301917120"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/tanabe_fragm/status/2085323195301917120"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-917120-917120/video-fdbb726fc9e9.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-917120-917120/poster-de4b410d218b.jpg",
+  "prompt": "integrated_multimodal_description: [Shot 1] 2D hand-drawn animation in a psychedelic Japanese illustration style: heavy colored-pencil and crayon grain visible on every surface, thin uneven black ink outlines that wobble slightly, flat matte fills with no gradients, and a limited palette of cream off-white, muted rust-brown, deep forest green and pale peach. One single continuous unbroken take from start to finish, no cuts and no transitions. A frontal close-up at eye level frames a teenage girl drawn in this style: loose rust-brown wavy hair falling just past her shoulders, very large eyes whose irises are drawn as tight concentric pencil rings, a plain white round collar with a deep forest-green scarf knotted at her throat, cream-white skin with a faint peach shading on her cheeks. She is centered against a flat cream off-white background with no scenery, motionless and expressionless, looking straight into the lens without blinking. The camera pushes in with small amplitude at slow speed toward her face. The concentric rings inside her irises begin to rotate clockwise, slowly widening until each iris resolves into a spiral. At 00:04.000, still within the same continuous take, individual strands of her hair detach from her head and flow sideways like poured ink, stretching into long smooth curling ribbons that sweep across the frame while her face stays still. As the hair unspools, the cream background inverts to saturated fluorescent magenta and the black outlines invert to pale cyan, the colored-pencil grain remaining visible through the inverted colors. At 00:08.000, her facial contours dissolve: the hair ribbons, the green scarf and the peach cheek shading stretch and fold into one another until the entire frame is a slow marbled swirl of rust-brown, forest green and cream, still rendered with the same hand-drawn pencil texture. The swirl rotates clockwise at slow speed and fills the whole frame. At 00:12.000, the marbled swirl contracts inward toward the center, tightening steadily until it becomes a single small round black pupil ringed by a thin gold circle, resting on the flat cream off-white background that matches the opening frame so the video loops seamlessly. No human characters other than this single girl. No text, no captions, no subtitles, no lyrics, no logos and no watermark anywhere in the frame at any time.\noverall_soundscape: A dry pencil-on-paper scratching runs quietly underneath the whole shot. As the hair unspools, a soft paper rustle spreads outward and drifts across the stereo field. When the frame dissolves, a low liquid whoosh rises and slowly rotates from left to right. The shot ends with one short inward suction sound as everything contracts to a point.\nnon_diegetic_music: A slow detuned analog synthesizer drone at roughly 70 BPM that bends gradually in pitch. A muted electric-piano figure repeats every two bars over a tape-delayed hi-hat keeping a half-time pulse. The drone swells across the final three seconds and cuts off abruptly on the last beat."
+}

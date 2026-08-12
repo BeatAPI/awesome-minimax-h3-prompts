@@ -1,6 +1,6 @@
 # MiniMax H3 Action & Fantasy prompts
 
-[Back to all 200 prompts](../../README.md)
+[Back to all 300 prompts](../../README.md)
 
 ## 1. Modern warfare FPS gameplay
 
@@ -23,7 +23,170 @@ Camera: First-person perspective at eye level with authentic handheld player mov
 
 ---
 
-## 2. GPT Image 2
+## 2. お題「宮島を散歩する猫」使ったプロンプトはリプのやつ。
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-710776-710776/video-cf49f7822360.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-710776-710776/poster-fe9266b9c0e4.jpg" alt="お題「宮島を散歩する猫」使ったプロンプトはリプのやつ。 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — No live-action photo style, no 3D CGI rendering, no text, no subtitles, no logos, no watermarks, no distorted anatomy, no abrupt jittery motion.</summary>
+
+~~~~text
+No live-action photo style, no 3D CGI rendering, no text, no subtitles, no logos, no watermarks, no distorted anatomy, no abrupt jittery motion.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-710776-710776/video-cf49f7822360.webm)
+
+**Source:** [@sanasana0707](https://x.com/sanasana0707/status/2086839288025710776) · 8s · 33:19 · action
+
+---
+
+## 3. Total gen time: 29 minuets on a RTX 3060
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/total-gen-time-29-minuets-on-a-rtx-3060-976597/video-2f6735f9d46a.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/total-gen-time-29-minuets-on-a-rtx-3060-976597/poster-49d40e8b7a79.jpg" alt="Total gen time: 29 minuets on a RTX 3060 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a cinematic Hollywood movie scene, action adventure, explosions, Jackie Chan is fighting an opponent on top of a moving train, have multiple camera cuts and angles</summary>
+
+~~~~text
+Create a cinematic Hollywood movie scene, action adventure, explosions, Jackie Chan is fighting an opponent on top of a moving train, have multiple camera cuts and angles
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/total-gen-time-29-minuets-on-a-rtx-3060-976597/video-2f6735f9d46a.webm)
+
+**Source:** [@leuk_o](https://x.com/leuk_o/status/2086419768047976597) · 10s · 9:5 · action
+
+---
+
+## 4. Minimax H3 one-shotted this complete scene
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-one-shotted-this-complete-scene-726491/video-893671c8cc5e.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-one-shotted-this-complete-scene-726491/poster-e357d0faddff.jpg" alt="Minimax H3 one-shotted this complete scene video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — &quot;The Office (US) mockumentary style. Dunder Mifflin bullpen, mid-afternoon, harsh fluorescent office lighting, beige cubicles, cluttered desks, printers humming in the background....</summary>
+
+~~~~text
+"The Office (US) mockumentary style. Dunder Mifflin bullpen, mid-afternoon, harsh fluorescent office lighting, beige cubicles, cluttered desks, printers humming in the background. Handheld documentary camera with subtle shake, imperfect framing, sudden snap zooms during reactions, quick reframes as if a real documentary crew is trying to keep up. Muted office color palette, soft consumer-camera look.
+Michael Scott proudly stands beside an empty desk with a laptop open. Dwight Schrute stands nearby, suspicious and visibly offended. Only Michael Scott and Dwight Schrute appear in the scene. The laptop represents an AI assistant named "Claude" but no third person appears.
+DIALOGUE (≈15 seconds):
+MICHAEL (excited):
+"Dwight, I'd like you to meet our newest employee... Claude."
+Dwight squints at the laptop.
+DWIGHT:
+"That's a computer."
+Snap zoom to Michael.
+MICHAEL (grinning):
+"It's AI. It works faster... and it doesn't ask for vacation."
+Beat.
+DWIGHT (confident):
+"It also cannot harvest beets."
+Michael nods thoughtfully.
+MICHAEL:
+"...Fair point."
+Beat.
+Michael suddenly smiles again.
+MICHAEL:
+"But it can replace you."
+Snap zoom to Dwight.
+DWIGHT (dead serious):
+"Then it's my enemy."
+Dwight slowly closes the laptop lid as Michael stares into the documentary camera.
+STYLE: Single-camera mockumentary, natural performances, dry deadpan humor, subtle handheld movement, documentary snap zooms, awkward pauses, realistic office ambience, no laugh track, with only Michael Scott and Dwight Schrute appearing in the scene."
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-one-shotted-this-complete-scene-726491/video-893671c8cc5e.webm)
+
+**Source:** [@karankendre](https://x.com/karankendre/status/2085952141395726491) · 15s · 16:9 · action
+
+---
+
+## 5. 有个挺有意思的细节，宇航员的袖标在转过去的时候Grok直接生成了美国国旗袖标，而MiniMax H3却不会。哈哈，不知道算不算细节。
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/grokminimax-h3-715612/video-bd132daf0a5f.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/grokminimax-h3-715612/poster-f079bf367a57.jpg" alt="有个挺有意思的细节，宇航员的袖标在转过去的时候Grok直接生成了美国国旗袖标，而MiniMax H3却不会。哈哈，不知道算不算细节。 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — A 15-second ultra-realistic cinematic space odyssey scene inspired by 2001: A Space Odyssey. A lone astronaut is on a small drifting asteroid in the infinite black void of space,...</summary>
+
+~~~~text
+A 15-second ultra-realistic cinematic space odyssey scene inspired by 2001: A Space Odyssey. A lone astronaut is on a small drifting asteroid in the infinite black void of space, with a tiny distant Earth in the background, caring for a single delicate flower growing from the rock. No dialogue. The emotional tone is lonely, quiet, stubborn, and deeply human. The camera should move in one smooth, elegant, slow cinematic shot with minimal cutting, gradually pushing closer and slightly circling to reveal the emotional progression through small actions. The astronaut first carefully waters the flower with a thin controlled stream, then sets the container down beside him, then gently gathers and tidies the loose soil around the base of the flower with his gloved hand, then softly strokes or steadies the flower with a delicate touch, and finally shifts his weight and sits down beside it, quietly looking at the flower in stillness. Every action must be subtle, precise, and believable in a bulky spacesuit, showing inner richness, solitude, patience, and stubborn hope through maintenance and care rather than dramatic acting. Audio should be immersive and prominent: clear helmet breathing, subtle suit servo and life-support hum, deep ambient sci-fi atmosphere, and a sparse solemn score with slowly rising emotional weight. Visual style should be minimal, sacred, poetic, and precise, emphasizing the contrast between the tiny flower, the lonely astronaut, and the endless cosmic emptiness. No exaggerated acting, no fantasy glow, no magical plant growth, no shaky handheld, no fast montage, no subtitle text.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/grokminimax-h3-715612/video-bd132daf0a5f.webm)
+
+**Source:** [@ou_zhen599](https://x.com/ou_zhen599/status/2085663805229715612) · 30s · 3:4 · action
+
+---
+
+## 6. Photorealistic cinematic 1950s American diner, chrome stools, red vinyl, neon
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/photorealistic-cinematic-1950s-american-diner-chrome-stools-red-vinyl-ne-227011/video-3eff8cd7b0ec.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/photorealistic-cinematic-1950s-american-diner-chrome-stools-red-vinyl-ne-227011/poster-99dacf3d9dee.jpg" alt="Photorealistic cinematic 1950s American diner, chrome stools, red vinyl, neon video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Photorealistic cinematic 1950s American diner, chrome stools, red vinyl, neon glow and checkerboard floor, shot with modern lived-in realism and soft natural window light. Subtle...</summary>
+
+~~~~text
+Photorealistic cinematic 1950s American diner, chrome stools, red vinyl, neon glow and checkerboard floor, shot with modern lived-in realism and soft natural window light. Subtle handheld texture, warm practicals, rich period detail, heavy film grain.
+
+0-4s: [Medium Wide] A striking young woman in her early 20s sits alone at the counter, calm and slightly amused, slowly sipping a tall thick milkshake through a straw. Behind her a young waitress in classic uniform approaches with a tray of eggs and bacon in one hand and a full glass coffee pot in the other. An older lady starts rising from a nearby booth.
+
+4-8s: [Dynamic Tracking] The older lady collides hard into the waitress. Tray, plate, eggs, bacon and coffee pot explode upward in chaotic slow motion. Coffee erupts into long liquid ribbons and perfect suspended droplets. Camera immediately begins a smooth continuous orbit around the impact. Time locks completely at the peak of the spill. Every face freezes in pure shock. Only the girl at the counter keeps moving, completely unfazed.
+
+8-17s: [Slow 360° Orbital] Camera glides in a full elegant orbit through the frozen diner. Coffee hangs in mid-air as glassy ribbons and spheres with perfect volume and surface tension. Bacon strips, eggs and the spinning tray float weightlessly. Patrons and waitress remain locked in startled expressions. The girl at the counter takes one slow, deliberate sip, eyes half-lidded, almost bored, while the entire frozen world (except her) begins an elegant reverse: every droplet, every piece of food and every person rewinds smoothly back to the exact starting positions.
+
+17-24s: [Medium Shot] Rewind lands perfectly. Waitress stands balanced again with tray and coffee pot. The girl lifts her eyes, raises two fingers in a small casual gesture and softly calls the waitress by name. The waitress turns toward her just before the older lady begins to stand, completely avoiding the collision. A tiny private smile crosses the girl’s face.
+
+24-30s: [Extreme Close-Up] Hard cut to her face as she takes one last slow sip. Soft knowing smile, eyes almost closed in quiet satisfaction, like she has done this a hundred times. Shallow depth of field, creamy bokeh of the neon diner behind her.
+
+Photorealistic, ultra-detailed fluid physics, perfect motion blur only on moving elements, stable characters, cinematic lighting, heavy natural film grain, no artifacts, movie-level temporal coherence, high rewatch value.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/photorealistic-cinematic-1950s-american-diner-chrome-stools-red-vinyl-ne-227011/video-3eff8cd7b0ec.webm)
+
+**Source:** [@icreat_ai](https://x.com/icreat_ai/status/2085297962977227011) · 15s · 16:9 · action
+
+---
+
+## 7. Tested MiniMax H3 for the first time with a scene like this
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/tested-minimax-h3-for-the-first-time-with-a-scene-784843/video-b624937f2ff2.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/tested-minimax-h3-for-the-first-time-with-a-scene-784843/poster-8ac125ae6c19.jpg" alt="Tested MiniMax H3 for the first time with a scene like this video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — A powerful warrior woman stands alone in a destroyed futuristic city at night, facing a massive towering monster covered in dark armor and glowing cracks. The monster roars and...</summary>
+
+~~~~text
+A powerful warrior woman stands alone in a destroyed futuristic city at night, facing a massive towering monster covered in dark armor and glowing cracks. The monster roars and charges toward her, shaking the ground with every step. She dodges its attacks with incredible speed, leaps through the air, and strikes with a glowing energy weapon. Intense hand-to-hand combat, flying debris, explosions, dramatic slow motion shots, cinematic camera movements, close-up of her determined face. The battle reaches its peak as she unleashes her final powerful attack, defeating the giant monster and standing victorious as the city burns behind her. Epic Hollywood action movie style, ultra-realistic, dramatic lighting, dynamic camera angles, high detail, cinematic quality.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/tested-minimax-h3-for-the-first-time-with-a-scene-784843/video-b624937f2ff2.webm)
+
+**Source:** [@RuzainaMeer](https://x.com/RuzainaMeer/status/2085240792067784843) · 15s · 16:9 · action
+
+---
+
+## 8. GPT Image 2
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/gpt-image-2-758841/video-afbfc0676a40.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/gpt-image-2-758841/poster-3f003e8deb71.jpg" alt="GPT Image 2 video preview" width="700" />
@@ -50,7 +213,7 @@ Try MiniMax H3 → https://t.co/rxvRdUYoxo
 
 ---
 
-## 3. Motion Graphics Study 723522
+## 9. Motion Graphics Study 723522
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/i-created-this-fun-days-of-the-week-lesson-for-k-723522/video-3a96a8fc6976.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/i-created-this-fun-days-of-the-week-lesson-for-k-723522/poster-6ec600100c7b.jpg" alt="Motion Graphics Study 723522 video preview" width="700" />
@@ -85,7 +248,36 @@ Visual style: Same premium-cute aesthetic — pastel tones, rounded 3D icons, so
 
 ---
 
-## 4. Motion Graphics Study 446929
+## 10. MiniMax H3 feels like a really good fit for interactive game concepts.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-feels-like-a-really-good-fit-for-interactive-417323/video-47c399792570.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-feels-like-a-really-good-fit-for-interactive-417323/poster-cfb4a8498788.jpg" alt="MiniMax H3 feels like a really good fit for interactive game concepts. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Use Image 1 as the main character role. Use Image 2 as the layout of the game selection interface. [0–2 seconds] Display the complete skateboard selection interface from the...</summary>
+
+~~~~text
+Use Image 1 as the main character role. Use Image 2 as the layout of the game selection interface.
+[0–2 seconds] Display the complete skateboard selection interface from the front. NOVA is in the selected and active state, the four ports at the bottom emit green light. HOTDOG and SHARK are in the unselected state, completely stationary.
+[2–4 seconds] The player presses the right selection key. SHARK ROCKET RIDER slides from the right preview slot into the middle selected module, NOVA JET GLIDER simultaneously slides from the middle into the left preview slot, HOTDOG DASH moves to the right preview slot. As soon as NOVA leaves the middle selected module, the green light immediately turns off and stops. After SHARK enters the middle, orange flames appear at the tail. The skateboard name, attribute bars, and SELECTED label update synchronously.
+[4–6.5 seconds] The player switches the selection again. HOTDOG DASH moves horizontally from the side preview slot to the middle selected module, SHARK ROCKET RIDER simultaneously slides into the other side slot, NOVA moves to the remaining side slot. As soon as SHARK loses the selected state, the orange flame immediately turns off. After HOTDOG becomes the selected item, facing the camera, it barks twice accurately, then turns around in place once.
+[6.5–8 seconds] The bottom CONFIRM button is clicked by the player. The button compresses downwards and bounces back, the right arrow extends forward. HOTDOG DASH becomes the final confirmed selection. The two unselected skateboards on the left and right continue to stay in the fixed preview slots, completely stationary.
+[8–10 seconds] The middle fixed selected module expands towards the depth of the screen. The light-colored display area inside the central card naturally transforms into the World Plaza. The complete world has been fully loaded, with no texture popping, placeholder models, or unfinished buildings. At the same time, the UI displays as the in-game HUD.
+[10–12 seconds] The camera enters the third-person game perspective, with HOTDOG DASH located under the protagonist’s feet. During normal gliding and preparation actions, both feet of the protagonist are standing on HOTDOG DASH. The game HUD appears at this time: mini-map in the top right corner, speed and health status in the bottom left corner, action and combo slots in the bottom right corner, mission route markers and interactive prompts appear ahead.
+[12–15 seconds] The protagonist enters the world riding the running HOTDOG DASH, passing pedestrians, stairs, slopes, railings, and multiple explorable routes. HOTDOG jumps before a low slope, completes a rotation action in the air, and upon landing, the protagonist’s feet are still standing on HOTDOG DASH, the combo count and TRICK prompt briefly increase in the HUD. Subsequently, lean to bypass street obstacles, then perform a small directional jump, and then continue sliding forward.
+Sound Design: Use pure instrumental music mixed with electronic arcade sounds, no vocals. UI switching corresponds to crisp key press sounds, card slot sliding sounds, sticker slapping sounds, and attribute bar update sounds. When SHARK is selected, ignition and propulsion sounds appear, and stop immediately when losing selection. When HOTDOG is selected, two barks are played accurately, and light footsteps are added when spinning around. After entering the world, add city ambient sounds, wind sounds, running footsteps, shoe friction sounds when pedaling to accelerate, and jump and landing feedback sounds.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-feels-like-a-really-good-fit-for-interactive-417323/video-47c399792570.webm)
+
+**Source:** [@0xbisc](https://x.com/0xbisc/status/2084626773015417323) · 15s · 16:9 · gameplay
+
+---
+
+## 11. Motion Graphics Study 446929
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/i-created-this-kids-counting-video-with-on-446929/video-589a2687bccb.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/i-created-this-kids-counting-video-with-on-446929/poster-74cb284382c7.jpg" alt="Motion Graphics Study 446929 video preview" width="700" />
@@ -117,7 +309,7 @@ Requirements: Keep each number visible before morphing, smooth shape transitions
 
 ---
 
-## 5. Action Film Study 735905
+## 12. Action Film Study 735905
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/10-second-16-9-photoreal-cinematic-wide-shot-fly-735905/video-894f1df37865.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/10-second-16-9-photoreal-cinematic-wide-shot-fly-735905/poster-21876ff1a52e.jpg" alt="Action Film Study 735905 video preview" width="700" />
@@ -174,7 +366,7 @@ Do not introduce Chinese text, garbled characters, or misspellings.
 
 ---
 
-## 6. is a huge model for some themes
+## 13. is a huge model for some themes
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/is-a-huge-model-for-some-themes-157293/video-3a23900fd3b4.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/is-a-huge-model-for-some-themes-157293/poster-c2ebc5d6241f.jpg" alt="is a huge model for some themes video preview" width="700" />
@@ -202,7 +394,7 @@ Camera movement: Natural player-controlled movement with subtle handheld sway wh
 
 ---
 
-## 7. Video models are going to revolutionize education!
+## 14. Video models are going to revolutionize education!
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-models-are-going-to-revolutionize-educatio-411987/video-1acb0e9eaf71.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-models-are-going-to-revolutionize-educatio-411987/poster-c90a3b4e4cc1.jpg" alt="Video models are going to revolutionize education! video preview" width="700" />
@@ -375,7 +567,7 @@ The final video should feel cute, educational, memorable, calming, and exception
 
 ---
 
-## 8. Motion Graphics Study 960837
+## 15. Motion Graphics Study 960837
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/is-redefining-ai-with-open-weight-multimodal-int-960837/video-ce9d664d9d6c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/is-redefining-ai-with-open-weight-multimodal-int-960837/poster-096c34492314.jpg" alt="Motion Graphics Study 960837 video preview" width="700" />
@@ -398,7 +590,7 @@ Epic theatrical space-opera teaser
 
 ---
 
-## 9. Motion Graphics Study 106839
+## 16. Motion Graphics Study 106839
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/romantic-montage-of-two-people-exploring-a-beaut-106839/video-5309be7fbe3d.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/romantic-montage-of-two-people-exploring-a-beaut-106839/poster-98750acaed01.jpg" alt="Motion Graphics Study 106839 video preview" width="700" />
@@ -421,7 +613,7 @@ Done with @Minimax H3 in @magnific https://t.co/F6F7r7Yi4n
 
 ---
 
-## 10. Storm-Lit Pirate Galleon Battle
+## 17. Storm-Lit Pirate Galleon Battle
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/storm-lit-pirate-galleon-battle-561048/video-52021a1ba551.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/storm-lit-pirate-galleon-battle-561048/poster-04da999318c6.jpg" alt="Storm-Lit Pirate Galleon Battle video preview" width="700" />
@@ -476,7 +668,7 @@ Camera: mostly handheld-feel tracking shots through the melee for immersion, har
 
 ---
 
-## 11. Y2K K-Pop Candy Typography Music Video
+## 18. Y2K K-Pop Candy Typography Music Video
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/soft-cute-y2k-crush-k-pop-girl-group-rap-mv-748313/video-7588687fb895.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/soft-cute-y2k-crush-k-pop-girl-group-rap-mv-748313/poster-ca11d6e8f8b2.jpg" alt="Y2K K-Pop Candy Typography Music Video video preview" width="700" />
@@ -515,7 +707,7 @@ Shot 7 — Group Rap Performance「UNBREAKABLE」 Three members together.
 
 ---
 
-## 12. Cyber Warrior vs. Primordial Fighter
+## 19. Cyber Warrior vs. Primordial Fighter
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-cinematic-showdown-between-the-most-technolog-354071/video-f1fbd8ae7b01.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-cinematic-showdown-between-the-most-technolog-354071/poster-f3ccda5d88dd.jpg" alt="Cyber Warrior vs. Primordial Fighter video preview" width="700" />
@@ -564,7 +756,7 @@ Cinematic 4K, 16:9, ultra-realistic VFX, physically accurate destruction, volume
 
 ---
 
-## 13. Ringside Phone-Footage Boxing Knockout
+## 20. Ringside Phone-Footage Boxing Knockout
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ringside-phone-footage-boxing-knockout-221043/video-cf76d3103f6a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ringside-phone-footage-boxing-knockout-221043/poster-0ef2df0bcaf0.jpg" alt="Ringside Phone-Footage Boxing Knockout video preview" width="700" />
@@ -612,7 +804,7 @@ Cinematic 4K, 16:9, ultra-realistic VFX, physically accurate destruction, volume
 
 ---
 
-## 14. 8-bit black and white San Francisco animation
+## 21. 8-bit black and white San Francisco animation
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/8-bit-black-and-white-san-francisco-animation-325353/video-aa7ee56eb15f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/8-bit-black-and-white-san-francisco-animation-325353/poster-d41927c64648.jpg" alt="8-bit black and white San Francisco animation video preview" width="700" />
@@ -633,7 +825,7 @@ Cinematic 4K, 16:9, ultra-realistic VFX, physically accurate destruction, volume
 
 ---
 
-## 15. Explorer and Cat in a Floating Eco-City
+## 22. Explorer and Cat in a Floating Eco-City
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-cinematic-aaa-adventure-game-trailer-one-continuo-722460/video-8df5c20c5939.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-cinematic-aaa-adventure-game-trailer-one-continuo-722460/poster-478284a3421e.jpg" alt="Explorer and Cat in a Floating Eco-City video preview" width="700" />
@@ -654,7 +846,7 @@ Ultra cinematic AAA adventure game trailer, one continuous seamless camera shot,
 
 ---
 
-## 16. Fantasy Deck-Builder Battle UI
+## 23. Fantasy Deck-Builder Battle UI
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/deck-builder-turn-ui-choreography-446745/video-3d55b47abdf6.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/deck-builder-turn-ui-choreography-446745/poster-8cb4c8f5ec6c.jpg" alt="Fantasy Deck-Builder Battle UI video preview" width="700" />
@@ -682,7 +874,7 @@ Negative: no UI drift or warping, no invented card names, no misspellings, no go
 
 ---
 
-## 17. Colorful Paint-Weapon Selection Screen
+## 24. Colorful Paint-Weapon Selection Screen
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-1-for-the-character-image-2-for-the-619967/video-7ac98e27a185.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-1-for-the-character-image-2-for-the-619967/poster-e51bf318751f.jpg" alt="Colorful Paint-Weapon Selection Screen video preview" width="700" />
@@ -721,7 +913,7 @@ The world loads into a bright, colorful ink-covered city filled with graffiti, p
 
 ---
 
-## 18. Storm-Cliff Golf Physics Challenge
+## 25. Storm-Cliff Golf Physics Challenge
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/storm-cliff-golf-physics-challenge-037151/video-d69ed1c1be4c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/storm-cliff-golf-physics-challenge-037151/poster-6f6ccf8c0ac1.jpg" alt="Storm-Cliff Golf Physics Challenge video preview" width="700" />
@@ -744,7 +936,7 @@ A dramatic sports sequence begins on a lush, windswept coastal cliff during a vi
 
 ---
 
-## 19. Jetpack Dive Through a Mountain Gorge
+## 26. Jetpack Dive Through a Mountain Gorge
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-fast-paced-cinematic-action-sequence-a-man-in-a-078815/video-f4b3083ef6fd.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-fast-paced-cinematic-action-sequence-a-man-in-a-078815/poster-a70e1e0aaa52.jpg" alt="Jetpack Dive Through a Mountain Gorge video preview" width="700" />
@@ -765,7 +957,7 @@ Ultra-fast paced cinematic action sequence, a man in a sleek black tactical suit
 
 ---
 
-## 20. Sunrise Wingsuit Canyon Run
+## 27. Sunrise Wingsuit Canyon Run
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/canyon-wingsuit-thread-world-build-a-wingsuit-pilot-thr-927857/video-01462c924c2a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/canyon-wingsuit-thread-world-build-a-wingsuit-pilot-thr-927857/poster-e1ffb417dc47.jpg" alt="Sunrise Wingsuit Canyon Run video preview" width="700" />
@@ -786,7 +978,7 @@ CANYON WINGSUIT THREAD WORLD BUILD A wingsuit pilot threading an impossible cany
 
 ---
 
-## 21. Concrete-Plaza Kickflip Drop
+## 28. Concrete-Plaza Kickflip Drop
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/concrete-plaza-kickflip-drop-082714/video-d5ce5bc1daa2.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/concrete-plaza-kickflip-drop-082714/poster-9305983cf0b5.jpg" alt="Concrete-Plaza Kickflip Drop video preview" width="700" />

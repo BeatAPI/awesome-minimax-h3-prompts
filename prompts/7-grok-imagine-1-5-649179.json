@@ -1,0 +1,31 @@
+{
+  "slug": "7-grok-imagine-1-5-649179",
+  "title": {
+    "en": "7- GROK IMAGINE 1.5",
+    "zh": "7- GROK IMAGINE 1.5"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @ozansihay.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "110s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ozansihay",
+    "url": "https://x.com/ozansihay/status/2085420070952649179"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/ozansihay/status/2085420070952649179"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/7-grok-imagine-1-5-649179/video-4f1fd87b9bad.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/7-grok-imagine-1-5-649179/poster-a391664a7349.jpg",
+  "prompt": "Tarih öncesi çağlarda geçen bir konser sahnesi. Sahnede mağara adamları var, tarih öncesi insanlar, anlaşılmaz bir dilde şarkı söylüyorlar. Etrafta dinozorlar da dolaşıyor. Konseri izleyen kalabalık bir topluluk var. Çekim multi-shot olacak, doğal ve belgesel havasında bir kamera hissi olmalı. Görsel stil ultra gerçekçi olmalı."
+}

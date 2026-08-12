@@ -1,0 +1,31 @@
+{
+  "slug": "created-with-minimax-h3-in-453795",
+  "title": {
+    "en": "Created with Minimax H3 in",
+    "zh": "Created with Minimax H3 in"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @MonetizationDon.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+  },
+  "category": "music-video",
+  "mode": "text-to-video",
+  "duration": "23s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@MonetizationDon",
+    "url": "https://x.com/MonetizationDon/status/2087183007874453795"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/MonetizationDon/status/2087183010747613522"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-in-453795/video-cf2ea34358cc.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-in-453795/poster-7f7e45997bf1.jpg",
+  "prompt": "Animate the uploaded CHUNG LEE movie poster as a 10-second cinematic martial-arts motion poster while preserving the original artwork, characters, typography, composition and layout.\n\nBring the static poster to life with rich cinematic colors — crimson red, golden yellow, fiery orange, electric blue, emerald green and magenta. Animate the lanterns, drifting smoke, flying dust, sparks, debris and the surrounding crowd.\n\nGive CHUNG LEE subtle drunken-master movement: shifting shoulders, flowing hair, a confident expression and a casual lift of the gourd with liquid splashing in slow motion.\n\nThen make “CHUNG LEE” the ultimate visual flex — dramatic brush-stroke reveals, golden particles, energy trails and a powerful 3D pop-out effect that makes the title feel like it is breaking out of the poster.\n\nAdd glowing red energy around the Chinese characters, dynamic martial-arts impacts, moving background fighters, cinematic camera movement and bursts of colorful light.\n\nFinish with a dramatic push toward the CHUNG LEE title, then pull back to reveal the complete poster before locking into the final frame.\n\nNo redesign. No new text. No distorted typography. Preserve the original poster — just make it move.\n\nAnimation made with Minimax H3"
+}

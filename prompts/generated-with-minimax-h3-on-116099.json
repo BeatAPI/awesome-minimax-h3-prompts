@@ -1,0 +1,31 @@
+{
+  "slug": "generated-with-minimax-h3-on-116099",
+  "title": {
+    "en": "Generated with Minimax H3 on",
+    "zh": "Generated with Minimax H3 on"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @Diplomeme.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+  },
+  "category": "music-video",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Diplomeme",
+    "url": "https://x.com/Diplomeme/status/2086833428713116099"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Diplomeme/status/2086833428713116099"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/generated-with-minimax-h3-on-116099/video-324e8e0741a4.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/generated-with-minimax-h3-on-116099/poster-44259f5d470e.jpg",
+  "prompt": "Hyper-realistic cinematic fantasy action sequence, 15 seconds, aspect ratio 16:9.\n\nDaytime in a vast cold northern sea surrounded by jagged mountains and dark rocky cliffs. A fleet of large medieval wooden warships sails through rough black-blue water while armored soldiers prepare for battle on the decks. Massive sails snap violently in the wind. The ships carry burning braziers, ropes, shields, spears, banners, wooden siege weapons, and rows of armed warriors. Thick storm clouds hang low above the sea. Wind drives sea spray across the decks. The danger comes from the sky: a giant dragon approaches from behind the mountains, its enormous wings gradually emerging through the mist.\n\nBegin with a high sweeping view of the entire fleet moving through the dangerous northern sea. Several warships sail in formation while smaller boats move between them. Soldiers look toward the distant mountains as a huge shadow passes across the water.\nShift to a low deck-level view among the warriors. Men raise shields and grab spears while officers shout commands. The camera moves toward the front of the ship as the wind suddenly becomes violent.\nCut to a distant view of the mountains. The dragon bursts through the clouds and flies directly toward the fleet, enormous wings beating through the storm mist. Its silhouette grows rapidly larger.\n\nReturn above the ships as the dragon dives toward the fleet. Sailors scramble across the decks while archers rush into position. Burning arrows are lit and giant ballistae are rotated toward the approaching creature.\n\nNear the end, the dragon suddenly opens its jaws and releases a massive stream of fire toward the lead warship. The flames illuminate the dark sea as the crew raises shields and desperately attempts to turn the vessel.\n\nEnd with the dragon flying directly above the fleet as the first fireball crashes into the lead ship, exploding across its wooden deck.\n\nStyle: hyper-realistic, cinematic, intense, fast-paced, suspenseful, fantasy atmosphere, strong sense of scale, warships, dragon battle, ocean storm, medieval warfare, fire, smoke, dynamic varied camera movement, no text, no logos, no cartoon style, no slow motion, no famous celebrity faces, no recognizable actors, no movie-star resemblance, no public-figure likenesses, no clear facial close-ups. Keep proportions. Keep style and features. Aspect ratio 16:9."
+}

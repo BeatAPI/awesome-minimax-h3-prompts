@@ -1,0 +1,31 @@
+{
+  "slug": "audio15-594554",
+  "title": {
+    "en": "Audioリファレンスでエラーが出る場合は、表示上15秒でも小数点以下でわずかに超えていることがあるので、実際の尺をチェックしてみてください！",
+    "zh": "Audioリファレンスでエラーが出る場合は、表示上15秒でも小数点以下でわずかに超えていることがあるので、実際の尺をチェックしてみてください！"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic travel prompt with attached video evidence from @Nokosu_kansoku.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3视频提示词。"
+  },
+  "category": "cinematic-travel",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "7:4",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Nokosu_kansoku",
+    "url": "https://x.com/Nokosu_kansoku/status/2086700416654594554"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/Nokosu_kansoku/status/2086700951776493571"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/audio15-594554/video-ecc108df5599.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/audio15-594554/poster-366a5dfe5895.jpg",
+  "prompt": "プロンプトです。Neon仕様になってるのでGPTなどで参照キャラクターに調整して使ってみてください😆\n-------------------------------------------------------\n@[face ref] をNEONの顔、ピンクのボブヘア、黒い丸眼鏡の厳密な参照として使用します。\n@[body ref] をNEONの体格、黒と赤のサイバーパンク衣装、装備、ブーツの厳密な参照として使用します。\n@[audio ref] は映像のリズム、カットの強弱、主要な音楽アクセントの参照として使用します。\n\n15秒のハイエンドなサイバーパンク・キャラクター紹介映像。\n主役はNEONただ一人。\nクールで知的、危険な雰囲気。動作は自信に満ち、抑制されている。\n\n構成：\n\n0–3秒：IDENTITY REVEAL\n暗いネオン照明の空間。\nブーツ、赤いジャケットのディテール、眼鏡越しの目元を短いバーストカットで見せる。\n最後に顔のクローズアップ。\nカットを@[audio ref] の最初の強いアクセントに合わせる。\n\n3–6秒：NEON ALLEY\n雨に濡れた未来都市の路地。\nNEONがゆっくりカメラ方向へ歩く。\nローアングル、横方向のトラッキング、濡れた路面に映る赤いネオン。\n人物の動きよりもカメラワークを強調。\n\n6–9秒：TECH UNDERGROUND\n赤い警告灯が点滅する地下施設。\n肩越しのショット、手袋と装備のクローズアップ、短いオービットショット。\nNEONは静かに周囲を観察する。\n\n9–12秒：MEGACITY ROOFTOP\n巨大な未来都市を見下ろす夜の屋上。\n風でピンクの髪とジャケットがわずかに揺れる。\nワイドショットからローアングルのヒーローフレームへ切り替える。\n\n12–15秒：FINAL HERO REVEAL\n赤とマゼンタの逆光。\nカメラがNEONの周囲を短く回り込み、正面のミディアムクローズアップで止まる。\nNEONが眼鏡越しにカメラを見る。\n最後の音楽アクセントで力強い静止ヒーローフレーム。\n\n編集：\n合計12〜15ショット。\n主要カットを@[audio ref] の強拍に合わせる。\n環境変更は音楽フレーズの変化に合わせる。\n細かい半拍すべてにカットを入れず、強いアクセントを優先する。\n\n一貫性：\n同じ顔、同じ髪型、同じ眼鏡、同じ体格、同じ衣装を全編で維持。\n衣装の黒・赤・ゴールドの配色と装備位置を維持。\nキャラクターは常に一人だけ。\n\n禁止：\n複数のNEON、分身、衣装変更、髪型変更、眼鏡の消失、\n顔や身体のモーフィング、過剰なアクション、文字、ロゴ、字幕、UI、\nキャラクターシート風レイアウト、分割画面、白背景。"
+}

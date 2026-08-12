@@ -1,0 +1,31 @@
+{
+  "slug": "minimax-h3x-423684",
+  "title": {
+    "en": "第一次用MiniMax H3，提示词见评论区，参考了X上的大神",
+    "zh": "第一次用MiniMax H3，提示词见评论区，参考了X上的大神"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 product commercial prompt with attached video evidence from @medfac_opc.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+  },
+  "category": "product-commercial",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "15:26",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@medfac_opc",
+    "url": "https://x.com/medfac_opc/status/2084580423649423684"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/medfac_opc/status/2084580459938529601"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3x-423684/video-3fd54c187316.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3x-423684/poster-4e4601d3a14a.jpg",
+  "prompt": "## Concept\nAQUARELLE No.7 — an avant-garde haute couture film where watercolor becomes a living medium.\n\n15-second cinematic sequence.\n\nThe rhythm controls the visual world:\n0–4s: restrained silence and negative space\n4–8s: gradual density buildup\n8s: drop moment, expanding into fluid long-form motion\n12–15s: transition into a final fashion poster composition\n\n## Character Identity Lock\n\nMaintain the exact same female character throughout the entire video.\n\nIdentity:\n- Young woman\n- Long black hair\n- Calm and refined facial features\n- White high-neck pigment dress\n- Black wide belt\n- Pigment heels\n\nStrict consistency:\n- Same face\n- Same hairstyle\n- Same age\n- Same body proportions\n- Same garment structure\n\nAny new colors must only appear through watercolor gradually absorbing into the fabric.\n\nCore concept:\nHer fingertips can extract transparent watercolor ribbons from the air.\n\nThese watercolor ribbons can:\n- Pull the camera through space\n- Transform the environment\n- Shape physical typography\n- Interact with depth and materials\n\nThe world follows real cinematic physics:\nwater, paper, fabric, light, shadows, and depth of field must feel physically believable.\n\n## Camera Direction\n\nStrict one-take shot.\nNo cuts.\nNo teleportation.\nNo hidden transitions.\n\nCamera journey:\n\nMacro shot of a floating water droplet →\nwatercolor ribbon emerges →\ncamera pulls back to reveal the woman →\ncamera circles around her →\nenters a paper art gallery →\npasses through dimensional typography →\nrises into a final overhead fashion poster.\n\n## Typography\n\nOnly allow these words:\n\nLET SILENCE BLOOM\n\nAQUARELLE No.7\n\nWEAR THE UNSEEN\n\nTypography is not a flat overlay.\n\nLetters must have:\n- Physical depth\n- Wet watercolor reflections\n- Paper fiber edges\n- Shadows\n- Occlusion\n- Material interaction\n\n## Visual Style\n\nAvant-garde fashion editorial.\n\nInspired by:\n- Museum catalog composition\n- Handmade ivory paper\n- Sculptural negative space\n- Elegant Didone serif typography\n- Translucent watercolor calligraphy\n\nColor palette:\n- Pale cyan\n- Crimson lake\n- Smoky violet\n- Ink black\n\n## Motion Language\n\nEvery movement follows the music:\n\nKick:\nCamera movement and paper folding.\n\nWooden snare:\nPaper structures physically fold and transform.\n\nSub-bass:\nChanges the perception of spatial scale.\n\n##  Storyboard\n\n30 beats, 0.5 seconds each.\n\n01 0.0–0.5\nMacro shot: A transparent water droplet floats in the air, reflecting a blurred silhouette of a black-haired woman.\n\n02 0.5–1.0\nThe droplet stretches with the breath-like vocal, becoming a pale cyan watercolor thread.\n\n03 1.0–1.5\nCamera travels backward along the thread as paper fibers slowly emerge into focus.\n\n04 1.5–2.0\nThe thread wraps around the lens. Focus shifts to her raised fingertip.\n\n05 2.0–3.0\nCamera continues pulling back, revealing her face and white high-neck dress.\n\n06 3.0–4.0\nShe moves her wrist. The watercolor thread guides a smooth camera arc.\n\n07 4.0–8.0\nAdditional watercolor colors emerge from her movement.\nPaper folds, typography begins forming, and the phrase \"LET SILENCE BLOOM\" appears as a physical object.\n\n08 8.0–12.0\nThe camera passes through a transparent paper flower structure.\nThe environment expands into an endless ivory paper gallery.\n\nHer dress absorbs watercolor naturally.\nThe ribbons create sculptural forms around her body.\n\n09 12.0–15.0\nCamera cranes upward.\n\nThe composition transforms into a luxury fashion advertisement poster.\n\nTypography appears:\n\nAQUARELLE No.7\n\nWEAR THE UNSEEN\n\nFinal frame:\nA museum-level fashion editorial poster.\nThe woman remains centered, calm, and elegant.\nA final watercolor droplet remains suspended in the air.\n\n## Negative Prompt\n\nNo:\n- Cuts\n- Scene changes\n- Identity change\n- Face swap\n- Extra limbs\n- Deformed hands\n- Random costume changes\n- Explosive paint effects without physical cause\n- Incorrect typography\n- Chinese characters\n- Extra subtitles\n- Extra logos\n- Watermarks"
+}

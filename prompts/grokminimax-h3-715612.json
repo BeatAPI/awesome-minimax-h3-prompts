@@ -1,0 +1,31 @@
+{
+  "slug": "grokminimax-h3-715612",
+  "title": {
+    "en": "有个挺有意思的细节，宇航员的袖标在转过去的时候Grok直接生成了美国国旗袖标，而MiniMax H3却不会。哈哈，不知道算不算细节。",
+    "zh": "有个挺有意思的细节，宇航员的袖标在转过去的时候Grok直接生成了美国国旗袖标，而MiniMax H3却不会。哈哈，不知道算不算细节。"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 action prompt with attached video evidence from @ou_zhen599.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动作提示词。"
+  },
+  "category": "action",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "3:4",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ou_zhen599",
+    "url": "https://x.com/ou_zhen599/status/2085663805229715612"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/ou_zhen599/status/2085663805229715612"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/grokminimax-h3-715612/video-bd132daf0a5f.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/grokminimax-h3-715612/poster-f079bf367a57.jpg",
+  "prompt": "A 15-second ultra-realistic cinematic space odyssey scene inspired by 2001: A Space Odyssey. A lone astronaut is on a small drifting asteroid in the infinite black void of space, with a tiny distant Earth in the background, caring for a single delicate flower growing from the rock. No dialogue. The emotional tone is lonely, quiet, stubborn, and deeply human. The camera should move in one smooth, elegant, slow cinematic shot with minimal cutting, gradually pushing closer and slightly circling to reveal the emotional progression through small actions. The astronaut first carefully waters the flower with a thin controlled stream, then sets the container down beside him, then gently gathers and tidies the loose soil around the base of the flower with his gloved hand, then softly strokes or steadies the flower with a delicate touch, and finally shifts his weight and sits down beside it, quietly looking at the flower in stillness. Every action must be subtle, precise, and believable in a bulky spacesuit, showing inner richness, solitude, patience, and stubborn hope through maintenance and care rather than dramatic acting. Audio should be immersive and prominent: clear helmet breathing, subtle suit servo and life-support hum, deep ambient sci-fi atmosphere, and a sparse solemn score with slowly rising emotional weight. Visual style should be minimal, sacred, poetic, and precise, emphasizing the contrast between the tiny flower, the lonely astronaut, and the endless cosmic emptiness. No exaggerated acting, no fantasy glow, no magical plant growth, no shaky handheld, no fast montage, no subtitle text."
+}
