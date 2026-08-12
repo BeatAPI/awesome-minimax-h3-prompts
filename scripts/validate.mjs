@@ -97,6 +97,10 @@ for (const entry of catalog.prompts) {
 }
 
 const readme = await readFile(new URL('../README.md', import.meta.url), 'utf8');
+const chineseReadme = await readFile(
+  new URL('../README.zh-CN.md', import.meta.url),
+  'utf8'
+);
 const featuredCount = 30;
 assert.equal(
   (readme.match(/^### \d+\./gm) ?? []).length,
@@ -106,6 +110,22 @@ assert.equal(
 assert.ok(
   readme.includes(`Browse all ${catalog.prompts.length} prompts`),
   'README should link to the full generated catalog'
+);
+const samePostCount = catalog.prompts.filter(
+  (entry) => entry.promptVisibility === 'same-post'
+).length;
+const sameAuthorThreadCount = catalog.prompts.filter(
+  (entry) => entry.promptVisibility === 'same-author-thread'
+).length;
+assert.ok(
+  chineseReadme.includes(`现有 ${catalog.prompts.length} 个案例都已回查 X`),
+  'Chinese README should show the current catalog count'
+);
+assert.ok(
+  chineseReadme.includes(
+    `完整 Prompt 位于同帖（${samePostCount} 条）或同一作者的回复（${sameAuthorThreadCount} 条）`
+  ),
+  'Chinese README should show the current prompt-location counts'
 );
 const useCaseSlugs = [
   'stories-films',
