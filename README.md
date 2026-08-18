@@ -6975,6 +6975,18 @@ None.
 
 <!-- GENERATED_VIDEO_GALLERY_END -->
 
+## More from BeatAPI
+
+- [depth-video-studio](https://github.com/BeatAPI/depth-video-studio) — turn any video into depth, pose, and 478-point face motion-control inputs, 100% in-browser
+- [deepseek-harness-visual-handbook](https://github.com/BeatAPI/deepseek-harness-visual-handbook) — a 103-page source-locked visual guide to DeepSeek Harness
+- [codex-deepseek-worker](https://github.com/BeatAPI/codex-deepseek-worker) — run DeepSeek V4 Flash/Pro as native Codex workers
+- [awesome-readme-studio](https://github.com/BeatAPI/awesome-readme-studio) — an Agent Skill for beautiful, truthful READMEs
+- [awesome-seedance-2-5-prompts](https://github.com/BeatAPI/awesome-seedance-2-5-prompts) — the Seedance 2.5 edition of this prompt catalog
+
+Official BeatAPI API integrations: [beatapi-examples](https://github.com/BeatAPI/beatapi-examples) · [beatapi-cli](https://github.com/BeatAPI/beatapi-cli) · [beatapi-skill](https://github.com/BeatAPI/beatapi-skill) · [beatapi-codex-plugin](https://github.com/BeatAPI/beatapi-codex-plugin)
+
+---
+
 ## Contributing
 
 Use the [prompt submission form](https://github.com/BeatAPI/awesome-minimax-h3-prompts/issues/new?template=prompt.yml)

@@ -74,6 +74,18 @@ MiniMax H3 供应商路由。
 npm test
 ```
 
+## 更多 BeatAPI 开源项目
+
+- [depth-video-studio](https://github.com/BeatAPI/depth-video-studio) — 在浏览器里把任意视频转成深度图、姿态骨架与 478 点人脸云（运动控制输入）
+- [deepseek-harness-visual-handbook](https://github.com/BeatAPI/deepseek-harness-visual-handbook) — 103 页来源锁定的 DeepSeek Harness 可视化手册
+- [codex-deepseek-worker](https://github.com/BeatAPI/codex-deepseek-worker) — 把 DeepSeek V4 Flash/Pro 接成 Codex 原生 worker
+- [awesome-readme-studio](https://github.com/BeatAPI/awesome-readme-studio) — 生成美观、可信 README 的 Agent Skill
+- [awesome-seedance-2-5-prompts](https://github.com/BeatAPI/awesome-seedance-2-5-prompts) — 本目录的 Seedance 2.5 版本
+
+BeatAPI API 官方集成：[beatapi-examples](https://github.com/BeatAPI/beatapi-examples) · [beatapi-cli](https://github.com/BeatAPI/beatapi-cli) · [beatapi-skill](https://github.com/BeatAPI/beatapi-skill) · [beatapi-codex-plugin](https://github.com/BeatAPI/beatapi-codex-plugin)
+
+---
+
 ## 许可
 
 BeatAPI 编写的文档使用 [CC BY 4.0](./LICENSE.md)，验证代码使用同文件中的
