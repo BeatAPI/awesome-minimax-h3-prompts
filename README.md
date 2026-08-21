@@ -10,6 +10,10 @@ by [BeatAPI](https://beatapi.io).
 **[中文说明](./README.zh-CN.md)** ·
 **[Contribute a prompt](https://github.com/BeatAPI/awesome-minimax-h3-prompts/issues/new?template=prompt.yml)**
 
+## Reference
+
+- [minimax-h3-1000-prompts](https://github.com/yangzhou-chaofan/minimax-h3-1000-prompts) — curated index of the MiniMax H3 1K prompt dataset: 3-field prompt anatomy, 10 hand-picked reusable prompts, and an H3 vs. peer model comparison. Interactive atlas of all 1,000 clips at [neta.art H3 1000 Prompt List](https://neta.art/use-cases/en/h3-1000-prompt-list).
+
 ## Prompt gallery
 
 <!-- GENERATED_VIDEO_GALLERY_START -->
