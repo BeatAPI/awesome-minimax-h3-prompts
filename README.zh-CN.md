@@ -2,6 +2,8 @@
 
 这是由 [BeatAPI](https://beatapi.io) 维护的 MiniMax H3 制作级提示词开源仓库。
 
+**[浏览在线 Prompt Gallery](https://beatapi.io/zh/minimax-h3-prompts)** ·
+**[使用 MiniMax H3 API](https://beatapi.io/zh/minimax-h3-api)** ·
 **[提交 Prompt](https://github.com/BeatAPI/awesome-minimax-h3-prompts/issues/new?template=prompt.yml)**
 
 ## 为什么做这个仓库
@@ -65,8 +67,9 @@ GitHub Issue → 来源与权利审核 → 数据验证 → 网站 Gallery
 [MiniMax 官方视频生成文档](https://platform.minimax.io/docs/guides/video-generation)
 是模型能力与限制的事实来源。正式制作上传器前请重新核对实时文档。
 
-这是 BeatAPI 的独立内容项目，不表示 BeatAPI workflow API 已经开放
-MiniMax H3 供应商路由。
+BeatAPI 目前提供 MiniMax H3 API；模型 ID、请求格式、价格与素材要求应以
+[实时 API 页面](https://beatapi.io/zh/minimax-h3-api)和文档为准。仓库中的
+「来源已核验」不表示 BeatAPI 已用自有输入独立复现每个案例输出。
 
 ## 本地验证
 

@@ -7,6 +7,8 @@
 Curated MiniMax H3 video prompts with WebM examples and creator attribution,
 by [BeatAPI](https://beatapi.io).
 
+**[Browse the live prompt gallery](https://beatapi.io/minimax-h3-prompts)** ·
+**[Use MiniMax H3 via API](https://beatapi.io/minimax-h3-api)** ·
 **[中文说明](./README.zh-CN.md)** ·
 **[Contribute a prompt](https://github.com/BeatAPI/awesome-minimax-h3-prompts/issues/new?template=prompt.yml)**
 
