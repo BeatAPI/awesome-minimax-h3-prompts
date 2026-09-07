@@ -39,6 +39,11 @@ rights and context.
 Approval is editorial, not automatic. Maintainers may edit formatting while
 preserving meaning and attribution.
 
+The English README is generated from `<!-- GENERATED_VIDEO_GALLERY_START -->`
+through the end of the file. Do not edit that generated section directly;
+update `prompts/catalog.json` or `scripts/build-readme.mjs`, then run
+`npm run readme:build`.
+
 ## Takedown and corrections
 
 Open an issue titled `Takedown: <entry slug>` or email `support@beatapi.io`.
