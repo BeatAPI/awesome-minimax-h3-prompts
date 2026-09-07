@@ -23,7 +23,126 @@ Camera: First-person perspective at eye level with authentic handheld player mov
 
 ---
 
-## 2. MiniMax H3 feels like a really good fit for interactive game concepts.
+## 2. 以上是关于近期网友较多留言的回复，有问题可以在这里提问，我将尽量予以回答，我也会在合适的时间在经过认真论证后开源我的系统和工作流。
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-929579-929579/video-1bbe0f98e178.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-929579-929579/poster-57b0a0b9f12c.jpg" alt="以上是关于近期网友较多留言的回复，有问题可以在这里提问，我将尽量予以回答，我也会在合适的时间在经过认真论证后开源我的系统和工作流。 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — 一、整体基础设定 生成一支30秒、英式复古写实电影质感、原生同步英文对白的古典剧情短片。 画幅为宽银幕20:9，胶片写实电影摄影，24fps纯正电影观感，轻微细腻35mm复古胶片颗粒，无数码锐化感。...</summary>
+
+~~~~text
+一、整体基础设定
+
+生成一支30秒、英式复古写实电影质感、原生同步英文对白的古典剧情短片。
+画幅为宽银幕20:9，胶片写实电影摄影，24fps纯正电影观感，轻微细腻35mm复古胶片颗粒，无数码锐化感。
+故事发生在19世纪中期英国庄园书房，古典深木色精装墙面、复古雕花实木书柜、老旧皮质单人沙发、窗边垂落的暗丝绒窗帘。傍晚温柔暖调自然光从侧窗斜向切入，光线柔和朦胧，带轻微光影层次。
+整体色调极致克制高级，以深胡桃木棕、墨绿、米白、低饱和暗金为主，复古暗沉油画质感，画面干净厚重。全程规避所有现代物品、电子设备、现代装修风格与商业质感，纯古典英伦庄园氛围。
+整体表演摒弃戏剧化夸张演绎，全程依靠人物眼神微动、面部肌肉变化、呼吸节奏、细微肢体张力推进情绪，用克制的爆发力呈现底层灵魂的倔强与平等的呐喊。
+
+二、故事内核&表演基调
+
+核心冲突：身份卑微的家庭教师女主角，面对贵族主人的身份试探与阶级碾压，压抑情绪彻底爆发，挣脱身份桎梏、呐喊灵魂平等、人格对等的核心信念。
+表演基调：内敛、倔强、隐忍又充满力量，无嘶吼、无大哭、无夸张肢体。情绪层次：隐忍拘谨→内心震颤→坚定反驳→情绪破防→温柔却决绝的灵魂告白，全程靠微表情和声线层次递进，安静却极具冲击力。
+
+三、人物一致性
+
+女主角
+
+20岁左右英国年轻女性，身形清瘦单薄、体态挺直不佝偻，自带倔强清冷气质。浅棕色中短发整齐利落，发丝柔软朴素，无精致造型；皮肤白皙通透，保留原生细腻皮肤纹理，无磨皮美颜，眉眼干净清澈，眼神坚定有韧劲。
+身着19世纪英式朴素女佣高领素色米白长裙，剪裁简约无装饰、干净素雅，面料轻薄垂坠。
+声线：清澈温柔的青年女中音，音色干净柔和，情绪从拘谨平稳逐渐变得坚定有力，尾段带着隐忍的哽咽，温柔却极具穿透力。
+
+男主角
+
+40岁左右英国贵族男性，身形挺拔高大、骨架宽阔，气质沉稳阴郁、自带沧桑疏离感。深棕色微卷短发，鬓角略带成熟质感，面部轮廓硬朗，眉眼深邃，额头沉稳，自带上位者的压迫感，眼神深沉内敛。
+身着19世纪英伦复古深色丝绒西装马甲、白色复古立领衬衫，穿搭庄重华贵，贵族质感十足。
+声线：低沉磁性的醇厚男低音，语气从从容试探、带着阶级优越感的淡然，逐渐转为错愕、收敛锋芒、温柔动容。
+
+全局人物约束
+
+两人全程保持面孔、年龄、发型、服装、神态、身形完全一致，无面部漂移、五官变形、妆容变化、服装穿帮、年龄波动。无任何现实演员、公众人物五官特征。
+严格遵守180度镜头轴线：男主角位于画面左侧，女主角位于画面右侧，两人面对面站立，间距一米左右，视线精准对接，全程站位固定无错乱、无互换位置。
+
+四、分镜头时序模块
+
+【镜头一｜0.0—6.5秒】
+
+85mm人像镜头，男主角胸部以上近景，三分之二侧脸朝向画面右侧的女主角。背景虚化深木色书柜与丝绒窗帘，极浅景深，突出人物面部情绪。
+摄影机近乎完全固定，仅保留极其细微的电影手持呼吸感，无任何推进、晃动、环绕、升降运镜。
+0.0—3.0秒：男主角姿态松弛淡然，眉眼微垂，眼神带着上位者的从容与试探，眉心舒展，嘴唇轻抿，下颌放松，语气慵懒疏离，带着轻微的阶级俯视感。
+3.0—6.5秒：说话间眼神微微抬升，紧盯对面的女主角，眼睑轻微收紧，面部神态依旧沉稳，无大幅情绪波动，语气平淡笃定。
+表情辅助：AU2眉部放松、AU12嘴角轻微放平、AU48眼部平视聚焦
+男主角语速平缓、语气淡然试探：
+“Do you think, because I am poor, obscure, plain, and little, I am soulless and heartless?”
+台词节奏均匀，尾音轻微拉长，自带贵族沉稳气场。
+本镜头结束后硬切转场，无淡入淡出、无转场特效。
+
+【镜头二｜6.5—18.0秒】
+
+硬切至女主角越肩近景，男主角的肩膀与轮廓作为模糊前景，占据画面左下角六分之一。女主角居于画面绝对中心，胸部以上构图，背景虚化窗边光影与书柜，画面干净聚焦。
+摄影机全程固定机位，仅有几乎无法察觉的细微呼吸晃动，无任何动态运镜。
+6.5—10.0秒：女主角身体微微挺直，肩背收紧，原本柔和的眉眼瞬间绷紧，眉心轻微聚拢，上眼睑抬起，双眼清亮坚定，直视对方，无丝毫闪躲。嘴唇轻闭，呼吸轻微加快，隐忍的情绪开始积蓄。
+表情辅助：AU4眉心微蹙、AU5眼睑抬起、AU23嘴唇收紧
+10.0—14.0秒：情绪逐步上扬，眼神更加锐利澄澈，面部无愤怒狰狞，只有倔强与坦荡。下颌轻轻咬紧，颈部线条绷紧，身体无晃动，仅气场彻底打开。声线从温柔变得清亮有力，字字铿锵。
+14.0—18.0秒：彻底挣脱自卑桎梏，眼神坦荡明亮，眉眼舒展却依旧坚定，积压的情绪尽数释放，语气决绝又赤诚。
+女主角语速平稳、坚定有力，无急促嘶吼：
+“You think wrong! I have as much soul as you—and full as much heart!”
+重读“soul”“heart”两个单词，语气掷地有声，温柔却不卑微。
+本镜头保持神态定格，精准卡点台词结束瞬间硬切。
+
+【镜头三｜18.0—26.0秒】
+
+硬切回男主角同角度近景，焦段、光线、构图、机位与镜头一完全统一，画面衔接丝滑。
+女主角画外音持续输出，声音来自画面右侧，清晰通透。
+18.0—21.0秒：男主角瞬间错愕，原本松弛的眉心骤然收紧，双眼微微睁大，眼底的从容与优越感瞬间消散，出现明显震动与意外，嘴唇微张，欲言又止。
+21.0—24.0秒：上位者的压迫感彻底褪去，眼神变得深沉柔和，眼睑放松，下颌收紧，沉默倾听，面部神态从试探转为动容、愧疚与惊艳。
+24.0—26.0秒：气息放缓，目光牢牢锁定前方，眼底满是复杂情绪：震撼、怜惜、认同，彻底放下阶级偏见。
+女主角画外音，声线温柔却无比坚定，情绪层层递进：
+“If God had gifted me with some beauty and much wealth, I should have made it as hard for you to leave me.”
+
+【镜头四｜26.0—30.0秒】
+
+硬切至女主角面部极近特写，聚焦眉眼与面部神态，比前序镜头更贴近面部，极致放大情绪细节。
+26.0—28.0秒：女主角眼眶轻微泛红，眼底蓄满细碎水光，无夸张流泪，睫毛微颤，呼吸轻柔急促，带着隐忍的委屈与赤诚的渴望。嘴角微微放平，眼神柔软却依旧倔强。
+28.0—30.0秒：情绪落定，眼神澄澈坦荡，眉眼温柔，语气平缓治愈，完成灵魂平等的终极告白。
+女主角带着温柔哽咽、无比真诚的语气收尾：
+“as it is now for me to leave you.”
+台词结束后，定格女主角含泪坚定的面部神态0.3秒，直接黑屏收尾，无淡出、无残留画面。
+
+五、声音设计
+
+1. 原生精准英文对白生成，双人声线辨识度极高，口型与每一个英文音节100%精准同步，无口型错位、无延迟偏差。
+2. 男主角人声：低沉醇厚男低音，情绪曲线：从容试探→错愕震动→温柔动容，声线全程沉稳，无尖锐、无浮夸。
+3. 女主角人声：清澈治愈女中音，情绪曲线：温柔拘谨→坚定倔强→赤诚坦荡→隐忍温柔，层次细腻完整，强弱有度，无全程大喊大叫。
+4. 保留真实人声细节：细微换气声、轻柔呼吸、尾音轻微颤音、隐忍哽咽，不降噪、不抹平真实人声质感。
+5. 环境音：仅保留极其轻微的窗外晚风簌簌声、书房安静空气底噪、细微窗帘飘动声，极致安静空灵。
+6. 全程无背景音乐、无配乐、无旁白、无额外音效、无人声混响过度，纯人声+轻环境音，凸显台词力量。
+
+六、影像限制（强制规避BUG）
+
+禁止字幕、禁止任何文字、禁止水印、禁止LOGO、禁止任何现代元素。
+禁止第三人入镜、禁止场景切换、禁止光线色调突变、禁止人物服装/发型/神态中途变化。
+禁止面部漂移、五官扭曲、眼神涣散、目光错位、嘴唇粘连、牙齿畸形、虚假过度流泪。
+禁止美颜磨皮、过度曝光、高饱和色彩、广告质感灯光、舞台戏剧打光。
+禁止夸张肢体动作、挥手、摇头、身体晃动、嘶吼尖叫、慢动作、环绕运镜、快速推拉镜头。
+禁止人物体型畸变、比例失调、穿模、画面CG感，全程保持真人写实电影质感。
+
+七、核心主旨重申
+
+本片核心魅力不在于镜头炫技，而在于极致细腻的微表情情绪递进。通过双人眼神博弈、声线层次变化、细微神态张力，演绎跨越阶级的灵魂平等，画面安静克制、情绪厚重有力量，贴合原著温柔又倔强的内核。
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-929579-929579/video-1bbe0f98e178.webm)
+
+**Source:** [@PixelAigc](https://x.com/PixelAigc/status/2093563293306929579) · 31s · 9:5 · gameplay
+
+---
+
+## 3. MiniMax H3 feels like a really good fit for interactive game concepts.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-feels-like-a-really-good-fit-for-interactive-417323/video-47c399792570.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-feels-like-a-really-good-fit-for-interactive-417323/poster-cfb4a8498788.jpg" alt="MiniMax H3 feels like a really good fit for interactive game concepts. video preview" width="700" />
@@ -52,7 +171,7 @@ Sound Design: Use pure instrumental music mixed with electronic arcade sounds, n
 
 ---
 
-## 3. is a huge model for some themes
+## 4. is a huge model for some themes
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/is-a-huge-model-for-some-themes-157293/video-3a23900fd3b4.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/is-a-huge-model-for-some-themes-157293/poster-c2ebc5d6241f.jpg" alt="is a huge model for some themes video preview" width="700" />
@@ -80,7 +199,7 @@ Camera movement: Natural player-controlled movement with subtle handheld sway wh
 
 ---
 
-## 4. Y2K K-Pop Candy Typography Music Video
+## 5. Y2K K-Pop Candy Typography Music Video
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/soft-cute-y2k-crush-k-pop-girl-group-rap-mv-748313/video-7588687fb895.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/soft-cute-y2k-crush-k-pop-girl-group-rap-mv-748313/poster-ca11d6e8f8b2.jpg" alt="Y2K K-Pop Candy Typography Music Video video preview" width="700" />
@@ -119,7 +238,7 @@ Shot 7 — Group Rap Performance「UNBREAKABLE」 Three members together.
 
 ---
 
-## 5. Explorer and Cat in a Floating Eco-City
+## 6. Explorer and Cat in a Floating Eco-City
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-cinematic-aaa-adventure-game-trailer-one-continuo-722460/video-8df5c20c5939.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-cinematic-aaa-adventure-game-trailer-one-continuo-722460/poster-478284a3421e.jpg" alt="Explorer and Cat in a Floating Eco-City video preview" width="700" />
@@ -140,7 +259,7 @@ Ultra cinematic AAA adventure game trailer, one continuous seamless camera shot,
 
 ---
 
-## 6. Fantasy Deck-Builder Battle UI
+## 7. Fantasy Deck-Builder Battle UI
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/deck-builder-turn-ui-choreography-446745/video-3d55b47abdf6.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/deck-builder-turn-ui-choreography-446745/poster-8cb4c8f5ec6c.jpg" alt="Fantasy Deck-Builder Battle UI video preview" width="700" />
@@ -168,7 +287,7 @@ Negative: no UI drift or warping, no invented card names, no misspellings, no go
 
 ---
 
-## 7. Colorful Paint-Weapon Selection Screen
+## 8. Colorful Paint-Weapon Selection Screen
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-1-for-the-character-image-2-for-the-619967/video-7ac98e27a185.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-1-for-the-character-image-2-for-the-619967/poster-e51bf318751f.jpg" alt="Colorful Paint-Weapon Selection Screen video preview" width="700" />

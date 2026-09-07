@@ -1,0 +1,31 @@
+{
+  "slug": "render-time-8s-video-in-185s-455656",
+  "title": {
+    "en": "▫️ Render Time: 8s video in ~185s",
+    "zh": "▫️ Render Time: 8s video in ~185s"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @Tomw852.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "reference-to-video",
+  "duration": "8s",
+  "aspectRatio": "5:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Tomw852",
+    "url": "https://x.com/Tomw852/status/2094104586793455656"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/Tomw852/status/2094104808357585357"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/render-time-8s-video-in-185s-455656/video-b3d85db60137.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/render-time-8s-video-in-185s-455656/poster-6ab458edf47e.jpg",
+  "prompt": "[First Frame Reference] Strictly preserve the blonde elf-eared girl side-lying on the tatami, the sleeping red Shiba Inu, her white shirt and shorts, and the sunlit Japanese room from the reference image.\n\n[Scene & Framing] Shunji Iwai cinematic style. Low-angle medium-close shot, focus sharply locked on the girl's facial profile, elf ears, and fine blonde hair strands.\n\n[Time-Coded Motion Breakdown]\n- 0-3s (Gentle Breeze & Hair Motion): A continuous soft summer breeze blows across the room, causing the fine strands of her blonde bangs and side hair to sway and flutter weightlessly, glowing translucently in the backlight.\n- 3-6s (Synchronized Rest): The girl and dog slumber peacefully with subtle chest rises and falls. The drifting hair strands lightly brush against the dog's ear, prompting a tiny, contented ear twitch from the Shiba.\n- 6-8s (Soft Drift & Golden Glow): The camera maintains a delicate organic handheld float as the breeze gently calms, settling her hair softly against her cheek. A soft, dreamlike golden lens flare shimmers at the edge of the frame.\n\n[Camera & Optics] Shunji Iwai signature handheld organic breathing. 50mm large aperture shallow depth of field, rendering individual wind-blown hair strands crisp while keeping the background in creamy bokeh.\n[Lighting & Color Palette] High-key Japanese film aesthetic: strong ethereal backlighting, translucent hair rim lighting, dreamlike glow halation, pastel warmth, and fine film grain.\n[Audio Design] Intimate acoustic ambiance: the gentle whisper of a summer breeze, soft rustling garden leaves, faint distant wind chimes, and deep tranquil breathing.\n\n[Avoidances] No aggressive storm winds or chaotic hair physics; hair must flutter softly and realistically; no camera jolts; no sudden waking up."
+}

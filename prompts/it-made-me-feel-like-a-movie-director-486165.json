@@ -1,0 +1,31 @@
+{
+  "slug": "it-made-me-feel-like-a-movie-director-486165",
+  "title": {
+    "en": "It made me feel like a movie director 🤭",
+    "zh": "It made me feel like a movie director 🤭"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 action prompt with attached video evidence from @AITalesNBH.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动作提示词。"
+  },
+  "category": "action",
+  "mode": "text-to-video",
+  "duration": "23s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@AITalesNBH",
+    "url": "https://x.com/AITalesNBH/status/2095240665588486165"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/AITalesNBH/status/2095240682105348525"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/it-made-me-feel-like-a-movie-director-486165/video-23d8ffe6d9e8.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/it-made-me-feel-like-a-movie-director-486165/poster-dd96c9012369.jpg",
+  "prompt": "The initial prompt was constructed for a 30 seconds video, added to the prompt to modify the time stamps to a 15 second video:\n\nCreate a 30-second, 16:9 photorealistic cinematic adventure, set in medieval Baghdad during the era of One Thousand and One Nights. High-budget live-action blockbuster aesthetic, warm golden sunlight, dusty atmospheric air, domes and minarets, flat rooftops, narrow alleys, colorful bazaars, Abbasid-inspired costumes, expressive acting, sweeping cinematic camera movement, realistic physics and synchronized environmental audio.\n\nCharacter continuity: Aladdin is a charismatic, athletic young man in his early twenties with dark wavy hair, expressive brown eyes, weathered ivory shirt, short vest, dark-red loose trousers and blue waist sash. A small mischievous realistic monkey remains on his shoulder throughout the escape. Soldiers wear historically inspired Baghdad clothing with turbans, leather protection and curved swords."
+}

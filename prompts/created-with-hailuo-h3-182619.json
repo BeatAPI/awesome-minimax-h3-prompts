@@ -1,0 +1,31 @@
+{
+  "slug": "created-with-hailuo-h3-182619",
+  "title": {
+    "en": "Created with Hailuo H3.",
+    "zh": "Created with Hailuo H3."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 title sequence prompt with attached video evidence from @CharaspowerAI.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3视频提示词。"
+  },
+  "category": "title-sequence",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@CharaspowerAI",
+    "url": "https://x.com/CharaspowerAI/status/2090740724803182619"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/CharaspowerAI/status/2090740724803182619"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-hailuo-h3-182619/video-75c2c914df29.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-hailuo-h3-182619/poster-fdfc758d64c8.jpg",
+  "prompt": "Ultra cinematic title sequence: A colossal glacier fractures across an endless frozen ocean. Deep blue cracks spread for miles beneath translucent ice before the entire shelf collapses. Mountains of ice are launched into the sky, suspended in breathtaking slow motion. Every crystal catches the sunlight while frozen debris rotates around the camera. The crystalline storm assembles the word \"EXTINCTION\", carved from pure glacial ice with intricate frozen textures. Hairline fractures slowly spread through every letter until the title violently shatters into millions of glittering ice fragments. Photorealistic ice simulation, IMAX-scale environmental VFX."
+}

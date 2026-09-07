@@ -1,8 +1,938 @@
 {
   "version": 1,
   "model": "MiniMax-H3",
-  "updatedAt": "2026-08-11",
+  "updatedAt": "2026-09-07",
   "prompts": [
+    {
+      "slug": "created-with-minimax-h3-023816",
+      "title": {
+        "en": "Created with MiniMax H3.",
+        "zh": "Created with MiniMax H3."
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 product commercial prompt with attached video evidence from @CaliraVal.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+      },
+      "category": "product-commercial",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "4:3",
+      "ingredients": [
+        "text-prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@CaliraVal",
+        "url": "https://x.com/CaliraVal/status/2096833346555023816"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/CaliraVal/status/2096833346555023816"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-023816/video-90162a4f2d1f.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-023816/poster-7725b7fe255a.jpg",
+      "prompt": "A cinematic fashion film set on a breathtaking coastal landscape. A stylish young woman walks naturally along a rugged seaside path, surrounded by wild greenery and delicate flowers. She wears a relaxed oversized brown knit sweater with elegant ivory trousers. Behind her, crystal-blue ocean waters stretch toward a towering lush green mountain rising from the sea.\n\nSoft golden-hour sunlight creates a warm, dreamy atmosphere. A gentle ocean breeze naturally moves her hair and sweater. Start with a wide cinematic establishing shot of the coastline, then smoothly track alongside her as she walks, transitioning into elegant close-ups of her outfit, hair, and subtle facial expressions.\n\nSpoken Voice / Dialogue: The woman speaks naturally while walking, in a soft, calm, confident female voice. Her delivery should feel spontaneous and conversational, with realistic breathing and subtle pauses. She says:\n\n“Sometimes, all you need is a quiet place, a little fresh air, and a moment to simply slow down and enjoy where you are.”\n\nHer lip movements must accurately synchronize with every spoken word. Natural facial expressions, realistic mouth movement, and subtle head gestures while speaking. No exaggerated acting.\n\nAmbient Audio: Gentle ocean waves crashing against the rocks, soft coastal wind, subtle rustling of flowers and leaves, quiet footsteps, and distant seabirds. Keep the environmental sounds natural and cinematic underneath the dialogue. No background music and no additional voices.\n\nPhotorealistic, natural skin and hair, realistic fabric movement, cinematic lighting, smooth camera movement, shallow depth of field, soft bokeh, subtle film grain, premium fashion-commercial aesthetic, atmospheric color grading, 4K cinematic quality. No text, no logos, no watermark."
+    },
+    {
+      "slug": "made-with-minimax-h3-484954",
+      "title": {
+        "en": "Made with MiniMax H3",
+        "zh": "Made with MiniMax H3"
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 vlog prompt with attached video evidence from @Zyrellix.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3视频提示词。"
+      },
+      "category": "vlog",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "7:4",
+      "ingredients": [
+        "text-prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@Zyrellix",
+        "url": "https://x.com/Zyrellix/status/2096817125864484954"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/Zyrellix/status/2096817125864484954"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-484954/video-7ebec37132d1.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-484954/poster-abe265a9f51c.jpg",
+      "prompt": "A continuous 4K travel vlog video featuring a young East Asian woman with long dark hair, wearing a white crop top, open white shirt, and beige shorts, exploring Istanbul. The video seamlessly sequences through dynamic travel moments: starting with a close-up ASMR intro whispering into a mic near Hagia Sophia, transitioning to a handheld selfie camera spinning through a sunny square filled with tourists. Cut to a low-angle shot inside a historic mosque gazing up at grand domed ceilings and Ottoman arches, followed by a golden-hour rooftop moment near Galata Tower with her hair blowing softly in the breeze. She then stands on a Bosphorus ferry railing smiling at the camera, walks down a narrow cobblestone alley lined with outdoor cafes, offers a cup of Turkish coffee close to the lens in a cozy cafe, and ends with a wide cinematic twilight shot of the illuminated Istanbul skyline across the water. Hyper-detailed, photorealistic, 8k resolution, cinematic lighting, vibrant natural colors, fluid movement, photorealistic face and physics."
+    },
+    {
+      "slug": "try-it-731290",
+      "title": {
+        "en": "Try it →",
+        "zh": "Try it →"
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 product commercial prompt with attached video evidence from @ImaStudio_ai.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+      },
+      "category": "product-commercial",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "text-prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@ImaStudio_ai",
+        "url": "https://x.com/ImaStudio_ai/status/2096807169945731290"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/ImaStudio_ai/status/2096807169945731290"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-731290/video-45072d167800.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-731290/poster-ec2c3bde4342.jpg",
+      "prompt": "Create a 15s, 9:16, 24fps high-energy anime fashion commercial for “SOLVÉRA — PINK SEOUL MODE.”\nStyle: K-pop girl-group MV × Korean Y2K × Pink Cyber × Seoul street fashion × photo-booth aesthetics × cute luxury. Pink, glossy, playful, sexy, stylish, rebellious and premium. Adult fashion only, never childish or schoolgirl.\nCharacter: One fictional adult Korean anime woman in her 20s with refined Korean features, fair luminous skin, long dark-brown hair, glossy lips, slim feminine figure, long legs and confident K-pop idol energy. Keep exactly the same face, hairstyle, age and body proportions in every shot. Outfits may change.\nPalette: hot pink, baby pink, blush pink, glossy white, chrome silver, small black accents.\nEvery shot combines character movement + dynamic camera movement + foreground graphics. Use pink bows, chrome hearts, stickers, rhinestones, plush charms, photo-booth cards, holographic stars and bold Korean typography.\n0–1s — HOOK\nExtreme close-up. Camera rushes through pink bows and heart charms. She lowers pink sunglasses and looks directly at camera. Text: “PINK!” / “오늘도 핑크.” Giant heart wipes lens.\n1–3s — SEOUL STREET\nShe confidently walks through a neon pink Hongdae street in a fitted pink mini dress, white jacket and silver boots. Low-angle tracking, strong parallax, flying stickers and hearts. Text: “SO CUTE.”\n3–5s — Y2K SWITCH\nPink handbag wipes lens. New baby-pink Y2K look. She spins and looks back while camera orbits. Korean photo-booth frames appear around her. Text: “PINK MODE.”\n5–7s — K-POP / CYBER\nFast cut to glossy K-pop stage, then futuristic pink Seoul subway. She performs a short dance move and reaches toward lens. Chrome hearts and neon Hangul orbit her. Text: “NO RULES.”\n7–9s — GRAPHIC EXPLOSION\nHuge pink Korean typography: “핑크는 자유야.” Camera flies through letters, torn paper, glitter, stickers and chrome graphics. Cut to her stepping from a pink elevator in a deep-pink mini dress. Text: “TOO CUTE?”\n9–10.5s — MAXIMUM PINK\nRapid pull-back reveals a surreal pink world filled with bows, plush charms, handbags, photo cards, headphones and floating hearts. She raises one eyebrow. Text: “아직 부족해.” Everything suddenly stops.\n10.5–12s — SOFT BREAK\nPure blush-pink background. Pale-pink mini dress and oversized white blazer. She walks forward slowly for two steps. Minimal graphics. Only bell and footsteps.\n12–15s — FINAL EXPLOSION\nBeat returns. Photo-booth cards of previous looks fly around her in a 3D collage. End on hot-pink hero background. She gives a confident cute-sexy pose and small smile.\nHuge text hits with beat:\n“CUTE”\n“IS POWER”\n“귀여움은 힘이야.”\n“SOLVÉRA — PINK SEOUL — OUT NOW”\nMusic: K-pop hyperpop × bubblegum bass, ~150 BPM, punchy kick, bright synths, bells, cute vocal chops and camera shutters.\nAvoid: face drift, body changes, inconsistent character, chibi, schoolgirl styling, childish proportions, static posing, weak camera motion, unreadable text, generic cute visuals.\nFinal feel: a premium pink Korean K-pop fashion campaign — cute, sexy, Y2K, energetic, glossy and unforgettable."
+    },
+    {
+      "slug": "cold-creamy-and-impossible-to-resist-one-spoonful-changes-everything-689457",
+      "title": {
+        "en": "Cold, creamy, and impossible to resist. 🍓✨ One spoonful changes everything.",
+        "zh": "Cold, creamy, and impossible to resist. 🍓✨ One spoonful changes everything."
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 product commercial prompt with attached video evidence from @itxabdullaa.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+      },
+      "category": "product-commercial",
+      "mode": "text-to-video",
+      "duration": "10s",
+      "aspectRatio": "9:16",
+      "ingredients": [
+        "text-prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@itxabdullaa",
+        "url": "https://x.com/itxabdullaa/status/2096555195618689457"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/itxabdullaa/status/2096555195618689457"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/cold-creamy-and-impossible-to-resist-one-spoonful-changes-everything-689457/video-bdc9d5f87ae9.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/cold-creamy-and-impossible-to-resist-one-spoonful-changes-everything-689457/poster-1fe0602318ea.jpg",
+      "prompt": "TITLE:\nPremium Strawberry Cheesecake Ice Cream Product Commercial Storyboard\n\nFORMAT:\n• Single-page premium storyboard\n• 3:4 Portrait ratio\n• Cinematic frozen dessert advertising campaign\n• 8 completely different product-focused scenes\n• Product remains the main visual hero\n• Premium advertising agency presentation\n\n**HEADER:**\n• Bold editorial typography\n• Information cards:\n\n* Duration: 10 Seconds\n* Style: Cinematic Dessert Commercial\n* Product: Strawberry Cheesecake Ice Cream\n* Audio: Spoon Scrape + Creamy Dessert ASMR\n  • Why This Style Works section\n  • Soft pink, strawberry red, cream and vanilla aesthetic\n  • Minimal strawberry and dessert-themed decorative details\n\nSTORYBOARD:\n\n1. Premium strawberry cheesecake ice cream tub standing dramatically on a chilled marble surface, front packaging perfectly visible\n2. Tub opening with a crisp close-up of the lid lifting and creamy ice cream revealed underneath\n3. Ice cream scoop pressing into the surface, revealing rich strawberry cheesecake layers and realistic creamy texture\n4. Extreme macro of strawberry pieces and cheesecake crumbs embedded throughout the ice cream\n5. Fresh strawberry sauce flowing slowly across a perfectly formed scoop, creating glossy red ribbons\n6. Ice cream scoop lifted onto a glass dessert cup with tiny cheesecake crumbs falling naturally around it\n7. Close-up of spoon breaking through the creamy scoop, revealing strawberry filling and soft cheesecake pieces inside\n8. Final hero product shot with the original ice cream tub beside an elegant dessert cup, fresh strawberries, crumbs and strawberry sauce arranged around the product\n\nEVERY PANEL:\n• Scene number\n• Duration badge\n• Camera direction\n• Visual\n• Action\n• Product detail\n\nCAMERA:\nExtreme macro food photography, smooth scoop movement, slow-motion strawberry sauce pour, detailed texture close-ups, controlled push-in, shallow depth of field, elegant overhead composition, cinematic final packshot.\n\nSTYLE:\nUltra-realistic premium frozen dessert commercial, rich creamy ice cream texture, realistic strawberry pieces, detailed cheesecake crumbs, glossy strawberry sauce, authentic condensation, sharp packaging details, soft cinematic lighting, luxurious food styling, professional dessert advertising, 8K."
+    },
+    {
+      "slug": "shatter-695817",
+      "title": {
+        "en": "SHATTER.",
+        "zh": "SHATTER."
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @CharaspowerAI.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+      },
+      "category": "music-video",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "text-prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@CharaspowerAI",
+        "url": "https://x.com/CharaspowerAI/status/2096554023809695817"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/CharaspowerAI/status/2096554023809695817"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/shatter-695817/video-3dd688759057.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/shatter-695817/poster-f97a8a5e14b5.jpg",
+      "prompt": "Premium action-film title sequence beginning with a gigantic transparent glass monolith floating against complete blackness. A tiny projectile impacts the exact center and an intricate network of cracks instantly races across the entire surface. The camera pushes directly into one expanding fracture, traveling through the microscopic crystalline structure as tension builds everywhere. Suddenly the monolith violently detonates into millions of glass fragments. The camera performs a fast 360-degree orbital move through the suspended crystal storm as every shard reflects sharp beams of cinematic light. An invisible force begins pulling selected fragments together, constructing the enormous word \"SHATTER\" from overlapping razor-thin glass shards. The completed transparent typography refracts the entire environment like a giant prism before another pressure wave passes through it, producing thousands of secondary fractures. The letters explode outward directly toward the lens in spectacular ultra slow motion. Extremely detailed glass physics, realistic refraction and caustics, elegant brutality, premium Hollywood VFX."
+    },
+    {
+      "slug": "minimax-h3-in-975646",
+      "title": {
+        "en": "Minimax H3 in",
+        "zh": "Minimax H3 in"
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 fashion prompt with attached video evidence from @airina_xyz.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3时尚提示词。"
+      },
+      "category": "fashion",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "7:4",
+      "ingredients": [
+        "text-prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@airina_xyz",
+        "url": "https://x.com/airina_xyz/status/2096297619391975646"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/airina_xyz/status/2096297632281079895"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-in-975646/video-a41f85105df7.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-in-975646/poster-7f4ee612296d.jpg",
+      "prompt": "CHARACTER: a fictional famous fashion-forward celebrity presenter styled like the Emperor from The Emperor’s New Clothes in a playful illustrated children’s-book way: natural skin tone, sleek dark hair, theatrical expression, extravagant cream-and-gold editorial royal outfit with exaggerated collar and cape, decorative shoes, jewel accents and a tiny mirror accessory. Preserve exact face, proportions, outfit, colors, materials and fairy-tale styling. No redesign.\n\nSTYLE: 80% kinetic graphics / 20% character action. Satirical children’s-book illustration × royal pageantry × metaphorical celebrity-image critique. Cream, gold, crimson, pale blue, black. Banners, trumpets, tailor motifs, mirrors, ornate page borders, review ribbons and parade routes. Typography: elaborate storybook display serif with royal ornament, banner tails and tailor-thread flourishes.\n\nCUT 01 | 0–1s — Black field. A gold thread loops into a spinning royal portal; the Emperor-like celebrity silhouette flashes.\n\nCUT 02 | 1–2s — Extreme eye close-up. Blink and sideways glance; little mirrors and approval stars form around the face, then a bright gold flash.\n\nCUT 03 | 2–3.1s — Cream field, giant LOOK THE PART. He walks through holding the tiny mirror; letters stretch proudly with each step.\n\nCUT 04 | 3.1–4s — Six-panel illustrated publicity sheet rapidly rearranges into one flawless royal portrait framed by banners and thread motifs.\n\nCUT 05 | 4–5.1s — Parade grid. He walks along a glowing route while gold circles appear beneath his shoes. Giant DISPLAY rotates behind.\n\nCUT 06 | 5.1–6s — Shoe hits the circle; a ripple expands and becomes BELIEVE. Fast camera push.\n\nCUT 07 | 6–7s — Crimson field. He performs a smooth 180° turn with three theatrical motion echoes. POSE rotates around him.\n\nCUT 08 | 7–8s — STUNNING / LUXE / ICONIC / UNTOUCHABLE slam in rapidly as he crosses foreground, cape moving naturally.\n\nCUT 09 | 8–9s — White field with moving spotlight. He raises the mirror; reflected light becomes review cards and image-management lines. Gold UI lock-on.\n\nCUT 10 | 9–10.1s — Floating crowns, fashion labels, applause icons and headlines surround him; each disappears on contact but leaves behind more decorative spectacle.\n\nCUT 11 | 10.1–11.1s — Rapid close-ups: eye, collar, mirror, cape, shoes, full character. Graphic frames and 01–04 flash.\n\nCUT 12 | 11.1–13s — HERO: cream storybook studio. He walks center, stops with theatrical confidence. A royal parade burst explodes behind with banners, tailor-thread swirls, ornate trims and mirrors. Freeze → white flash. The metaphor reveals the machinery of hype sustaining an image.\n\nCUT 13 | 13–15s — Cream illustrated title card. Huge royal lettering: THE EMPEROR’S NEW CLOTHES. He stands beside it while a gold thread stitches across the frame once. Logo pulses once → black.\n\nEDITING: Hard beat cuts, parade wipes, snap zooms, banner transitions, freeze frames and impact shakes. Every cut visually distinct. Perfect character consistency.\n\nSOUND: Bright orchestral-pop with trumpets, pizzicato strings, soft drums, pageantry swells, shoe taps, mirror chimes and whimsical UI accents. Peak at CUT 12, theatrical title stinger.\n\nQUALITY: Premium AAA cinematic × children’s-book illustration × fairy-tale metaphor for spectacle overpowering authenticity. No weapons/combat/fire. Exactly 13 cuts, exactly 15 seconds."
+    },
+    {
+      "slug": "you-can-use-this-style-for-mvs-and-character-promos-142588",
+      "title": {
+        "en": "You can use this style for MVs and character promos too.",
+        "zh": "You can use this style for MVs and character promos too."
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 product commercial prompt with attached video evidence from @Mayz1169.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+      },
+      "category": "product-commercial",
+      "mode": "text-to-video",
+      "duration": "14s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "text-prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@Mayz1169",
+        "url": "https://x.com/Mayz1169/status/2095875210562142588"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/Mayz1169/status/2095875508307464311"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/you-can-use-this-style-for-mvs-and-character-promos-142588/video-a7fdf9edba2b.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/you-can-use-this-style-for-mvs-and-character-promos-142588/poster-dee683a178db.jpg",
+      "prompt": "Create a Japanese anime pop-art motion-graphics commercial.\n\nKiki must exactly match the character reference: lime-yellow hair with cyan and hot-pink accents, two colorful space buns, playful hair clips, bright anime eyes, cheek stickers, oversized neon pixel-print jacket, white cropped graphic top, dark strapped mini skirt, colorful accessories, cyan socks and chunky multicolor platform sneakers. Preserve the same face, hairstyle, proportions, outfit and colors throughout. Do not reproduce the character-sheet layout or labels.\n\n0–1.5s: A tiny magenta pixel expands on a white background, transforming into a spinning neon pixel-heart power-up charm suspended from a chain. Cyan, lime and hot-pink radial speed lines burst outward with checkerboard and halftone textures. Smash cut to the exact bold title: “PIXEL POP!”  1.5–3.6s: Extreme close-up of Kiki’s bright eyes opening on the beat. She smiles mischievously and points directly toward the camera. Surround her with pixel stars, controller-button icons and comic speed lines. Display the exact phrases “READY?” and “PRESS START!” Then snap to a second expression with the exact text “TOO FAST!” and “PLAYER KIKI”.  3.6–5.6s: Rapid fashion-detail montage: close-up of her colorful jacket collar and pixel patches, backpack strap, controller charm, belt buckles, neon-painted fingernails and small chain accessories. Use quick pans, graphic wipes and hard beat-synced cuts.  5.6–7.2s: Close-up of Kiki’s legs and chunky platform sneaker. She kicks the sole directly toward the lens, creating extreme fisheye foreshortening. A circular pixel shockwave, stars and colorful game particles explode beneath the shoe.  7.2–9.7s: Reveal Kiki reclining confidently in a dynamic full-body poster pose, one sneaker dominating the foreground and one hand reaching toward the viewer. Surround her with floating handheld consoles, controllers, pixel hearts, arcade stars, chat bubbles and colorful digital creatures. Use subtle parallax so every collage layer moves at a different speed.  9.7–12.3s: Kiki jumps forward and points at the camera while bold kinetic typography rapidly assembles around her. Show only these exact phrases: “LEVEL UP!”, “LOUD / BRIGHT / PIXEL / WILD” and “MAX COMBO!” Letters slam, stretch and bounce with white, black, hot-pink, cyan and lime color blocks.  12.3–14s: Finish on a polished collectible game-box or magazine-cover composition featuring Kiki’s full pose. Display the exact final title “KIKI POP”, with the smaller phrases “PLAYER ONE EDITION” and “BONUS LEVEL: MAX”. Add a barcode, tiny pixel icons and a colorful decorative border, then hold the final frame.\n\nCrisp premium anime illustration, Y2K Harajuku arcade aesthetic, saturated neon palette, bold black outlines, halftone dots, checkerboards, pixel graphics, comic-book speed lines and energetic 2D/3D parallax. Fast electronic arcade sound design with button clicks, digital power-up tones and beat-synced impact sounds. All specified text must be correctly spelled, large and clearly legible. No realistic person, no fruit imagery, no character duplication, no outfit changes, no distorted hands and no additional or unreadable text."
+    },
+    {
+      "slug": "created-with-minimax-h3-max-120666",
+      "title": {
+        "en": "Created with MiniMax H3 Max",
+        "zh": "Created with MiniMax H3 Max"
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @TaliaAariz.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+      },
+      "category": "cinematic-story",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "4:7",
+      "ingredients": [
+        "text-prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@TaliaAariz",
+        "url": "https://x.com/TaliaAariz/status/2095857062987120666"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/TaliaAariz/status/2095857062987120666"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-max-120666/video-1dd8c321e87b.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-max-120666/poster-bba190dc87b8.jpg",
+      "prompt": "A cinematic medium shot of a gentle East Asian young woman with dark hair styled in a bun adorned with a blue-and-white checkered bow, standing on a sunny pebbled lakefront. She wears a sleeveless light blue polka-dot tulle dress with long, translucent white ribbons flowing from her shoulder that flutter gracefully in a gentle breeze. Holding a lush bouquet of pastel pink, baby blue, and white flowers, she smiles warmly at the camera, softly touches the flower petals, and tilts her head back slightly to close her eyes and feel the breeze. In the background, glistening blue lake water sparkles under the sun, bordered by tall green reeds along the shore and serene blue mountains under a bright, clear sky, captured in soft natural daylight with a shallow depth of field."
+    },
+    {
+      "slug": "integrated-multimodal-description-shot-1-stylized-3d-pixar-animated-look-093063",
+      "title": {
+        "en": "\"integrated_multimodal_description: [Shot 1] Stylized 3D Pixar-animated look",
+        "zh": "\"integrated_multimodal_description: [Shot 1] Stylized 3D Pixar-animated look"
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 fashion prompt with attached video evidence from @ManuAGI01.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3时尚提示词。"
+      },
+      "category": "fashion",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "text-prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@ManuAGI01",
+        "url": "https://x.com/ManuAGI01/status/2095846567853093063"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/ManuAGI01/status/2095846567853093063"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/integrated-multimodal-description-shot-1-stylized-3d-pixar-animated-look-093063/video-e08a8e78744e.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/integrated-multimodal-description-shot-1-stylized-3d-pixar-animated-look-093063/poster-afc1b6a2c715.jpg",
+      "prompt": "\"integrated_multimodal_description: [Shot 1] Stylized 3D Pixar-animated look, soft rounded\ncharacter design, expressive exaggerated eyes, glossy cartoon textures, warm cinematic lighting,\n16:9, fast editorial comedic energy with snap reframes. A veterinary hospital back corridor with\nscuffed skirting, laminated posters and strip lighting. A medium tracking shot follows OSKAR, a\nstylized man in his forties in a courier's fleece with a lanyard swinging, arms wrapped around a\nlarge cardboard box with airholes punched in the lid. He hurries along scanning door numbers.\nOskar (S1) mutters to himself in a fast anxious voice, <d>[English] Reception. Just needs a\nsignature. Reception.</d>\n[Shot 2] At 00:02.500, the camera cuts to a wide shot as he backs through the wrong door and\nturns around into a bright operating theatre — four masked surgical staff in scrubs standing\naround a table under a huge overhead lamp, every pair of eyes above the masks turned toward him\nin complete silence. A monitor beeps steadily. The box slips an inch in his arms.\nOskar (S1) says in a very small voice, <d>[English] Is this not reception.</d>\n[Shot 3] At 00:05.500, the camera cuts to a medium shot of a formidable surgeon, a woman in her\nsixties, gloved hands held up and clear, mask pulled tight. She looks him up and down once, then\njerks her chin firmly at the empty space beside the table. The surgeon (S2) says in a brisk,\ncompletely certain voice, <d>[English] Finally. Scrub in, we're waiting.</d> Trays rattle.\nEveryone shuffles round to make room for him.\n[Shot 4] At 00:08.500, the camera cuts to a fast montage of Oskar bluffing at the table, box now\nabandoned on a stool behind him — snapping on gloves far too enthusiastically, holding out a flat\npalm with enormous authority, then nodding gravely at a monitor he clearly cannot read. A nurse\nslaps an instrument into his hand. He holds it up to the light and turns it round twice. Every\nstaff member responds instantly and correctly to each gesture, working faster and more smoothly\nthan before he arrived. Oskar's face cycles through panic, disbelief and delight.\n[Shot 5] At 00:12.000, the camera cuts to a wide shot as the door swings open and a young vet in\nscrubs hurries in tying her mask, sees the operation already running, and stops. The whole room\nturns between the two of them. Oskar is already moving — he peels the gloves off, scoops up the\ncardboard box, and backs toward the door giving the room a double thumbs up. Oskar (S1) says in a\nbright rushed voice, <d>[English] Great work everyone, sign here next time.</d> He is gone. The\nsurgeon watches him go with visible approval. The camera holds still on the room.\n\noverall_soundscape: A theatre room tone with a steady monitor beep and the hum of overhead lamps.\nFootsteps and cardboard shifting in a corridor. A heavy door swinging on its hinge. Complete\nsilence with one instrument tray tick. Wheels rolling on hard flooring. Latex gloves snapping.\nMetal instruments slapped into a palm. Muffled voices behind masks. Footsteps leaving fast and a\ndoor swinging shut.\n\nnon_diegetic_music: A light plucked pizzicato strings figure at a brisk tempo opens the video and\ncuts out completely at 00:02.500 into one beat of total silence. A single low bassoon note\nfollows. From 00:08.500 a tense, mock-serious strings and low percussion figure builds through the\nmontage, playing the situation completely straight while getting more absurd, and cuts off on one\nhard comedic sting as he reaches the door at 00:14.000.\""
+    },
+    {
+      "slug": "hailuo-h3-fluffi-a-movie-one-jump-scare-the-tv-469310",
+      "title": {
+        "en": "Hailuo H3. Fluffi, a movie, one jump scare. The TV is never in frame.",
+        "zh": "Hailuo H3. Fluffi, a movie, one jump scare. The TV is never in frame."
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 action prompt with attached video evidence from @GlennHasABeard.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动作提示词。"
+      },
+      "category": "action",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "7:4",
+      "ingredients": [
+        "text-prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@GlennHasABeard",
+        "url": "https://x.com/GlennHasABeard/status/2095573685671469310"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/GlennHasABeard/status/2095573685671469310"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-fluffi-a-movie-one-jump-scare-the-tv-469310/video-b0edf011c802.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-fluffi-a-movie-one-jump-scare-the-tv-469310/poster-cda1aa4922ca.jpg",
+      "prompt": "\"picks one piece of popcorn off the cushion and eats it with as much dignity as he can manage\"\n\nDuration: 15s. Camera: the TV's point of view, locked.\n\nThe scare is one second. The recovery is five. Reaction clips live or die on the recovery."
+    },
+    {
+      "slug": "made-with-on-438174",
+      "title": {
+        "en": "Made with on",
+        "zh": "Made with on"
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @aniyaintel.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+      },
+      "category": "cinematic-story",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "text-prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@aniyaintel",
+        "url": "https://x.com/aniyaintel/status/2095362627677438174"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/aniyaintel/status/2095362627677438174"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-on-438174/video-106e0254b230.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-on-438174/poster-d39cea3a2c83.jpg",
+      "prompt": "A tiny adorable orange fox cub named Milo lives in a cozy little forest beneath a giant ancient oak tree. One magical night, Milo looks up at the enormous glowing full moon reflected in a quiet lake. He reaches his tiny paw toward the moon, wishing he could touch it.\n\nA gentle breeze moves through the grass and fireflies sparkle around him. Milo suddenly notices a beautiful glowing feather floating down from the sky. His eyes widen with wonder.\n\nCamera: Slow cinematic push-in toward Milo, then tilt upward toward the glowing moon.\n\nMood: Magical, peaceful, emotional."
+    },
+    {
+      "slug": "canvas-try-it-182080",
+      "title": {
+        "en": "Canvas Try it →",
+        "zh": "Canvas Try it →"
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 fashion prompt with attached video evidence from @ImaStudio_ai.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3时尚提示词。"
+      },
+      "category": "fashion",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "text-prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@ImaStudio_ai",
+        "url": "https://x.com/ImaStudio_ai/status/2095357375549182080"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/ImaStudio_ai/status/2095357375549182080"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/canvas-try-it-182080/video-33a88ecdb8ea.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/canvas-try-it-182080/poster-e6374292d642.jpg",
+      "prompt": "Create a 15-second, 16:9, 24fps ultra-photorealistic live-action Y2K fashion film blended with one pure 2D manga fairy.\nHIGHEST-PRIORITY RULES\nExactly TWO characters: ONE fictional 22-year-old Korean female idol + ONE tiny 2D manga fairy. No extras, duplicates, clones, motion-trail copies, or identifiable reflections.\nZERO readable text or numbers anywhere: no captions, logos, labels, signs, UI, watermarks, license plates, posters, or environmental writing.\nCHARACTER LOCK\nWoman: elegant oval face, cool fair skin with realistic texture, almond eyes, glossy pink lips, extremely long silky straight black hair to the waist with thin bangs. Face, hair, proportions, makeup and wardrobe remain identical.\nWardrobe: black satin cropped camisole with lace detail, cropped glossy motorcycle jacket loosely around her arms, black low-rise pleated micro skirt, silver waist chain/jewelry, black over-the-knee boots. Premium, sensual, sophisticated K-pop editorial.\nFairy: tiny PURE 2D cel-shaded manga character with clean outlines, short black hair, elf ears, large pink eyes, pink-and-white cropped top, silver pleated skirt, translucent pink wings. Always flat 2D—never 3D, photorealistic, or humanized.\nENVIRONMENT\nOne continuous bright pink-and-ice-blue neon fashion studio. Black vintage convertible in the center, silver vanity mirror, transparent acrylic chair, chrome spheres, silver props, glossy floor. Style: K-pop comeback film × glossy Y2K campaign × cute high-energy MV.\nPHYSICAL CONTINUITY\nNo teleportation, clipping, spawning, or passing through objects. Fairy must physically fly above, below, around, or beside the windshield, car, mirror, chair, props, and woman. Glossy surfaces show only abstract light, never recognizable reflections.\n\nSHOT FLOW\n0:00–0:01.5 — Low-angle wide shot. Only fairy is visible behind the wheel. She waves, opens wings on beat, flies vertically until fully above the windshield, exits through the open roof, half-spins, then flies toward the woman. Driver seat becomes empty.\n0:01.5–0:03.5 — Reveal woman leaning outside the car door, looking down while adjusting a ring. Fairy curves toward her shoulder and gives a TA-DA pose. The same woman raises her head, looks at fairy, then camera. Diagonal push-in from headlight.\n0:03.5–0:05.5 — Woman flicks one finger toward fairy on a sharp beat. Fairy reacts with one continuous half-spin to camera-right. Woman shifts into a mischievous smile. Fast side arc; car door briefly wipes foreground.\n0:05.5–0:07.5 — Fairy flies around the OUTER edge of the vanity mirror, never through it. Camera follows and finds the same woman seated on the acrylic chair. She crosses her legs and makes a tiny finger heart. Fairy hovers beside her face and imitates it. Woman smiles.\n0:07.5–0:09.5 — Woman opens her palm. Fairy descends continuously and visibly lands, feet making contact. Fairy poses proudly and copies woman’s head tilt. Woman pauses, then smiles warmly. Add a cute electronic bling; push from hand toward faces.\n0:09.5–0:11.5 — Fairy physically takes off from palm first. Woman stands and walks 2–3 confident steps toward center studio. Camera tracks backward with a lateral arc while fairy flies backward in front of her.\n0:11.5–0:13.0 — Woman strikes a sophisticated K-pop pose with convertible diagonally behind. She touches her long hair; fairy imitates fixing her own short hair. Woman notices and breaks into a smile. Slight low-angle push-in.\n0:13.0–0:14.5 — Medium close-up. Woman makes a finger heart near her face while holding her hair. Fairy hovers beside her, wings open, cheerful double-V pose. Both look into camera. Final beat triggers ONE camera flash without washing out the studio.\n0:14.5–0:15.0 — Freeze the ACTUAL previous frame. No new photo, card, border, or white background. Keep neon studio, car, silver props and depth visible. Add only 4–6 small clean pink hearts/stars/sparkles near the corners, inside frame, never covering either character.\nCAMERA & PERFORMANCE\nUse low angles, diagonal views, subtle ultra-wide shots, foreground occlusion, mirror framing, curved push-ins, short tracking, gentle rises/drops. Avoid repetitive static frontal framing.\nEmotion: cool fashion pose → curiosity → playful interaction → amused smile → joyful final pose. Natural, confident, star-like, never childish.\nMUSIC\nBubblegum Pop × Kawaii Pop × Y2K Dance Pop, 125–135 BPM, punchy drums, bouncing bass, crisp claps, sparkling synths. Sync wing opening, finger flick, fairy spin, finger-heart, palm landing, takeoff, hair imitation, final pose and camera flash to major beats.\nNEGATIVE\nNo second human/fairy, duplicates, face drift, hairstyle/color/costume changes, malformed hands, clipping, teleportation, 3D or photorealistic fairy, white ending, Polaroid/frame/PIP, chaotic doodles, readable text, letters, numbers, logos, subtitles, labels, UI or watermarks."
+    },
+    {
+      "slug": "it-made-me-feel-like-a-movie-director-486165",
+      "title": {
+        "en": "It made me feel like a movie director 🤭",
+        "zh": "It made me feel like a movie director 🤭"
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 action prompt with attached video evidence from @AITalesNBH.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动作提示词。"
+      },
+      "category": "action",
+      "mode": "text-to-video",
+      "duration": "23s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "text-prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@AITalesNBH",
+        "url": "https://x.com/AITalesNBH/status/2095240665588486165"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/AITalesNBH/status/2095240682105348525"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/it-made-me-feel-like-a-movie-director-486165/video-23d8ffe6d9e8.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/it-made-me-feel-like-a-movie-director-486165/poster-dd96c9012369.jpg",
+      "prompt": "The initial prompt was constructed for a 30 seconds video, added to the prompt to modify the time stamps to a 15 second video:\n\nCreate a 30-second, 16:9 photorealistic cinematic adventure, set in medieval Baghdad during the era of One Thousand and One Nights. High-budget live-action blockbuster aesthetic, warm golden sunlight, dusty atmospheric air, domes and minarets, flat rooftops, narrow alleys, colorful bazaars, Abbasid-inspired costumes, expressive acting, sweeping cinematic camera movement, realistic physics and synchronized environmental audio.\n\nCharacter continuity: Aladdin is a charismatic, athletic young man in his early twenties with dark wavy hair, expressive brown eyes, weathered ivory shirt, short vest, dark-red loose trousers and blue waist sash. A small mischievous realistic monkey remains on his shoulder throughout the escape. Soldiers wear historically inspired Baghdad clothing with turbans, leather protection and curved swords."
+    },
+    {
+      "slug": "a-cinematic-creation-film-follows-one-maker-reconstructing-the-main-311555",
+      "title": {
+        "en": "A cinematic creation film follows one maker reconstructing the main subject shown",
+        "zh": "A cinematic creation film follows one maker reconstructing the main subject shown"
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @aimikoda.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+      },
+      "category": "music-video",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "4:3",
+      "ingredients": [
+        "text-prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@aimikoda",
+        "url": "https://x.com/aimikoda/status/2095141166962311555"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/aimikoda/status/2095141166962311555"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/a-cinematic-creation-film-follows-one-maker-reconstructing-the-main-311555/video-9615f0923d10.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/a-cinematic-creation-film-follows-one-maker-reconstructing-the-main-311555/poster-b10363323b51.jpg",
+      "prompt": "A cinematic creation film follows one maker reconstructing the main subject shown in the referenced image completely from scratch. The referenced image defines the finished subject’s complete visible appearance, proportions, structure, materials, colors, clothing or surface details, and distinctive features; ignore its background, framing, lighting, and unrelated elements.  Begin directly on an empty, clean virtual workbench. Use a stable front three-quarter overhead view that keeps the developing subject readable. There is one maker throughout, represented by the same consistent left and right hands and forearms. Show no more than two hands at once.  From 0 to 14 seconds, the entire creation unfolds as a clearly accelerated timelapse with rapid, purposeful hand movement and restrained motion blur. Short jump cuts compress repetitive manual work only after each action has visibly completed. Every cut inherits the exact form and progress left by the previous action.  0-2 seconds: One hand enters already holding the first foundation material, armature, or base element appropriate to the referenced subject and places it at the center. The second hand steadies it as the maker establishes the initial supporting form.  2-8 seconds: The maker rapidly develops the subject’s major structure and volumes using one coherent creation method appropriate to what the referenced image depicts. A living subject is sculpted as one continuous, non-gory digital form from armature to anatomy; a vehicle or machine is built from chassis to functional structure; an object is formed or assembled from its supporting body outward. Each additional material or component enters from outside the frame while firmly held by one of the maker’s hands, is carried to its destination, and remains under hand control until attached or shaped.  8-12 seconds: The same hands develop the recognizable outer form and reference-specific features. The maker sculpts, fits, wraps, stitches, fastens, carves, or polishes only where appropriate to the subject. Facial features, hair, clothing, body panels, wheels, glass, surfaces, accessories, or equivalent defining elements emerge through visible hand and tool contact, never through spontaneous transformation.  12-14 seconds: The maker refines proportions, edges, joints, surface transitions, textures, colors, and distinctive details until the developing subject closely matches the referenced image. One hand stabilizes the form while the other performs each final adjustment with a hand-held tool.  14-15 seconds: The maker removes the last tool by hand and withdraws both hands. The timelapse returns to normal speed as the camera makes a restrained push toward the completed subject and holds on a clean final view.  Materials and components do not need to be visible before use, but anything newly introduced must enter the frame already held by one of the maker’s hands. Nothing moves, assembles, appears, disappears, or changes material independently. Maintain one maker, one continuous subject, one creation position, and one category-appropriate construction method. No assistants, extra hands, detached anatomy, duplicated elements, magical morphing, drawing phase, software interface, cursor, menus, annotations, or text overlays."
+    },
+    {
+      "slug": "hailuo-h3-render-built-out-of-wood-shavings-then-carved-130121",
+      "title": {
+        "en": "Hailuo H3. RENDER, built out of wood shavings, then carved.",
+        "zh": "Hailuo H3. RENDER, built out of wood shavings, then carved."
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @GlennHasABeard.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+      },
+      "category": "cinematic-story",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "7:4",
+      "ingredients": [
+        "text-prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@GlennHasABeard",
+        "url": "https://x.com/GlennHasABeard/status/2094755037826130121"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/GlennHasABeard/status/2094755037826130121"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-render-built-out-of-wood-shavings-then-carved-130121/video-bd0a19d40894.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-render-built-out-of-wood-shavings-then-carved-130121/poster-52ebbfcee83a.jpg",
+      "prompt": "\"gathering into six tall upright letters in order from left to right, R first, then E, N, D, E, R, each letter building from the base up\"\n\nDuration: 15s. Camera: locked, low, bench height.\n\nSpelling the letters out one at a time in order is what got six letters instead of five or seven. Naming the word once was not enough."
+    },
+    {
+      "slug": "fluffi-vs-laser-pointer-hailuo-h3-one-take-136738",
+      "title": {
+        "en": "Fluffi vs. laser pointer. Hailuo H3, one take.",
+        "zh": "Fluffi vs. laser pointer. Hailuo H3, one take."
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @GlennHasABeard.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+      },
+      "category": "cinematic-story",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "7:4",
+      "ingredients": [
+        "text-prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@GlennHasABeard",
+        "url": "https://x.com/GlennHasABeard/status/2094472529939136738"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/GlennHasABeard/status/2094472529939136738"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/fluffi-vs-laser-pointer-hailuo-h3-one-take-136738/video-5e8746c5ec06.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/fluffi-vs-laser-pointer-hailuo-h3-one-take-136738/poster-2537853395a5.jpg",
+      "prompt": "\"the dot moves at the last instant and he lands on bare floor,\nlooks under his paws, finds nothing\"\n\nReference: one Fluffi image. Camera: low, handheld, following.\n\nWriting the miss as an end state is what got the confused look. If you\nonly describe the pounce, he catches it."
+    },
+    {
+      "slug": "render-time-8s-video-in-185s-455656",
+      "title": {
+        "en": "▫️ Render Time: 8s video in ~185s",
+        "zh": "▫️ Render Time: 8s video in ~185s"
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @Tomw852.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+      },
+      "category": "cinematic-story",
+      "mode": "reference-to-video",
+      "duration": "8s",
+      "aspectRatio": "5:9",
+      "ingredients": [
+        "text-prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@Tomw852",
+        "url": "https://x.com/Tomw852/status/2094104586793455656"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/Tomw852/status/2094104808357585357"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/render-time-8s-video-in-185s-455656/video-b3d85db60137.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/render-time-8s-video-in-185s-455656/poster-6ab458edf47e.jpg",
+      "prompt": "[First Frame Reference] Strictly preserve the blonde elf-eared girl side-lying on the tatami, the sleeping red Shiba Inu, her white shirt and shorts, and the sunlit Japanese room from the reference image.\n\n[Scene & Framing] Shunji Iwai cinematic style. Low-angle medium-close shot, focus sharply locked on the girl's facial profile, elf ears, and fine blonde hair strands.\n\n[Time-Coded Motion Breakdown]\n- 0-3s (Gentle Breeze & Hair Motion): A continuous soft summer breeze blows across the room, causing the fine strands of her blonde bangs and side hair to sway and flutter weightlessly, glowing translucently in the backlight.\n- 3-6s (Synchronized Rest): The girl and dog slumber peacefully with subtle chest rises and falls. The drifting hair strands lightly brush against the dog's ear, prompting a tiny, contented ear twitch from the Shiba.\n- 6-8s (Soft Drift & Golden Glow): The camera maintains a delicate organic handheld float as the breeze gently calms, settling her hair softly against her cheek. A soft, dreamlike golden lens flare shimmers at the edge of the frame.\n\n[Camera & Optics] Shunji Iwai signature handheld organic breathing. 50mm large aperture shallow depth of field, rendering individual wind-blown hair strands crisp while keeping the background in creamy bokeh.\n[Lighting & Color Palette] High-key Japanese film aesthetic: strong ethereal backlighting, translucent hair rim lighting, dreamlike glow halation, pastel warmth, and fine film grain.\n[Audio Design] Intimate acoustic ambiance: the gentle whisper of a summer breeze, soft rustling garden leaves, faint distant wind chimes, and deep tranquil breathing.\n\n[Avoidances] No aggressive storm winds or chaotic hair physics; hair must flutter softly and realistically; no camera jolts; no sudden waking up."
+    },
+    {
+      "slug": "created-in-minimax-h3-166116",
+      "title": {
+        "en": "Created in Minimax H3",
+        "zh": "Created in Minimax H3"
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 vlog prompt with attached video evidence from @codewithhajra.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3视频提示词。"
+      },
+      "category": "vlog",
+      "mode": "text-to-video",
+      "duration": "17s",
+      "aspectRatio": "45:56",
+      "ingredients": [
+        "text-prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@codewithhajra",
+        "url": "https://x.com/codewithhajra/status/2093896492000166116"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/codewithhajra/status/2093896492000166116"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-in-minimax-h3-166116/video-22f9402ebdd6.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-in-minimax-h3-166116/poster-9e96b3ca9a5b.jpg",
+      "prompt": "FORMAT: 15 seconds | 9:16 vertical | Ultra-photorealistic smartphone vlog | Real-world Tokyo at night\n\nCHARACTER LOCK\nUse the attached girl as the exact character and identity reference throughout the entire video. Preserve her recognizable facial features, face shape, warm skin tone, brown eyes, natural makeup, soft features, and dark brown hair styled in a messy high bun with loose strands framing her face.\nShe is an adult woman with a natural, approachable travel-vlogger appearance.\n\nOUTFIT LOCK\n\nMatch the outfit shown in the storyboard:\n\nCream-colored knit top\n\nLight beige lightweight jacket, worn open\n\nCharcoal/dark gray straight-leg trousers\n\nClean white sneakers\nSmall silver hoop earrings\nSimple silver wristwatch\nMinimal accessories\nNatural, understated makeup\nThe hairstyle, face, outfit, accessories and overall appearance must remain identical across all six storyboard scenes.\n00–04s — RUNNING FOR IT\nHandheld selfie footage on a crowded Tokyo street at night.\n\nThe girl from the attached reference walks quickly toward the camera, slightly out of breath. Her beige jacket moves naturally as she walks.\n\nBright Tokyo signs, storefronts, pedestrians and traffic create an authentic nighttime city background.\n\nShe looks directly into the phone camera and laughs:\n\n“Wait—my train leaves in two minutes!”\n\nShe quickly turns the phone forward and starts jogging toward the station.\n\n04–08s — THE STATION\n\nHandheld camera follows her from behind and slightly beside her as she rushes down the station stairs.\n\nHer messy brown bun and beige jacket remain clearly recognizable.\n\nShe reaches the ticket gate, taps her transit card and quickly passes through.\n\nThe phone camera shakes naturally from her movement and briefly loses autofocus.\n\n08–12s — MADE IT\n\nShe reaches the platform just as the train arrives.\n\nThe camera captures the approaching train headlights before returning to her face.\n\nShe steps inside, turns the phone toward herself and smiles while catching her breath.\n\nShe says:\n\n“I actually made it!”\n\nThe train doors close behind her.\n\n12–15s — TOKYO THROUGH THE WINDOW\n\nInside the train, she turns the phone toward the window.\n\nTokyo's illuminated buildings and streets naturally blur past as the train accelerates.\n\nHer face appears softly reflected in the glass.\n\nShe looks toward the city and quietly says:\n\n“Okay… Tokyo at night hits different.”\n\nNatural cut.\n\nREALISM & CHARACTER CONSISTENCY\n\nSame attached girl in every shot. No character changes.\n\nMaintain the exact:\n\nFacial identity\n\nBrown eyes\n\nDark brown messy high bun\n\nLoose face-framing hair strands\nSkin tone\nFacial proportions\nCream knit top\nBeige jacket\nCharcoal trousers\nWhite sneakers\nSilver earrings\nWristwatch\nNatural skin texture, realistic hair strands, authentic blinking, subtle facial expressions and believable body movement.\nNo outfit changes, no hairstyle changes, no different woman, no face morphing, no beauty-filter effect.\n\nVISUAL STYLE\nAuthentic handheld smartphone footage rather than a polished movie.\n\nNatural motion blur, autofocus hunting, slight exposure shifts, realistic low-light phone noise, imperfect framing, natural Tokyo crowds and physically accurate movement.\n\nNo cinematic transitions, no fantasy effects, no exaggerated neon, no artificial-looking skin, no duplicated people, no impossible camera movement.\n\nAUDIO\nNatural Tokyo ambience, footsteps, station announcements, crowd noise, train brakes, door chime and her real voice.\n\nNo background music, no subtitles, no watermark."
+    },
+    {
+      "slug": "video-prompt-case-929579-929579",
+      "title": {
+        "en": "以上是关于近期网友较多留言的回复，有问题可以在这里提问，我将尽量予以回答，我也会在合适的时间在经过认真论证后开源我的系统和工作流。",
+        "zh": "以上是关于近期网友较多留言的回复，有问题可以在这里提问，我将尽量予以回答，我也会在合适的时间在经过认真论证后开源我的系统和工作流。"
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 gameplay prompt with attached video evidence from @PixelAigc.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3游戏画面提示词。"
+      },
+      "category": "gameplay",
+      "mode": "text-to-video",
+      "duration": "31s",
+      "aspectRatio": "9:5",
+      "ingredients": [
+        "text-prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@PixelAigc",
+        "url": "https://x.com/PixelAigc/status/2093563293306929579"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/PixelAigc/status/2093563300328141192"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-929579-929579/video-1bbe0f98e178.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-929579-929579/poster-57b0a0b9f12c.jpg",
+      "prompt": "一、整体基础设定\n\n生成一支30秒、英式复古写实电影质感、原生同步英文对白的古典剧情短片。\n画幅为宽银幕20:9，胶片写实电影摄影，24fps纯正电影观感，轻微细腻35mm复古胶片颗粒，无数码锐化感。\n故事发生在19世纪中期英国庄园书房，古典深木色精装墙面、复古雕花实木书柜、老旧皮质单人沙发、窗边垂落的暗丝绒窗帘。傍晚温柔暖调自然光从侧窗斜向切入，光线柔和朦胧，带轻微光影层次。\n整体色调极致克制高级，以深胡桃木棕、墨绿、米白、低饱和暗金为主，复古暗沉油画质感，画面干净厚重。全程规避所有现代物品、电子设备、现代装修风格与商业质感，纯古典英伦庄园氛围。\n整体表演摒弃戏剧化夸张演绎，全程依靠人物眼神微动、面部肌肉变化、呼吸节奏、细微肢体张力推进情绪，用克制的爆发力呈现底层灵魂的倔强与平等的呐喊。\n\n二、故事内核&表演基调\n\n核心冲突：身份卑微的家庭教师女主角，面对贵族主人的身份试探与阶级碾压，压抑情绪彻底爆发，挣脱身份桎梏、呐喊灵魂平等、人格对等的核心信念。\n表演基调：内敛、倔强、隐忍又充满力量，无嘶吼、无大哭、无夸张肢体。情绪层次：隐忍拘谨→内心震颤→坚定反驳→情绪破防→温柔却决绝的灵魂告白，全程靠微表情和声线层次递进，安静却极具冲击力。\n\n三、人物一致性\n\n女主角\n\n20岁左右英国年轻女性，身形清瘦单薄、体态挺直不佝偻，自带倔强清冷气质。浅棕色中短发整齐利落，发丝柔软朴素，无精致造型；皮肤白皙通透，保留原生细腻皮肤纹理，无磨皮美颜，眉眼干净清澈，眼神坚定有韧劲。\n身着19世纪英式朴素女佣高领素色米白长裙，剪裁简约无装饰、干净素雅，面料轻薄垂坠。\n声线：清澈温柔的青年女中音，音色干净柔和，情绪从拘谨平稳逐渐变得坚定有力，尾段带着隐忍的哽咽，温柔却极具穿透力。\n\n男主角\n\n40岁左右英国贵族男性，身形挺拔高大、骨架宽阔，气质沉稳阴郁、自带沧桑疏离感。深棕色微卷短发，鬓角略带成熟质感，面部轮廓硬朗，眉眼深邃，额头沉稳，自带上位者的压迫感，眼神深沉内敛。\n身着19世纪英伦复古深色丝绒西装马甲、白色复古立领衬衫，穿搭庄重华贵，贵族质感十足。\n声线：低沉磁性的醇厚男低音，语气从从容试探、带着阶级优越感的淡然，逐渐转为错愕、收敛锋芒、温柔动容。\n\n全局人物约束\n\n两人全程保持面孔、年龄、发型、服装、神态、身形完全一致，无面部漂移、五官变形、妆容变化、服装穿帮、年龄波动。无任何现实演员、公众人物五官特征。\n严格遵守180度镜头轴线：男主角位于画面左侧，女主角位于画面右侧，两人面对面站立，间距一米左右，视线精准对接，全程站位固定无错乱、无互换位置。\n\n四、分镜头时序模块\n\n【镜头一｜0.0—6.5秒】\n\n85mm人像镜头，男主角胸部以上近景，三分之二侧脸朝向画面右侧的女主角。背景虚化深木色书柜与丝绒窗帘，极浅景深，突出人物面部情绪。\n摄影机近乎完全固定，仅保留极其细微的电影手持呼吸感，无任何推进、晃动、环绕、升降运镜。\n0.0—3.0秒：男主角姿态松弛淡然，眉眼微垂，眼神带着上位者的从容与试探，眉心舒展，嘴唇轻抿，下颌放松，语气慵懒疏离，带着轻微的阶级俯视感。\n3.0—6.5秒：说话间眼神微微抬升，紧盯对面的女主角，眼睑轻微收紧，面部神态依旧沉稳，无大幅情绪波动，语气平淡笃定。\n表情辅助：AU2眉部放松、AU12嘴角轻微放平、AU48眼部平视聚焦\n男主角语速平缓、语气淡然试探：\n“Do you think, because I am poor, obscure, plain, and little, I am soulless and heartless?”\n台词节奏均匀，尾音轻微拉长，自带贵族沉稳气场。\n本镜头结束后硬切转场，无淡入淡出、无转场特效。\n\n【镜头二｜6.5—18.0秒】\n\n硬切至女主角越肩近景，男主角的肩膀与轮廓作为模糊前景，占据画面左下角六分之一。女主角居于画面绝对中心，胸部以上构图，背景虚化窗边光影与书柜，画面干净聚焦。\n摄影机全程固定机位，仅有几乎无法察觉的细微呼吸晃动，无任何动态运镜。\n6.5—10.0秒：女主角身体微微挺直，肩背收紧，原本柔和的眉眼瞬间绷紧，眉心轻微聚拢，上眼睑抬起，双眼清亮坚定，直视对方，无丝毫闪躲。嘴唇轻闭，呼吸轻微加快，隐忍的情绪开始积蓄。\n表情辅助：AU4眉心微蹙、AU5眼睑抬起、AU23嘴唇收紧\n10.0—14.0秒：情绪逐步上扬，眼神更加锐利澄澈，面部无愤怒狰狞，只有倔强与坦荡。下颌轻轻咬紧，颈部线条绷紧，身体无晃动，仅气场彻底打开。声线从温柔变得清亮有力，字字铿锵。\n14.0—18.0秒：彻底挣脱自卑桎梏，眼神坦荡明亮，眉眼舒展却依旧坚定，积压的情绪尽数释放，语气决绝又赤诚。\n女主角语速平稳、坚定有力，无急促嘶吼：\n“You think wrong! I have as much soul as you—and full as much heart!”\n重读“soul”“heart”两个单词，语气掷地有声，温柔却不卑微。\n本镜头保持神态定格，精准卡点台词结束瞬间硬切。\n\n【镜头三｜18.0—26.0秒】\n\n硬切回男主角同角度近景，焦段、光线、构图、机位与镜头一完全统一，画面衔接丝滑。\n女主角画外音持续输出，声音来自画面右侧，清晰通透。\n18.0—21.0秒：男主角瞬间错愕，原本松弛的眉心骤然收紧，双眼微微睁大，眼底的从容与优越感瞬间消散，出现明显震动与意外，嘴唇微张，欲言又止。\n21.0—24.0秒：上位者的压迫感彻底褪去，眼神变得深沉柔和，眼睑放松，下颌收紧，沉默倾听，面部神态从试探转为动容、愧疚与惊艳。\n24.0—26.0秒：气息放缓，目光牢牢锁定前方，眼底满是复杂情绪：震撼、怜惜、认同，彻底放下阶级偏见。\n女主角画外音，声线温柔却无比坚定，情绪层层递进：\n“If God had gifted me with some beauty and much wealth, I should have made it as hard for you to leave me.”\n\n【镜头四｜26.0—30.0秒】\n\n硬切至女主角面部极近特写，聚焦眉眼与面部神态，比前序镜头更贴近面部，极致放大情绪细节。\n26.0—28.0秒：女主角眼眶轻微泛红，眼底蓄满细碎水光，无夸张流泪，睫毛微颤，呼吸轻柔急促，带着隐忍的委屈与赤诚的渴望。嘴角微微放平，眼神柔软却依旧倔强。\n28.0—30.0秒：情绪落定，眼神澄澈坦荡，眉眼温柔，语气平缓治愈，完成灵魂平等的终极告白。\n女主角带着温柔哽咽、无比真诚的语气收尾：\n“as it is now for me to leave you.”\n台词结束后，定格女主角含泪坚定的面部神态0.3秒，直接黑屏收尾，无淡出、无残留画面。\n\n五、声音设计\n\n1. 原生精准英文对白生成，双人声线辨识度极高，口型与每一个英文音节100%精准同步，无口型错位、无延迟偏差。\n2. 男主角人声：低沉醇厚男低音，情绪曲线：从容试探→错愕震动→温柔动容，声线全程沉稳，无尖锐、无浮夸。\n3. 女主角人声：清澈治愈女中音，情绪曲线：温柔拘谨→坚定倔强→赤诚坦荡→隐忍温柔，层次细腻完整，强弱有度，无全程大喊大叫。\n4. 保留真实人声细节：细微换气声、轻柔呼吸、尾音轻微颤音、隐忍哽咽，不降噪、不抹平真实人声质感。\n5. 环境音：仅保留极其轻微的窗外晚风簌簌声、书房安静空气底噪、细微窗帘飘动声，极致安静空灵。\n6. 全程无背景音乐、无配乐、无旁白、无额外音效、无人声混响过度，纯人声+轻环境音，凸显台词力量。\n\n六、影像限制（强制规避BUG）\n\n禁止字幕、禁止任何文字、禁止水印、禁止LOGO、禁止任何现代元素。\n禁止第三人入镜、禁止场景切换、禁止光线色调突变、禁止人物服装/发型/神态中途变化。\n禁止面部漂移、五官扭曲、眼神涣散、目光错位、嘴唇粘连、牙齿畸形、虚假过度流泪。\n禁止美颜磨皮、过度曝光、高饱和色彩、广告质感灯光、舞台戏剧打光。\n禁止夸张肢体动作、挥手、摇头、身体晃动、嘶吼尖叫、慢动作、环绕运镜、快速推拉镜头。\n禁止人物体型畸变、比例失调、穿模、画面CG感，全程保持真人写实电影质感。\n\n七、核心主旨重申\n\n本片核心魅力不在于镜头炫技，而在于极致细腻的微表情情绪递进。通过双人眼神博弈、声线层次变化、细微神态张力，演绎跨越阶级的灵魂平等，画面安静克制、情绪厚重有力量，贴合原著温柔又倔强的内核。"
+    },
+    {
+      "slug": "mv-one-scene-long-take-low-angle-shot-background-floor-516749",
+      "title": {
+        "en": "MV. One-scene long take. Low-angle shot. [Background / Floor] Create a gigantic",
+        "zh": "MV. One-scene long take. Low-angle shot. [Background / Floor] Create a gigantic"
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @h64g_.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+      },
+      "category": "music-video",
+      "mode": "text-to-video",
+      "duration": "76s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "text-prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@h64g_",
+        "url": "https://x.com/h64g_/status/2092307579221516749"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/h64g_/status/2092307756716113945"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/mv-one-scene-long-take-low-angle-shot-background-floor-516749/video-e0e60b415b8c.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/mv-one-scene-long-take-low-angle-shot-background-floor-516749/poster-667c052159d2.jpg",
+      "prompt": "MV. One-scene long take. Low-angle shot.\n\n[Background / Floor] Create a gigantic background surface spanning the entire area immediately behind the performers, extending horizontally across the frame. Project video across the entire background surface with a projector. Do not show any outer boundary, frame, or edge of the projection surface. Do not show a wide expanse of floor or any stage depth behind the performers. The floor beneath their feet is finished in glossy black mirror-like material. The projected background imagery and the white lyric light are clearly reflected on the floor.\n\n[Lyric Direction] Display the white lyrics one phrase at a time, very large across the entire background. Use intense lyric motion similar to aggressive motion graphics. Do not show a large amount of text at once. Do not alter, add, duplicate, or omit any of the specified text. Use a two-stage reveal: first display only the outlines of the letters, then fill in the interiors. Frequently use glitch effects, chromatic aberration, sudden scaling, abrupt stops, position shifts, brief flashing, rotation, and distortion, with strong variations in speed and intensity.\n\n[Lighting] Do not use bright frontal lighting. Use the projector imagery and the projected white lyric light as the primary light sources. The projected imagery and light must clearly illuminate the performers’ bodies and faces.\n\n[Performer Action] Move their mouths in sync with the song.\n\n[Negative] Do not make it look like a live concert stage or a children’s recital/performance.\n\n[Lyrics] Display the lyrics in English.\n\n\"If they are broadleaf trees, they wither and fall for sure.\nIn the chilled autumn, no matter how you resist, it’s useless.\""
+    },
+    {
+      "slug": "made-in-with-on-053234",
+      "title": {
+        "en": "Made in with on",
+        "zh": "Made in with on"
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @AllaAisling.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+      },
+      "category": "music-video",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "text-prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@AllaAisling",
+        "url": "https://x.com/AllaAisling/status/2091617234930053234"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/AllaAisling/status/2091617327368360348"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/made-in-with-on-053234/video-c27e75822678.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/made-in-with-on-053234/poster-68f6dcd81898.jpg",
+      "prompt": "Image 1:\nFuturistic racing game HUD interface, premium cyber racing design, transparent glass panels, holographic speedometer, position ranking display, energy boost meter, sharp aerodynamic graphics, glowing route map, futuristic typography, clean competitive esports style interface, high-tech minimal design, AAA racing game quality, 16:9."
+    },
+    {
+      "slug": "character-board-animation-bottom-video-character-intro-animation-top-vid-865400",
+      "title": {
+        "en": "Character Board Animation (Bottom Video) & Character Intro Animation (Top Video)",
+        "zh": "Character Board Animation (Bottom Video) & Character Intro Animation (Top Video)"
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 fashion prompt with attached video evidence from @aimikoda.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3时尚提示词。"
+      },
+      "category": "fashion",
+      "mode": "reference-to-video",
+      "duration": "15s",
+      "aspectRatio": "1023:1150",
+      "ingredients": [
+        "text-prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@aimikoda",
+        "url": "https://x.com/aimikoda/status/2091280502086865400"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/aimikoda/status/2091281357213254024"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/character-board-animation-bottom-video-character-intro-animation-top-vid-865400/video-a9048f3cc023.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/character-board-animation-bottom-video-character-intro-animation-top-vid-865400/poster-8649b607f5a1.jpg",
+      "prompt": "Use the reference image as the sole source for the character’s identity, design, facial features, hair, proportions, outfit, color language, and illustration style.\n\nCreate a clean 16:9 artistic character introduction board with an editorial artbook aesthetic. Keep the layout fixed and keep every section in a stable position.\n\nLayout structure:\n- Left 40%: one large stylish waist-up portrait pose of the character.\n- Upper-right area: 3 full-body character pose panels arranged horizontally in a single row.\n- Lower-right area: 3 cinematic environment panels arranged horizontally in a single row directly below the full-body poses.\n- Bottom full-width strip: one horizontal color palette derived directly from the reference character.\n\nUse a single solid off-white background across the entire board. Keep the outer canvas clean and uniform with no gradients, textures, scenery, decorative background patterns, or color blocks behind the layout.\n\nDo not rearrange, resize, swap, or reinterpret these sections. The large portrait must stay on the left. The 3 full-body poses must stay in the upper-right row. The 3 environment panels must stay in the lower-right row. The color palette must stay along the bottom.\n\nThe 3 full-body pose panels must clearly show the character’s full silhouette, outfit, and personality through different poses.\n\nThe 3 environment panels must also include the character, shown in different natural settings and under different lighting conditions. Give the character a different natural pose in each environment, interacting believably with the space through actions such as walking, sitting, leaning, resting, looking out, or casually occupying the scene. Avoid repeated standing poses.\n\nChoose environments, poses, lighting, and visual accents that naturally fit the character’s design and personality. Carry the character-derived color palette throughout the board.\n\nKeep strong character consistency across all panels. Minimal or no typography, subtle framing lines, elegant spacing, polished concept-art presentation. No redesign, no unrelated elements, no watermark.\n\n---\nBottom Video\nMiniMax H3 Prompt for Board Animation:\n\nUse the provided character board @[board reference] as the sole visual source. Animate the existing static board itself while preserving the exact 16:9 composition, panel positions, character design, illustration style, color palette, and solid off-white background.\n\nKeep the camera completely static for the entire video. No zoom, pan, tilt, reframing, parallax, or camera movement of any kind. The board itself must remain perfectly locked in place.\n\nThe large waist-up portrait on the left is the main animated focal point. Let the character naturally change pose within the existing portrait area: subtle head turns, gaze changes, shoulder and upper-body shifts, small hand or arm movements when visible, expression changes, blinking, breathing, and gentle hair and clothing motion. Avoid repeating a single idle loop. Make it feel like a short sequence of natural portrait poses.\n\nThe 3 full-body characters in the upper-right must remain in their exact panel positions and each perform a smooth full 360-degree turn in place, like a character turntable. Preserve their original proportions, outfit, identity, and panel boundaries.\n\nThe 3 environment panels in the lower-right must remain fixed inside their frames. Animate each scene subtly and differently, preserving its original setting and lighting. Let the character perform small natural actions appropriate to the environment, such as walking a few steps, shifting posture, sitting naturally, leaning, looking around, or reacting gently to the surroundings. Add restrained environmental motion such as rain, wind, moving clouds, reflections, foliage, drifting particles, or subtle lighting changes where appropriate.\n\nKeep the bottom color palette completely static. Keep the solid off-white board background unchanged. Do not rearrange panels, expand scenes beyond their frames, add new elements, duplicate characters, redesign the character, or alter the layout. The result should feel like a polished animated artbook character board.\n\n---\n\nTop Video\nMiniMax H3 Prompt for Character animation:\n\nUse the provided character board @[board reference] as the sole visual reference for character identity, design, facial features, hair, proportions, outfit, colors, environments, and illustration style. Use it as reference only. Do not animate the board itself.\n\nCreate a short cinematic character introduction where the character comes to life through a sequence of polished animated shots inspired by the board’s content. Begin with the large waist-up portrait as a living shot, then move into the 3 full-body poses as brief character-focused moments, then transition into the 3 environment scenes as cinematic shots where the character naturally exists in those spaces. End on a clean composed hero shot of the character.\n\nLet the character be the animated focus in every shot. Use natural motion such as blinking, breathing, gaze shifts, head turns, subtle pose changes, small gestures, gentle hair and clothing motion, walking, sitting, leaning, resting, or looking out depending on the scene. The 3 full-body moments should clearly show the character’s silhouette, outfit, and attitude. The 3 environment moments should show the character in different natural settings, different lighting conditions, and different natural poses that fit each location.\n\nUse elegant cinematic camera movement, smooth transitions, and refined artbook-inspired presentation. Preserve strong character consistency and the board’s color language throughout. Minimal typography, atmospheric, polished, artistic, no redesign, no watermark."
+    },
+    {
+      "slug": "video-prompt-case-483549-483549",
+      "title": {
+        "en": "镜头慢慢推进，镜头慢慢环绕，最后定格在这个仙人人物的身上，云雾快速翻腾，人物衣服随风飘扬。",
+        "zh": "镜头慢慢推进，镜头慢慢环绕，最后定格在这个仙人人物的身上，云雾快速翻腾，人物衣服随风飘扬。"
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @PixelAigc.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+      },
+      "category": "cinematic-story",
+      "mode": "text-to-video",
+      "duration": "7s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "text-prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@PixelAigc",
+        "url": "https://x.com/PixelAigc/status/2090985277653483549"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/PixelAigc/status/2090985280685957130"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-483549-483549/video-28302ff344a0.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-483549-483549/poster-5240802e644a.jpg",
+      "prompt": "Picture Prompt in MJ\n\n实景搭建的宏大东方宫殿群，【第一层:近景实体遮挡】，巧妙利用粗粝厚重的青石、苍松或天然岩石作强烈的近景物理遮挡。【第二层:中景压迫红墙与贴地人物】，高大巍峨的官式朱红宫墙呈实体压迫感向上延伸（表面仅接受自然光，绝无自发光或霓虹感），宫墙下方坚实厚重的青石露台上，身着汉服女子双脚稳稳贴地、伴随真实接触阴影，微小如豆但衣褶清晰。【穿层雾气与空间透视】，真实的物理云雾与山岚在近、中、远三层空间之间穿梭流淌，彻底割开画面层次。【第三层:远景极限纵深】，无尽云海与远山因大气透视自然淡化。自然阳光从真实太阳方位均匀洒落，实体质感达照片级写实。80 年代香港武侠片实体布景美学，胶片颗粒细腻，暖调偏色，严禁数字平滑感、荧光色、霓虹光、体积光、光束特效、3D 渲染感、文字、水印。"
+    },
+    {
+      "slug": "created-with-hailuo-h3-182619",
+      "title": {
+        "en": "Created with Hailuo H3.",
+        "zh": "Created with Hailuo H3."
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 title sequence prompt with attached video evidence from @CharaspowerAI.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3视频提示词。"
+      },
+      "category": "title-sequence",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "text-prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@CharaspowerAI",
+        "url": "https://x.com/CharaspowerAI/status/2090740724803182619"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/CharaspowerAI/status/2090740724803182619"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-hailuo-h3-182619/video-75c2c914df29.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-hailuo-h3-182619/poster-fdfc758d64c8.jpg",
+      "prompt": "Ultra cinematic title sequence: A colossal glacier fractures across an endless frozen ocean. Deep blue cracks spread for miles beneath translucent ice before the entire shelf collapses. Mountains of ice are launched into the sky, suspended in breathtaking slow motion. Every crystal catches the sunlight while frozen debris rotates around the camera. The crystalline storm assembles the word \"EXTINCTION\", carved from pure glacial ice with intricate frozen textures. Hairline fractures slowly spread through every letter until the title violently shatters into millions of glittering ice fragments. Photorealistic ice simulation, IMAX-scale environmental VFX."
+    },
+    {
+      "slug": "made-with-minimax-hailuo-h3-on-983412",
+      "title": {
+        "en": "Made with MiniMax Hailuo H3 on",
+        "zh": "Made with MiniMax Hailuo H3 on"
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 action prompt with attached video evidence from @bmx_ai13.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动作提示词。"
+      },
+      "category": "action",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "159:91",
+      "ingredients": [
+        "text-prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@bmx_ai13",
+        "url": "https://x.com/bmx_ai13/status/2090519106432983412"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/bmx_ai13/status/2090519106432983412"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-hailuo-h3-on-983412/video-a9a9b0b8303f.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-hailuo-h3-on-983412/poster-ede9fb8434d3.jpg",
+      "prompt": "Create a fifteen second dialogue driven cinematic emotional scene at a quiet bus stop at night. Light rain falls under soft streetlights, creating an intimate and melancholic atmosphere. The acting should feel natural and restrained, with accurate lip sync and no overlapping dialogue. Characters: A is the boyfriend, age twenty five. He is trying to hide how deeply he is hurting. B is the girlfriend, age twenty four. She is emotional but composed, trying to hold herself together.\nFirst five seconds: B stands at the bus stop holding a small travel bag. Rain falls softly around them. A looks at her with watery eyes, trying not to break. A says softly “So… this is really goodbye?” B lowers her eyes. She struggles to find the words and takes a quiet breath before answering. B says “If I stay, I’ll keep choosing you over myself.” Seconds five to eleven A forces a small smile. His expression tries to hide the pain, but his voice begins to break. A says “Then go… I just wish loving me didn’t cost you so much.” B looks at him as her eyes slowly fill with tears. She takes one small step closer. Seconds eleven to fifteen B gently raises her hand and touches his cheek. B says quietly “You were never the mistake.” A closes his eyes. A single tear rolls down his cheek as he leans slightly into her touch. The bus arrives behind B, its headlights glowing through the rain. Neither of them moves. Use intimate close ups with subtle handheld camera movement. Hold on their eye contact and small facial reactions. Show trembling lips, restrained tears, realistic breathing, natural pauses, and quiet hesitation.\n\nLet facial expressions communicate as much emotion as the dialogue. Use cinematic night lighting, wet street reflections, shallow depth of field, and soft background bokeh. Keep both characters visually consistent throughout the scene and make every emotional reaction feel natural, subtle, and believable."
+    },
+    {
+      "slug": "get-unlimited-on-runway-974704",
+      "title": {
+        "en": "Get unlimited on Runway",
+        "zh": "Get unlimited on Runway"
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 fashion prompt with attached video evidence from @whorange__.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3时尚提示词。"
+      },
+      "category": "fashion",
+      "mode": "reference-to-video",
+      "duration": "27s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "text-prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@whorange__",
+        "url": "https://x.com/whorange__/status/2090392284516974704"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/whorange__/status/2090392289206239415"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/get-unlimited-on-runway-974704/video-d33b402d089d.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/get-unlimited-on-runway-974704/poster-f3361d4084ff.jpg",
+      "prompt": "Prompt 1\n\n使用 @Image1 作为环境参考，使用 @Image2 作为女性战士参考，使用 @Image3 作为巨鸟敌人参考。严格保留参考图中的视觉设定：@Image1 用于表现一片浅水覆盖、布满巨大断裂石柱的遗迹世界，以及带有倒影的水面；@Image2 用于表现这位二次元女性战士的准确角色设计，包括超长编发、服装、配色、绑带、靴子和巨大的刀刃；@Image3 用于表现巨型白色鸟类敌人的准确外形，包括暴露出的彩色内部骨骼结构、细长锋利的喙和发光的眼睛。整体保持干净的二维动漫插画风格，细致有表现力的线稿，赛璐璐上色，浅色背景，以及鲜明的珊瑚橙—青蓝色调。\n\n制作一个15秒高强度动漫战斗场景。女性战士站在遗迹浅水区的反光水面中。巨鸟突然猛冲向前，用长喙凶狠刺击。她在最后一刻侧身闪避，水花猛烈炸开，巨鸟的喙重重砸入水面。她立刻沿着水面高速冲刺，跳上巨鸟的喙，在上面奔跑后高高跃起，挥动巨大的刀刃斩向巨鸟头部。巨鸟抬起装甲般的翅膀进行格挡，产生强烈的动漫冲击爆发效果，伴随羽毛、水花和速度线。战士在空中翻身落到巨鸟身后，落入水中后再次突进。巨鸟巨翼横扫湖面；她俯身滑行，从攻击下方穿过，并以一记向上的反击斩回应。动作要快速、流畅、凶猛，战斗编排紧凑，头发与布料具有强烈动感，大量水花飞溅、羽毛纷飞，冲击帧强烈，无对白，无慢动作，无空档时间，角色设计前后一致。\n\nPrompt 2\n使用 @Video1 作为主要参考，用于保持剧情延续性、动画风格、战斗节奏，以及第一支视频结尾时双方的位置关系。同时使用 @Image1 作为环境参考，@Image2 作为女性战士参考，@Image3 作为巨鸟参考。画面必须从 @Video1 的结尾直接衔接，不能重新开始。保留 @Image1 中相同的浅水遗迹世界，保留 @Image2 中相同的女性战士造型与武器，保留 @Image3 中相同的巨鸟怪物设计。整体保持干净的手绘二维动漫风格，锐利线稿，赛璐璐上色，浅色背景，以及鲜明的珊瑚橙—青蓝色调。\n\n制作一个15秒动漫战斗续篇。在上一轮碰撞之后，巨鸟发动更猛烈的进攻，一边在浅水中高速冲锋，一边连续多次用长喙向前突刺。女性战士快速闪避，并在断裂石柱之间跳跃穿梭，巨鸟在她身后不断撞碎遗迹。她突然转身，径直朝巨鸟冲去，踩上正在下刺的鸟喙，借力高高跃入空中。巨鸟张开双翼，紧追而上。双方在空中正面碰撞：她使出一记强力下劈，巨鸟则用装甲翅膀格挡，爆发出巨大的动漫式冲击闪光与震荡波。随后双方一起坠向反光湖面。战士率先落地，在水面上滑行后立刻再次加速冲刺。巨鸟落在她对面，也在同一时刻发动冲锋。双方正面高速对冲，爆发出最终的刀刃对鸟喙的猛烈碰撞，冲击波沿水面呈圆形扩散，并震裂附近的石柱。结尾停在双方被冲击力弹开后，立刻重新摆出下一轮攻击姿态。整体战斗要极其流畅，具备高质量作画感（sakuga），动作衔接迅猛，包含拖影、速度线、大量水花与飞散羽毛，无对白，无慢动作，并严格保持 @Video1、@Image1、@Image2 和 @Image3 中的角色身份与比例一致。"
+    },
+    {
+      "slug": "created-with-unlimited-on-runway-347863",
+      "title": {
+        "en": "Created with Unlimited on Runway.",
+        "zh": "Created with Unlimited on Runway."
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 fashion prompt with attached video evidence from @alexgnewmedia.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3时尚提示词。"
+      },
+      "category": "fashion",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "text-prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@alexgnewmedia",
+        "url": "https://x.com/alexgnewmedia/status/2090161526380347863"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/alexgnewmedia/status/2090161526380347863"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-unlimited-on-runway-347863/video-3aea515ebb8e.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-unlimited-on-runway-347863/poster-897155ff4fc7.jpg",
+      "prompt": "A man puts on headphones while walking through a dull grey city. Beat begins. First kick: A streetlamp bends slightly. Second kick: All parked cars bounce simultaneously. Snare: Every window shutter snaps open. Bass: The asphalt physically ripples beneath him. Melody enters: Buildings begin stretching upward and downward like an architectural equalizer. Now EVERYTHING responds musically. Traffic lights dance between positions. Balconies slide rhythmically across façades. Road markings travel like musical waveforms. Trees pulse like dancing. Windows illuminate across entire buildings at the rhytm of the music. But the pedestrians behave completely normally, apparently unaware that the entire city has become a music visualizer. Then he removes the headphones. Instantly, half the street becomes normal. Puts it back.BOOM. The whole city hits the beat again."
+    },
+    {
+      "slug": "minimax-h3-comfyui-green-lantern-test-497677",
+      "title": {
+        "en": "Minimax H3 Comfyui Green Lantern Test...",
+        "zh": "Minimax H3 Comfyui Green Lantern Test..."
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @EndFolding79421.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+      },
+      "category": "music-video",
+      "mode": "reference-to-video",
+      "duration": "8s",
+      "aspectRatio": "40:23",
+      "ingredients": [
+        "text-prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@EndFolding79421",
+        "url": "https://x.com/EndFolding79421/status/2089840714016497677"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/EndFolding79421/status/2089840714016497677"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-comfyui-green-lantern-test-497677/video-9c9cc3f1ee4b.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-comfyui-green-lantern-test-497677/poster-b2ed00571cfc.jpg",
+      "prompt": "integrated_multimodal_description:\n\n<Image 1> is the CHARACTER APPEARANCE REFERENCE.\n\n<Image 0> background reference\n\nUse <Image 1> to preserve the man's exact facial identity, age, dark hair with gray temples, rugged stubble, body proportions, green-and-black tactical suit, illuminated chest emblem, and power-ring design.\n\nCRITICAL RIGHT-HAND CONTINUITY:\nThe power ring is worn ONLY on the man's anatomical RIGHT HAND throughout the entire video.\nNEVER place the ring on his left hand.\nDo not mirror or swap hands when the camera angle changes.\nHis LEFT HAND remains completely ringless throughout the entire sequence.\nEvery green energy projection originates directly from the ring on his RIGHT HAND.\n\nPhotorealistic live-action cinematic realism.\n\nEnvironment: vast isolated American desert-like prairie, dry golden grass, dusty earth, scattered low scrub, distant low hills, huge open sky. Warm late-afternoon sunlight. No buildings, vehicles, roads, or other people visible.\n\n[00:00–00:01.5]\n\nWide cinematic tracking shot.\n\nThe man from <Image 1> walks casually through the open landscape.\n\nHis arms swing naturally as he walks.\n\nHe suddenly notices something near his feet, slows, stops, and looks down.\n\nCamera subtly moves closer and tilts downward with his gaze.\n\n[00:01.5–00:02.5]\n\nCut to a low close shot near the ground.\n\nA small realistic BLACK SCORPION crawls slowly across the dusty ground approximately two feet in front of his boots.\n\nCut back to a medium shot as he looks down at it with mild curiosity rather than fear.\n\nHe raises his anatomical RIGHT HAND and points the ring toward the scorpion.\n\nHis left hand remains relaxed and completely ringless.\n\n[00:02.5–00:03.5]\n\nMedium close-up favoring his RIGHT hand.\n\nThe ring activates with concentrated emerald-green light.\n\nA narrow, clearly defined GREEN ENERGY BEAM shoots directly from the ring on his RIGHT HAND toward the scorpion.\n\nThe beam strikes the ground immediately around the scorpion.\n\nGlowing green construct lines rapidly form around it: bottom edges → four vertical corners → horizontal edges → top edges.\n\nWithin moments, these lines complete a small transparent emerald-green ENERGY CAGE surrounding the scorpion.\n\nThe scorpion remains unharmed and clearly visible inside.\n\nCRITICAL:\nFrom this moment until the END OF THE VIDEO, the green energy beam remains visibly and continuously connected from the ring on his RIGHT HAND directly to the green cage.\nThe beam NEVER disconnects, disappears, switches hands, or originates anywhere else.\n\n[00:03.5–00:05.0]\n\nLow close-up of the cage.\n\nStill connected to the continuous beam, the completed green construct cage gently rises from the dusty ground.\n\nThe scorpion remains standing on the glowing construct floor inside the cage.\n\nCamera tilts upward with it.\n\nThe cage floats smoothly to approximately chest height in front of the man.\n\nThe beam remains clearly visible between his RIGHT-HAND ring and the floating cage throughout the lift.\n\n[00:05.0–00:08.0]\n\nCut to a medium close-up framing the man's face, his extended RIGHT hand, and the floating cage.\n\nThe cage hovers roughly two feet in front of him at chest level.\n\nHis RIGHT arm remains comfortably extended toward it.\n\nThe glowing ring is clearly visible on his RIGHT HAND.\n\nThe continuous green beam remains visibly connected:\nRIGHT-HAND RING → GREEN BEAM → FLOATING CAGE.\n\nThe little black scorpion moves slightly inside the cage.\n\nThe man studies it for a moment, gives a small friendly amused smile, and speaks casually to the scorpion.\n\n(S1) <d>[EN]How you doing there, little fella?</d>\n\nHold briefly on his smile and the floating scorpion cage.\n\nThe cage remains stable.\nThe scorpion remains safely inside.\nThe beam remains connected through the FINAL FRAME.\n\nNo attack.\nNo explosion.\nNo additional constructs.\nNo additional characters.\n\noverall_soundscape:\n\nNatural open-land ambience with gentle dry wind moving through grass, subtle footsteps on dusty earth at the beginning, extremely faint scorpion movement during close shots, and a clean low emerald-energy hum when the ring activates.\n\nThe construct produces a subtle crystalline energy-building sound as the cage forms.\n\nOnce formed, the cage and continuous connecting beam produce a quiet sustained energy hum through the final frame.\n\n(S1)'s dialogue is natural, relaxed, friendly, and slightly amused.\n\nnon_diegetic_music:\n\nNone."
+    },
+    {
+      "slug": "start-and-end-images-in-minimax-h3-comfyui-785340",
+      "title": {
+        "en": "Start and End Images in Minimax H3 Comfyui...",
+        "zh": "Start and End Images in Minimax H3 Comfyui..."
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @EndFolding79421.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+      },
+      "category": "music-video",
+      "mode": "text-to-video",
+      "duration": "8s",
+      "aspectRatio": "43:24",
+      "ingredients": [
+        "text-prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@EndFolding79421",
+        "url": "https://x.com/EndFolding79421/status/2088060516027785340"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/EndFolding79421/status/2088060516027785340"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/start-and-end-images-in-minimax-h3-comfyui-785340/video-d016e64099a7.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/start-and-end-images-in-minimax-h3-comfyui-785340/poster-abed914d045b.jpg",
+      "prompt": "<Picture 1> is the EXACT first frame of the video.\n\nPreserve the woman, her face, blonde hair, cream knit outfit, white boots, seated pose, brown leather seat, modern luxury high-speed train interior, panoramic windows, camera position, warm interior sunlight, and overall photorealistic cinematic appearance established by <Picture 1>.\n\nno music\n\nintegrated_multimodal_description:\n\n[Visual Anchor]\nA photorealistic cinematic 8-second sequence inside a modern luxury high-speed train. The woman remains seated comfortably beside the panoramic windows while the train continuously moves forward at normal high-speed rail velocity.\n\nONLY THE WORLD OUTSIDE THE TRAIN travels backward through history.\n\nThe train interior NEVER changes.\nThe woman NEVER changes.\nHer clothing NEVER changes.\nThe windows NEVER change.\nThe train NEVER changes into an older vehicle.\n\nThe woman remains in normal real-time throughout, calmly enjoying the impossible scenery. She breathes naturally, occasionally blinks, subtly follows the landscape with her eyes, and gives a faint knowing smile. She is never frightened, startled, confused, or alarmed. She behaves as though she already knew this would happen.\n\nThe historical effect uses a repeating rhythm:\n\nSTABLE ERA → RAPID BACKWARD TIME-LAPSE TRANSFORMATION → STABLE ERA → RAPID BACKWARD TIME-LAPSE TRANSFORMATION.\n\nDuring each stable era, the exterior world moves and behaves at NORMAL REAL-TIME SPEED while the train continues traveling through it.\n\nDuring each transition, ONLY the exterior environment rapidly rewinds through time.\n\n[00:00.000–00:01.000 — PRESENT DAY]\n\nBegin EXACTLY from <Picture 1>.\n\nThe modern train moves naturally forward through the cold snowy alpine landscape.\n\nStrong realistic parallax is visible outside: nearby snow-covered terrain moves quickly past the windows while the distant mountains move more slowly.\n\nThe woman quietly watches the scenery.\n\nNatural breathing.\nOne subtle blink.\nSmall relaxed eye movement.\n\nThe snowy mountain landscape remains stable long enough for the viewer to recognize the present-day setting.\n\n[00:01.000–00:01.500 — FIRST TIME REWIND]\n\nThe ENTIRE exterior world suddenly begins rapidly traveling backward through time like an accelerated environmental time-lapse.\n\nThere is NO camera cut.\n\nSnow rapidly retreats across the entire landscape.\n\nFrozen ground becomes exposed earth.\n\nGrass spreads rapidly.\n\nTrees and vegetation appear and grow across the mountains and valleys.\n\nThe cold white alpine environment smoothly transforms into a lush green temperate landscape.\n\nThe transformation happens across ALL visible windows simultaneously.\n\nThe woman and modern train remain completely unchanged and continue moving in normal real-time.\n\n[00:01.500–00:02.500 — LUSH GREEN LAND]\n\nThe time-lapse transformation STOPS.\n\nThe exterior is now a rich green countryside.\n\nForests, grassy hills, streams, wild vegetation, and distant mountains move naturally past the train.\n\nEverything outside now behaves at normal real-time speed.\n\nLeaves move in the wind.\nWater flows naturally.\nThe train continues traveling forward.\n\nThe woman calmly watches and gives a very slight peaceful smile.\n\n[00:02.500–00:03.000 — SECOND TIME REWIND]\n\nThe exterior world rapidly rewinds again.\n\nThe green countryside transforms through accelerated historical change.\n\nRoads appear as dirt tracks.\n\nOld fences develop.\n\nBuildings rapidly emerge into 19th-century construction.\n\nThe entire landscape transitions smoothly into the 1800s.\n\nNo cut.\n\n[00:03.000–00:04.100 — 1800s]\n\nThe transformation STOPS.\n\nThe train now passes through a living 19th-century town and countryside.\n\nThe exterior operates at NORMAL SPEED.\n\nHorse-drawn carriages travel along dirt streets.\n\nHorses walk and trot naturally.\n\nPeople wearing 1800s clothing move along sidewalks and streets.\n\nOld masonry and timber buildings, storefronts, chimneys, wooden fences, wagons, and period street activity pass naturally outside.\n\nNO modern vehicles.\nNO modern signs.\nNO modern technology outside.\n\nThe train continues moving rapidly through the historical environment.\n\nThe woman remains relaxed and simply watches.\n\n[00:04.100–00:04.600 — THIRD TIME REWIND]\n\nHistory rapidly rewinds again.\n\nThe 1800s town begins disappearing through a smooth accelerated time-lapse.\n\nBuildings regress and vanish.\n\nRoads deteriorate into ancient tracks.\n\nModern-style structures disappear completely.\n\nThe landscape rapidly transforms into the ancient Roman era.\n\nThe transformation occurs across the ENTIRE exterior view simultaneously.\n\n[00:04.600–00:05.800 — ROMAN ERA]\n\nThe transformation STOPS.\n\nThe train now passes beside a large ancient battlefield.\n\nEverything outside moves at NORMAL REAL-TIME SPEED.\n\nRoman soldiers in historically inspired armor fight opposing barbarian warriors across an open field.\n\nSoldiers run.\nShields collide.\nSpears move.\nBanners flap in the wind.\nHorses cross portions of the battlefield.\nDust rises beneath their feet.\n\nThe battle remains at a believable distance from the train and remains entirely outside.\n\nNo soldier notices the train.\nNo soldier approaches the windows.\nNo one interacts with the woman.\n\nThe woman watches the battle calmly.\n\nShe gives a small blink and remains completely composed, as though this is expected.\n\n[00:05.800–00:06.300 — MASSIVE TIME REWIND]\n\nThe exterior suddenly accelerates backward across an enormous span of history.\n\nThe Roman soldiers rapidly disappear.\n\nBattlefield activity vanishes.\n\nRoads disappear.\n\nStructures disappear.\n\nHuman civilization disappears completely.\n\nVegetation, terrain, climate, and geological features rapidly transform in a massive backward time-lapse spanning millions of years.\n\nThe modern train and woman remain completely unchanged.\n\n[00:06.300–00:08.000 — PREHISTORIC WORLD]\n\nThe transformation STOPS.\n\nThe train is now traveling through a vast untouched prehistoric landscape.\n\nEverything outside returns to NORMAL REAL-TIME SPEED.\n\nNo humans.\nNo cities.\nNo buildings.\nNo roads.\nNo modern objects.\n\nA broad primitive landscape stretches toward distant mountains with exposed earth, ancient vegetation, sparse forests, mist, and untouched wilderness.\n\nSeveral dinosaurs move naturally in the DISTANT landscape.\n\nA huge long-necked dinosaur slowly walks across the far background.\n\nSmaller dinosaurs move farther away among ancient vegetation.\n\nKeep the dinosaurs at believable distances.\n\nNO dinosaur approaches the train.\nNO dinosaur looks through the windows.\nNO dinosaur attacks.\n\nThe train continues traveling forward normally through this prehistoric world.\n\nThe woman quietly watches the dinosaurs.\n\nNear the final moment, she gives a subtle knowing smile.\n\nEnd while the train is still moving through the prehistoric landscape.\n\n[CRITICAL WINDOW CONTINUITY]\n\nALL panoramic train windows show ONE SINGLE CONTINUOUS EXTERIOR WORLD.\n\nThe windows must NOT behave like separate television screens.\n\nDo NOT place different eras in different window panes.\n\nDo NOT show snow in one window and green countryside in another.\n\nDo NOT show the 1800s in one window and Romans in another.\n\nDo NOT show Romans in one window and dinosaurs in another.\n\nWhenever time changes, the ENTIRE exterior environment visible through EVERY window changes together as one unified world.\n\nThe physical window frames remain normal structural parts of the train, but the exterior beyond them is one continuous landscape.\n\n[CAMERA]\n\nOne continuous interior shot for the full 8 seconds.\n\nMaintain approximately the camera composition established by <Picture 1>.\n\nNo cuts.\nNo exterior shots of the train.\nNo camera leaving the carriage.\n\nSubtle realistic train vibration.\n\nThe woman remains clearly visible in the foreground while the panoramic windows remain large enough for the audience to clearly read every historical era.\n\nStrong realistic exterior parallax continuously proves that the train is physically moving forward.\n\nDuring historical transitions, the camera itself does NOT speed up and the train does NOT accelerate.\n\nOnly history outside rewinds rapidly.\n\noverall_soundscape:\n\nContinuous subdued interior ambience of a modern high-speed train: low rail rumble, soft mechanical vibration, subtle air-conditioning, and muted rushing sound from outside.\n\nThe woman breathes softly and naturally.\n\nEach stable historical era contributes faint exterior ambience filtered realistically through the sealed train windows.\n\nPresent day: soft rushing alpine wind.\n\nGreen countryside: faint birds and natural countryside ambience.\n\n1800s: distant horse hooves, carriage wheels, and faint town activity.\n\nRoman era: distant muffled battle cries, shield impacts, horses, and battlefield movement.\n\nPrehistoric era: distant wind, low animal calls, and faint dinosaur vocalizations.\n\nExterior sounds remain subdued and muffled by the train's glass.\n\nNo dialogue.\n\nnon_diegetic_music:\nN/A\n```"
+    },
+    {
+      "slug": "created-with-minimax-h3-on-989121",
+      "title": {
+        "en": "Created with MiniMax H3 on .",
+        "zh": "Created with MiniMax H3 on ."
+      },
+      "description": {
+        "en": "A source-verified MiniMax H3 cinematic travel prompt with attached video evidence from @aiwithaly.",
+        "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3视频提示词。"
+      },
+      "category": "cinematic-travel",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "7:4",
+      "ingredients": [
+        "text-prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@aiwithaly",
+        "url": "https://x.com/aiwithaly/status/2087408671101989121"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/aiwithaly/status/2087408671101989121"
+      ],
+      "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-989121/video-da744e0dc652.webm",
+      "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-989121/poster-49af374a62a1.jpg",
+      "prompt": "A young Western artist sets up an easel in a peaceful city park and paints the skyline overlooking a lake. As the artwork comes to life, she compares the finished painting with the real view, holding the canvas in front of the skyline and smiling proudly. Ultra-photorealistic visuals, cinematic documentary style, realistic brush strokes, authentic hand movements, natural English dialogue, handheld camera movement, detailed cityscape, premium lighting, seamless continuity, and immersive outdoor ambience."
+    },
     {
       "slug": "i-made-a-comedy-special-with-hailuo-h3-and-the-076759",
       "title": {

@@ -1,0 +1,31 @@
+{
+  "slug": "made-with-minimax-hailuo-h3-on-983412",
+  "title": {
+    "en": "Made with MiniMax Hailuo H3 on",
+    "zh": "Made with MiniMax Hailuo H3 on"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 action prompt with attached video evidence from @bmx_ai13.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动作提示词。"
+  },
+  "category": "action",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "159:91",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@bmx_ai13",
+    "url": "https://x.com/bmx_ai13/status/2090519106432983412"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/bmx_ai13/status/2090519106432983412"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-hailuo-h3-on-983412/video-a9a9b0b8303f.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-hailuo-h3-on-983412/poster-ede9fb8434d3.jpg",
+  "prompt": "Create a fifteen second dialogue driven cinematic emotional scene at a quiet bus stop at night. Light rain falls under soft streetlights, creating an intimate and melancholic atmosphere. The acting should feel natural and restrained, with accurate lip sync and no overlapping dialogue. Characters: A is the boyfriend, age twenty five. He is trying to hide how deeply he is hurting. B is the girlfriend, age twenty four. She is emotional but composed, trying to hold herself together.\nFirst five seconds: B stands at the bus stop holding a small travel bag. Rain falls softly around them. A looks at her with watery eyes, trying not to break. A says softly “So… this is really goodbye?” B lowers her eyes. She struggles to find the words and takes a quiet breath before answering. B says “If I stay, I’ll keep choosing you over myself.” Seconds five to eleven A forces a small smile. His expression tries to hide the pain, but his voice begins to break. A says “Then go… I just wish loving me didn’t cost you so much.” B looks at him as her eyes slowly fill with tears. She takes one small step closer. Seconds eleven to fifteen B gently raises her hand and touches his cheek. B says quietly “You were never the mistake.” A closes his eyes. A single tear rolls down his cheek as he leans slightly into her touch. The bus arrives behind B, its headlights glowing through the rain. Neither of them moves. Use intimate close ups with subtle handheld camera movement. Hold on their eye contact and small facial reactions. Show trembling lips, restrained tears, realistic breathing, natural pauses, and quiet hesitation.\n\nLet facial expressions communicate as much emotion as the dialogue. Use cinematic night lighting, wet street reflections, shallow depth of field, and soft background bokeh. Keep both characters visually consistent throughout the scene and make every emotional reaction feel natural, subtle, and believable."
+}

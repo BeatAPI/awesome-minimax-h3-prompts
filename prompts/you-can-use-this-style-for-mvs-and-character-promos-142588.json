@@ -1,0 +1,31 @@
+{
+  "slug": "you-can-use-this-style-for-mvs-and-character-promos-142588",
+  "title": {
+    "en": "You can use this style for MVs and character promos too.",
+    "zh": "You can use this style for MVs and character promos too."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 product commercial prompt with attached video evidence from @Mayz1169.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+  },
+  "category": "product-commercial",
+  "mode": "text-to-video",
+  "duration": "14s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Mayz1169",
+    "url": "https://x.com/Mayz1169/status/2095875210562142588"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/Mayz1169/status/2095875508307464311"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/you-can-use-this-style-for-mvs-and-character-promos-142588/video-a7fdf9edba2b.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/you-can-use-this-style-for-mvs-and-character-promos-142588/poster-dee683a178db.jpg",
+  "prompt": "Create a Japanese anime pop-art motion-graphics commercial.\n\nKiki must exactly match the character reference: lime-yellow hair with cyan and hot-pink accents, two colorful space buns, playful hair clips, bright anime eyes, cheek stickers, oversized neon pixel-print jacket, white cropped graphic top, dark strapped mini skirt, colorful accessories, cyan socks and chunky multicolor platform sneakers. Preserve the same face, hairstyle, proportions, outfit and colors throughout. Do not reproduce the character-sheet layout or labels.\n\n0–1.5s: A tiny magenta pixel expands on a white background, transforming into a spinning neon pixel-heart power-up charm suspended from a chain. Cyan, lime and hot-pink radial speed lines burst outward with checkerboard and halftone textures. Smash cut to the exact bold title: “PIXEL POP!”  1.5–3.6s: Extreme close-up of Kiki’s bright eyes opening on the beat. She smiles mischievously and points directly toward the camera. Surround her with pixel stars, controller-button icons and comic speed lines. Display the exact phrases “READY?” and “PRESS START!” Then snap to a second expression with the exact text “TOO FAST!” and “PLAYER KIKI”.  3.6–5.6s: Rapid fashion-detail montage: close-up of her colorful jacket collar and pixel patches, backpack strap, controller charm, belt buckles, neon-painted fingernails and small chain accessories. Use quick pans, graphic wipes and hard beat-synced cuts.  5.6–7.2s: Close-up of Kiki’s legs and chunky platform sneaker. She kicks the sole directly toward the lens, creating extreme fisheye foreshortening. A circular pixel shockwave, stars and colorful game particles explode beneath the shoe.  7.2–9.7s: Reveal Kiki reclining confidently in a dynamic full-body poster pose, one sneaker dominating the foreground and one hand reaching toward the viewer. Surround her with floating handheld consoles, controllers, pixel hearts, arcade stars, chat bubbles and colorful digital creatures. Use subtle parallax so every collage layer moves at a different speed.  9.7–12.3s: Kiki jumps forward and points at the camera while bold kinetic typography rapidly assembles around her. Show only these exact phrases: “LEVEL UP!”, “LOUD / BRIGHT / PIXEL / WILD” and “MAX COMBO!” Letters slam, stretch and bounce with white, black, hot-pink, cyan and lime color blocks.  12.3–14s: Finish on a polished collectible game-box or magazine-cover composition featuring Kiki’s full pose. Display the exact final title “KIKI POP”, with the smaller phrases “PLAYER ONE EDITION” and “BONUS LEVEL: MAX”. Add a barcode, tiny pixel icons and a colorful decorative border, then hold the final frame.\n\nCrisp premium anime illustration, Y2K Harajuku arcade aesthetic, saturated neon palette, bold black outlines, halftone dots, checkerboards, pixel graphics, comic-book speed lines and energetic 2D/3D parallax. Fast electronic arcade sound design with button clicks, digital power-up tones and beat-synced impact sounds. All specified text must be correctly spelled, large and clearly legible. No realistic person, no fruit imagery, no character duplication, no outfit changes, no distorted hands and no additional or unreadable text."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "created-in-minimax-h3-166116",
+  "title": {
+    "en": "Created in Minimax H3",
+    "zh": "Created in Minimax H3"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 vlog prompt with attached video evidence from @codewithhajra.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3视频提示词。"
+  },
+  "category": "vlog",
+  "mode": "text-to-video",
+  "duration": "17s",
+  "aspectRatio": "45:56",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@codewithhajra",
+    "url": "https://x.com/codewithhajra/status/2093896492000166116"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/codewithhajra/status/2093896492000166116"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-in-minimax-h3-166116/video-22f9402ebdd6.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-in-minimax-h3-166116/poster-9e96b3ca9a5b.jpg",
+  "prompt": "FORMAT: 15 seconds | 9:16 vertical | Ultra-photorealistic smartphone vlog | Real-world Tokyo at night\n\nCHARACTER LOCK\nUse the attached girl as the exact character and identity reference throughout the entire video. Preserve her recognizable facial features, face shape, warm skin tone, brown eyes, natural makeup, soft features, and dark brown hair styled in a messy high bun with loose strands framing her face.\nShe is an adult woman with a natural, approachable travel-vlogger appearance.\n\nOUTFIT LOCK\n\nMatch the outfit shown in the storyboard:\n\nCream-colored knit top\n\nLight beige lightweight jacket, worn open\n\nCharcoal/dark gray straight-leg trousers\n\nClean white sneakers\nSmall silver hoop earrings\nSimple silver wristwatch\nMinimal accessories\nNatural, understated makeup\nThe hairstyle, face, outfit, accessories and overall appearance must remain identical across all six storyboard scenes.\n00–04s — RUNNING FOR IT\nHandheld selfie footage on a crowded Tokyo street at night.\n\nThe girl from the attached reference walks quickly toward the camera, slightly out of breath. Her beige jacket moves naturally as she walks.\n\nBright Tokyo signs, storefronts, pedestrians and traffic create an authentic nighttime city background.\n\nShe looks directly into the phone camera and laughs:\n\n“Wait—my train leaves in two minutes!”\n\nShe quickly turns the phone forward and starts jogging toward the station.\n\n04–08s — THE STATION\n\nHandheld camera follows her from behind and slightly beside her as she rushes down the station stairs.\n\nHer messy brown bun and beige jacket remain clearly recognizable.\n\nShe reaches the ticket gate, taps her transit card and quickly passes through.\n\nThe phone camera shakes naturally from her movement and briefly loses autofocus.\n\n08–12s — MADE IT\n\nShe reaches the platform just as the train arrives.\n\nThe camera captures the approaching train headlights before returning to her face.\n\nShe steps inside, turns the phone toward herself and smiles while catching her breath.\n\nShe says:\n\n“I actually made it!”\n\nThe train doors close behind her.\n\n12–15s — TOKYO THROUGH THE WINDOW\n\nInside the train, she turns the phone toward the window.\n\nTokyo's illuminated buildings and streets naturally blur past as the train accelerates.\n\nHer face appears softly reflected in the glass.\n\nShe looks toward the city and quietly says:\n\n“Okay… Tokyo at night hits different.”\n\nNatural cut.\n\nREALISM & CHARACTER CONSISTENCY\n\nSame attached girl in every shot. No character changes.\n\nMaintain the exact:\n\nFacial identity\n\nBrown eyes\n\nDark brown messy high bun\n\nLoose face-framing hair strands\nSkin tone\nFacial proportions\nCream knit top\nBeige jacket\nCharcoal trousers\nWhite sneakers\nSilver earrings\nWristwatch\nNatural skin texture, realistic hair strands, authentic blinking, subtle facial expressions and believable body movement.\nNo outfit changes, no hairstyle changes, no different woman, no face morphing, no beauty-filter effect.\n\nVISUAL STYLE\nAuthentic handheld smartphone footage rather than a polished movie.\n\nNatural motion blur, autofocus hunting, slight exposure shifts, realistic low-light phone noise, imperfect framing, natural Tokyo crowds and physically accurate movement.\n\nNo cinematic transitions, no fantasy effects, no exaggerated neon, no artificial-looking skin, no duplicated people, no impossible camera movement.\n\nAUDIO\nNatural Tokyo ambience, footsteps, station announcements, crowd noise, train brakes, door chime and her real voice.\n\nNo background music, no subtitles, no watermark."
+}

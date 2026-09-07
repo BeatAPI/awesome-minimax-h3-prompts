@@ -1,6 +1,7 @@
 import { mkdir, readdir, readFile, unlink, writeFile } from 'node:fs/promises';
 
 const readmeFile = new URL('../README.md', import.meta.url);
+const chineseReadmeFile = new URL('../README.zh-CN.md', import.meta.url);
 const catalogFile = new URL('../prompts/catalog.json', import.meta.url);
 
 const startMarker = '<!-- GENERATED_VIDEO_GALLERY_START -->';
@@ -130,8 +131,9 @@ ${entry.prompt.trim()}
 ---`;
 }
 
-const [readme, catalogSource] = await Promise.all([
+const [readme, chineseReadme, catalogSource] = await Promise.all([
   readFile(readmeFile, 'utf8'),
+  readFile(chineseReadmeFile, 'utf8'),
   readFile(catalogFile, 'utf8'),
 ]);
 for (const requiredLink of [
@@ -163,6 +165,16 @@ const entries = catalogEntries
     return a.index - b.index;
   })
   .map(({ entry }) => entry);
+const samePostCount = entries.filter(
+  (entry) => entry.promptVisibility === 'same-post'
+).length;
+const sameAuthorThreadCount = entries.length - samePostCount;
+const nextChineseReadme = chineseReadme
+  .replace(/现有 \d+ 个案例都已回查 X/, `现有 ${entries.length} 个案例都已回查 X`)
+  .replace(
+    /完整 Prompt 位于同帖（\d+ 条）或同一作者的回复（\d+ 条）/,
+    `完整 Prompt 位于同帖（${samePostCount} 条）或同一作者的回复（${sameAuthorThreadCount} 条）`
+  );
 for (const entry of entries) {
   const matchingUseCases = useCases.filter((useCase) =>
     useCase.categories.includes(entry.category)
@@ -276,6 +288,9 @@ if (process.argv.includes('--check')) {
   if (nextReadme !== readme) {
     throw new Error('README gallery is out of date; run npm run readme:build');
   }
+  if (nextChineseReadme !== chineseReadme) {
+    throw new Error('Chinese README counts are out of date; run npm run readme:build');
+  }
   const generatedFiles = [
     [catalogIndexFile, catalogIndex],
     ...Array.from({ length: Math.ceil(entries.length / pageSize) }, (_, index) => [
@@ -314,6 +329,7 @@ if (process.argv.includes('--check')) {
     staleUseCaseFiles.map((file) => unlink(new URL(file, useCasesDir)))
   );
   await writeFile(readmeFile, nextReadme);
+  await writeFile(chineseReadmeFile, nextChineseReadme);
   await writeFile(catalogIndexFile, catalogIndex);
   await Promise.all([
     ...Array.from({ length: Math.ceil(entries.length / pageSize) }, (_, index) =>

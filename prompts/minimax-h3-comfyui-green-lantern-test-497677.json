@@ -1,0 +1,31 @@
+{
+  "slug": "minimax-h3-comfyui-green-lantern-test-497677",
+  "title": {
+    "en": "Minimax H3 Comfyui Green Lantern Test...",
+    "zh": "Minimax H3 Comfyui Green Lantern Test..."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @EndFolding79421.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+  },
+  "category": "music-video",
+  "mode": "reference-to-video",
+  "duration": "8s",
+  "aspectRatio": "40:23",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@EndFolding79421",
+    "url": "https://x.com/EndFolding79421/status/2089840714016497677"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/EndFolding79421/status/2089840714016497677"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-comfyui-green-lantern-test-497677/video-9c9cc3f1ee4b.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-comfyui-green-lantern-test-497677/poster-b2ed00571cfc.jpg",
+  "prompt": "integrated_multimodal_description:\n\n<Image 1> is the CHARACTER APPEARANCE REFERENCE.\n\n<Image 0> background reference\n\nUse <Image 1> to preserve the man's exact facial identity, age, dark hair with gray temples, rugged stubble, body proportions, green-and-black tactical suit, illuminated chest emblem, and power-ring design.\n\nCRITICAL RIGHT-HAND CONTINUITY:\nThe power ring is worn ONLY on the man's anatomical RIGHT HAND throughout the entire video.\nNEVER place the ring on his left hand.\nDo not mirror or swap hands when the camera angle changes.\nHis LEFT HAND remains completely ringless throughout the entire sequence.\nEvery green energy projection originates directly from the ring on his RIGHT HAND.\n\nPhotorealistic live-action cinematic realism.\n\nEnvironment: vast isolated American desert-like prairie, dry golden grass, dusty earth, scattered low scrub, distant low hills, huge open sky. Warm late-afternoon sunlight. No buildings, vehicles, roads, or other people visible.\n\n[00:00–00:01.5]\n\nWide cinematic tracking shot.\n\nThe man from <Image 1> walks casually through the open landscape.\n\nHis arms swing naturally as he walks.\n\nHe suddenly notices something near his feet, slows, stops, and looks down.\n\nCamera subtly moves closer and tilts downward with his gaze.\n\n[00:01.5–00:02.5]\n\nCut to a low close shot near the ground.\n\nA small realistic BLACK SCORPION crawls slowly across the dusty ground approximately two feet in front of his boots.\n\nCut back to a medium shot as he looks down at it with mild curiosity rather than fear.\n\nHe raises his anatomical RIGHT HAND and points the ring toward the scorpion.\n\nHis left hand remains relaxed and completely ringless.\n\n[00:02.5–00:03.5]\n\nMedium close-up favoring his RIGHT hand.\n\nThe ring activates with concentrated emerald-green light.\n\nA narrow, clearly defined GREEN ENERGY BEAM shoots directly from the ring on his RIGHT HAND toward the scorpion.\n\nThe beam strikes the ground immediately around the scorpion.\n\nGlowing green construct lines rapidly form around it: bottom edges → four vertical corners → horizontal edges → top edges.\n\nWithin moments, these lines complete a small transparent emerald-green ENERGY CAGE surrounding the scorpion.\n\nThe scorpion remains unharmed and clearly visible inside.\n\nCRITICAL:\nFrom this moment until the END OF THE VIDEO, the green energy beam remains visibly and continuously connected from the ring on his RIGHT HAND directly to the green cage.\nThe beam NEVER disconnects, disappears, switches hands, or originates anywhere else.\n\n[00:03.5–00:05.0]\n\nLow close-up of the cage.\n\nStill connected to the continuous beam, the completed green construct cage gently rises from the dusty ground.\n\nThe scorpion remains standing on the glowing construct floor inside the cage.\n\nCamera tilts upward with it.\n\nThe cage floats smoothly to approximately chest height in front of the man.\n\nThe beam remains clearly visible between his RIGHT-HAND ring and the floating cage throughout the lift.\n\n[00:05.0–00:08.0]\n\nCut to a medium close-up framing the man's face, his extended RIGHT hand, and the floating cage.\n\nThe cage hovers roughly two feet in front of him at chest level.\n\nHis RIGHT arm remains comfortably extended toward it.\n\nThe glowing ring is clearly visible on his RIGHT HAND.\n\nThe continuous green beam remains visibly connected:\nRIGHT-HAND RING → GREEN BEAM → FLOATING CAGE.\n\nThe little black scorpion moves slightly inside the cage.\n\nThe man studies it for a moment, gives a small friendly amused smile, and speaks casually to the scorpion.\n\n(S1) <d>[EN]How you doing there, little fella?</d>\n\nHold briefly on his smile and the floating scorpion cage.\n\nThe cage remains stable.\nThe scorpion remains safely inside.\nThe beam remains connected through the FINAL FRAME.\n\nNo attack.\nNo explosion.\nNo additional constructs.\nNo additional characters.\n\noverall_soundscape:\n\nNatural open-land ambience with gentle dry wind moving through grass, subtle footsteps on dusty earth at the beginning, extremely faint scorpion movement during close shots, and a clean low emerald-energy hum when the ring activates.\n\nThe construct produces a subtle crystalline energy-building sound as the cage forms.\n\nOnce formed, the cage and continuous connecting beam produce a quiet sustained energy hum through the final frame.\n\n(S1)'s dialogue is natural, relaxed, friendly, and slightly amused.\n\nnon_diegetic_music:\n\nNone."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "fluffi-vs-laser-pointer-hailuo-h3-one-take-136738",
+  "title": {
+    "en": "Fluffi vs. laser pointer. Hailuo H3, one take.",
+    "zh": "Fluffi vs. laser pointer. Hailuo H3, one take."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @GlennHasABeard.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "7:4",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@GlennHasABeard",
+    "url": "https://x.com/GlennHasABeard/status/2094472529939136738"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/GlennHasABeard/status/2094472529939136738"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/fluffi-vs-laser-pointer-hailuo-h3-one-take-136738/video-5e8746c5ec06.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/fluffi-vs-laser-pointer-hailuo-h3-one-take-136738/poster-2537853395a5.jpg",
+  "prompt": "\"the dot moves at the last instant and he lands on bare floor,\nlooks under his paws, finds nothing\"\n\nReference: one Fluffi image. Camera: low, handheld, following.\n\nWriting the miss as an end state is what got the confused look. If you\nonly describe the pounce, he catches it."
+}

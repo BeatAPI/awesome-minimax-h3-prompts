@@ -1,0 +1,31 @@
+{
+  "slug": "shatter-695817",
+  "title": {
+    "en": "SHATTER.",
+    "zh": "SHATTER."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @CharaspowerAI.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+  },
+  "category": "music-video",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@CharaspowerAI",
+    "url": "https://x.com/CharaspowerAI/status/2096554023809695817"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/CharaspowerAI/status/2096554023809695817"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/shatter-695817/video-3dd688759057.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/shatter-695817/poster-f97a8a5e14b5.jpg",
+  "prompt": "Premium action-film title sequence beginning with a gigantic transparent glass monolith floating against complete blackness. A tiny projectile impacts the exact center and an intricate network of cracks instantly races across the entire surface. The camera pushes directly into one expanding fracture, traveling through the microscopic crystalline structure as tension builds everywhere. Suddenly the monolith violently detonates into millions of glass fragments. The camera performs a fast 360-degree orbital move through the suspended crystal storm as every shard reflects sharp beams of cinematic light. An invisible force begins pulling selected fragments together, constructing the enormous word \"SHATTER\" from overlapping razor-thin glass shards. The completed transparent typography refracts the entire environment like a giant prism before another pressure wave passes through it, producing thousands of secondary fractures. The letters explode outward directly toward the lens in spectacular ultra slow motion. Extremely detailed glass physics, realistic refraction and caustics, elegant brutality, premium Hollywood VFX."
+}

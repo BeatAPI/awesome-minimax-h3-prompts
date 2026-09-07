@@ -1,0 +1,31 @@
+{
+  "slug": "created-with-unlimited-on-runway-347863",
+  "title": {
+    "en": "Created with Unlimited on Runway.",
+    "zh": "Created with Unlimited on Runway."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 fashion prompt with attached video evidence from @alexgnewmedia.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3时尚提示词。"
+  },
+  "category": "fashion",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@alexgnewmedia",
+    "url": "https://x.com/alexgnewmedia/status/2090161526380347863"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/alexgnewmedia/status/2090161526380347863"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-unlimited-on-runway-347863/video-3aea515ebb8e.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-unlimited-on-runway-347863/poster-897155ff4fc7.jpg",
+  "prompt": "A man puts on headphones while walking through a dull grey city. Beat begins. First kick: A streetlamp bends slightly. Second kick: All parked cars bounce simultaneously. Snare: Every window shutter snaps open. Bass: The asphalt physically ripples beneath him. Melody enters: Buildings begin stretching upward and downward like an architectural equalizer. Now EVERYTHING responds musically. Traffic lights dance between positions. Balconies slide rhythmically across façades. Road markings travel like musical waveforms. Trees pulse like dancing. Windows illuminate across entire buildings at the rhytm of the music. But the pedestrians behave completely normally, apparently unaware that the entire city has become a music visualizer. Then he removes the headphones. Instantly, half the street becomes normal. Puts it back.BOOM. The whole city hits the beat again."
+}

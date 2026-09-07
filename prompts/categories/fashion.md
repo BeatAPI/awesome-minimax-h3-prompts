@@ -2,7 +2,295 @@
 
 [Back to the full gallery](../../README.md) · [Catalog index](../README.md)
 
-## 1. Created with MiniMax H3
+## 1. Minimax H3 in
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-in-975646/video-a41f85105df7.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-in-975646/poster-7f4ee612296d.jpg" alt="Minimax H3 in video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — CHARACTER: a fictional famous fashion-forward celebrity presenter styled like the Emperor from The Emperor’s New Clothes in a playful illustrated children’s-book way: natural skin...</summary>
+
+~~~~text
+CHARACTER: a fictional famous fashion-forward celebrity presenter styled like the Emperor from The Emperor’s New Clothes in a playful illustrated children’s-book way: natural skin tone, sleek dark hair, theatrical expression, extravagant cream-and-gold editorial royal outfit with exaggerated collar and cape, decorative shoes, jewel accents and a tiny mirror accessory. Preserve exact face, proportions, outfit, colors, materials and fairy-tale styling. No redesign.
+
+STYLE: 80% kinetic graphics / 20% character action. Satirical children’s-book illustration × royal pageantry × metaphorical celebrity-image critique. Cream, gold, crimson, pale blue, black. Banners, trumpets, tailor motifs, mirrors, ornate page borders, review ribbons and parade routes. Typography: elaborate storybook display serif with royal ornament, banner tails and tailor-thread flourishes.
+
+CUT 01 | 0–1s — Black field. A gold thread loops into a spinning royal portal; the Emperor-like celebrity silhouette flashes.
+
+CUT 02 | 1–2s — Extreme eye close-up. Blink and sideways glance; little mirrors and approval stars form around the face, then a bright gold flash.
+
+CUT 03 | 2–3.1s — Cream field, giant LOOK THE PART. He walks through holding the tiny mirror; letters stretch proudly with each step.
+
+CUT 04 | 3.1–4s — Six-panel illustrated publicity sheet rapidly rearranges into one flawless royal portrait framed by banners and thread motifs.
+
+CUT 05 | 4–5.1s — Parade grid. He walks along a glowing route while gold circles appear beneath his shoes. Giant DISPLAY rotates behind.
+
+CUT 06 | 5.1–6s — Shoe hits the circle; a ripple expands and becomes BELIEVE. Fast camera push.
+
+CUT 07 | 6–7s — Crimson field. He performs a smooth 180° turn with three theatrical motion echoes. POSE rotates around him.
+
+CUT 08 | 7–8s — STUNNING / LUXE / ICONIC / UNTOUCHABLE slam in rapidly as he crosses foreground, cape moving naturally.
+
+CUT 09 | 8–9s — White field with moving spotlight. He raises the mirror; reflected light becomes review cards and image-management lines. Gold UI lock-on.
+
+CUT 10 | 9–10.1s — Floating crowns, fashion labels, applause icons and headlines surround him; each disappears on contact but leaves behind more decorative spectacle.
+
+CUT 11 | 10.1–11.1s — Rapid close-ups: eye, collar, mirror, cape, shoes, full character. Graphic frames and 01–04 flash.
+
+CUT 12 | 11.1–13s — HERO: cream storybook studio. He walks center, stops with theatrical confidence. A royal parade burst explodes behind with banners, tailor-thread swirls, ornate trims and mirrors. Freeze → white flash. The metaphor reveals the machinery of hype sustaining an image.
+
+CUT 13 | 13–15s — Cream illustrated title card. Huge royal lettering: THE EMPEROR’S NEW CLOTHES. He stands beside it while a gold thread stitches across the frame once. Logo pulses once → black.
+
+EDITING: Hard beat cuts, parade wipes, snap zooms, banner transitions, freeze frames and impact shakes. Every cut visually distinct. Perfect character consistency.
+
+SOUND: Bright orchestral-pop with trumpets, pizzicato strings, soft drums, pageantry swells, shoe taps, mirror chimes and whimsical UI accents. Peak at CUT 12, theatrical title stinger.
+
+QUALITY: Premium AAA cinematic × children’s-book illustration × fairy-tale metaphor for spectacle overpowering authenticity. No weapons/combat/fire. Exactly 13 cuts, exactly 15 seconds.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-in-975646/video-a41f85105df7.webm)
+
+**Source:** [@airina_xyz](https://x.com/airina_xyz/status/2096297619391975646) · 15s · 7:4 · fashion
+
+---
+
+## 2. "integrated_multimodal_description: [Shot 1] Stylized 3D Pixar-animated look
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/integrated-multimodal-description-shot-1-stylized-3d-pixar-animated-look-093063/video-e08a8e78744e.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/integrated-multimodal-description-shot-1-stylized-3d-pixar-animated-look-093063/poster-afc1b6a2c715.jpg" alt="&quot;integrated_multimodal_description: [Shot 1] Stylized 3D Pixar-animated look video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — &quot;integrated_multimodal_description: [Shot 1] Stylized 3D Pixar-animated look, soft rounded character design, expressive exaggerated eyes, glossy cartoon textures, warm cinematic...</summary>
+
+~~~~text
+"integrated_multimodal_description: [Shot 1] Stylized 3D Pixar-animated look, soft rounded
+character design, expressive exaggerated eyes, glossy cartoon textures, warm cinematic lighting,
+16:9, fast editorial comedic energy with snap reframes. A veterinary hospital back corridor with
+scuffed skirting, laminated posters and strip lighting. A medium tracking shot follows OSKAR, a
+stylized man in his forties in a courier's fleece with a lanyard swinging, arms wrapped around a
+large cardboard box with airholes punched in the lid. He hurries along scanning door numbers.
+Oskar (S1) mutters to himself in a fast anxious voice, <d>[English] Reception. Just needs a
+signature. Reception.</d>
+[Shot 2] At 00:02.500, the camera cuts to a wide shot as he backs through the wrong door and
+turns around into a bright operating theatre — four masked surgical staff in scrubs standing
+around a table under a huge overhead lamp, every pair of eyes above the masks turned toward him
+in complete silence. A monitor beeps steadily. The box slips an inch in his arms.
+Oskar (S1) says in a very small voice, <d>[English] Is this not reception.</d>
+[Shot 3] At 00:05.500, the camera cuts to a medium shot of a formidable surgeon, a woman in her
+sixties, gloved hands held up and clear, mask pulled tight. She looks him up and down once, then
+jerks her chin firmly at the empty space beside the table. The surgeon (S2) says in a brisk,
+completely certain voice, <d>[English] Finally. Scrub in, we're waiting.</d> Trays rattle.
+Everyone shuffles round to make room for him.
+[Shot 4] At 00:08.500, the camera cuts to a fast montage of Oskar bluffing at the table, box now
+abandoned on a stool behind him — snapping on gloves far too enthusiastically, holding out a flat
+palm with enormous authority, then nodding gravely at a monitor he clearly cannot read. A nurse
+slaps an instrument into his hand. He holds it up to the light and turns it round twice. Every
+staff member responds instantly and correctly to each gesture, working faster and more smoothly
+than before he arrived. Oskar's face cycles through panic, disbelief and delight.
+[Shot 5] At 00:12.000, the camera cuts to a wide shot as the door swings open and a young vet in
+scrubs hurries in tying her mask, sees the operation already running, and stops. The whole room
+turns between the two of them. Oskar is already moving — he peels the gloves off, scoops up the
+cardboard box, and backs toward the door giving the room a double thumbs up. Oskar (S1) says in a
+bright rushed voice, <d>[English] Great work everyone, sign here next time.</d> He is gone. The
+surgeon watches him go with visible approval. The camera holds still on the room.
+
+overall_soundscape: A theatre room tone with a steady monitor beep and the hum of overhead lamps.
+Footsteps and cardboard shifting in a corridor. A heavy door swinging on its hinge. Complete
+silence with one instrument tray tick. Wheels rolling on hard flooring. Latex gloves snapping.
+Metal instruments slapped into a palm. Muffled voices behind masks. Footsteps leaving fast and a
+door swinging shut.
+
+non_diegetic_music: A light plucked pizzicato strings figure at a brisk tempo opens the video and
+cuts out completely at 00:02.500 into one beat of total silence. A single low bassoon note
+follows. From 00:08.500 a tense, mock-serious strings and low percussion figure builds through the
+montage, playing the situation completely straight while getting more absurd, and cuts off on one
+hard comedic sting as he reaches the door at 00:14.000."
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/integrated-multimodal-description-shot-1-stylized-3d-pixar-animated-look-093063/video-e08a8e78744e.webm)
+
+**Source:** [@ManuAGI01](https://x.com/ManuAGI01/status/2095846567853093063) · 15s · 16:9 · fashion
+
+---
+
+## 3. Canvas Try it →
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/canvas-try-it-182080/video-33a88ecdb8ea.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/canvas-try-it-182080/poster-e6374292d642.jpg" alt="Canvas Try it → video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a 15-second, 16:9, 24fps ultra-photorealistic live-action Y2K fashion film blended with one pure 2D manga fairy. HIGHEST-PRIORITY RULES Exactly TWO characters: ONE...</summary>
+
+~~~~text
+Create a 15-second, 16:9, 24fps ultra-photorealistic live-action Y2K fashion film blended with one pure 2D manga fairy.
+HIGHEST-PRIORITY RULES
+Exactly TWO characters: ONE fictional 22-year-old Korean female idol + ONE tiny 2D manga fairy. No extras, duplicates, clones, motion-trail copies, or identifiable reflections.
+ZERO readable text or numbers anywhere: no captions, logos, labels, signs, UI, watermarks, license plates, posters, or environmental writing.
+CHARACTER LOCK
+Woman: elegant oval face, cool fair skin with realistic texture, almond eyes, glossy pink lips, extremely long silky straight black hair to the waist with thin bangs. Face, hair, proportions, makeup and wardrobe remain identical.
+Wardrobe: black satin cropped camisole with lace detail, cropped glossy motorcycle jacket loosely around her arms, black low-rise pleated micro skirt, silver waist chain/jewelry, black over-the-knee boots. Premium, sensual, sophisticated K-pop editorial.
+Fairy: tiny PURE 2D cel-shaded manga character with clean outlines, short black hair, elf ears, large pink eyes, pink-and-white cropped top, silver pleated skirt, translucent pink wings. Always flat 2D—never 3D, photorealistic, or humanized.
+ENVIRONMENT
+One continuous bright pink-and-ice-blue neon fashion studio. Black vintage convertible in the center, silver vanity mirror, transparent acrylic chair, chrome spheres, silver props, glossy floor. Style: K-pop comeback film × glossy Y2K campaign × cute high-energy MV.
+PHYSICAL CONTINUITY
+No teleportation, clipping, spawning, or passing through objects. Fairy must physically fly above, below, around, or beside the windshield, car, mirror, chair, props, and woman. Glossy surfaces show only abstract light, never recognizable reflections.
+
+SHOT FLOW
+0:00–0:01.5 — Low-angle wide shot. Only fairy is visible behind the wheel. She waves, opens wings on beat, flies vertically until fully above the windshield, exits through the open roof, half-spins, then flies toward the woman. Driver seat becomes empty.
+0:01.5–0:03.5 — Reveal woman leaning outside the car door, looking down while adjusting a ring. Fairy curves toward her shoulder and gives a TA-DA pose. The same woman raises her head, looks at fairy, then camera. Diagonal push-in from headlight.
+0:03.5–0:05.5 — Woman flicks one finger toward fairy on a sharp beat. Fairy reacts with one continuous half-spin to camera-right. Woman shifts into a mischievous smile. Fast side arc; car door briefly wipes foreground.
+0:05.5–0:07.5 — Fairy flies around the OUTER edge of the vanity mirror, never through it. Camera follows and finds the same woman seated on the acrylic chair. She crosses her legs and makes a tiny finger heart. Fairy hovers beside her face and imitates it. Woman smiles.
+0:07.5–0:09.5 — Woman opens her palm. Fairy descends continuously and visibly lands, feet making contact. Fairy poses proudly and copies woman’s head tilt. Woman pauses, then smiles warmly. Add a cute electronic bling; push from hand toward faces.
+0:09.5–0:11.5 — Fairy physically takes off from palm first. Woman stands and walks 2–3 confident steps toward center studio. Camera tracks backward with a lateral arc while fairy flies backward in front of her.
+0:11.5–0:13.0 — Woman strikes a sophisticated K-pop pose with convertible diagonally behind. She touches her long hair; fairy imitates fixing her own short hair. Woman notices and breaks into a smile. Slight low-angle push-in.
+0:13.0–0:14.5 — Medium close-up. Woman makes a finger heart near her face while holding her hair. Fairy hovers beside her, wings open, cheerful double-V pose. Both look into camera. Final beat triggers ONE camera flash without washing out the studio.
+0:14.5–0:15.0 — Freeze the ACTUAL previous frame. No new photo, card, border, or white background. Keep neon studio, car, silver props and depth visible. Add only 4–6 small clean pink hearts/stars/sparkles near the corners, inside frame, never covering either character.
+CAMERA & PERFORMANCE
+Use low angles, diagonal views, subtle ultra-wide shots, foreground occlusion, mirror framing, curved push-ins, short tracking, gentle rises/drops. Avoid repetitive static frontal framing.
+Emotion: cool fashion pose → curiosity → playful interaction → amused smile → joyful final pose. Natural, confident, star-like, never childish.
+MUSIC
+Bubblegum Pop × Kawaii Pop × Y2K Dance Pop, 125–135 BPM, punchy drums, bouncing bass, crisp claps, sparkling synths. Sync wing opening, finger flick, fairy spin, finger-heart, palm landing, takeoff, hair imitation, final pose and camera flash to major beats.
+NEGATIVE
+No second human/fairy, duplicates, face drift, hairstyle/color/costume changes, malformed hands, clipping, teleportation, 3D or photorealistic fairy, white ending, Polaroid/frame/PIP, chaotic doodles, readable text, letters, numbers, logos, subtitles, labels, UI or watermarks.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/canvas-try-it-182080/video-33a88ecdb8ea.webm)
+
+**Source:** [@ImaStudio_ai](https://x.com/ImaStudio_ai/status/2095357375549182080) · 15s · 16:9 · fashion
+
+---
+
+## 4. Character Board Animation (Bottom Video) & Character Intro Animation (Top Video)
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/character-board-animation-bottom-video-character-intro-animation-top-vid-865400/video-a9048f3cc023.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/character-board-animation-bottom-video-character-intro-animation-top-vid-865400/poster-8649b607f5a1.jpg" alt="Character Board Animation (Bottom Video) &amp; Character Intro Animation (Top Video) video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Use the reference image as the sole source for the character’s identity, design, facial features, hair, proportions, outfit, color language, and illustration style. Create a clean...</summary>
+
+~~~~text
+Use the reference image as the sole source for the character’s identity, design, facial features, hair, proportions, outfit, color language, and illustration style.
+
+Create a clean 16:9 artistic character introduction board with an editorial artbook aesthetic. Keep the layout fixed and keep every section in a stable position.
+
+Layout structure:
+- Left 40%: one large stylish waist-up portrait pose of the character.
+- Upper-right area: 3 full-body character pose panels arranged horizontally in a single row.
+- Lower-right area: 3 cinematic environment panels arranged horizontally in a single row directly below the full-body poses.
+- Bottom full-width strip: one horizontal color palette derived directly from the reference character.
+
+Use a single solid off-white background across the entire board. Keep the outer canvas clean and uniform with no gradients, textures, scenery, decorative background patterns, or color blocks behind the layout.
+
+Do not rearrange, resize, swap, or reinterpret these sections. The large portrait must stay on the left. The 3 full-body poses must stay in the upper-right row. The 3 environment panels must stay in the lower-right row. The color palette must stay along the bottom.
+
+The 3 full-body pose panels must clearly show the character’s full silhouette, outfit, and personality through different poses.
+
+The 3 environment panels must also include the character, shown in different natural settings and under different lighting conditions. Give the character a different natural pose in each environment, interacting believably with the space through actions such as walking, sitting, leaning, resting, looking out, or casually occupying the scene. Avoid repeated standing poses.
+
+Choose environments, poses, lighting, and visual accents that naturally fit the character’s design and personality. Carry the character-derived color palette throughout the board.
+
+Keep strong character consistency across all panels. Minimal or no typography, subtle framing lines, elegant spacing, polished concept-art presentation. No redesign, no unrelated elements, no watermark.
+
+---
+Bottom Video
+MiniMax H3 Prompt for Board Animation:
+
+Use the provided character board @[board reference] as the sole visual source. Animate the existing static board itself while preserving the exact 16:9 composition, panel positions, character design, illustration style, color palette, and solid off-white background.
+
+Keep the camera completely static for the entire video. No zoom, pan, tilt, reframing, parallax, or camera movement of any kind. The board itself must remain perfectly locked in place.
+
+The large waist-up portrait on the left is the main animated focal point. Let the character naturally change pose within the existing portrait area: subtle head turns, gaze changes, shoulder and upper-body shifts, small hand or arm movements when visible, expression changes, blinking, breathing, and gentle hair and clothing motion. Avoid repeating a single idle loop. Make it feel like a short sequence of natural portrait poses.
+
+The 3 full-body characters in the upper-right must remain in their exact panel positions and each perform a smooth full 360-degree turn in place, like a character turntable. Preserve their original proportions, outfit, identity, and panel boundaries.
+
+The 3 environment panels in the lower-right must remain fixed inside their frames. Animate each scene subtly and differently, preserving its original setting and lighting. Let the character perform small natural actions appropriate to the environment, such as walking a few steps, shifting posture, sitting naturally, leaning, looking around, or reacting gently to the surroundings. Add restrained environmental motion such as rain, wind, moving clouds, reflections, foliage, drifting particles, or subtle lighting changes where appropriate.
+
+Keep the bottom color palette completely static. Keep the solid off-white board background unchanged. Do not rearrange panels, expand scenes beyond their frames, add new elements, duplicate characters, redesign the character, or alter the layout. The result should feel like a polished animated artbook character board.
+
+---
+
+Top Video
+MiniMax H3 Prompt for Character animation:
+
+Use the provided character board @[board reference] as the sole visual reference for character identity, design, facial features, hair, proportions, outfit, colors, environments, and illustration style. Use it as reference only. Do not animate the board itself.
+
+Create a short cinematic character introduction where the character comes to life through a sequence of polished animated shots inspired by the board’s content. Begin with the large waist-up portrait as a living shot, then move into the 3 full-body poses as brief character-focused moments, then transition into the 3 environment scenes as cinematic shots where the character naturally exists in those spaces. End on a clean composed hero shot of the character.
+
+Let the character be the animated focus in every shot. Use natural motion such as blinking, breathing, gaze shifts, head turns, subtle pose changes, small gestures, gentle hair and clothing motion, walking, sitting, leaning, resting, or looking out depending on the scene. The 3 full-body moments should clearly show the character’s silhouette, outfit, and attitude. The 3 environment moments should show the character in different natural settings, different lighting conditions, and different natural poses that fit each location.
+
+Use elegant cinematic camera movement, smooth transitions, and refined artbook-inspired presentation. Preserve strong character consistency and the board’s color language throughout. Minimal typography, atmospheric, polished, artistic, no redesign, no watermark.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/character-board-animation-bottom-video-character-intro-animation-top-vid-865400/video-a9048f3cc023.webm)
+
+**Source:** [@aimikoda](https://x.com/aimikoda/status/2091280502086865400) · 15s · 1023:1150 · fashion
+
+---
+
+## 5. Get unlimited on Runway
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/get-unlimited-on-runway-974704/video-d33b402d089d.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/get-unlimited-on-runway-974704/poster-f3361d4084ff.jpg" alt="Get unlimited on Runway video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Prompt 1 使用 @Image1 作为环境参考，使用 @Image2 作为女性战士参考，使用 @Image3 作为巨鸟敌人参考。严格保留参考图中的视觉设定：@Image1 用于表现一片浅水覆盖、布满巨大断裂石柱的遗迹世界，以及带有倒影的水面；@Image2...</summary>
+
+~~~~text
+Prompt 1
+
+使用 @Image1 作为环境参考，使用 @Image2 作为女性战士参考，使用 @Image3 作为巨鸟敌人参考。严格保留参考图中的视觉设定：@Image1 用于表现一片浅水覆盖、布满巨大断裂石柱的遗迹世界，以及带有倒影的水面；@Image2 用于表现这位二次元女性战士的准确角色设计，包括超长编发、服装、配色、绑带、靴子和巨大的刀刃；@Image3 用于表现巨型白色鸟类敌人的准确外形，包括暴露出的彩色内部骨骼结构、细长锋利的喙和发光的眼睛。整体保持干净的二维动漫插画风格，细致有表现力的线稿，赛璐璐上色，浅色背景，以及鲜明的珊瑚橙—青蓝色调。
+
+制作一个15秒高强度动漫战斗场景。女性战士站在遗迹浅水区的反光水面中。巨鸟突然猛冲向前，用长喙凶狠刺击。她在最后一刻侧身闪避，水花猛烈炸开，巨鸟的喙重重砸入水面。她立刻沿着水面高速冲刺，跳上巨鸟的喙，在上面奔跑后高高跃起，挥动巨大的刀刃斩向巨鸟头部。巨鸟抬起装甲般的翅膀进行格挡，产生强烈的动漫冲击爆发效果，伴随羽毛、水花和速度线。战士在空中翻身落到巨鸟身后，落入水中后再次突进。巨鸟巨翼横扫湖面；她俯身滑行，从攻击下方穿过，并以一记向上的反击斩回应。动作要快速、流畅、凶猛，战斗编排紧凑，头发与布料具有强烈动感，大量水花飞溅、羽毛纷飞，冲击帧强烈，无对白，无慢动作，无空档时间，角色设计前后一致。
+
+Prompt 2
+使用 @Video1 作为主要参考，用于保持剧情延续性、动画风格、战斗节奏，以及第一支视频结尾时双方的位置关系。同时使用 @Image1 作为环境参考，@Image2 作为女性战士参考，@Image3 作为巨鸟参考。画面必须从 @Video1 的结尾直接衔接，不能重新开始。保留 @Image1 中相同的浅水遗迹世界，保留 @Image2 中相同的女性战士造型与武器，保留 @Image3 中相同的巨鸟怪物设计。整体保持干净的手绘二维动漫风格，锐利线稿，赛璐璐上色，浅色背景，以及鲜明的珊瑚橙—青蓝色调。
+
+制作一个15秒动漫战斗续篇。在上一轮碰撞之后，巨鸟发动更猛烈的进攻，一边在浅水中高速冲锋，一边连续多次用长喙向前突刺。女性战士快速闪避，并在断裂石柱之间跳跃穿梭，巨鸟在她身后不断撞碎遗迹。她突然转身，径直朝巨鸟冲去，踩上正在下刺的鸟喙，借力高高跃入空中。巨鸟张开双翼，紧追而上。双方在空中正面碰撞：她使出一记强力下劈，巨鸟则用装甲翅膀格挡，爆发出巨大的动漫式冲击闪光与震荡波。随后双方一起坠向反光湖面。战士率先落地，在水面上滑行后立刻再次加速冲刺。巨鸟落在她对面，也在同一时刻发动冲锋。双方正面高速对冲，爆发出最终的刀刃对鸟喙的猛烈碰撞，冲击波沿水面呈圆形扩散，并震裂附近的石柱。结尾停在双方被冲击力弹开后，立刻重新摆出下一轮攻击姿态。整体战斗要极其流畅，具备高质量作画感（sakuga），动作衔接迅猛，包含拖影、速度线、大量水花与飞散羽毛，无对白，无慢动作，并严格保持 @Video1、@Image1、@Image2 和 @Image3 中的角色身份与比例一致。
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/get-unlimited-on-runway-974704/video-d33b402d089d.webm)
+
+**Source:** [@whorange__](https://x.com/whorange__/status/2090392284516974704) · 27s · 16:9 · fashion
+
+---
+
+## 6. Created with Unlimited on Runway.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-unlimited-on-runway-347863/video-3aea515ebb8e.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-unlimited-on-runway-347863/poster-897155ff4fc7.jpg" alt="Created with Unlimited on Runway. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — A man puts on headphones while walking through a dull grey city. Beat begins. First kick: A streetlamp bends slightly. Second kick: All parked cars bounce simultaneously. Snare:...</summary>
+
+~~~~text
+A man puts on headphones while walking through a dull grey city. Beat begins. First kick: A streetlamp bends slightly. Second kick: All parked cars bounce simultaneously. Snare: Every window shutter snaps open. Bass: The asphalt physically ripples beneath him. Melody enters: Buildings begin stretching upward and downward like an architectural equalizer. Now EVERYTHING responds musically. Traffic lights dance between positions. Balconies slide rhythmically across façades. Road markings travel like musical waveforms. Trees pulse like dancing. Windows illuminate across entire buildings at the rhytm of the music. But the pedestrians behave completely normally, apparently unaware that the entire city has become a music visualizer. Then he removes the headphones. Instantly, half the street becomes normal. Puts it back.BOOM. The whole city hits the beat again.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-unlimited-on-runway-347863/video-3aea515ebb8e.webm)
+
+**Source:** [@alexgnewmedia](https://x.com/alexgnewmedia/status/2090161526380347863) · 15s · 16:9 · fashion
+
+---
+
+## 7. Created with MiniMax H3
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-540945/video-13cbea5b7467.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-540945/poster-9a426723aa8a.jpg" alt="Created with MiniMax H3 video preview" width="700" />
@@ -23,7 +311,7 @@ Create a premium 15-second cinematic ad for Audionic Trance Airbud 850. Start wi
 
 ---
 
-## 2. T2V Hailuo MinimaxH3 Prompt [FORMAT] Create a 15-second, 16:9 retro graphic
+## 8. T2V Hailuo MinimaxH3 Prompt [FORMAT] Create a 15-second, 16:9 retro graphic
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/t2v-hailuo-minimaxh3-prompt-format-create-a-15-second-16-099381/video-7d3845a01378.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/t2v-hailuo-minimaxh3-prompt-format-create-a-15-second-16-099381/poster-77292751d7b1.jpg" alt="T2V Hailuo MinimaxH3 Prompt [FORMAT] Create a 15-second, 16:9 retro graphic video preview" width="700" />
@@ -86,7 +374,7 @@ Never a slideshow. Maintain active graphic motion, physical visual transitions, 
 
 ---
 
-## 3. This model shines at generating mixed‑media motion graphics combining visuals and text information.
+## 9. This model shines at generating mixed‑media motion graphics combining visuals and text information.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/this-model-shines-at-generating-mixedmedia-motion-graphics-combining-vis-961590/video-d529433d7a27.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/this-model-shines-at-generating-mixedmedia-motion-graphics-combining-vis-961590/poster-f3b7316a5e07.jpg" alt="This model shines at generating mixed‑media motion graphics combining visuals and text information. video preview" width="700" />
@@ -279,7 +567,7 @@ No dialogue.
 
 ---
 
-## 4. Created in
+## 10. Created in
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-in-675674/video-5664945c8d42.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-in-675674/poster-e575573517d2.jpg" alt="Created in video preview" width="700" />
@@ -300,7 +588,7 @@ No dialogue.
 
 ---
 
-## 5. Mind-blown. One shot
+## 11. Mind-blown. One shot
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/mind-blown-one-shot-376793/video-b2f67795e835.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/mind-blown-one-shot-376793/poster-f47b714c6d95.jpg" alt="Mind-blown. One shot video preview" width="700" />
@@ -337,7 +625,7 @@ No character changes, extra people, random text, subtitles, logos, outfit change
 
 ---
 
-## 6. Minimax 3 Prompt: Create a premium 16:9 landscape fashion film. Use Image 1 for
+## 12. Minimax 3 Prompt: Create a premium 16:9 landscape fashion film. Use Image 1 for
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-3-prompt-create-a-premium-16-9-landscape-fashion-108362/video-1ab7df834413.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-3-prompt-create-a-premium-16-9-landscape-fashion-108362/poster-7377fe4eb43b.jpg" alt="Minimax 3 Prompt: Create a premium 16:9 landscape fashion film. Use Image 1 for video preview" width="700" />
@@ -362,7 +650,7 @@ I added the final video in and the reference images for you to learn from!
 
 ---
 
-## 7. MiniMax H3 is incredible at text rendering!
+## 13. MiniMax H3 is incredible at text rendering!
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-is-incredible-at-text-rendering-644291/video-62c6959966f0.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-is-incredible-at-text-rendering-644291/poster-051de0428cc7.jpg" alt="MiniMax H3 is incredible at text rendering! video preview" width="700" />
@@ -383,7 +671,7 @@ Create a 15-second cinematic text-animation video built around the quote:  “Ev
 
 ---
 
-## 8. Low-Angle Fashion Tracking Film
+## 14. Low-Angle Fashion Tracking Film
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/low-angle-fashion-tracking-film-062019/video-7eccbb514e51.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/low-angle-fashion-tracking-film-062019/poster-98861d56b4fd.jpg" alt="Low-Angle Fashion Tracking Film video preview" width="700" />
@@ -404,7 +692,7 @@ Ultra realistic cinematic video, shot on ARRI Alexa 35 with spherical lens, natu
 
 ---
 
-## 9. Kintsugi Sword Seamless Loop
+## 15. Kintsugi Sword Seamless Loop
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/kintsugi-sword-seamless-loop-524882/video-18ce4fdcf3f2.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/kintsugi-sword-seamless-loop-524882/poster-1365004257d9.jpg" alt="Kintsugi Sword Seamless Loop video preview" width="700" />
@@ -512,7 +800,7 @@ Prompt #MiniMaxH3 in Chinese:
 
 ---
 
-## 10. Surreal Blue Studio Dance with a Horse
+## 16. Surreal Blue Studio Dance with a Horse
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/surreal-blue-studio-dance-with-horse-588086/video-35d70f2a6270.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/surreal-blue-studio-dance-with-horse-588086/poster-c616e26c1d83.jpg" alt="Surreal Blue Studio Dance with a Horse video preview" width="700" />
@@ -537,7 +825,7 @@ Create a surreal 15-second fashion-film sequence inside a minimalist monochrome 
 
 ---
 
-## 11. Ice Gunslinger Interactive Web Loop
+## 17. Ice Gunslinger Interactive Web Loop
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ice-gunslinger-interactive-web-loop-045626/video-8ed8d15497ae.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ice-gunslinger-interactive-web-loop-045626/poster-b4852f65a0a0.jpg" alt="Ice Gunslinger Interactive Web Loop video preview" width="700" />
@@ -632,7 +920,7 @@ Create a surreal 15-second fashion-film sequence inside a minimalist monochrome 
 
 ---
 
-## 12. Golden Guardian Web Hero Loop
+## 18. Golden Guardian Web Hero Loop
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/golden-guardian-web-hero-loop-616089/video-ad594df1ac56.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/golden-guardian-web-hero-loop-616089/poster-f3ffd3a6c85e.jpg" alt="Golden Guardian Web Hero Loop video preview" width="700" />
@@ -728,7 +1016,7 @@ Create a surreal 15-second fashion-film sequence inside a minimalist monochrome 
 
 ---
 
-## 13. The Brief: "Jessica x The Bag"
+## 19. The Brief: "Jessica x The Bag"
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/the-brief-jessica-x-the-bag-804089/video-0ef2025a0f9f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/the-brief-jessica-x-the-bag-804089/poster-2901ee10dfd8.jpg" alt="The Brief: &quot;Jessica x The Bag&quot; video preview" width="700" />
@@ -755,7 +1043,7 @@ Warm, glossy, early-2000s fashion-film color science throughout — think The De
 
 ---
 
-## 14. Seamless Warrior Sword Reflection Loop
+## 20. Seamless Warrior Sword Reflection Loop
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/seamless-warrior-sword-reflection-loop-874724/video-8c6fd235ee6b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/seamless-warrior-sword-reflection-loop-874724/poster-2ae99518ad9c.jpg" alt="Seamless Warrior Sword Reflection Loop video preview" width="700" />

@@ -1,0 +1,31 @@
+{
+  "slug": "try-it-731290",
+  "title": {
+    "en": "Try it →",
+    "zh": "Try it →"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 product commercial prompt with attached video evidence from @ImaStudio_ai.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+  },
+  "category": "product-commercial",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ImaStudio_ai",
+    "url": "https://x.com/ImaStudio_ai/status/2096807169945731290"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/ImaStudio_ai/status/2096807169945731290"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-731290/video-45072d167800.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-731290/poster-ec2c3bde4342.jpg",
+  "prompt": "Create a 15s, 9:16, 24fps high-energy anime fashion commercial for “SOLVÉRA — PINK SEOUL MODE.”\nStyle: K-pop girl-group MV × Korean Y2K × Pink Cyber × Seoul street fashion × photo-booth aesthetics × cute luxury. Pink, glossy, playful, sexy, stylish, rebellious and premium. Adult fashion only, never childish or schoolgirl.\nCharacter: One fictional adult Korean anime woman in her 20s with refined Korean features, fair luminous skin, long dark-brown hair, glossy lips, slim feminine figure, long legs and confident K-pop idol energy. Keep exactly the same face, hairstyle, age and body proportions in every shot. Outfits may change.\nPalette: hot pink, baby pink, blush pink, glossy white, chrome silver, small black accents.\nEvery shot combines character movement + dynamic camera movement + foreground graphics. Use pink bows, chrome hearts, stickers, rhinestones, plush charms, photo-booth cards, holographic stars and bold Korean typography.\n0–1s — HOOK\nExtreme close-up. Camera rushes through pink bows and heart charms. She lowers pink sunglasses and looks directly at camera. Text: “PINK!” / “오늘도 핑크.” Giant heart wipes lens.\n1–3s — SEOUL STREET\nShe confidently walks through a neon pink Hongdae street in a fitted pink mini dress, white jacket and silver boots. Low-angle tracking, strong parallax, flying stickers and hearts. Text: “SO CUTE.”\n3–5s — Y2K SWITCH\nPink handbag wipes lens. New baby-pink Y2K look. She spins and looks back while camera orbits. Korean photo-booth frames appear around her. Text: “PINK MODE.”\n5–7s — K-POP / CYBER\nFast cut to glossy K-pop stage, then futuristic pink Seoul subway. She performs a short dance move and reaches toward lens. Chrome hearts and neon Hangul orbit her. Text: “NO RULES.”\n7–9s — GRAPHIC EXPLOSION\nHuge pink Korean typography: “핑크는 자유야.” Camera flies through letters, torn paper, glitter, stickers and chrome graphics. Cut to her stepping from a pink elevator in a deep-pink mini dress. Text: “TOO CUTE?”\n9–10.5s — MAXIMUM PINK\nRapid pull-back reveals a surreal pink world filled with bows, plush charms, handbags, photo cards, headphones and floating hearts. She raises one eyebrow. Text: “아직 부족해.” Everything suddenly stops.\n10.5–12s — SOFT BREAK\nPure blush-pink background. Pale-pink mini dress and oversized white blazer. She walks forward slowly for two steps. Minimal graphics. Only bell and footsteps.\n12–15s — FINAL EXPLOSION\nBeat returns. Photo-booth cards of previous looks fly around her in a 3D collage. End on hot-pink hero background. She gives a confident cute-sexy pose and small smile.\nHuge text hits with beat:\n“CUTE”\n“IS POWER”\n“귀여움은 힘이야.”\n“SOLVÉRA — PINK SEOUL — OUT NOW”\nMusic: K-pop hyperpop × bubblegum bass, ~150 BPM, punchy kick, bright synths, bells, cute vocal chops and camera shutters.\nAvoid: face drift, body changes, inconsistent character, chibi, schoolgirl styling, childish proportions, static posing, weak camera motion, unreadable text, generic cute visuals.\nFinal feel: a premium pink Korean K-pop fashion campaign — cute, sexy, Y2K, energetic, glossy and unforgettable."
+}

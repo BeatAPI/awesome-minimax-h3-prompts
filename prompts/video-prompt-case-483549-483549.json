@@ -1,0 +1,31 @@
+{
+  "slug": "video-prompt-case-483549-483549",
+  "title": {
+    "en": "镜头慢慢推进，镜头慢慢环绕，最后定格在这个仙人人物的身上，云雾快速翻腾，人物衣服随风飘扬。",
+    "zh": "镜头慢慢推进，镜头慢慢环绕，最后定格在这个仙人人物的身上，云雾快速翻腾，人物衣服随风飘扬。"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @PixelAigc.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "7s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@PixelAigc",
+    "url": "https://x.com/PixelAigc/status/2090985277653483549"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/PixelAigc/status/2090985280685957130"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-483549-483549/video-28302ff344a0.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-483549-483549/poster-5240802e644a.jpg",
+  "prompt": "Picture Prompt in MJ\n\n实景搭建的宏大东方宫殿群，【第一层:近景实体遮挡】，巧妙利用粗粝厚重的青石、苍松或天然岩石作强烈的近景物理遮挡。【第二层:中景压迫红墙与贴地人物】，高大巍峨的官式朱红宫墙呈实体压迫感向上延伸（表面仅接受自然光，绝无自发光或霓虹感），宫墙下方坚实厚重的青石露台上，身着汉服女子双脚稳稳贴地、伴随真实接触阴影，微小如豆但衣褶清晰。【穿层雾气与空间透视】，真实的物理云雾与山岚在近、中、远三层空间之间穿梭流淌，彻底割开画面层次。【第三层:远景极限纵深】，无尽云海与远山因大气透视自然淡化。自然阳光从真实太阳方位均匀洒落，实体质感达照片级写实。80 年代香港武侠片实体布景美学，胶片颗粒细腻，暖调偏色，严禁数字平滑感、荧光色、霓虹光、体积光、光束特效、3D 渲染感、文字、水印。"
+}

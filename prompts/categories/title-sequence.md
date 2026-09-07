@@ -2,7 +2,28 @@
 
 [Back to the full gallery](../../README.md) · [Catalog index](../README.md)
 
-## 1. Lilia Astra title sequence
+## 1. Created with Hailuo H3.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-hailuo-h3-182619/video-75c2c914df29.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-hailuo-h3-182619/poster-fdfc758d64c8.jpg" alt="Created with Hailuo H3. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Ultra cinematic title sequence: A colossal glacier fractures across an endless frozen ocean. Deep blue cracks spread for miles beneath translucent ice before the entire shelf...</summary>
+
+~~~~text
+Ultra cinematic title sequence: A colossal glacier fractures across an endless frozen ocean. Deep blue cracks spread for miles beneath translucent ice before the entire shelf collapses. Mountains of ice are launched into the sky, suspended in breathtaking slow motion. Every crystal catches the sunlight while frozen debris rotates around the camera. The crystalline storm assembles the word "EXTINCTION", carved from pure glacial ice with intricate frozen textures. Hairline fractures slowly spread through every letter until the title violently shatters into millions of glittering ice fragments. Photorealistic ice simulation, IMAX-scale environmental VFX.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-hailuo-h3-182619/video-75c2c914df29.webm)
+
+**Source:** [@CharaspowerAI](https://x.com/CharaspowerAI/status/2090740724803182619) · 15s · 16:9 · title sequence
+
+---
+
+## 2. Lilia Astra title sequence
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/lilia-astra-title-sequence/video-4dd4fb0f9f64.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/lilia-astra-title-sequence/poster-13c8ea7034f2.jpg" alt="Lilia Astra title sequence video preview" width="700" />

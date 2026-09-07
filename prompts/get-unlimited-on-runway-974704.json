@@ -1,0 +1,31 @@
+{
+  "slug": "get-unlimited-on-runway-974704",
+  "title": {
+    "en": "Get unlimited on Runway",
+    "zh": "Get unlimited on Runway"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 fashion prompt with attached video evidence from @whorange__.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3时尚提示词。"
+  },
+  "category": "fashion",
+  "mode": "reference-to-video",
+  "duration": "27s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@whorange__",
+    "url": "https://x.com/whorange__/status/2090392284516974704"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/whorange__/status/2090392289206239415"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/get-unlimited-on-runway-974704/video-d33b402d089d.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/get-unlimited-on-runway-974704/poster-f3361d4084ff.jpg",
+  "prompt": "Prompt 1\n\n使用 @Image1 作为环境参考，使用 @Image2 作为女性战士参考，使用 @Image3 作为巨鸟敌人参考。严格保留参考图中的视觉设定：@Image1 用于表现一片浅水覆盖、布满巨大断裂石柱的遗迹世界，以及带有倒影的水面；@Image2 用于表现这位二次元女性战士的准确角色设计，包括超长编发、服装、配色、绑带、靴子和巨大的刀刃；@Image3 用于表现巨型白色鸟类敌人的准确外形，包括暴露出的彩色内部骨骼结构、细长锋利的喙和发光的眼睛。整体保持干净的二维动漫插画风格，细致有表现力的线稿，赛璐璐上色，浅色背景，以及鲜明的珊瑚橙—青蓝色调。\n\n制作一个15秒高强度动漫战斗场景。女性战士站在遗迹浅水区的反光水面中。巨鸟突然猛冲向前，用长喙凶狠刺击。她在最后一刻侧身闪避，水花猛烈炸开，巨鸟的喙重重砸入水面。她立刻沿着水面高速冲刺，跳上巨鸟的喙，在上面奔跑后高高跃起，挥动巨大的刀刃斩向巨鸟头部。巨鸟抬起装甲般的翅膀进行格挡，产生强烈的动漫冲击爆发效果，伴随羽毛、水花和速度线。战士在空中翻身落到巨鸟身后，落入水中后再次突进。巨鸟巨翼横扫湖面；她俯身滑行，从攻击下方穿过，并以一记向上的反击斩回应。动作要快速、流畅、凶猛，战斗编排紧凑，头发与布料具有强烈动感，大量水花飞溅、羽毛纷飞，冲击帧强烈，无对白，无慢动作，无空档时间，角色设计前后一致。\n\nPrompt 2\n使用 @Video1 作为主要参考，用于保持剧情延续性、动画风格、战斗节奏，以及第一支视频结尾时双方的位置关系。同时使用 @Image1 作为环境参考，@Image2 作为女性战士参考，@Image3 作为巨鸟参考。画面必须从 @Video1 的结尾直接衔接，不能重新开始。保留 @Image1 中相同的浅水遗迹世界，保留 @Image2 中相同的女性战士造型与武器，保留 @Image3 中相同的巨鸟怪物设计。整体保持干净的手绘二维动漫风格，锐利线稿，赛璐璐上色，浅色背景，以及鲜明的珊瑚橙—青蓝色调。\n\n制作一个15秒动漫战斗续篇。在上一轮碰撞之后，巨鸟发动更猛烈的进攻，一边在浅水中高速冲锋，一边连续多次用长喙向前突刺。女性战士快速闪避，并在断裂石柱之间跳跃穿梭，巨鸟在她身后不断撞碎遗迹。她突然转身，径直朝巨鸟冲去，踩上正在下刺的鸟喙，借力高高跃入空中。巨鸟张开双翼，紧追而上。双方在空中正面碰撞：她使出一记强力下劈，巨鸟则用装甲翅膀格挡，爆发出巨大的动漫式冲击闪光与震荡波。随后双方一起坠向反光湖面。战士率先落地，在水面上滑行后立刻再次加速冲刺。巨鸟落在她对面，也在同一时刻发动冲锋。双方正面高速对冲，爆发出最终的刀刃对鸟喙的猛烈碰撞，冲击波沿水面呈圆形扩散，并震裂附近的石柱。结尾停在双方被冲击力弹开后，立刻重新摆出下一轮攻击姿态。整体战斗要极其流畅，具备高质量作画感（sakuga），动作衔接迅猛，包含拖影、速度线、大量水花与飞散羽毛，无对白，无慢动作，并严格保持 @Video1、@Image1、@Image2 和 @Image3 中的角色身份与比例一致。"
+}

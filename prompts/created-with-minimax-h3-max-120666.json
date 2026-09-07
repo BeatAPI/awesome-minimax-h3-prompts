@@ -1,0 +1,31 @@
+{
+  "slug": "created-with-minimax-h3-max-120666",
+  "title": {
+    "en": "Created with MiniMax H3 Max",
+    "zh": "Created with MiniMax H3 Max"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @TaliaAariz.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "4:7",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@TaliaAariz",
+    "url": "https://x.com/TaliaAariz/status/2095857062987120666"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/TaliaAariz/status/2095857062987120666"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-max-120666/video-1dd8c321e87b.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-max-120666/poster-bba190dc87b8.jpg",
+  "prompt": "A cinematic medium shot of a gentle East Asian young woman with dark hair styled in a bun adorned with a blue-and-white checkered bow, standing on a sunny pebbled lakefront. She wears a sleeveless light blue polka-dot tulle dress with long, translucent white ribbons flowing from her shoulder that flutter gracefully in a gentle breeze. Holding a lush bouquet of pastel pink, baby blue, and white flowers, she smiles warmly at the camera, softly touches the flower petals, and tilts her head back slightly to close her eyes and feel the breeze. In the background, glistening blue lake water sparkles under the sun, bordered by tall green reeds along the shore and serene blue mountains under a bright, clear sky, captured in soft natural daylight with a shallow depth of field."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "hailuo-h3-fluffi-a-movie-one-jump-scare-the-tv-469310",
+  "title": {
+    "en": "Hailuo H3. Fluffi, a movie, one jump scare. The TV is never in frame.",
+    "zh": "Hailuo H3. Fluffi, a movie, one jump scare. The TV is never in frame."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 action prompt with attached video evidence from @GlennHasABeard.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动作提示词。"
+  },
+  "category": "action",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "7:4",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@GlennHasABeard",
+    "url": "https://x.com/GlennHasABeard/status/2095573685671469310"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/GlennHasABeard/status/2095573685671469310"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-fluffi-a-movie-one-jump-scare-the-tv-469310/video-b0edf011c802.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-fluffi-a-movie-one-jump-scare-the-tv-469310/poster-cda1aa4922ca.jpg",
+  "prompt": "\"picks one piece of popcorn off the cushion and eats it with as much dignity as he can manage\"\n\nDuration: 15s. Camera: the TV's point of view, locked.\n\nThe scare is one second. The recovery is five. Reaction clips live or die on the recovery."
+}

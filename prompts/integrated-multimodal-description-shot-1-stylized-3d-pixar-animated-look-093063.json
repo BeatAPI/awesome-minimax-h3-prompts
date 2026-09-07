@@ -1,0 +1,31 @@
+{
+  "slug": "integrated-multimodal-description-shot-1-stylized-3d-pixar-animated-look-093063",
+  "title": {
+    "en": "\"integrated_multimodal_description: [Shot 1] Stylized 3D Pixar-animated look",
+    "zh": "\"integrated_multimodal_description: [Shot 1] Stylized 3D Pixar-animated look"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 fashion prompt with attached video evidence from @ManuAGI01.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3时尚提示词。"
+  },
+  "category": "fashion",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ManuAGI01",
+    "url": "https://x.com/ManuAGI01/status/2095846567853093063"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/ManuAGI01/status/2095846567853093063"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/integrated-multimodal-description-shot-1-stylized-3d-pixar-animated-look-093063/video-e08a8e78744e.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/integrated-multimodal-description-shot-1-stylized-3d-pixar-animated-look-093063/poster-afc1b6a2c715.jpg",
+  "prompt": "\"integrated_multimodal_description: [Shot 1] Stylized 3D Pixar-animated look, soft rounded\ncharacter design, expressive exaggerated eyes, glossy cartoon textures, warm cinematic lighting,\n16:9, fast editorial comedic energy with snap reframes. A veterinary hospital back corridor with\nscuffed skirting, laminated posters and strip lighting. A medium tracking shot follows OSKAR, a\nstylized man in his forties in a courier's fleece with a lanyard swinging, arms wrapped around a\nlarge cardboard box with airholes punched in the lid. He hurries along scanning door numbers.\nOskar (S1) mutters to himself in a fast anxious voice, <d>[English] Reception. Just needs a\nsignature. Reception.</d>\n[Shot 2] At 00:02.500, the camera cuts to a wide shot as he backs through the wrong door and\nturns around into a bright operating theatre — four masked surgical staff in scrubs standing\naround a table under a huge overhead lamp, every pair of eyes above the masks turned toward him\nin complete silence. A monitor beeps steadily. The box slips an inch in his arms.\nOskar (S1) says in a very small voice, <d>[English] Is this not reception.</d>\n[Shot 3] At 00:05.500, the camera cuts to a medium shot of a formidable surgeon, a woman in her\nsixties, gloved hands held up and clear, mask pulled tight. She looks him up and down once, then\njerks her chin firmly at the empty space beside the table. The surgeon (S2) says in a brisk,\ncompletely certain voice, <d>[English] Finally. Scrub in, we're waiting.</d> Trays rattle.\nEveryone shuffles round to make room for him.\n[Shot 4] At 00:08.500, the camera cuts to a fast montage of Oskar bluffing at the table, box now\nabandoned on a stool behind him — snapping on gloves far too enthusiastically, holding out a flat\npalm with enormous authority, then nodding gravely at a monitor he clearly cannot read. A nurse\nslaps an instrument into his hand. He holds it up to the light and turns it round twice. Every\nstaff member responds instantly and correctly to each gesture, working faster and more smoothly\nthan before he arrived. Oskar's face cycles through panic, disbelief and delight.\n[Shot 5] At 00:12.000, the camera cuts to a wide shot as the door swings open and a young vet in\nscrubs hurries in tying her mask, sees the operation already running, and stops. The whole room\nturns between the two of them. Oskar is already moving — he peels the gloves off, scoops up the\ncardboard box, and backs toward the door giving the room a double thumbs up. Oskar (S1) says in a\nbright rushed voice, <d>[English] Great work everyone, sign here next time.</d> He is gone. The\nsurgeon watches him go with visible approval. The camera holds still on the room.\n\noverall_soundscape: A theatre room tone with a steady monitor beep and the hum of overhead lamps.\nFootsteps and cardboard shifting in a corridor. A heavy door swinging on its hinge. Complete\nsilence with one instrument tray tick. Wheels rolling on hard flooring. Latex gloves snapping.\nMetal instruments slapped into a palm. Muffled voices behind masks. Footsteps leaving fast and a\ndoor swinging shut.\n\nnon_diegetic_music: A light plucked pizzicato strings figure at a brisk tempo opens the video and\ncuts out completely at 00:02.500 into one beat of total silence. A single low bassoon note\nfollows. From 00:08.500 a tense, mock-serious strings and low percussion figure builds through the\nmontage, playing the situation completely straight while getting more absurd, and cuts off on one\nhard comedic sting as he reaches the door at 00:14.000.\""
+}

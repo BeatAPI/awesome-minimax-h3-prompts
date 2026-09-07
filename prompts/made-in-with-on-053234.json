@@ -1,0 +1,31 @@
+{
+  "slug": "made-in-with-on-053234",
+  "title": {
+    "en": "Made in with on",
+    "zh": "Made in with on"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @AllaAisling.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+  },
+  "category": "music-video",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@AllaAisling",
+    "url": "https://x.com/AllaAisling/status/2091617234930053234"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/AllaAisling/status/2091617327368360348"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/made-in-with-on-053234/video-c27e75822678.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/made-in-with-on-053234/poster-68f6dcd81898.jpg",
+  "prompt": "Image 1:\nFuturistic racing game HUD interface, premium cyber racing design, transparent glass panels, holographic speedometer, position ranking display, energy boost meter, sharp aerodynamic graphics, glowing route map, futuristic typography, clean competitive esports style interface, high-tech minimal design, AAA racing game quality, 16:9."
+}

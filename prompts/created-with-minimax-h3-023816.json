@@ -1,0 +1,31 @@
+{
+  "slug": "created-with-minimax-h3-023816",
+  "title": {
+    "en": "Created with MiniMax H3.",
+    "zh": "Created with MiniMax H3."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 product commercial prompt with attached video evidence from @CaliraVal.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+  },
+  "category": "product-commercial",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "4:3",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@CaliraVal",
+    "url": "https://x.com/CaliraVal/status/2096833346555023816"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/CaliraVal/status/2096833346555023816"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-023816/video-90162a4f2d1f.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-023816/poster-7725b7fe255a.jpg",
+  "prompt": "A cinematic fashion film set on a breathtaking coastal landscape. A stylish young woman walks naturally along a rugged seaside path, surrounded by wild greenery and delicate flowers. She wears a relaxed oversized brown knit sweater with elegant ivory trousers. Behind her, crystal-blue ocean waters stretch toward a towering lush green mountain rising from the sea.\n\nSoft golden-hour sunlight creates a warm, dreamy atmosphere. A gentle ocean breeze naturally moves her hair and sweater. Start with a wide cinematic establishing shot of the coastline, then smoothly track alongside her as she walks, transitioning into elegant close-ups of her outfit, hair, and subtle facial expressions.\n\nSpoken Voice / Dialogue: The woman speaks naturally while walking, in a soft, calm, confident female voice. Her delivery should feel spontaneous and conversational, with realistic breathing and subtle pauses. She says:\n\n“Sometimes, all you need is a quiet place, a little fresh air, and a moment to simply slow down and enjoy where you are.”\n\nHer lip movements must accurately synchronize with every spoken word. Natural facial expressions, realistic mouth movement, and subtle head gestures while speaking. No exaggerated acting.\n\nAmbient Audio: Gentle ocean waves crashing against the rocks, soft coastal wind, subtle rustling of flowers and leaves, quiet footsteps, and distant seabirds. Keep the environmental sounds natural and cinematic underneath the dialogue. No background music and no additional voices.\n\nPhotorealistic, natural skin and hair, realistic fabric movement, cinematic lighting, smooth camera movement, shallow depth of field, soft bokeh, subtle film grain, premium fashion-commercial aesthetic, atmospheric color grading, 4K cinematic quality. No text, no logos, no watermark."
+}

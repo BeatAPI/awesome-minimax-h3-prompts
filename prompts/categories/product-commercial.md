@@ -36,7 +36,183 @@ Slow-motion hero shot of the luxury perfume bottle elegantly rotating as glowing
 
 ---
 
-## 2. I made a comedy special with Hailuo H3 and the timing is spot on
+## 2. Created with MiniMax H3.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-023816/video-90162a4f2d1f.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-023816/poster-7725b7fe255a.jpg" alt="Created with MiniMax H3. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — A cinematic fashion film set on a breathtaking coastal landscape. A stylish young woman walks naturally along a rugged seaside path, surrounded by wild greenery and delicate...</summary>
+
+~~~~text
+A cinematic fashion film set on a breathtaking coastal landscape. A stylish young woman walks naturally along a rugged seaside path, surrounded by wild greenery and delicate flowers. She wears a relaxed oversized brown knit sweater with elegant ivory trousers. Behind her, crystal-blue ocean waters stretch toward a towering lush green mountain rising from the sea.
+
+Soft golden-hour sunlight creates a warm, dreamy atmosphere. A gentle ocean breeze naturally moves her hair and sweater. Start with a wide cinematic establishing shot of the coastline, then smoothly track alongside her as she walks, transitioning into elegant close-ups of her outfit, hair, and subtle facial expressions.
+
+Spoken Voice / Dialogue: The woman speaks naturally while walking, in a soft, calm, confident female voice. Her delivery should feel spontaneous and conversational, with realistic breathing and subtle pauses. She says:
+
+“Sometimes, all you need is a quiet place, a little fresh air, and a moment to simply slow down and enjoy where you are.”
+
+Her lip movements must accurately synchronize with every spoken word. Natural facial expressions, realistic mouth movement, and subtle head gestures while speaking. No exaggerated acting.
+
+Ambient Audio: Gentle ocean waves crashing against the rocks, soft coastal wind, subtle rustling of flowers and leaves, quiet footsteps, and distant seabirds. Keep the environmental sounds natural and cinematic underneath the dialogue. No background music and no additional voices.
+
+Photorealistic, natural skin and hair, realistic fabric movement, cinematic lighting, smooth camera movement, shallow depth of field, soft bokeh, subtle film grain, premium fashion-commercial aesthetic, atmospheric color grading, 4K cinematic quality. No text, no logos, no watermark.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-023816/video-90162a4f2d1f.webm)
+
+**Source:** [@CaliraVal](https://x.com/CaliraVal/status/2096833346555023816) · 15s · 4:3 · product commercial
+
+---
+
+## 3. Try it →
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-731290/video-45072d167800.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-731290/poster-ec2c3bde4342.jpg" alt="Try it → video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a 15s, 9:16, 24fps high-energy anime fashion commercial for “SOLVÉRA — PINK SEOUL MODE.” Style: K-pop girl-group MV × Korean Y2K × Pink Cyber × Seoul street fashion ×...</summary>
+
+~~~~text
+Create a 15s, 9:16, 24fps high-energy anime fashion commercial for “SOLVÉRA — PINK SEOUL MODE.”
+Style: K-pop girl-group MV × Korean Y2K × Pink Cyber × Seoul street fashion × photo-booth aesthetics × cute luxury. Pink, glossy, playful, sexy, stylish, rebellious and premium. Adult fashion only, never childish or schoolgirl.
+Character: One fictional adult Korean anime woman in her 20s with refined Korean features, fair luminous skin, long dark-brown hair, glossy lips, slim feminine figure, long legs and confident K-pop idol energy. Keep exactly the same face, hairstyle, age and body proportions in every shot. Outfits may change.
+Palette: hot pink, baby pink, blush pink, glossy white, chrome silver, small black accents.
+Every shot combines character movement + dynamic camera movement + foreground graphics. Use pink bows, chrome hearts, stickers, rhinestones, plush charms, photo-booth cards, holographic stars and bold Korean typography.
+0–1s — HOOK
+Extreme close-up. Camera rushes through pink bows and heart charms. She lowers pink sunglasses and looks directly at camera. Text: “PINK!” / “오늘도 핑크.” Giant heart wipes lens.
+1–3s — SEOUL STREET
+She confidently walks through a neon pink Hongdae street in a fitted pink mini dress, white jacket and silver boots. Low-angle tracking, strong parallax, flying stickers and hearts. Text: “SO CUTE.”
+3–5s — Y2K SWITCH
+Pink handbag wipes lens. New baby-pink Y2K look. She spins and looks back while camera orbits. Korean photo-booth frames appear around her. Text: “PINK MODE.”
+5–7s — K-POP / CYBER
+Fast cut to glossy K-pop stage, then futuristic pink Seoul subway. She performs a short dance move and reaches toward lens. Chrome hearts and neon Hangul orbit her. Text: “NO RULES.”
+7–9s — GRAPHIC EXPLOSION
+Huge pink Korean typography: “핑크는 자유야.” Camera flies through letters, torn paper, glitter, stickers and chrome graphics. Cut to her stepping from a pink elevator in a deep-pink mini dress. Text: “TOO CUTE?”
+9–10.5s — MAXIMUM PINK
+Rapid pull-back reveals a surreal pink world filled with bows, plush charms, handbags, photo cards, headphones and floating hearts. She raises one eyebrow. Text: “아직 부족해.” Everything suddenly stops.
+10.5–12s — SOFT BREAK
+Pure blush-pink background. Pale-pink mini dress and oversized white blazer. She walks forward slowly for two steps. Minimal graphics. Only bell and footsteps.
+12–15s — FINAL EXPLOSION
+Beat returns. Photo-booth cards of previous looks fly around her in a 3D collage. End on hot-pink hero background. She gives a confident cute-sexy pose and small smile.
+Huge text hits with beat:
+“CUTE”
+“IS POWER”
+“귀여움은 힘이야.”
+“SOLVÉRA — PINK SEOUL — OUT NOW”
+Music: K-pop hyperpop × bubblegum bass, ~150 BPM, punchy kick, bright synths, bells, cute vocal chops and camera shutters.
+Avoid: face drift, body changes, inconsistent character, chibi, schoolgirl styling, childish proportions, static posing, weak camera motion, unreadable text, generic cute visuals.
+Final feel: a premium pink Korean K-pop fashion campaign — cute, sexy, Y2K, energetic, glossy and unforgettable.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-731290/video-45072d167800.webm)
+
+**Source:** [@ImaStudio_ai](https://x.com/ImaStudio_ai/status/2096807169945731290) · 15s · 16:9 · product commercial
+
+---
+
+## 4. Cold, creamy, and impossible to resist. 🍓✨ One spoonful changes everything.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/cold-creamy-and-impossible-to-resist-one-spoonful-changes-everything-689457/video-bdc9d5f87ae9.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/cold-creamy-and-impossible-to-resist-one-spoonful-changes-everything-689457/poster-1fe0602318ea.jpg" alt="Cold, creamy, and impossible to resist. 🍓✨ One spoonful changes everything. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — TITLE: Premium Strawberry Cheesecake Ice Cream Product Commercial Storyboard FORMAT: • Single-page premium storyboard • 3:4 Portrait ratio • Cinematic frozen dessert advertising...</summary>
+
+~~~~text
+TITLE:
+Premium Strawberry Cheesecake Ice Cream Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• Cinematic frozen dessert advertising campaign
+• 8 completely different product-focused scenes
+• Product remains the main visual hero
+• Premium advertising agency presentation
+
+**HEADER:**
+• Bold editorial typography
+• Information cards:
+
+* Duration: 10 Seconds
+* Style: Cinematic Dessert Commercial
+* Product: Strawberry Cheesecake Ice Cream
+* Audio: Spoon Scrape + Creamy Dessert ASMR
+  • Why This Style Works section
+  • Soft pink, strawberry red, cream and vanilla aesthetic
+  • Minimal strawberry and dessert-themed decorative details
+
+STORYBOARD:
+
+1. Premium strawberry cheesecake ice cream tub standing dramatically on a chilled marble surface, front packaging perfectly visible
+2. Tub opening with a crisp close-up of the lid lifting and creamy ice cream revealed underneath
+3. Ice cream scoop pressing into the surface, revealing rich strawberry cheesecake layers and realistic creamy texture
+4. Extreme macro of strawberry pieces and cheesecake crumbs embedded throughout the ice cream
+5. Fresh strawberry sauce flowing slowly across a perfectly formed scoop, creating glossy red ribbons
+6. Ice cream scoop lifted onto a glass dessert cup with tiny cheesecake crumbs falling naturally around it
+7. Close-up of spoon breaking through the creamy scoop, revealing strawberry filling and soft cheesecake pieces inside
+8. Final hero product shot with the original ice cream tub beside an elegant dessert cup, fresh strawberries, crumbs and strawberry sauce arranged around the product
+
+EVERY PANEL:
+• Scene number
+• Duration badge
+• Camera direction
+• Visual
+• Action
+• Product detail
+
+CAMERA:
+Extreme macro food photography, smooth scoop movement, slow-motion strawberry sauce pour, detailed texture close-ups, controlled push-in, shallow depth of field, elegant overhead composition, cinematic final packshot.
+
+STYLE:
+Ultra-realistic premium frozen dessert commercial, rich creamy ice cream texture, realistic strawberry pieces, detailed cheesecake crumbs, glossy strawberry sauce, authentic condensation, sharp packaging details, soft cinematic lighting, luxurious food styling, professional dessert advertising, 8K.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/cold-creamy-and-impossible-to-resist-one-spoonful-changes-everything-689457/video-bdc9d5f87ae9.webm)
+
+**Source:** [@itxabdullaa](https://x.com/itxabdullaa/status/2096555195618689457) · 10s · 9:16 · product commercial
+
+---
+
+## 5. You can use this style for MVs and character promos too.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/you-can-use-this-style-for-mvs-and-character-promos-142588/video-a7fdf9edba2b.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/you-can-use-this-style-for-mvs-and-character-promos-142588/poster-dee683a178db.jpg" alt="You can use this style for MVs and character promos too. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a Japanese anime pop-art motion-graphics commercial. Kiki must exactly match the character reference: lime-yellow hair with cyan and hot-pink accents, two colorful space...</summary>
+
+~~~~text
+Create a Japanese anime pop-art motion-graphics commercial.
+
+Kiki must exactly match the character reference: lime-yellow hair with cyan and hot-pink accents, two colorful space buns, playful hair clips, bright anime eyes, cheek stickers, oversized neon pixel-print jacket, white cropped graphic top, dark strapped mini skirt, colorful accessories, cyan socks and chunky multicolor platform sneakers. Preserve the same face, hairstyle, proportions, outfit and colors throughout. Do not reproduce the character-sheet layout or labels.
+
+0–1.5s: A tiny magenta pixel expands on a white background, transforming into a spinning neon pixel-heart power-up charm suspended from a chain. Cyan, lime and hot-pink radial speed lines burst outward with checkerboard and halftone textures. Smash cut to the exact bold title: “PIXEL POP!”  1.5–3.6s: Extreme close-up of Kiki’s bright eyes opening on the beat. She smiles mischievously and points directly toward the camera. Surround her with pixel stars, controller-button icons and comic speed lines. Display the exact phrases “READY?” and “PRESS START!” Then snap to a second expression with the exact text “TOO FAST!” and “PLAYER KIKI”.  3.6–5.6s: Rapid fashion-detail montage: close-up of her colorful jacket collar and pixel patches, backpack strap, controller charm, belt buckles, neon-painted fingernails and small chain accessories. Use quick pans, graphic wipes and hard beat-synced cuts.  5.6–7.2s: Close-up of Kiki’s legs and chunky platform sneaker. She kicks the sole directly toward the lens, creating extreme fisheye foreshortening. A circular pixel shockwave, stars and colorful game particles explode beneath the shoe.  7.2–9.7s: Reveal Kiki reclining confidently in a dynamic full-body poster pose, one sneaker dominating the foreground and one hand reaching toward the viewer. Surround her with floating handheld consoles, controllers, pixel hearts, arcade stars, chat bubbles and colorful digital creatures. Use subtle parallax so every collage layer moves at a different speed.  9.7–12.3s: Kiki jumps forward and points at the camera while bold kinetic typography rapidly assembles around her. Show only these exact phrases: “LEVEL UP!”, “LOUD / BRIGHT / PIXEL / WILD” and “MAX COMBO!” Letters slam, stretch and bounce with white, black, hot-pink, cyan and lime color blocks.  12.3–14s: Finish on a polished collectible game-box or magazine-cover composition featuring Kiki’s full pose. Display the exact final title “KIKI POP”, with the smaller phrases “PLAYER ONE EDITION” and “BONUS LEVEL: MAX”. Add a barcode, tiny pixel icons and a colorful decorative border, then hold the final frame.
+
+Crisp premium anime illustration, Y2K Harajuku arcade aesthetic, saturated neon palette, bold black outlines, halftone dots, checkerboards, pixel graphics, comic-book speed lines and energetic 2D/3D parallax. Fast electronic arcade sound design with button clicks, digital power-up tones and beat-synced impact sounds. All specified text must be correctly spelled, large and clearly legible. No realistic person, no fruit imagery, no character duplication, no outfit changes, no distorted hands and no additional or unreadable text.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/you-can-use-this-style-for-mvs-and-character-promos-142588/video-a7fdf9edba2b.webm)
+
+**Source:** [@Mayz1169](https://x.com/Mayz1169/status/2095875210562142588) · 14s · 16:9 · product commercial
+
+---
+
+## 6. I made a comedy special with Hailuo H3 and the timing is spot on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/i-made-a-comedy-special-with-hailuo-h3-and-the-076759/video-cad41e26b34c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/i-made-a-comedy-special-with-hailuo-h3-and-the-076759/poster-abdb310fd381.jpg" alt="I made a comedy special with Hailuo H3 and the timing is spot on video preview" width="700" />
@@ -98,7 +274,7 @@ Production details: Keep the same comedian, outfit, microphone, stage and audien
 
 ---
 
-## 3. Second Storyboard Image to video using MiniMax H3 on
+## 7. Second Storyboard Image to video using MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/second-storyboard-image-to-video-using-minimax-h3-on-665414/video-2c4784f7af18.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/second-storyboard-image-to-video-using-minimax-h3-on-665414/poster-bbe5730a76e8.jpg" alt="Second Storyboard Image to video using MiniMax H3 on video preview" width="700" />
@@ -1583,7 +1759,7 @@ No humans stepping on characters.
 
 ---
 
-## 4. First Storyboard Image to video using 's MiniMax H3 on
+## 8. First Storyboard Image to video using 's MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-517354/video-f661e6c0d06a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-517354/poster-b7e70bb4f45d.jpg" alt="First Storyboard Image to video using 's MiniMax H3 on video preview" width="700" />
@@ -2990,7 +3166,7 @@ CUT TO CHILL.
 
 ---
 
-## 5. Created with MiniMax H3
+## 9. Created with MiniMax H3
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-823597/video-68e6bf825c2a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-823597/poster-27f10be5609b.jpg" alt="Created with MiniMax H3 video preview" width="700" />
@@ -3020,7 +3196,7 @@ Style: Luxury fragrance commercial, cinematic, photorealistic, 4K.
 
 ---
 
-## 6. Seocnd Storyboard image to video using 's MiniMax H3 on
+## 10. Seocnd Storyboard image to video using 's MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/seocnd-storyboard-image-to-video-using-s-minimax-h3-on-442041/video-252019a6d170.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/seocnd-storyboard-image-to-video-using-s-minimax-h3-on-442041/poster-b607393e7e7f.jpg" alt="Seocnd Storyboard image to video using 's MiniMax H3 on video preview" width="700" />
@@ -4489,7 +4665,7 @@ No levitating food.
 
 ---
 
-## 7. First Storyboard image to video using 's MiniMax H3 on
+## 11. First Storyboard image to video using 's MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-995928/video-9cbd5b66bb9b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-995928/poster-7150a1d5c769.jpg" alt="First Storyboard image to video using 's MiniMax H3 on video preview" width="700" />
@@ -5995,7 +6171,7 @@ The viewer should immediately want to see:
 
 ---
 
-## 8. Second Storyboard Image to video using MiniMax H3 on
+## 12. Second Storyboard Image to video using MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/second-storyboard-image-to-video-using-minimax-h3-on-215889/video-ecca828f5d4c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/second-storyboard-image-to-video-using-minimax-h3-on-215889/poster-987b9e53a9c3.jpg" alt="Second Storyboard Image to video using MiniMax H3 on video preview" width="700" />
@@ -7443,7 +7619,7 @@ harmonica must remain visible.
 
 ---
 
-## 9. First Storyboard image to video using 's MiniMax H3 on
+## 13. First Storyboard image to video using 's MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-440739/video-034b4f923dc7.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-440739/poster-cf6d96d10055.jpg" alt="First Storyboard image to video using 's MiniMax H3 on video preview" width="700" />
@@ -8900,7 +9076,7 @@ No crime/gangster framing.
 
 ---
 
-## 10. Second Storyboard Image to video using MiniMax H3 on
+## 14. Second Storyboard Image to video using MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/second-storyboard-image-to-video-using-minimax-h3-on-451093/video-224daea0e392.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/second-storyboard-image-to-video-using-minimax-h3-on-451093/poster-b91e6afd1269.jpg" alt="Second Storyboard Image to video using MiniMax H3 on video preview" width="700" />
@@ -10363,7 +10539,7 @@ MOTION RULES — KIWI
 
 ---
 
-## 11. First Storyboard Image to video using 's MiniMax H3 on
+## 15. First Storyboard Image to video using 's MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-954269/video-a4a4f16df0e6.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-954269/poster-db4db1d3907d.jpg" alt="First Storyboard Image to video using 's MiniMax H3 on video preview" width="700" />
@@ -11829,7 +12005,7 @@ King Pine must still visibly wear:
 
 ---
 
-## 12. Fourthi Storyboard Image to video using MiniMax H3 on
+## 16. Fourthi Storyboard Image to video using MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/fourthi-storyboard-image-to-video-using-minimax-h3-on-470161/video-29eaf32ca5bd.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/fourthi-storyboard-image-to-video-using-minimax-h3-on-470161/poster-02038036727b.jpg" alt="Fourthi Storyboard Image to video using MiniMax H3 on video preview" width="700" />
@@ -13241,7 +13417,7 @@ Restored night palette:
 
 ---
 
-## 13. No painful reactions.
+## 17. No painful reactions.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/no-painful-reactions-707867/video-1bf525965dd7.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/no-painful-reactions-707867/poster-655644de766c.jpg" alt="No painful reactions. video preview" width="700" />
@@ -14630,7 +14806,7 @@ No painful reactions.
 
 ---
 
-## 14. No moon restoration yet.
+## 18. No moon restoration yet.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/no-moon-restoration-yet-834347/video-837f31b71233.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/no-moon-restoration-yet-834347/poster-87888b4156ef.jpg" alt="No moon restoration yet. video preview" width="700" />
@@ -16103,7 +16279,7 @@ No moon restoration yet.
 
 ---
 
-## 15. First Storyboard Image to video using 's MiniMax H3 on
+## 19. First Storyboard Image to video using 's MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-105162/video-d32d3c31e4ed.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-105162/poster-36c4ecade43d.jpg" alt="First Storyboard Image to video using 's MiniMax H3 on video preview" width="700" />
@@ -17513,7 +17689,7 @@ and
 
 ---
 
-## 16. Second Storyboard Image to video using 's MiniMax H3 on
+## 20. Second Storyboard Image to video using 's MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/second-storyboard-image-to-video-using-s-minimax-h3-on-495506/video-8719e1aaa9da.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/second-storyboard-image-to-video-using-s-minimax-h3-on-495506/poster-771aa67142d6.jpg" alt="Second Storyboard Image to video using 's MiniMax H3 on video preview" width="700" />
@@ -18915,7 +19091,7 @@ Individual stars physically move to new locations.
 
 ---
 
-## 17. The viewer should immediately want to see how 3,200 tiny stars transform the night in PART 2.
+## 21. The viewer should immediately want to see how 3,200 tiny stars transform the night in PART 2.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/the-viewer-should-immediately-want-to-see-how-3-200-630916/video-24183f17ba1e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/the-viewer-should-immediately-want-to-see-how-3-200-630916/poster-714aea4de2e0.jpg" alt="The viewer should immediately want to see how 3,200 tiny stars transform the night in PART 2. video preview" width="700" />
@@ -20286,7 +20462,7 @@ The viewer should immediately want to see how 3,200 tiny stars transform the nig
 
 ---
 
-## 18. Product Commercial Study 969702
+## 22. Product Commercial Study 969702
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/16-9-luxury-fashion-commercial-using-as-exact-vi-969702/video-c07c62a99d2c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/16-9-luxury-fashion-commercial-using-as-exact-vi-969702/poster-949e012ef325.jpg" alt="Product Commercial Study 969702 video preview" width="700" />
@@ -20309,7 +20485,7 @@ Use bright, fashion forward European luxury cinematography inspired by a restore
 
 ---
 
-## 19. [REFERENCE CONTROL] Use the uploaded PART 2 storyboard image for “The Tiny
+## 23. [REFERENCE CONTROL] Use the uploaded PART 2 storyboard image for “The Tiny
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/reference-control-use-the-uploaded-part-2-storyboard-image-for-477564/video-09c5896a79ee.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/reference-control-use-the-uploaded-part-2-storyboard-image-for-477564/poster-616f23c3b7b5.jpg" alt="[REFERENCE CONTROL] Use the uploaded PART 2 storyboard image for “The Tiny video preview" width="700" />
@@ -21714,7 +21890,7 @@ No grabbing.
 
 ---
 
-## 20. First Storyboard Image to video using 's MiniMax H3 on
+## 24. First Storyboard Image to video using 's MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-333283/video-2b0e6363cbd5.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-333283/poster-11e6ed23c117.jpg" alt="First Storyboard Image to video using 's MiniMax H3 on video preview" width="700" />
@@ -23080,7 +23256,7 @@ Brum’s eyes remain closed.
 
 ---
 
-## 21. Third Storyboard Image to video using MiniMax H3 on
+## 25. Third Storyboard Image to video using MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/third-storyboard-image-to-video-using-minimax-h3-on-135909/video-8c68e979a329.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/third-storyboard-image-to-video-using-minimax-h3-on-135909/poster-3062cde194e2.jpg" alt="Third Storyboard Image to video using MiniMax H3 on video preview" width="700" />
@@ -24539,7 +24715,7 @@ do not restart it.
 
 ---
 
-## 22. Second Storyboard Image to video using 's MiniMax H3 on
+## 26. Second Storyboard Image to video using 's MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/second-storyboard-image-to-video-using-s-minimax-h3-on-647644/video-0d2454d0cc90.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/second-storyboard-image-to-video-using-s-minimax-h3-on-647644/poster-6af16ef5bd37.jpg" alt="Second Storyboard Image to video using 's MiniMax H3 on video preview" width="700" />
@@ -26005,7 +26181,7 @@ She realizes the problem.
 
 ---
 
-## 23. First Storyboard Image to video using 's MiniMax H3 on
+## 27. First Storyboard Image to video using 's MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-951530/video-1d1aa189c088.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-951530/poster-33564592648b.jpg" alt="First Storyboard Image to video using 's MiniMax H3 on video preview" width="700" />
@@ -27286,7 +27462,7 @@ This cut should make the viewer immediately want to watch PART 2.
 
 ---
 
-## 24. Minimax H3 in
+## 28. Minimax H3 in
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-in-173149/video-f43c338c8766.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-in-173149/poster-c2e45f6b45ee.jpg" alt="Minimax H3 in video preview" width="700" />
@@ -27359,7 +27535,7 @@ This cut should make the viewer immediately want to watch PART 2.
 
 ---
 
-## 25. Storyboard 2 to Video using MiniMax H3 on
+## 29. Storyboard 2 to Video using MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/storyboard-2-to-video-using-minimax-h3-on-852170/video-6383c31206b6.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/storyboard-2-to-video-using-minimax-h3-on-852170/poster-9b2051a10043.jpg" alt="Storyboard 2 to Video using MiniMax H3 on video preview" width="700" />
@@ -28320,7 +28496,7 @@ CUT TO BLACK.
 
 ---
 
-## 26. Storyboard Image to video using 's MiniMax H3 on
+## 30. Storyboard Image to video using 's MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/storyboard-image-to-video-using-s-minimax-h3-on-693556/video-ef5ace4250f9.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/storyboard-image-to-video-using-s-minimax-h3-on-693556/poster-edcc0332562b.jpg" alt="Storyboard Image to video using 's MiniMax H3 on video preview" width="700" />
@@ -29108,7 +29284,7 @@ CUT TO BLACK.
 
 ---
 
-## 27. Created this with Minimax H3 on
+## 31. Created this with Minimax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-this-with-minimax-h3-on-185447/video-fdee2411a77e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-this-with-minimax-h3-on-185447/poster-577d23675580.jpg" alt="Created this with Minimax H3 on video preview" width="700" />
@@ -29154,7 +29330,7 @@ Visual Style: Premium commercial production, Billboard music video aesthetic, lu
 
 ---
 
-## 28. Create a breathtaking 15-second cinematic flower-morph sequence using the seven
+## 32. Create a breathtaking 15-second cinematic flower-morph sequence using the seven
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/create-a-breathtaking-15-second-cinematic-flower-morph-sequence-using-622337/video-05344071a617.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/create-a-breathtaking-15-second-cinematic-flower-morph-sequence-using-622337/poster-22d297ea3f87.jpg" alt="Create a breathtaking 15-second cinematic flower-morph sequence using the seven video preview" width="700" />
@@ -29222,7 +29398,7 @@ Create genuine continuous anatomical flower transformations. No cuts, crossfades
 
 ---
 
-## 29. How to push Hailuo Minimax H3 to its absolute LIMIT. ⚙️🪐
+## 33. How to push Hailuo Minimax H3 to its absolute LIMIT. ⚙️🪐
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/how-to-push-hailuo-minimax-h3-to-its-absolute-limit-576280/video-cda3bf06a3ff.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/how-to-push-hailuo-minimax-h3-to-its-absolute-limit-576280/poster-389ea7176822.jpg" alt="How to push Hailuo Minimax H3 to its absolute LIMIT. ⚙️🪐 video preview" width="700" />
@@ -29248,7 +29424,7 @@ Use the provided image as the final state. Audio-driven motion sync.
 
 ---
 
-## 30. An other great use for : Product Showcase
+## 34. An other great use for : Product Showcase
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/an-other-great-use-for-product-showcase-096175/video-f3fd02e0acc0.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/an-other-great-use-for-product-showcase-096175/poster-bb6598e746d6.jpg" alt="An other great use for : Product Showcase video preview" width="700" />
@@ -29284,7 +29460,7 @@ Premium wellness-commercial finish, photorealistic ceramic and metal, realistic 
 
 ---
 
-## 31. Hailuo Minimax H3 is super good for product videos🤩
+## 35. Hailuo Minimax H3 is super good for product videos🤩
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-minimax-h3-is-super-good-for-product-videos-129035/video-df83e5dfea13.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-minimax-h3-is-super-good-for-product-videos-129035/poster-c95680ed0247.jpg" alt="Hailuo Minimax H3 is super good for product videos🤩 video preview" width="700" />
@@ -29305,7 +29481,7 @@ cinematic commercial Begin with peat smoke, rain droplets, and oak wood dust flo
 
 ---
 
-## 32. This video was made with H3 in Krea.
+## 36. This video was made with H3 in Krea.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/this-video-was-made-with-h3-in-krea-797558/video-b64c9e952828.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/this-video-was-made-with-h3-in-krea-797558/poster-895ea7d43ec5.jpg" alt="This video was made with H3 in Krea. video preview" width="700" />
@@ -29377,7 +29553,7 @@ No cartoon styling, no cheap VFX clutter, no excessive lens distortion, no unrea
 
 ---
 
-## 33. going open source could mark a turning point for AI
+## 37. going open source could mark a turning point for AI
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/going-open-source-could-mark-a-turning-point-for-006285/video-41caf4846565.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/going-open-source-could-mark-a-turning-point-for-006285/poster-76c5abfc225f.jpg" alt="going open source could mark a turning point for AI video preview" width="700" />
@@ -29398,7 +29574,7 @@ exaggerated comedy acting, changing identities or faces, distorted fingers or co
 
 ---
 
-## 34. 質感はPixVerseのV6と似ているような。
+## 38. 質感はPixVerseのV6と似ているような。
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/pixversev6-795780/video-ab11677b3664.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/pixversev6-795780/poster-0744d89c149c.jpg" alt="質感はPixVerseのV6と似ているような。 video preview" width="700" />
@@ -29427,7 +29603,7 @@ non_diegetic_music: A steady four-beat pulse at a constant tempo runs from the f
 
 ---
 
-## 35. 第一次用MiniMax H3，提示词见评论区，参考了X上的大神
+## 39. 第一次用MiniMax H3，提示词见评论区，参考了X上的大神
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3x-423684/video-3fd54c187316.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3x-423684/poster-4e4601d3a14a.jpg" alt="第一次用MiniMax H3，提示词见评论区，参考了X上的大神 video preview" width="700" />
@@ -29623,7 +29799,7 @@ No:
 
 ---
 
-## 36. from Hailuio can easily make motivational videos like this
+## 40. from Hailuio can easily make motivational videos like this
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/from-hailuio-can-easily-make-motivational-videos-599712/video-936f4b9bfe14.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/from-hailuio-can-easily-make-motivational-videos-599712/poster-49c304bcd12e.jpg" alt="from Hailuio can easily make motivational videos like this video preview" width="700" />
@@ -29644,7 +29820,7 @@ No:
 
 ---
 
-## 37. ComfyUIのワークフローのサンプルプロンプトは下記のとおりでした。今までの知見から、アニメ調でアイドルの女の子が日本語で挨拶をする5秒のt2v動画のプロンプトを考案してください。
+## 41. ComfyUIのワークフローのサンプルプロンプトは下記のとおりでした。今までの知見から、アニメ調でアイドルの女の子が日本語で挨拶をする5秒のt2v動画のプロンプトを考案してください。
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/comfyui5t2v-197998/video-6e2a3aca2761.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/comfyui5t2v-197998/poster-17ac5e98500e.jpg" alt="ComfyUIのワークフローのサンプルプロンプトは下記のとおりでした。今までの知見から、アニメ調でアイドルの女の子が日本語で挨拶をする5秒のt2v動画のプロンプトを考案してください。 video preview" width="700" />
@@ -29680,7 +29856,7 @@ No real-life live action rendering, no realistic skin texture, no 3D CG look, no
 
 ---
 
-## 38. Ramen Bowl UGC Taste Test
+## 42. Ramen Bowl UGC Taste Test
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ramen-bowl-ugc-taste-test-612348/video-f5a033bef00e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ramen-bowl-ugc-taste-test-612348/poster-2469cb1c850e.jpg" alt="Ramen Bowl UGC Taste Test video preview" width="700" />
@@ -29722,7 +29898,7 @@ cinematic look, luxury commercial, perfect framing, CGI noodles, unrealistic ste
 
 ---
 
-## 39. Gourmet Burger UGC Taste Test
+## 43. Gourmet Burger UGC Taste Test
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/gourmet-burger-ugc-taste-test-165289/video-787be15a8d6a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/gourmet-burger-ugc-taste-test-165289/poster-7f4d2652dee1.jpg" alt="Gourmet Burger UGC Taste Test video preview" width="700" />
@@ -29763,7 +29939,7 @@ cinematic grading, commercial production, CGI burger, fake cheese, distorted han
 
 ---
 
-## 40. Luxury Skincare Storyboard Commercial
+## 44. Luxury Skincare Storyboard Commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-skincare-storyboard-commercial-805571/video-995ac1ada011.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-skincare-storyboard-commercial-805571/poster-411a41f0ec66.jpg" alt="Luxury Skincare Storyboard Commercial video preview" width="700" />
@@ -29795,7 +29971,7 @@ Transition
 
 ---
 
-## 41. cinematic editorial film, not a traditional advertisement
+## 45. cinematic editorial film, not a traditional advertisement
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-editorial-film-not-a-traditional-adver-555943/video-534c0e4af02c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-editorial-film-not-a-traditional-adver-555943/poster-0a63df1d32fb.jpg" alt="cinematic editorial film, not a traditional advertisement video preview" width="700" />
@@ -29818,7 +29994,7 @@ Created using MiniMax H3 on @openart_ai
 
 ---
 
-## 42. Yellow Sunglasses in a Black Studio
+## 46. Yellow Sunglasses in a Black Studio
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/upload-use-la-ragazza-in-reference-as-a-strict-265763/video-3f6fdfa9ec17.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/upload-use-la-ragazza-in-reference-as-a-strict-265763/poster-991557679b75.jpg" alt="Yellow Sunglasses in a Black Studio video preview" width="700" />
@@ -29895,7 +30071,7 @@ Composition: model centered, all type within the central third of the frame
 
 ---
 
-## 43. Strawberry Drink Transformation Commercial
+## 47. Strawberry Drink Transformation Commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/shots-shot-id-1-start-time-00-00-end-878083/video-fac16344ba1e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/shots-shot-id-1-start-time-00-00-end-878083/poster-5b30a531bab4.jpg" alt="Strawberry Drink Transformation Commercial video preview" width="700" />
@@ -29916,7 +30092,7 @@ Composition: model centered, all type within the central third of the frame
 
 ---
 
-## 44. Blackberry Vanilla Soda UGC Vlog
+## 48. Blackberry Vanilla Soda UGC Vlog
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/blackberry-vanilla-soda-ugc-vlog-998714/video-1ca980fa6505.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/blackberry-vanilla-soda-ugc-vlog-998714/poster-7b02c89bbf7e.jpg" alt="Blackberry Vanilla Soda UGC Vlog video preview" width="700" />
@@ -29961,7 +30137,7 @@ Continuous natural ambient kitchen sound, subtle upbeat pop background music und
 
 ---
 
-## 45. Bamboo Forest Wuxia Mystery
+## 49. Bamboo Forest Wuxia Mystery
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/16-9-cinematic-wuxia-mystery-set-in-a-bamboo-571041/video-da23c2db41ab.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/16-9-cinematic-wuxia-mystery-set-in-a-bamboo-571041/poster-6d22d8f211d0.jpg" alt="Bamboo Forest Wuxia Mystery video preview" width="700" />
@@ -29985,7 +30161,7 @@ Prioritize facial close-ups and measured shot/reverse-shot coverage. Keep the rh
 
 ---
 
-## 46. Emerald Bio-Serum Product Film
+## 50. Emerald Bio-Serum Product Film
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-luxury-skincare-product-commercial-vertical-9-591469/video-3ae42a6b5baa.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-luxury-skincare-product-commercial-vertical-9-591469/poster-c0c5f3bb6066.jpg" alt="Emerald Bio-Serum Product Film video preview" width="700" />
@@ -30006,7 +30182,7 @@ Cinematic luxury skincare product commercial, vertical 9:16, 15 seconds. A trans
 
 ---
 
-## 47. Black-and-Gold Perfume Commercial
+## 51. Black-and-Gold Perfume Commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-ultra-premium-luxury-perfume-commercial-in-ci-520833/video-3e8b79841b85.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-ultra-premium-luxury-perfume-commercial-in-ci-520833/poster-d1f16abe5ae1.jpg" alt="Black-and-Gold Perfume Commercial video preview" width="700" />
@@ -30037,7 +30213,7 @@ Photorealistic, Hollywood luxury TV commercial, ultra-detailed, flawless glass r
 
 ---
 
-## 48. Morning Lip Oil UGC Testimonial
+## 52. Morning Lip Oil UGC Testimonial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-character-reference-preserve-her-fac-256521/video-544db8790618.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-character-reference-preserve-her-fac-256521/poster-8add510d989f.jpg" alt="Morning Lip Oil UGC Testimonial video preview" width="700" />
@@ -30066,7 +30242,7 @@ Authentic UGC creator content, realistic facial expressions, natural hand gestur
 
 ---
 
-## 49. Luxury Watch Storyboard Campaign
+## 53. Luxury Watch Storyboard Campaign
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-watch-storyboard-campaign-903017/video-159289899741.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-watch-storyboard-campaign-903017/poster-2d54ae2e9819.jpg" alt="Luxury Watch Storyboard Campaign video preview" width="700" />
@@ -30147,7 +30323,7 @@ Create a world-class luxury watch commercial.
 
 ---
 
-## 50. NOVA X smartphone TVC
+## 54. NOVA X smartphone TVC
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/nova-x-smartphone-tvc/video-2d8b6006478e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/nova-x-smartphone-tvc/poster-b8d3da037263.jpg" alt="NOVA X smartphone TVC video preview" width="700" />
@@ -30174,7 +30350,7 @@ Create a 15-second premium cinematic branding TVC for a futuristic smartphone br
 
 ---
 
-## 51. SparkRush Ultra Fizz beach soft-drink commercial
+## 55. SparkRush Ultra Fizz beach soft-drink commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/sparkrush-ultra-fizz-beach-soft-drink-commercial-383681/video-d58a1e1504ea.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/sparkrush-ultra-fizz-beach-soft-drink-commercial-383681/poster-2b0c0c9a968a.jpg" alt="SparkRush Ultra Fizz beach soft-drink commercial video preview" width="700" />
@@ -30265,7 +30441,7 @@ CUT8 0:14-0:15
 
 ---
 
-## 52. Bathroom Mirror Skincare UGC Ad
+## 56. Bathroom Mirror Skincare UGC Ad
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ugc-style-skincare-video-featuring-a-realistic-young-wo-242986/video-ec288635cb7f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ugc-style-skincare-video-featuring-a-realistic-young-wo-242986/poster-18b009c5b1b5.jpg" alt="Bathroom Mirror Skincare UGC Ad video preview" width="700" />
@@ -30286,7 +30462,7 @@ UGC-style skincare video featuring a realistic young woman speaking directly to 
 
 ---
 
-## 53. Luxury Sports Car Landing Page Motion
+## 57. Luxury Sports Car Landing Page Motion
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ui-ux-motion-showcase-video-for-a-high-performance-luxu-229386/video-9d89c4f629e6.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ui-ux-motion-showcase-video-for-a-high-performance-luxu-229386/poster-ebbf825e1ade.jpg" alt="Luxury Sports Car Landing Page Motion video preview" width="700" />
@@ -30379,7 +30555,7 @@ A premium automotive brand website, similar to a supercar launch page. Dark meta
 
 ---
 
-## 54. KALDR cold perfume commercial multi-reference
+## 58. KALDR cold perfume commercial multi-reference
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/kaldr-cold-perfume-commercial-multi-reference-943073/video-0b03def784aa.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/kaldr-cold-perfume-commercial-multi-reference-943073/poster-b0ced00e36d5.jpg" alt="KALDR cold perfume commercial multi-reference video preview" width="700" />
@@ -30433,7 +30609,7 @@ Do not add other people, boats, buildings, vehicles, modern objects, subtitles, 
 
 ---
 
-## 55. Luxury metallic gown desert runway fashion ad
+## 59. Luxury metallic gown desert runway fashion ad
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-metallic-gown-desert-runway-fashion-ad-907132/video-79e8be8efcca.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-metallic-gown-desert-runway-fashion-ad-907132/poster-f22e97706ea8.jpg" alt="Luxury metallic gown desert runway fashion ad video preview" width="700" />
@@ -30454,7 +30630,7 @@ Do not add other people, boats, buildings, vehicles, modern objects, subtitles, 
 
 ---
 
-## 56. Luxury checkered sports-coupe night-to-dawn commercial
+## 60. Luxury checkered sports-coupe night-to-dawn commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-checkered-sports-coupe-night-to-dawn-commercial-451623/video-741ec90432a6.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-checkered-sports-coupe-night-to-dawn-commercial-451623/poster-c2420b1685bb.jpg" alt="Luxury checkered sports-coupe night-to-dawn commercial video preview" width="700" />
@@ -30498,7 +30674,7 @@ coherent character and vehicle identity across every cut 📷Image1 , cinematic 
 
 ---
 
-## 57. Marble Staircase Lip Gloss Commercial
+## 61. Marble Staircase Lip Gloss Commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-character-reference-preserve-her-fac-150697/video-b637e0c6f931.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-character-reference-preserve-her-fac-150697/poster-dfa401edffbd.jpg" alt="Marble Staircase Lip Gloss Commercial video preview" width="700" />
@@ -30523,7 +30699,7 @@ Ultra-realistic beauty cinematography, luxury cosmetic campaign, smooth gimbal m
 
 ---
 
-## 58. Sushi Night Smartphone UGC Vlog
+## 62. Sushi Night Smartphone UGC Vlog
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/duration-15-seconds-aspect-ratio-16-9-style-authentic-613617/video-7d59e3e86e10.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/duration-15-seconds-aspect-ratio-16-9-style-authentic-613617/poster-ee7d7c188983.jpg" alt="Sushi Night Smartphone UGC Vlog video preview" width="700" />
@@ -30573,7 +30749,7 @@ cinematic color grading, overly smooth gimbal movement, studio lighting, profess
 
 ---
 
-## 59. Strawberry seasonal match-cut food commercial
+## 63. Strawberry seasonal match-cut food commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/strawberry-seasonal-match-cut-food-commercial-117943/video-683968bcc3d5.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/strawberry-seasonal-match-cut-food-commercial-117943/poster-d840280d5869.jpg" alt="Strawberry seasonal match-cut food commercial video preview" width="700" />
@@ -30594,7 +30770,7 @@ Premium food commercial. Extreme macro shot of a single ripe strawberry falling 
 
 ---
 
-## 60. White-Cyclorama Luxury Eyewear Campaign
+## 64. White-Cyclorama Luxury Eyewear Campaign
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/premium-9-16-fashion-eyewear-commercial-match-the-refer-665060/video-4d28abb73363.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/premium-9-16-fashion-eyewear-commercial-match-the-refer-665060/poster-b6317831cfc6.jpg" alt="White-Cyclorama Luxury Eyewear Campaign video preview" width="700" />
@@ -30616,7 +30792,7 @@ Create a premium 9:16 fashion-eyewear commercial. Match the reference video’s 
 
 ---
 
-## 61. Dark Rap Fashion Zine Music Video
+## 65. Dark Rap Fashion Zine Music Video
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/style-dark-rap-rap-music-video-with-photoreal-high-fash-066367/video-f7530cdb0007.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/style-dark-rap-rap-music-video-with-photoreal-high-fash-066367/poster-042e39743d51.jpg" alt="Dark Rap Fashion Zine Music Video video preview" width="700" />
@@ -30637,7 +30813,7 @@ Style: dark-rap -rap music video with photoreal high-fashion polish and the text
 
 ---
 
-## 62. Image Model: GPT Image 2
+## 66. Image Model: GPT Image 2
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-model-gpt-image-2-143224/video-83cdd5450477.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-model-gpt-image-2-143224/poster-97e396da2238.jpg" alt="Image Model: GPT Image 2 video preview" width="700" />
@@ -30804,7 +30980,7 @@ Style: AAA Unreal Engine 5 cinematic, photorealistic PBR materials, production-q
 
 ---
 
-## 63. Vertical car transformation street-culture film
+## 67. Vertical car transformation street-culture film
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/vertical-car-transformation-street-culture-film-378938/video-68111b1a63ab.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/vertical-car-transformation-street-culture-film-378938/poster-aee0c4e02707.jpg" alt="Vertical car transformation street-culture film video preview" width="700" />
@@ -30933,7 +31109,7 @@ Feels like a premium car modification advertisement
 
 ---
 
-## 64. High-Speed Sports Product Landing Page
+## 68. High-Speed Sports Product Landing Page
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/dynamic-product-landing-page-ui-ux-demo-inspired-by-nik-789559/video-08cc2ecf4395.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/dynamic-product-landing-page-ui-ux-demo-inspired-by-nik-789559/poster-6fdf282e513d.jpg" alt="High-Speed Sports Product Landing Page video preview" width="700" />
@@ -30954,7 +31130,7 @@ Create a dynamic product-landing-page UI/UX demo inspired by Nike's digital lang
 
 ---
 
-## 65. Ultra-premium cinematic luxury perfume commercial
+## 69. Ultra-premium cinematic luxury perfume commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-premium-cinematic-luxury-perfume-commercial-783085/video-2722820a0df4.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-premium-cinematic-luxury-perfume-commercial-783085/poster-363c20e524ca.jpg" alt="Ultra-premium cinematic luxury perfume commercial video preview" width="700" />
@@ -31004,7 +31180,7 @@ Low quality, blurry, noise, flickering, unstable motion, distorted anatomy, bad 
 
 ---
 
-## 66. Luxury Emerald Necklace Storyboard
+## 70. Luxury Emerald Necklace Storyboard
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/title-luxury-emerald-necklace-commercial-storyboard-for-872509/video-a300713c3d76.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/title-luxury-emerald-necklace-commercial-storyboard-for-872509/poster-63e3a397f968.jpg" alt="Luxury Emerald Necklace Storyboard video preview" width="700" />
@@ -31052,7 +31228,7 @@ Inspired by world-class luxury jewelry campaigns, premium fashion editorial, sof
 
 ---
 
-## 67. The Thief's Awkward Product Excuse
+## 71. The Thief's Awkward Product Excuse
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-video-prompt-300101/video-236581d53aa7.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-video-prompt-300101/poster-009909ab0bfb.jpg" alt="The Thief's Awkward Product Excuse video preview" width="700" />
@@ -31073,7 +31249,7 @@ Inspired by world-class luxury jewelry campaigns, premium fashion editorial, sof
 
 ---
 
-## 68. Neon Nightmare Burger Commercial
+## 72. Neon Nightmare Burger Commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-15-second-commercial-shot-fast-paced-editing-160587/video-6452503d24f8.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-15-second-commercial-shot-fast-paced-editing-160587/poster-dc524a95b7c6.jpg" alt="Neon Nightmare Burger Commercial video preview" width="700" />

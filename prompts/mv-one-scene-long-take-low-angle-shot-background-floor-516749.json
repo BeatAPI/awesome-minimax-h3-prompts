@@ -1,0 +1,31 @@
+{
+  "slug": "mv-one-scene-long-take-low-angle-shot-background-floor-516749",
+  "title": {
+    "en": "MV. One-scene long take. Low-angle shot. [Background / Floor] Create a gigantic",
+    "zh": "MV. One-scene long take. Low-angle shot. [Background / Floor] Create a gigantic"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @h64g_.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+  },
+  "category": "music-video",
+  "mode": "text-to-video",
+  "duration": "76s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@h64g_",
+    "url": "https://x.com/h64g_/status/2092307579221516749"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/h64g_/status/2092307756716113945"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/mv-one-scene-long-take-low-angle-shot-background-floor-516749/video-e0e60b415b8c.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/mv-one-scene-long-take-low-angle-shot-background-floor-516749/poster-667c052159d2.jpg",
+  "prompt": "MV. One-scene long take. Low-angle shot.\n\n[Background / Floor] Create a gigantic background surface spanning the entire area immediately behind the performers, extending horizontally across the frame. Project video across the entire background surface with a projector. Do not show any outer boundary, frame, or edge of the projection surface. Do not show a wide expanse of floor or any stage depth behind the performers. The floor beneath their feet is finished in glossy black mirror-like material. The projected background imagery and the white lyric light are clearly reflected on the floor.\n\n[Lyric Direction] Display the white lyrics one phrase at a time, very large across the entire background. Use intense lyric motion similar to aggressive motion graphics. Do not show a large amount of text at once. Do not alter, add, duplicate, or omit any of the specified text. Use a two-stage reveal: first display only the outlines of the letters, then fill in the interiors. Frequently use glitch effects, chromatic aberration, sudden scaling, abrupt stops, position shifts, brief flashing, rotation, and distortion, with strong variations in speed and intensity.\n\n[Lighting] Do not use bright frontal lighting. Use the projector imagery and the projected white lyric light as the primary light sources. The projected imagery and light must clearly illuminate the performers’ bodies and faces.\n\n[Performer Action] Move their mouths in sync with the song.\n\n[Negative] Do not make it look like a live concert stage or a children’s recital/performance.\n\n[Lyrics] Display the lyrics in English.\n\n\"If they are broadleaf trees, they wither and fall for sure.\nIn the chilled autumn, no matter how you resist, it’s useless.\""
+}

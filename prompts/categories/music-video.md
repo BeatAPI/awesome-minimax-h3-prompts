@@ -2,7 +2,548 @@
 
 [Back to the full gallery](../../README.md) · [Catalog index](../README.md)
 
-## 1. Created with Minimax H3 in
+## 1. SHATTER.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/shatter-695817/video-3dd688759057.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/shatter-695817/poster-f97a8a5e14b5.jpg" alt="SHATTER. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Premium action-film title sequence beginning with a gigantic transparent glass monolith floating against complete blackness. A tiny projectile impacts the exact center and an...</summary>
+
+~~~~text
+Premium action-film title sequence beginning with a gigantic transparent glass monolith floating against complete blackness. A tiny projectile impacts the exact center and an intricate network of cracks instantly races across the entire surface. The camera pushes directly into one expanding fracture, traveling through the microscopic crystalline structure as tension builds everywhere. Suddenly the monolith violently detonates into millions of glass fragments. The camera performs a fast 360-degree orbital move through the suspended crystal storm as every shard reflects sharp beams of cinematic light. An invisible force begins pulling selected fragments together, constructing the enormous word "SHATTER" from overlapping razor-thin glass shards. The completed transparent typography refracts the entire environment like a giant prism before another pressure wave passes through it, producing thousands of secondary fractures. The letters explode outward directly toward the lens in spectacular ultra slow motion. Extremely detailed glass physics, realistic refraction and caustics, elegant brutality, premium Hollywood VFX.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/shatter-695817/video-3dd688759057.webm)
+
+**Source:** [@CharaspowerAI](https://x.com/CharaspowerAI/status/2096554023809695817) · 15s · 16:9 · music video
+
+---
+
+## 2. A cinematic creation film follows one maker reconstructing the main subject shown
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/a-cinematic-creation-film-follows-one-maker-reconstructing-the-main-311555/video-9615f0923d10.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/a-cinematic-creation-film-follows-one-maker-reconstructing-the-main-311555/poster-b10363323b51.jpg" alt="A cinematic creation film follows one maker reconstructing the main subject shown video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — A cinematic creation film follows one maker reconstructing the main subject shown in the referenced image completely from scratch. The referenced image defines the finished...</summary>
+
+~~~~text
+A cinematic creation film follows one maker reconstructing the main subject shown in the referenced image completely from scratch. The referenced image defines the finished subject’s complete visible appearance, proportions, structure, materials, colors, clothing or surface details, and distinctive features; ignore its background, framing, lighting, and unrelated elements.  Begin directly on an empty, clean virtual workbench. Use a stable front three-quarter overhead view that keeps the developing subject readable. There is one maker throughout, represented by the same consistent left and right hands and forearms. Show no more than two hands at once.  From 0 to 14 seconds, the entire creation unfolds as a clearly accelerated timelapse with rapid, purposeful hand movement and restrained motion blur. Short jump cuts compress repetitive manual work only after each action has visibly completed. Every cut inherits the exact form and progress left by the previous action.  0-2 seconds: One hand enters already holding the first foundation material, armature, or base element appropriate to the referenced subject and places it at the center. The second hand steadies it as the maker establishes the initial supporting form.  2-8 seconds: The maker rapidly develops the subject’s major structure and volumes using one coherent creation method appropriate to what the referenced image depicts. A living subject is sculpted as one continuous, non-gory digital form from armature to anatomy; a vehicle or machine is built from chassis to functional structure; an object is formed or assembled from its supporting body outward. Each additional material or component enters from outside the frame while firmly held by one of the maker’s hands, is carried to its destination, and remains under hand control until attached or shaped.  8-12 seconds: The same hands develop the recognizable outer form and reference-specific features. The maker sculpts, fits, wraps, stitches, fastens, carves, or polishes only where appropriate to the subject. Facial features, hair, clothing, body panels, wheels, glass, surfaces, accessories, or equivalent defining elements emerge through visible hand and tool contact, never through spontaneous transformation.  12-14 seconds: The maker refines proportions, edges, joints, surface transitions, textures, colors, and distinctive details until the developing subject closely matches the referenced image. One hand stabilizes the form while the other performs each final adjustment with a hand-held tool.  14-15 seconds: The maker removes the last tool by hand and withdraws both hands. The timelapse returns to normal speed as the camera makes a restrained push toward the completed subject and holds on a clean final view.  Materials and components do not need to be visible before use, but anything newly introduced must enter the frame already held by one of the maker’s hands. Nothing moves, assembles, appears, disappears, or changes material independently. Maintain one maker, one continuous subject, one creation position, and one category-appropriate construction method. No assistants, extra hands, detached anatomy, duplicated elements, magical morphing, drawing phase, software interface, cursor, menus, annotations, or text overlays.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/a-cinematic-creation-film-follows-one-maker-reconstructing-the-main-311555/video-9615f0923d10.webm)
+
+**Source:** [@aimikoda](https://x.com/aimikoda/status/2095141166962311555) · 15s · 4:3 · music video
+
+---
+
+## 3. MV. One-scene long take. Low-angle shot. [Background / Floor] Create a gigantic
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/mv-one-scene-long-take-low-angle-shot-background-floor-516749/video-e0e60b415b8c.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/mv-one-scene-long-take-low-angle-shot-background-floor-516749/poster-667c052159d2.jpg" alt="MV. One-scene long take. Low-angle shot. [Background / Floor] Create a gigantic video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — MV. One-scene long take. Low-angle shot. [Background / Floor] Create a gigantic background surface spanning the entire area immediately behind the performers, extending...</summary>
+
+~~~~text
+MV. One-scene long take. Low-angle shot.
+
+[Background / Floor] Create a gigantic background surface spanning the entire area immediately behind the performers, extending horizontally across the frame. Project video across the entire background surface with a projector. Do not show any outer boundary, frame, or edge of the projection surface. Do not show a wide expanse of floor or any stage depth behind the performers. The floor beneath their feet is finished in glossy black mirror-like material. The projected background imagery and the white lyric light are clearly reflected on the floor.
+
+[Lyric Direction] Display the white lyrics one phrase at a time, very large across the entire background. Use intense lyric motion similar to aggressive motion graphics. Do not show a large amount of text at once. Do not alter, add, duplicate, or omit any of the specified text. Use a two-stage reveal: first display only the outlines of the letters, then fill in the interiors. Frequently use glitch effects, chromatic aberration, sudden scaling, abrupt stops, position shifts, brief flashing, rotation, and distortion, with strong variations in speed and intensity.
+
+[Lighting] Do not use bright frontal lighting. Use the projector imagery and the projected white lyric light as the primary light sources. The projected imagery and light must clearly illuminate the performers’ bodies and faces.
+
+[Performer Action] Move their mouths in sync with the song.
+
+[Negative] Do not make it look like a live concert stage or a children’s recital/performance.
+
+[Lyrics] Display the lyrics in English.
+
+"If they are broadleaf trees, they wither and fall for sure.
+In the chilled autumn, no matter how you resist, it’s useless."
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/mv-one-scene-long-take-low-angle-shot-background-floor-516749/video-e0e60b415b8c.webm)
+
+**Source:** [@h64g_](https://x.com/h64g_/status/2092307579221516749) · 76s · 16:9 · music video
+
+---
+
+## 4. Made in with on
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/made-in-with-on-053234/video-c27e75822678.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/made-in-with-on-053234/poster-68f6dcd81898.jpg" alt="Made in with on video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Image 1: Futuristic racing game HUD interface, premium cyber racing design, transparent glass panels, holographic speedometer, position ranking display, energy boost meter, sharp...</summary>
+
+~~~~text
+Image 1:
+Futuristic racing game HUD interface, premium cyber racing design, transparent glass panels, holographic speedometer, position ranking display, energy boost meter, sharp aerodynamic graphics, glowing route map, futuristic typography, clean competitive esports style interface, high-tech minimal design, AAA racing game quality, 16:9.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/made-in-with-on-053234/video-c27e75822678.webm)
+
+**Source:** [@AllaAisling](https://x.com/AllaAisling/status/2091617234930053234) · 15s · 16:9 · music video
+
+---
+
+## 5. Minimax H3 Comfyui Green Lantern Test...
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-comfyui-green-lantern-test-497677/video-9c9cc3f1ee4b.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-comfyui-green-lantern-test-497677/poster-b2ed00571cfc.jpg" alt="Minimax H3 Comfyui Green Lantern Test... video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — integrated_multimodal_description: &lt;Image 1&gt; is the CHARACTER APPEARANCE REFERENCE. &lt;Image 0&gt; background reference Use &lt;Image 1&gt; to preserve the man's exact facial identity, age,...</summary>
+
+~~~~text
+integrated_multimodal_description:
+
+<Image 1> is the CHARACTER APPEARANCE REFERENCE.
+
+<Image 0> background reference
+
+Use <Image 1> to preserve the man's exact facial identity, age, dark hair with gray temples, rugged stubble, body proportions, green-and-black tactical suit, illuminated chest emblem, and power-ring design.
+
+CRITICAL RIGHT-HAND CONTINUITY:
+The power ring is worn ONLY on the man's anatomical RIGHT HAND throughout the entire video.
+NEVER place the ring on his left hand.
+Do not mirror or swap hands when the camera angle changes.
+His LEFT HAND remains completely ringless throughout the entire sequence.
+Every green energy projection originates directly from the ring on his RIGHT HAND.
+
+Photorealistic live-action cinematic realism.
+
+Environment: vast isolated American desert-like prairie, dry golden grass, dusty earth, scattered low scrub, distant low hills, huge open sky. Warm late-afternoon sunlight. No buildings, vehicles, roads, or other people visible.
+
+[00:00–00:01.5]
+
+Wide cinematic tracking shot.
+
+The man from <Image 1> walks casually through the open landscape.
+
+His arms swing naturally as he walks.
+
+He suddenly notices something near his feet, slows, stops, and looks down.
+
+Camera subtly moves closer and tilts downward with his gaze.
+
+[00:01.5–00:02.5]
+
+Cut to a low close shot near the ground.
+
+A small realistic BLACK SCORPION crawls slowly across the dusty ground approximately two feet in front of his boots.
+
+Cut back to a medium shot as he looks down at it with mild curiosity rather than fear.
+
+He raises his anatomical RIGHT HAND and points the ring toward the scorpion.
+
+His left hand remains relaxed and completely ringless.
+
+[00:02.5–00:03.5]
+
+Medium close-up favoring his RIGHT hand.
+
+The ring activates with concentrated emerald-green light.
+
+A narrow, clearly defined GREEN ENERGY BEAM shoots directly from the ring on his RIGHT HAND toward the scorpion.
+
+The beam strikes the ground immediately around the scorpion.
+
+Glowing green construct lines rapidly form around it: bottom edges → four vertical corners → horizontal edges → top edges.
+
+Within moments, these lines complete a small transparent emerald-green ENERGY CAGE surrounding the scorpion.
+
+The scorpion remains unharmed and clearly visible inside.
+
+CRITICAL:
+From this moment until the END OF THE VIDEO, the green energy beam remains visibly and continuously connected from the ring on his RIGHT HAND directly to the green cage.
+The beam NEVER disconnects, disappears, switches hands, or originates anywhere else.
+
+[00:03.5–00:05.0]
+
+Low close-up of the cage.
+
+Still connected to the continuous beam, the completed green construct cage gently rises from the dusty ground.
+
+The scorpion remains standing on the glowing construct floor inside the cage.
+
+Camera tilts upward with it.
+
+The cage floats smoothly to approximately chest height in front of the man.
+
+The beam remains clearly visible between his RIGHT-HAND ring and the floating cage throughout the lift.
+
+[00:05.0–00:08.0]
+
+Cut to a medium close-up framing the man's face, his extended RIGHT hand, and the floating cage.
+
+The cage hovers roughly two feet in front of him at chest level.
+
+His RIGHT arm remains comfortably extended toward it.
+
+The glowing ring is clearly visible on his RIGHT HAND.
+
+The continuous green beam remains visibly connected:
+RIGHT-HAND RING → GREEN BEAM → FLOATING CAGE.
+
+The little black scorpion moves slightly inside the cage.
+
+The man studies it for a moment, gives a small friendly amused smile, and speaks casually to the scorpion.
+
+(S1) <d>[EN]How you doing there, little fella?</d>
+
+Hold briefly on his smile and the floating scorpion cage.
+
+The cage remains stable.
+The scorpion remains safely inside.
+The beam remains connected through the FINAL FRAME.
+
+No attack.
+No explosion.
+No additional constructs.
+No additional characters.
+
+overall_soundscape:
+
+Natural open-land ambience with gentle dry wind moving through grass, subtle footsteps on dusty earth at the beginning, extremely faint scorpion movement during close shots, and a clean low emerald-energy hum when the ring activates.
+
+The construct produces a subtle crystalline energy-building sound as the cage forms.
+
+Once formed, the cage and continuous connecting beam produce a quiet sustained energy hum through the final frame.
+
+(S1)'s dialogue is natural, relaxed, friendly, and slightly amused.
+
+non_diegetic_music:
+
+None.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-comfyui-green-lantern-test-497677/video-9c9cc3f1ee4b.webm)
+
+**Source:** [@EndFolding79421](https://x.com/EndFolding79421/status/2089840714016497677) · 8s · 40:23 · music video
+
+---
+
+## 6. Start and End Images in Minimax H3 Comfyui...
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/start-and-end-images-in-minimax-h3-comfyui-785340/video-d016e64099a7.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/start-and-end-images-in-minimax-h3-comfyui-785340/poster-abed914d045b.jpg" alt="Start and End Images in Minimax H3 Comfyui... video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — &lt;Picture 1&gt; is the EXACT first frame of the video. Preserve the woman, her face, blonde hair, cream knit outfit, white boots, seated pose, brown leather seat, modern luxury...</summary>
+
+~~~~text
+<Picture 1> is the EXACT first frame of the video.
+
+Preserve the woman, her face, blonde hair, cream knit outfit, white boots, seated pose, brown leather seat, modern luxury high-speed train interior, panoramic windows, camera position, warm interior sunlight, and overall photorealistic cinematic appearance established by <Picture 1>.
+
+no music
+
+integrated_multimodal_description:
+
+[Visual Anchor]
+A photorealistic cinematic 8-second sequence inside a modern luxury high-speed train. The woman remains seated comfortably beside the panoramic windows while the train continuously moves forward at normal high-speed rail velocity.
+
+ONLY THE WORLD OUTSIDE THE TRAIN travels backward through history.
+
+The train interior NEVER changes.
+The woman NEVER changes.
+Her clothing NEVER changes.
+The windows NEVER change.
+The train NEVER changes into an older vehicle.
+
+The woman remains in normal real-time throughout, calmly enjoying the impossible scenery. She breathes naturally, occasionally blinks, subtly follows the landscape with her eyes, and gives a faint knowing smile. She is never frightened, startled, confused, or alarmed. She behaves as though she already knew this would happen.
+
+The historical effect uses a repeating rhythm:
+
+STABLE ERA → RAPID BACKWARD TIME-LAPSE TRANSFORMATION → STABLE ERA → RAPID BACKWARD TIME-LAPSE TRANSFORMATION.
+
+During each stable era, the exterior world moves and behaves at NORMAL REAL-TIME SPEED while the train continues traveling through it.
+
+During each transition, ONLY the exterior environment rapidly rewinds through time.
+
+[00:00.000–00:01.000 — PRESENT DAY]
+
+Begin EXACTLY from <Picture 1>.
+
+The modern train moves naturally forward through the cold snowy alpine landscape.
+
+Strong realistic parallax is visible outside: nearby snow-covered terrain moves quickly past the windows while the distant mountains move more slowly.
+
+The woman quietly watches the scenery.
+
+Natural breathing.
+One subtle blink.
+Small relaxed eye movement.
+
+The snowy mountain landscape remains stable long enough for the viewer to recognize the present-day setting.
+
+[00:01.000–00:01.500 — FIRST TIME REWIND]
+
+The ENTIRE exterior world suddenly begins rapidly traveling backward through time like an accelerated environmental time-lapse.
+
+There is NO camera cut.
+
+Snow rapidly retreats across the entire landscape.
+
+Frozen ground becomes exposed earth.
+
+Grass spreads rapidly.
+
+Trees and vegetation appear and grow across the mountains and valleys.
+
+The cold white alpine environment smoothly transforms into a lush green temperate landscape.
+
+The transformation happens across ALL visible windows simultaneously.
+
+The woman and modern train remain completely unchanged and continue moving in normal real-time.
+
+[00:01.500–00:02.500 — LUSH GREEN LAND]
+
+The time-lapse transformation STOPS.
+
+The exterior is now a rich green countryside.
+
+Forests, grassy hills, streams, wild vegetation, and distant mountains move naturally past the train.
+
+Everything outside now behaves at normal real-time speed.
+
+Leaves move in the wind.
+Water flows naturally.
+The train continues traveling forward.
+
+The woman calmly watches and gives a very slight peaceful smile.
+
+[00:02.500–00:03.000 — SECOND TIME REWIND]
+
+The exterior world rapidly rewinds again.
+
+The green countryside transforms through accelerated historical change.
+
+Roads appear as dirt tracks.
+
+Old fences develop.
+
+Buildings rapidly emerge into 19th-century construction.
+
+The entire landscape transitions smoothly into the 1800s.
+
+No cut.
+
+[00:03.000–00:04.100 — 1800s]
+
+The transformation STOPS.
+
+The train now passes through a living 19th-century town and countryside.
+
+The exterior operates at NORMAL SPEED.
+
+Horse-drawn carriages travel along dirt streets.
+
+Horses walk and trot naturally.
+
+People wearing 1800s clothing move along sidewalks and streets.
+
+Old masonry and timber buildings, storefronts, chimneys, wooden fences, wagons, and period street activity pass naturally outside.
+
+NO modern vehicles.
+NO modern signs.
+NO modern technology outside.
+
+The train continues moving rapidly through the historical environment.
+
+The woman remains relaxed and simply watches.
+
+[00:04.100–00:04.600 — THIRD TIME REWIND]
+
+History rapidly rewinds again.
+
+The 1800s town begins disappearing through a smooth accelerated time-lapse.
+
+Buildings regress and vanish.
+
+Roads deteriorate into ancient tracks.
+
+Modern-style structures disappear completely.
+
+The landscape rapidly transforms into the ancient Roman era.
+
+The transformation occurs across the ENTIRE exterior view simultaneously.
+
+[00:04.600–00:05.800 — ROMAN ERA]
+
+The transformation STOPS.
+
+The train now passes beside a large ancient battlefield.
+
+Everything outside moves at NORMAL REAL-TIME SPEED.
+
+Roman soldiers in historically inspired armor fight opposing barbarian warriors across an open field.
+
+Soldiers run.
+Shields collide.
+Spears move.
+Banners flap in the wind.
+Horses cross portions of the battlefield.
+Dust rises beneath their feet.
+
+The battle remains at a believable distance from the train and remains entirely outside.
+
+No soldier notices the train.
+No soldier approaches the windows.
+No one interacts with the woman.
+
+The woman watches the battle calmly.
+
+She gives a small blink and remains completely composed, as though this is expected.
+
+[00:05.800–00:06.300 — MASSIVE TIME REWIND]
+
+The exterior suddenly accelerates backward across an enormous span of history.
+
+The Roman soldiers rapidly disappear.
+
+Battlefield activity vanishes.
+
+Roads disappear.
+
+Structures disappear.
+
+Human civilization disappears completely.
+
+Vegetation, terrain, climate, and geological features rapidly transform in a massive backward time-lapse spanning millions of years.
+
+The modern train and woman remain completely unchanged.
+
+[00:06.300–00:08.000 — PREHISTORIC WORLD]
+
+The transformation STOPS.
+
+The train is now traveling through a vast untouched prehistoric landscape.
+
+Everything outside returns to NORMAL REAL-TIME SPEED.
+
+No humans.
+No cities.
+No buildings.
+No roads.
+No modern objects.
+
+A broad primitive landscape stretches toward distant mountains with exposed earth, ancient vegetation, sparse forests, mist, and untouched wilderness.
+
+Several dinosaurs move naturally in the DISTANT landscape.
+
+A huge long-necked dinosaur slowly walks across the far background.
+
+Smaller dinosaurs move farther away among ancient vegetation.
+
+Keep the dinosaurs at believable distances.
+
+NO dinosaur approaches the train.
+NO dinosaur looks through the windows.
+NO dinosaur attacks.
+
+The train continues traveling forward normally through this prehistoric world.
+
+The woman quietly watches the dinosaurs.
+
+Near the final moment, she gives a subtle knowing smile.
+
+End while the train is still moving through the prehistoric landscape.
+
+[CRITICAL WINDOW CONTINUITY]
+
+ALL panoramic train windows show ONE SINGLE CONTINUOUS EXTERIOR WORLD.
+
+The windows must NOT behave like separate television screens.
+
+Do NOT place different eras in different window panes.
+
+Do NOT show snow in one window and green countryside in another.
+
+Do NOT show the 1800s in one window and Romans in another.
+
+Do NOT show Romans in one window and dinosaurs in another.
+
+Whenever time changes, the ENTIRE exterior environment visible through EVERY window changes together as one unified world.
+
+The physical window frames remain normal structural parts of the train, but the exterior beyond them is one continuous landscape.
+
+[CAMERA]
+
+One continuous interior shot for the full 8 seconds.
+
+Maintain approximately the camera composition established by <Picture 1>.
+
+No cuts.
+No exterior shots of the train.
+No camera leaving the carriage.
+
+Subtle realistic train vibration.
+
+The woman remains clearly visible in the foreground while the panoramic windows remain large enough for the audience to clearly read every historical era.
+
+Strong realistic exterior parallax continuously proves that the train is physically moving forward.
+
+During historical transitions, the camera itself does NOT speed up and the train does NOT accelerate.
+
+Only history outside rewinds rapidly.
+
+overall_soundscape:
+
+Continuous subdued interior ambience of a modern high-speed train: low rail rumble, soft mechanical vibration, subtle air-conditioning, and muted rushing sound from outside.
+
+The woman breathes softly and naturally.
+
+Each stable historical era contributes faint exterior ambience filtered realistically through the sealed train windows.
+
+Present day: soft rushing alpine wind.
+
+Green countryside: faint birds and natural countryside ambience.
+
+1800s: distant horse hooves, carriage wheels, and faint town activity.
+
+Roman era: distant muffled battle cries, shield impacts, horses, and battlefield movement.
+
+Prehistoric era: distant wind, low animal calls, and faint dinosaur vocalizations.
+
+Exterior sounds remain subdued and muffled by the train's glass.
+
+No dialogue.
+
+non_diegetic_music:
+N/A
+```
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/start-and-end-images-in-minimax-h3-comfyui-785340/video-d016e64099a7.webm)
+
+**Source:** [@EndFolding79421](https://x.com/EndFolding79421/status/2088060516027785340) · 8s · 43:24 · music video
+
+---
+
+## 7. Created with Minimax H3 in
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-in-453795/video-cf2ea34358cc.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-in-453795/poster-7f7e45997bf1.jpg" alt="Created with Minimax H3 in video preview" width="700" />
@@ -37,7 +578,7 @@ Animation made with Minimax H3
 
 ---
 
-## 2. Create a 15-second ultra-photorealistic live-action war sequence set in the
+## 8. Create a 15-second ultra-photorealistic live-action war sequence set in the
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/create-a-15-second-ultra-photorealistic-live-action-war-sequence-714552/video-5a1aa71322f9.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/create-a-15-second-ultra-photorealistic-live-action-war-sequence-714552/poster-c2fc59c43935.jpg" alt="Create a 15-second ultra-photorealistic live-action war sequence set in the video preview" width="700" />
@@ -73,7 +614,7 @@ Negative Prompt: modern buildings, modern cars, smartphones, modern clothing, mo
 
 ---
 
-## 3. Created with MiniMax H3.
+## 9. Created with MiniMax H3.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-522089/video-c091a3bdd9be.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-522089/poster-1264d9cf5d1a.jpg" alt="Created with MiniMax H3. video preview" width="700" />
@@ -94,7 +635,7 @@ A young Western female street photographer walks through a lively downtown stree
 
 ---
 
-## 4. Created using MiniMax H3 on .
+## 10. Created using MiniMax H3 on .
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-using-minimax-h3-on-933942/video-5f61370b7f96.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-using-minimax-h3-on-933942/poster-8cafaa3f4e11.jpg" alt="Created using MiniMax H3 on . video preview" width="700" />
@@ -166,7 +707,7 @@ changing outfit, changing hair color, distorted face, extra fingers, watermark
 
 ---
 
-## 5. "A hyper-realistic handheld phone video of a quiet suburban backyard on a bright
+## 11. "A hyper-realistic handheld phone video of a quiet suburban backyard on a bright
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/a-hyper-realistic-handheld-phone-video-of-a-quiet-suburban-495564/video-ed6186000378.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/a-hyper-realistic-handheld-phone-video-of-a-quiet-suburban-495564/poster-3f2373d244e6.jpg" alt="&quot;A hyper-realistic handheld phone video of a quiet suburban backyard on a bright video preview" width="700" />
@@ -187,7 +728,7 @@ changing outfit, changing hair color, distorted face, extra fingers, watermark
 
 ---
 
-## 6. Generated with Minimax H3 on
+## 12. Generated with Minimax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/generated-with-minimax-h3-on-116099/video-324e8e0741a4.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/generated-with-minimax-h3-on-116099/poster-44259f5d470e.jpg" alt="Generated with Minimax H3 on video preview" width="700" />
@@ -222,7 +763,7 @@ Style: hyper-realistic, cinematic, intense, fast-paced, suspenseful, fantasy atm
 
 ---
 
-## 7. 但实际证明Seedance2依然能打啊！
+## 13. 但实际证明Seedance2依然能打啊！
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/seedance2-854556/video-fd825440ee98.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/seedance2-854556/poster-04f43b4f5394.jpg" alt="但实际证明Seedance2依然能打啊！ video preview" width="700" />
@@ -248,7 +789,7 @@ Mira performing on stage to the track — not singing, moving like a rock star, 
 
 ---
 
-## 8. Minimax H3 keeps delivering beautiful VFX sequences.
+## 14. Minimax H3 keeps delivering beautiful VFX sequences.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-keeps-delivering-beautiful-vfx-sequences-725200/video-e88007d9788b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-keeps-delivering-beautiful-vfx-sequences-725200/poster-0c2e0703e6a5.jpg" alt="Minimax H3 keeps delivering beautiful VFX sequences. video preview" width="700" />
@@ -269,7 +810,7 @@ Epic cinematic aerial shot: Endless rolling clouds flow across towering mountain
 
 ---
 
-## 9. Enra Vael Forge-City Character Introduction
+## 15. Enra Vael Forge-City Character Introduction
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/enra-vael-forge-city-character-introduction-325876/video-860852f08613.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/enra-vael-forge-city-character-introduction-325876/poster-084b15d05dee.jpg" alt="Enra Vael Forge-City Character Introduction video preview" width="700" />
@@ -325,7 +866,7 @@ Directly reuse the 00:00.000-00:15.000 musical layer of < 📷Audio1 > unchanged
 
 ---
 
-## 10. An 1890s field guide plate, drawing itself
+## 16. An 1890s field guide plate, drawing itself
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/an-1890s-field-guide-plate-drawing-itself-963371/video-e96200ab35e1.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/an-1890s-field-guide-plate-drawing-itself-963371/poster-02d3a9dc60dd.jpg" alt="An 1890s field guide plate, drawing itself video preview" width="700" />
@@ -371,7 +912,7 @@ At 13 seconds, one Eurasian wren song — sudden, intricate and far louder than 
 
 ---
 
-## 11. Music Video Study 455917
+## 17. Music Video Study 455917
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/someone-got-up-at-four-so-you-didn-t-have-to-455917/video-d12f55f27d28.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/someone-got-up-at-four-so-you-didn-t-have-to-455917/poster-8e724bf262b3.jpg" alt="Music Video Study 455917 video preview" width="700" />
@@ -480,7 +1021,7 @@ never moves position. Do not add a ninth shot. Do not animate the end card.
 
 ---
 
-## 12. Impressionante fazer isso com uma IA local.
+## 18. Impressionante fazer isso com uma IA local.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/impressionante-fazer-isso-com-uma-ia-local-035362/video-10625d317dea.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/impressionante-fazer-isso-com-uma-ia-local-035362/poster-22117ffd06a7.jpg" alt="Impressionante fazer isso com uma IA local. video preview" width="700" />
@@ -529,7 +1070,7 @@ non_diegetic_music: None. Dry, absurd, self-aware comedic timing.
 
 ---
 
-## 13. Video: Seedance 2.5 and Minimax H3 on
+## 19. Video: Seedance 2.5 and Minimax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-seedance-2-5-and-minimax-h3-on-161893/video-584b838bee7b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-seedance-2-5-and-minimax-h3-on-161893/poster-9ea6c927bb53.jpg" alt="Video: Seedance 2.5 and Minimax H3 on video preview" width="700" />
@@ -552,7 +1093,7 @@ non_diegetic_music: None. Dry, absurd, self-aware comedic timing.
 
 ---
 
-## 14. A handheld found-footage shot from behind a person playing an authentic Street
+## 20. A handheld found-footage shot from behind a person playing an authentic Street
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/a-handheld-found-footage-shot-from-behind-a-person-playing-800047/video-57ffb21847b1.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/a-handheld-found-footage-shot-from-behind-a-person-playing-800047/poster-0d02de46fdc9.jpg" alt="A handheld found-footage shot from behind a person playing an authentic Street video preview" width="700" />
@@ -573,7 +1114,7 @@ A handheld found-footage shot from behind a person playing an authentic Street F
 
 ---
 
-## 15. Music Video Study 428386
+## 21. Music Video Study 428386
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/gorgeous-latina-beauty-dancing-through-the-magic-428386/video-794a4c21ec07.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/gorgeous-latina-beauty-dancing-through-the-magic-428386/poster-fbb9e347c658.jpg" alt="Music Video Study 428386 video preview" width="700" />
@@ -629,7 +1170,7 @@ A handheld found-footage shot from behind a person playing an authentic Street F
 
 ---
 
-## 16. Which one looks better to you?
+## 22. Which one looks better to you?
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/which-one-looks-better-to-you-565341/video-89453214ac2b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/which-one-looks-better-to-you-565341/poster-865d7672ff1a.jpg" alt="Which one looks better to you? video preview" width="700" />
@@ -668,7 +1209,7 @@ No third-person view, no visible hero face, no constant hands in frame, no rando
 
 ---
 
-## 17. Creating a sleek, professional ad for using itself. ⚡
+## 23. Creating a sleek, professional ad for using itself. ⚡
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/creating-a-sleek-professional-ad-for-using-itsel-709286/video-ff22890b1579.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/creating-a-sleek-professional-ad-for-using-itsel-709286/poster-bc6b9233e343.jpg" alt="Creating a sleek, professional ad for using itself. ⚡ video preview" width="700" />
@@ -739,7 +1280,7 @@ Do not add subtitles, captions, credits, watermarks, panel numbers, section labe
 
 ---
 
-## 18. Created with MiniMax H3
+## 24. Created with MiniMax H3
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-708458/video-9d226381a64e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-708458/poster-35d1fceb944b.jpg" alt="Created with MiniMax H3 video preview" width="700" />
@@ -793,7 +1334,7 @@ Dark stormy jungle atmosphere mixed with warm golden sunlight, volumetric light 
 
 ---
 
-## 19. MiniMax H3
+## 25. MiniMax H3
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-282512/video-f22944aa48a4.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-282512/poster-b3406822b7ee.jpg" alt="MiniMax H3 video preview" width="700" />
@@ -814,7 +1355,7 @@ Cinematic comedy sequence, 15 seconds. [SCENE 1: 0-4s] Extreme close-up: A morbi
 
 ---
 
-## 20. Created with MiniMax H3
+## 26. Created with MiniMax H3
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-243802/video-96d91bd90aed.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-243802/poster-ad3728cd310d.jpg" alt="Created with MiniMax H3 video preview" width="700" />
@@ -835,7 +1376,7 @@ A cinematic 15-second ultra-realistic Hollywood action sequence featuring a skil
 
 ---
 
-## 21. Minimax H3 on
+## 27. Minimax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-on-229978/video-1d57d72e7cfc.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-on-229978/poster-2d13a8cb7005.jpg" alt="Minimax H3 on video preview" width="700" />
@@ -874,7 +1415,7 @@ Do not include text, captions, logos, watermarks, brand names, duplicated specta
 
 ---
 
-## 22. MiniMax H3 on v/s Seedance 2.5
+## 28. MiniMax H3 on v/s Seedance 2.5
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-on-v-s-seedance-2-5-783077/video-317fb0bc5e05.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-on-v-s-seedance-2-5-783077/poster-b50f469c9512.jpg" alt="MiniMax H3 on v/s Seedance 2.5 video preview" width="700" />
@@ -913,7 +1454,7 @@ Ultra-cinematic dark fantasy, realistic sword choreography, terrifying creature 
 
 ---
 
-## 23. First try with Minimax H3 and is full cinematic 📽️ 🤩
+## 29. First try with Minimax H3 and is full cinematic 📽️ 🤩
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/first-try-with-minimax-h3-and-is-full-cinematic-276158/video-e77014093dbc.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/first-try-with-minimax-h3-and-is-full-cinematic-276158/poster-33f9f340f70f.jpg" alt="First try with Minimax H3 and is full cinematic 📽️ 🤩 video preview" width="700" />
@@ -934,7 +1475,7 @@ Whip pan from a screaming crowd to a massive kraken-like creature rising from fl
 
 ---
 
-## 24. Krea 2 Turbo + Minimax H3 in Comfyui = ...
+## 30. Krea 2 Turbo + Minimax H3 in Comfyui = ...
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/krea-2-turbo-minimax-h3-in-comfyui-742459/video-f6039a6c447c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/krea-2-turbo-minimax-h3-in-comfyui-742459/poster-529b077379d4.jpg" alt="Krea 2 Turbo + Minimax H3 in Comfyui = ... video preview" width="700" />
@@ -967,7 +1508,7 @@ Static camera throughout. No cuts. Smooth cinematic motion. Museum lighting rema
 
 ---
 
-## 25. 🤯 is seriously good at this kind of K-pop lyric
+## 31. 🤯 is seriously good at this kind of K-pop lyric
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/is-seriously-good-at-this-kind-of-k-pop-lyric-987242/video-5fda0a4e6bd1.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/is-seriously-good-at-this-kind-of-k-pop-lyric-987242/poster-fb7648983910.jpg" alt="🤯 is seriously good at this kind of K-pop lyric video preview" width="700" />
@@ -1031,7 +1572,7 @@ Keep the SAME Korean woman about 22 as the reference image: same facial identity
 
 ---
 
-## 26. "duration": "15s"
+## 32. "duration": "15s"
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/duration-15s-808615/video-6abbfdf8bb00.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/duration-15s-808615/poster-a38df7a83639.jpg" alt="&quot;duration&quot;: &quot;15s&quot; video preview" width="700" />
@@ -1092,7 +1633,7 @@ Keep the SAME Korean woman about 22 as the reference image: same facial identity
 
 ---
 
-## 27. Been testing the new Flux3 and Hailuo Minimax H3 models like crazy lately.
+## 33. Been testing the new Flux3 and Hailuo Minimax H3 models like crazy lately.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/been-testing-the-new-flux3-and-hailuo-minimax-h3-models-282651/video-94592e26e50f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/been-testing-the-new-flux3-and-hailuo-minimax-h3-models-282651/poster-2a1a79751bf4.jpg" alt="Been testing the new Flux3 and Hailuo Minimax H3 models like crazy lately. video preview" width="700" />
@@ -1152,7 +1693,7 @@ Exactly one woman, one head, one face and one helmet. Face hidden until helmet r
 
 ---
 
-## 28. What if Superman had to do his own laundry? 😂
+## 34. What if Superman had to do his own laundry? 😂
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/what-if-superman-had-to-do-his-own-laundry-986556/video-72f8ca650e9e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/what-if-superman-had-to-do-his-own-laundry-986556/poster-f6eb714b138a.jpg" alt="What if Superman had to do his own laundry? 😂 video preview" width="700" />
@@ -1178,7 +1719,7 @@ Exactly one woman, one head, one face and one helmet. Face hidden until helmet r
 
 ---
 
-## 29. What if Cleopatra ordered pizza? 😂
+## 35. What if Cleopatra ordered pizza? 😂
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/what-if-cleopatra-ordered-pizza-892346/video-c8b774803106.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/what-if-cleopatra-ordered-pizza-892346/poster-9b43dc43a54e.jpg" alt="What if Cleopatra ordered pizza? 😂 video preview" width="700" />
@@ -1203,7 +1744,7 @@ Exactly one woman, one head, one face and one helmet. Face hidden until helmet r
 
 ---
 
-## 30. Hailuo has been great at text motion graphics for a long time, but it really shines with H3.
+## 36. Hailuo has been great at text motion graphics for a long time, but it really shines with H3.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-has-been-great-at-text-motion-graphics-for-a-330229/video-1b55976da384.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-has-been-great-at-text-motion-graphics-for-a-330229/poster-338db6b7f5cc.jpg" alt="Hailuo has been great at text motion graphics for a long time, but it really shines with H3. video preview" width="700" />
@@ -1243,7 +1784,7 @@ Anamorphic-feel 35mm for wides, 50mm for the mid shots.
 
 ---
 
-## 31. 3 references. One model
+## 37. 3 references. One model
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/3-references-one-model-894024/video-c38d6cafc378.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/3-references-one-model-894024/poster-10bd2674f8d4.jpg" alt="3 references. One model video preview" width="700" />
@@ -1281,7 +1822,7 @@ Mouth and teeth must stay natural and undistorted at all times — no deformatio
 
 ---
 
-## 32. 動画プロンプトはリプ欄で
+## 38. 動画プロンプトはリプ欄で
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-098132-098132/video-ede22d0cb4bb.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-098132-098132/poster-134bd905899f.jpg" alt="動画プロンプトはリプ欄で video preview" width="700" />
@@ -1302,7 +1843,7 @@ Mouth and teeth must stay natural and undistorted at all times — no deformatio
 
 ---
 
-## 33. 7-second video. The Office (US) mockumentary style, inside the Dunder Mifflin
+## 39. 7-second video. The Office (US) mockumentary style, inside the Dunder Mifflin
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/7-second-video-the-office-us-mockumentary-style-inside-the-709123/video-9569d415640f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/7-second-video-the-office-us-mockumentary-style-inside-the-709123/poster-5b88ac86aefe.jpg" alt="7-second video. The Office (US) mockumentary style, inside the Dunder Mifflin video preview" width="700" />
@@ -1335,7 +1876,7 @@ Natural English dialogue, precise lip synchronization, realistic overlapping off
 
 ---
 
-## 34. t2vで2Kで生成。
+## 40. t2vで2Kで生成。
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/t2v2k-197897/video-5c6884d5b0d4.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/t2v2k-197897/poster-44d24ab575b8.jpg" alt="t2vで2Kで生成。 video preview" width="700" />
@@ -1362,7 +1903,7 @@ non_diegetic_music: A single low synth drone that begins under the wreckage and 
 
 ---
 
-## 35. Hailuo MiniMax H3 vs. Seedance 2.0
+## 41. Hailuo MiniMax H3 vs. Seedance 2.0
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-minimax-h3-vs-seedance-2-0-186452/video-4049eb1f4eaf.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-minimax-h3-vs-seedance-2-0-186452/poster-2173025914f5.jpg" alt="Hailuo MiniMax H3 vs. Seedance 2.0 video preview" width="700" />
@@ -1421,7 +1962,7 @@ Exactly one dragon and one rider. The rider is seated on the dragon from the beg
 
 ---
 
-## 36. Made it on
+## 42. Made it on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/made-it-on-225758/video-67e141c9ffd3.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/made-it-on-225758/poster-905c4eb5b416.jpg" alt="Made it on video preview" width="700" />
@@ -1488,7 +2029,7 @@ Exactly one bat-dragon. No additional flying creatures. No rider. Exactly one he
 
 ---
 
-## 37. Hip-Hop Character Lip-Sync Performance
+## 43. Hip-Hop Character Lip-Sync Performance
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/hip-hop-music-video-make-the-character-from-video1-107776/video-82752a8f7c3d.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/hip-hop-music-video-make-the-character-from-video1-107776/poster-f2c554bb73d5.jpg" alt="Hip-Hop Character Lip-Sync Performance video preview" width="700" />
@@ -1509,7 +2050,7 @@ hip hop music video, make the character from @Video1 dance to the beat from musi
 
 ---
 
-## 38. Grimy hip-hop music video mood
+## 44. Grimy hip-hop music video mood
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/grimy-hip-hop-music-video-mood-030578/video-f9d069d327ed.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/grimy-hip-hop-music-video-mood-030578/poster-c2d9399f8fca.jpg" alt="Grimy hip-hop music video mood video preview" width="700" />
@@ -1530,7 +2071,7 @@ hip hop music video, make the character from @Video1 dance to the beat from musi
 
 ---
 
-## 39. Beat-Synced K-Pop Multimodal MV
+## 45. Beat-Synced K-Pop Multimodal MV
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/beat-synced-k-pop-multimodal-mv-043716/video-54c0a54b87f1.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/beat-synced-k-pop-multimodal-mv-043716/poster-62b79925bee5.jpg" alt="Beat-Synced K-Pop Multimodal MV video preview" width="700" />
@@ -1551,7 +2092,7 @@ Make an MV from Audio1 . Show these Kpop members from Image1 singing and dancing
 
 ---
 
-## 40. Dark-pop trio music-video performance with on-screen titles
+## 46. Dark-pop trio music-video performance with on-screen titles
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/dark-pop-trio-music-video-performance-with-on-screen-titles-931081/video-91c6d0df85d1.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/dark-pop-trio-music-video-performance-with-on-screen-titles-931081/poster-fd5df6b4f2eb.jpg" alt="Dark-pop trio music-video performance with on-screen titles video preview" width="700" />
@@ -1572,7 +2113,7 @@ Make an MV from Audio1 . Show these Kpop members from Image1 singing and dancing
 
 ---
 
-## 41. 3x3 contact sheet female rapper grid performance
+## 47. 3x3 contact sheet female rapper grid performance
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/3x3-contact-sheet-female-rapper-grid-performance-672833/video-ba3d4a001ac4.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/3x3-contact-sheet-female-rapper-grid-performance-672833/poster-3089de066a00.jpg" alt="3x3 contact sheet female rapper grid performance video preview" width="700" />
@@ -1593,7 +2134,7 @@ Use @Image 1 as the exact opening frame. It is a 3x3 contact sheet of nine separ
 
 ---
 
-## 42. Nightclub Breakdance Camera Orbit
+## 48. Nightclub Breakdance Camera Orbit
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/nightclub-breakdance-orbit-717186/video-20acd83c2a11.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/nightclub-breakdance-orbit-717186/poster-b6d8304760f5.jpg" alt="Nightclub Breakdance Camera Orbit video preview" width="700" />
@@ -1637,7 +2178,7 @@ or children.
 
 ---
 
-## 43. Dark-pop cyber-grunge rap music video style
+## 49. Dark-pop cyber-grunge rap music video style
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/dark-pop-cyber-grunge-rap-music-video-style-998615/video-f0f0f0f7241c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/dark-pop-cyber-grunge-rap-music-video-style-998615/poster-1ca7bae3079a.jpg" alt="Dark-pop cyber-grunge rap music video style video preview" width="700" />
@@ -1658,7 +2199,7 @@ Style: dark-pop / cyber-grunge / rap music video with photoreal high-fashion pol
 
 ---
 
-## 44. Dreamlike Summer Greenhouse Anime
+## 50. Dreamlike Summer Greenhouse Anime
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-video-prompt-056852/video-e02bf02c9bc9.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-video-prompt-056852/poster-6480d57e838e.jpg" alt="Dreamlike Summer Greenhouse Anime video preview" width="700" />
@@ -1743,7 +2284,7 @@ Style: dark-pop / cyber-grunge / rap music video with photoreal high-fashion pol
 
 ---
 
-## 45. Fantasy Academy Bread-Sharing Scene
+## 51. Fantasy Academy Bread-Sharing Scene
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-video-prompt-773075/video-85ff5049786e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-video-prompt-773075/poster-702c97b9b772.jpg" alt="Fantasy Academy Bread-Sharing Scene video preview" width="700" />
@@ -1830,7 +2371,7 @@ Style: dark-pop / cyber-grunge / rap music video with photoreal high-fashion pol
 
 ---
 
-## 46. Would you like to dance
+## 52. Would you like to dance
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/would-you-like-to-dance-986858/video-4b3c56a77b13.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/would-you-like-to-dance-986858/poster-eb5878919f69.jpg" alt="Would you like to dance video preview" width="700" />
@@ -1851,7 +2392,7 @@ Would you like to dance?
 
 ---
 
-## 47. Emotional performance lip-sync to reference audio
+## 53. Emotional performance lip-sync to reference audio
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/emotional-performance-lip-sync-to-reference-audio-609528/video-2277fda214a8.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/emotional-performance-lip-sync-to-reference-audio-609528/poster-09f46092e544.jpg" alt="Emotional performance lip-sync to reference audio video preview" width="700" />

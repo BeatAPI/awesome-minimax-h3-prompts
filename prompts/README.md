@@ -1,4 +1,4 @@
-# Browse all 300 MiniMax H3 prompts
+# Browse all 330 MiniMax H3 prompts
 
 [Back to the full gallery](../README.md)
 
@@ -24,6 +24,8 @@
 - [Page 10](./pages/10.md) — prompts 226–250
 - [Page 11](./pages/11.md) — prompts 251–275
 - [Page 12](./pages/12.md) — prompts 276–300
+- [Page 13](./pages/13.md) — prompts 301–325
+- [Page 14](./pages/14.md) — prompts 326–330
 
 ## Categories
 

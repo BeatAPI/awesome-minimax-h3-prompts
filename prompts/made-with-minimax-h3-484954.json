@@ -1,0 +1,31 @@
+{
+  "slug": "made-with-minimax-h3-484954",
+  "title": {
+    "en": "Made with MiniMax H3",
+    "zh": "Made with MiniMax H3"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 vlog prompt with attached video evidence from @Zyrellix.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3视频提示词。"
+  },
+  "category": "vlog",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "7:4",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Zyrellix",
+    "url": "https://x.com/Zyrellix/status/2096817125864484954"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Zyrellix/status/2096817125864484954"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-484954/video-7ebec37132d1.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-484954/poster-abe265a9f51c.jpg",
+  "prompt": "A continuous 4K travel vlog video featuring a young East Asian woman with long dark hair, wearing a white crop top, open white shirt, and beige shorts, exploring Istanbul. The video seamlessly sequences through dynamic travel moments: starting with a close-up ASMR intro whispering into a mic near Hagia Sophia, transitioning to a handheld selfie camera spinning through a sunny square filled with tourists. Cut to a low-angle shot inside a historic mosque gazing up at grand domed ceilings and Ottoman arches, followed by a golden-hour rooftop moment near Galata Tower with her hair blowing softly in the breeze. She then stands on a Bosphorus ferry railing smiling at the camera, walks down a narrow cobblestone alley lined with outdoor cafes, offers a cup of Turkish coffee close to the lens in a cozy cafe, and ends with a wide cinematic twilight shot of the illuminated Istanbul skyline across the water. Hyper-detailed, photorealistic, 8k resolution, cinematic lighting, vibrant natural colors, fluid movement, photorealistic face and physics."
+}

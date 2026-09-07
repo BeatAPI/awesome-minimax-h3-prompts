@@ -2,7 +2,156 @@
 
 [Back to the full gallery](../../README.md) · [Catalog index](../README.md)
 
-## 1. Created with MiniMax H3
+## 1. Made with MiniMax H3
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-484954/video-7ebec37132d1.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-484954/poster-abe265a9f51c.jpg" alt="Made with MiniMax H3 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — A continuous 4K travel vlog video featuring a young East Asian woman with long dark hair, wearing a white crop top, open white shirt, and beige shorts, exploring Istanbul. The...</summary>
+
+~~~~text
+A continuous 4K travel vlog video featuring a young East Asian woman with long dark hair, wearing a white crop top, open white shirt, and beige shorts, exploring Istanbul. The video seamlessly sequences through dynamic travel moments: starting with a close-up ASMR intro whispering into a mic near Hagia Sophia, transitioning to a handheld selfie camera spinning through a sunny square filled with tourists. Cut to a low-angle shot inside a historic mosque gazing up at grand domed ceilings and Ottoman arches, followed by a golden-hour rooftop moment near Galata Tower with her hair blowing softly in the breeze. She then stands on a Bosphorus ferry railing smiling at the camera, walks down a narrow cobblestone alley lined with outdoor cafes, offers a cup of Turkish coffee close to the lens in a cozy cafe, and ends with a wide cinematic twilight shot of the illuminated Istanbul skyline across the water. Hyper-detailed, photorealistic, 8k resolution, cinematic lighting, vibrant natural colors, fluid movement, photorealistic face and physics.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-484954/video-7ebec37132d1.webm)
+
+**Source:** [@Zyrellix](https://x.com/Zyrellix/status/2096817125864484954) · 15s · 7:4 · vlog
+
+---
+
+## 2. Created in Minimax H3
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-in-minimax-h3-166116/video-22f9402ebdd6.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-in-minimax-h3-166116/poster-9e96b3ca9a5b.jpg" alt="Created in Minimax H3 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — FORMAT: 15 seconds | 9:16 vertical | Ultra-photorealistic smartphone vlog | Real-world Tokyo at night CHARACTER LOCK Use the attached girl as the exact character and identity...</summary>
+
+~~~~text
+FORMAT: 15 seconds | 9:16 vertical | Ultra-photorealistic smartphone vlog | Real-world Tokyo at night
+
+CHARACTER LOCK
+Use the attached girl as the exact character and identity reference throughout the entire video. Preserve her recognizable facial features, face shape, warm skin tone, brown eyes, natural makeup, soft features, and dark brown hair styled in a messy high bun with loose strands framing her face.
+She is an adult woman with a natural, approachable travel-vlogger appearance.
+
+OUTFIT LOCK
+
+Match the outfit shown in the storyboard:
+
+Cream-colored knit top
+
+Light beige lightweight jacket, worn open
+
+Charcoal/dark gray straight-leg trousers
+
+Clean white sneakers
+Small silver hoop earrings
+Simple silver wristwatch
+Minimal accessories
+Natural, understated makeup
+The hairstyle, face, outfit, accessories and overall appearance must remain identical across all six storyboard scenes.
+00–04s — RUNNING FOR IT
+Handheld selfie footage on a crowded Tokyo street at night.
+
+The girl from the attached reference walks quickly toward the camera, slightly out of breath. Her beige jacket moves naturally as she walks.
+
+Bright Tokyo signs, storefronts, pedestrians and traffic create an authentic nighttime city background.
+
+She looks directly into the phone camera and laughs:
+
+“Wait—my train leaves in two minutes!”
+
+She quickly turns the phone forward and starts jogging toward the station.
+
+04–08s — THE STATION
+
+Handheld camera follows her from behind and slightly beside her as she rushes down the station stairs.
+
+Her messy brown bun and beige jacket remain clearly recognizable.
+
+She reaches the ticket gate, taps her transit card and quickly passes through.
+
+The phone camera shakes naturally from her movement and briefly loses autofocus.
+
+08–12s — MADE IT
+
+She reaches the platform just as the train arrives.
+
+The camera captures the approaching train headlights before returning to her face.
+
+She steps inside, turns the phone toward herself and smiles while catching her breath.
+
+She says:
+
+“I actually made it!”
+
+The train doors close behind her.
+
+12–15s — TOKYO THROUGH THE WINDOW
+
+Inside the train, she turns the phone toward the window.
+
+Tokyo's illuminated buildings and streets naturally blur past as the train accelerates.
+
+Her face appears softly reflected in the glass.
+
+She looks toward the city and quietly says:
+
+“Okay… Tokyo at night hits different.”
+
+Natural cut.
+
+REALISM & CHARACTER CONSISTENCY
+
+Same attached girl in every shot. No character changes.
+
+Maintain the exact:
+
+Facial identity
+
+Brown eyes
+
+Dark brown messy high bun
+
+Loose face-framing hair strands
+Skin tone
+Facial proportions
+Cream knit top
+Beige jacket
+Charcoal trousers
+White sneakers
+Silver earrings
+Wristwatch
+Natural skin texture, realistic hair strands, authentic blinking, subtle facial expressions and believable body movement.
+No outfit changes, no hairstyle changes, no different woman, no face morphing, no beauty-filter effect.
+
+VISUAL STYLE
+Authentic handheld smartphone footage rather than a polished movie.
+
+Natural motion blur, autofocus hunting, slight exposure shifts, realistic low-light phone noise, imperfect framing, natural Tokyo crowds and physically accurate movement.
+
+No cinematic transitions, no fantasy effects, no exaggerated neon, no artificial-looking skin, no duplicated people, no impossible camera movement.
+
+AUDIO
+Natural Tokyo ambience, footsteps, station announcements, crowd noise, train brakes, door chime and her real voice.
+
+No background music, no subtitles, no watermark.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/created-in-minimax-h3-166116/video-22f9402ebdd6.webm)
+
+**Source:** [@codewithhajra](https://x.com/codewithhajra/status/2093896492000166116) · 17s · 45:56 · vlog
+
+---
+
+## 3. Created with MiniMax H3
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-059973/video-3896db6ced5e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-059973/poster-7280e63a51f7.jpg" alt="Created with MiniMax H3 video preview" width="700" />
@@ -75,7 +224,7 @@ Ultra-realistic, cinematic travel vlog, natural handheld camera movement, realis
 
 ---
 
-## 2. Created with MiniMax H3
+## 4. Created with MiniMax H3
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-915217/video-696701f03b89.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-915217/poster-bde0396afc1c.jpg" alt="Created with MiniMax H3 video preview" width="700" />
@@ -96,7 +245,7 @@ A cinematic 15-second ultra-realistic travel vlog following a young female creat
 
 ---
 
-## 3. 效果顶尖+全能参考+超高性价比，2K 低至 ¥0.53/秒。
+## 5. 效果顶尖+全能参考+超高性价比，2K 低至 ¥0.53/秒。
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/2k-0-53-484730/video-228f4863d525.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/2k-0-53-484730/poster-8ab57b1dbab4.jpg" alt="效果顶尖+全能参考+超高性价比，2K 低至 ¥0.53/秒。 video preview" width="700" />
@@ -145,7 +294,7 @@ A cinematic 15-second ultra-realistic travel vlog following a young female creat
 
 ---
 
-## 4. Post-workout gym vlog
+## 6. Post-workout gym vlog
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/post-workout-gym-vlog/video-d10c5d55f742.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/post-workout-gym-vlog/poster-d214dd09f572.jpg" alt="Post-workout gym vlog video preview" width="700" />
@@ -177,7 +326,7 @@ Selfie: grabs bag and shake, waves. "Alright, I'm heading out—see you guys."
 
 ---
 
-## 5. Pizza night UGC Domino’s vlog
+## 7. Pizza night UGC Domino’s vlog
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/pizza-night-ugc-domino-s-vlog-197798/video-a0d77ef8aa24.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/pizza-night-ugc-domino-s-vlog-197798/poster-8658d09b5618.jpg" alt="Pizza night UGC Domino’s vlog video preview" width="700" />

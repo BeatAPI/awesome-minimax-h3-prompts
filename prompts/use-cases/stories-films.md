@@ -1,6 +1,6 @@
 # MiniMax H3 Stories & Films prompts
 
-[Back to all 300 prompts](../../README.md)
+[Back to all 330 prompts](../../README.md)
 
 ## 1. Radio operator evacuation bridge
 
@@ -192,7 +192,206 @@ image1の細く淡い青灰色と暖灰色の線、透明感のある二層以�
 
 ---
 
-## 3. Human Cakes MiniMax h3 local
+## 3. Created with MiniMax H3 Max
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-max-120666/video-1dd8c321e87b.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-max-120666/poster-bba190dc87b8.jpg" alt="Created with MiniMax H3 Max video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — A cinematic medium shot of a gentle East Asian young woman with dark hair styled in a bun adorned with a blue-and-white checkered bow, standing on a sunny pebbled lakefront. She...</summary>
+
+~~~~text
+A cinematic medium shot of a gentle East Asian young woman with dark hair styled in a bun adorned with a blue-and-white checkered bow, standing on a sunny pebbled lakefront. She wears a sleeveless light blue polka-dot tulle dress with long, translucent white ribbons flowing from her shoulder that flutter gracefully in a gentle breeze. Holding a lush bouquet of pastel pink, baby blue, and white flowers, she smiles warmly at the camera, softly touches the flower petals, and tilts her head back slightly to close her eyes and feel the breeze. In the background, glistening blue lake water sparkles under the sun, bordered by tall green reeds along the shore and serene blue mountains under a bright, clear sky, captured in soft natural daylight with a shallow depth of field.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-max-120666/video-1dd8c321e87b.webm)
+
+**Source:** [@TaliaAariz](https://x.com/TaliaAariz/status/2095857062987120666) · 15s · 4:7 · cinematic story
+
+---
+
+## 4. Made with on
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-on-438174/video-106e0254b230.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-on-438174/poster-d39cea3a2c83.jpg" alt="Made with on video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — A tiny adorable orange fox cub named Milo lives in a cozy little forest beneath a giant ancient oak tree. One magical night, Milo looks up at the enormous glowing full moon...</summary>
+
+~~~~text
+A tiny adorable orange fox cub named Milo lives in a cozy little forest beneath a giant ancient oak tree. One magical night, Milo looks up at the enormous glowing full moon reflected in a quiet lake. He reaches his tiny paw toward the moon, wishing he could touch it.
+
+A gentle breeze moves through the grass and fireflies sparkle around him. Milo suddenly notices a beautiful glowing feather floating down from the sky. His eyes widen with wonder.
+
+Camera: Slow cinematic push-in toward Milo, then tilt upward toward the glowing moon.
+
+Mood: Magical, peaceful, emotional.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-on-438174/video-106e0254b230.webm)
+
+**Source:** [@aniyaintel](https://x.com/aniyaintel/status/2095362627677438174) · 15s · 16:9 · cinematic story
+
+---
+
+## 5. Hailuo H3. RENDER, built out of wood shavings, then carved.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-render-built-out-of-wood-shavings-then-carved-130121/video-bd0a19d40894.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-render-built-out-of-wood-shavings-then-carved-130121/poster-52ebbfcee83a.jpg" alt="Hailuo H3. RENDER, built out of wood shavings, then carved. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — &quot;gathering into six tall upright letters in order from left to right, R first, then E, N, D, E, R, each letter building from the base up&quot; Duration: 15s. Camera: locked, low, bench...</summary>
+
+~~~~text
+"gathering into six tall upright letters in order from left to right, R first, then E, N, D, E, R, each letter building from the base up"
+
+Duration: 15s. Camera: locked, low, bench height.
+
+Spelling the letters out one at a time in order is what got six letters instead of five or seven. Naming the word once was not enough.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-render-built-out-of-wood-shavings-then-carved-130121/video-bd0a19d40894.webm)
+
+**Source:** [@GlennHasABeard](https://x.com/GlennHasABeard/status/2094755037826130121) · 15s · 7:4 · cinematic story
+
+---
+
+## 6. Fluffi vs. laser pointer. Hailuo H3, one take.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/fluffi-vs-laser-pointer-hailuo-h3-one-take-136738/video-5e8746c5ec06.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/fluffi-vs-laser-pointer-hailuo-h3-one-take-136738/poster-2537853395a5.jpg" alt="Fluffi vs. laser pointer. Hailuo H3, one take. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — &quot;the dot moves at the last instant and he lands on bare floor, looks under his paws, finds nothing&quot; Reference: one Fluffi image. Camera: low, handheld, following. Writing the miss...</summary>
+
+~~~~text
+"the dot moves at the last instant and he lands on bare floor,
+looks under his paws, finds nothing"
+
+Reference: one Fluffi image. Camera: low, handheld, following.
+
+Writing the miss as an end state is what got the confused look. If you
+only describe the pounce, he catches it.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/fluffi-vs-laser-pointer-hailuo-h3-one-take-136738/video-5e8746c5ec06.webm)
+
+**Source:** [@GlennHasABeard](https://x.com/GlennHasABeard/status/2094472529939136738) · 15s · 7:4 · cinematic story
+
+---
+
+## 7. ▫️ Render Time: 8s video in ~185s
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/render-time-8s-video-in-185s-455656/video-b3d85db60137.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/render-time-8s-video-in-185s-455656/poster-6ab458edf47e.jpg" alt="▫️ Render Time: 8s video in ~185s video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — [First Frame Reference] Strictly preserve the blonde elf-eared girl side-lying on the tatami, the sleeping red Shiba Inu, her white shirt and shorts, and the sunlit Japanese room...</summary>
+
+~~~~text
+[First Frame Reference] Strictly preserve the blonde elf-eared girl side-lying on the tatami, the sleeping red Shiba Inu, her white shirt and shorts, and the sunlit Japanese room from the reference image.
+
+[Scene & Framing] Shunji Iwai cinematic style. Low-angle medium-close shot, focus sharply locked on the girl's facial profile, elf ears, and fine blonde hair strands.
+
+[Time-Coded Motion Breakdown]
+- 0-3s (Gentle Breeze & Hair Motion): A continuous soft summer breeze blows across the room, causing the fine strands of her blonde bangs and side hair to sway and flutter weightlessly, glowing translucently in the backlight.
+- 3-6s (Synchronized Rest): The girl and dog slumber peacefully with subtle chest rises and falls. The drifting hair strands lightly brush against the dog's ear, prompting a tiny, contented ear twitch from the Shiba.
+- 6-8s (Soft Drift & Golden Glow): The camera maintains a delicate organic handheld float as the breeze gently calms, settling her hair softly against her cheek. A soft, dreamlike golden lens flare shimmers at the edge of the frame.
+
+[Camera & Optics] Shunji Iwai signature handheld organic breathing. 50mm large aperture shallow depth of field, rendering individual wind-blown hair strands crisp while keeping the background in creamy bokeh.
+[Lighting & Color Palette] High-key Japanese film aesthetic: strong ethereal backlighting, translucent hair rim lighting, dreamlike glow halation, pastel warmth, and fine film grain.
+[Audio Design] Intimate acoustic ambiance: the gentle whisper of a summer breeze, soft rustling garden leaves, faint distant wind chimes, and deep tranquil breathing.
+
+[Avoidances] No aggressive storm winds or chaotic hair physics; hair must flutter softly and realistically; no camera jolts; no sudden waking up.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/render-time-8s-video-in-185s-455656/video-b3d85db60137.webm)
+
+**Source:** [@Tomw852](https://x.com/Tomw852/status/2094104586793455656) · 8s · 5:9 · cinematic story
+
+---
+
+## 8. 镜头慢慢推进，镜头慢慢环绕，最后定格在这个仙人人物的身上，云雾快速翻腾，人物衣服随风飘扬。
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-483549-483549/video-28302ff344a0.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-483549-483549/poster-5240802e644a.jpg" alt="镜头慢慢推进，镜头慢慢环绕，最后定格在这个仙人人物的身上，云雾快速翻腾，人物衣服随风飘扬。 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Picture Prompt in MJ...</summary>
+
+~~~~text
+Picture Prompt in MJ
+
+实景搭建的宏大东方宫殿群，【第一层:近景实体遮挡】，巧妙利用粗粝厚重的青石、苍松或天然岩石作强烈的近景物理遮挡。【第二层:中景压迫红墙与贴地人物】，高大巍峨的官式朱红宫墙呈实体压迫感向上延伸（表面仅接受自然光，绝无自发光或霓虹感），宫墙下方坚实厚重的青石露台上，身着汉服女子双脚稳稳贴地、伴随真实接触阴影，微小如豆但衣褶清晰。【穿层雾气与空间透视】，真实的物理云雾与山岚在近、中、远三层空间之间穿梭流淌，彻底割开画面层次。【第三层:远景极限纵深】，无尽云海与远山因大气透视自然淡化。自然阳光从真实太阳方位均匀洒落，实体质感达照片级写实。80 年代香港武侠片实体布景美学，胶片颗粒细腻，暖调偏色，严禁数字平滑感、荧光色、霓虹光、体积光、光束特效、3D 渲染感、文字、水印。
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-483549-483549/video-28302ff344a0.webm)
+
+**Source:** [@PixelAigc](https://x.com/PixelAigc/status/2090985277653483549) · 7s · 16:9 · cinematic story
+
+---
+
+## 9. Created with Hailuo H3.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-hailuo-h3-182619/video-75c2c914df29.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-hailuo-h3-182619/poster-fdfc758d64c8.jpg" alt="Created with Hailuo H3. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Ultra cinematic title sequence: A colossal glacier fractures across an endless frozen ocean. Deep blue cracks spread for miles beneath translucent ice before the entire shelf...</summary>
+
+~~~~text
+Ultra cinematic title sequence: A colossal glacier fractures across an endless frozen ocean. Deep blue cracks spread for miles beneath translucent ice before the entire shelf collapses. Mountains of ice are launched into the sky, suspended in breathtaking slow motion. Every crystal catches the sunlight while frozen debris rotates around the camera. The crystalline storm assembles the word "EXTINCTION", carved from pure glacial ice with intricate frozen textures. Hairline fractures slowly spread through every letter until the title violently shatters into millions of glittering ice fragments. Photorealistic ice simulation, IMAX-scale environmental VFX.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-hailuo-h3-182619/video-75c2c914df29.webm)
+
+**Source:** [@CharaspowerAI](https://x.com/CharaspowerAI/status/2090740724803182619) · 15s · 16:9 · title sequence
+
+---
+
+## 10. Created with MiniMax H3 on .
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-989121/video-da744e0dc652.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-989121/poster-49af374a62a1.jpg" alt="Created with MiniMax H3 on . video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — A young Western artist sets up an easel in a peaceful city park and paints the skyline overlooking a lake. As the artwork comes to life, she compares the finished painting with...</summary>
+
+~~~~text
+A young Western artist sets up an easel in a peaceful city park and paints the skyline overlooking a lake. As the artwork comes to life, she compares the finished painting with the real view, holding the canvas in front of the skyline and smiling proudly. Ultra-photorealistic visuals, cinematic documentary style, realistic brush strokes, authentic hand movements, natural English dialogue, handheld camera movement, detailed cityscape, premium lighting, seamless continuity, and immersive outdoor ambience.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-989121/video-da744e0dc652.webm)
+
+**Source:** [@aiwithaly](https://x.com/aiwithaly/status/2087408671101989121) · 15s · 7:4 · cinematic travel
+
+---
+
+## 11. Human Cakes MiniMax h3 local
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/human-cakes-minimax-h3-local-046088/video-6d9833daf182.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/human-cakes-minimax-h3-local-046088/poster-983cf855f21f.jpg" alt="Human Cakes MiniMax h3 local video preview" width="700" />
@@ -219,7 +418,7 @@ Throughout: constant heavy smartphone-style camera shake and jitter, natural mot
 
 ---
 
-## 4. 動画プロンプトはリプ欄に
+## 12. 動画プロンプトはリプ欄に
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-813383-813383/video-80bf4915acd6.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-813383-813383/poster-02f5468c0bb7.jpg" alt="動画プロンプトはリプ欄に video preview" width="700" />
@@ -240,7 +439,7 @@ Throughout: constant heavy smartphone-style camera shake and jitter, natural mot
 
 ---
 
-## 5. Audioリファレンスでエラーが出る場合は、表示上15秒でも小数点以下でわずかに超えていることがあるので、実際の尺をチェックしてみてください！
+## 13. Audioリファレンスでエラーが出る場合は、表示上15秒でも小数点以下でわずかに超えていることがあるので、実際の尺をチェックしてみてください！
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/audio15-594554/video-ecc108df5599.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/audio15-594554/poster-366a5dfe5895.jpg" alt="Audioリファレンスでエラーが出る場合は、表示上15秒でも小数点以下でわずかに超えていることがあるので、実際の尺をチェックしてみてください！ video preview" width="700" />
@@ -315,7 +514,7 @@ NEONが眼鏡越しにカメラを見る。
 
 ---
 
-## 6. It came out pretty good
+## 14. It came out pretty good
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/it-came-out-pretty-good-253323/video-c6dbc7691117.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/it-came-out-pretty-good-253323/poster-20df70c2cfc2.jpg" alt="It came out pretty good video preview" width="700" />
@@ -348,7 +547,7 @@ Cinematic lighting, sharp details on suits and the wooden table, subtle tension 
 
 ---
 
-## 7. Cinematic Travel Study 474111
+## 15. Cinematic Travel Study 474111
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-1-starting-frame-474111/video-bd69c73377b9.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-1-starting-frame-474111/poster-69cf37945736.jpg" alt="Cinematic Travel Study 474111 video preview" width="700" />
@@ -395,7 +594,7 @@ None. No music.
 
 ---
 
-## 8. Cinematic Story Study 170082
+## 16. Cinematic Story Study 170082
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/time-for-some-munchies-uh-h3-local-looks-like-th-170082/video-8cf1d13e3ca8.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/time-for-some-munchies-uh-h3-local-looks-like-th-170082/poster-d3dd74039b80.jpg" alt="Cinematic Story Study 170082 video preview" width="700" />
@@ -438,7 +637,7 @@ None.
 
 ---
 
-## 9. Cinematic Story Study 241802
+## 17. Cinematic Story Study 241802
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-cinematic-burst-cut-video-showcasing-t-241802/video-972163827ce4.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-cinematic-burst-cut-video-showcasing-t-241802/poster-a682179bc0fa.jpg" alt="Cinematic Story Study 241802 video preview" width="700" />
@@ -493,7 +692,7 @@ Hard constraints:
 
 ---
 
-## 10. The last thing you see in your first and last
+## 18. The last thing you see in your first and last
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/the-last-thing-you-see-in-your-first-and-last-290296/video-fae8461b3583.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/the-last-thing-you-see-in-your-first-and-last-290296/poster-ad1a13269cdc.jpg" alt="The last thing you see in your first and last video preview" width="700" />
@@ -514,7 +713,7 @@ amateur handheld pov footage of a tourist in their plush and comfortable room of
 
 ---
 
-## 11. The Downhill Slingshot 🏎️💨
+## 19. The Downhill Slingshot 🏎️💨
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/the-downhill-slingshot-698388/video-460ca4f77a31.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/the-downhill-slingshot-698388/poster-761ffa9438e1.jpg" alt="The Downhill Slingshot 🏎️💨 video preview" width="700" />
@@ -584,7 +783,7 @@ Final output:
 
 ---
 
-## 12. Player stats UI
+## 20. Player stats UI
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/player-stats-ui-170293/video-797862e901ab.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/player-stats-ui-170293/poster-9579885d0aab.jpg" alt="Player stats UI video preview" width="700" />
@@ -704,7 +903,7 @@ A subtle electronic current travels through the cyan circuitry across ZENITH’s
 
 ---
 
-## 13. 很多人做 AI 影片的提示词，写的是“高级、电影感、震撼”
+## 21. 很多人做 AI 影片的提示词，写的是“高级、电影感、震撼”
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-707794/video-e5e4b44dacee.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-707794/poster-c8f971f8e6fa.jpg" alt="很多人做 AI 影片的提示词，写的是“高级、电影感、震撼” video preview" width="700" />
@@ -734,7 +933,7 @@ Ref2VA 模式是六段式重写，对应 T2VA、I2VA、FL2VA、L2VA、Ref2VA 五
 
 ---
 
-## 14. Ice Cave Exploration 🏔
+## 22. Ice Cave Exploration 🏔
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ice-cave-exploration-902327/video-59402d4435d2.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ice-cave-exploration-902327/poster-a1e73a65e04b.jpg" alt="Ice Cave Exploration 🏔 video preview" width="700" />
@@ -768,7 +967,7 @@ REALISM DIRECTIVE: Ice must behave like real compressed glacier ice, not glass. 
 
 ---
 
-## 15. Xiamen Lacquer Thread Sculpture Craft Film
+## 23. Xiamen Lacquer Thread Sculpture Craft Film
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/xiamen-lacquer-thread-sculpture-craft-film-985938/video-6f68682477c9.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/xiamen-lacquer-thread-sculpture-craft-film-985938/poster-ece810c067ed.jpg" alt="Xiamen Lacquer Thread Sculpture Craft Film video preview" width="700" />
@@ -822,7 +1021,7 @@ REALISM DIRECTIVE: Ice must behave like real compressed glacier ice, not glass. 
 
 ---
 
-## 16. Anime Film Study 135392
+## 24. Anime Film Study 135392
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-character-introduction-focused-on-pres-135392/video-a5403f903f53.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-character-introduction-focused-on-pres-135392/poster-16737aaf3f80.jpg" alt="Anime Film Study 135392 video preview" width="700" />
@@ -866,7 +1065,7 @@ Place the character in a fitting environment that supports their identity and mo
 
 ---
 
-## 17. H3 local. I like vague
+## 25. H3 local. I like vague
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/h3-local-i-like-vague-105742/video-0338bd5e1fc7.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/h3-local-i-like-vague-105742/poster-7cd882b94339.jpg" alt="H3 local. I like vague video preview" width="700" />
@@ -887,7 +1086,7 @@ a village of tiny people living on cow poop. The camera then dramatically zooms 
 
 ---
 
-## 18. Anime Film Study 575169
+## 26. Anime Film Study 575169
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/player-stats-ui-animation-with-gpt-image-2-and-575169/video-684a93323721.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/player-stats-ui-animation-with-gpt-image-2-and-575169/poster-4aaa4f5eebd0.jpg" alt="Anime Film Study 575169 video preview" width="700" />
@@ -923,7 +1122,7 @@ Audio: low electronic boot hum, delicate scanning ticks, short confirmation tone
 
 ---
 
-## 19. MiniMax H3在配音情绪上把握很好，点赞！
+## 27. MiniMax H3在配音情绪上把握很好，点赞！
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-541389/video-ae9465a0035d.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-541389/poster-5b18881bd183.jpg" alt="MiniMax H3在配音情绪上把握很好，点赞！ video preview" width="700" />
@@ -956,7 +1155,7 @@ Audio: low electronic boot hum, delicate scanning ticks, short confirmation tone
 
 ---
 
-## 20. Red-and-Black Papercut Game Opening
+## 28. Red-and-Black Papercut Game Opening
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/red-black-papercut-game-opening-064990/video-d515b7eeaf54.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/red-black-papercut-game-opening-064990/poster-0b3671d65f84.jpg" alt="Red-and-Black Papercut Game Opening video preview" width="700" />
@@ -986,7 +1185,7 @@ Audio: low electronic boot hum, delicate scanning ticks, short confirmation tone
 
 ---
 
-## 21. 5秒，4:3，顶级东方仙侠3A游戏CG，电影级高端宣传片，严格参考图1的月下仙城场景与美术气质：巨大明月、云海天宫、环形仙城、悬浮仙山、瀑布、白玉仙桥、金顶楼阁、冷
+## 29. 5秒，4:3，顶级东方仙侠3A游戏CG，电影级高端宣传片，严格参考图1的月下仙城场景与美术气质：巨大明月、云海天宫、环形仙城、悬浮仙山、瀑布、白玉仙桥、金顶楼阁、冷
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/54-33acg1-263455/video-f7524a101be1.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/54-33acg1-263455/poster-d362966f1abd.jpg" alt="5秒，4:3，顶级东方仙侠3A游戏CG，电影级高端宣传片，严格参考图1的月下仙城场景与美术气质：巨大明月、云海天宫、环形仙城、悬浮仙山、瀑布、白玉仙桥、金顶楼阁、冷 video preview" width="700" />
@@ -1025,7 +1224,7 @@ Audio: low electronic boot hum, delicate scanning ticks, short confirmation tone
 
 ---
 
-## 22. The CEO thought he could handle anything... until he met
+## 30. The CEO thought he could handle anything... until he met
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/the-ceo-thought-he-could-handle-anything-until-h-761388/video-907b663e80a2.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/the-ceo-thought-he-could-handle-anything-until-h-761388/poster-2f0231bd8309.jpg" alt="The CEO thought he could handle anything... until he met video preview" width="700" />
@@ -1050,7 +1249,7 @@ Audio: low electronic boot hum, delicate scanning ticks, short confirmation tone
 
 ---
 
-## 23. Documentary Study 162229
+## 31. Documentary Study 162229
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/main-subject-young-korean-woman-early-20s-oversi-162229/video-e506e31f1751.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/main-subject-young-korean-woman-early-20s-oversi-162229/poster-a46afa77bbaf.jpg" alt="Documentary Study 162229 video preview" width="700" />
@@ -1085,7 +1284,7 @@ Goal: An adventurous, cheerful camping setup moment grounded, warm, authentic.
 
 ---
 
-## 24. Bond-style spy-thriller op-art anime title sequence
+## 32. Bond-style spy-thriller op-art anime title sequence
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/bond-style-spy-thriller-op-art-anime-title-seque-295024/video-d1f8c9968b69.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/bond-style-spy-thriller-op-art-anime-title-seque-295024/poster-95af26b8a77f.jpg" alt="Bond-style spy-thriller op-art anime title sequence video preview" width="700" />
@@ -1116,7 +1315,7 @@ ENDING: On the final hit, freeze the character in full black silhouette at cente
 
 ---
 
-## 25. Model on Generative AI is getting really good .. I
+## 33. Model on Generative AI is getting really good .. I
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/model-on-generative-ai-is-getting-really-good-i-238799/video-df2a0f1adabb.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/model-on-generative-ai-is-getting-really-good-i-238799/poster-9b550371d673.jpg" alt="Model on Generative AI is getting really good .. I video preview" width="700" />
@@ -1139,7 +1338,7 @@ ENDING: On the final hit, freeze the character in full black silhouette at cente
 
 ---
 
-## 26. 添付のキャラクター参照（ 📷Image1 ）とオーディオトラックをタ
+## 34. 添付のキャラクター参照（ 📷Image1 ）とオーディオトラックをタ
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-765882/video-b72b7f816e36.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-765882/poster-39035d6a8edf.jpg" alt="添付のキャラクター参照（ 📷Image1 ）とオーディオトラックをタ video preview" width="700" />
@@ -1163,7 +1362,7 @@ ENDING: On the final hit, freeze the character in full black silhouette at cente
 
 ---
 
-## 27. Can reason? -- I wanted to see if reasoning could
+## 35. Can reason? -- I wanted to see if reasoning could
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/can-reason-i-wanted-to-see-if-reasoning-could-167396/video-cda3ecc92797.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/can-reason-i-wanted-to-see-if-reasoning-could-167396/poster-bbf4883d7fe0.jpg" alt="Can reason? -- I wanted to see if reasoning could video preview" width="700" />
@@ -1184,7 +1383,7 @@ A single continuous fixed wide shot in a plain, brightly lit test room, filmed l
 
 ---
 
-## 28. Fantasy Film Study 614835
+## 36. Fantasy Film Study 614835
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/the-necromancer-walks-along-raising-skeletons-wi-614835/video-dd624d4a68c1.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/the-necromancer-walks-along-raising-skeletons-wi-614835/poster-4b29619c28be.jpg" alt="Fantasy Film Study 614835 video preview" width="700" />
@@ -1205,7 +1404,7 @@ The necromancer walks along, raising skeletons with magic; they smoothly rise to
 
 ---
 
-## 29. Documentary Study 757074
+## 37. Documentary Study 757074
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/main-subject-757074/video-1b3d79ad1932.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/main-subject-757074/poster-7308afe8eda6.jpg" alt="Documentary Study 757074 video preview" width="700" />
@@ -1242,7 +1441,7 @@ Goal: A small, grounded gardening moment warm, patient, authentic.
 
 ---
 
-## 30. 这是Omni生成的视频，TtoV，你觉得如何？（没有用过Kling3.0，MiniMax H3，不知道对比如何）
+## 38. 这是Omni生成的视频，TtoV，你觉得如何？（没有用过Kling3.0，MiniMax H3，不知道对比如何）
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/omnittovkling3-0minimax-h3-630895/video-7a35d86967c0.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/omnittovkling3-0minimax-h3-630895/poster-7ebc221bed60.jpg" alt="这是Omni生成的视频，TtoV，你觉得如何？（没有用过Kling3.0，MiniMax H3，不知道对比如何） video preview" width="700" />
@@ -1279,7 +1478,7 @@ Mood: peaceful, heavenly, dreamlike.
 
 ---
 
-## 31. Inspired by The Odyssey
+## 39. Inspired by The Odyssey
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/inspired-by-the-odyssey-622590/video-58166fc986e6.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/inspired-by-the-odyssey-622590/poster-f8d993d18e7a.jpg" alt="Inspired by The Odyssey video preview" width="700" />
@@ -1302,7 +1501,7 @@ Epic ancient Greek mythology, grounded realism, sweeping IMAX cinematography, pr
 
 ---
 
-## 32. Midjourney v8.2 + Suno
+## 40. Midjourney v8.2 + Suno
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/midjourney-v8-2-suno-835622/video-88fd290481d8.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/midjourney-v8-2-suno-835622/poster-4c18e4d923ff.jpg" alt="Midjourney v8.2 + Suno video preview" width="700" />
@@ -1323,7 +1522,7 @@ Create a fast-paced surreal editorial sequence synchronized tightly to the refer
 
 ---
 
-## 33. Cinematic Story Study 249079
+## 41. Cinematic Story Study 249079
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/subject-person-from-image1-face-and-hairstyle-mu-249079/video-a395e31e5306.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/subject-person-from-image1-face-and-hairstyle-mu-249079/poster-0501d966e477.jpg" alt="Cinematic Story Study 249079 video preview" width="700" />
@@ -1354,7 +1553,7 @@ Style: Unedited low-quality phone video look. No color grading, no film look, no
 
 ---
 
-## 34. 对于图片的风格参考的 复现效果也不错
+## 42. 对于图片的风格参考的 复现效果也不错
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-913721-913721/video-447f21cdc5d2.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-913721-913721/poster-2e5764d395cc.jpg" alt="对于图片的风格参考的 复现效果也不错 video preview" width="700" />
@@ -1405,7 +1604,7 @@ Style: Unedited low-quality phone video look. No color grading, no film look, no
 
 ---
 
-## 35. Ultra cinematic macro shot: A calm mountain lake at dawn
+## 43. Ultra cinematic macro shot: A calm mountain lake at dawn
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-cinematic-macro-shot-a-calm-mountain-lake-039920/video-904bee4a707b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-cinematic-macro-shot-a-calm-mountain-lake-039920/poster-544eed646f07.jpg" alt="Ultra cinematic macro shot: A calm mountain lake at dawn video preview" width="700" />
@@ -1426,7 +1625,7 @@ Ultra cinematic macro shot: A calm mountain lake at dawn reflects the first gold
 
 ---
 
-## 36. Anime Film Study 935100
+## 44. Anime Film Study 935100
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/spaghetti-western-pulp-anime-title-sequence-wher-935100/video-840540ee62cd.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/spaghetti-western-pulp-anime-title-sequence-wher-935100/poster-93ff3e121409.jpg" alt="Anime Film Study 935100 video preview" width="700" />
@@ -1450,7 +1649,7 @@ Apply heavy 35mm film grain, scratches, dust, gate weave, cigarette burns, and s
 
 ---
 
-## 37. 動画プロンプトはリプ欄に
+## 45. 動画プロンプトはリプ欄に
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-010351-010351/video-7e9e767d9993.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-010351-010351/poster-a3d71659bc86.jpg" alt="動画プロンプトはリプ欄に video preview" width="700" />
@@ -1471,7 +1670,7 @@ KAWAII HORRORミュージックビデオを完成させる。これは映像と�
 
 ---
 
-## 38. cinematic sci-fi suspense video. A realistic spaceship crew in full futuristic
+## 46. cinematic sci-fi suspense video. A realistic spaceship crew in full futuristic
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-sci-fi-suspense-video-a-realistic-spaceship-crew-in-024495/video-dfe92e389553.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-sci-fi-suspense-video-a-realistic-spaceship-crew-in-024495/poster-1d2a943ae1f8.jpg" alt="cinematic sci-fi suspense video. A realistic spaceship crew in full futuristic video preview" width="700" />
@@ -1492,7 +1691,7 @@ cinematic sci-fi suspense video. A realistic spaceship crew in full futuristic u
 
 ---
 
-## 39. Generated a french bulldog with MiniMax H3
+## 47. Generated a french bulldog with MiniMax H3
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/generated-a-french-bulldog-with-minimax-h3-182507/video-eb80c2704709.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/generated-a-french-bulldog-with-minimax-h3-182507/poster-0b12ef8276be.jpg" alt="Generated a french bulldog with MiniMax H3 video preview" width="700" />
@@ -1513,7 +1712,7 @@ A casual handheld smartphone video filmed by the dog's owner in an ordinary subu
 
 ---
 
-## 40. 7- GROK IMAGINE 1.5
+## 48. 7- GROK IMAGINE 1.5
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/7-grok-imagine-1-5-649179/video-4f1fd87b9bad.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/7-grok-imagine-1-5-649179/poster-a391664a7349.jpg" alt="7- GROK IMAGINE 1.5 video preview" width="700" />
@@ -1534,7 +1733,7 @@ Tarih öncesi çağlarda geçen bir konser sahnesi. Sahnede mağara adamları va
 
 ---
 
-## 41. Horror Film Study 836142
+## 49. Horror Film Study 836142
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/the-real-horror-wasn-t-the-ghost-it-was-trusting-836142/video-870106c1d95d.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/the-real-horror-wasn-t-the-ghost-it-was-trusting-836142/poster-cf71c1889ddc.jpg" alt="Horror Film Study 836142 video preview" width="700" />
@@ -1561,7 +1760,7 @@ Tarih öncesi çağlarda geçen bir konser sahnesi. Sahnede mağara adamları va
 
 ---
 
-## 42. Documentary Study 281571
+## 50. Documentary Study 281571
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/tried-a-simple-slice-of-life-scene-with-on-281571/video-bb8dca82f171.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/tried-a-simple-slice-of-life-scene-with-on-281571/poster-62eb9f01e71b.jpg" alt="Documentary Study 281571 video preview" width="700" />
@@ -1598,7 +1797,7 @@ Goal: A quiet, ordinary household moment grounded, warm, believable.
 
 ---
 
-## 43. Documentary Study 603469
+## 51. Documentary Study 603469
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/main-subject-603469/video-357d96831db6.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/main-subject-603469/poster-28688cc39b25.jpg" alt="Documentary Study 603469 video preview" width="700" />
@@ -1635,7 +1834,7 @@ Goal: A quiet, cozy breakfast moment calm, warm, deeply relatable.
 
 ---
 
-## 44. Local AI
+## 52. Local AI
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/local-ai-000274/video-e03d0617d09a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/local-ai-000274/poster-06d2e19f1724.jpg" alt="Local AI video preview" width="700" />
@@ -1668,7 +1867,7 @@ Photorealistic, ultra-detailed fluid and object physics, correct volume and surf
 
 ---
 
-## 45. ピクサー風の広告などを作る時に活用できそうな感触です😃
+## 53. ピクサー風の広告などを作る時に活用できそうな感触です😃
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-917120-917120/video-fdbb726fc9e9.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-917120-917120/poster-de4b410d218b.jpg" alt="ピクサー風の広告などを作る時に活用できそうな感触です😃 video preview" width="700" />
@@ -1691,7 +1890,7 @@ non_diegetic_music: A slow detuned analog synthesizer drone at roughly 70 BPM th
 
 ---
 
-## 46. MiniMax H3
+## 54. MiniMax H3
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-268047/video-e74ec7e0a953.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-268047/poster-b9c8c85ef38d.jpg" alt="MiniMax H3 video preview" width="700" />
@@ -1736,7 +1935,7 @@ Must Maintain: The texture of stained glass, black lead lines, and transmitted l
 
 ---
 
-## 47. MiniMax H3
+## 55. MiniMax H3
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-378626/video-4bf981ac58d8.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-378626/poster-52b05da26564.jpg" alt="MiniMax H3 video preview" width="700" />
@@ -1786,7 +1985,7 @@ Must Maintain: The texture of stained glass, black lead lines, and transmitted l
 
 ---
 
-## 48. 単にリップシンクだけさせると無表情になりがちだったので表情の演技を追加してみました✨
+## 56. 単にリップシンクだけさせると無表情になりがちだったので表情の演技を追加してみました✨
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-311602-311602/video-21d975aba71b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-311602-311602/poster-bb822cd95010.jpg" alt="単にリップシンクだけさせると無表情になりがちだったので表情の演技を追加してみました✨ video preview" width="700" />
@@ -1808,7 +2007,7 @@ She sings cheerfully, full of excitement. She laughs with her eyes crinkled, smi
 
 ---
 
-## 49. "Drowning deep down the ocean" created with MiniMax H3
+## 57. "Drowning deep down the ocean" created with MiniMax H3
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/drowning-deep-down-the-ocean-created-with-minimax-h3-773704/video-b17ae8dd6b39.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/drowning-deep-down-the-ocean-created-with-minimax-h3-773704/poster-55b4bf456688.jpg" alt="&quot;Drowning deep down the ocean&quot; created with MiniMax H3 video preview" width="700" />
@@ -1844,7 +2043,7 @@ Audio: Epic orchestral score mixed with deep underwater ambience, whale calls, d
 
 ---
 
-## 50. Created with MiniMax H3
+## 58. Created with MiniMax H3
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-879541/video-6681b10df8b3.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-879541/poster-796cacf77743.jpg" alt="Created with MiniMax H3 video preview" width="700" />
@@ -1865,7 +2064,7 @@ A cinematic 15-second fantasy adventure following a lone traveler as they cross 
 
 ---
 
-## 51. One gripe with : unless I specify exactly what each
+## 59. One gripe with : unless I specify exactly what each
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/one-gripe-with-unless-i-specify-exactly-what-eac-460476/video-ad0077bfa9a2.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/one-gripe-with-unless-i-specify-exactly-what-eac-460476/poster-b38317310a6c.jpg" alt="One gripe with : unless I specify exactly what each video preview" width="700" />
@@ -1886,7 +2085,7 @@ A cinematic 15-second fantasy adventure following a lone traveler as they cross 
 
 ---
 
-## 52. すこし演技ができるもののSola2みたいに感情を出すのは無理のようです🤔
+## 60. すこし演技ができるもののSola2みたいに感情を出すのは無理のようです🤔
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/sola2-445763/video-371b46d15c8e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/sola2-445763/poster-75968517178b.jpg" alt="すこし演技ができるもののSola2みたいに感情を出すのは無理のようです🤔 video preview" width="700" />
@@ -1912,7 +2111,7 @@ Voice 2(female):あと30秒！あたしらの勝ちやな！
 
 ---
 
-## 53. 具体评分、参考图及提示词见评论
+## 61. 具体评分、参考图及提示词见评论
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-030212-030212/video-5565482b960c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-030212-030212/poster-39c4f9f1ecbf.jpg" alt="具体评分、参考图及提示词见评论 video preview" width="700" />
@@ -1945,7 +2144,7 @@ Voice 2(female):あと30秒！あたしらの勝ちやな！
 
 ---
 
-## 54. via MLX Serve by
+## 62. via MLX Serve by
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/via-mlx-serve-by-561487/video-1ad83b3257d1.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/via-mlx-serve-by-561487/poster-0445b17ec191.jpg" alt="via MLX Serve by video preview" width="700" />
@@ -1969,7 +2168,7 @@ Voice 2(female):あと30秒！あたしらの勝ちやな！
 
 ---
 
-## 55. Afternoon Nap in a Hammock
+## 63. Afternoon Nap in a Hammock
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/afternoon-nap-in-a-hammock-190553/video-251802f07ed2.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/afternoon-nap-in-a-hammock-190553/poster-f25f86a4ddf2.jpg" alt="Afternoon Nap in a Hammock video preview" width="700" />
@@ -2011,7 +2210,7 @@ Goal: A calm, drowsy afternoon rest moment intimate, soft, deeply believable.
 
 ---
 
-## 56. Dramatic performances ✅
+## 64. Dramatic performances ✅
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/dramatic-performances-301360/video-39f613ace4a3.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/dramatic-performances-301360/poster-ca12f1684e28.jpg" alt="Dramatic performances ✅ video preview" width="700" />
@@ -2046,7 +2245,7 @@ Style: Film grain, dark shadows, crushed blacks, in and out of focus.
 
 ---
 
-## 57. Documentary Study 624724
+## 65. Documentary Study 624724
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/x-midjourney-v8-2-on-624724/video-a9c2f9ecf7a8.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/x-midjourney-v8-2-on-624724/poster-b139295b4f99.jpg" alt="Documentary Study 624724 video preview" width="700" />
@@ -2332,7 +2531,7 @@ https://t.co/aS4VrWHW2q
 
 ---
 
-## 58. 週刊アニメ＆MVプロンプト Vol.28
+## 66. 週刊アニメ＆MVプロンプト Vol.28
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/mv-vol-28-247434/video-186b17aeb97a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/mv-vol-28-247434/poster-296ddda94eb7.jpg" alt="週刊アニメ＆MVプロンプト Vol.28 video preview" width="700" />
@@ -2381,7 +2580,7 @@ Image2の黒紺を基調にした高密度ゴシック衣装を維持する。�
 
 ---
 
-## 59. Horror Film Study 335284
+## 67. Horror Film Study 335284
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/found-footage-film-with-335284/video-d0f6e38d9844.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/found-footage-film-with-335284/poster-40daaaf7a40d.jpg" alt="Horror Film Study 335284 video preview" width="700" />
@@ -2402,7 +2601,7 @@ Image2の黒紺を基調にした高密度ゴシック衣装を維持する。�
 
 ---
 
-## 60. also has an impressive understanding of different cultures
+## 68. also has an impressive understanding of different cultures
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/also-has-an-impressive-understanding-of-differen-911311/video-30929f926e81.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/also-has-an-impressive-understanding-of-differen-911311/poster-821009c883cb.jpg" alt="also has an impressive understanding of different cultures video preview" width="700" />
@@ -2423,7 +2622,7 @@ Traditional Javanese market in Yogyakarta, early morning, present day, ultra-rea
 
 ---
 
-## 61. ist jetzt in Edimakor verfügbar 🥳
+## 69. ist jetzt in Edimakor verfügbar 🥳
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ist-jetzt-in-edimakor-verfugbar-394936/video-6cbb234d1631.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ist-jetzt-in-edimakor-verfugbar-394936/poster-84537b07fa2c.jpg" alt="ist jetzt in Edimakor verfügbar 🥳 video preview" width="700" />
@@ -2447,7 +2646,7 @@ Entdecke neue Ideen mit der All-in-One-Referenzfunktion! ✨
 
 ---
 
-## 62. 如果你喜欢这个视频，可以自己做一下，提示词在评论区👇，MiniMax H3的优缺点在引用的推文里
+## 70. 如果你喜欢这个视频，可以自己做一下，提示词在评论区👇，MiniMax H3的优缺点在引用的推文里
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-449246/video-3af38045ee82.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-449246/poster-b6eb63ae95b2.jpg" alt="如果你喜欢这个视频，可以自己做一下，提示词在评论区👇，MiniMax H3的优缺点在引用的推文里 video preview" width="700" />
@@ -2472,7 +2671,7 @@ Entdecke neue Ideen mit der All-in-One-Referenzfunktion! ✨
 
 ---
 
-## 63. Okay one more, I couldn't stop 😂
+## 71. Okay one more, I couldn't stop 😂
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/okay-one-more-i-couldn-t-stop-837115/video-2efb5b2da659.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/okay-one-more-i-couldn-t-stop-837115/poster-8e8a54172485.jpg" alt="Okay one more, I couldn't stop 😂 video preview" width="700" />
@@ -2515,7 +2714,7 @@ music, ambient room tone only.
 
 ---
 
-## 64. AI can’t replace you Joey
+## 72. AI can’t replace you Joey
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ai-cant-replace-you-joey-113820/video-978781c592e7.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ai-cant-replace-you-joey-113820/poster-6f8fa9df057e.jpg" alt="AI can’t replace you Joey video preview" width="700" />
@@ -2554,7 +2753,7 @@ STYLE: Warm 90s sitcom aesthetic, steady handheld feel, natural performances, ch
 
 ---
 
-## 65. Circle, Square, Triangle, and Star
+## 73. Circle, Square, Triangle, and Star
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/circle-square-triangle-and-star-317678/video-e5ca7ba239b5.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/circle-square-triangle-and-star-317678/poster-456c0864c892.jpg" alt="Circle, Square, Triangle, and Star video preview" width="700" />
@@ -2597,7 +2796,7 @@ Requirements: Each shape fully visible before morph, uppercase-clarity level pre
 
 ---
 
-## 66. 非常震惊！我居然现在才发现！AI已经发展到一站式全部搞定所有功能的超强平台！如果你是导演，应该主动拥抱AI，而不是视而不见。 我在@edimakortaiwan
+## 74. 非常震惊！我居然现在才发现！AI已经发展到一站式全部搞定所有功能的超强平台！如果你是导演，应该主动拥抱AI，而不是视而不见。 我在@edimakortaiwan
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/aiai-edimakortaiwan-940599/video-e4fa018f8fca.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/aiai-edimakortaiwan-940599/poster-57d8a69127a0.jpg" alt="非常震惊！我居然现在才发现！AI已经发展到一站式全部搞定所有功能的超强平台！如果你是导演，应该主动拥抱AI，而不是视而不见。 我在@edimakortaiwan video preview" width="700" />
@@ -2626,7 +2825,7 @@ Requirements: Each shape fully visible before morph, uppercase-clarity level pre
 
 ---
 
-## 67. An other example of poster animation and honestly I can't
+## 75. An other example of poster animation and honestly I can't
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/an-other-example-of-poster-animation-and-honestl-483220/video-259ed38a3f3a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/an-other-example-of-poster-animation-and-honestl-483220/poster-490dc389290b.jpg" alt="An other example of poster animation and honestly I can't video preview" width="700" />
@@ -2653,7 +2852,7 @@ Reveal the Japanese title with a bold elastic impact, followed by the English la
 
 ---
 
-## 68. Luna is back! now that I can render text beautifully
+## 76. Luna is back! now that I can render text beautifully
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/luna-is-back-now-that-i-can-render-text-beautifu-328598/video-51f0bf1b686f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/luna-is-back-now-that-i-can-render-text-beautifu-328598/poster-d8585f0637c1.jpg" alt="Luna is back! now that I can render text beautifully video preview" width="700" />
@@ -2700,7 +2899,7 @@ Audio mix: 0–2s card is silent except one soft chime. @Audio1voice begins only
 
 ---
 
-## 69. 15秒，16:9横版人类进化史科普短片
+## 77. 15秒，16:9横版人类进化史科普短片
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-816740/video-ff4a06f980e4.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-816740/poster-2787381e3fee.jpg" alt="15秒，16:9横版人类进化史科普短片 video preview" width="700" />
@@ -2780,7 +2979,7 @@ Audio mix: 0–2s card is silent except one soft chime. @Audio1voice begins only
 
 ---
 
-## 70. Is this real? I honestly can’t believe it 😱😮
+## 78. Is this real? I honestly can’t believe it 😱😮
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/is-this-real-i-honestly-cant-believe-it-988527/video-bf9310e39939.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/is-this-real-i-honestly-cant-believe-it-988527/poster-87bf19bf8e78.jpg" alt="Is this real? I honestly can’t believe it 😱😮 video preview" width="700" />
@@ -2818,7 +3017,7 @@ Jesse remains completely emotionless, silently staring at Dwight while holding t
 
 ---
 
-## 71. No way, this is golden 🤣😂
+## 79. No way, this is golden 🤣😂
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/no-way-this-is-golden-595436/video-49223c671db4.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/no-way-this-is-golden-595436/poster-ad490cfcd11b.jpg" alt="No way, this is golden 🤣😂 video preview" width="700" />
@@ -2877,7 +3076,7 @@ at the lens.
 
 ---
 
-## 72. Generated with
+## 80. Generated with
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/generated-with-810731/video-83eacf931d6b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/generated-with-810731/poster-78ada233cc1f.jpg" alt="Generated with video preview" width="700" />
@@ -2898,7 +3097,7 @@ Continuous 15-second cinematic shot, extreme slow-motion: a futuristic cyberpunk
 
 ---
 
-## 73. Cinematic Travel Study 844521
+## 81. Cinematic Travel Study 844521
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/is-now-publicly-available-844521/video-990083180050.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/is-now-publicly-available-844521/poster-ce9252bbb567.jpg" alt="Cinematic Travel Study 844521 video preview" width="700" />
@@ -2919,7 +3118,7 @@ CAIRN MUNRO — "ARRIVE UNHEARD" — 14 CUTS · 15s · 2K · 24fps  REFERENCES: 
 
 ---
 
-## 74. 's expressive imagination is also top-notch
+## 82. 's expressive imagination is also top-notch
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/s-expressive-imagination-is-also-top-notch-052621/video-e6443b6f6847.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/s-expressive-imagination-is-also-top-notch-052621/poster-817d615630c2.jpg" alt="'s expressive imagination is also top-notch video preview" width="700" />
@@ -2961,7 +3160,7 @@ No people, text, subtitles, logos, watermarks, monsters, or cartoon styling.
 
 ---
 
-## 75. 使用画像はリプ欄にあります
+## 83. 使用画像はリプ欄にあります
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-024386/video-36bced361da1.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-024386/poster-2a6d878592a9.jpg" alt="使用画像はリプ欄にあります video preview" width="700" />
@@ -3046,7 +3245,7 @@ Image4の深い青緑の花園へ完全に切り替える。最初は高い位�
 
 ---
 
-## 76. 星花魔法都市を舞台にした高級ファンタジーRPGのキャラクター導入シー
+## 84. 星花魔法都市を舞台にした高級ファンタジーRPGのキャラクター導入シー
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-947872/video-ec36906fd039.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-947872/poster-a563a7dba7f7.jpg" alt="星花魔法都市を舞台にした高級ファンタジーRPGのキャラクター導入シー video preview" width="700" />
@@ -3285,7 +3484,7 @@ BGMなし。
 
 ---
 
-## 77. Anime Film Study 738298
+## 85. Anime Film Study 738298
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/expression-progression-eyes-brows-eyelids-mouth-738298/video-78fda7431b49.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/expression-progression-eyes-brows-eyelids-mouth-738298/poster-939a1366a682.jpg" alt="Anime Film Study 738298 video preview" width="700" />
@@ -3363,7 +3562,7 @@ Expression progression: eyes -> brows -> eyelids -> mouth -> gaze.
 
 ---
 
-## 78. Cinematic Travel Study 672988
+## 86. Cinematic Travel Study 672988
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/source-artwork-as-a-10-second-premium-sci-fi-mot-672988/video-b9f63844a74b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/source-artwork-as-a-10-second-premium-sci-fi-mot-672988/poster-d6c6a39d00a1.jpg" alt="Cinematic Travel Study 672988 video preview" width="700" />
@@ -3387,7 +3586,7 @@ Animate the source artwork as a 10-second premium sci-fi motion poster while pre
 
 ---
 
-## 79. 我让 用 3 张参考图
+## 87. 我让 用 3 张参考图
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-313955/video-fdf480d99d00.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-313955/poster-dcb245bf2290.jpg" alt="我让 用 3 张参考图 video preview" width="700" />
@@ -3425,7 +3624,7 @@ Animate the source artwork as a 10-second premium sci-fi motion poster while pre
 
 ---
 
-## 80. Anime Film Study 734471
+## 88. Anime Film Study 734471
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/fast-paced-15-second-16-9-anime-opening-title-se-734471/video-ae9ee04ad276.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/fast-paced-15-second-16-9-anime-opening-title-se-734471/poster-ff68c6e0f732.jpg" alt="Anime Film Study 734471 video preview" width="700" />
@@ -3489,7 +3688,7 @@ A fast, polished and rhythmically precise anime opening with expressive characte
 
 ---
 
-## 81. Stormy Claymation Whale Breach
+## 89. Stormy Claymation Whale Breach
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/stormy-claymation-whale-breach-729607/video-4af6417896bd.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/stormy-claymation-whale-breach-729607/poster-37f44d14411d.jpg" alt="Stormy Claymation Whale Breach video preview" width="700" />
@@ -3510,7 +3709,7 @@ Claymation. A whale breaches from a stormy clay sea and rises in a slow-motion a
 
 ---
 
-## 82. Blue-Haired Hero and Spirit Fox Escape
+## 90. Blue-Haired Hero and Spirit Fox Escape
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/blue-haired-hero-and-spirit-fox-escape-209379/video-306a2ec093ca.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/blue-haired-hero-and-spirit-fox-escape-209379/poster-5de493373abb.jpg" alt="Blue-Haired Hero and Spirit Fox Escape video preview" width="700" />
@@ -3539,7 +3738,7 @@ Maintain one continuous route and clear cause-and-effect motion. No teleporting,
 
 ---
 
-## 83. Nighttime Motorcycle Chase Synced to Music
+## 91. Nighttime Motorcycle Chase Synced to Music
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/and-reference-preserve-the-rider-s-face-short-curly-375367/video-9ada2b599685.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/and-reference-preserve-the-rider-s-face-short-curly-375367/poster-89f9e4e64541.jpg" alt="Nighttime Motorcycle Chase Synced to Music video preview" width="700" />
@@ -3574,7 +3773,7 @@ Cinematic live-action realism, physically accurate motorcycle movement, energeti
 
 ---
 
-## 84. Theme Park Memory Montage
+## 92. Theme Park Memory Montage
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/nostalgic-montage-of-different-clips-graphic-motion-lay-586917/video-5f89f4d35e10.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/nostalgic-montage-of-different-clips-graphic-motion-lay-586917/poster-7e7b6f7defd8.jpg" alt="Theme Park Memory Montage video preview" width="700" />
@@ -3595,7 +3794,7 @@ Nostalgic montage of different clips. Graphic motion layouts of friends having f
 
 ---
 
-## 85. Macaw Scream in Extreme Slow Motion
+## 93. Macaw Scream in Extreme Slow Motion
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-wildlife-documentary-vertical-framing-subject-592938/video-d5110cc8b14a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-wildlife-documentary-vertical-framing-subject-592938/poster-1d9af280d9f7.jpg" alt="Macaw Scream in Extreme Slow Motion video preview" width="700" />
@@ -3616,7 +3815,7 @@ Nostalgic montage of different clips. Graphic motion layouts of friends having f
 
 ---
 
-## 86. Sagrada Família FPV flight
+## 94. Sagrada Família FPV flight
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/sagrada-familia-fpv-flight/video-bee48e110362.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/sagrada-familia-fpv-flight/poster-ad81c1bd1065.jpg" alt="Sagrada Família FPV flight video preview" width="700" />
@@ -3639,7 +3838,7 @@ The red drawn line must not appear in the video; it is only a hidden flight-path
 
 ---
 
-## 87. Jazz-Noir Anime Title Sequence
+## 95. Jazz-Noir Anime Title Sequence
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/jazz-noir-anime-title-sequence-652641/video-7e17bcde8d5c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/jazz-noir-anime-title-sequence-652641/poster-d32e3f4117b6.jpg" alt="Jazz-Noir Anime Title Sequence video preview" width="700" />
@@ -3676,7 +3875,7 @@ End on the character in silhouette, frozen mid-pose against a solid red field, w
 
 ---
 
-## 88. Korean Idol VHS Beauty Vlog
+## 96. Korean Idol VHS Beauty Vlog
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/dv-16mm-camcorder-vlog-with-soft-vhs-tape-quality-209852/video-c3f74dcdc2f5.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/dv-16mm-camcorder-vlog-with-soft-vhs-tape-quality-209852/poster-b6975c0aebd6.jpg" alt="Korean Idol VHS Beauty Vlog video preview" width="700" />
@@ -3697,7 +3896,7 @@ DV 16mm camcorder vlog with soft VHS tape quality, handheld POV by CHASE and mir
 
 ---
 
-## 89. Desert Buggy Combat Chase
+## 97. Desert Buggy Combat Chase
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-16-9-photoreal-cinematic-action-sequence-with-743096/video-fac1842f50c4.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-16-9-photoreal-cinematic-action-sequence-with-743096/poster-a828d66e929b.jpg" alt="Desert Buggy Combat Chase video preview" width="700" />
@@ -3819,7 +4018,7 @@ No subtitles, titles, logos, watermarks, additional racers, pedestrians, creatur
 
 ---
 
-## 90. Mechanical bull charge The Beasts Are Coming
+## 98. Mechanical bull charge The Beasts Are Coming
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/mechanical-bull-charge-the-beasts-are-coming-720815/video-5c0e8e10c9c2.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/mechanical-bull-charge-the-beasts-are-coming-720815/poster-b96e40a1ed6e.jpg" alt="Mechanical bull charge The Beasts Are Coming video preview" width="700" />
@@ -3858,7 +4057,7 @@ Use the same signature look: desaturated steel blue, charcoal grey, mist white, 
 
 ---
 
-## 91. Wake up We Hunt mechanical bull mount
+## 99. Wake up We Hunt mechanical bull mount
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/wake-up-we-hunt-mechanical-bull-mount-700581/video-0e0352543d86.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/wake-up-we-hunt-mechanical-bull-mount-700581/poster-0d1df166a962.jpg" alt="Wake up We Hunt mechanical bull mount video preview" width="700" />
@@ -3891,7 +4090,7 @@ Sound: deep metallic groans, steam bursts, furnace rumble, hoof impact, distant 
 
 ---
 
-## 92. Fire dragon and rider over scorched world
+## 100. Fire dragon and rider over scorched world
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/fire-dragon-and-rider-over-scorched-world-726278/video-2117b5976484.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/fire-dragon-and-rider-over-scorched-world-726278/poster-9ee7e11e63c5.jpg" alt="Fire dragon and rider over scorched world video preview" width="700" />
@@ -3913,7 +4112,7 @@ rising over a scorched world, cutting through smoke and sunset.
 
 ---
 
-## 93. Lilia Astra title sequence
+## 101. Lilia Astra title sequence
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/lilia-astra-title-sequence/video-4dd4fb0f9f64.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/lilia-astra-title-sequence/poster-13c8ea7034f2.jpg" alt="Lilia Astra title sequence video preview" width="700" />
@@ -4048,7 +4247,7 @@ Camera state: position=three-quarter and over-shoulder; height=eye level then lo
 
 ---
 
-## 94. Seamless-loop cinematic warrior blade reconstruction
+## 102. Seamless-loop cinematic warrior blade reconstruction
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/seamless-loop-cinematic-warrior-blade-reconstruction-513162/video-9f69d344bf8d.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/seamless-loop-cinematic-warrior-blade-reconstruction-513162/poster-4a8a26a14902.jpg" alt="Seamless-loop cinematic warrior blade reconstruction video preview" width="700" />
@@ -4069,7 +4268,7 @@ Camera state: position=three-quarter and over-shoulder; height=eye level then lo
 
 ---
 
-## 95. Most cinematic scenes challenge
+## 103. Most cinematic scenes challenge
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/most-cinematic-scenes-challenge-742779/video-f48e065cbcfd.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/most-cinematic-scenes-challenge-742779/poster-ebcff6136f10.jpg" alt="Most cinematic scenes challenge video preview" width="700" />
@@ -4090,7 +4289,7 @@ The most cinematic scenes you can make.
 
 ---
 
-## 96. Urban street superpowered punch action sequence
+## 104. Urban street superpowered punch action sequence
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/urban-street-superpowered-punch-action-sequence-712509/video-ec5bdb059314.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/urban-street-superpowered-punch-action-sequence-712509/poster-ba5a74ddc38a.jpg" alt="Urban street superpowered punch action sequence video preview" width="700" />
@@ -4174,7 +4373,7 @@ Fighter stands alone in TOTAL DEVASTATION. Breathing HEAVILY, chest HEAVING, eye
 
 ---
 
-## 97. Pixar-style mouse adventure 3D animation
+## 105. Pixar-style mouse adventure 3D animation
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/pixar-style-mouse-adventure-3d-animation-582726/video-8eb481ff6b46.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/pixar-style-mouse-adventure-3d-animation-582726/poster-73bb04045d04.jpg" alt="Pixar-style mouse adventure 3D animation video preview" width="700" />
@@ -4195,7 +4394,7 @@ Fighter stands alone in TOTAL DEVASTATION. Breathing HEAVILY, chest HEAVING, eye
 
 ---
 
-## 98. Luminous Creature in a Dusk Kitchen
+## 106. Luminous Creature in a Dusk Kitchen
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/15-seconds-16-9-landscape-blend-live-action-footage-of-867462/video-186f665474fa.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/15-seconds-16-9-landscape-blend-live-action-footage-of-867462/poster-12f86ca52100.jpg" alt="Luminous Creature in a Dusk Kitchen video preview" width="700" />
@@ -4218,7 +4417,7 @@ Fighter stands alone in TOTAL DEVASTATION. Breathing HEAVILY, chest HEAVING, eye
 
 ---
 
-## 99. Giant Kitchen Spider Comedy Short
+## 107. Giant Kitchen Spider Comedy Short
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/3d-pixar-style-animated-comedy-short-film-ultra-premium-057697/video-03d1c36a6c7b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/3d-pixar-style-animated-comedy-short-film-ultra-premium-057697/poster-6734cbaa9974.jpg" alt="Giant Kitchen Spider Comedy Short video preview" width="700" />
@@ -4285,7 +4484,7 @@ This ending creates a strong cliffhanger for the extension, where an unexpected 
 
 ---
 
-## 100. Cyberpunk Ice-Blue Character Awakening
+## 108. Cyberpunk Ice-Blue Character Awakening
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-source-image-and-first-frame-221921/video-7bd2fd15e422.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-source-image-and-first-frame-221921/poster-4917e9fd5c81.jpg" alt="Cyberpunk Ice-Blue Character Awakening video preview" width="700" />
@@ -4306,7 +4505,7 @@ Use the uploaded image as the exact source image and first frame. Preserve the o
 
 ---
 
-## 101. Hand-Drawn Ginger Pork Cooking Anime
+## 109. Hand-Drawn Ginger Pork Cooking Anime
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/hand-drawn-ginger-pork-anime-cooking-960451/video-b92e508d3872.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/hand-drawn-ginger-pork-anime-cooking-960451/poster-b6c2ab769949.jpg" alt="Hand-Drawn Ginger Pork Cooking Anime video preview" width="700" />
@@ -4334,7 +4533,7 @@ Use the uploaded image as the exact source image and first frame. Preserve the o
 
 ---
 
-## 102. Watercolor anime fetish montage rapid cuts
+## 110. Watercolor anime fetish montage rapid cuts
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/watercolor-anime-fetish-montage-rapid-cuts-335119/video-446479029140.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/watercolor-anime-fetish-montage-rapid-cuts-335119/poster-d795e2786bf3.jpg" alt="Watercolor anime fetish montage rapid cuts video preview" width="700" />
@@ -4488,7 +4687,7 @@ sequence:
 
 ---
 
-## 103. Swimming strokes aesthetic showcase
+## 111. Swimming strokes aesthetic showcase
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/swimming-strokes-aesthetic-showcase-832514/video-5daa50fd298a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/swimming-strokes-aesthetic-showcase-832514/poster-fc9b7356fb8a.jpg" alt="Swimming strokes aesthetic showcase video preview" width="700" />
@@ -4539,7 +4738,7 @@ sequence:
 
 ---
 
-## 104. Rain-Soaked Korean Noir Reunion
+## 112. Rain-Soaked Korean Noir Reunion
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/16-9-15s-hyper-realistic-korean-noir-crime-teaser-a-447606/video-120e7ace6322.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/16-9-15s-hyper-realistic-korean-noir-crime-teaser-a-447606/poster-eae3a767b8d2.jpg" alt="Rain-Soaked Korean Noir Reunion video preview" width="700" />
@@ -4572,7 +4771,7 @@ Audio: Rain, thunder, jazz crackle, lighter click, intimate silence during dialo
 
 ---
 
-## 105. Sci-fi explorer approaches dark gateway mystery
+## 113. Sci-fi explorer approaches dark gateway mystery
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/sci-fi-explorer-approaches-dark-gateway-mystery-410508/video-45794f2b7f7d.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/sci-fi-explorer-approaches-dark-gateway-mystery-410508/poster-41dc276878ea.jpg" alt="Sci-fi explorer approaches dark gateway mystery video preview" width="700" />
@@ -4611,7 +4810,7 @@ No dialogue, subtitles, title cards, logos, watermarks, extra characters, vehicl
 
 ---
 
-## 106. Handheld Two-Person Argument
+## 114. Handheld Two-Person Argument
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/two-characters-arguing-in-english-make-the-emotion-feel-377881/video-629f0d40f5d5.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/two-characters-arguing-in-english-make-the-emotion-feel-377881/poster-8cc91ed3c57e.jpg" alt="Handheld Two-Person Argument video preview" width="700" />
@@ -4632,7 +4831,7 @@ Two characters arguing in English. Make the emotion feel very realistic  angry, 
 
 ---
 
-## 107. ASMR multi-cut overseas snack unboxing anime
+## 115. ASMR multi-cut overseas snack unboxing anime
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/asmr-multi-cut-overseas-snack-unboxing-anime-428159/video-93ba3d480c75.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/asmr-multi-cut-overseas-snack-unboxing-anime-428159/poster-8db721f6dc4f.jpg" alt="ASMR multi-cut overseas snack unboxing anime video preview" width="700" />
@@ -4737,7 +4936,7 @@ cut16:
 
 ---
 
-## 108. Mumbai monsoon FPV drone flight
+## 116. Mumbai monsoon FPV drone flight
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/mumbai-monsoon-fpv-drone-flight-942674/video-76b74f79f0dc.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/mumbai-monsoon-fpv-drone-flight-942674/poster-e9942b897901.jpg" alt="Mumbai monsoon FPV drone flight video preview" width="700" />
@@ -4782,7 +4981,7 @@ IMPORTANT  Do not show the green route line. No text, captions, logos, or waterm
 
 ---
 
-## 109. 1998 Seoul rainy bus stop archival home video
+## 117. 1998 Seoul rainy bus stop archival home video
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/1998-seoul-rainy-bus-stop-archival-home-video-300930/video-dc63bcf406f6.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/1998-seoul-rainy-bus-stop-archival-home-video-300930/poster-a7d8e421447e.jpg" alt="1998 Seoul rainy bus stop archival home video video preview" width="700" />
@@ -4811,7 +5010,7 @@ Generation Requirements: Produce one continuous, uninterrupted 15-second recordi
 
 ---
 
-## 110. Ink-wash shrimp leap into futuristic city
+## 118. Ink-wash shrimp leap into futuristic city
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ink-wash-shrimp-leap-into-futuristic-city-848857/video-e69b57698224.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ink-wash-shrimp-leap-into-futuristic-city-848857/poster-6dabc94cb3bb.jpg" alt="Ink-wash shrimp leap into futuristic city video preview" width="700" />
@@ -4832,7 +5031,7 @@ Generation Requirements: Produce one continuous, uninterrupted 15-second recordi
 
 ---
 
-## 111. Fire-breathing dragon in broken palace
+## 119. Fire-breathing dragon in broken palace
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/fire-breathing-dragon-in-broken-palace-831106/video-97094ad26d51.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/fire-breathing-dragon-in-broken-palace-831106/poster-71ffd72b1ac9.jpg" alt="Fire-breathing dragon in broken palace video preview" width="700" />
@@ -4853,7 +5052,7 @@ Fire-Breathing Dragon in a Broken Palace**  A colossal fire-breathing dragon wit
 
 ---
 
-## 112. Empty Suit Stop-Motion Assembly
+## 120. Empty Suit Stop-Motion Assembly
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/empty-suit-stop-motion-assembly-854152/video-f88cb4181bff.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/empty-suit-stop-motion-assembly-854152/poster-475cb8c1a69b.jpg" alt="Empty Suit Stop-Motion Assembly video preview" width="700" />
@@ -4874,7 +5073,7 @@ Static locked-off camera, no zoom, no pan, no handheld drift. The frame never mo
 
 ---
 
-## 113. Lightning God at a Shaolin Monastery
+## 121. Lightning God at a Shaolin Monastery
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/buddhist-monastery-courtyard-at-dawn-mist-drifting-betw-411584/video-71ad9000d4ca.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/buddhist-monastery-courtyard-at-dawn-mist-drifting-betw-411584/poster-e1578a62db9d.jpg" alt="Lightning God at a Shaolin Monastery video preview" width="700" />
@@ -4895,7 +5094,7 @@ Buddhist monastery courtyard at dawn, mist drifting between stone pillars. Wide 
 
 ---
 
-## 114. Skyship Through a Floating Kingdom
+## 122. Skyship Through a Floating Kingdom
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/skyship-flight-across-a-floating-kingdom-single-continu-344891/video-5e1c6d863a64.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/skyship-flight-across-a-floating-kingdom-single-continu-344891/poster-5b79b9582051.jpg" alt="Skyship Through a Floating Kingdom video preview" width="700" />
@@ -4916,7 +5115,7 @@ Skyship flight across a floating kingdom (single continuous shot) From above a s
 
 ---
 
-## 115. Natural-Material Dragon Stop Motion
+## 123. Natural-Material Dragon Stop Motion
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/top-down-stop-motion-style-video-of-four-hands-assembli-679353/video-c8badfe5e48e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/top-down-stop-motion-style-video-of-four-hands-assembli-679353/poster-77b783b17268.jpg" alt="Natural-Material Dragon Stop Motion video preview" width="700" />
@@ -4942,7 +5141,7 @@ Final shot: the completed dragon head sculpture sits alone on the white backgrou
 
 ---
 
-## 116. Cliffside Descent to the Ocean
+## 124. Cliffside Descent to the Ocean
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/shot-opens-tight-on-a-beautiful-woman-face-wind-452380/video-08dce77b0419.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/shot-opens-tight-on-a-beautiful-woman-face-wind-452380/poster-ff89a0a5a5d0.jpg" alt="Cliffside Descent to the Ocean video preview" width="700" />
@@ -4963,7 +5162,7 @@ The shot opens tight on a beautiful woman face, wind tearing at her coat as she 
 
 ---
 
-## 117. Armored swordswoman rock-plateau action sequence
+## 125. Armored swordswoman rock-plateau action sequence
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/armored-swordswoman-rock-plateau-action-sequence-009447/video-2aa17fa2410a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/armored-swordswoman-rock-plateau-action-sequence-009447/poster-497f63aa6c54.jpg" alt="Armored swordswoman rock-plateau action sequence video preview" width="700" />
@@ -5012,7 +5211,7 @@ The shot opens tight on a beautiful woman face, wind tearing at her coat as she 
 
 ---
 
-## 118. 1970s Shibuya Urban-Legend Horror
+## 126. 1970s Shibuya Urban-Legend Horror
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/1970-japanese-urba-207488/video-76b98520e830.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/1970-japanese-urba-207488/poster-fe772a707df9.jpg" alt="1970s Shibuya Urban-Legend Horror video preview" width="700" />
@@ -5066,7 +5265,7 @@ The shot opens tight on a beautiful woman face, wind tearing at her coat as she 
 
 ---
 
-## 119. Containment Breach in a Sterile Lab
+## 127. Containment Breach in a Sterile Lab
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/slow-motion-handheld-close-up-16-9-shaky-organic-handhe-994748/video-bf061cee3029.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/slow-motion-handheld-close-up-16-9-shaky-organic-handhe-994748/poster-a47bef0e059f.jpg" alt="Containment Breach in a Sterile Lab video preview" width="700" />
@@ -5087,7 +5286,7 @@ Slow-motion handheld close-up, 16:9. Shaky organic handheld shot shoving in clos
 
 ---
 
-## 120. Dark-Fantasy Tavern Fight
+## 128. Dark-Fantasy Tavern Fight
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/style-hyper-realistic-dark-fantasy-tavern-cinematic-gro-137433/video-61ca3ff0afb8.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/style-hyper-realistic-dark-fantasy-tavern-cinematic-gro-137433/poster-27f527a53b15.jpg" alt="Dark-Fantasy Tavern Fight video preview" width="700" />
@@ -5192,7 +5391,7 @@ No floating, no anime combat, no superhero physics, no unrealistic flips, no wei
 
 ---
 
-## 121. Cinematic Story Study 333627
+## 129. Cinematic Story Study 333627
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/the-ceo-s-pursuit-was-simply-too-irresistible-ev-333627/video-b70e9c37a23e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/the-ceo-s-pursuit-was-simply-too-irresistible-ev-333627/poster-f7ab0c1c8494.jpg" alt="Cinematic Story Study 333627 video preview" width="700" />
@@ -5236,7 +5435,7 @@ No floating, no anime combat, no superhero physics, no unrealistic flips, no wei
 
 ---
 
-## 122. Hard sci-fi desert 3x3 grid animation sequence
+## 130. Hard sci-fi desert 3x3 grid animation sequence
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/hard-sci-fi-desert-3x3-grid-animation-sequence-845158/video-828cd6dc32d0.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/hard-sci-fi-desert-3x3-grid-animation-sequence-845158/poster-04359e816e53.jpg" alt="Hard sci-fi desert 3x3 grid animation sequence video preview" width="700" />
@@ -5278,7 +5477,7 @@ Photorealistic, ultra-detailed skin and fabric textures, perfect sand physics, c
 
 ---
 
-## 123. Five cinematic dialogue set-piece scenes
+## 131. Five cinematic dialogue set-piece scenes
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/five-cinematic-dialogue-set-piece-scenes-875568/video-4a97371192c0.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/five-cinematic-dialogue-set-piece-scenes-875568/poster-e36f94c0299f.jpg" alt="Five cinematic dialogue set-piece scenes video preview" width="700" />
@@ -5406,7 +5605,7 @@ POSITIVE LOCKS Exactly two officers are in the room and no other figures enter. 
 
 ---
 
-## 124. Live-action relationship confession drama scene
+## 132. Live-action relationship confession drama scene
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/live-action-relationship-confession-drama-scene-224793/video-af329c217b0b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/live-action-relationship-confession-drama-scene-224793/poster-0979bf00cae0.jpg" alt="Live-action relationship confession drama scene video preview" width="700" />
@@ -5488,7 +5687,7 @@ Final frame: Hold on the husband as the meaning lands. His hand lowers, and the 
 
 ---
 
-## 125. Little Robot Cyberpunk Escape
+## 133. Little Robot Cyberpunk Escape
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/stunning-action-packed-scene-following-a-little-robot-r-288619/video-92e936e50dd3.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/stunning-action-packed-scene-following-a-little-robot-r-288619/poster-75c2c618f326.jpg" alt="Little Robot Cyberpunk Escape video preview" width="700" />
@@ -5509,7 +5708,7 @@ A stunning action packed scene following a little robot running away from soldie
 
 ---
 
-## 126. Cloaked Avenger vs. Cyborg Executioner
+## 134. Cloaked Avenger vs. Cyborg Executioner
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/cloaked-avenger-identity-lock-and-wardrobe-reference-us-595100/video-1663dd881714.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/cloaked-avenger-identity-lock-and-wardrobe-reference-us-595100/poster-75eae3bbb074.jpg" alt="Cloaked Avenger vs. Cyborg Executioner video preview" width="700" />
@@ -5540,7 +5739,7 @@ Create a 15-second ultra-cinematic confrontation in the ruined streets of Sector
 
 ---
 
-## 127. Photoreal Character Turnaround Sheet
+## 135. Photoreal Character Turnaround Sheet
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ver-597837/video-0e075694490d.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ver-597837/poster-5f88cb99f6e5.jpg" alt="Photoreal Character Turnaround Sheet video preview" width="700" />

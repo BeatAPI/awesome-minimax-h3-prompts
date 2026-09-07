@@ -1,0 +1,31 @@
+{
+  "slug": "created-with-minimax-h3-on-989121",
+  "title": {
+    "en": "Created with MiniMax H3 on .",
+    "zh": "Created with MiniMax H3 on ."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic travel prompt with attached video evidence from @aiwithaly.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3视频提示词。"
+  },
+  "category": "cinematic-travel",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "7:4",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@aiwithaly",
+    "url": "https://x.com/aiwithaly/status/2087408671101989121"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/aiwithaly/status/2087408671101989121"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-989121/video-da744e0dc652.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-989121/poster-49af374a62a1.jpg",
+  "prompt": "A young Western artist sets up an easel in a peaceful city park and paints the skyline overlooking a lake. As the artwork comes to life, she compares the finished painting with the real view, holding the canvas in front of the skyline and smiling proudly. Ultra-photorealistic visuals, cinematic documentary style, realistic brush strokes, authentic hand movements, natural English dialogue, handheld camera movement, detailed cityscape, premium lighting, seamless continuity, and immersive outdoor ambience."
+}

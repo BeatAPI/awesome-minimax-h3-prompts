@@ -2,7 +2,81 @@
 
 [Back to the full gallery](../../README.md) · [Catalog index](../README.md)
 
-## 1. お題「宮島を散歩する猫」使ったプロンプトはリプのやつ。
+## 1. Hailuo H3. Fluffi, a movie, one jump scare. The TV is never in frame.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-fluffi-a-movie-one-jump-scare-the-tv-469310/video-b0edf011c802.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-fluffi-a-movie-one-jump-scare-the-tv-469310/poster-cda1aa4922ca.jpg" alt="Hailuo H3. Fluffi, a movie, one jump scare. The TV is never in frame. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — &quot;picks one piece of popcorn off the cushion and eats it with as much dignity as he can manage&quot; Duration: 15s. Camera: the TV's point of view, locked. The scare is one second. The...</summary>
+
+~~~~text
+"picks one piece of popcorn off the cushion and eats it with as much dignity as he can manage"
+
+Duration: 15s. Camera: the TV's point of view, locked.
+
+The scare is one second. The recovery is five. Reaction clips live or die on the recovery.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-fluffi-a-movie-one-jump-scare-the-tv-469310/video-b0edf011c802.webm)
+
+**Source:** [@GlennHasABeard](https://x.com/GlennHasABeard/status/2095573685671469310) · 15s · 7:4 · action
+
+---
+
+## 2. It made me feel like a movie director 🤭
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/it-made-me-feel-like-a-movie-director-486165/video-23d8ffe6d9e8.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/it-made-me-feel-like-a-movie-director-486165/poster-dd96c9012369.jpg" alt="It made me feel like a movie director 🤭 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — The initial prompt was constructed for a 30 seconds video, added to the prompt to modify the time stamps to a 15 second video: Create a 30-second, 16:9 photorealistic cinematic...</summary>
+
+~~~~text
+The initial prompt was constructed for a 30 seconds video, added to the prompt to modify the time stamps to a 15 second video:
+
+Create a 30-second, 16:9 photorealistic cinematic adventure, set in medieval Baghdad during the era of One Thousand and One Nights. High-budget live-action blockbuster aesthetic, warm golden sunlight, dusty atmospheric air, domes and minarets, flat rooftops, narrow alleys, colorful bazaars, Abbasid-inspired costumes, expressive acting, sweeping cinematic camera movement, realistic physics and synchronized environmental audio.
+
+Character continuity: Aladdin is a charismatic, athletic young man in his early twenties with dark wavy hair, expressive brown eyes, weathered ivory shirt, short vest, dark-red loose trousers and blue waist sash. A small mischievous realistic monkey remains on his shoulder throughout the escape. Soldiers wear historically inspired Baghdad clothing with turbans, leather protection and curved swords.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/it-made-me-feel-like-a-movie-director-486165/video-23d8ffe6d9e8.webm)
+
+**Source:** [@AITalesNBH](https://x.com/AITalesNBH/status/2095240665588486165) · 23s · 16:9 · action
+
+---
+
+## 3. Made with MiniMax Hailuo H3 on
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-hailuo-h3-on-983412/video-a9a9b0b8303f.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-hailuo-h3-on-983412/poster-ede9fb8434d3.jpg" alt="Made with MiniMax Hailuo H3 on video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a fifteen second dialogue driven cinematic emotional scene at a quiet bus stop at night. Light rain falls under soft streetlights, creating an intimate and melancholic...</summary>
+
+~~~~text
+Create a fifteen second dialogue driven cinematic emotional scene at a quiet bus stop at night. Light rain falls under soft streetlights, creating an intimate and melancholic atmosphere. The acting should feel natural and restrained, with accurate lip sync and no overlapping dialogue. Characters: A is the boyfriend, age twenty five. He is trying to hide how deeply he is hurting. B is the girlfriend, age twenty four. She is emotional but composed, trying to hold herself together.
+First five seconds: B stands at the bus stop holding a small travel bag. Rain falls softly around them. A looks at her with watery eyes, trying not to break. A says softly “So… this is really goodbye?” B lowers her eyes. She struggles to find the words and takes a quiet breath before answering. B says “If I stay, I’ll keep choosing you over myself.” Seconds five to eleven A forces a small smile. His expression tries to hide the pain, but his voice begins to break. A says “Then go… I just wish loving me didn’t cost you so much.” B looks at him as her eyes slowly fill with tears. She takes one small step closer. Seconds eleven to fifteen B gently raises her hand and touches his cheek. B says quietly “You were never the mistake.” A closes his eyes. A single tear rolls down his cheek as he leans slightly into her touch. The bus arrives behind B, its headlights glowing through the rain. Neither of them moves. Use intimate close ups with subtle handheld camera movement. Hold on their eye contact and small facial reactions. Show trembling lips, restrained tears, realistic breathing, natural pauses, and quiet hesitation.
+
+Let facial expressions communicate as much emotion as the dialogue. Use cinematic night lighting, wet street reflections, shallow depth of field, and soft background bokeh. Keep both characters visually consistent throughout the scene and make every emotional reaction feel natural, subtle, and believable.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-hailuo-h3-on-983412/video-a9a9b0b8303f.webm)
+
+**Source:** [@bmx_ai13](https://x.com/bmx_ai13/status/2090519106432983412) · 15s · 159:91 · action
+
+---
+
+## 4. お題「宮島を散歩する猫」使ったプロンプトはリプのやつ。
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-710776-710776/video-cf49f7822360.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-710776-710776/poster-fe9266b9c0e4.jpg" alt="お題「宮島を散歩する猫」使ったプロンプトはリプのやつ。 video preview" width="700" />
@@ -23,7 +97,7 @@ No live-action photo style, no 3D CGI rendering, no text, no subtitles, no logos
 
 ---
 
-## 2. Total gen time: 29 minuets on a RTX 3060
+## 5. Total gen time: 29 minuets on a RTX 3060
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/total-gen-time-29-minuets-on-a-rtx-3060-976597/video-2f6735f9d46a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/total-gen-time-29-minuets-on-a-rtx-3060-976597/poster-49d40e8b7a79.jpg" alt="Total gen time: 29 minuets on a RTX 3060 video preview" width="700" />
@@ -44,7 +118,7 @@ Create a cinematic Hollywood movie scene, action adventure, explosions, Jackie C
 
 ---
 
-## 3. Minimax H3 one-shotted this complete scene
+## 6. Minimax H3 one-shotted this complete scene
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-one-shotted-this-complete-scene-726491/video-893671c8cc5e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-one-shotted-this-complete-scene-726491/poster-e357d0faddff.jpg" alt="Minimax H3 one-shotted this complete scene video preview" width="700" />
@@ -90,7 +164,7 @@ STYLE: Single-camera mockumentary, natural performances, dry deadpan humor, subt
 
 ---
 
-## 4. 有个挺有意思的细节，宇航员的袖标在转过去的时候Grok直接生成了美国国旗袖标，而MiniMax H3却不会。哈哈，不知道算不算细节。
+## 7. 有个挺有意思的细节，宇航员的袖标在转过去的时候Grok直接生成了美国国旗袖标，而MiniMax H3却不会。哈哈，不知道算不算细节。
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/grokminimax-h3-715612/video-bd132daf0a5f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/grokminimax-h3-715612/poster-f079bf367a57.jpg" alt="有个挺有意思的细节，宇航员的袖标在转过去的时候Grok直接生成了美国国旗袖标，而MiniMax H3却不会。哈哈，不知道算不算细节。 video preview" width="700" />
@@ -111,7 +185,7 @@ A 15-second ultra-realistic cinematic space odyssey scene inspired by 2001: A Sp
 
 ---
 
-## 5. Photorealistic cinematic 1950s American diner, chrome stools, red vinyl, neon
+## 8. Photorealistic cinematic 1950s American diner, chrome stools, red vinyl, neon
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/photorealistic-cinematic-1950s-american-diner-chrome-stools-red-vinyl-ne-227011/video-3eff8cd7b0ec.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/photorealistic-cinematic-1950s-american-diner-chrome-stools-red-vinyl-ne-227011/poster-99dacf3d9dee.jpg" alt="Photorealistic cinematic 1950s American diner, chrome stools, red vinyl, neon video preview" width="700" />
@@ -144,7 +218,7 @@ Photorealistic, ultra-detailed fluid physics, perfect motion blur only on moving
 
 ---
 
-## 6. Tested MiniMax H3 for the first time with a scene like this
+## 9. Tested MiniMax H3 for the first time with a scene like this
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/tested-minimax-h3-for-the-first-time-with-a-scene-784843/video-b624937f2ff2.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/tested-minimax-h3-for-the-first-time-with-a-scene-784843/poster-8ac125ae6c19.jpg" alt="Tested MiniMax H3 for the first time with a scene like this video preview" width="700" />
@@ -165,7 +239,7 @@ A powerful warrior woman stands alone in a destroyed futuristic city at night, f
 
 ---
 
-## 7. GPT Image 2
+## 10. GPT Image 2
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/gpt-image-2-758841/video-afbfc0676a40.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/gpt-image-2-758841/poster-3f003e8deb71.jpg" alt="GPT Image 2 video preview" width="700" />
@@ -192,7 +266,7 @@ Try MiniMax H3 → https://t.co/rxvRdUYoxo
 
 ---
 
-## 8. Action Film Study 735905
+## 11. Action Film Study 735905
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/10-second-16-9-photoreal-cinematic-wide-shot-fly-735905/video-894f1df37865.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/10-second-16-9-photoreal-cinematic-wide-shot-fly-735905/poster-21876ff1a52e.jpg" alt="Action Film Study 735905 video preview" width="700" />
@@ -249,7 +323,7 @@ Do not introduce Chinese text, garbled characters, or misspellings.
 
 ---
 
-## 9. Storm-Lit Pirate Galleon Battle
+## 12. Storm-Lit Pirate Galleon Battle
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/storm-lit-pirate-galleon-battle-561048/video-52021a1ba551.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/storm-lit-pirate-galleon-battle-561048/poster-04da999318c6.jpg" alt="Storm-Lit Pirate Galleon Battle video preview" width="700" />
@@ -304,7 +378,7 @@ Camera: mostly handheld-feel tracking shots through the melee for immersion, har
 
 ---
 
-## 10. Cyber Warrior vs. Primordial Fighter
+## 13. Cyber Warrior vs. Primordial Fighter
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-cinematic-showdown-between-the-most-technolog-354071/video-f1fbd8ae7b01.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-cinematic-showdown-between-the-most-technolog-354071/poster-f3ccda5d88dd.jpg" alt="Cyber Warrior vs. Primordial Fighter video preview" width="700" />
@@ -353,7 +427,7 @@ Cinematic 4K, 16:9, ultra-realistic VFX, physically accurate destruction, volume
 
 ---
 
-## 11. Ringside Phone-Footage Boxing Knockout
+## 14. Ringside Phone-Footage Boxing Knockout
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ringside-phone-footage-boxing-knockout-221043/video-cf76d3103f6a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ringside-phone-footage-boxing-knockout-221043/poster-0ef2df0bcaf0.jpg" alt="Ringside Phone-Footage Boxing Knockout video preview" width="700" />
@@ -401,7 +475,7 @@ Cinematic 4K, 16:9, ultra-realistic VFX, physically accurate destruction, volume
 
 ---
 
-## 12. Storm-Cliff Golf Physics Challenge
+## 15. Storm-Cliff Golf Physics Challenge
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/storm-cliff-golf-physics-challenge-037151/video-d69ed1c1be4c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/storm-cliff-golf-physics-challenge-037151/poster-6f6ccf8c0ac1.jpg" alt="Storm-Cliff Golf Physics Challenge video preview" width="700" />
@@ -424,7 +498,7 @@ A dramatic sports sequence begins on a lush, windswept coastal cliff during a vi
 
 ---
 
-## 13. Jetpack Dive Through a Mountain Gorge
+## 16. Jetpack Dive Through a Mountain Gorge
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-fast-paced-cinematic-action-sequence-a-man-in-a-078815/video-f4b3083ef6fd.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-fast-paced-cinematic-action-sequence-a-man-in-a-078815/poster-a70e1e0aaa52.jpg" alt="Jetpack Dive Through a Mountain Gorge video preview" width="700" />
@@ -445,7 +519,7 @@ Ultra-fast paced cinematic action sequence, a man in a sleek black tactical suit
 
 ---
 
-## 14. Sunrise Wingsuit Canyon Run
+## 17. Sunrise Wingsuit Canyon Run
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/canyon-wingsuit-thread-world-build-a-wingsuit-pilot-thr-927857/video-01462c924c2a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/canyon-wingsuit-thread-world-build-a-wingsuit-pilot-thr-927857/poster-e1ffb417dc47.jpg" alt="Sunrise Wingsuit Canyon Run video preview" width="700" />
@@ -466,7 +540,7 @@ CANYON WINGSUIT THREAD WORLD BUILD A wingsuit pilot threading an impossible cany
 
 ---
 
-## 15. Concrete-Plaza Kickflip Drop
+## 18. Concrete-Plaza Kickflip Drop
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/concrete-plaza-kickflip-drop-082714/video-d5ce5bc1daa2.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/concrete-plaza-kickflip-drop-082714/poster-9305983cf0b5.jpg" alt="Concrete-Plaza Kickflip Drop video preview" width="700" />

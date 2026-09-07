@@ -1,0 +1,31 @@
+{
+  "slug": "hailuo-h3-render-built-out-of-wood-shavings-then-carved-130121",
+  "title": {
+    "en": "Hailuo H3. RENDER, built out of wood shavings, then carved.",
+    "zh": "Hailuo H3. RENDER, built out of wood shavings, then carved."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @GlennHasABeard.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "7:4",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@GlennHasABeard",
+    "url": "https://x.com/GlennHasABeard/status/2094755037826130121"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/GlennHasABeard/status/2094755037826130121"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-render-built-out-of-wood-shavings-then-carved-130121/video-bd0a19d40894.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-render-built-out-of-wood-shavings-then-carved-130121/poster-52ebbfcee83a.jpg",
+  "prompt": "\"gathering into six tall upright letters in order from left to right, R first, then E, N, D, E, R, each letter building from the base up\"\n\nDuration: 15s. Camera: locked, low, bench height.\n\nSpelling the letters out one at a time in order is what got six letters instead of five or seven. Naming the word once was not enough."
+}

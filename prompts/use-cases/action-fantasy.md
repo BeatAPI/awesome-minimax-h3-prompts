@@ -1,6 +1,6 @@
 # MiniMax H3 Action & Fantasy prompts
 
-[Back to all 300 prompts](../../README.md)
+[Back to all 330 prompts](../../README.md)
 
 ## 1. Modern warfare FPS gameplay
 
@@ -23,7 +23,200 @@ Camera: First-person perspective at eye level with authentic handheld player mov
 
 ---
 
-## 2. お題「宮島を散歩する猫」使ったプロンプトはリプのやつ。
+## 2. Hailuo H3. Fluffi, a movie, one jump scare. The TV is never in frame.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-fluffi-a-movie-one-jump-scare-the-tv-469310/video-b0edf011c802.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-fluffi-a-movie-one-jump-scare-the-tv-469310/poster-cda1aa4922ca.jpg" alt="Hailuo H3. Fluffi, a movie, one jump scare. The TV is never in frame. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — &quot;picks one piece of popcorn off the cushion and eats it with as much dignity as he can manage&quot; Duration: 15s. Camera: the TV's point of view, locked. The scare is one second. The...</summary>
+
+~~~~text
+"picks one piece of popcorn off the cushion and eats it with as much dignity as he can manage"
+
+Duration: 15s. Camera: the TV's point of view, locked.
+
+The scare is one second. The recovery is five. Reaction clips live or die on the recovery.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-fluffi-a-movie-one-jump-scare-the-tv-469310/video-b0edf011c802.webm)
+
+**Source:** [@GlennHasABeard](https://x.com/GlennHasABeard/status/2095573685671469310) · 15s · 7:4 · action
+
+---
+
+## 3. It made me feel like a movie director 🤭
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/it-made-me-feel-like-a-movie-director-486165/video-23d8ffe6d9e8.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/it-made-me-feel-like-a-movie-director-486165/poster-dd96c9012369.jpg" alt="It made me feel like a movie director 🤭 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — The initial prompt was constructed for a 30 seconds video, added to the prompt to modify the time stamps to a 15 second video: Create a 30-second, 16:9 photorealistic cinematic...</summary>
+
+~~~~text
+The initial prompt was constructed for a 30 seconds video, added to the prompt to modify the time stamps to a 15 second video:
+
+Create a 30-second, 16:9 photorealistic cinematic adventure, set in medieval Baghdad during the era of One Thousand and One Nights. High-budget live-action blockbuster aesthetic, warm golden sunlight, dusty atmospheric air, domes and minarets, flat rooftops, narrow alleys, colorful bazaars, Abbasid-inspired costumes, expressive acting, sweeping cinematic camera movement, realistic physics and synchronized environmental audio.
+
+Character continuity: Aladdin is a charismatic, athletic young man in his early twenties with dark wavy hair, expressive brown eyes, weathered ivory shirt, short vest, dark-red loose trousers and blue waist sash. A small mischievous realistic monkey remains on his shoulder throughout the escape. Soldiers wear historically inspired Baghdad clothing with turbans, leather protection and curved swords.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/it-made-me-feel-like-a-movie-director-486165/video-23d8ffe6d9e8.webm)
+
+**Source:** [@AITalesNBH](https://x.com/AITalesNBH/status/2095240665588486165) · 23s · 16:9 · action
+
+---
+
+## 4. 以上是关于近期网友较多留言的回复，有问题可以在这里提问，我将尽量予以回答，我也会在合适的时间在经过认真论证后开源我的系统和工作流。
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-929579-929579/video-1bbe0f98e178.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-929579-929579/poster-57b0a0b9f12c.jpg" alt="以上是关于近期网友较多留言的回复，有问题可以在这里提问，我将尽量予以回答，我也会在合适的时间在经过认真论证后开源我的系统和工作流。 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — 一、整体基础设定 生成一支30秒、英式复古写实电影质感、原生同步英文对白的古典剧情短片。 画幅为宽银幕20:9，胶片写实电影摄影，24fps纯正电影观感，轻微细腻35mm复古胶片颗粒，无数码锐化感。...</summary>
+
+~~~~text
+一、整体基础设定
+
+生成一支30秒、英式复古写实电影质感、原生同步英文对白的古典剧情短片。
+画幅为宽银幕20:9，胶片写实电影摄影，24fps纯正电影观感，轻微细腻35mm复古胶片颗粒，无数码锐化感。
+故事发生在19世纪中期英国庄园书房，古典深木色精装墙面、复古雕花实木书柜、老旧皮质单人沙发、窗边垂落的暗丝绒窗帘。傍晚温柔暖调自然光从侧窗斜向切入，光线柔和朦胧，带轻微光影层次。
+整体色调极致克制高级，以深胡桃木棕、墨绿、米白、低饱和暗金为主，复古暗沉油画质感，画面干净厚重。全程规避所有现代物品、电子设备、现代装修风格与商业质感，纯古典英伦庄园氛围。
+整体表演摒弃戏剧化夸张演绎，全程依靠人物眼神微动、面部肌肉变化、呼吸节奏、细微肢体张力推进情绪，用克制的爆发力呈现底层灵魂的倔强与平等的呐喊。
+
+二、故事内核&表演基调
+
+核心冲突：身份卑微的家庭教师女主角，面对贵族主人的身份试探与阶级碾压，压抑情绪彻底爆发，挣脱身份桎梏、呐喊灵魂平等、人格对等的核心信念。
+表演基调：内敛、倔强、隐忍又充满力量，无嘶吼、无大哭、无夸张肢体。情绪层次：隐忍拘谨→内心震颤→坚定反驳→情绪破防→温柔却决绝的灵魂告白，全程靠微表情和声线层次递进，安静却极具冲击力。
+
+三、人物一致性
+
+女主角
+
+20岁左右英国年轻女性，身形清瘦单薄、体态挺直不佝偻，自带倔强清冷气质。浅棕色中短发整齐利落，发丝柔软朴素，无精致造型；皮肤白皙通透，保留原生细腻皮肤纹理，无磨皮美颜，眉眼干净清澈，眼神坚定有韧劲。
+身着19世纪英式朴素女佣高领素色米白长裙，剪裁简约无装饰、干净素雅，面料轻薄垂坠。
+声线：清澈温柔的青年女中音，音色干净柔和，情绪从拘谨平稳逐渐变得坚定有力，尾段带着隐忍的哽咽，温柔却极具穿透力。
+
+男主角
+
+40岁左右英国贵族男性，身形挺拔高大、骨架宽阔，气质沉稳阴郁、自带沧桑疏离感。深棕色微卷短发，鬓角略带成熟质感，面部轮廓硬朗，眉眼深邃，额头沉稳，自带上位者的压迫感，眼神深沉内敛。
+身着19世纪英伦复古深色丝绒西装马甲、白色复古立领衬衫，穿搭庄重华贵，贵族质感十足。
+声线：低沉磁性的醇厚男低音，语气从从容试探、带着阶级优越感的淡然，逐渐转为错愕、收敛锋芒、温柔动容。
+
+全局人物约束
+
+两人全程保持面孔、年龄、发型、服装、神态、身形完全一致，无面部漂移、五官变形、妆容变化、服装穿帮、年龄波动。无任何现实演员、公众人物五官特征。
+严格遵守180度镜头轴线：男主角位于画面左侧，女主角位于画面右侧，两人面对面站立，间距一米左右，视线精准对接，全程站位固定无错乱、无互换位置。
+
+四、分镜头时序模块
+
+【镜头一｜0.0—6.5秒】
+
+85mm人像镜头，男主角胸部以上近景，三分之二侧脸朝向画面右侧的女主角。背景虚化深木色书柜与丝绒窗帘，极浅景深，突出人物面部情绪。
+摄影机近乎完全固定，仅保留极其细微的电影手持呼吸感，无任何推进、晃动、环绕、升降运镜。
+0.0—3.0秒：男主角姿态松弛淡然，眉眼微垂，眼神带着上位者的从容与试探，眉心舒展，嘴唇轻抿，下颌放松，语气慵懒疏离，带着轻微的阶级俯视感。
+3.0—6.5秒：说话间眼神微微抬升，紧盯对面的女主角，眼睑轻微收紧，面部神态依旧沉稳，无大幅情绪波动，语气平淡笃定。
+表情辅助：AU2眉部放松、AU12嘴角轻微放平、AU48眼部平视聚焦
+男主角语速平缓、语气淡然试探：
+“Do you think, because I am poor, obscure, plain, and little, I am soulless and heartless?”
+台词节奏均匀，尾音轻微拉长，自带贵族沉稳气场。
+本镜头结束后硬切转场，无淡入淡出、无转场特效。
+
+【镜头二｜6.5—18.0秒】
+
+硬切至女主角越肩近景，男主角的肩膀与轮廓作为模糊前景，占据画面左下角六分之一。女主角居于画面绝对中心，胸部以上构图，背景虚化窗边光影与书柜，画面干净聚焦。
+摄影机全程固定机位，仅有几乎无法察觉的细微呼吸晃动，无任何动态运镜。
+6.5—10.0秒：女主角身体微微挺直，肩背收紧，原本柔和的眉眼瞬间绷紧，眉心轻微聚拢，上眼睑抬起，双眼清亮坚定，直视对方，无丝毫闪躲。嘴唇轻闭，呼吸轻微加快，隐忍的情绪开始积蓄。
+表情辅助：AU4眉心微蹙、AU5眼睑抬起、AU23嘴唇收紧
+10.0—14.0秒：情绪逐步上扬，眼神更加锐利澄澈，面部无愤怒狰狞，只有倔强与坦荡。下颌轻轻咬紧，颈部线条绷紧，身体无晃动，仅气场彻底打开。声线从温柔变得清亮有力，字字铿锵。
+14.0—18.0秒：彻底挣脱自卑桎梏，眼神坦荡明亮，眉眼舒展却依旧坚定，积压的情绪尽数释放，语气决绝又赤诚。
+女主角语速平稳、坚定有力，无急促嘶吼：
+“You think wrong! I have as much soul as you—and full as much heart!”
+重读“soul”“heart”两个单词，语气掷地有声，温柔却不卑微。
+本镜头保持神态定格，精准卡点台词结束瞬间硬切。
+
+【镜头三｜18.0—26.0秒】
+
+硬切回男主角同角度近景，焦段、光线、构图、机位与镜头一完全统一，画面衔接丝滑。
+女主角画外音持续输出，声音来自画面右侧，清晰通透。
+18.0—21.0秒：男主角瞬间错愕，原本松弛的眉心骤然收紧，双眼微微睁大，眼底的从容与优越感瞬间消散，出现明显震动与意外，嘴唇微张，欲言又止。
+21.0—24.0秒：上位者的压迫感彻底褪去，眼神变得深沉柔和，眼睑放松，下颌收紧，沉默倾听，面部神态从试探转为动容、愧疚与惊艳。
+24.0—26.0秒：气息放缓，目光牢牢锁定前方，眼底满是复杂情绪：震撼、怜惜、认同，彻底放下阶级偏见。
+女主角画外音，声线温柔却无比坚定，情绪层层递进：
+“If God had gifted me with some beauty and much wealth, I should have made it as hard for you to leave me.”
+
+【镜头四｜26.0—30.0秒】
+
+硬切至女主角面部极近特写，聚焦眉眼与面部神态，比前序镜头更贴近面部，极致放大情绪细节。
+26.0—28.0秒：女主角眼眶轻微泛红，眼底蓄满细碎水光，无夸张流泪，睫毛微颤，呼吸轻柔急促，带着隐忍的委屈与赤诚的渴望。嘴角微微放平，眼神柔软却依旧倔强。
+28.0—30.0秒：情绪落定，眼神澄澈坦荡，眉眼温柔，语气平缓治愈，完成灵魂平等的终极告白。
+女主角带着温柔哽咽、无比真诚的语气收尾：
+“as it is now for me to leave you.”
+台词结束后，定格女主角含泪坚定的面部神态0.3秒，直接黑屏收尾，无淡出、无残留画面。
+
+五、声音设计
+
+1. 原生精准英文对白生成，双人声线辨识度极高，口型与每一个英文音节100%精准同步，无口型错位、无延迟偏差。
+2. 男主角人声：低沉醇厚男低音，情绪曲线：从容试探→错愕震动→温柔动容，声线全程沉稳，无尖锐、无浮夸。
+3. 女主角人声：清澈治愈女中音，情绪曲线：温柔拘谨→坚定倔强→赤诚坦荡→隐忍温柔，层次细腻完整，强弱有度，无全程大喊大叫。
+4. 保留真实人声细节：细微换气声、轻柔呼吸、尾音轻微颤音、隐忍哽咽，不降噪、不抹平真实人声质感。
+5. 环境音：仅保留极其轻微的窗外晚风簌簌声、书房安静空气底噪、细微窗帘飘动声，极致安静空灵。
+6. 全程无背景音乐、无配乐、无旁白、无额外音效、无人声混响过度，纯人声+轻环境音，凸显台词力量。
+
+六、影像限制（强制规避BUG）
+
+禁止字幕、禁止任何文字、禁止水印、禁止LOGO、禁止任何现代元素。
+禁止第三人入镜、禁止场景切换、禁止光线色调突变、禁止人物服装/发型/神态中途变化。
+禁止面部漂移、五官扭曲、眼神涣散、目光错位、嘴唇粘连、牙齿畸形、虚假过度流泪。
+禁止美颜磨皮、过度曝光、高饱和色彩、广告质感灯光、舞台戏剧打光。
+禁止夸张肢体动作、挥手、摇头、身体晃动、嘶吼尖叫、慢动作、环绕运镜、快速推拉镜头。
+禁止人物体型畸变、比例失调、穿模、画面CG感，全程保持真人写实电影质感。
+
+七、核心主旨重申
+
+本片核心魅力不在于镜头炫技，而在于极致细腻的微表情情绪递进。通过双人眼神博弈、声线层次变化、细微神态张力，演绎跨越阶级的灵魂平等，画面安静克制、情绪厚重有力量，贴合原著温柔又倔强的内核。
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-929579-929579/video-1bbe0f98e178.webm)
+
+**Source:** [@PixelAigc](https://x.com/PixelAigc/status/2093563293306929579) · 31s · 9:5 · gameplay
+
+---
+
+## 5. Made with MiniMax Hailuo H3 on
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-hailuo-h3-on-983412/video-a9a9b0b8303f.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-hailuo-h3-on-983412/poster-ede9fb8434d3.jpg" alt="Made with MiniMax Hailuo H3 on video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a fifteen second dialogue driven cinematic emotional scene at a quiet bus stop at night. Light rain falls under soft streetlights, creating an intimate and melancholic...</summary>
+
+~~~~text
+Create a fifteen second dialogue driven cinematic emotional scene at a quiet bus stop at night. Light rain falls under soft streetlights, creating an intimate and melancholic atmosphere. The acting should feel natural and restrained, with accurate lip sync and no overlapping dialogue. Characters: A is the boyfriend, age twenty five. He is trying to hide how deeply he is hurting. B is the girlfriend, age twenty four. She is emotional but composed, trying to hold herself together.
+First five seconds: B stands at the bus stop holding a small travel bag. Rain falls softly around them. A looks at her with watery eyes, trying not to break. A says softly “So… this is really goodbye?” B lowers her eyes. She struggles to find the words and takes a quiet breath before answering. B says “If I stay, I’ll keep choosing you over myself.” Seconds five to eleven A forces a small smile. His expression tries to hide the pain, but his voice begins to break. A says “Then go… I just wish loving me didn’t cost you so much.” B looks at him as her eyes slowly fill with tears. She takes one small step closer. Seconds eleven to fifteen B gently raises her hand and touches his cheek. B says quietly “You were never the mistake.” A closes his eyes. A single tear rolls down his cheek as he leans slightly into her touch. The bus arrives behind B, its headlights glowing through the rain. Neither of them moves. Use intimate close ups with subtle handheld camera movement. Hold on their eye contact and small facial reactions. Show trembling lips, restrained tears, realistic breathing, natural pauses, and quiet hesitation.
+
+Let facial expressions communicate as much emotion as the dialogue. Use cinematic night lighting, wet street reflections, shallow depth of field, and soft background bokeh. Keep both characters visually consistent throughout the scene and make every emotional reaction feel natural, subtle, and believable.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-hailuo-h3-on-983412/video-a9a9b0b8303f.webm)
+
+**Source:** [@bmx_ai13](https://x.com/bmx_ai13/status/2090519106432983412) · 15s · 159:91 · action
+
+---
+
+## 6. お題「宮島を散歩する猫」使ったプロンプトはリプのやつ。
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-710776-710776/video-cf49f7822360.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-710776-710776/poster-fe9266b9c0e4.jpg" alt="お題「宮島を散歩する猫」使ったプロンプトはリプのやつ。 video preview" width="700" />
@@ -44,7 +237,7 @@ No live-action photo style, no 3D CGI rendering, no text, no subtitles, no logos
 
 ---
 
-## 3. Total gen time: 29 minuets on a RTX 3060
+## 7. Total gen time: 29 minuets on a RTX 3060
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/total-gen-time-29-minuets-on-a-rtx-3060-976597/video-2f6735f9d46a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/total-gen-time-29-minuets-on-a-rtx-3060-976597/poster-49d40e8b7a79.jpg" alt="Total gen time: 29 minuets on a RTX 3060 video preview" width="700" />
@@ -65,7 +258,7 @@ Create a cinematic Hollywood movie scene, action adventure, explosions, Jackie C
 
 ---
 
-## 4. Minimax H3 one-shotted this complete scene
+## 8. Minimax H3 one-shotted this complete scene
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-one-shotted-this-complete-scene-726491/video-893671c8cc5e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-one-shotted-this-complete-scene-726491/poster-e357d0faddff.jpg" alt="Minimax H3 one-shotted this complete scene video preview" width="700" />
@@ -111,7 +304,7 @@ STYLE: Single-camera mockumentary, natural performances, dry deadpan humor, subt
 
 ---
 
-## 5. 有个挺有意思的细节，宇航员的袖标在转过去的时候Grok直接生成了美国国旗袖标，而MiniMax H3却不会。哈哈，不知道算不算细节。
+## 9. 有个挺有意思的细节，宇航员的袖标在转过去的时候Grok直接生成了美国国旗袖标，而MiniMax H3却不会。哈哈，不知道算不算细节。
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/grokminimax-h3-715612/video-bd132daf0a5f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/grokminimax-h3-715612/poster-f079bf367a57.jpg" alt="有个挺有意思的细节，宇航员的袖标在转过去的时候Grok直接生成了美国国旗袖标，而MiniMax H3却不会。哈哈，不知道算不算细节。 video preview" width="700" />
@@ -132,7 +325,7 @@ A 15-second ultra-realistic cinematic space odyssey scene inspired by 2001: A Sp
 
 ---
 
-## 6. Photorealistic cinematic 1950s American diner, chrome stools, red vinyl, neon
+## 10. Photorealistic cinematic 1950s American diner, chrome stools, red vinyl, neon
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/photorealistic-cinematic-1950s-american-diner-chrome-stools-red-vinyl-ne-227011/video-3eff8cd7b0ec.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/photorealistic-cinematic-1950s-american-diner-chrome-stools-red-vinyl-ne-227011/poster-99dacf3d9dee.jpg" alt="Photorealistic cinematic 1950s American diner, chrome stools, red vinyl, neon video preview" width="700" />
@@ -165,7 +358,7 @@ Photorealistic, ultra-detailed fluid physics, perfect motion blur only on moving
 
 ---
 
-## 7. Tested MiniMax H3 for the first time with a scene like this
+## 11. Tested MiniMax H3 for the first time with a scene like this
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/tested-minimax-h3-for-the-first-time-with-a-scene-784843/video-b624937f2ff2.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/tested-minimax-h3-for-the-first-time-with-a-scene-784843/poster-8ac125ae6c19.jpg" alt="Tested MiniMax H3 for the first time with a scene like this video preview" width="700" />
@@ -186,7 +379,7 @@ A powerful warrior woman stands alone in a destroyed futuristic city at night, f
 
 ---
 
-## 8. GPT Image 2
+## 12. GPT Image 2
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/gpt-image-2-758841/video-afbfc0676a40.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/gpt-image-2-758841/poster-3f003e8deb71.jpg" alt="GPT Image 2 video preview" width="700" />
@@ -213,7 +406,7 @@ Try MiniMax H3 → https://t.co/rxvRdUYoxo
 
 ---
 
-## 9. Motion Graphics Study 723522
+## 13. Motion Graphics Study 723522
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/i-created-this-fun-days-of-the-week-lesson-for-k-723522/video-3a96a8fc6976.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/i-created-this-fun-days-of-the-week-lesson-for-k-723522/poster-6ec600100c7b.jpg" alt="Motion Graphics Study 723522 video preview" width="700" />
@@ -248,7 +441,7 @@ Visual style: Same premium-cute aesthetic — pastel tones, rounded 3D icons, so
 
 ---
 
-## 10. MiniMax H3 feels like a really good fit for interactive game concepts.
+## 14. MiniMax H3 feels like a really good fit for interactive game concepts.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-feels-like-a-really-good-fit-for-interactive-417323/video-47c399792570.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-feels-like-a-really-good-fit-for-interactive-417323/poster-cfb4a8498788.jpg" alt="MiniMax H3 feels like a really good fit for interactive game concepts. video preview" width="700" />
@@ -277,7 +470,7 @@ Sound Design: Use pure instrumental music mixed with electronic arcade sounds, n
 
 ---
 
-## 11. Motion Graphics Study 446929
+## 15. Motion Graphics Study 446929
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/i-created-this-kids-counting-video-with-on-446929/video-589a2687bccb.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/i-created-this-kids-counting-video-with-on-446929/poster-74cb284382c7.jpg" alt="Motion Graphics Study 446929 video preview" width="700" />
@@ -309,7 +502,7 @@ Requirements: Keep each number visible before morphing, smooth shape transitions
 
 ---
 
-## 12. Action Film Study 735905
+## 16. Action Film Study 735905
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/10-second-16-9-photoreal-cinematic-wide-shot-fly-735905/video-894f1df37865.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/10-second-16-9-photoreal-cinematic-wide-shot-fly-735905/poster-21876ff1a52e.jpg" alt="Action Film Study 735905 video preview" width="700" />
@@ -366,7 +559,7 @@ Do not introduce Chinese text, garbled characters, or misspellings.
 
 ---
 
-## 13. is a huge model for some themes
+## 17. is a huge model for some themes
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/is-a-huge-model-for-some-themes-157293/video-3a23900fd3b4.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/is-a-huge-model-for-some-themes-157293/poster-c2ebc5d6241f.jpg" alt="is a huge model for some themes video preview" width="700" />
@@ -394,7 +587,7 @@ Camera movement: Natural player-controlled movement with subtle handheld sway wh
 
 ---
 
-## 14. Video models are going to revolutionize education!
+## 18. Video models are going to revolutionize education!
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-models-are-going-to-revolutionize-educatio-411987/video-1acb0e9eaf71.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-models-are-going-to-revolutionize-educatio-411987/poster-c90a3b4e4cc1.jpg" alt="Video models are going to revolutionize education! video preview" width="700" />
@@ -567,7 +760,7 @@ The final video should feel cute, educational, memorable, calming, and exception
 
 ---
 
-## 15. Motion Graphics Study 960837
+## 19. Motion Graphics Study 960837
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/is-redefining-ai-with-open-weight-multimodal-int-960837/video-ce9d664d9d6c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/is-redefining-ai-with-open-weight-multimodal-int-960837/poster-096c34492314.jpg" alt="Motion Graphics Study 960837 video preview" width="700" />
@@ -590,7 +783,7 @@ Epic theatrical space-opera teaser
 
 ---
 
-## 16. Motion Graphics Study 106839
+## 20. Motion Graphics Study 106839
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/romantic-montage-of-two-people-exploring-a-beaut-106839/video-5309be7fbe3d.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/romantic-montage-of-two-people-exploring-a-beaut-106839/poster-98750acaed01.jpg" alt="Motion Graphics Study 106839 video preview" width="700" />
@@ -613,7 +806,7 @@ Done with @Minimax H3 in @magnific https://t.co/F6F7r7Yi4n
 
 ---
 
-## 17. Storm-Lit Pirate Galleon Battle
+## 21. Storm-Lit Pirate Galleon Battle
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/storm-lit-pirate-galleon-battle-561048/video-52021a1ba551.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/storm-lit-pirate-galleon-battle-561048/poster-04da999318c6.jpg" alt="Storm-Lit Pirate Galleon Battle video preview" width="700" />
@@ -668,7 +861,7 @@ Camera: mostly handheld-feel tracking shots through the melee for immersion, har
 
 ---
 
-## 18. Y2K K-Pop Candy Typography Music Video
+## 22. Y2K K-Pop Candy Typography Music Video
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/soft-cute-y2k-crush-k-pop-girl-group-rap-mv-748313/video-7588687fb895.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/soft-cute-y2k-crush-k-pop-girl-group-rap-mv-748313/poster-ca11d6e8f8b2.jpg" alt="Y2K K-Pop Candy Typography Music Video video preview" width="700" />
@@ -707,7 +900,7 @@ Shot 7 — Group Rap Performance「UNBREAKABLE」 Three members together.
 
 ---
 
-## 19. Cyber Warrior vs. Primordial Fighter
+## 23. Cyber Warrior vs. Primordial Fighter
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-cinematic-showdown-between-the-most-technolog-354071/video-f1fbd8ae7b01.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-cinematic-showdown-between-the-most-technolog-354071/poster-f3ccda5d88dd.jpg" alt="Cyber Warrior vs. Primordial Fighter video preview" width="700" />
@@ -756,7 +949,7 @@ Cinematic 4K, 16:9, ultra-realistic VFX, physically accurate destruction, volume
 
 ---
 
-## 20. Ringside Phone-Footage Boxing Knockout
+## 24. Ringside Phone-Footage Boxing Knockout
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ringside-phone-footage-boxing-knockout-221043/video-cf76d3103f6a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ringside-phone-footage-boxing-knockout-221043/poster-0ef2df0bcaf0.jpg" alt="Ringside Phone-Footage Boxing Knockout video preview" width="700" />
@@ -804,7 +997,7 @@ Cinematic 4K, 16:9, ultra-realistic VFX, physically accurate destruction, volume
 
 ---
 
-## 21. 8-bit black and white San Francisco animation
+## 25. 8-bit black and white San Francisco animation
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/8-bit-black-and-white-san-francisco-animation-325353/video-aa7ee56eb15f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/8-bit-black-and-white-san-francisco-animation-325353/poster-d41927c64648.jpg" alt="8-bit black and white San Francisco animation video preview" width="700" />
@@ -825,7 +1018,7 @@ Cinematic 4K, 16:9, ultra-realistic VFX, physically accurate destruction, volume
 
 ---
 
-## 22. Explorer and Cat in a Floating Eco-City
+## 26. Explorer and Cat in a Floating Eco-City
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-cinematic-aaa-adventure-game-trailer-one-continuo-722460/video-8df5c20c5939.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-cinematic-aaa-adventure-game-trailer-one-continuo-722460/poster-478284a3421e.jpg" alt="Explorer and Cat in a Floating Eco-City video preview" width="700" />
@@ -846,7 +1039,7 @@ Ultra cinematic AAA adventure game trailer, one continuous seamless camera shot,
 
 ---
 
-## 23. Fantasy Deck-Builder Battle UI
+## 27. Fantasy Deck-Builder Battle UI
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/deck-builder-turn-ui-choreography-446745/video-3d55b47abdf6.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/deck-builder-turn-ui-choreography-446745/poster-8cb4c8f5ec6c.jpg" alt="Fantasy Deck-Builder Battle UI video preview" width="700" />
@@ -874,7 +1067,7 @@ Negative: no UI drift or warping, no invented card names, no misspellings, no go
 
 ---
 
-## 24. Colorful Paint-Weapon Selection Screen
+## 28. Colorful Paint-Weapon Selection Screen
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-1-for-the-character-image-2-for-the-619967/video-7ac98e27a185.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-1-for-the-character-image-2-for-the-619967/poster-e51bf318751f.jpg" alt="Colorful Paint-Weapon Selection Screen video preview" width="700" />
@@ -913,7 +1106,7 @@ The world loads into a bright, colorful ink-covered city filled with graffiti, p
 
 ---
 
-## 25. Storm-Cliff Golf Physics Challenge
+## 29. Storm-Cliff Golf Physics Challenge
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/storm-cliff-golf-physics-challenge-037151/video-d69ed1c1be4c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/storm-cliff-golf-physics-challenge-037151/poster-6f6ccf8c0ac1.jpg" alt="Storm-Cliff Golf Physics Challenge video preview" width="700" />
@@ -936,7 +1129,7 @@ A dramatic sports sequence begins on a lush, windswept coastal cliff during a vi
 
 ---
 
-## 26. Jetpack Dive Through a Mountain Gorge
+## 30. Jetpack Dive Through a Mountain Gorge
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-fast-paced-cinematic-action-sequence-a-man-in-a-078815/video-f4b3083ef6fd.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-fast-paced-cinematic-action-sequence-a-man-in-a-078815/poster-a70e1e0aaa52.jpg" alt="Jetpack Dive Through a Mountain Gorge video preview" width="700" />
@@ -957,7 +1150,7 @@ Ultra-fast paced cinematic action sequence, a man in a sleek black tactical suit
 
 ---
 
-## 27. Sunrise Wingsuit Canyon Run
+## 31. Sunrise Wingsuit Canyon Run
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/canyon-wingsuit-thread-world-build-a-wingsuit-pilot-thr-927857/video-01462c924c2a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/canyon-wingsuit-thread-world-build-a-wingsuit-pilot-thr-927857/poster-e1ffb417dc47.jpg" alt="Sunrise Wingsuit Canyon Run video preview" width="700" />
@@ -978,7 +1171,7 @@ CANYON WINGSUIT THREAD WORLD BUILD A wingsuit pilot threading an impossible cany
 
 ---
 
-## 28. Concrete-Plaza Kickflip Drop
+## 32. Concrete-Plaza Kickflip Drop
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/concrete-plaza-kickflip-drop-082714/video-d5ce5bc1daa2.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/concrete-plaza-kickflip-drop-082714/poster-9305983cf0b5.jpg" alt="Concrete-Plaza Kickflip Drop video preview" width="700" />

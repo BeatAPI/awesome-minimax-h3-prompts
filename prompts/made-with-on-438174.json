@@ -1,0 +1,31 @@
+{
+  "slug": "made-with-on-438174",
+  "title": {
+    "en": "Made with on",
+    "zh": "Made with on"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @aniyaintel.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@aniyaintel",
+    "url": "https://x.com/aniyaintel/status/2095362627677438174"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/aniyaintel/status/2095362627677438174"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-on-438174/video-106e0254b230.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-on-438174/poster-d39cea3a2c83.jpg",
+  "prompt": "A tiny adorable orange fox cub named Milo lives in a cozy little forest beneath a giant ancient oak tree. One magical night, Milo looks up at the enormous glowing full moon reflected in a quiet lake. He reaches his tiny paw toward the moon, wishing he could touch it.\n\nA gentle breeze moves through the grass and fireflies sparkle around him. Milo suddenly notices a beautiful glowing feather floating down from the sky. His eyes widen with wonder.\n\nCamera: Slow cinematic push-in toward Milo, then tilt upward toward the glowing moon.\n\nMood: Magical, peaceful, emotional."
+}
