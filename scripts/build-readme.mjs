@@ -134,6 +134,14 @@ const [readme, catalogSource] = await Promise.all([
   readFile(readmeFile, 'utf8'),
   readFile(catalogFile, 'utf8'),
 ]);
+for (const requiredLink of [
+  'https://beatapi.io/minimax-h3-prompts',
+  'https://beatapi.io/minimax-h3-api',
+]) {
+  if (!readme.includes(requiredLink)) {
+    throw new Error(`README is missing required BeatAPI CTA: ${requiredLink}`);
+  }
+}
 const catalog = JSON.parse(catalogSource);
 const catalogEntries = catalog.prompts.filter(
   (entry) => entry.outputStatus === 'source-verified'
