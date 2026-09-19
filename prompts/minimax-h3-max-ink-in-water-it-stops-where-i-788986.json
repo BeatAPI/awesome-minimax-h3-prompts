@@ -1,0 +1,31 @@
+{
+  "slug": "minimax-h3-max-ink-in-water-it-stops-where-i-788986",
+  "title": {
+    "en": "Minimax H3 Max. Ink in water. It stops where I told it to.",
+    "zh": "Minimax H3 Max. Ink in water. It stops where I told it to."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 action prompt with attached video evidence from @GlennHasABeard.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动作提示词。"
+  },
+  "category": "action",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "7:4",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@GlennHasABeard",
+    "url": "https://x.com/GlennHasABeard/status/2100206062225788986"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/GlennHasABeard/status/2100206062225788986"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-max-ink-in-water-it-stops-where-i-788986/video-1136b269d01f.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-max-ink-in-water-it-stops-where-i-788986/poster-c1e56d7bee9c.jpg",
+  "prompt": "\"the top third of the water never darkens\"\n\nDuration: 15s. Camera: locked, glass height.\n\nDiffusion wants to fill the glass. A boundary written as a fraction of the container is one it can measure against."
+}

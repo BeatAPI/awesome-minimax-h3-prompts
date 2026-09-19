@@ -2,7 +2,390 @@
 
 [Back to the full gallery](../../README.md) · [Catalog index](../README.md)
 
-## 1. Minimax H3 in
+## 1. High-Fashion Avant-Garde (The Architectural Organza) A performer steps into a
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/high-fashion-avant-garde-the-architectural-organza-a-performer-steps-204066/video-462540f7feaa.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/high-fashion-avant-garde-the-architectural-organza-a-performer-steps-204066/poster-0ed0975cf82f.jpg" alt="High-Fashion Avant-Garde (The Architectural Organza) A performer steps into a video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — High-Fashion Avant-Garde (The Architectural Organza) A performer steps into a sharp, structural spotlight. Their attire instantly transforms into thousands of rigid, micro-pleated...</summary>
+
+~~~~text
+High-Fashion Avant-Garde (The Architectural Organza) A performer steps into a sharp, structural spotlight. Their attire instantly transforms into thousands of rigid, micro-pleated charcoal fabric layers. The material expands outward into a high-fashion gown with exaggerated geometric angles that mimic modern skyscrapers.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/high-fashion-avant-garde-the-architectural-organza-a-performer-steps-204066/video-462540f7feaa.webm)
+
+**Source:** [@PCasino73066](https://x.com/PCasino73066/status/2099734057609204066) · 10s · 2:3 · fashion
+
+---
+
+## 2. Try it →
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-017874/video-3ad031a973c5.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-017874/poster-be615d69a5c5.jpg" alt="Try it → video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a 15s, 16:9, 24fps high-energy K-pop girl-group fashion MV. Use the provided reference image as the ONLY character reference. ONE GIRL ONLY. Keep exactly the same face,...</summary>
+
+~~~~text
+Create a 15s, 16:9, 24fps high-energy K-pop girl-group fashion MV. Use the provided reference image as the ONLY character reference. ONE GIRL ONLY. Keep exactly the same face, facial features, hairstyle, hair color, makeup, skin tone, body proportions, outfit, accessories, and long pink decorative nails throughout. No face swap, no outfit change, no body drift, no duplicate person.
+Style: K-pop Girl Group MV × Seoul Y2K × Pink K-fashion × Cute Luxury × Idol Fancam × Beauty Editorial. Mood: sweet-cool, playful, confident, fashionable, slightly sexy but not excessive, youthful but never childish. Strong pink palette: hot pink, baby pink, blush pink, glossy white, chrome silver, small amount of black.
+Location: bright sunny Seoul fashion street inspired by Hongdae, Seongsu, Apgujeong and pink pop-up stores, with pink storefronts, cafés, Korean photo booths, chrome decor, blue sky and distant pedestrians. Stay in one coherent district.
+Generate an original English K-pop song, Bubblegum K-pop × Y2K Pop × Light Hyperpop × Dance Pop, around 150 BPM, punchy kick, bouncy bass, bright synths, claps, digital bells, sparkling electronic sounds and clean beat transitions. Sweet clear idol-style female vocal. No dialogue, no meaningless “ah/woo”. Accurate lip-sync at all times.
+0–1.7s: extreme close-up fisheye beauty shot, direct eye contact, one hand lightly holding collar, other hand sliding near chin, cool expression → eyebrow lift → slight head tilt → sweet smile, quick micro push-in, tiny pink sparkle near eye.
+1.7–3.3s: point one finger toward lens, exaggerated wide-angle fingertip, slight forward lean, one shoulder beat accent, pink fingertip trail drawing a small heart, slight camera tilt.
+3.3–5s: hands near face, fingers tracing outward, cool face → wink → smile, gentle head turn, natural hair movement, brief pink sparkle/chrome heart/photo-booth stickers.
+5–6.7s: quick side turn, S-curve body, look back while singing, hair flip, other hand on waist, fast side orbit, short pink glitter trail.
+6.7–8.3s: cute beat, two quick cat-paw gestures left→right, nose scrunch→wink, brief pink doodle cat ears, camera dips then returns.
+8.3–10s: finger heart beside face, other hand points to self then camera, strong lip-sync, gaze locks lens, slight pull-back, one semi-transparent pink heart pulse.
+10–11.7s: big heart above head, sway left→right once, low-angle fisheye, chrome hearts and glitter rise upward.
+11.7–13.3s: move close to lens, one hand near mouth as if singing secretly, glance aside then back, playful smile, camera rotates 5–10°, brief pink handwriting/stars/chrome hearts/photo-booth doodles.
+13.3–15s: ending fairy, step back, hands open near face, switch to one finger heart near lens, other hand on chest, final lyric, laugh→wink→head tilt freeze, burst of hot-pink hearts, chrome stars, butterflies, glitter and Y2K stickers, then settle.
+Camera: 12–14mm fisheye + beauty fancam look, close-range, beat-synced micro push, side orbit, low angle, slight pull-back, tilt and subtle rotation. Every shot must use a NEW gesture, NEW expression, NEW body pose and NEW camera move.
+Effects appear only after actions and disappear within 0.3–0.8s. No cyberpunk, no magic blasts, no full-screen effects.
+Strictly avoid repeated gestures, repeated finger hearts, repeated push-ins, looping motion, frozen mouth while singing, face change, outfit change, second person, extra limbs/fingers, fused fingers, facial distortion, excessive smoothing, excessive motion blur, subtitles, lyric text, logo, watermark, childish style or schoolgirl styling.
+Final result: real K-pop comeback teaser energy — Pink. Pretty. Playful. Idol-level. 💗
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-017874/video-3ad031a973c5.webm)
+
+**Source:** [@ImaStudio_ai](https://x.com/ImaStudio_ai/status/2099704458209017874) · 15s · 16:9 · fashion
+
+---
+
+## 3. Created with MiniMax H3 on
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-401562/video-9e801624de46.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-401562/poster-eeb787686e50.jpg" alt="Created with MiniMax H3 on video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create an elegant motion-graphics-driven personality reveal short in 16:9, exactly 15 seconds, 24fps. Sole visual reference is the attached image. Preserve the kitten exactly:...</summary>
+
+~~~~text
+Create an elegant motion-graphics-driven personality reveal short in 16:9, exactly 15 seconds, 24fps.
+Sole visual reference is the attached image. Preserve the kitten exactly: fluffy soft orange tabby fur, large expressive eyes with the same shape and color, soft pink nose, long white whiskers, and overall proportions. Never redesign the face structure, fur pattern, or colors.
+The kitten’s pose and expression must change in every shot — never keep the tongue-out + peace-sign pose from the reference. Allow full natural range of cute, lively movements.
+
+Film is 75% bold yet soft graphic design in motion and 25% gentle character performance.
+Giant kinetic typography, hard-edged pastel shapes, soft split-screens, flat color fields, floating feather and yarn motifs, petal-like fur tufts, soft shutter flashes, and elegant speed lines.
+
+Palette: warm cream, soft peach, dusty rose, light golden yellow, soft sage, pure white.
+Style: premium AAA motion-graphics title sequence × dreamy lifestyle campaign. Every graphic moves with graceful momentum and snaps cleanly on the beat. Cozy elements (yarn balls, soft feathers, wooden window frames, floating dandelion seeds, gentle leaves) appear only as abstract graphic layers or soft atmosphere.
+CUT 01 | 0.00–1.10s
+Pure graphics: massive soft-peach circle blooms on cream field, two translucent rose bars wipe across, floating feather particles sparkle; elegant letters punch in one after another with gentle impact shake.
+
+CUT 02 | 1.10–2.20s
+Final letter becomes a soft circular frame: extreme close-up of the kitten’s eye inside it, blinking slowly and curiously; soft warm flash, circle dissolves into drifting peach and cream fur tufts.
+CUT 03 | 2.20–3.40s
+Cream frame with enormous soft-peach typography; the kitten walks lightly in from frame left with relaxed posture, then sits and tilts its head, delicate speed lines and soft feather trails following, letter fragments lifting like confetti. Soft whip-pan out.
+
+CUT 04 | 3.40–4.50s
+Split-screen triptych of flat peach / white / soft-sage panels; in each panel the kitten performs different gentle poses in soft stroboscopic freeze: curious head tilt, full body stretch with paws forward, playful side glance. Huge vertical text CURIOUS scrolls slowly behind.
+CUT 05 | 4.50–5.80s
+The kitten rises through a giant slowly rotating ring of typography reading LITTLE WANDERER; camera tracks its soft mid-air leap in gentle slow motion as letters scatter like petals, then soft snap-zoom on its bright, happy face with mouth closed and eyes sparkling.
+CUT 06 | 5.80–7.00s
+Hard cut: white editorial card, huge soft black word PLAY with dusty-rose slash; the kitten rolls onto its back over the word, all four paws in the air in a pure belly-up stretch, then bats playfully at the letter; the word gently compresses and rebounds with a soft bounce.
+
+CUT 07 | 7.00–8.20s
+Soft sage field with gentle diagonal peach stripe; the kitten performs a light graceful spin and pounce along the stripe in three soft ghost frames, each tinted a different warm pastel; giant outlined text SPIN rotates 180 degrees in perfect sync.
+CUT 08 | 8.20–9.40s
+Kinetic type barrage: the words SOFT / BRIGHT / WARM / JOY appear one per beat with soft shutter flashes and light camera sway, while the kitten trots across the foreground with tail up, then suddenly stops and looks up with wide curious eyes, tiny feather particles bursting from its paws.
+CUT 09 | 9.40–10.60s
+Soft cream frame, giant white wireframe circle grid tilting gently in 3D; the kitten steps lightly onto the grid, sits tall and proud, then raises one paw in a gentle reaching gesture as everything freezes; a soft-peach circle stamps around the pose with delicate bracket accents and floating yarn ticks.
+
+CUT 10 | 10.60–11.80s
+Freeze releases into a soft burst: the kitten drifts toward camera through layered flat-color panes that dissolve one by one like silk, each pane revealing a bigger letter of a playful motif; foreground wipe with a soft paw and a swirl of feathers.
+CUT 11 | 11.80–13.00s
+Rapid-fire poster montage: four full-screen graphic posters of the kitten in different elegant poses (mid-stretch, soft landing, proud sit, gentle side glance) snap past with clean cuts, each with bold yet soft layout, oversized numbers 01–04, yarn motifs and gentle diagonal lines.
+CUT 12 | 13.00–14.20s
+Hero moment on clean cream cyclorama: the kitten lands a final soft jump dead center in slow motion, settles into a relaxed sit with a slow content blink and soft closed-mouth smile, and a shockwave of concentric soft-peach rings, gentle wind streaks and shattered pastel typography blooms outward; brief iconic freeze, then soft overexpose to white.
+
+CUT 13 | 14.20–15.00s
+Final identity card: enormous soft-peach word dominates pale cream field with translucent rose rings, delicate arcs, soft halftone and a rough circular emblem containing a ghosted yarn/feather motif; the kitten sits relaxed overlapping the letters, soft breeze rippling its fur; one last soft-peach pulse sweeps through the typography and a delicate feather-ring flash ends the film.
+Editing: extremely rhythmic yet elegant — clean hard cuts on every beat, graphic matches, soft whip pans, gentle snap zooms, soft stroboscopic freezes, foreground feather wipes, light warm flashes, impact shakes and subtle speed ramps. Every cut compositionally different; typography always fully readable before the kitten overlaps it.
+No weapons, combat or harsh elements; energy comes from motion design, soft wind, feathers, light dissolves and the kitten’s graceful, varied lifestyle movements.
+
+BGM: catchy upbeat soft electronic / future-pop with bright melodic hooks, punchy but gentle drums, attractive drops, risers and sparkling fills locked to every cut. Soft paw steps, whooshes, feather bursts and typography impacts are rhythmic sound-design elements. Peak energy at CUT 12, close with a bright memorable soft logo stinger.
+Premium AAA quality, soft cinematic rendering, stylish and luminous, strong graphic-design identity, consistent character design, exactly 13 cuts.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-401562/video-9e801624de46.webm)
+
+**Source:** [@Chaemate_](https://x.com/Chaemate_/status/2099698470500401562) · 15s · 7:4 · fashion
+
+---
+
+## 4. Try it →
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-160503/video-f8170d9fad12.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-160503/poster-af392992ef4d.jpg" alt="Try it → video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a 15-second, 16:9, 24fps high-energy Korean idol character reveal trailer with exactly 13 distinct cuts. STYLE: Sexy Korean Idol Campaign × Luxury Fashion Editorial × AAA...</summary>
+
+~~~~text
+Create a 15-second, 16:9, 24fps high-energy Korean idol character reveal trailer with exactly 13 distinct cuts.
+STYLE:
+Sexy Korean Idol Campaign × Luxury Fashion Editorial × AAA Motion Graphics × Scarlet Red Concept Film.
+Theme: SCARLET RIOT
+Initials: SR
+Tagline: TOO HOT TO STAY STILL.
+CHARACTER LOCK:
+Use the uploaded woman as the only identity reference. Keep the exact same face, facial proportions, skin tone, body proportions, hairstyle silhouette, age impression and Korean idol aura throughout.
+She is a young adult East Asian woman with a refined small face, fair natural skin, long dark-brown hair, airy bangs and a clean but slightly sharp gaze. Her mood is sexy, cold, confident, elegant, expensive and slightly rebellious.
+Do NOT inherit the original light-blue outfit, skirt, white platform boots or white bag.
+WARDROBE:
+One fixed premium red fashion look throughout:
+deep cherry-red fitted corset top, cropped burgundy structured blazer worn open or loosely on the shoulders, high-waisted black/red mini skirt or tailored shorts, burgundy or black over-the-knee boots, gold earrings, delicate necklace, rings and bracelet.
+Sexy through shoulders, collarbone, waistline, long legs, tailoring, gaze and posture — never vulgar or overly revealing.
+SCENES:
+Use multiple coordinated environments:
+cream luxury studio, cream vintage car interior, white farmhouse exterior, country road beside green fields, deep-red editorial studio, golden-hour window interior, red curtain/mirror fashion set, vintage roadside set at dusk.
+All scenes must share one cohesive red / cream / golden-hour fashion world.
+VISUAL RATIO:
+80% motion graphics, 20% character performance.
+Use giant kinetic typography, scarlet circles, hard-edged shapes, red plaid fragments, torn paper, gold foil stamps, scan lines, film sprockets, halftone, technical grids, crosshairs, split screens, light leaks, sun flares, shutter flashes and graphic wipes.
+Palette:
+Scarlet Red, Cherry Red, Burgundy, Cream, Ivory, Champagne Gold, Black, with tiny Sage Green / Sky Blue accents.
+No purple-blue neon.
+CUTS:
+01 cream studio, giant scarlet circle, gold bars, S then R slam in; quick flashes of lips and eyes.
+02 vintage car, R becomes window frame, extreme face close-up, she shifts gaze to camera, light-leak burst.
+03 deep-red studio, giant SR, she walks from behind the letters, hand on blazer, gold dust and red ribbons.
+04 triptych: farmhouse look-back / field hair toss / red-studio lean; SCARLET HOUR scrolls behind.
+05 mirrored red studio, rotating ring: SOFT LIGHT / HARD STARE / SCARLET FEVER; slow turn, ring explodes, snap zoom to eyes.
+06 golden-hour window, giant SCARLET; she touches the S, paper-like compression, sun flare across face.
+07 country road, low-angle turn, three red ghost frames, outlined TURN rotates 180°.
+08 black-red studio, HOT / SHARP / CHIC / WILD hit one per beat with shutter flash and impact shake.
+09 farmhouse becomes white wireframe on black; red target circle, gold technical lines and crosshair lock around her.
+10 vintage car, she leans forward; red/black/cream panes shatter to reveal S → R → SR.
+11 four rapid editorial posters: 01 car-window profile, 02 red studio, 03 farmhouse turn-back, 04 cream studio seated pose.
+12 cream hero studio climax: she stands center, blazer open, chin lifts; scarlet rings, flare, gold dust, black type and red paper explode outward. Title: SCARLET RIOT.
+13 final identity card combining previous visual motifs. Huge SR behind her. Final title: SCARLET RIOT. Tagline: TOO HOT TO STAY STILL. Scarlet pulse, gold-ring flash, freeze, hard cut to black.
+PERFORMANCE:
+No full dance. Use side turn, look-back, eye lift, hair toss, blazer touch, slight lean, one step, chin lift, controlled closed-mouth smile.
+Quiet power: the character stays calm while graphics explode around her.
+CAMERA:
+35mm environment/full-body, 50mm portraits, 85mm details.
+Use snap zooms, fast push-ins, whip pans, controlled low angles and graphic match cuts. Keep the camera stylish and controlled.
+LIGHT:
+Cream soft light × deep-red edge light × golden-hour sunlight. Real skin texture, detailed fabric, leather, metal and gold jewelry.
+AUDIO:
+Fashion electronic × Future Bass × Dark Pop × Hybrid Trailer Beat. Heavy bass, risers, shutter clicks, paper snaps, metallic hits, glass breaks, fabric whooshes and gold-foil stamp sounds. Peak at CUT 12.
+NEGATIVE:
+No face drift, hairstyle change, character replacement, original blue outfit, random wardrobe change, vulgar sexuality, body morphing, extra people, anime, 3D cartoon, cyberpunk, cheap nightclub look, random scenes, messy or unreadable text, logos, subtitles, UI or watermark.
+FINAL FEEL:
+One locked Korean-idol heroine × premium scarlet fashion styling × multi-scene luxury editorial × AAA motion graphics × strong SR branding. High-end, cold, vivid, artistic and campaign-ready.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-160503/video-f8170d9fad12.webm)
+
+**Source:** [@ImaStudio_ai](https://x.com/ImaStudio_ai/status/2099338772081160503) · 14s · 16:9 · fashion
+
+---
+
+## 5. Made with MiniMax H3 on
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-on-206139/video-06dfb3bbf918.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-on-206139/poster-d6f6ecebdc38.jpg" alt="Made with MiniMax H3 on video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — FORMAT: 15s | 16:9 | continuous cinematic sequence CONCEPT: Dark-fantasy sword duel inside a gigantic floating liquid-obsidian mirror surrounded by a pure white void. Reflections...</summary>
+
+~~~~text
+FORMAT: 15s | 16:9 | continuous cinematic sequence
+
+CONCEPT: Dark-fantasy sword duel inside a gigantic floating liquid-obsidian mirror surrounded by a pure white void. Reflections briefly move independently, creating deceptive attacks.
+
+CHARACTER LOCK:
+Obsidian Ronin: exact reference design, horned kabuto, black mane, dark/gold armor, heavy katana. Heavy, controlled, powerful.
+Inkshade Valkyrie: exact reference design, porcelain face, two-tone hair, silver-black gothic armor, dissolving cloak, twin blades. Fast, aerial, unpredictable.
+No redesign.
+
+STYLE: Luxury dark-fashion aesthetic, glossy black mirror, silver highlights, smoke, cracks, particles, cinematic motion blur. No blood, gore, guns, battlefield, idle poses, teleportation, hard cuts, or freeze frames.
+
+0–3s
+
+White void. Black mirror materializes and ripples. Ronin and Valkyrie emerge from opposite reflections and collide immediately. Huge ripple; reflections continue fighting independently.
+
+3–6s
+
+Low camera sweep. Ronin heavy slash → Valkyrie ducks and spins → reflections counter from opposite directions → Ronin blocks → Valkyrie X-slash. Cracks spread across mirror.
+
+Smoke forms: REAL OR REFLECTION? then shatters.
+
+6–9s
+
+Mirror turns vertical. Both run across it. Ronin overhead strike → Valkyrie aerial dodge → lands behind him → Ronin pivots and blocks. Blades lock; mirror bends like liquid glass. Shockwave separates them.
+
+9–12s
+
+Mirror explodes into floating fragments containing distorted reflections. Ronin and Valkyrie leap through them, destroying reflections. Fragments align into a giant black blade shape.
+
+Smoke forms: BREAK THE IMAGE → Valkyrie slices through it.
+
+12–15s
+
+Brief stillness. Fragments rush together. Both charge. Ronin’s diagonal katana strike and Valkyrie’s spinning twin-blade cross attack collide center-frame.
+
+Mirror shatters into thousands of particles. Music cuts to silence.
+
+Smoke forms: ONLY ONE REMAINS. Their silhouettes fade as the white void consumes everything.
+
+MOTION: Constant action, clear impact/consequence, natural hair/cloak/particle physics.
+CAMERA: Smooth orbit → low sweep → rapid rotation → dramatic final push.
+AUDIO: Dark electronic-orchestral score, bass, cello, metallic impacts, blade whistles; silence at final collision.
+
+FINAL LOOK: Elegant, aggressive, surreal dark-fashion sword cinema.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-on-206139/video-06dfb3bbf918.webm)
+
+**Source:** [@itxabdullaa](https://x.com/itxabdullaa/status/2099115096937206139) · 15s · 16:9 · fashion
+
+---
+
+## 6. Try it 👉
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-506178/video-307340b8e049.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-506178/poster-4c62e3974539.jpg" alt="Try it 👉 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a 15-second, 16:9, 24fps ultra-photorealistic live-action Y2K fashion film blended with one pure 2D manga fairy. HIGHEST-PRIORITY RULES Exactly TWO characters: ONE...</summary>
+
+~~~~text
+Create a 15-second, 16:9, 24fps ultra-photorealistic live-action Y2K fashion film blended with one pure 2D manga fairy.
+HIGHEST-PRIORITY RULES
+Exactly TWO characters: ONE fictional 22-year-old Korean female idol + ONE tiny 2D manga fairy. No extras, duplicates, clones, motion-trail copies, or identifiable reflections.
+ZERO readable text or numbers anywhere: no captions, logos, labels, signs, UI, watermarks, license plates, posters, or environmental writing.
+CHARACTER LOCK
+Woman: elegant oval face, cool fair skin with realistic texture, almond eyes, glossy pink lips, extremely long silky straight black hair to the waist with thin bangs. Face, hair, proportions, makeup and wardrobe remain identical.
+Wardrobe: black satin cropped camisole with lace detail, cropped glossy motorcycle jacket loosely around her arms, black low-rise pleated micro skirt, silver waist chain/jewelry, black over-the-knee boots. Premium, sensual, sophisticated K-pop editorial.
+Fairy: tiny PURE 2D cel-shaded manga character with clean outlines, short black hair, elf ears, large pink eyes, pink-and-white cropped top, silver pleated skirt, translucent pink wings. Always flat 2D—never 3D, photorealistic, or humanized.
+ENVIRONMENT
+One continuous bright pink-and-ice-blue neon fashion studio. Black vintage convertible in the center, silver vanity mirror, transparent acrylic chair, chrome spheres, silver props, glossy floor. Style: K-pop comeback film × glossy Y2K campaign × cute high-energy MV.
+PHYSICAL CONTINUITY
+No teleportation, clipping, spawning, or passing through objects. Fairy must physically fly above, below, around, or beside the windshield, car, mirror, chair, props, and woman. Glossy surfaces show only abstract light, never recognizable reflections.
+SHOT FLOW
+0:00–0:01.5 — Low-angle wide shot. Only fairy is visible behind the wheel. She waves, opens wings on beat, flies vertically until fully above the windshield, exits through the open roof, half-spins, then flies toward the woman. Driver seat becomes empty.
+0:01.5–0:03.5 — Reveal woman leaning outside the car door, looking down while adjusting a ring. Fairy curves toward her shoulder and gives a TA-DA pose. The same woman raises her head, looks at fairy, then camera. Diagonal push-in from headlight.
+0:03.5–0:05.5 — Woman flicks one finger toward fairy on a sharp beat. Fairy reacts with one continuous half-spin to camera-right. Woman shifts into a mischievous smile. Fast side arc; car door briefly wipes foreground.
+0:05.5–0:07.5 — Fairy flies around the OUTER edge of the vanity mirror, never through it. Camera follows and finds the same woman seated on the acrylic chair. She crosses her legs and makes a tiny finger heart. Fairy hovers beside her face and imitates it. Woman smiles.
+0:07.5–0:09.5 — Woman opens her palm. Fairy descends continuously and visibly lands, feet making contact. Fairy poses proudly and copies woman’s head tilt. Woman pauses, then smiles warmly. Add a cute electronic bling; push from hand toward faces.
+0:09.5–0:11.5 — Fairy physically takes off from palm first. Woman stands and walks 2–3 confident steps toward center studio. Camera tracks backward with a lateral arc while fairy flies backward in front of her.
+0:11.5–0:13.0 — Woman strikes a sophisticated K-pop pose with convertible diagonally behind. She touches her long hair; fairy imitates fixing her own short hair. Woman notices and breaks into a smile. Slight low-angle push-in.
+0:13.0–0:14.5 — Medium close-up. Woman makes a finger heart near her face while holding her hair. Fairy hovers beside her, wings open, cheerful double-V pose. Both look into camera. Final beat triggers ONE camera flash without washing out the studio.
+0:14.5–0:15.0 — Freeze the ACTUAL previous frame. No new photo, card, border, or white background. Keep neon studio, car, silver props and depth visible. Add only 4–6 small clean pink hearts/stars/sparkles near the corners, inside frame, never covering either character.
+CAMERA & PERFORMANCE
+Use low angles, diagonal views, subtle ultra-wide shots, foreground occlusion, mirror framing, curved push-ins, short tracking, gentle rises/drops. Avoid repetitive static frontal framing.
+Emotion: cool fashion pose → curiosity → playful interaction → amused smile → joyful final pose. Natural, confident, star-like, never childish.
+MUSIC
+Bubblegum Pop × Kawaii Pop × Y2K Dance Pop, 125–135 BPM, punchy drums, bouncing bass, crisp claps, sparkling synths. Sync wing opening, finger flick, fairy spin, finger-heart, palm landing, takeoff, hair imitation, final pose and camera flash to major beats.
+NEGATIVE
+No second human/fairy, duplicates, face drift, hairstyle/color/costume changes, malformed hands, clipping, teleportation, 3D or photorealistic fairy, white ending, Polaroid/frame/PIP, chaotic doodles, readable text, letters, numbers, logos, subtitles, labels, UI or watermarks.
+
+#AIVideo #ImageToVideo #Kpop #Manga #Y2K #AIFilmmaking #ImaStudio
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-506178/video-307340b8e049.webm)
+
+**Source:** [@ImaStudio_ai](https://x.com/ImaStudio_ai/status/2098359007442506178) · 15s · 8:9 · fashion
+
+---
+
+## 7. Here are the results below
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/here-are-the-results-below-878412/video-f86aa209a99b.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/here-are-the-results-below-878412/poster-785339fda00a.jpg" alt="Here are the results below video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — subject_definitions: &lt;Subject 1&gt; is the stylized sorceress in &lt;Picture 1&gt;, featuring an asymmetrical silver-white bob cut, violet star-ring eyes, an obsidian moon pendant, a...</summary>
+
+~~~~text
+subject_definitions: <Subject 1> is the stylized sorceress in <Picture 1>, featuring an asymmetrical silver-white bob cut, violet star-ring eyes, an obsidian moon pendant, a high-collared velvet coat with embroidered gold constellations, and a thin gold rimless monocle over her left eye. Preserve her exact facial identity, celestial wardrobe, hair silhouette, monocle placement, body proportions, and semi-realistic stylized 3D CG aesthetic. summary: [reference generation] This is one complete 15-second, 16:9, 2K CELESTIAL NOIR character PV centered on <Subject 1>. Fourteen uneven visual beats transition from quiet astrological observation into dynamic spell-casting visuals, geometric celestial rings, and a final portrait freeze. The color palette centers on midnight navy and obsidian black, highlighted by bright violet eye emissives, shimmering metallic gold, and moonlit ivory. retention_analysis: <Subject 1> (appears in [Shot 1] through [Shot 14]): fully_preserved - maintain exact face structure, silver-white asymmetrical hair, violet star-patterned eyes, moon pendant, monocle, constellation-embroidered coat, proportions, and stylized 3D lighting in every frame. detailed_description: The target video uses an editorial gothic-astronomy PV style with sharp cell-shaded textures and metallic particle systems. The background consists of abstract, moving star charts and geometric celestial spheres free of real-world brands, copied faces, or source-image text. [Shot 1] A centered bust shot introduces <Subject 1>. She looks down toward a hovering golden astrolabe while the exact title "CELESTIAL TIDE" rises behind her in gold serif typography. [Shot 2] At 00:00.650, a geometric circle aligns with her monocle lens, zooming into an extreme close-up of her left violet eye as star-shaped pupil patterns rotate. [Shot 3] At 00:01.300, she taps the monocle frame with her gloved forefinger. The camera arcs smoothly left while a shimmering gold constellation line connects to the edge of the frame. [Shot 4] At 00:02.100, the constellation line snaps into the graphic label "PHASE_01". The camera tilts down as her obsidian moon pendant releases a soft purple pulse. [Shot 5] At 00:02.900, she spreads her velvet coat sleeves in a wide horizontal gesture. The frame cuts instantly to a dark midnight field while her sweeping motion carries the camera horizontally. [Shot 6] At 00:03.700, a vertical black bar reveals her in profile. She turns her head toward the camera, her asymmetrical hair swaying with natural momentum as a golden moon-phase graphic appears behind her silhouette. [Shot 7] At 00:04.600, a three-panel vertical split breaks her gaze, her pendant, and the astrolabe into distinct close-ups that slide downward in unison. [Shot 8] At 00:05.500, the panels collapse outward as she snaps her fingers. Concentric violet magic rings expand across the frame alongside the exact label "PHASE_02". [Shot 9] At 00:06.400, the camera pushes through the innermost ring directly toward her face, punctuated by a two-frame golden lens flare. [Shot 10] At 00:07.300, the flare clears into a dynamic medium shot at a steep low angle. Golden starlight trails follow her arm as she draws an arc in the air. [Shot 11] At 00:08.300, the drawn arc turns into a full eclipse frame. The camera follows her coat sleeve dragging upward across the frame to wipe the scene. [Shot 12] At 00:09.400, a side-by-side dual panel pairs her focused expression with a close-up of her monocle reflecting golden star charts. [Shot 13] At 00:10.600, the dual panels merge into a tracking shot where she steps directly toward the camera, her hair floating gently in low gravity as "CELESTIAL" drifts behind her. [Shot 14] At 00:12.500, she brings a hand up to rest near her collarbone, looking serenely into the lens as the title locks into "CELESTIAL TIDE" for the final 2.5 seconds. Across all shots, preserve her exact face, eye color, hairstyle, monocle, coat, pendant, skin tone, and proportions. Do not include extra characters, random logos, unreadable text, or altered clothing. Only display "CELESTIAL TIDE", "PHASE_01", and "PHASE_02". Keep her facial features and key hand gestures unobscured. overall_soundscape: Deep cosmic wind resonance remains underneath metallic astrolabe clicks, velvet fabric rustles, a finger snap at 00:05.500, and a low gong impact for the final title lock at 00:12.500. Sound effects are subtle and secondary to the music score; no spoken voice lines are present. non_diegetic_music: A 120 BPM gothic electro-orchestral piece featuring harpsichord arpeggios, heavy cinematic sub-bass, and a haunting violoncello melody in D minor. Drums enter at 00:02.900, soaring strings peak at 00:07.300, and a bell toll resolves beneath the closing title card.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/here-are-the-results-below-878412/video-f86aa209a99b.webm)
+
+**Source:** [@IqrasaifiAI](https://x.com/IqrasaifiAI/status/2097314274095878412) · 30s · 540:811 · fashion
+
+---
+
+## 8. Anime fashion film with dance moves.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/anime-fashion-film-with-dance-moves-119410/video-ccb829c99c45.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/anime-fashion-film-with-dance-moves-119410/poster-a17c60424d5f.jpg" alt="Anime fashion film with dance moves. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — 15-second experimental anime fashion film. Use @[character reference] for the character’s exact identity, outfit and rendering style. A pristine, uniform lemon-yellow cyclorama...</summary>
+
+~~~~text
+15-second experimental anime fashion film. Use @[character reference] for the character’s exact identity, outfit and rendering style. A pristine, uniform lemon-yellow cyclorama with a seamless matte floor. Flat, clean yellow throughout, free of grain, gradients and set dressing. 16:9. No text or logos.
+
+The character performs one fast, unconventional dance phrase: ankles weave while the torso stays suspended, a wrist flick ripples through both elbows into a chest pop, knees fold into a low corkscrew pivot, then a heel swivel unwinds the body into an off-balance editorial pose. Continue through asymmetric shoulder rolls, angular arm threading around the face and a sideways glide with the head counter-rotating toward the lens. Every sharp lock immediately releases into another surprising movement. Convincing weight, precise foot contact and expressive follow-through.
+
+Electric cyan and hot pink dominate the motion effects. Bold, opaque silhouette afterimages peel away from opposite sides of the body, replay the previous gesture a fraction late and slam back into alignment on each pose. Arm sweeps stretch them into broad curved ribbons; crossing steps weave pink and cyan trails around the ankles; rapid turns fan out overlapping screen-print impressions. At the strongest accents, oversized cyan and pink cutouts of the current pose slide across the foreground, briefly masking the lens. Keep the real character crisp and recognizable, with clean yellow visible between effect bursts.
+
+The camera dances in counterpoint: skim backward at ankle height through advancing footwork, whip upward around an outstretched wrist into an extreme face close-up, then use the passing forearm to cut into a rotating overhead view of the low pivot. Dive to a tilted low-angle full-body composition as the character rises. Orbit opposite the sideways glide, exaggerating hands and feet near the wide lens. Accelerate between compositions and brake hard on pose locks.
+
+Finish with a sudden forward lean toward the lens while enormous pink and cyan echoes continue leaning farther, sweeping past both sides of the camera. Snap wide: the character lands a final asymmetric pose as the colored echoes collapse precisely into the silhouette. Hard cut to black.
+
+170 BPM broken beat, syncopated accents, fluid animation and razor-fast camera transitions. No slow motion or prolonged holds.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/anime-fashion-film-with-dance-moves-119410/video-ccb829c99c45.webm)
+
+**Source:** [@aimikoda](https://x.com/aimikoda/status/2097001707683119410) · 15s · 16:9 · fashion
+
+---
+
+## 9. created with MiniMax H3 on
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-614134/video-a8a83565a196.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-614134/poster-ba4d0ea8b5bd.jpg" alt="created with MiniMax H3 on video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a 15-second animated art piece centred on Feluda. This is not a movie scene, narrative, trailer or credit sequence; it is a rapid music-driven moving poster combining...</summary>
+
+~~~~text
+Create a 15-second animated art piece centred on Feluda. This is not a movie scene, narrative, trailer or credit sequence; it is a rapid music-driven moving poster combining elegant 2D illustration, subtle 2.5D depth, limited animation, kinetic typography, clean paper collage and hard editorial geometry. No live action, photorealism, childish cartooning, dirty grunge, excessive neon or cyberpunk. Palette: ink black, warm ivory, vermilion, charcoal, brass gold, taxi yellow and minimal dark emerald. Use curated fragments of a clean heritage study, frosted-glass corridor, abstract space, archival-paper world and cropped taxi interior. Never show wide Kolkata streets, crowds, buildings, markets or messy signage. Feluda is an original illustrated interpretation, not resembling any actor: tall, lean, athletic Bengali detective in his early thirties, sharp jaw, intelligent dark eyes, swept-back black hair, tailored cream kurta, charcoal Nehru waistcoat, narrow black trousers and brown shoes. Keep him identical throughout. His movements are restrained and confident. Typography is the main expressive element, never a subtitle, credit or description of the visible action. It represents Feluda’s identity, intellect, origin and journeys. Text exists as independent spatial motion-design layers, never printed or projected on props, walls, cars, paper or characters. Place letters behind, beside and occasionally before Feluda using clean occlusion. Every typography moment needs a different type style, scale and reveal effect within one premium system. [Shot 1] Feluda emerges in a controlled medium portrait from black; only teak, ivory geometry, frosted glass and a brass lamp appear. Giant ultra-condensed typography "PRADOSH C. MITTER" enters left-to-right. Thin letters expand on kick beats and lock behind him. Vermilion outlines trace selected edges. Hold one beat, then compress into a horizontal line exiting right. [Shot 2] At 00:01.800, the line becomes a modular grid. Feluda walks through a minimal corridor as an umbrella silhouette passes behind frosted glass. Monospaced typography "21 RAJANI SEN ROAD" types in at different heights, then snaps into one address block. Red measurement marks and non-readable layout lines move around it. Panels flip forward on the snare. [Shot 3] At 00:03.600, panels reveal a graphic close portrait surrounded by abstract magnifying circles, watch rings and an eye diagram. Feluda raises one finger near his temple. Heavy optical typography "MAGAJASTRA" explodes from a central point, rotates around a circular mask, refracts and snaps into a straight line behind him. A red line slices through the letters; their halves slide apart. [Shot 4] At 00:05.400, transform into premium paper collage: crisp ivory paper, black ink, vermilion strips, clean halftones, route contours, compass arcs, umbrella silhouettes and watch circles. No dirty newspaper or brown distressed texture. Feluda becomes an articulated paper-cut figure. Letterpress typography "SANDESH / 1965" assembles from separate paper letters and stamped numbers. For a subtle Satyajit Ray tribute, a fountain-pen stroke draws a black circle that becomes a minimal six-blade camera aperture and releases one warm ray of light. Do not copy a portrait, signature, poster or logo. The aperture closes into a circular wipe. [Shot 5] At 00:07.500, reveal an abstract journey montage, not literal locations: cropped yellow Ambassador door, rotating umbrella, train-window rectangle, desert-gold geometry, ivory ghat steps and dark-emerald mountain contours. Travel typography "CALCUTTA / JAISALMER / BENARAS / GANGTOK" uses elegant passport-stamp and fashion-editorial lettering. Each place enters on a percussion hit, overlaps briefly, then aligns into one route. A red line moves left-to-right through the words as Feluda crosses between text layers, then pulls everything right. [Shot 6] At 00:09.800, enter a deep-black abstract space. Feluda stands calmly while optical circles, paper and brass geometry move behind him. Narrow vermilion serif typography "THE MIND" slides from the left. On the bass hit, enormous modular ivory typography "IS THE WEAPON" assembles behind and around him as one phrase. Alternate condensed and extended letterforms; pass parts behind his head and before one shoulder. Black masks reveal sections, red bars cut across, and tracking pulses with hi-hats. Feluda makes a subtle temple gesture and half-smiles without speaking. Hold one beat, then fragment the phrase. [Shot 7] At 00:12.300, fragments form a gallery-poster composition. Feluda stands off-centre against ivory, surrounded by abstract umbrella, taxi fragment, magnifying circle, watch ring, pen line, train window and journey contours. Final typography "FELUDA" begins as a black ink stroke moving left-to-right, straightens into construction lines, then is revealed letter-by-letter by vermilion blocks. Create an original custom wordmark with optical cuts, paper edges, extended bars and controlled halftone details while keeping it perfectly legible. Place it monumentally behind Feluda. A magnifying circle crosses the foreground once. Lock everything on the final beat, hold 0.8 seconds, then hard cut to black. Use exactly the seven quoted typography compositions above. Preserve all spelling, capitalization, punctuation and numbers. Each appears once. Never repeat, mirror or scatter complete words. Generate no other readable text, credits, subtitles, book or newspaper writing, signs, labels, logos, Bengali, Japanese or Chinese text, or random characters. Use only hard beat-synced transitions: slit reveals, line compression, grid breaks, panel flips, optical refraction, split letters, paper assembly, aperture wipes, route-line pulls, object masks, geometric fragmentation and ink-to-vector transformation. No dissolves, liquid morphs, dreamy glow, glitch spam, random zooms or shake. Sound effects act as percussion: lamp click, grid snaps, umbrella mechanism, watch ticks, paper cuts, letterpress impacts, taxi-door compression, short train-wheel rhythm, fountain-pen movement and one restrained tram bell. Sync each sound to a visual change. Create an original 150 BPM Bengali detective jazz-trap instrumental for an animated art piece: upright-bass riff, dry kick, crisp snare, controlled trap hi-hats, muted trumpet, vibraphone, restrained tabla ghost hits, pizzicato strings and a minimal plucked motif. Intelligent, agile, urban and stylish; never frightening, cheerful, heroic or aggressive. Do not imitate any existing Feluda or Satyajit Ray melody. Bass drives large type, snares trigger masks and hi-hats assemble letters. Briefly drop the kick during paper collage, restore full bass for the journey, reduce to watch ticks and bass at "THE MIND", then hit strongly for "IS THE WEAPON". End with one unified bass, snare and vibraphone hit followed by the final hold.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-614134/video-a8a83565a196.webm)
+
+**Source:** [@pewdenai](https://x.com/pewdenai/status/2096894572588614134) · 15s · 16:9 · fashion
+
+---
+
+## 10. Minimax H3 in
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-in-975646/video-a41f85105df7.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-in-975646/poster-7f4ee612296d.jpg" alt="Minimax H3 in video preview" width="700" />
@@ -57,7 +440,98 @@ QUALITY: Premium AAA cinematic × children’s-book illustration × fairy-tale m
 
 ---
 
-## 2. "integrated_multimodal_description: [Shot 1] Stylized 3D Pixar-animated look
+## 11. Create a 15-second high-fashion editorial film starring the adult character in
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/create-a-15-second-high-fashion-editorial-film-starring-the-956809/video-22071a11ffe2.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/create-a-15-second-high-fashion-editorial-film-starring-the-956809/poster-ecef0c4c6081.jpg" alt="Create a 15-second high-fashion editorial film starring the adult character in video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a 15-second high-fashion editorial film starring the adult character in @[char ref]. Preserve their exact appearance, outfit, accessories and visual style. Render the...</summary>
+
+~~~~text
+Create a 15-second high-fashion editorial film starring the adult character in @[char ref]. Preserve their exact appearance, outfit, accessories and visual style. Render the entire film in the reference’s aesthetic.
+
+Use a minimal studio with a reflective floor, bold directional lighting and rhythmic photographic flashes.
+
+Show exactly 10 distinct fashion poses, each with a different silhouette and camera angle:
+
+1. A confident standing pose, filmed from floor level with dramatic wide-angle perspective.
+2. One hand beside the face, captured in an extreme side-profile close-up.
+3. An asymmetric seated pose, seen directly overhead as the camera rotates.
+4. One leg extended toward the lens, the foot or reference footwear dominating the foreground through foreshortening.
+5. A quick, fluid leg cross, captured from a low diagonal angle.
+6. Fingertips catching the edge of an existing sleeve or collar, framed in a tight detail shot.
+7. A rear three-quarter turn with a deliberate glance back into the camera.
+8. A forward lean toward the lens, ending with the palm briefly covering it.
+9. An elongated upward stretch, revealed in a sharply tilted wide shot with strong side lighting.
+10. A commanding full-body hero pose, looking down into the lens as the camera rapidly pulls back.
+
+Keep the performance fast and rhythmically tight. Flow naturally between poses, holding each for only a fraction of a second while keeping its silhouette clearly readable. No repeated poses or additional pose changes.
+
+Connect angles through whip pans, movement-matched cuts, snap zooms, flashes and lens occlusions. Orbit against the character’s turn, sweep from their floor reflection toward their face and plunge from overhead to floor level. Alternate intimate details with dramatic wide compositions. Accelerate between poses and brake sharply on each hold.
+
+Keep the sensual gestures quick, confident and fully clothed. Hair and fabric react naturally. No slow motion, lingering shots or gradual camera drift. Build momentum toward the tenth pose, then stop sharply for a crisp final hold.
+
+Stable identity and anatomy throughout. No outfit changes, added accessories or text. Sound: a driving 140 BPM fashion beat, rhythmic shutter clicks and subtle fabric movement.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/create-a-15-second-high-fashion-editorial-film-starring-the-956809/video-22071a11ffe2.webm)
+
+**Source:** [@aimikoda](https://x.com/aimikoda/status/2096295356526956809) · 15s · 4:3 · fashion
+
+---
+
+## 12. Zodiac Transformation
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/zodiac-transformation-222142/video-01d8791aa176.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/zodiac-transformation-222142/poster-d5f5b2499e24.jpg" alt="Zodiac Transformation video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — [ZODIAC] = Sagittarius Use the provided character reference as the fixed identity, face, body proportions, hairstyle, and starting outfit. The sequence must begin with the...</summary>
+
+~~~~text
+[ZODIAC] = Sagittarius
+
+Use the provided character reference as the fixed identity, face, body proportions, hairstyle, and starting outfit. The sequence must begin with the character clearly wearing the exact clothing and overall look from the reference image. Start from the referenced outfit, then transform it into a celestial zodiac-inspired magical-girl form.
+
+Create a highly detailed cinematic transformation sequence with the energy of a classic 90s magical-girl anime metamorphosis, but rendered in high-end cinematic 3D realism fused with celestial fantasy spectacle. The transformation must feel elegant, iconic, elaborate and emotionally satisfying. It should not be a quick glow-up. It must be a full staged transformation with many visible steps and signature beauty shots.
+
+The transformation must be continuous and cumulative. Every new element remains once created. No random morphing, no disappearing parts, no resets.
+
+Transformation structure:
+1. Start with the character in the original reference outfit.
+2. Subtle astral energy appears: floating cosmic dust, soft light blooms, magical currents, constellation traces, luminous sigils, moonlike glow.
+3. The transformation begins in close-up stages: glowing lines travel across the body, fabrics flutter upward, ribbons of light wrap around arms, waist and legs, jewelry-like light forms at the wrists, chest and neck, shoes and gloves begin to reshape, accessories appear in flashes of celestial energy.
+4. The outfit evolves piece by piece in a detailed magical-girl transformation style. Skirt layers, sleeves, gloves, boots, ornaments, brooch-like centerpieces, shoulder details, celestial trims and zodiac motifs form one after another through radiant energy, crystal particles and flowing light bands.
+5. Hair, aura and silhouette become more divine and refined, while still preserving the original character identity.
+6. The final outfit must clearly express [ZODIAC]. The zodiac influence should be visible in the costume design itself through color palette, motifs, ornaments, shapes, textures, elemental energy and symbolic details. Do not rely only on a text label or a single zodiac icon. Make the sign readable through the full fashion language of the costume.
+7. End on a dramatic hero reveal of the fully transformed zodiac form.
+
+For [ZODIAC], translate the sign into the costume design and atmosphere. The final look should visibly communicate the sign’s essence. Example logic: Scorpio can use sleek segmented ornamentation, deep obsidian and crimson tones, subtle tail-like silhouette accents, venomous elegance, mysterious intensity and dangerous beauty. Other signs should also be reflected through equally clear visual symbolism in the transformed costume.
+
+High-end cinematic 3D realism fused with celestial fantasy spectacle. Brilliant magical currents bloom into radiant constellations, luminous sigils and flowing cosmic particles that illuminate every movement. The camera glides with graceful precision, then accelerates into dynamic celestial motion, orbiting the character, pushing through expanding energy rings, diving through layered light formations and emerging behind incoming magical effects in seamless transitions. Include iconic transformation shots such as close-ups of the eyes, hands, boots, accessories, silhouette reveals and full-body floating spins. Ethereal fog, layered volumetric light, shimmering atmospheric dust and physically based rendering create immense scale while preserving elegant silhouettes and feature-film realism.
+
+As the final reveal settles, elegant typography appears in the lower-left corner displaying exactly:
+[ZODIAC]
+
+The typography should feel refined, celestial and premium, with graceful high-contrast letterforms, subtle glow, delicate spacing and luxury fantasy title-design sensibility. Keep it clearly readable and naturally integrated into the frame. No additional text.
+
+End with the fully transformed character in a breathtaking zodiac-inspired celestial realm, wearing an evolved astral version of the original outfit, with the zodiac clearly expressed through the costume itself.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/zodiac-transformation-222142/video-01d8791aa176.webm)
+
+**Source:** [@aimikoda](https://x.com/aimikoda/status/2095946000070222142) · 15s · 16:9 · fashion
+
+---
+
+## 13. "integrated_multimodal_description: [Shot 1] Stylized 3D Pixar-animated look
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/integrated-multimodal-description-shot-1-stylized-3d-pixar-animated-look-093063/video-e08a8e78744e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/integrated-multimodal-description-shot-1-stylized-3d-pixar-animated-look-093063/poster-afc1b6a2c715.jpg" alt="&quot;integrated_multimodal_description: [Shot 1] Stylized 3D Pixar-animated look video preview" width="700" />
@@ -119,7 +593,7 @@ hard comedic sting as he reaches the door at 00:14.000."
 
 ---
 
-## 3. Canvas Try it →
+## 14. Canvas Try it →
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/canvas-try-it-182080/video-33a88ecdb8ea.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/canvas-try-it-182080/poster-e6374292d642.jpg" alt="Canvas Try it → video preview" width="700" />
@@ -169,7 +643,341 @@ No second human/fairy, duplicates, face drift, hairstyle/color/costume changes, 
 
 ---
 
-## 4. Character Board Animation (Bottom Video) & Character Intro Animation (Top Video)
+## 15. Made with MiniMax H3 on
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-on-814722/video-cae708cb7934.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-on-814722/poster-9f172b024123.jpg" alt="Made with MiniMax H3 on video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — { &quot;archetype&quot;: &quot;Artistic / Fashion / Conceptual&quot;, &quot;duration&quot;: &quot;15s&quot;, &quot;aspect_ratio&quot;: &quot;16:9&quot;, &quot;prompt&quot;: { &quot;concept&quot;: { &quot;title&quot;: &quot;Ink Smoke Duel – Full Strike Fight Sequence&quot;,...</summary>
+
+~~~~text
+{
+"archetype": "Artistic / Fashion / Conceptual",
+"duration": "15s",
+"aspect_ratio": "16:9",
+"prompt": {
+"concept": {
+"title": "Ink Smoke Duel – Full Strike Fight Sequence",
+"description": "Continuous 15s one-take 16:9 black ink-smoke fight. Two heroes form from living smoke on a pure white void and immediately fight. Every beat contains a complete strike, clash, or counter — no idle posing. Smoke is the only transition. Typography appears only three times, formed from smoke, never as a flat overlay. Dark cinematic score drives the hits. Always fluid, never static.",
+"duration": "15s",
+"rhythm_structure": {
+"0-3s": "Both form from opposite sides and charge into first full strike",
+"3-6s": "Blade lock breaks into Valkyrie full twin-slash + first text",
+"6-9s": "Ronin full overhead smash + Valkyrie dodge/counter",
+"9-12s": "Mid-air crossing full strikes + second text",
+"12-15s": "Final simultaneous full strike, hold, third text"
+}
+},
+"camera_direction": {
+"shot_type": "Strict continuous one-take, 16:9 cinematic widescreen, locked or micro-drift",
+"forbidden": ["No cuts", "No teleportation", "No hidden transitions", "No freeze frames", "No idle standing"],
+"camera_journey": "Centered medium-wide on pure white void. Extremely slow drift. Energy from living smoke, full blade arcs, impact bursts, and body motion. Slight push-in on the final strike."
+},
+"audio": {
+"music": "Dark cinematic orchestral + taiko drums + low cello. Hits land on the beat. Blade-clash, fabric-whip, and ink-whoosh SFX under the score. No vocals. Builds through 12s, holds on the final strike.",
+"follows_music": true,
+"sync_notes": "Every full strike lands on a drum or string accent. Smoke explodes on impact."
+},
+"typography": {
+"allowed_words": [
+"INK DUEL",
+"FULL STRIKE",
+"WHO REMAINS"
+],
+"appearances": 3,
+"treatment": {
+"not_flat_overlay": true,
+"required_properties": [
+"Formed from dense black smoke particles and tendrils",
+"Physical volumetric depth",
+"Smoke occlusion with blades and cloaks",
+"Subtle continuous warping",
+"Bold uppercase condensed sans-serif",
+"Kinetic emergence only at the three specified beats"
+]
+}
+},
+"visual_style": {
+"overall": "Black ink-smoke art, ultra high-contrast monochrome, pure white void, volumetric living smoke, 16:9 widescreen",
+"inspired_by": [
+"Obsidian Ronin – horned kabuto, liquid-ink mane, gold-filigree armor, heavy katana full swing",
+"Inkshade Valkyrie – porcelain face, wild two-tone hair, silver-black gothic armor, dissolving cloak, twin-blade full arcs"
+],
+"color_palette": ["pure black", "deep charcoal smoke", "pure white void"],
+"materials_and_texture": "Living ink smoke, variable density, filament motion, soft volumetric edges, micro-turbulence, condensed-smoke blade trails"
+},
+"motion_language": {
+"follows_music": true,
+"core_behavior": "Never static. Smoke always swirls. Heroes form already attacking. Every 3s contains a complete strike that travels full arc and lands or is parried. Morphs only through smoke densifying and reforming. Visible smoke and blade trails in every frame."
+},
+"storyboard": {
+"total_beats": 5,
+"beat_duration": "3 seconds each",
+"beats": [
+{
+"id": "01",
+"time": "0.0–3.0",
+"description": "Pure white void. Black smoke splits: from the right it coalesces into Obsidian Ronin already mid-charge, from the left into Inkshade Valkyrie already sprinting. Both complete a first full strike that meets center-frame — his two-handed horizontal cut vs her crossed twin-blade block. Impact burst of dense smoke. No text. End of beat: lock holds one frame then both dissolve into swirling smoke while still moving."
+},
+{
+"id": "02",
+"time": "3.0–6.0",
+"description": "Smoke reforms them mid-action. Valkyrie completes a full twin-katana X-slash through the Ronin’s dissolving torso; he staggers back as smoke tears off his armor and mane. Her cloak whips a full circle. Text “INK DUEL” forms left from the slash-trail smoke into bold uppercase, then warps with the residual smoke. End of beat: both forms break into smoke again."
+},
+{
+"id": "03",
+"time": "6.0–9.0",
+"description": "Smoke reverses and reforms. Ronin completes a full overhead smash — katana travels from high-right all the way through to the floor. Valkyrie ducks under the arc, cloak flattening, then drives a full rising single-blade counter into his ribs. Smoke detonates upward from the floor strike and the rib hit. No new text; previous letters shred into filaments. End of beat: both dissolve while still following through."
+},
+{
+"id": "04",
+"time": "9.0–12.0",
+"description": "Smoke reforms both in mid-air crossing paths. Each completes a full strike at the same instant — his downward diagonal vs her spinning horizontal twin-slash. Blades pass through each other’s smoke-bodies. Text “FULL STRIKE” emerges right from the crossing blade trails into bold uppercase, volumetric and interacting with the clash cloud. End of beat: they drop back into smoke, still rotating."
+},
+{
+"id": "05",
+"time": "12.0–15.0",
+"description": "Final reform. Both charge from opposite sides and complete simultaneous full strikes that meet dead center in a dense black core. Bodies lean into the hit, cloaks and mane blown backward, blades buried in the impact cloud. Residual smoke briefly reforms then “WHO REMAINS” emerges centered from the core into bold uppercase. They hold the locked strike as smoke slowly thins into the white void. Never fully static until the last frame."
+}
+]
+}
+}
+}
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-on-814722/video-cae708cb7934.webm)
+
+**Source:** [@ShamiWeb3](https://x.com/ShamiWeb3/status/2094575793615814722) · 15s · 7:4 · fashion
+
+---
+
+## 16. MiniMax H3 生成
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-476668/video-f75161a75007.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-476668/poster-b805b9332db6.jpg" alt="MiniMax H3 生成 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — 【风格】酒店浴袍高跟鞋卡点变装（Bathrobe-to-Glam Heel Transformation），电影感时尚短片（Cinematic Fashion Film），真实手机竖屏实拍质感（Photorealistic Handheld），8K超清，暖调低光室内摄影，皮肤有真实毛孔和光泽、布料可见织纹和垂坠感，无AI塑料感，竖屏9:16 【时长】10秒...</summary>
+
+~~~~text
+【风格】酒店浴袍高跟鞋卡点变装（Bathrobe-to-Glam Heel Transformation），电影感时尚短片（Cinematic Fashion Film），真实手机竖屏实拍质感（Photorealistic Handheld），8K超清，暖调低光室内摄影，皮肤有真实毛孔和光泽、布料可见织纹和垂坠感，无AI塑料感，竖屏9:16
+【时长】10秒
+【场景】高级精品酒店房间，始终同一个机位、同一把椅子
+【角色】Anna @图片1（全片唯一角色）。五官、脸型、身形严格锁定参考图，变装前后不漂移。
+
+【景别与机位基准】固定机位，略低角度（相机高度约在坐姿时膝盖位置、微微仰拍），椅子居画面中央偏右，左侧大面积逆光窗帘过曝形成高光留白，右侧深色木质墙面和暗色窗帘压暗，形成强烈的明暗对比（Chiaroscuro Lighting）。全片机位不移动、不推拉摇移。
+
+【核心变装机制：抛鞋→踢腿】
+道具触发变装——Anna 坐在椅子上把一只黑色高跟凉鞋向上一抛，鞋子离手还在空中上升的那一帧硬切（Hard Cut）→ 下一帧她已经穿好全套造型，右腿猛地向上一甩踢向镜头、鞋底正对镜头（鞋子已经穿在脚上），踢腿和抛鞋形成一对跨越剪辑的镜像动作——"抛出去的鞋，下一帧就穿在了脚上"。踢腿后右腿缓缓收回，跷成二郎腿坐定。变装前后椅子位置、机位、光线完全一致，只有人物的穿着和姿态整个换掉。
+
+[00:00-00:01.5] 镜头1：空椅子·悬念开场（Establishing Shot）
+画面：酒店房间内，左侧落地窗透过白色薄纱窗帘漫进大片柔和白光（窗帘过曝），右侧深色木质竖条纹护墙板和深灰色厚窗帘形成暗部。画面中央偏右一把黑色哑光金属框架扶手椅（黑色皮质坐垫），椅子空着，右上角墙上隐约可见一幅装裱画的边角。深灰色哑光地板。
+画面里没有人——空椅子制造悬念。
+
+[00:01.5-00:02.5] 镜头2：入场·浴袍登场（Character Entrance）
+Anna 从画面右侧走入镜头，赤脚踩在深灰色地板上。她穿着白色酒店浴袍（厚实毛巾布料质感、腰间系带打结、左胸口绣有酒店首字母），头上裹着白色浴巾扎成高高的包头巾（turban），脸上已经画好全妆——正红色哑光唇膏（红唇是全画面唯一的高饱和色彩点）、精致眉眼。双手捧着一双黑色绑带高跟凉鞋（细带交叉款，鞋跟约8厘米）放在腰间。
+她面对镜头走到椅子前方站定，表情冷淡从容，嘴唇微微抿起，下巴微微抬高，眼神直视镜头——"给我几秒钟"的自信态度。
+
+[00:02.5-00:04.5] 镜头3：落座·把玩高跟鞋（Seated Tease）
+Anna 转身坐到黑色扶手椅上，浴袍下摆散开，赤足的双腿自然并拢垂在椅子前方。她把两只黑色高跟鞋放在膝盖上，双手握住鞋子，低头审视。
+表情：微微垂眼看着手中的鞋，嘴角不笑、红唇轻抿，带着一种"我在挑选武器"的挑剔和笃定。
+动作细节：她把两只鞋分开，左手一只右手一只，轻轻掂了掂重量，手指拨弄鞋面的黑色细带。
+
+[00:04.0-00:04.5] 镜头4：抛鞋·变装触发（The Throw）
+Anna 右手握住一只黑色高跟鞋，手腕一翻、向上一抛——鞋子脱手飞向空中，黑色细带在空中散开甩动。左手同时还握着另一只鞋。
+表情：抛鞋瞬间眼睛微微闭上，红唇轻抿，下巴微扬，一副"就这样吧"的随意。
+鞋子离手、还在空中上升的那一帧——**硬切（Hard Cut）**
+
+[00:04.5-00:05.5] 镜头5：踢腿亮鞋·变装完成（The Kick Reveal）
+硬切之后，Anna 依然坐在同一把黑色扶手椅上，但整个人焕然一新：
+穿着：白色浴袍和包头巾消失，头发放下来自然散落（hair down）。妆容比变装前更精致——眉形利落、眼妆深邃带微光、正红色哑光唇膏依旧，整体是高端时尚大片级别的妆面质感。身穿黑色无袖高领修身连衣裙（halter-neck mini dress，面料紧贴身体轮廓、裙摆到大腿中段），双腿穿着黑色薄透丝袜（sheer black tights，织纹细腻可见），脚上穿着刚才手里那双黑色绑带高跟凉鞋（细带交叉绑到脚踝上方）。
+关键动作：硬切的第一帧，右腿猛地向上甩踢，整条腿斜着踢向镜头方向——高跟鞋鞋底正对镜头、占据画面中央，鞋底的皮质纹理清晰可见。这一踢和上一帧的抛鞋动作形成跨越剪辑的因果呼应："刚才抛出去的鞋，这一帧已经穿在脚上了。"
+表情：踢腿瞬间目光斜睨镜头，眉梢微挑，红唇微启——冷飒的"准备好了"。
+随后右腿缓缓从高处收回，优雅地跷在左腿上（二郎腿），身体微微向左后方靠进椅背，左手手指搭在左侧扶手边缘——慵懒、松弛、掌控一切的坐姿。
+
+[00:05.5-00:10.0] 镜头6：慵懒女王·时尚大片（Slow Fashion Pose）
+接下来4.5秒内，Anna 在椅子上做一组极慢的时尚大片姿态变换（Fashion Editorial Posing），每个动作之间自然衔接、一镜到底没有剪辑：
+① 二郎腿跷腿姿势稳定，目光从镜头缓缓移向左侧窗帘方向，侧脸轮廓被逆光勾勒出金色边缘光；
+② 右手从扶手上缓缓抬起，五指微张在空中做了一个轻柔的"弹指/拨弄"手势，手指骨节分明；
+③ 右手继续向上，指尖触到右侧肩旁的一缕发丝，轻轻捻起发梢向外拉出一小段，发丝在指间缠绕；
+④ 头微微向右后方仰，闭上眼睛约0.5秒，红唇微启，发丝从指间滑落；
+⑤ 缓缓睁眼，目光重新对准镜头，嘴角带出一丝极淡的微笑——但只有嘴角，眼神依然是冷的。右手回落到扶手上。
+画面在这个"冷眼微笑"的定格中自然结束。
+
+【音效】
+前半段（00:00-05:30）：安静的酒店房间环境音底噪——远处隐约的城市嗡鸣、空调低频运转。叠加：赤脚踩地板的轻柔脚步声、浴袍布料摩擦的窸窣声、鞋子被拿起和翻转时皮革与金属扣的轻微碰击声。
+硬切瞬间（05:30）：一声干脆利落的低频鼓点"咚"（Kick Drum Hit），标记变装切点。
+后半段（05:30-10:00）：慵懒的电子氛围音乐缓缓铺开（Lo-fi Chill / Downtempo），节奏极慢，配合Anna 的慢动作姿态。叠加：丝袜面料在交叉腿时的轻微摩擦声、高跟鞋跟在换姿势时轻轻碰到椅腿的"嗒"声、手指拨弄发丝的细微声响。
+
+【一致性锁定】
+1. 全片固定机位，不推拉摇移，不换角度。
+2. 同一把黑色扶手椅，位置不变。
+3. 变装前后光线一致：左侧窗帘逆光过曝、右侧暗部压低。
+4. 脸部严格锁定 @图片1，变装前后不出现任何面部漂移。
+5. 变装前的高跟鞋和变装后脚上穿的是同一双鞋（黑色细带交叉绑带凉鞋），细节一致。
+6. 红唇是全片唯一的高饱和色彩，变装前后保持一致。
+7. 变装只用一次硬切，不许出现任何转场特效、模糊、叠化、黑场、闪白、魔法粒子。
+8. 画面内不出现任何品牌logo、文字、字幕、水印。
+9. 不出现镜面反射或水面倒影中的人像。
+10. 后半段pose变换是连续拍摄，不再有任何剪辑切换，一镜到底。
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-476668/video-f75161a75007.webm)
+
+**Source:** [@johnAGI168](https://x.com/johnAGI168/status/2093680788990476668) · 10s · 9:16 · fashion
+
+---
+
+## 17. wan 3.0 🆚 Seedance 2.0 🆚 MiniMax H3
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/wan-3-0-seedance-2-0-minimax-h3-021455/video-8fa74aa0b046.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/wan-3-0-seedance-2-0-minimax-h3-021455/poster-39a5114106ec.jpg" alt="wan 3.0 🆚 Seedance 2.0 🆚 MiniMax H3 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — 【风格】复古像素换装游戏穿搭短片（Pixel Dress-Up Game），真人时尚摄影（Photorealistic Fashion Video），Y2K森系早秋穿搭，奶油棕色调，4K高清，30fps，像素动画与真人画面结合 【时长】15秒 【画幅】9:16竖屏...</summary>
+
+~~~~text
+【风格】复古像素换装游戏穿搭短片（Pixel Dress-Up Game），真人时尚摄影（Photorealistic Fashion Video），Y2K森系早秋穿搭，奶油棕色调，4K高清，30fps，像素动画与真人画面结合
+【时长】15秒
+【画幅】9:16竖屏
+【场景】暖灰色居家卧室兼试衣区，浅米色地毯；左侧摆放黄铜阅读灯、深蓝细条纹扶手椅、白色兔子抱枕和圆形木边几，边几上放一杯咖啡；中央后方有一株绿植；右侧是白色房门，门上挂深棕托特包和灰棕色衣物，旁边摆放浅木色藤编玻璃柜
+【角色】@  命名为“米娅”。下文只使用“米娅”代称；面孔、肤色、五官和身材比例严格匹配参考图，全程保持同一身份，换装时不得换脸或改变身体比例
+【声音】轻快复古电子音乐混合8-bit游戏音效；机械爪移动、加载完成、鼠标点击、单品装备和通关提示分别对应清晰音效；无对白、无真人字幕
+
+【全局摄影】
+固定竖屏全身镜头，正面略高机位轻微俯拍，约24–28mm手机广角，米娅从头到鞋完整入画。摄影机全程不推、不拉、不摇、不移；人物和家具位置稳定，所有视觉节奏来自像素动画、鼠标移动和卡点硬切换装。
+
+[00:00-00:02.80] 镜头1：像素机械爪投放角色（Pixel Claw Entrance）
+
+【开场钩子】
+第一帧是空房间。一个巨大的棕白色像素机械爪从画面右上方快速进入，同时把米娅从画面右侧水平吊运进来。
+
+【初始穿着】
+米娅穿奶油香槟色亮面缎质睡衣套装：宽松长袖翻领上衣、同面料直筒长裤，布面布满细小深棕圆点，翻领、门襟、袖口和裤脚带深棕滚边，脚穿纯白色包头软底居家拖鞋。造型完整不透明。
+
+【造型】
+铜橘红色长卷发自然披肩，轻薄刘海，无帽子、无项链、无手提包。
+
+【动作】
+像素机械爪夹持在米娅头肩上方，把她从右侧吊运到画面正中央。米娅双眼闭合，头向左肩歪斜，双臂无力垂下，双脚并拢，身体像睡着的游戏角色一样轻微晃动。
+
+机械爪到达中央后停止横移，爪臂松开并垂直升出画面。米娅落在地毯上保持站立，身体轻轻回弹，双脚稳定着地。
+
+机械爪是平面像素动画（2D Pixel Overlay），边缘清晰、色块规整，不是写实金属装置，不遮挡或改变米娅的面孔。
+
+[00:02.80-00:05.40] 镜头2：苏醒与换装菜单加载（Game UI Loading）
+
+【动作】
+米娅先保持低头闭眼，随后缓慢抬头睁眼，直视镜头，嘴唇微张，像刚从睡梦中醒来。
+
+画面底部弹出一条奶油色与棕色描边的像素加载条。加载条从左向右逐格填充。
+
+米娅闭上眼睛打哈欠，两只手从腿侧抬起，双肘弯曲经过肩部，随后双臂完全伸直举过头顶，形成宽V形伸懒腰姿势；头部轻轻后仰，肩膀上提，缎面袖子产生真实褶皱。
+
+加载条填满时发出短促游戏提示音。五张像素服饰卡从画面左上方高速落下，依次排列成左侧竖向选择栏。
+
+【像素界面】
+左上显示奶油色像素边框标题“DRESS UP”，右侧排列三颗粉红色像素爱心；右上显示像素边框“X”。
+
+左侧五张服饰卡从上到下分别显示：
+1. 奶油白蕾丝细肩带上衣；
+2. 棕色格纹蕾丝层叠短裙；
+3. 可可棕毛绒针织开衫；
+4. 奶油色堆堆袜与棕色毛绒厚底鞋；
+5. 橙棕色问号卡“?”。
+
+大型白色像素鼠标箭头从画面右侧进入，移动到第一张服饰卡旁边。所有UI保持平面像素风，不遮挡米娅的脸和主要身体轮廓。
+
+[00:05.40-00:10.80] 镜头3：逐项点击换装（Rhythmic Outfit Jump Cuts）
+
+【统一换装规则】
+每次均严格按照“鼠标移动到服饰卡→点击音效→停顿一拍→固定机位硬跳切→对应单品瞬间装备”的顺序进行。
+
+人物站位、身体大小、双脚位置、头部方向和手臂高度在硬切前后保持一致。禁止衣服逐渐生长、粒子生成、融化变形或遮镜换装。
+
+【第一次点击｜00:05.40-00:06.20】
+鼠标点击第一张上衣卡。
+
+下一拍，香槟色睡衣上衣瞬间替换成奶油白修身细肩带上衣；胸前有小型棕色动物刺绣和深色纽扣，下摆拼接奶油白蕾丝荷叶边。
+
+香槟色睡裤、白色居家拖鞋继续保留。米娅把举过头顶的双臂放到身体两侧，展示新上衣。
+
+【第二次点击｜00:06.20-00:07.10】
+鼠标下移并点击第二张短裙卡。
+
+下一拍，香槟色睡裤瞬间替换成棕咖色格纹多层百褶短裙；裙摆由多层格纹荷叶边和奶油白蕾丝组成，轮廓轻盈蓬松。
+
+颈部同时出现多层复古项链：短链带星形小吊坠，长链带钥匙或十字形吊坠。白色居家拖鞋暂时保留。
+
+【第三次点击｜00:07.10-00:08.10】
+鼠标下移并点击第三张针织开衫卡。
+
+下一拍，米娅上身增加一件可可棕色毛绒短款针织开衫，V领、长袖、宽松袖口，敞开穿着，完整露出奶油白吊带和多层项链。
+
+双腿同时增加白色半透明花纹连裤袜，纹理细密清晰，不透明过度、不出现破损。
+
+【第四次点击｜00:08.10-00:09.20】
+鼠标下移并点击第四张鞋袜卡。
+
+下一拍，白色居家拖鞋消失，替换为奶油米色抽绳堆堆腿套和棕色长绒毛厚底鞋。腿套在小腿处形成多层自然褶皱，奶油色系绳松散垂落；毛绒鞋头宽大蓬松，深棕厚鞋底完整落地。
+
+米娅始终双脚并拢，服装替换后身体只产生轻微自然回弹，不抬脚、不手动穿鞋。
+
+【第五次点击｜00:09.20-00:10.80】
+鼠标移动到最下方问号卡，短暂停顿后点击。
+
+下一拍，米娅头上瞬间出现奶油白软呢贝雷帽，右手同时出现深棕色复古结构手提包。手提包带短提手、金色环扣和皮革装饰带，垂落至膝盖附近。
+
+右臂因手提包重量自然下沉；铜橘长卷发从贝雷帽两侧蓬松垂落。米娅低头快速检查完整穿搭，随后抬头看向镜头。
+
+[00:10.80-00:13.00] 镜头4：最终穿搭展示（Final Outfit Check）
+
+【完整造型】
+奶油白贝雷帽、铜橘长卷发、可可棕毛绒短开衫、奶油白蕾丝吊带、棕色格纹多层蕾丝短裙、多层复古项链、白色花纹连裤袜、奶油色绑带堆堆腿套、棕色毛绒厚底鞋、深棕色复古手提包。
+
+【动作】
+米娅先低头看向自己的裙摆和鞋袜，左手轻轻整理开衫下摆，右手稳定提包。
+
+她重新抬头直视镜头，左手移到腰部，手肘向外打开；右手提包垂在身体侧面。身体重心轻轻移向一侧，形成自然S形站姿，双膝靠拢，头部微微侧倾。
+
+左侧五张服饰卡从下到上依次缩小并消失，只保留左上“DRESS UP”、三颗爱心和右上“X”。
+
+[00:13.00-00:15.00] 镜头5：游戏通关定格（Complete Screen）
+
+【画面】
+中央偏下位置弹出大型像素文字“COMPLETE!”：奶油白色字面、深棕色像素描边和浅色立体阴影，横跨腰部下方，但不完全遮住裙装层次。
+
+出现文字时配一声清晰的8-bit通关音效，三颗粉红爱心同步闪亮一次。
+
+米娅保持左手扶腰、右手提包、双腿靠拢的全身定妆姿势，直视镜头，嘴角轻轻上扬；人物只保留自然呼吸和细微头部动作。
+
+最后1秒，顶部“DRESS UP”、爱心和“X”以隔帧像素扫描方式轻微闪烁；“COMPLETE!”始终基本完整。人物、服装和背景保持稳定。
+
+15.00秒停留在完整UI和完整穿搭画面上直接结束，不渐隐、不切黑。
+
+【负面约束】
+禁止主角换脸、身份变化、肤色变化、年龄变化、身体比例漂移；禁止像素机械爪变成写实机械、机械爪压住人物面孔、机械爪导致身体悬空变形；禁止菜单文字乱码、服饰卡顺序改变、鼠标点击错误单品、鼠标穿过人物面部；禁止先换装后点击、点击后没有装备反馈、多个单品提前同时出现；禁止渐变换装、魔法粒子换装、烟雾换装、服装融化、衣物从身体内部生长；禁止换装前后人物位置漂移、镜头角度改变、背景家具跳动；禁止丢失吊带、短裙、开衫、项链、花纹袜、堆堆腿套、毛绒鞋、贝雷帽或手提包；禁止衣物透明、裙底暴露、意外走光、连裤袜破损、包带穿过手臂；禁止多余肢体、多余手指、融合手指、扭曲面孔、发丝穿过身体；禁止背景人物、镜面反射、摄影机摇晃、随机推拉、UI遮挡人物脸部；禁止乱码字幕、水印、品牌标识、塑料皮肤、塑料CG质感和动漫人物渲染。
+
+wan3.0 效果👇
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/wan-3-0-seedance-2-0-minimax-h3-021455/video-8fa74aa0b046.webm)
+
+**Source:** [@johnAGI168](https://x.com/johnAGI168/status/2092472542783021455) · 15s · 9:16 · fashion
+
+---
+
+## 18. Character Board Animation (Bottom Video) & Character Intro Animation (Top Video)
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/character-board-animation-bottom-video-character-intro-animation-top-vid-865400/video-a9048f3cc023.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/character-board-animation-bottom-video-character-intro-animation-top-vid-865400/poster-8649b607f5a1.jpg" alt="Character Board Animation (Bottom Video) &amp; Character Intro Animation (Top Video) video preview" width="700" />
@@ -239,7 +1047,7 @@ Use elegant cinematic camera movement, smooth transitions, and refined artbook-i
 
 ---
 
-## 5. Get unlimited on Runway
+## 19. Get unlimited on Runway
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/get-unlimited-on-runway-974704/video-d33b402d089d.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/get-unlimited-on-runway-974704/poster-f3361d4084ff.jpg" alt="Get unlimited on Runway video preview" width="700" />
@@ -269,7 +1077,7 @@ Prompt 2
 
 ---
 
-## 6. Created with Unlimited on Runway.
+## 20. Created with Unlimited on Runway.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-unlimited-on-runway-347863/video-3aea515ebb8e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-unlimited-on-runway-347863/poster-897155ff4fc7.jpg" alt="Created with Unlimited on Runway. video preview" width="700" />
@@ -290,7 +1098,7 @@ A man puts on headphones while walking through a dull grey city. Beat begins. Fi
 
 ---
 
-## 7. Created with MiniMax H3
+## 21. Created with MiniMax H3
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-540945/video-13cbea5b7467.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-540945/poster-9a426723aa8a.jpg" alt="Created with MiniMax H3 video preview" width="700" />
@@ -311,7 +1119,7 @@ Create a premium 15-second cinematic ad for Audionic Trance Airbud 850. Start wi
 
 ---
 
-## 8. T2V Hailuo MinimaxH3 Prompt [FORMAT] Create a 15-second, 16:9 retro graphic
+## 22. T2V Hailuo MinimaxH3 Prompt [FORMAT] Create a 15-second, 16:9 retro graphic
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/t2v-hailuo-minimaxh3-prompt-format-create-a-15-second-16-099381/video-7d3845a01378.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/t2v-hailuo-minimaxh3-prompt-format-create-a-15-second-16-099381/poster-77292751d7b1.jpg" alt="T2V Hailuo MinimaxH3 Prompt [FORMAT] Create a 15-second, 16:9 retro graphic video preview" width="700" />
@@ -374,7 +1182,7 @@ Never a slideshow. Maintain active graphic motion, physical visual transitions, 
 
 ---
 
-## 9. This model shines at generating mixed‑media motion graphics combining visuals and text information.
+## 23. This model shines at generating mixed‑media motion graphics combining visuals and text information.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/this-model-shines-at-generating-mixedmedia-motion-graphics-combining-vis-961590/video-d529433d7a27.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/this-model-shines-at-generating-mixedmedia-motion-graphics-combining-vis-961590/poster-f3b7316a5e07.jpg" alt="This model shines at generating mixed‑media motion graphics combining visuals and text information. video preview" width="700" />
@@ -567,7 +1375,7 @@ No dialogue.
 
 ---
 
-## 10. Created in
+## 24. Created in
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-in-675674/video-5664945c8d42.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-in-675674/poster-e575573517d2.jpg" alt="Created in video preview" width="700" />
@@ -588,7 +1396,7 @@ No dialogue.
 
 ---
 
-## 11. Mind-blown. One shot
+## 25. Mind-blown. One shot
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/mind-blown-one-shot-376793/video-b2f67795e835.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/mind-blown-one-shot-376793/poster-f47b714c6d95.jpg" alt="Mind-blown. One shot video preview" width="700" />
@@ -625,7 +1433,7 @@ No character changes, extra people, random text, subtitles, logos, outfit change
 
 ---
 
-## 12. Minimax 3 Prompt: Create a premium 16:9 landscape fashion film. Use Image 1 for
+## 26. Minimax 3 Prompt: Create a premium 16:9 landscape fashion film. Use Image 1 for
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-3-prompt-create-a-premium-16-9-landscape-fashion-108362/video-1ab7df834413.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-3-prompt-create-a-premium-16-9-landscape-fashion-108362/poster-7377fe4eb43b.jpg" alt="Minimax 3 Prompt: Create a premium 16:9 landscape fashion film. Use Image 1 for video preview" width="700" />
@@ -650,7 +1458,7 @@ I added the final video in and the reference images for you to learn from!
 
 ---
 
-## 13. MiniMax H3 is incredible at text rendering!
+## 27. MiniMax H3 is incredible at text rendering!
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-is-incredible-at-text-rendering-644291/video-62c6959966f0.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-is-incredible-at-text-rendering-644291/poster-051de0428cc7.jpg" alt="MiniMax H3 is incredible at text rendering! video preview" width="700" />
@@ -671,7 +1479,7 @@ Create a 15-second cinematic text-animation video built around the quote:  “Ev
 
 ---
 
-## 14. Low-Angle Fashion Tracking Film
+## 28. Low-Angle Fashion Tracking Film
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/low-angle-fashion-tracking-film-062019/video-7eccbb514e51.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/low-angle-fashion-tracking-film-062019/poster-98861d56b4fd.jpg" alt="Low-Angle Fashion Tracking Film video preview" width="700" />
@@ -692,7 +1500,7 @@ Ultra realistic cinematic video, shot on ARRI Alexa 35 with spherical lens, natu
 
 ---
 
-## 15. Kintsugi Sword Seamless Loop
+## 29. Kintsugi Sword Seamless Loop
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/kintsugi-sword-seamless-loop-524882/video-18ce4fdcf3f2.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/kintsugi-sword-seamless-loop-524882/poster-1365004257d9.jpg" alt="Kintsugi Sword Seamless Loop video preview" width="700" />
@@ -800,7 +1608,7 @@ Prompt #MiniMaxH3 in Chinese:
 
 ---
 
-## 16. Surreal Blue Studio Dance with a Horse
+## 30. Surreal Blue Studio Dance with a Horse
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/surreal-blue-studio-dance-with-horse-588086/video-35d70f2a6270.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/surreal-blue-studio-dance-with-horse-588086/poster-c616e26c1d83.jpg" alt="Surreal Blue Studio Dance with a Horse video preview" width="700" />
@@ -825,7 +1633,7 @@ Create a surreal 15-second fashion-film sequence inside a minimalist monochrome 
 
 ---
 
-## 17. Ice Gunslinger Interactive Web Loop
+## 31. Ice Gunslinger Interactive Web Loop
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ice-gunslinger-interactive-web-loop-045626/video-8ed8d15497ae.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ice-gunslinger-interactive-web-loop-045626/poster-b4852f65a0a0.jpg" alt="Ice Gunslinger Interactive Web Loop video preview" width="700" />
@@ -920,7 +1728,7 @@ Create a surreal 15-second fashion-film sequence inside a minimalist monochrome 
 
 ---
 
-## 18. Golden Guardian Web Hero Loop
+## 32. Golden Guardian Web Hero Loop
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/golden-guardian-web-hero-loop-616089/video-ad594df1ac56.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/golden-guardian-web-hero-loop-616089/poster-f3ffd3a6c85e.jpg" alt="Golden Guardian Web Hero Loop video preview" width="700" />
@@ -1016,7 +1824,7 @@ Create a surreal 15-second fashion-film sequence inside a minimalist monochrome 
 
 ---
 
-## 19. The Brief: "Jessica x The Bag"
+## 33. The Brief: "Jessica x The Bag"
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/the-brief-jessica-x-the-bag-804089/video-0ef2025a0f9f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/the-brief-jessica-x-the-bag-804089/poster-2901ee10dfd8.jpg" alt="The Brief: &quot;Jessica x The Bag&quot; video preview" width="700" />
@@ -1043,7 +1851,7 @@ Warm, glossy, early-2000s fashion-film color science throughout — think The De
 
 ---
 
-## 20. Seamless Warrior Sword Reflection Loop
+## 34. Seamless Warrior Sword Reflection Loop
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/seamless-warrior-sword-reflection-loop-874724/video-8c6fd235ee6b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/seamless-warrior-sword-reflection-loop-874724/poster-2ae99518ad9c.jpg" alt="Seamless Warrior Sword Reflection Loop video preview" width="700" />

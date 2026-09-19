@@ -1,0 +1,31 @@
+{
+  "slug": "minimax-h3-open-weights-generated-locally-one-balloon-the-string-726711",
+  "title": {
+    "en": "Minimax H3, open weights, generated locally. One balloon. The string is the last thing you see.",
+    "zh": "Minimax H3, open weights, generated locally. One balloon. The string is the last thing you see."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @GlennHasABeard.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "9:5",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@GlennHasABeard",
+    "url": "https://x.com/GlennHasABeard/status/2100950273434726711"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/GlennHasABeard/status/2100950273434726711"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-open-weights-generated-locally-one-balloon-the-string-726711/video-99380535f130.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-open-weights-generated-locally-one-balloon-the-string-726711/poster-e5eb0f1e1624.jpg",
+  "prompt": "\"the dot leaves the top of the frame and the tail of the string follows it out\"\n\nDuration: 15s. Camera: locked, looking up. Rendered locally in ComfyUI, then Topaz to 4K.\n\nThe string is the continuity test. A thin line attached to a shrinking object for fifteen seconds."
+}

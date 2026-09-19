@@ -1,0 +1,31 @@
+{
+  "slug": "created-with-minimax-h3-166818",
+  "title": {
+    "en": "Created with MiniMax H3.",
+    "zh": "Created with MiniMax H3."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 product commercial prompt with attached video evidence from @Lianaalane.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+  },
+  "category": "product-commercial",
+  "mode": "reference-to-video",
+  "duration": "16s",
+  "aspectRatio": "68:45",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Lianaalane",
+    "url": "https://x.com/Lianaalane/status/2092101929837166818"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Lianaalane/status/2092101929837166818"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-166818/video-7aae9b13719f.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-166818/poster-7f88a5e15ff2.jpg",
+  "prompt": "Create a 15-second ultra-realistic cinematic lifestyle video based on the storyboard, featuring the same woman and exact facial identity from the reference image in every shot. Keep her long wavy brown Korean-inspired hairstyle, natural features, and body proportions consistent. She wears the same oversized soft-pink T-shirt and loose light-blue pants throughout, with no coat, jacket, bag, backpack, or wardrobe changes. Start with her hanging freshly washed white clothes on a sunny rooftop clothesline, then smoothly transition to her walking downstairs inside her own home with empty hands. She sits outside near the entrance and enjoys an ice-cream cone, then walks back inside and enters her bedroom. She sits on the bed using her smartphone, followed by a close-up of her face with a soft natural smile, an over-the-shoulder shot of her scrolling on the phone, and finally a cozy shot of her lying on the bed, holding the phone and smiling peacefully. Use warm natural lighting, realistic skin and hair movement, subtle expressions, shallow depth of field, smooth gimbal-style camera motion, natural body movement, seamless transitions, and high-end commercial cinematography. Preserve exact facial identity, clothing, hairstyle, hands, and body continuity with no morphing or distortions. 16:9, 4K photorealism, cinematic, no text, subtitles, or watermark."
+}

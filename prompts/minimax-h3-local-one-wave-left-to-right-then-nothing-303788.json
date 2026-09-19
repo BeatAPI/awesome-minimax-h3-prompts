@@ -1,0 +1,31 @@
+{
+  "slug": "minimax-h3-local-one-wave-left-to-right-then-nothing-303788",
+  "title": {
+    "en": "Minimax H3 local. One wave. Left to right. Then nothing.",
+    "zh": "Minimax H3 local. One wave. Left to right. Then nothing."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @GlennHasABeard.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "9:5",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@GlennHasABeard",
+    "url": "https://x.com/GlennHasABeard/status/2100319404806303788"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/GlennHasABeard/status/2100319404806303788"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-local-one-wave-left-to-right-then-nothing-303788/video-8288deb1ee60.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-local-one-wave-left-to-right-then-nothing-303788/poster-a8ef7618aee4.jpg",
+  "prompt": "\"a clear moving band of flattened wheat about ten stalks wide, the stalks behind it standing back up as it passes\"\n\nDuration: 15s. Camera: locked, just above the wheat.\n\nA field is ten thousand stalks. A band ten stalks wide moving at walking pace is one object. Turn the crowd into one thing."
+}

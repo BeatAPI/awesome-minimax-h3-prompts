@@ -1,0 +1,31 @@
+{
+  "slug": "seedance-2-5-minimax-h3-549391",
+  "title": {
+    "en": "好莱坞的女演员有危机了！💔继Seedance 2.5 之后，Minimax H3 在家用电脑上的部署同样能实现虚拟数字人非常丰富的人物脸部微表情的表演。",
+    "zh": "好莱坞的女演员有危机了！💔继Seedance 2.5 之后，Minimax H3 在家用电脑上的部署同样能实现虚拟数字人非常丰富的人物脸部微表情的表演。"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @PixelAigc.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "10s",
+  "aspectRatio": "30:17",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@PixelAigc",
+    "url": "https://x.com/PixelAigc/status/2087325691918549391"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/PixelAigc/status/2087325691918549391"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/seedance-2-5-minimax-h3-549391/video-9d3c0834da76.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/seedance-2-5-minimax-h3-549391/poster-cee24d895eb2.jpg",
+  "prompt": "使用参考图作为起始帧。保持角色完全一致：年轻东亚女性，灰色无袖上衣，大号细银圈耳环，柔和阴天光线，完全模糊的海岸背景。保持细微连续的手持镜头漂移。全程头发被风轻轻吹动。动作序列：\n主体强忍哭泣。嘴唇紧紧抿住，下巴颤抖，胸口因急剧吸气而起伏。泪水在眼中积聚但未落下。\n情绪崩溃。眼睛紧闭，嘴巴张开抽泣。泪水从双颊主动滑落。头部微微向下倾斜。\n灰色上衣前领从画面底部边缘被向上直接拉起，布料自然拉伸变形，覆盖住她的下巴、嘴巴和鼻子。布料在面部特征上自然变形。画面中不得出现任何手、手指或手臂。\n布料自然松开并落下，回到锁骨位置。她的脸重新露出，眼睛微微睁开向下看，嘴巴张开，沉重疲惫地喘息。"
+}

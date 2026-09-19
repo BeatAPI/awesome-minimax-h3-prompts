@@ -1,0 +1,31 @@
+{
+  "slug": "made-with-minimax-h3-on-547609",
+  "title": {
+    "en": "Made with MiniMax H3 on",
+    "zh": "Made with MiniMax H3 on"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 gameplay prompt with attached video evidence from @itxabdullaa.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3游戏画面提示词。"
+  },
+  "category": "gameplay",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@itxabdullaa",
+    "url": "https://x.com/itxabdullaa/status/2095809617624547609"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/itxabdullaa/status/2095809617624547609"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-on-547609/video-23ef8e9c02cb.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-on-547609/poster-da4927e604fc.jpg",
+  "prompt": "A quiet rooftop garden overlooking a softly glowing city on a cool winter night. Fairy lights sway, distant fireworks illuminate the sky, and light snow falls. Two people meet for the final time before parting.\n\nCharacter A: cute young adult woman, cream cardigan, pleated skirt, ankle boots, small hair ribbon. Character B stays mostly off-camera or softly blurred.\n\nEmotional arc: nervous smile → playful composure → fragile affection → gentle touch → realization → brave farewell → hurried departure.\n\nCharacter B speaks once. Character A speaks once.\n\n---\n\nSHOT 1 — 0s–1.2s | CLOSE-UP / NERVOUS SMILE\n\nTight close-up on Character A, Character B’s blurred shoulder at frame edge.\n\nCharacter B softly says:\n「また会えるよね。」\n(“We’ll meet again, right?”)\n\nShe gives a tiny cute smile that becomes emotional. Wet sparkling eyes, flushed cheeks, subtle lip tremble, soft inhale, brief glance away.\n\n---\n\nSHOT 2 — 1.2s–3.8s | CLOSE-UP / PLAYFUL COMPOSURE\n\nCharacter A adjusts her hair ribbon and gives a playful smile, trying to hide her sadness. She almost giggles, then looks toward the fireworks before returning her gaze to Character B.\n\nNo dialogue. Natural blinking, breathing, and facial micro-expressions.\n\n---\n\nSHOT 3 — 3.8s–6.4s | GENTLE TOUCH / REALIZATION\n\nCharacter B gently brushes a loose strand of hair from her face and briefly touches her cheek.\n\nCharacter A freezes, eyes widen, breath catches, cheeks flush, eyes fill with tears. She places her hand over his wrist for a moment, then gently lowers his hand.\n\nTender, innocent, restrained. No aggression or repeated touching.\n\n---\n\nSHOT 4 — 6.4s–8.2s | MEDIUM CLOSE-UP / FINAL LINE\n\nCharacter A steps backward as the camera gently pulls out.\n\nShe smiles through tears and softly says:\n「ずっと、忘れないよ。」\n(“I’ll never forget you.”)\n\nShe looks down, breathes quietly, a single tear rolls down her cheek. She wipes it away with her cardigan sleeve and smiles again.\n\n---\n\nSHOT 5 — 8.2s–10s | LONG SHOT / FINAL DEPARTURE\n\nWide rooftop shot.\n\nCharacter A turns and quickly walks toward the stairway, trying not to cry. Her hair and cardigan move naturally in the winter breeze.\n\nShe never looks back. Character B remains motionless as fireworks bloom above the city. She disappears down the stairs.\n\nEnd while she is still leaving.\n\n---\n\nAUDIO\n\nSoft emotional Japanese romance-drama music, low in the mix.\n\nDistant fireworks, city ambience, winter wind, footsteps, fabric movement, natural breathing, subtle hair/ribbon movement, gentle fingertip contact.\n\nNo subtitles, narration, or text.\n\nVISUAL STYLE\n\nPhotorealistic cinematic Japanese romance film, cute expressive young adult woman, realistic skin and eyes, warm fairy lights, cool blue night, shallow depth of field, bokeh, subtle lens flare, natural hair/clothing movement, restrained handheld camera, emotional micro-expressions, 16:9, 4K, 24fps.\n\nNEGATIVE: face changes, identity drift, duplicated characters, exaggerated crying, distorted hands, extra fingers, unnatural movement, wardrobe changes, aggressive touching, slap, camera spinning, subtitles, narration, watermark, text."
+}

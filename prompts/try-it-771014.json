@@ -1,0 +1,31 @@
+{
+  "slug": "try-it-771014",
+  "title": {
+    "en": "Try it 👉",
+    "zh": "Try it 👉"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 product commercial prompt with attached video evidence from @ImaStudio_ai.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+  },
+  "category": "product-commercial",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ImaStudio_ai",
+    "url": "https://x.com/ImaStudio_ai/status/2100414669005771014"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/ImaStudio_ai/status/2100414669005771014"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-771014/video-ed497b15dc8d.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-771014/poster-eaf72cfa5115.jpg",
+  "prompt": "Create a 15-second, 16:9, 24fps high-energy live-action fashion transformation MV. Use the uploaded woman as the ONLY identity reference and keep exactly the same face, facial features, skin tone, age, body proportions and long dark-brown hair throughout. ONE GIRL ONLY. Outfits, locations and moods may change, but never the identity. No background people.\n\nStyle: K-pop girl-group fashion campaign × Seoul Y2K × luxury editorial × kinetic typography × fast outfit-change MV.\nCORE RULE: every strong beat changes outfit + location + composition simultaneously. Each look must exist in a completely different environment. Performance is based on walking, turning, looking back, adjusting clothes, hair flips and clean poses rather than complex dancing.\nAdd readable English + Korean fashion typography. Every section must use a visibly different graphic style: oversized sans-serif, elegant serif, handwritten stickers, Korean poster typography, photo-booth graphics, metallic 3D lettering, magazine labels, diagonal layouts or vertical edge text. Never repeat the same white bold font.\n0–1.5s LOOK 01: mirrored elevator / fashion installation. Sweet-cool mini-dress look. Fast push-in, eye contact or sunglasses removal. Huge bold title: “MODE ON” / “SEOUL SWITCH”.\n1.5–3s LOOK 02: Hongdae-style Seoul street. Y2K street look. Low-angle walk + look back. Korean poster text: “오늘도 예쁘게” + “STREET MODE”.\n3–4.5s LOOK 03: pink-white convenience store / photo-booth space. Baby-pink look. Playful product interaction. Sticker typography: “SO CUTE” / “PINK MODE”.\n4.5–6s LOOK 04: sunset rooftop. Sharper fashion look. Hair in wind, turn toward camera. Elegant thin serif: “AFTER GLOW” / “RUN THE NIGHT”.\n6–7.5s LOOK 05: backstage / vanity studio. K-pop pre-stage styling. Adjust necklace and hair through mirror. Metallic silver 3D text: “ICON” / “FLASH READY”.\n7.5–9s LOOK 06: modern underground parking garage. Hotter, cooler styling. Step toward camera, slight Dutch angle. Diagonal stretched typography: “ATTITUDE” / “NO RULES”.\n9–10.5s LOOK 07: deep-red fashion installation room. Mature powerful look. Large Korean poster typography: “나답게” + “OWN THE LOOK”.\n10.5–12s LOOK 08: minimal luxury hotel corridor. Final polished look. Walk two steps and stop. Minimal luxury typography: “LAST LOOK” / “SOLVÉRA”.\n12–15s FINAL HERO: night terrace / black-white-silver-red campaign environment. Previous looks fly back as photo cards, magazine pages and floating poster elements. Girl holds center pose. Text appears beat-by-beat: “CUTE” → “IS POWER” → “귀여움은 힘이야.” → “SOLVÉRA — OUT NOW”. End with a 0.5s premium fashion-cover freeze.\nRealistic skin, hair and fabrics. Keep identity perfectly stable. No second person, background crowd, body drift, hairstyle drift, unreadable typography, static posing, repeated locations, childish/school styling, logos, watermarks or UI."
+}

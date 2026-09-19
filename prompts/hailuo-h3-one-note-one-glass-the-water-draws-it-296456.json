@@ -1,0 +1,31 @@
+{
+  "slug": "hailuo-h3-one-note-one-glass-the-water-draws-it-296456",
+  "title": {
+    "en": "Hailuo H3. One note, one glass, the water draws it.",
+    "zh": "Hailuo H3. One note, one glass, the water draws it."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @GlennHasABeard.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "7:4",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@GlennHasABeard",
+    "url": "https://x.com/GlennHasABeard/status/2099118117146296456"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/GlennHasABeard/status/2099118117146296456"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-one-note-one-glass-the-water-draws-it-296456/video-264bdad5bff5.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-one-note-one-glass-the-water-draws-it-296456/poster-fe025b90fd77.jpg",
+  "prompt": "\"as the tone slowly fades, the pattern coarsens, the lattice widening into larger rings, then a few slow ripples\"\n\nDuration: 15s. Camera: locked, rim height.\n\nThe audio line fades from 3 to 13 and the pattern coarsens from 3 to 13. Same clock, two channels."
+}

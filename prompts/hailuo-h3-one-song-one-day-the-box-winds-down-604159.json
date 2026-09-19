@@ -1,0 +1,31 @@
+{
+  "slug": "hailuo-h3-one-song-one-day-the-box-winds-down-604159",
+  "title": {
+    "en": "Hailuo H3. One song, one day. The box winds down with the sun.",
+    "zh": "Hailuo H3. One song, one day. The box winds down with the sun."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @GlennHasABeard.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "1024:585",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@GlennHasABeard",
+    "url": "https://x.com/GlennHasABeard/status/2099240686461604159"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/GlennHasABeard/status/2099240686461604159"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-one-song-one-day-the-box-winds-down-604159/video-077d63f5386b.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-one-song-one-day-the-box-winds-down-604159/poster-1b4e4f924ea3.jpg",
+  "prompt": "\"the sunbeam on the floor sweeps steadily from left to right across the room, the light warming from pale to gold\"\n\nDuration: 15s. Camera: locked, room interior.\n\nTwo clocks again, the crank and the sun. Both written as continuous. \"Never jumps\" is the sentence that keeps them from cutting to noon."
+}

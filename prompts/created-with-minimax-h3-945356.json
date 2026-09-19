@@ -1,0 +1,31 @@
+{
+  "slug": "created-with-minimax-h3-945356",
+  "title": {
+    "en": "Created with MiniMax H3",
+    "zh": "Created with MiniMax H3"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 animation prompt with attached video evidence from @TaliaAariz.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动画提示词。"
+  },
+  "category": "animation",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "1:1",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@TaliaAariz",
+    "url": "https://x.com/TaliaAariz/status/2098886746846945356"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/TaliaAariz/status/2098886746846945356"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-945356/video-806053c7878b.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-945356/poster-9b04f812d6ce.jpg",
+  "prompt": "A 3D stylized animation begins with a tight close-up on the gold-spoked wheels and connecting rods of a black steam locomotive accented with metallic hoops. As the camera smoothly zooms out and pulls back, it reveals the entire train puffing spherical gray smoke clouds from its chimney while pulling red passenger cars along a railway track. The track runs across an elevated arched bridge alongside a grand medieval stone castle complete with corner towers and battlements, all set within a low-poly environment featuring scattered evergreen trees and a quiet river."
+}

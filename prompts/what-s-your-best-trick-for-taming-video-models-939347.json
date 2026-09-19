@@ -1,0 +1,31 @@
+{
+  "slug": "what-s-your-best-trick-for-taming-video-models-939347",
+  "title": {
+    "en": "What's your best trick for taming video models?",
+    "zh": "What's your best trick for taming video models?"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 product commercial prompt with attached video evidence from @HyperAI_News.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+  },
+  "category": "product-commercial",
+  "mode": "text-to-video",
+  "duration": "10s",
+  "aspectRatio": "7:4",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@HyperAI_News",
+    "url": "https://x.com/HyperAI_News/status/2098735876578939347"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/HyperAI_News/status/2098735877178675223"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/what-s-your-best-trick-for-taming-video-models-939347/video-65d6b1e0978d.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/what-s-your-best-trick-for-taming-video-models-939347/poster-88b26e03c659.jpg",
+  "prompt": "Cinematic 3D commercial, absurdist epic comedy. A Crumbl-style pink bakery box sits on a marble countertop under warm, dramatic lighting.\n\nSeconds 0-2: Extreme close-up — a thick chocolate-chip cookie suddenly sprouts two slender legs in tiny sneakers, kicks the pink box lid open, and leaps out. Crumbs explode in slow motion.\n\nSeconds 2-5: Low-angle tracking shot — the cookie sprints across a sunlit kitchen counter, hurdling over a spilled milk river like an Olympic athlete, chocolate chips glistening like sweat.\n\nSeconds 5-8: Wide shot — the cookie dashes into a surreal dessert metropolis: streets paved with cookie dough, skyscrapers made of stacked pink boxes, milk-carton taxis honking. It runs toward a glowing horizon of melted chocolate.\n\nSeconds 8-10: The cookie skids to a stop, turns back to camera, raises one leg in a triumphant pose — freeze frame. Powdered sugar falls like snow. Ultra-realistic, 8K, appetizing food photography, hyper-detailed crumb texture, cinematic slow motion."
+}

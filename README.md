@@ -18,7 +18,7 @@ by [BeatAPI](https://beatapi.io).
 
 **Browse by use case:** [Stories & Films](./prompts/use-cases/stories-films.md) · [Action & Fantasy](./prompts/use-cases/action-fantasy.md) · [Ads & Products](./prompts/use-cases/ads-products.md) · [Music & Performance](./prompts/use-cases/music-performance.md) · [Vlog & Social](./prompts/use-cases/vlog-social.md)
 
-**[Browse all 330 prompts](./prompts/README.md)**
+**[Browse all 506 prompts](./prompts/README.md)**
 
 ### 1. Modern warfare FPS gameplay
 
@@ -325,1012 +325,739 @@ image1の細く淡い青灰色と暖灰色の線、透明感のある二層以�
 
 ---
 
-### 7. Created with MiniMax H3.
+### 7. Created using Minimax H3 on
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-023816/video-90162a4f2d1f.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-023816/poster-7725b7fe255a.jpg" alt="Created with MiniMax H3. video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-using-minimax-h3-on-852344/video-137186aebdb7.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-using-minimax-h3-on-852344/poster-91ab54cf2270.jpg" alt="Created using Minimax H3 on video preview" width="700" />
 </a>
 
 <details>
-<summary><strong>Prompt</strong> — A cinematic fashion film set on a breathtaking coastal landscape. A stylish young woman walks naturally along a rugged seaside path, surrounded by wild greenery and delicate...</summary>
+<summary><strong>Prompt</strong> — Use @[char ref] for the potter's identity, face, amber eyes, blue-black hair cut blunt at the jaw with the short copper-bound braid at her right temple, the fine gold kintsugi...</summary>
 
 ~~~~text
-A cinematic fashion film set on a breathtaking coastal landscape. A stylish young woman walks naturally along a rugged seaside path, surrounded by wild greenery and delicate flowers. She wears a relaxed oversized brown knit sweater with elegant ivory trousers. Behind her, crystal-blue ocean waters stretch toward a towering lush green mountain rising from the sea.
+Use @[char ref] for the potter's identity, face, amber eyes, blue-black hair cut blunt at the jaw with the short copper-bound braid at her right temple, the fine gold kintsugi seams on her left cheek and chest, the white porcelain right forearm and hand joined by fine gold lacquer, the long open indigo wrap robe over cream wrapped linen, the wide brown leather belt hung with small steel tools, and her bare feet with grey clay dust dried across the shins. Preserve her proportions. Ignore the sheet's backdrop and repeated views. Invent no accessories; the only objects are the wheel, the clay and the water basin.
 
-Soft golden-hour sunlight creates a warm, dreamy atmosphere. A gentle ocean breeze naturally moves her hair and sweater. Start with a wide cinematic establishing shot of the coastline, then smoothly track alongside her as she walks, transitioning into elegant close-ups of her outfit, hair, and subtle facial expressions.
+Cinematic 2D anime with clean linework, cel shading and painted surfaces. A dim workshop: plank walls, shelves of unfired pots receding into shadow, a water basin on the bench, a cool blue window behind her and one warm lamp hanging low at screen-left. Amber key against blue shadow. Wet clay holds a dull sheen; the porcelain forearm reads matte against skin; the gold seams catch the lamp and flare.
 
-Spoken Voice / Dialogue: The woman speaks naturally while walking, in a soft, calm, confident female voice. Her delivery should feel spontaneous and conversational, with realistic breathing and subtle pauses. She says:
+Format: 15 seconds, 9:16 vertical, 3 shots joined by hard cuts, real time, no slow motion, no dialogue.
 
-“Sometimes, all you need is a quiet place, a little fresh air, and a moment to simply slow down and enjoy where you are.”
+Geography lock: she sits behind the wheel facing camera, the lamp always at screen-left, the window always behind her, the basin at screen-right on the bench. The camera stays on the near side of the wheel and never crosses behind her. The clay sits at the centre of the wheel head for the whole film.
 
-Her lip movements must accurately synchronize with every spoken word. Natural facial expressions, realistic mouth movement, and subtle head gestures while speaking. No exaggerated acting.
+Mechanics: the wheel turns continuously and never stops. Her skin hand works the outside of the form, the porcelain hand the inside. The clay obeys pressure: it rises where the hands narrow, thins as it climbs, and once the wall is too thin it cannot recover, so it leans and folds rather than springing back. One lump of clay throughout, never replaced.
 
-Ambient Audio: Gentle ocean waves crashing against the rocks, soft coastal wind, subtle rustling of flowers and leaves, quiet footsteps, and distant seabirds. Keep the environmental sounds natural and cinematic underneath the dialogue. No background music and no additional voices.
+Camera grammar: one move per shot, coupled to the clay. Push in as the form rises, hold still when she reacts, push again as she restarts. Keep the wheel head and her hands in frame together during work, and keep the whole face in frame during the reaction. Brake briefly on the collapse so it reads.
 
-Photorealistic, natural skin and hair, realistic fabric movement, cinematic lighting, smooth camera movement, shallow depth of field, soft bokeh, subtle film grain, premium fashion-commercial aesthetic, atmospheric color grading, 4K cinematic quality. No text, no logos, no watermark.
+0-3s, shot 1: Close three-quarter from just above the wheel, looking down across her forearms to the clay. The grey column turns fast between her hands; the wall lifts and narrows as her palms close. Clay slicks the gold seams in the porcelain. The camera pushes in slowly.
+
+3-5.5s: Continue the same shot. The wall climbs taller and thinner, ribbing into fine spiral ridges. A fleck of clay flicks off the rim and crosses the lamp beam. The tools at her belt sway with her breathing.
+
+5.5-8s: Continue. The rim begins to waver, tips off centre, and the wall folds over on itself and settles into a low collapsed spiral. Her hands lift clear and hold above it, fingers open. Cut on the hands stopping.
+
+8-11.5s, shot 2: Hard cut to a locked close-up of her face, lamp hard from the left, window light rimming her jaw. She looks down at the ruin and her jaw sets. The gold seam on her cheek flares in the lamp. Her shoulders drop, breath goes out, and the corner of her mouth lifts into a small closed-lip smile. The copper-bound braid swings once against her neck. Cut on the smile arriving.
+
+11.5-15s, shot 3: Hard cut to a low angle just above the wheel head, her hands entering from above. The porcelain hand presses the collapsed spiral down into a rounded mound and holds it centred while her other hand drives the wheel edge and the wheel accelerates. Her thumb sinks and opens a shallow new bowl, and the clay runs true again. The camera pushes in slowly. End on the clay turning, no held pose, no further cut.
+
+Sound: the wheel's steady electric hum throughout, the low rumble of turning clay, water trickling in the basin, the soft heavy fold of the collapse, one quiet breath out, the creak of the leather belt, and the wheel rising to a faster whir at the end. No music. No subtitles, captions, logos, title cards or overlays.
 ~~~~
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-023816/video-90162a4f2d1f.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/created-using-minimax-h3-on-852344/video-137186aebdb7.webm)
 
-**Source:** [@CaliraVal](https://x.com/CaliraVal/status/2096833346555023816) · 15s · 4:3 · product commercial
+**Source:** [@TheJumbledSoul](https://x.com/TheJumbledSoul/status/2101302250752852344) · 15s · 4:7 · music video
 
 ---
 
-### 8. Made with MiniMax H3
+### 8. MiniMax H3 on
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-484954/video-7ebec37132d1.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-484954/poster-abe265a9f51c.jpg" alt="Made with MiniMax H3 video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-on-564094/video-c85fe826a8ec.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-on-564094/poster-de3eb6c44669.jpg" alt="MiniMax H3 on video preview" width="700" />
 </a>
 
 <details>
-<summary><strong>Prompt</strong> — A continuous 4K travel vlog video featuring a young East Asian woman with long dark hair, wearing a white crop top, open white shirt, and beige shorts, exploring Istanbul. The...</summary>
+<summary><strong>Prompt</strong> — 15s | 16:9 | One Continuous Take | Korean Dialogue Only | No BGM/Subtitles Ultra-photorealistic live-action supernatural martial-arts thriller. So-Yeon (same actress throughout):...</summary>
 
 ~~~~text
-A continuous 4K travel vlog video featuring a young East Asian woman with long dark hair, wearing a white crop top, open white shirt, and beige shorts, exploring Istanbul. The video seamlessly sequences through dynamic travel moments: starting with a close-up ASMR intro whispering into a mic near Hagia Sophia, transitioning to a handheld selfie camera spinning through a sunny square filled with tourists. Cut to a low-angle shot inside a historic mosque gazing up at grand domed ceilings and Ottoman arches, followed by a golden-hour rooftop moment near Galata Tower with her hair blowing softly in the breeze. She then stands on a Bosphorus ferry railing smiling at the camera, walks down a narrow cobblestone alley lined with outdoor cafes, offers a cup of Turkish coffee close to the lens in a cozy cafe, and ends with a wide cinematic twilight shot of the illuminated Istanbul skyline across the water. Hyper-detailed, photorealistic, 8k resolution, cinematic lighting, vibrant natural colors, fluid movement, photorealistic face and physics.
+15s | 16:9 | One Continuous Take | Korean Dialogue Only | No BGM/Subtitles
+
+Ultra-photorealistic live-action supernatural martial-arts thriller. So-Yeon (same actress throughout): 160cm, messy black hair covering eyes, black hoodie, gray sweatpants, Converse. Real human actors, real locations, practical VFX only.
+
+Location: Rain-soaked Korean alley behind a night market. Food cart, scooters, crates, puddles, shutters, signs, cardboard boxes.
+
+Combat Style: Unarmed only. Sanda + Muay Thai clinch + Silat. Fast, messy, close-quarters fighting. Multiple attackers, realistic collisions, no poses or theatrical choreography.
+
+Fault-Line Physics: Strength remains physical and grounded. Heavy impacts create realistic cracks from exact contact points: impact → vibration → cracks → dust/water movement → debris settling. No glow, energy effects, shockwaves, teleportation, or magic visuals.
+
+0–3s — Blocked Alley
+
+So-Yeon walks carrying a small plastic bag. Seven thugs block the alley. A delivery rider tries to pass. The leader shoves the scooter aside:
+
+"꺼져."
+
+So-Yeon steps forward:
+
+"그 사람 건드리지 마."
+
+The leader grabs her shoulder.
+
+3–7s — First Collision
+
+She counters instantly: wrist control → knee → elbow → throw. He crashes into stacked crates. Her sneaker lands in a puddle; thin cracks spread through the pavement. Everyone freezes.
+
+A thug yells:
+
+"다 같이 가!"
+
+All six rush her.
+
+7–11s — Market Chaos
+
+She ducks a punch that hits a metal shutter, redirects attackers into each other, throws one into a food cart, and sweeps another. The delivery rider pulls the elderly shop owner out of danger. Brief 0.2s micro slow-motion on a heavy impact as cracks spread through wet pavement before returning to real time.
+
+11–15s — Human Moment
+
+The last two attackers collide into a concrete wall, creating a deep crack. Silence.
+
+The rider asks:
+
+"누나... 괜찮아요?"
+
+So-Yeon looks at her trembling hands. The elderly shop owner returns her dropped plastic bag:
+
+"이거."
+
+She accepts it with a small embarrassed bow. The damaged cart slowly rolls in the background.
+
+CUT TO BLACK.
+
+Camera: Reactive handheld documentary style, tight dialogue close-ups, sudden reframing during action, natural autofocus hunting, realistic motion blur, impact shake, authentic human reactions. No superhero poses, no exaggerated expressions, no CGI doubles. Focus equally on civilians, environment, and grounded physical combat.
 ~~~~
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-484954/video-7ebec37132d1.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-on-564094/video-c85fe826a8ec.webm)
 
-**Source:** [@Zyrellix](https://x.com/Zyrellix/status/2096817125864484954) · 15s · 7:4 · vlog
+**Source:** [@itxabdullaa](https://x.com/itxabdullaa/status/2101269716568564094) · 15s · 16:9 · music video
 
 ---
 
-### 9. Try it →
+### 9. This time: BLADE.
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-731290/video-45072d167800.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-731290/poster-ec2c3bde4342.jpg" alt="Try it → video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/this-time-blade-469270/video-4dd3e6286010.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/this-time-blade-469270/poster-ecb491253295.jpg" alt="This time: BLADE. video preview" width="700" />
 </a>
 
 <details>
-<summary><strong>Prompt</strong> — Create a 15s, 9:16, 24fps high-energy anime fashion commercial for “SOLVÉRA — PINK SEOUL MODE.” Style: K-pop girl-group MV × Korean Y2K × Pink Cyber × Seoul street fashion ×...</summary>
+<summary><strong>Prompt</strong> — Hyper-kinetic action-film title sequence opening on a mirror-polished titanium wall in complete darkness. A razor-thin energy cut suddenly slices through the surface, spraying...</summary>
 
 ~~~~text
-Create a 15s, 9:16, 24fps high-energy anime fashion commercial for “SOLVÉRA — PINK SEOUL MODE.”
-Style: K-pop girl-group MV × Korean Y2K × Pink Cyber × Seoul street fashion × photo-booth aesthetics × cute luxury. Pink, glossy, playful, sexy, stylish, rebellious and premium. Adult fashion only, never childish or schoolgirl.
-Character: One fictional adult Korean anime woman in her 20s with refined Korean features, fair luminous skin, long dark-brown hair, glossy lips, slim feminine figure, long legs and confident K-pop idol energy. Keep exactly the same face, hairstyle, age and body proportions in every shot. Outfits may change.
-Palette: hot pink, baby pink, blush pink, glossy white, chrome silver, small black accents.
-Every shot combines character movement + dynamic camera movement + foreground graphics. Use pink bows, chrome hearts, stickers, rhinestones, plush charms, photo-booth cards, holographic stars and bold Korean typography.
-0–1s — HOOK
-Extreme close-up. Camera rushes through pink bows and heart charms. She lowers pink sunglasses and looks directly at camera. Text: “PINK!” / “오늘도 핑크.” Giant heart wipes lens.
-1–3s — SEOUL STREET
-She confidently walks through a neon pink Hongdae street in a fitted pink mini dress, white jacket and silver boots. Low-angle tracking, strong parallax, flying stickers and hearts. Text: “SO CUTE.”
-3–5s — Y2K SWITCH
-Pink handbag wipes lens. New baby-pink Y2K look. She spins and looks back while camera orbits. Korean photo-booth frames appear around her. Text: “PINK MODE.”
-5–7s — K-POP / CYBER
-Fast cut to glossy K-pop stage, then futuristic pink Seoul subway. She performs a short dance move and reaches toward lens. Chrome hearts and neon Hangul orbit her. Text: “NO RULES.”
-7–9s — GRAPHIC EXPLOSION
-Huge pink Korean typography: “핑크는 자유야.” Camera flies through letters, torn paper, glitter, stickers and chrome graphics. Cut to her stepping from a pink elevator in a deep-pink mini dress. Text: “TOO CUTE?”
-9–10.5s — MAXIMUM PINK
-Rapid pull-back reveals a surreal pink world filled with bows, plush charms, handbags, photo cards, headphones and floating hearts. She raises one eyebrow. Text: “아직 부족해.” Everything suddenly stops.
-10.5–12s — SOFT BREAK
-Pure blush-pink background. Pale-pink mini dress and oversized white blazer. She walks forward slowly for two steps. Minimal graphics. Only bell and footsteps.
-12–15s — FINAL EXPLOSION
-Beat returns. Photo-booth cards of previous looks fly around her in a 3D collage. End on hot-pink hero background. She gives a confident cute-sexy pose and small smile.
-Huge text hits with beat:
-“CUTE”
-“IS POWER”
-“귀여움은 힘이야.”
-“SOLVÉRA — PINK SEOUL — OUT NOW”
-Music: K-pop hyperpop × bubblegum bass, ~150 BPM, punchy kick, bright synths, bells, cute vocal chops and camera shutters.
-Avoid: face drift, body changes, inconsistent character, chibi, schoolgirl styling, childish proportions, static posing, weak camera motion, unreadable text, generic cute visuals.
-Final feel: a premium pink Korean K-pop fashion campaign — cute, sexy, Y2K, energetic, glossy and unforgettable.
+Hyper-kinetic action-film title sequence opening on a mirror-polished titanium wall in complete darkness. A razor-thin energy cut suddenly slices through the surface, spraying white-hot sparks and molten droplets across the frame. A second cut appears from another angle, then dozens strike in rapid succession, carving deep geometric paths through the metal. The camera aggressively follows each slash as huge titanium sections separate and spin through the air. A powerful magnetic field violently pulls the fragments toward the center, where sharpened metal plates slide, rotate and lock together to construct "BLADE" with surgical precision. The completed title is thin, lethal and forged from scratched black steel, every edge glowing red-hot from friction. The camera sweeps inches above the letters before one final invisible slash cuts through the entire word and triggers a spectacular explosion of metal splinters and sparks. Aggressive, precise, dark, premium Hollywood action typography.
 ~~~~
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-731290/video-45072d167800.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/this-time-blade-469270/video-4dd3e6286010.webm)
 
-**Source:** [@ImaStudio_ai](https://x.com/ImaStudio_ai/status/2096807169945731290) · 15s · 16:9 · product commercial
+**Source:** [@CharaspowerAI](https://x.com/CharaspowerAI/status/2101265127584469270) · 15s · 16:9 · music video
 
 ---
 
-### 10. Cold, creamy, and impossible to resist. 🍓✨ One spoonful changes everything.
+### 10. She found a cell phone that had been secretly filming her, and the camera was right behind her.
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/cold-creamy-and-impossible-to-resist-one-spoonful-changes-everything-689457/video-bdc9d5f87ae9.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/cold-creamy-and-impossible-to-resist-one-spoonful-changes-everything-689457/poster-1fe0602318ea.jpg" alt="Cold, creamy, and impossible to resist. 🍓✨ One spoonful changes everything. video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/she-found-a-cell-phone-that-had-been-secretly-filming-584121/video-c785f0871a16.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/she-found-a-cell-phone-that-had-been-secretly-filming-584121/poster-b585bc27a35d.jpg" alt="She found a cell phone that had been secretly filming her, and the camera was right behind her. video preview" width="700" />
 </a>
 
 <details>
-<summary><strong>Prompt</strong> — TITLE: Premium Strawberry Cheesecake Ice Cream Product Commercial Storyboard FORMAT: • Single-page premium storyboard • 3:4 Portrait ratio • Cinematic frozen dessert advertising...</summary>
+<summary><strong>Prompt</strong> — For the target video, at 0.00 seconds into the target video, &lt;Picture 1&gt; (from [Shot 1]) is fully referenced. integrated_multimodal_description: [Shot 1] A 15-second, 16:9...</summary>
 
 ~~~~text
-TITLE:
-Premium Strawberry Cheesecake Ice Cream Product Commercial Storyboard
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
 
-FORMAT:
-• Single-page premium storyboard
-• 3:4 Portrait ratio
-• Cinematic frozen dessert advertising campaign
-• 8 completely different product-focused scenes
-• Product remains the main visual hero
-• Premium advertising agency presentation
+integrated_multimodal_description: [Shot 1] A 15-second, 16:9 cinematic realistic suspense short set entirely inside the same rainy neon stair alley from <Picture 1>. Preserve the exact same female lead throughout: same face, hairstyle, soaked wardrobe, body proportions, skin texture, and the same staircase geography with wet steps, narrow alley, railings, humid air, and neon mood. No scene change, no extra people, no black ending. The story is: a drenched woman slowly walks down the stairs, notices an iPhone still recording on one step, bends to pick it up, realizes the screen shows her own back filmed from behind, instinctively steps back half a step into the railing and whips her shoulder and head around, but the real staircase is empty. End on the suspended moment where she is half-turned, half-looking down, with the screen still lit. She stays in motion throughout: descending, stopping, noticing the phone, bending to pick it up, standing with the screen, stepping back, leaning to the railing, turning shoulder and head, then looking back to the phone. The phone must stay physically consistent in size and readability. [Shot 2] At 00:00-00:02.8, a low dynamic near shot hugs her legs, waist, and the wet railing as the camera slowly pushes in and follows her down about one and a half steps. The emphasis is on lower-body weight transfer, wet skin reflections, and action-based sensual tension. Her right hand keeps a subtle stabilizing relationship with the railing. She is soaked, moving carefully but not weakly. Her first emotional phase is calm, restrained, and oppressive self-protection: eyelids half-lowered, gaze angled beyond camera toward the lower stairs, brows held flat with only the outer ends slightly lowered, lips naturally parted, breath low and steady, nostrils moving lightly, no smile. Pink-violet neon washes the front-upper planes of the chest, collarbone, abdomen, and front thighs, while cyan-blue edge light wraps the waistline, outer arms, and leg contour. This is the first sensual close-up: legs, waist, wet skin, deep wet fabric contours, and real descending balance. [Shot 3] At 00:02.8-00:05.0, cut to a medium-close slightly high angle that lands on the step at her feet while keeping one stopped boot and the railing in the foreground. A lit iPhone lies near the edge of shallow step-water. The red recording dot must be immediately readable. She stops on the stair, not frozen but caught mid-motion. Her gaze narrows sharply toward the phone, pupils snap into focus, the brow center contracts into only the thinnest line, she takes one short nasal breath, her lips close lightly from their previously open state, and the jaw gathers in. This is the first layer of wrongness, not yet fear. She murmurs quietly, <d>[English] Whose phone is this...?</d> The line is tentative and low, with the ending gently falling away. Phone screen light adds a third small light source, lifting the forehead edge, nose bridge, lash line, and cupid’s bow with cool white. [Shot 4] At 00:05.0-00:07.8, a tight near shot from her right-front follows her bend as she picks up the phone. Stay close to the hand, collarbone, side waist, wet hair falling forward, and the exact moment the device leaves the stair. She remains connected to the railing with the right side of her body and hand relationship, even while reaching. Her eyes stay locked on the phone the whole time. Lashes cast a slight shadow downward. The lips tighten more, the throat moves with one very small swallow, breathing becomes noticeably shallower, and the face shifts into focused verification rather than panic. This is the second sensual close-up: hand, collarbone, side waist, wet hair, and the phone entering the center of the narrative. Rain hits the glass and forms tiny round splashes and sliding beads. When she pinches the phone edge and lifts it, droplets drag aside and one or two thin water threads stretch briefly and break. [Shot 5] At 00:07.8-00:10.5, a near shot layers the phone screen and half her face. First make the screen content legible, then carry focus into her face without losing the screen read. The phone display shows only one clear thing: her own back descending the staircase, filmed from a steady hidden angle one step higher behind her. No second face, no ghost, no supernatural clutter. She sees it and recognizes herself. Her fourth emotional phase is clear alert recognition: her eyes flick once across the screen and then hold, the lower lids lift slightly, the pupils widen just a little, the brow center tightens more clearly while still restrained, nostrils open and settle, any remaining softness in the mouth disappears, and the lower lip stalls for a beat as if a sentence is trapped in the throat. She whispers, <d>[English] Wait... that’s me.</d> The first half carries a tiny delay as recognition catches in her breath. The phone’s cold light now fills the lower half of her face and under-eye area, making the micro-expression readable without overpowering the neon mood. [Shot 6] At 00:10.5-00:12.8, an extreme close-up pushes from shoulder-neck, side face, lashes, and lip line into the eye. This is the third sensual close-up, centered on the dangerous moment before she turns. She keeps the phone close to her chest line, glances once more at the screen, and then prepares to look back. Her fifth emotional phase is being pressed by the implication that the filming angle was behind her: lashes tremble once, breathing tightens, the lip line draws in, cheek muscles firm slightly, and she says in a lower, faster, more pressured whisper, <d>[English] Who the hell is filming me?</d> It is not shouted, but forced low confirmation. One side of her face drops deeper into shadow while the other is caught by soft pink-violet neon on lashes, nose tip, lip peak, and jaw edge. [Shot 7] At 00:12.8-00:15.0, a medium-close shot with a slight retreat. Let the turning motion carry the cut. She shifts back by half a step, the wet sole dragging a very small water trace, shoulder and collarbone leading the head turn rather than the head teleporting first. Her back and right side find the railing. She turns sharply toward the upper stairs, but the real staircase is empty. She then drops her gaze back to the still-lit phone at chest level. Her final emotional phase is cold controlled aftershock: the eyes cut first upward, then back down, the forehead tightens lightly, the jaw stays tight, the mouth opens by half a breath and then slowly closes again, fear controlled but not gone. The screen remains lit and still recording. The staircase behind her stays empty, wet, neon-lit, and physically real. End with her half-turned, half-looking down at the glowing iPhone, rain still falling, neon still flickering, and suspense held inside the frame, without cutting to black.
 
-**HEADER:**
-• Bold editorial typography
-• Information cards:
+overall_soundscape: Maintain a continuous rainy neon stairwell ambience: mid-strength rain, water ticking on railing and steps, shallow drainage flow, distant electric hum, soft neon buzz, and humid night reverb. Emphasize wet footfalls on the stairs, the subtle grip and slide of her hand on the railing, clothing friction, low controlled breath, and fine splashes from shallow step-water. Then bring forward rain striking the phone glass, tiny circular water impacts, the slight stop in her step, her low tentative line <d>[English] Whose phone is this...?</d>, fingers contacting the wet phone, water dragging across the screen, a faint lift-off suction from the wet stair, her shallow breath, fabric tension as she bends, one small swallow, and the surrounding rain and neon hum dimming slightly as she reads the screen. Finish with the tightening breath before the turn, the low pressured line <d>[English] Who the hell is filming me?</d>, one light metallic touch from the railing, the small backward step drag on wet stair, empty stair ambience, continuing rain, neon buzz, and the phone still recording in her hand. No scream, no extra voices, no subtitles.
 
-* Duration: 10 Seconds
-* Style: Cinematic Dessert Commercial
-* Product: Strawberry Cheesecake Ice Cream
-* Audio: Spoon Scrape + Creamy Dessert ASMR
-  • Why This Style Works section
-  • Soft pink, strawberry red, cream and vanilla aesthetic
-  • Minimal strawberry and dessert-themed decorative details
-
-STORYBOARD:
-
-1. Premium strawberry cheesecake ice cream tub standing dramatically on a chilled marble surface, front packaging perfectly visible
-2. Tub opening with a crisp close-up of the lid lifting and creamy ice cream revealed underneath
-3. Ice cream scoop pressing into the surface, revealing rich strawberry cheesecake layers and realistic creamy texture
-4. Extreme macro of strawberry pieces and cheesecake crumbs embedded throughout the ice cream
-5. Fresh strawberry sauce flowing slowly across a perfectly formed scoop, creating glossy red ribbons
-6. Ice cream scoop lifted onto a glass dessert cup with tiny cheesecake crumbs falling naturally around it
-7. Close-up of spoon breaking through the creamy scoop, revealing strawberry filling and soft cheesecake pieces inside
-8. Final hero product shot with the original ice cream tub beside an elegant dessert cup, fresh strawberries, crumbs and strawberry sauce arranged around the product
-
-EVERY PANEL:
-• Scene number
-• Duration badge
-• Camera direction
-• Visual
-• Action
-• Product detail
-
-CAMERA:
-Extreme macro food photography, smooth scoop movement, slow-motion strawberry sauce pour, detailed texture close-ups, controlled push-in, shallow depth of field, elegant overhead composition, cinematic final packshot.
-
-STYLE:
-Ultra-realistic premium frozen dessert commercial, rich creamy ice cream texture, realistic strawberry pieces, detailed cheesecake crumbs, glossy strawberry sauce, authentic condensation, sharp packaging details, soft cinematic lighting, luxurious food styling, professional dessert advertising, 8K.
+non_diegetic_music: Keep score absent or nearly absent. If any non-diegetic layer is used, make it only a very thin low suspense drone under the rain and neon hum, rising slightly after she sees the screen and never overpowering the physical environment or dialogue.
 ~~~~
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/cold-creamy-and-impossible-to-resist-one-spoonful-changes-everything-689457/video-bdc9d5f87ae9.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/she-found-a-cell-phone-that-had-been-secretly-filming-584121/video-c785f0871a16.webm)
 
-**Source:** [@itxabdullaa](https://x.com/itxabdullaa/status/2096555195618689457) · 10s · 9:16 · product commercial
+**Source:** [@ou_zhen599](https://x.com/ou_zhen599/status/2101258477813584121) · 15s · 16:9 · music video
 
 ---
 
-### 11. SHATTER.
+### 11. 📷“Wake Up, Neon”
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/shatter-695817/video-3dd688759057.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/shatter-695817/poster-f97a8a5e14b5.jpg" alt="SHATTER. video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/wake-up-neon-236692/video-664bc4a0fa7b.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/wake-up-neon-236692/poster-7f0a819f42d0.jpg" alt="📷“Wake Up, Neon” video preview" width="700" />
 </a>
 
 <details>
-<summary><strong>Prompt</strong> — Premium action-film title sequence beginning with a gigantic transparent glass monolith floating against complete blackness. A tiny projectile impacts the exact center and an...</summary>
+<summary><strong>Prompt</strong> — For the target video, at 0.00 seconds into the target video, &lt;Picture 1&gt; (from [Shot 1]) is fully referenced. integrated_multimodal_description: [Shot 1] A 15-second, 16:9...</summary>
 
 ~~~~text
-Premium action-film title sequence beginning with a gigantic transparent glass monolith floating against complete blackness. A tiny projectile impacts the exact center and an intricate network of cracks instantly races across the entire surface. The camera pushes directly into one expanding fracture, traveling through the microscopic crystalline structure as tension builds everywhere. Suddenly the monolith violently detonates into millions of glass fragments. The camera performs a fast 360-degree orbital move through the suspended crystal storm as every shard reflects sharp beams of cinematic light. An invisible force begins pulling selected fragments together, constructing the enormous word "SHATTER" from overlapping razor-thin glass shards. The completed transparent typography refracts the entire environment like a giant prism before another pressure wave passes through it, producing thousands of secondary fractures. The letters explode outward directly toward the lens in spectacular ultra slow motion. Extremely detailed glass physics, realistic refraction and caustics, elegant brutality, premium Hollywood VFX.
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description: [Shot 1] A 15-second, 16:9 cinematic cyber-thriller image-to-video sequence set entirely inside the same wet neon back alley from <Picture 1>: the left-front railing zone where A begins, the street centerline, the puddle reflection layer, and the opposite fog-filled exit in the background. Do not add extra people, do not place both women on the same staircase segment, and do not leave this alley. Subject A is the blue-haired woman from <Picture 1>, with the same face, body, black deep-V leather bodysuit, fishnets, over-knee boots, metallic choker, glowing beverage can, goggles, and jacket ring-light. Subject B must be the exact same face, hairstyle, body, and clothing silhouette as A, but with a refined dangerous harlequin-style makeup variation, not a different woman. The story is: A rules her own staircase entrance like a queen, fog grows at the opposite exit, a Queen of Hearts card flies out, A catches it one-handed and recognizes it as a provocation, then rises and looks up to see her identical mirror-woman emerging from the fog and forcing her to leave her throne. Lighting comes only from practical neon, staircase reflections, the fog backlight, and distant storefront light. Rain, wet hair, cloth folds, skin reflections, boot splashes, condensation droplets, and natural body inertia remain physically real. [Shot 2] At 00:00-00:03.5, begin with an extremely low ground-level push from puddles, discarded paper, and lane markings into A’s boots, fishnets, thighs, leather chest, and jaw, ending in a near frame from chest to lips. A sits on the center of the third step from the bottom of the staircase, leaning slightly forward as if guarding the entrance to her territory. This is the first sensual close-up, built from collarbone, throat line, deep-V leather highlights, and the nearly invisible rise and fall of her breathing. Her first emotional state is cool sovereign control: brows relaxed but not soft, eyelids half-lowered, gaze not fully locked on the distance yet, lips lightly closed, breathing almost silent, throat moving once faintly. The puddles reflect blue and magenta neon steadily, and the opposite street exit holds only a thin fog presence. [Shot 3] At 00:03.5-00:07.0, the camera eases slightly backward and rises just enough to include both the staircase foreground and the opposite exit. The fog there becomes denser, first rolling close to the ground and then pressing outward slowly, with neon cutting bright lines along its edges. A is still seated, but the second emotional stage begins. She does not widen her eyes dramatically. Instead her breathing stops for half a beat first, her lips loosen by a fraction, the lower lids lift slightly, and her gaze truly focuses toward the opposite exit for the first time. Her head tips subtly toward the source of the sound and fog. Then a Queen of Hearts card is carried out of the fog by damp wind, turning half a rotation and gliding naturally through the mid-ground mist toward A. Do not chase the card wildly. A’s right hand rises fast and clean and catches it one-handed at chest height slightly to her right, with real deceleration in the wrist and fingers. Her third emotional stage is confirmation of provocation: before the catch, her eyes narrow sharply and the brow center hardens slightly; after the catch, she drops her gaze to the card, the throat moves once, the jawline begins to tighten, and the original calm disappears. This is the second sensual close-up, built from the catching wrist, collarbone, leather highlights across the chest, eyelash shadows, and the lip line and jaw while glancing down at the card. The Queen of Hearts face must be clearly readable; the paper is damp-soft with slightly curled edges and realistic motion. [Shot 4] At 00:07.0-00:10.2, from A’s left-front, the camera makes a slight lateral push and subtle rise, keeping the staircase, street, and opposite exit on one axis. A places her left hand on the railing and rises slowly. Her right foot steps down first, then the left follows into a high-low standing stance. She never leaves the immediate front zone of her staircase. The card remains in her right hand. Her fourth emotional stage is calm transition into combat readiness: eyes narrower and more concentrated, nostrils opening slightly with breath, lips tightening, jaw sharpening, and her gaze lifting off the card and back to the opposite exit as if thinking, “You really dared to do this.” During the rise, the leather outfit stretches and rebounds naturally, hair shifts back and settles, and her chest shows only a very slight real inertia response. This is the third sensual close-up, built from waist and hip effort, fishnet leg tension, neck and jaw line, and the chest moving with controlled breath. [Shot 5] At 00:10.2-00:12.7, hold a longer relation shot. A stays on the left side or left-lower edge of the foreground while the opposite exit sits centered in the back. Focus transfers gradually from A to B. B walks out of the fog by two small steps and stops at the edge of the backlit mist. She is the same face, same hairstyle, same body, same clothing outline as A, but with refined dangerous harlequin-style makeup: darker eye area, sharper mouth corners, and a more poisonous finish. A’s fifth emotional stage is recognition freeze. She locks for one beat: pupils contract quickly, the lip line releases for half a second, the throat catches on one breath, and for the first time her breathing goes off rhythm. Then she does not retreat; she becomes more focused. B’s emotional state is intimate contempt: stable eyes, one mouth corner rising very slowly, as if appreciating that A has finally understood. The fog keeps rolling behind B but never hides her face, and her body parts it with real wraparound flow. [Shot 6] At 00:12.7-00:15.0, use one restrained reverse shot to B in a medium close frame, pushing in extremely slowly. B stands at the street-exit edge, chin lifted slightly, one-sided smile in place, gaze locked on A at a distance. Before the line, give one tiny false-soft look; on the key words, the gaze turns straighter and the mouth shape grows more precise and cutting. The only spoken line is <d>[English] You dropped your crown.</d> It must be low, intimate, cold, and humiliating rather than loud. “You” is pressed low, “dropped” carries a little more weight, and “your crown” falls away like a verdict. After the line, A in the far frame or foreground edge takes one more step down, committing to leave her throne and meet the challenge. Her final emotional state shifts from frozen recognition into hard resolve: eyes harden again, lips tighten again, jaw stabilizes, shoulders do not collapse. When the line lands, a nearby neon briefly flickers once, and both the fog edge behind B and the puddle reflections brighten for an instant. End on the moment just before A moves toward the opposite side. Do not cut to black.
+
+overall_soundscape: Maintain a wet cyber alley ambience throughout: neon electrical hum, distant ventilation fans, moist air resonance, occasional water drips, and low street reverb. Emphasize puddle surface noise, faint leather movement, cloth friction, the subtle sound of A shifting on the step, and her almost inaudible breath. Then bring forward the slow spill of fog, the slight change in airflow at the opposite exit, the card fluttering and rotating, the light slap of paper into A’s fingers, a fine metallic tick from the railing, leather stretch and settle as she rises, fog movement as B parts it, soft heel contacts from B’s two steps, and B’s close cold line <d>[English] You dropped your crown.</d> Afterward restore the alley ambience with neon hiss, damp air, tiny puddle ripples, and fog drift. No extra voices, no subtitle cues, no music-video stingers.
+
+non_diegetic_music: Keep score minimal or absent. If any non-diegetic layer is used, make it a very thin low-frequency suspense bed beneath the alley ambience, rising only slightly once B is revealed and never overpowering the voice, neon, or the physical space.
 ~~~~
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/shatter-695817/video-3dd688759057.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/wake-up-neon-236692/video-664bc4a0fa7b.webm)
 
-**Source:** [@CharaspowerAI](https://x.com/CharaspowerAI/status/2096554023809695817) · 15s · 16:9 · music video
+**Source:** [@ou_zhen599](https://x.com/ou_zhen599/status/2101254179067236692) · 16s · 16:9 · music video
 
 ---
 
-### 12. Minimax H3 in
+### 12. Created with MiniMax H3 on
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-in-975646/video-a41f85105df7.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-in-975646/poster-7f4ee612296d.jpg" alt="Minimax H3 in video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-666438/video-981342f914ef.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-666438/poster-60faf7e2265c.jpg" alt="Created with MiniMax H3 on video preview" width="700" />
 </a>
 
 <details>
-<summary><strong>Prompt</strong> — CHARACTER: a fictional famous fashion-forward celebrity presenter styled like the Emperor from The Emperor’s New Clothes in a playful illustrated children’s-book way: natural skin...</summary>
+<summary><strong>Prompt</strong> — 15s | 16:9 | 4K HDR | 24fps | Photorealistic Fashion Film Use the uploaded girl as the exact character throughout. Maintain identical face, skin tone, hair, body proportions, and...</summary>
 
 ~~~~text
-CHARACTER: a fictional famous fashion-forward celebrity presenter styled like the Emperor from The Emperor’s New Clothes in a playful illustrated children’s-book way: natural skin tone, sleek dark hair, theatrical expression, extravagant cream-and-gold editorial royal outfit with exaggerated collar and cape, decorative shoes, jewel accents and a tiny mirror accessory. Preserve exact face, proportions, outfit, colors, materials and fairy-tale styling. No redesign.
+15s | 16:9 | 4K HDR | 24fps | Photorealistic Fashion Film
 
-STYLE: 80% kinetic graphics / 20% character action. Satirical children’s-book illustration × royal pageantry × metaphorical celebrity-image critique. Cream, gold, crimson, pale blue, black. Banners, trumpets, tailor motifs, mirrors, ornate page borders, review ribbons and parade routes. Typography: elaborate storybook display serif with royal ornament, banner tails and tailor-thread flourishes.
+Use the uploaded girl as the exact character throughout. Maintain identical face, skin tone, hair, body proportions, and identity in every shot.
 
-CUT 01 | 0–1s — Black field. A gold thread loops into a spinning royal portal; the Emperor-like celebrity silhouette flashes.
+0–3s: Luxury apartment overlooking a glowing city skyline. She opens a vintage suitcase, looks at camera and says: "Three outfits… and absolutely no time to decide!"
 
-CUT 02 | 1–2s — Extreme eye close-up. Blink and sideways glance; little mirrors and approval stars form around the face, then a bright gold flash.
+3–6s: She places sunglasses over the lens. Seamless transition to Look 1: emerald satin blouse, cream trousers, heels. By the window. "Okay… this one means business."
 
-CUT 03 | 2–3.1s — Cream field, giant LOOK THE PART. He walks through holding the tiny mirror; letters stretch proudly with each step.
+6–9s: Finger snap transition to a rooftop party. Look 2: metallic mini dress, ankle boots, statement earrings. Wind in hair. "Now THIS is a little dangerous."
 
-CUT 04 | 3.1–4s — Six-panel illustrated publicity sheet rapidly rearranges into one flawless royal portrait framed by banners and thread motifs.
+9–12s: She walks past the lens, creating a body-wipe transition to Look 3: midnight-blue evening gown, elegant rooftop dinner setting. "Or should I go full glam?"
 
-CUT 05 | 4–5.1s — Parade grid. He walks along a glowing route while gold circles appear beneath his shoes. Giant DISPLAY rotates behind.
+12–15s: Wide rooftop shot. Holding sunglasses, shoulder bag, and clutch. Smiles and points at camera: "You decide. One, two, or three?"
 
-CUT 06 | 5.1–6s — Shoe hits the circle; a ripple expands and becomes BELIEVE. Fast camera push.
+Style: Ultra-realistic luxury fashion commercial, cinematic lighting, realistic fabrics, natural expressions, shallow depth of field, smooth camera movement, premium editorial quality.
 
-CUT 07 | 6–7s — Crimson field. He performs a smooth 180° turn with three theatrical motion echoes. POSE rotates around him.
-
-CUT 08 | 7–8s — STUNNING / LUXE / ICONIC / UNTOUCHABLE slam in rapidly as he crosses foreground, cape moving naturally.
-
-CUT 09 | 8–9s — White field with moving spotlight. He raises the mirror; reflected light becomes review cards and image-management lines. Gold UI lock-on.
-
-CUT 10 | 9–10.1s — Floating crowns, fashion labels, applause icons and headlines surround him; each disappears on contact but leaves behind more decorative spectacle.
-
-CUT 11 | 10.1–11.1s — Rapid close-ups: eye, collar, mirror, cape, shoes, full character. Graphic frames and 01–04 flash.
-
-CUT 12 | 11.1–13s — HERO: cream storybook studio. He walks center, stops with theatrical confidence. A royal parade burst explodes behind with banners, tailor-thread swirls, ornate trims and mirrors. Freeze → white flash. The metaphor reveals the machinery of hype sustaining an image.
-
-CUT 13 | 13–15s — Cream illustrated title card. Huge royal lettering: THE EMPEROR’S NEW CLOTHES. He stands beside it while a gold thread stitches across the frame once. Logo pulses once → black.
-
-EDITING: Hard beat cuts, parade wipes, snap zooms, banner transitions, freeze frames and impact shakes. Every cut visually distinct. Perfect character consistency.
-
-SOUND: Bright orchestral-pop with trumpets, pizzicato strings, soft drums, pageantry swells, shoe taps, mirror chimes and whimsical UI accents. Peak at CUT 12, theatrical title stinger.
-
-QUALITY: Premium AAA cinematic × children’s-book illustration × fairy-tale metaphor for spectacle overpowering authenticity. No weapons/combat/fire. Exactly 13 cuts, exactly 15 seconds.
+Negative: No face changes, identity drift, duplicate character, extra people, distorted hands, bad anatomy, flicker, jump cuts, subtitles, logos, watermarks, or text overlays.
 ~~~~
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-in-975646/video-a41f85105df7.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-666438/video-981342f914ef.webm)
 
-**Source:** [@airina_xyz](https://x.com/airina_xyz/status/2096297619391975646) · 15s · 7:4 · fashion
+**Source:** [@itxsarmadd](https://x.com/itxsarmadd/status/2101244508767666438) · 15s · 16:9 · product commercial
 
 ---
 
-### 13. You can use this style for MVs and character promos too.
+### 13. 📷“The Fallen Crown”
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/you-can-use-this-style-for-mvs-and-character-promos-142588/video-a7fdf9edba2b.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/you-can-use-this-style-for-mvs-and-character-promos-142588/poster-dee683a178db.jpg" alt="You can use this style for MVs and character promos too. video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/the-fallen-crown-205994/video-22bb1d53e999.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/the-fallen-crown-205994/poster-16b19cd787a2.jpg" alt="📷“The Fallen Crown” video preview" width="700" />
 </a>
 
 <details>
-<summary><strong>Prompt</strong> — Create a Japanese anime pop-art motion-graphics commercial. Kiki must exactly match the character reference: lime-yellow hair with cyan and hot-pink accents, two colorful space...</summary>
+<summary><strong>Prompt</strong> — For the target video, at 0.00 seconds into the target video, &lt;Picture 1&gt; (from [Shot 1]) is fully referenced. integrated_multimodal_description: [Shot 1] A 15-second, 16:9...</summary>
 
 ~~~~text
-Create a Japanese anime pop-art motion-graphics commercial.
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
 
-Kiki must exactly match the character reference: lime-yellow hair with cyan and hot-pink accents, two colorful space buns, playful hair clips, bright anime eyes, cheek stickers, oversized neon pixel-print jacket, white cropped graphic top, dark strapped mini skirt, colorful accessories, cyan socks and chunky multicolor platform sneakers. Preserve the same face, hairstyle, proportions, outfit and colors throughout. Do not reproduce the character-sheet layout or labels.
+integrated_multimodal_description: [Shot 1] A 15-second, 16:9 cinematic realistic image-to-video sequence set entirely inside the same ancient temple porch and stone-column corridor shown in <Picture 1>. Preserve the exact same adult woman throughout: same face, hairstyle, makeup, garment cut, leather texture, body ratio, gait, and presence. The whole sequence stays in one continuous space only: the porch threshold, the narrow corridor between the right-side pillar and wall, and the same right-side wall mural zone. No exterior, no new hall, no extra people, no extra props, no subtitles, no watermark, and no black ending. The core story is that she is not entering the temple as a new visitor, but behaving like a brief awakened action-memory belonging to the wall mural itself. She is always moving or has just finished moving, never posing. [Shot 2] At 00:00-00:02.2, a low-angle near shot begins at boot heel, forward-driving legs, and knee line, then tilts up to collarbone, jaw, and part of the face. The camera stays close to the floor and glides backward as she crosses the threshold. When the right foot lands, thin floor dust is pressed outward by the boot sole and curls softly around the edge. Her gaze stays beyond the camera rather than into it, eyelids slightly lowered, pupils steady, lips naturally closed, and collarbone and upper chest rise and fall with restrained real breathing. Warm air from above and behind lifts the long hair gently, with slight delayed motion in the strands. Clothing follows the body line and rebounds subtly. This first sensual close-up is built entirely from gait, center-of-gravity transfer, collarbone breathing, jawline, and hair edge-light. [Shot 3] At 00:02.2-00:05.0, cut to a frontal medium close retreating shot, framing from chest to knee while she continues advancing on the central axis. During the advance she drifts half a step toward frame right and her left hand naturally grazes the relief carving on the right-side pillar without stopping to search. As her fingertips move across the stone, a small amount of fine stone powder slides down. One extremely thin, brittle ancient gold-leaf fragment peels away from the carving and sticks lightly between her index and middle fingers. Her eyes do not make a large turn at once. First she checks it with peripheral vision, the brow peak lifts by an almost invisible degree, the lip line softens slightly, and the breath becomes shallower. Lighting remains warm side-back gold on her edges and cool shadow on the pillar, with soft highlights on the leather surfaces. [Shot 4] At 00:05.0-00:07.4, cut to a near close-up from side waist to hand, the camera slightly low and behind her right side, following in a very small arc. She does not stop walking; instead the torso rotates subtly within the stride, hips and waist connected, as she lifts her left hand to inspect the gold leaf. Emphasize the side waist line, the slight pull and rebound of fabric caused by movement, and the tactile precision of her fingers rolling the fragment. Her gaze gathers inward from distance to fingertips, lashes pressing down, breath becoming very shallow at the nose tip, lips slightly parted without sound, and jawline gently tightening. Hair swings at the shoulder with small inertial delay. The gold leaf trembles in the edge light with weak realistic reflection rather than glitter. This is the second sensual close-up, built from waist, hand, cloth tension, breath, touch, and latent danger. [Shot 5] At 00:07.4-00:10.5, cut to a three-quarter side-front medium close shot. The camera moves in a tiny arc to her left-front and then stabilizes, keeping both her and the right-side wall relationship clear. She completes the last half step, moves close to the right wall, and presses the ultra-thin gold leaf into a nearly invisible crack in the wall. After pressing it in, she does not withdraw the hand immediately; the fingertips stay there for half a second. The crack begins to spread slowly along the buried line of the ancient wall image. Only a few tiny stone grains fall, and dust hangs briefly before settling. Her eyeballs hold, then perform one short refocus. Her brow center does not knot dramatically; both brow peaks draw slightly inward. The middle of the upper lip lifts faintly, the mouth opens by a low degree, and the breath catches once in the throat. She whispers, almost as breath itself, <d>[English] I never left.</d> The line should feel like recognition rather than exposition. Inside the crack there is only a weak gold dust-glow and subtle misalignment in the wall pattern, like memory inside stone being disturbed. No explosion, no beam, no collapse. [Shot 6] At 00:10.5-00:12.8, cut to a face close-up and push in slightly, focusing on the eyes, lips, cheekbone edge-light, and the small muscular changes around the mid-face. Her left hand remains on the wall. She does not retreat. Her eyes stay forward first, then flick for a fraction toward the interior of the wall as if hearing a response within it. The lips remain slightly parted, breath briefly suspended, lower lids slightly tight, and warm gold edge light catches the fine hair along the face. The emotion is a single struck instant of surprise held under extreme control, never a scream, never a wide-open panic. This is the third sensual close-up, centered on parted lips, paused gaze, hair rim light, and high-control micro-expression. [Shot 7] At 00:12.8-00:15.0, maintain the same axis and slowly withdraw from face close-up to medium and then medium-wide without rising, without changing angle, and without entering any new space. As the camera withdraws, it becomes gradually clear that her standing pose, raised arm angle, and head orientation precisely match the pose of an ancient painted goddess on the right wall. The mural does not suddenly appear; instead the old pigment layers, cracks, dust traces, and surviving outline in the wall are gradually revealed as something that was always there and is only now being seen. She does not perform an exaggerated reaction. She simply keeps one unfinished breath in the body. In the final beat, the painted goddess’s eyeball shifts by the smallest possible degree, the gold dust slowly settles back to the floor, and the sequence ends in an elegant uncanny suspended state without cutting to black.
 
-0–1.5s: A tiny magenta pixel expands on a white background, transforming into a spinning neon pixel-heart power-up charm suspended from a chain. Cyan, lime and hot-pink radial speed lines burst outward with checkerboard and halftone textures. Smash cut to the exact bold title: “PIXEL POP!”  1.5–3.6s: Extreme close-up of Kiki’s bright eyes opening on the beat. She smiles mischievously and points directly toward the camera. Surround her with pixel stars, controller-button icons and comic speed lines. Display the exact phrases “READY?” and “PRESS START!” Then snap to a second expression with the exact text “TOO FAST!” and “PLAYER KIKI”.  3.6–5.6s: Rapid fashion-detail montage: close-up of her colorful jacket collar and pixel patches, backpack strap, controller charm, belt buckles, neon-painted fingernails and small chain accessories. Use quick pans, graphic wipes and hard beat-synced cuts.  5.6–7.2s: Close-up of Kiki’s legs and chunky platform sneaker. She kicks the sole directly toward the lens, creating extreme fisheye foreshortening. A circular pixel shockwave, stars and colorful game particles explode beneath the shoe.  7.2–9.7s: Reveal Kiki reclining confidently in a dynamic full-body poster pose, one sneaker dominating the foreground and one hand reaching toward the viewer. Surround her with floating handheld consoles, controllers, pixel hearts, arcade stars, chat bubbles and colorful digital creatures. Use subtle parallax so every collage layer moves at a different speed.  9.7–12.3s: Kiki jumps forward and points at the camera while bold kinetic typography rapidly assembles around her. Show only these exact phrases: “LEVEL UP!”, “LOUD / BRIGHT / PIXEL / WILD” and “MAX COMBO!” Letters slam, stretch and bounce with white, black, hot-pink, cyan and lime color blocks.  12.3–14s: Finish on a polished collectible game-box or magazine-cover composition featuring Kiki’s full pose. Display the exact final title “KIKI POP”, with the smaller phrases “PLAYER ONE EDITION” and “BONUS LEVEL: MAX”. Add a barcode, tiny pixel icons and a colorful decorative border, then hold the final frame.
+overall_soundscape: Maintain a hollow ancient stone ambience throughout, with low temple air, soft boot pressure on dusted floor, faint grains sliding, fingertips rubbing stone, tiny wall-friction sounds, and restrained breathing. Emphasize boot contact, dust pushed outward by the step, hair moving in warm airflow, fingertip contact with the pillar carving, a fine trickle of stone powder, the fragile peel of the gold leaf, fabric pull-and-release at the waist and torso, the dry whisper of fingers rolling the thin gold leaf, the soft press of gold leaf into the crack, a delicate stone-grain release, faint wall-friction spread as the crack extends, dust pausing in the air, and her near-whispered line <d>[English] I never left.</d> Reduce the space further near the end to breath, tiny skin and cloth movement, microscopic wall resonance, settling dust grains, and the near-inaudible response of the mural’s living eye.
 
-Crisp premium anime illustration, Y2K Harajuku arcade aesthetic, saturated neon palette, bold black outlines, halftone dots, checkerboards, pixel graphics, comic-book speed lines and energetic 2D/3D parallax. Fast electronic arcade sound design with button clicks, digital power-up tones and beat-synced impact sounds. All specified text must be correctly spelled, large and clearly legible. No realistic person, no fruit imagery, no character duplication, no outfit changes, no distorted hands and no additional or unreadable text.
+non_diegetic_music: Use little to no score. If any non-diegetic layer is present, keep it to an extremely thin low sustained tonal bed, almost imperceptible, supporting the suspended ancient-memory feeling without turning the sequence into overt fantasy or horror.
 ~~~~
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/you-can-use-this-style-for-mvs-and-character-promos-142588/video-a7fdf9edba2b.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/the-fallen-crown-205994/video-22bb1d53e999.webm)
 
-**Source:** [@Mayz1169](https://x.com/Mayz1169/status/2095875210562142588) · 14s · 16:9 · product commercial
+**Source:** [@ou_zhen599](https://x.com/ou_zhen599/status/2101243238334205994) · 14s · 16:9 · horror
 
 ---
 
-### 14. Created with MiniMax H3 Max
+### 14. Made with MiniMax H3
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-max-120666/video-1dd8c321e87b.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-max-120666/poster-bba190dc87b8.jpg" alt="Created with MiniMax H3 Max video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-558505/video-ee8fca79ff2f.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-558505/poster-20724b7a5253.jpg" alt="Made with MiniMax H3 video preview" width="700" />
 </a>
 
 <details>
-<summary><strong>Prompt</strong> — A cinematic medium shot of a gentle East Asian young woman with dark hair styled in a bun adorned with a blue-and-white checkered bow, standing on a sunny pebbled lakefront. She...</summary>
+<summary><strong>Prompt</strong> — Photorealistic cinematic aerial video of a modern glass skyscraper assembling itself on a city construction site. Subject: a rectangular glass office tower growing from an empty...</summary>
 
 ~~~~text
-A cinematic medium shot of a gentle East Asian young woman with dark hair styled in a bun adorned with a blue-and-white checkered bow, standing on a sunny pebbled lakefront. She wears a sleeveless light blue polka-dot tulle dress with long, translucent white ribbons flowing from her shoulder that flutter gracefully in a gentle breeze. Holding a lush bouquet of pastel pink, baby blue, and white flowers, she smiles warmly at the camera, softly touches the flower petals, and tilts her head back slightly to close her eyes and feel the breeze. In the background, glistening blue lake water sparkles under the sun, bordered by tall green reeds along the shore and serene blue mountains under a bright, clear sky, captured in soft natural daylight with a shallow depth of field.
+Photorealistic cinematic aerial video of a modern glass skyscraper assembling itself on a city construction site.
+
+Subject: a rectangular glass office tower growing from an empty lot, surrounded by three yellow tower cranes. Cyan holographic construction overlays with grid lines, vertical pillars, and orbiting energy rings.
+
+Environment: dense low-rise East Asian city block with tiled roofs, green rooftops, trees lining the streets, buses and cars on the roads, taller buildings and a sports field in the distance.
+
+Style: ultra-realistic aerial photography, golden-hour to sunset color grade, sharp glass reflections, warm interior lights versus cool cyan holograms.
+
+Camera: one continuous high-angle drone shot. Starts looking down on the lot, then slowly pulls back and lifts as the building grows, ending on a hero three-quarter view of the completed tower against the sunset.
+
+Lighting: late afternoon sun at the start; sky shifts to orange, coral, and pink clouds; finished tower glows with warm yellow office lights.
+
+[0s] Empty rectangular construction pit in the city. Three yellow cranes stand around the site. A faint cyan holographic floor grid appears on the dirt.
+
+[2s] Glowing cyan pillars rise from the grid and lock into a structural skeleton. Cranes stay in place.
+
+[4s] Concrete core and first floor slabs materialize. Cyan rings begin orbiting the structure. Camera starts a slow pull-back and rise.
+
+[7s] Mid-rise floors stack rapidly. Dark glass curtain walls wrap the lower levels. Interior lights start coming on. Sky turns warmer.
+
+[10s] Tower is now a tall glass skyscraper. Cranes lift the last rooftop mechanical sections into place. Cyan hologram fades. Sunset sky is intense orange-pink.
+
+[13s] Construction complete. Clean modern tower with lit interiors, one remaining crane at the base. Hold the final cinematic aerial frame.
+
+Audio: distant city traffic, compressed construction rumble early, then a low cinematic swell as the building finishes. No dialogue. No on-screen text. No watermark.
+
+Avoid: cuts, shaky camera, cartoon look, people close-up, logos, extra towers appearing out of nowhere, watermark, subtitles, UI overlay.
+
+#FlovaAI #CPP
 ~~~~
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-max-120666/video-1dd8c321e87b.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-558505/video-ee8fca79ff2f.webm)
 
-**Source:** [@TaliaAariz](https://x.com/TaliaAariz/status/2095857062987120666) · 15s · 4:7 · cinematic story
+**Source:** [@Zyrellix](https://x.com/Zyrellix/status/2101221316229558505) · 15s · 4:7 · music video
 
 ---
 
-### 15. "integrated_multimodal_description: [Shot 1] Stylized 3D Pixar-animated look
+### 15. Minimax H3, open weights, generated locally. One lamp, one flower, rain on the glass.
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/integrated-multimodal-description-shot-1-stylized-3d-pixar-animated-look-093063/video-e08a8e78744e.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/integrated-multimodal-description-shot-1-stylized-3d-pixar-animated-look-093063/poster-afc1b6a2c715.jpg" alt="&quot;integrated_multimodal_description: [Shot 1] Stylized 3D Pixar-animated look video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-open-weights-generated-locally-one-lamp-one-flower-997920/video-439b574e2788.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-open-weights-generated-locally-one-lamp-one-flower-997920/poster-ba38f224c0b1.jpg" alt="Minimax H3, open weights, generated locally. One lamp, one flower, rain on the glass. video preview" width="700" />
 </a>
 
 <details>
-<summary><strong>Prompt</strong> — &quot;integrated_multimodal_description: [Shot 1] Stylized 3D Pixar-animated look, soft rounded character design, expressive exaggerated eyes, glossy cartoon textures, warm cinematic...</summary>
+<summary><strong>Prompt</strong> — &quot;the petals open one ring at a time from the outside in&quot; Duration: 15s. Camera: locked, pot height. Rendered locally in ComfyUI, then Topaz to 4K. &quot;No other plant moves&quot; is the...</summary>
 
 ~~~~text
-"integrated_multimodal_description: [Shot 1] Stylized 3D Pixar-animated look, soft rounded
-character design, expressive exaggerated eyes, glossy cartoon textures, warm cinematic lighting,
-16:9, fast editorial comedic energy with snap reframes. A veterinary hospital back corridor with
-scuffed skirting, laminated posters and strip lighting. A medium tracking shot follows OSKAR, a
-stylized man in his forties in a courier's fleece with a lanyard swinging, arms wrapped around a
-large cardboard box with airholes punched in the lid. He hurries along scanning door numbers.
-Oskar (S1) mutters to himself in a fast anxious voice, <d>[English] Reception. Just needs a
-signature. Reception.</d>
-[Shot 2] At 00:02.500, the camera cuts to a wide shot as he backs through the wrong door and
-turns around into a bright operating theatre — four masked surgical staff in scrubs standing
-around a table under a huge overhead lamp, every pair of eyes above the masks turned toward him
-in complete silence. A monitor beeps steadily. The box slips an inch in his arms.
-Oskar (S1) says in a very small voice, <d>[English] Is this not reception.</d>
-[Shot 3] At 00:05.500, the camera cuts to a medium shot of a formidable surgeon, a woman in her
-sixties, gloved hands held up and clear, mask pulled tight. She looks him up and down once, then
-jerks her chin firmly at the empty space beside the table. The surgeon (S2) says in a brisk,
-completely certain voice, <d>[English] Finally. Scrub in, we're waiting.</d> Trays rattle.
-Everyone shuffles round to make room for him.
-[Shot 4] At 00:08.500, the camera cuts to a fast montage of Oskar bluffing at the table, box now
-abandoned on a stool behind him — snapping on gloves far too enthusiastically, holding out a flat
-palm with enormous authority, then nodding gravely at a monitor he clearly cannot read. A nurse
-slaps an instrument into his hand. He holds it up to the light and turns it round twice. Every
-staff member responds instantly and correctly to each gesture, working faster and more smoothly
-than before he arrived. Oskar's face cycles through panic, disbelief and delight.
-[Shot 5] At 00:12.000, the camera cuts to a wide shot as the door swings open and a young vet in
-scrubs hurries in tying her mask, sees the operation already running, and stops. The whole room
-turns between the two of them. Oskar is already moving — he peels the gloves off, scoops up the
-cardboard box, and backs toward the door giving the room a double thumbs up. Oskar (S1) says in a
-bright rushed voice, <d>[English] Great work everyone, sign here next time.</d> He is gone. The
-surgeon watches him go with visible approval. The camera holds still on the room.
+"the petals open one ring at a time from the outside in"
 
-overall_soundscape: A theatre room tone with a steady monitor beep and the hum of overhead lamps.
-Footsteps and cardboard shifting in a corridor. A heavy door swinging on its hinge. Complete
-silence with one instrument tray tick. Wheels rolling on hard flooring. Latex gloves snapping.
-Metal instruments slapped into a palm. Muffled voices behind masks. Footsteps leaving fast and a
-door swinging shut.
+Duration: 15s. Camera: locked, pot height. Rendered locally in ComfyUI, then Topaz to 4K.
 
-non_diegetic_music: A light plucked pizzicato strings figure at a brisk tempo opens the video and
-cuts out completely at 00:02.500 into one beat of total silence. A single low bassoon note
-follows. From 00:08.500 a tense, mock-serious strings and low percussion figure builds through the
-montage, playing the situation completely straight while getting more absurd, and cuts off on one
-hard comedic sting as he reaches the door at 00:14.000."
+"No other plant moves" is the sentence that kept the greenhouse asleep. One thing opening is a story. Everything opening is a screensaver.
 ~~~~
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/integrated-multimodal-description-shot-1-stylized-3d-pixar-animated-look-093063/video-e08a8e78744e.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-open-weights-generated-locally-one-lamp-one-flower-997920/video-439b574e2788.webm)
 
-**Source:** [@ManuAGI01](https://x.com/ManuAGI01/status/2095846567853093063) · 15s · 16:9 · fashion
+**Source:** [@GlennHasABeard](https://x.com/GlennHasABeard/status/2101008623555997920) · 15s · 9:5 · cinematic story
 
 ---
 
-### 16. Hailuo H3. Fluffi, a movie, one jump scare. The TV is never in frame.
+### 16. 📷“A Cigarette Hanging from Her Lips”
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-fluffi-a-movie-one-jump-scare-the-tv-469310/video-b0edf011c802.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-fluffi-a-movie-one-jump-scare-the-tv-469310/poster-cda1aa4922ca.jpg" alt="Hailuo H3. Fluffi, a movie, one jump scare. The TV is never in frame. video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/a-cigarette-hanging-from-her-lips-884431/video-b1cd1627e555.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/a-cigarette-hanging-from-her-lips-884431/poster-174f948be301.jpg" alt="📷“A Cigarette Hanging from Her Lips” video preview" width="700" />
 </a>
 
 <details>
-<summary><strong>Prompt</strong> — &quot;picks one piece of popcorn off the cushion and eats it with as much dignity as he can manage&quot; Duration: 15s. Camera: the TV's point of view, locked. The scare is one second. The...</summary>
+<summary><strong>Prompt</strong> — For the target video, at 0.00 seconds into the target video, &lt;Picture 1&gt; (from [Shot 1]) is fully referenced. integrated_multimodal_description: [Shot 1] A 15-second, 16:9...</summary>
 
 ~~~~text
-"picks one piece of popcorn off the cushion and eats it with as much dignity as he can manage"
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
 
-Duration: 15s. Camera: the TV's point of view, locked.
+integrated_multimodal_description: [Shot 1] A 15-second, 16:9 cinematic realistic image-to-video short set entirely inside the same ruined high-rise balcony window space from <Picture 1>. Preserve the exact same woman throughout: same face, short blonde hair, white cropped tank, light underwear, damp tired skin, old balcony railing, table, candle area, and defocused city night outside. No scene change, no extra people, no new major props, and no black ending. She stays in one small space only and never becomes a static pose. She is always moving gently through one emotional chain: leaning at the railing and smoking, leaving the railing, drifting two small steps, pausing at the table and old wall, tapping ash, turning back, walking slowly toward the window again, then stopping in side profile to take a deep drag and exhale. The emotional arc is lazy, tired, melancholic, and controlled, carried by small actions and breath. Lighting stays physically motivated: a cold white fluorescent tube from above-right as key, a candle at table height as low warm fill, and the distant city night outside as soft bokeh only. Smoke, ember, candle flame, stray hair, cloth folds, abdomen and rib breathing, and the chest’s slight natural inertia remain realistic and gravity-bound. [Shot 2] At 00:00-00:03, a medium close shot with a slow lateral glide from the left interior side. She leans lightly with the left hip against the railing, right hand holding the cigarette to her lips, taking a slow drag. Her posture is slightly crooked and loose, not posed. Her gaze passes through the out-of-focus city lights but does not settle on anything. The brow center gathers only slightly, upper lids sit low, lips are naturally parted around the cigarette, and the mouth corners stay almost level with the faintest downward fatigue. She says quietly, <d>[English] Long night.</d> in a low tired voice. The ember brightens briefly on the inhale, and the first white smoke stream rises along her face. Cold overhead light cuts clean damp highlights across shoulder, neck, collarbone, and upper chest. This is the first sensual close-up, built from collarbone, throat line, chest-edge breathing, damp skin sheen, and the soft crooked posture. [Shot 3] At 00:03-00:06, the camera lightly follows as she leaves the railing, framing from chest to half-body. She removes the cigarette from her lips, exhales a shorter stream of white smoke, and drifts lazily two steps along the window edge toward the right. The steps are light and aimless. Her left fingertips drag lazily along the window frame or old wall. In the first half-second after exhaling, the mouth corners drop briefly and recover; her gaze comes back from the distance for a moment and then slides away again; the jaw gathers softly. During the walk, the chest and ribcage take one deeper but still restrained breath. The ends of her short hair and small face-framing strands quiver faintly from light airflow and movement. The smoke leaves as a narrow band and then slowly loosens outward. Her second emotional stage appears here: the first tiny leak in the mask. [Shot 4] At 00:06-00:09, a local near close-up from a slightly lower angle, locked on her hand, abdomen, rib side, hip, and the table edge. She stops near the table and old wall, looks down at the cigarette now burning shorter, slowly rolls it once between her fingers, and taps ash gently into the ashtray. The other hand touches the table edge as if borrowing a little support. For the first time her gaze truly settles on her own hand. The lower lids tighten slightly, the lip line narrows from soft to thinner, and the throat makes one small swallowing motion. Breathing in the abdomen and ribs becomes more visible. The tank fabric across the chest shifts in small fold changes, and the chest shows only the slightest natural inertia between the walk and stop. The ash falls as fine dry particles. The candle flame flicks once under the air she has brought with her, and the warm light brushes the back of the hand and lower abdomen. This is the third emotional phase: pressing the feeling back into the body. [Shot 5] At 00:09-00:12, a medium close shot with a light return-follow as she turns back toward the window. She slowly drags herself away from the table again, as if only continuing to survive the time rather than deciding anything. The cigarette rises toward her lips but pauses just before them. Her shoulders sink more than before, her eyes begin to lose focus, not as emptiness but as someone too tired to keep pretending. One corner of the mouth almost tries to form a tiny self-mocking smile and fails, leaving only exhaustion. Her steps are slower, the center of gravity lower and more diffuse, as if the whole body is gently settling downward. This is the fourth emotional phase: the strength to keep the mask up is running out. [Shot 6] At 00:12-00:15, a side-face close shot with an extremely slow push in, no lateral move. She stops half a step from the window, looks outward in profile, takes a deep drag, holds it for half a beat, and exhales for a long time. Her eyes stay fixed far away, no longer avoiding and no longer asking for an answer. As she exhales, the mouth corner drops by just a little; she does not cry and does not collapse, she simply accepts the feeling. The chest and collarbone settle downward slowly, and the breath finally releases completely. White smoke leaves her lips in a steady stream, dense at first, then thinning; it travels outward toward the window, then is caught by the edge airflow and slowly curls upward. Part of it catches the cold key light and becomes a semi-transparent layered volume. The camera ends on her side face, the long exhale, the jawline, and the blurred city night beyond. This is the fifth emotional phase: helplessness landing softly and staying there. Do not cut to black.
 
-The scare is one second. The recovery is five. Reaction clips live or die on the recovery.
+overall_soundscape: Keep the environment intimate and minimal: distant city hum through the open window, faint old-building air tone, soft room resonance, and the tiny instability of the fluorescent light. Emphasize the small inhale through the cigarette, ember brightening, her low line <d>[English] Long night.</d>, the first smoke stream, light cloth movement as she leans on the railing, the shorter exhale, soft foot movement on the floor, fingertips brushing frame or wall, one deeper breath through ribs and chest, the faint tremble of short hair under air movement, paper-and-ash texture of the cigarette, ash tapping into the tray, one slight hand contact on the table edge, the candle flame’s brief response, and the long final exhale. No dramatic music, no extra props, no extra voices.
+
+non_diegetic_music: Use no score or only an almost inaudible low ambient tonal bed, barely present beneath the room tone and distant city sound. It should not feel sentimental or manipulative. The emotional weight should come from breathing, cigarette, smoke, fluorescent hum, candle flicker, and her small body movements.
 ~~~~
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-fluffi-a-movie-one-jump-scare-the-tv-469310/video-b0edf011c802.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/a-cigarette-hanging-from-her-lips-884431/video-b1cd1627e555.webm)
 
-**Source:** [@GlennHasABeard](https://x.com/GlennHasABeard/status/2095573685671469310) · 15s · 7:4 · action
+**Source:** [@ou_zhen599](https://x.com/ou_zhen599/status/2100970215219884431) · 15s · 16:9 · action
 
 ---
 
-### 17. Made with on
+### 17. Minimax H3, open weights, generated locally. One balloon. The string is the last thing you see.
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-on-438174/video-106e0254b230.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-on-438174/poster-d39cea3a2c83.jpg" alt="Made with on video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-open-weights-generated-locally-one-balloon-the-string-726711/video-99380535f130.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-open-weights-generated-locally-one-balloon-the-string-726711/poster-e5eb0f1e1624.jpg" alt="Minimax H3, open weights, generated locally. One balloon. The string is the last thing you see. video preview" width="700" />
 </a>
 
 <details>
-<summary><strong>Prompt</strong> — A tiny adorable orange fox cub named Milo lives in a cozy little forest beneath a giant ancient oak tree. One magical night, Milo looks up at the enormous glowing full moon...</summary>
+<summary><strong>Prompt</strong> — &quot;the dot leaves the top of the frame and the tail of the string follows it out&quot; Duration: 15s. Camera: locked, looking up. Rendered locally in ComfyUI, then Topaz to 4K. The...</summary>
 
 ~~~~text
-A tiny adorable orange fox cub named Milo lives in a cozy little forest beneath a giant ancient oak tree. One magical night, Milo looks up at the enormous glowing full moon reflected in a quiet lake. He reaches his tiny paw toward the moon, wishing he could touch it.
+"the dot leaves the top of the frame and the tail of the string follows it out"
 
-A gentle breeze moves through the grass and fireflies sparkle around him. Milo suddenly notices a beautiful glowing feather floating down from the sky. His eyes widen with wonder.
+Duration: 15s. Camera: locked, looking up. Rendered locally in ComfyUI, then Topaz to 4K.
 
-Camera: Slow cinematic push-in toward Milo, then tilt upward toward the glowing moon.
-
-Mood: Magical, peaceful, emotional.
+The string is the continuity test. A thin line attached to a shrinking object for fifteen seconds.
 ~~~~
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-on-438174/video-106e0254b230.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-open-weights-generated-locally-one-balloon-the-string-726711/video-99380535f130.webm)
 
-**Source:** [@aniyaintel](https://x.com/aniyaintel/status/2095362627677438174) · 15s · 16:9 · cinematic story
+**Source:** [@GlennHasABeard](https://x.com/GlennHasABeard/status/2100950273434726711) · 15s · 9:5 · cinematic story
 
 ---
 
-### 18. Canvas Try it →
+### 18. Knock one over.
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/canvas-try-it-182080/video-33a88ecdb8ea.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/canvas-try-it-182080/poster-e6374292d642.jpg" alt="Canvas Try it → video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/knock-one-over-886660/video-8ed8450abd6b.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/knock-one-over-886660/poster-c6714925034f.jpg" alt="Knock one over. video preview" width="700" />
 </a>
 
 <details>
-<summary><strong>Prompt</strong> — Create a 15-second, 16:9, 24fps ultra-photorealistic live-action Y2K fashion film blended with one pure 2D manga fairy. HIGHEST-PRIORITY RULES Exactly TWO characters: ONE...</summary>
+<summary><strong>Prompt</strong> — Analog practical title sequence shot on real film, photorealistic, warm tungsten light, shallow depth of field, a polished dark walnut floor. [0-3s] Extreme close-up, low to the...</summary>
 
 ~~~~text
-Create a 15-second, 16:9, 24fps ultra-photorealistic live-action Y2K fashion film blended with one pure 2D manga fairy.
-HIGHEST-PRIORITY RULES
-Exactly TWO characters: ONE fictional 22-year-old Korean female idol + ONE tiny 2D manga fairy. No extras, duplicates, clones, motion-trail copies, or identifiable reflections.
-ZERO readable text or numbers anywhere: no captions, logos, labels, signs, UI, watermarks, license plates, posters, or environmental writing.
-CHARACTER LOCK
-Woman: elegant oval face, cool fair skin with realistic texture, almond eyes, glossy pink lips, extremely long silky straight black hair to the waist with thin bangs. Face, hair, proportions, makeup and wardrobe remain identical.
-Wardrobe: black satin cropped camisole with lace detail, cropped glossy motorcycle jacket loosely around her arms, black low-rise pleated micro skirt, silver waist chain/jewelry, black over-the-knee boots. Premium, sensual, sophisticated K-pop editorial.
-Fairy: tiny PURE 2D cel-shaded manga character with clean outlines, short black hair, elf ears, large pink eyes, pink-and-white cropped top, silver pleated skirt, translucent pink wings. Always flat 2D—never 3D, photorealistic, or humanized.
-ENVIRONMENT
-One continuous bright pink-and-ice-blue neon fashion studio. Black vintage convertible in the center, silver vanity mirror, transparent acrylic chair, chrome spheres, silver props, glossy floor. Style: K-pop comeback film × glossy Y2K campaign × cute high-energy MV.
-PHYSICAL CONTINUITY
-No teleportation, clipping, spawning, or passing through objects. Fairy must physically fly above, below, around, or beside the windshield, car, mirror, chair, props, and woman. Glossy surfaces show only abstract light, never recognizable reflections.
+Analog practical title sequence shot on real film, photorealistic, warm tungsten light, shallow depth of field, a polished dark walnut floor.
 
-SHOT FLOW
-0:00–0:01.5 — Low-angle wide shot. Only fairy is visible behind the wheel. She waves, opens wings on beat, flies vertically until fully above the windshield, exits through the open roof, half-spins, then flies toward the woman. Driver seat becomes empty.
-0:01.5–0:03.5 — Reveal woman leaning outside the car door, looking down while adjusting a ring. Fairy curves toward her shoulder and gives a TA-DA pose. The same woman raises her head, looks at fairy, then camera. Diagonal push-in from headlight.
-0:03.5–0:05.5 — Woman flicks one finger toward fairy on a sharp beat. Fairy reacts with one continuous half-spin to camera-right. Woman shifts into a mischievous smile. Fast side arc; car door briefly wipes foreground.
-0:05.5–0:07.5 — Fairy flies around the OUTER edge of the vanity mirror, never through it. Camera follows and finds the same woman seated on the acrylic chair. She crosses her legs and makes a tiny finger heart. Fairy hovers beside her face and imitates it. Woman smiles.
-0:07.5–0:09.5 — Woman opens her palm. Fairy descends continuously and visibly lands, feet making contact. Fairy poses proudly and copies woman’s head tilt. Woman pauses, then smiles warmly. Add a cute electronic bling; push from hand toward faces.
-0:09.5–0:11.5 — Fairy physically takes off from palm first. Woman stands and walks 2–3 confident steps toward center studio. Camera tracks backward with a lateral arc while fairy flies backward in front of her.
-0:11.5–0:13.0 — Woman strikes a sophisticated K-pop pose with convertible diagonally behind. She touches her long hair; fairy imitates fixing her own short hair. Woman notices and breaks into a smile. Slight low-angle push-in.
-0:13.0–0:14.5 — Medium close-up. Woman makes a finger heart near her face while holding her hair. Fairy hovers beside her, wings open, cheerful double-V pose. Both look into camera. Final beat triggers ONE camera flash without washing out the studio.
-0:14.5–0:15.0 — Freeze the ACTUAL previous frame. No new photo, card, border, or white background. Keep neon studio, car, silver props and depth visible. Add only 4–6 small clean pink hearts/stars/sparkles near the corners, inside frame, never covering either character.
-CAMERA & PERFORMANCE
-Use low angles, diagonal views, subtle ultra-wide shots, foreground occlusion, mirror framing, curved push-ins, short tracking, gentle rises/drops. Avoid repetitive static frontal framing.
-Emotion: cool fashion pose → curiosity → playful interaction → amused smile → joyful final pose. Natural, confident, star-like, never childish.
-MUSIC
-Bubblegum Pop × Kawaii Pop × Y2K Dance Pop, 125–135 BPM, punchy drums, bouncing bass, crisp claps, sparkling synths. Sync wing opening, finger flick, fairy spin, finger-heart, palm landing, takeoff, hair imitation, final pose and camera flash to major beats.
-NEGATIVE
-No second human/fairy, duplicates, face drift, hairstyle/color/costume changes, malformed hands, clipping, teleportation, 3D or photorealistic fairy, white ending, Polaroid/frame/PIP, chaotic doodles, readable text, letters, numbers, logos, subtitles, labels, UI or watermarks.
+[0-3s] Extreme close-up, low to the floor: a single black domino with white pips stands at the start of a long curving line of dominoes. A fingertip taps it. It tips over.
+
+[3-9s] The camera tracks low alongside the chain reaction as it races forward, hundreds of black dominoes falling one after another in a fast rippling wave with crisp clicking sounds. The line curves and splits into several branching paths.
+
+[9-13s] The camera cranes smoothly up and back to a high overhead view as the final branches fall. The fallen dominoes have been laid out so that, seen from above, the lines of toppled black dominoes spell the single word FALL in large clean block capital letters across the floor.
+
+[13-15s] Hold perfectly still on the overhead view. The word FALL is sharp, legible and correctly spelled, made only of fallen dominoes. The last domino settles. Silence.
+
+Only the four letters F, A, L, L. No other text, no logos, no people except the single fingertip at the start.
 ~~~~
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/canvas-try-it-182080/video-33a88ecdb8ea.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/knock-one-over-886660/video-8ed8450abd6b.webm)
 
-**Source:** [@ImaStudio_ai](https://x.com/ImaStudio_ai/status/2095357375549182080) · 15s · 16:9 · fashion
+**Source:** [@HBCoop_](https://x.com/HBCoop_/status/2100948748079886660) · 15s · 16:9 · title sequence
 
 ---
 
-### 19. It made me feel like a movie director 🤭
+### 19. Use the reference image as the exact first frame. 16:9, locked-off camera, one
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/it-made-me-feel-like-a-movie-director-486165/video-23d8ffe6d9e8.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/it-made-me-feel-like-a-movie-director-486165/poster-dd96c9012369.jpg" alt="It made me feel like a movie director 🤭 video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/use-the-reference-image-as-the-exact-first-frame-16-557922/video-6cd0782c8ee0.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/use-the-reference-image-as-the-exact-first-frame-16-557922/poster-0c096f993831.jpg" alt="Use the reference image as the exact first frame. 16:9, locked-off camera, one video preview" width="700" />
 </a>
 
 <details>
-<summary><strong>Prompt</strong> — The initial prompt was constructed for a 30 seconds video, added to the prompt to modify the time stamps to a 15 second video: Create a 30-second, 16:9 photorealistic cinematic...</summary>
+<summary><strong>Prompt</strong> — Use the reference image as the exact first frame. 16:9, locked-off camera, one continuous take. Preserve Rem’s face, short blue hair, black-and-white maid outfit, and original...</summary>
 
 ~~~~text
-The initial prompt was constructed for a 30 seconds video, added to the prompt to modify the time stamps to a 15 second video:
+Use the reference image as the exact first frame. 16:9, locked-off camera, one continuous take. Preserve Rem’s face, short blue hair, black-and-white maid outfit, and original anime art style consistently throughout. Keep the desktop layout and Japanese menu bar unchanged.
 
-Create a 30-second, 16:9 photorealistic cinematic adventure, set in medieval Baghdad during the era of One Thousand and One Nights. High-budget live-action blockbuster aesthetic, warm golden sunlight, dusty atmospheric air, domes and minarets, flat rooftops, narrow alleys, colorful bazaars, Abbasid-inspired costumes, expressive acting, sweeping cinematic camera movement, realistic physics and synchronized environmental audio.
+0–2s: Rem stands on the right, happily swaying gently from side to side while lifting the edges of her skirt slightly with both hands. As she turns, the hem accidentally catches the blue-purple desktop background. The background reacts like a soft fabric curtain, sending a horizontal ripple across the screen. The two folders and one screenshot icon on the left wobble, slide downward, fall to the bottom edge of the screen, and make a small playful bounce on impact.
 
-Character continuity: Aladdin is a charismatic, athletic young man in his early twenties with dark wavy hair, expressive brown eyes, weathered ivory shirt, short vest, dark-red loose trousers and blue waist sash. A small mischievous realistic monkey remains on his shoulder throughout the escape. Soldiers wear historically inspired Baghdad clothing with turbans, leather protection and curved swords.
+2–3s: Rem immediately freezes. Her eyes widen and she quickly covers her mouth with both hands, staring in surprise at the fallen icons.
+
+3–6s: She hurriedly leans toward the left and reaches out with both hands. She scoops up all three icons together and quickly pushes them back toward their original positions on the left. The icons behave like thin, lightweight magnetic tiles, snapping back onto the desktop surface. Two of them end up slightly crooked. Rem has no time to straighten them and quickly pulls her hands back.
+
+6–8s: Rem returns to her original position on the right, folds her hands neatly in front of her, and tries to put on an innocent, nothing-happened smile. Her eyes secretly glance toward the two crooked icons on the left. The tips of her hair, hair ribbon, and skirt hem move gently in a light breeze. The desktop background settles completely, while the two icons remain slightly tilted for a subtle comedic ending.
+
+The background music begins with a light, cute Japanese-style piano melody. When the icons fall, add a short descending slide sound and light impact sounds, then shift into a playful pizzicato rhythm.
+
+Keep all movement fluid and expressions lively. Only the three desktop icons on the left may physically interact with Rem or the background. The top menu bar and bottom Dock must remain completely fixed. Preserve the original icon designs, filenames, and text exactly. No new characters. No camera movement, zoom, cuts, or transitions.
 ~~~~
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/it-made-me-feel-like-a-movie-director-486165/video-23d8ffe6d9e8.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/use-the-reference-image-as-the-exact-first-frame-16-557922/video-6cd0782c8ee0.webm)
 
-**Source:** [@AITalesNBH](https://x.com/AITalesNBH/status/2095240665588486165) · 23s · 16:9 · action
+**Source:** [@Mayz1169](https://x.com/Mayz1169/status/2100932191316557922) · 8s · 16:9 · anime
 
 ---
 
-### 20. A cinematic creation film follows one maker reconstructing the main subject shown
+### 20. 📷“Sandstorm Recognition”
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/a-cinematic-creation-film-follows-one-maker-reconstructing-the-main-311555/video-9615f0923d10.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/a-cinematic-creation-film-follows-one-maker-reconstructing-the-main-311555/poster-b10363323b51.jpg" alt="A cinematic creation film follows one maker reconstructing the main subject shown video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/sandstorm-recognition-530176/video-27f56c9514be.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/sandstorm-recognition-530176/poster-350a02d0b4cc.jpg" alt="📷“Sandstorm Recognition” video preview" width="700" />
 </a>
 
 <details>
-<summary><strong>Prompt</strong> — A cinematic creation film follows one maker reconstructing the main subject shown in the referenced image completely from scratch. The referenced image defines the finished...</summary>
+<summary><strong>Prompt</strong> — For the target video, at 0.00 seconds into the target video, &lt;Picture 1&gt; (from [Shot 1]) is fully referenced. integrated_multimodal_description: [Shot 1] A 15-second, 16:9...</summary>
 
 ~~~~text
-A cinematic creation film follows one maker reconstructing the main subject shown in the referenced image completely from scratch. The referenced image defines the finished subject’s complete visible appearance, proportions, structure, materials, colors, clothing or surface details, and distinctive features; ignore its background, framing, lighting, and unrelated elements.  Begin directly on an empty, clean virtual workbench. Use a stable front three-quarter overhead view that keeps the developing subject readable. There is one maker throughout, represented by the same consistent left and right hands and forearms. Show no more than two hands at once.  From 0 to 14 seconds, the entire creation unfolds as a clearly accelerated timelapse with rapid, purposeful hand movement and restrained motion blur. Short jump cuts compress repetitive manual work only after each action has visibly completed. Every cut inherits the exact form and progress left by the previous action.  0-2 seconds: One hand enters already holding the first foundation material, armature, or base element appropriate to the referenced subject and places it at the center. The second hand steadies it as the maker establishes the initial supporting form.  2-8 seconds: The maker rapidly develops the subject’s major structure and volumes using one coherent creation method appropriate to what the referenced image depicts. A living subject is sculpted as one continuous, non-gory digital form from armature to anatomy; a vehicle or machine is built from chassis to functional structure; an object is formed or assembled from its supporting body outward. Each additional material or component enters from outside the frame while firmly held by one of the maker’s hands, is carried to its destination, and remains under hand control until attached or shaped.  8-12 seconds: The same hands develop the recognizable outer form and reference-specific features. The maker sculpts, fits, wraps, stitches, fastens, carves, or polishes only where appropriate to the subject. Facial features, hair, clothing, body panels, wheels, glass, surfaces, accessories, or equivalent defining elements emerge through visible hand and tool contact, never through spontaneous transformation.  12-14 seconds: The maker refines proportions, edges, joints, surface transitions, textures, colors, and distinctive details until the developing subject closely matches the referenced image. One hand stabilizes the form while the other performs each final adjustment with a hand-held tool.  14-15 seconds: The maker removes the last tool by hand and withdraws both hands. The timelapse returns to normal speed as the camera makes a restrained push toward the completed subject and holds on a clean final view.  Materials and components do not need to be visible before use, but anything newly introduced must enter the frame already held by one of the maker’s hands. Nothing moves, assembles, appears, disappears, or changes material independently. Maintain one maker, one continuous subject, one creation position, and one category-appropriate construction method. No assistants, extra hands, detached anatomy, duplicated elements, magical morphing, drawing phase, software interface, cursor, menus, annotations, or text overlays.
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description: [Shot 1] A 15-second, 16:9 cinematic desert suspense image-to-video sequence set entirely in the same exterior space from <Picture 1>: the outer supply point of an abandoned desert military base with crates, backpacks, oil drum, distant abandoned military vehicle, and the same motorcycle in background depth. Preserve the exact same three adult ex-military women throughout, with the same faces, outfits, body proportions, and wind direction. Strong crosswind blows continuously from screen right-rear toward screen left-front, carrying fine sand low across the ground and pulling hair, straps, cloth edges, and dust the same way. The story is that they appear to be idling, but are actually testing whether the sealed outpost still recognizes them. Emotional group progression: relaxed disguise, slight alertness, probing confirmation, restrained disturbance, veteran recognition. [Shot 2] At 00:00-00:03, start on motion, never a frozen tableau. A low ground-hugging camera pushes through boots, skimming sand, backpack, and crate edges. A is foreground-right already rising from a one-knee hand-on-pack posture; one gloved hand presses into the ground while the other pulls a strap, making collarbone, shoulder line, chest breathing, and abdominal effort visible at once. B sits in the left mid-ground on the edge of a military crate, just finishing the second bite of an apple; her hand drops from her mouth as she turns her face slightly into the wind, pretending casualness while listening. The apple clearly shows two bites removed. C enters from the right-rear carrying an oil drum, her boot stepping into sand as the drum swings with real weight. The first sensual close-up belongs to A, built from collarbone, shoulder line, chest breathing, the glove braced on the ground, and abdominal effort inside a real rise. Wind keeps pulling hair, straps slap against bags, and tank edges and pant legs wrinkle and rebound naturally. In the far right-rear background, the motorcycle moves slowly laterally, wheels turning and suspension bobbing slightly, trailing a thin dust wake immediately blown diagonally away. [Shot 3] At 00:03-00:05, the camera makes a low short lateral move between A and B, gliding from A’s shoulder side to B’s side face and hand. B lightly wipes the trace of juice sheen at the edge of her mouth with her thumb and says in a low controlled voice, <d>[English] You hear that?</d> It is probing, not dramatic. Immediately after, she casually throws the already twice-bitten apple down off-frame left into the sand and never handles or sees any apple again. The second sensual close-up belongs to B, built from lip line, wiping gesture, jawline, knuckles, and wind-brushed hair across her cheekbone. A does not answer; she uses the moment to pull herself fully upright by the pack strap and turn toward the crate. C continues one more step toward the drum placement. The motorcycle is still moving slowly in the background and never steals the frame. [Shot 4] At 00:05-00:09, shift to a near shot with a gentle axis-follow on C’s action while keeping A able to enter frame. A drops into a half-crouch at the crate, right hand pressing the lid edge, left hand bracing on her knee, eyes locked downward onto the lock, brow lowered, lips thinning into concentration. C arrives about one meter behind and to A’s right and slowly lowers the oil drum with clear arm, shoulder-back, and core effort; the drum descends with real deceleration and weight, touches down with a short dull metallic hit, and the drum wall gives a tiny rebound. B, now empty-handed, has moved in half a step toward the left-rear of the crate. The third sensual close-up belongs to C, built from arm, shoulder-back, and waist tension while lowering the drum, with the wind pressing cloth against the body. When the drum lands, a fine ring of surface dust shakes off the barrel, the crate latch twitches once for the first time, a seam of sand at the crate corner shivers open, and the wind curls two small sand eddies around boots and barrel. By now the motorcycle has shifted farther toward the mid-background and slightly reduced speed, as if the distant rider also eased off the throttle to listen. [Shot 5] At 00:09-00:12, cut to a near shot on A from front-left at roughly thirty degrees and push in extremely slowly. A presses her palm more fully onto the crate lid, putting force through the heel of the hand; throat and jawline tighten further, and her eyes move from suspicion into confirmation. B leans in half a degree from the left-rear of the crate with empty hands, holding her breath for half a beat, brows lifting only slightly as she senses something is wrong but not yet complete. C straightens, then shifts half a step back into a side-ready stance, eyes fixed on the crate, ready to intervene. Inside the crate there is a very faint old-style electronic pulse, and the latch vibrates in a fine repeated tremor. One headlight on a distant abandoned military vehicle flashes weakly a single time. A’s outer eye corners become steadier, lower lids lock, and one corner of the mouth shows the smallest preparatory rise. The motorcycle continues creeping forward by about half a bike length in the background, its thin dust trace stretched and thinned by the wind. [Shot 6] At 00:12-00:15, hold a chest-up near shot of A, camera slightly below eye level, with one last very short slow push. A remains half-crouched and leaning toward the seam of the crate. Looking at the lid gap, one corner of her mouth rises by only the slightest amount, like recognizing an old coded signal; the eyes show veteran confirmation, never surprise. She says quietly, <d>[English] It’s awake.</d> The line is low, short, and unforced, as if spoken both to the other two and to the crate itself. Immediately after, the crate latch clicks open one notch. The lid does not open fully; it separates only into a narrow seam. A stable cold white light leaks out through the slit, brushing A’s jawline, collarbone edge, mouth corner, and the underside of the nose without overexposure or neon science-fiction intensity. Fine gray dust at the seam lifts under a tiny internal airflow and is instantly carried slantwise by the outer wind. B and C simultaneously drop their gaze toward the glowing seam, and all three bodies subtly collect inward toward it without any exaggerated recoil or jump. End on the moment where all three are looking down into the narrow lit slit, without showing what is inside. No need to emphasize the motorcycle body now, but keep a faint distant engine residue and the lingering low dust tail being pulled away by the wind so the world remains alive.
+
+overall_soundscape: Continuous desert wind bed throughout, never dropping out. Keep boot-on-sand friction, strap slap against packs, cloth buffeted by wind, and distant dry infrastructure ambience. Emphasize fine sand skimming the ground, A’s gloved hand pushing off, pack strap tension, B’s second apple bite finishing, C’s drum swing, and the far motorcycle engine buried under the wind. Bring forward B’s thumb wiping juice from her lip, her low line <d>[English] You hear that?</d>, the apple being tossed into off-frame sand, A rising by the strap, C stepping closer, and the motorcycle still rolling softly in the background. Stress the weighted lowering of the oil drum, the short dull metal contact, dust shaken from the barrel, the first tiny latch twitch, sand eddies around boots and drum, and the mid-background motorcycle easing its engine down slightly as it moves. Then bring forward the faint old electronic pulse from inside the crate, repeated fine latch tremor, one weak headlight blink from the distant dead vehicle, a gust of sand hitting the crate corner and splitting away, A’s low line <d>[English] It’s awake.</d>, the crisp latch click, the seam opening one notch, and the faint internal airflow lifting dust. Keep the distant motorcycle engine residue present but low.
+
+non_diegetic_music: No dominant score. If any non-diegetic layer is used, keep it to an almost inaudible low suspense tone under the wind, never rising above the physical environment or dialogue.
 ~~~~
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/a-cinematic-creation-film-follows-one-maker-reconstructing-the-main-311555/video-9615f0923d10.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/sandstorm-recognition-530176/video-27f56c9514be.webm)
 
-**Source:** [@aimikoda](https://x.com/aimikoda/status/2095141166962311555) · 15s · 4:3 · music video
+**Source:** [@ou_zhen599](https://x.com/ou_zhen599/status/2100924133907530176) · 15s · 16:9 · music video
 
 ---
 
-### 21. Hailuo H3. RENDER, built out of wood shavings, then carved.
+### 21. Which one handled the scene best?
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-render-built-out-of-wood-shavings-then-carved-130121/video-bd0a19d40894.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-render-built-out-of-wood-shavings-then-carved-130121/poster-52ebbfcee83a.jpg" alt="Hailuo H3. RENDER, built out of wood shavings, then carved. video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/which-one-handled-the-scene-best-825625/video-bbd98fb78199.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/which-one-handled-the-scene-best-825625/poster-053f23976abb.jpg" alt="Which one handled the scene best? video preview" width="700" />
 </a>
 
 <details>
-<summary><strong>Prompt</strong> — &quot;gathering into six tall upright letters in order from left to right, R first, then E, N, D, E, R, each letter building from the base up&quot; Duration: 15s. Camera: locked, low, bench...</summary>
+<summary><strong>Prompt</strong> — A street chef in a crowded Asian night market at night tosses noodles in a flaming wok. Handheld camera slowly pushes in from the crowd toward the stall. The wok flares with a...</summary>
 
 ~~~~text
-"gathering into six tall upright letters in order from left to right, R first, then E, N, D, E, R, each letter building from the base up"
+A street chef in a crowded Asian night market at night tosses noodles in a flaming wok. Handheld camera slowly pushes in from the crowd toward the stall. The wok flares with a burst of orange fire and sparks; steam rolls up into the string lights, oil glistens, the chef flips the noodles high and catches them, then looks up at the camera and grins. Warm lantern light, neon signs blurred in the background, shallow depth of field, cinematic, photoreal. Natural sound of sizzling, the crowd, and the flame. No music, no on-screen text.
 
-Duration: 15s. Camera: locked, low, bench height.
-
-Spelling the letters out one at a time in order is what got six letters instead of five or seven. Naming the word once was not enough.
+Explore at 🔗
 ~~~~
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-render-built-out-of-wood-shavings-then-carved-130121/video-bd0a19d40894.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/which-one-handled-the-scene-best-825625/video-bbd98fb78199.webm)
 
-**Source:** [@GlennHasABeard](https://x.com/GlennHasABeard/status/2094755037826130121) · 15s · 7:4 · cinematic story
+**Source:** [@enhance_ai](https://x.com/enhance_ai/status/2100922427538825625) · 17s · 16:9 · cinematic story
 
 ---
 
-### 22. Fluffi vs. laser pointer. Hailuo H3, one take.
+### 22. 📷“Rebirth Within the Wall”
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/fluffi-vs-laser-pointer-hailuo-h3-one-take-136738/video-5e8746c5ec06.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/fluffi-vs-laser-pointer-hailuo-h3-one-take-136738/poster-2537853395a5.jpg" alt="Fluffi vs. laser pointer. Hailuo H3, one take. video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/rebirth-within-the-wall-416352/video-df347fa4d9d9.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/rebirth-within-the-wall-416352/poster-7c12c7b3e5d4.jpg" alt="📷“Rebirth Within the Wall” video preview" width="700" />
 </a>
 
 <details>
-<summary><strong>Prompt</strong> — &quot;the dot moves at the last instant and he lands on bare floor, looks under his paws, finds nothing&quot; Reference: one Fluffi image. Camera: low, handheld, following. Writing the miss...</summary>
+<summary><strong>Prompt</strong> — For the target video, at 0.00 seconds into the target video, &lt;Picture 1&gt; (from [Shot 1]) is fully referenced. integrated_multimodal_description: [Shot 1] A 15-second, 16:9...</summary>
 
 ~~~~text
-"the dot moves at the last instant and he lands on bare floor,
-looks under his paws, finds nothing"
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
 
-Reference: one Fluffi image. Camera: low, handheld, following.
+integrated_multimodal_description: [Shot 1] A 15-second, 16:9 cinematic realistic adventure-thriller image-to-video sequence set entirely inside the same rainforest ancient-temple canyon exterior from <Picture 1>: broken stone pillars, wet stone path, distant waterfall, and ruined temple remains all belong to one continuous outdoor space. Preserve the exact same Lara-like adult female explorer throughout: same face, outfit, gear, wet hair, leather wear, mud, sweat, skin imperfections, and body proportions. No extra people, no visible monster body, no scene jump, no black ending. She remains in continuous motion; every beat is tied to walking, brushing stone, crossing slick ground, tightening gear, climbing one wet step, pausing inside motion, and snapping into combat readiness. [Shot 2] At 00:00-00:03, the camera glides from the edge of a broken stone pillar in the left foreground in a half-low near-medium tracking shot. She is already moving from frame left toward the right-front along the wet stone path. Her right hand presses a shoulder strap or rope at her waist while her left hand brushes damp hair from her face or grazes the stone for balance. Her boots cross shallow puddles, making low ripples and thin sheets of water sliding off the stone edges. Her first emotional layer is restrained familiarity: gaze sweeps the distant ruin, then returns to the next foothold; eyelids slightly lowered; lip line tight; breath steady but deeper than normal; the space between the brows carries contained recognition. Hair lifts from the neck in the humid side-wind, then settles back against wet skin. Warm twilight backlight from the right-rear through cloud and waterfall mist gives a narrow gold rim on cheek edge, collarbone, nose bridge, and wet hair strands, while pillar shadows remain dense and mist catches fine particles. [Shot 3] At 00:03-00:05, cut into a side-near shot, staying tight beside her as she passes the ancient pillar and vines. She never stops walking. The shot emphasizes wet hair skimming the neck, the subtle rise and fall of the collarbone with breath, leather strap friction, and her fingers brushing old rope or stone edge while moving forward. The sensuality comes entirely from motion, proximity, breath, and controlled contact with the environment. Her expression shifts only slightly: the eye corners soften by a fraction, and the mouth loosens almost imperceptibly as if the smell of the old place has reached her, but she never smiles. Moisture on skin and fabric catches realistic highlights. Waterfall mist forms a thin floating layer in backlight, and nearby leaves tremble lightly from her passing contact. [Shot 4] At 00:05-00:08, shift into a half-body follow with a gentle push as she reaches a right-middle-ground cliff edge where the view opens toward the broken temple and waterfall. Her front foot steps onto a higher wet stone while the rear foot stays lower, creating a suspended forward-driving pause rather than a full stop. The low camera rises slightly with her body, giving a restrained hero-return feeling. She tightens the old rope at her waist and lifts her eyes toward the distant ruined temple and waterfall. In a low, light, steady voice she says, <d>[Chinese] 我又回来了。</d> The line is not shouted and not sentimental; it sounds like she is speaking to an old adversary. Her expression layers clearly: before the line, the gaze holds a fraction longer and the jaw gathers inward; during the line, one corner of the mouth softens almost invisibly and returns to neutral, the pupils stay focused, and a trace of warmth passes through the eyes; immediately after speaking she returns to experienced alertness. Dusk slices from behind and the right-rear, placing a soft gold edge on shoulder line, hair, collarbone, and tank edge, while waterfall mist provides a faint cool lift in the facial shadows. [Shot 5] At 00:08-00:11, she does not linger. She advances two more steps and climbs onto a slightly higher wet stone platform. The low near shot grows into a medium-close follow. This is the second functional sensual close-up: her abdomen tightens, one arm gathers the rope, the boot plants with authority, and the belt, waistband, tank hem, and abdominal muscles all show real load changes during the step and stabilization. Her chest and upper torso carry only brief restrained natural inertia and settle. Her expression withdraws from return-softness back into route-reading focus: brow peaks tighten slightly, gaze begins mapping the deeper path ahead, and the lips part for one deeper breath. Hard physics stay visible: the boot compresses thin mud and water film on the stone, flicking tiny droplets outward; rough stone and moss leave a dark wet trace under the sole; cloth folds, strap rebound, and hair-end delay obey real inertia. [Shot 6] At 00:11-00:13, just as she raises her eyes to confirm the next route, the first shrill monster cry tears through the canyon from far deeper ahead. The creature never appears. The environment reacts before she does: the mist behind the waterfall is cut by a strange low-frequency turbulence, nearby hanging vines and leaves answer with a delayed fine tremor, tiny dust and droplets shake loose from stone cracks, and shallow water in the distance develops fast tight ripples. The camera does not whip or panic; it only hesitates by a fraction to let the sound and environmental response enter first. Her expression is precise and small: the eyes tighten first, pupils contract sharply, a little more sclera shows, the mouth line flattens instantly, and the whole face shifts from softened return to pre-combat freeze. [Shot 7] At 00:13-00:15, the second cry arrives closer, sharper, and with more spatial pressure. She reacts at once: a hard stop, a half-turn, one short backward step into the cover of the right-rear stone pillar, right hand moving instinctively toward weapon or rope, left knee bending to lower her center of gravity, shoulders and back tightening while the movement stays clean and efficient. The camera follows her with one short controlled reaction move and settles on a two-thirds side-back guarded pose, keeping both her and the space clear. Her expression is not panic but hunter-readiness: brow center lightly locked, gaze cutting hard toward the off-screen sound source, nostrils slightly open, lips parted just enough to pull breath or begin a low judgment, never exaggerated. Hair performs one brief delayed swing from the sudden stop; jacket and straps whip once and settle; chest and upper torso carry a short real braking response. Tiny stones are scuffed aside by the stop, thin standing water is sliced into a shallow fan-shaped splash, suspended mist grains shift under both her movement and the roar vibration, and small dust flecks fall from the pillar edge. End on her prepared-to-engage posture, without black, while the waterfall continues roaring, the second cry leaves pressure in the air, and leaves and mist hold their residual tremor.
 
-Writing the miss as an end state is what got the confused look. If you
-only describe the pounce, he catches it.
+overall_soundscape: Keep the full environment diegetic and continuous: waterfall thunder in the distance, rain-soaked canyon air, intermittent dripping from stone, soft gear friction, wet boot movement on stone, faint residual fire crackle from far ruins, and off-screen pressure from something alive deeper in the gorge. Emphasize close footfalls through shallow water film, fabric and strap movement, damp hair brushing skin, breath held low and controlled, soft ripples spreading from each step, leather friction, fingertips against old rope or stone, nearby leaf tremor, thin airy waterfall mist, the low line <d>[Chinese] 我又回来了。</d>, the step-up contact on wet stone, tiny water flicks, cloth settling, strap rebound, one deeper breath as her focus sharpens again, then the first distant cry with mist disturbance, delayed vine tremor, shaken droplets, and high-frequency ripples in shallow water. Finish with the second cry closer and sharper, her abrupt stop, one backward step into cover, gear whip and settle, shallow splash at the boot edge, small grit displacement, pillar dust falling, and the waterfall remaining underneath the whole moment.
+
+non_diegetic_music: Keep music extremely restrained. At most use a thin low-frequency cinematic tension bed under the natural canyon ambience, almost imperceptible during the return line, then tightening slightly after the first off-screen cry. It must never overpower the waterfall, breath, gear movement, or the monster calls.
 ~~~~
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/fluffi-vs-laser-pointer-hailuo-h3-one-take-136738/video-5e8746c5ec06.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/rebirth-within-the-wall-416352/video-df347fa4d9d9.webm)
 
-**Source:** [@GlennHasABeard](https://x.com/GlennHasABeard/status/2094472529939136738) · 15s · 7:4 · cinematic story
+**Source:** [@ou_zhen599](https://x.com/ou_zhen599/status/2100893619217416352) · 16s · 16:9 · music video
 
 ---
 
-### 23. ▫️ Render Time: 8s video in ~185s
+### 23. 📷“That One Second Deep Within the Ruins”
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/render-time-8s-video-in-185s-455656/video-b3d85db60137.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/render-time-8s-video-in-185s-455656/poster-6ab458edf47e.jpg" alt="▫️ Render Time: 8s video in ~185s video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/that-one-second-deep-within-the-ruins-162956/video-b4268f949fd1.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/that-one-second-deep-within-the-ruins-162956/poster-401e38a9b9fd.jpg" alt="📷“That One Second Deep Within the Ruins” video preview" width="700" />
 </a>
 
 <details>
-<summary><strong>Prompt</strong> — [First Frame Reference] Strictly preserve the blonde elf-eared girl side-lying on the tatami, the sleeping red Shiba Inu, her white shirt and shorts, and the sunlit Japanese room...</summary>
+<summary><strong>Prompt</strong> — For the target video, at 0.00 seconds into the target video, &lt;Picture 1&gt; (from [Shot 1]) is fully referenced. integrated_multimodal_description: [Shot 1] A 15-second, 16:9,...</summary>
 
 ~~~~text
-[First Frame Reference] Strictly preserve the blonde elf-eared girl side-lying on the tatami, the sleeping red Shiba Inu, her white shirt and shorts, and the sunlit Japanese room from the reference image.
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
 
-[Scene & Framing] Shunji Iwai cinematic style. Low-angle medium-close shot, focus sharply locked on the girl's facial profile, elf ears, and fine blonde hair strands.
+integrated_multimodal_description: [Shot 1] A 15-second, 16:9, cinematic realistic adventure-thriller image-to-video sequence based on <Picture 1>, staying entirely inside the same ancient temple courtyard. Keep the same young female explorer throughout: identical face, hair, outfit, body proportions, skin texture, age impression, and identity. Preserve one continuous courtyard system only: left-foreground colonnade edge, middle rubble path, and the slightly raised broken platform in the right-middle-ground. No new scene, no monsters, no traps, no supernatural spectacle, no extra people, no subtitles, no watermark, and no cut to black. The camera stays handheld at shoulder level but smooth, with only slight human breathing weight. She remains in motion on one fixed path: starting at the left-foreground colonnade shadow edge, angled forty-five degrees toward the right-front, walking diagonally forward along the rubble path for two to three steps, and ending at the raised broken platform edge in the right-middle-ground. The camera remains front-right to side-front throughout. Her left hand brushes the pillar, then the broken wall, and finally settles onto the broken stone rail. Emotion progresses in layers: post-adventure restraint -> slight softening -> relaxed approach -> quietly struck by beauty -> private satisfaction. [Shot 2] At 00:00-00:03.2, a near-medium handheld side-front follow starts above chest level and retreats slowly while keeping her dominant in frame. She walks out from the colonnade shadow edge in the left foreground, stepping with real heel-to-toe weight transfer. Her breathing is still slightly fast but settling. Her first emotional layer is focused without tension: brows gathered by the smallest amount, eyelids slightly lowered, pupils first on the path ahead and then drawn past camera toward a brighter area deeper in the courtyard, lips naturally closed but softly unsealed, jaw relaxed. Her right hand lifts and gently tucks loose hair behind her ear in a natural gesture. During that motion, her gaze makes the first small shift, not surprise but a brief hold caused by the light ahead. Forehead wisps move back with the hand and breeze, then fall with a delayed return. She speaks the first half of the line quietly, low and close, with a trace of post-walk breath: <d>[English] I always tell myself I'm just passing through...</d> Warm twilight backlight gives a narrow gold rim on hair edge, collarbone, nose bridge, and wet strands, while pillar shadows remain deep and mist catches fine particles. [Shot 3] At 00:03.2-00:05.8, move into the first sensual close-up, a near shot of shoulder, neck, collarbone, and upper torso. The camera makes a slight lateral glide from her right shoulder toward the collarbone, preserving realistic skin texture and warm golden side-back light. Her right hand drops from her hair and naturally adjusts the leather strap and front of the tank top in a small practical motion. Her expression enters the second phase, softening because the place is drawing her in: the brows fully release, the inner eye corners lift very slightly, the gaze focuses farther away, the eyelashes flutter once faintly, the mouth does not smile but loses some hardness, and breathing slows by half a beat. The collarbone and chest rise more evenly now. Her left fingertips slide along the rough stone pillar edge and pause microscopically on the texture. Fine airborne dust drifts through the backlight. The middle portion of the line falls here, quieter and more inward: <d>[English] ...then a place like this makes me slow down...</d> [Shot 4] At 00:05.8-00:09.0, return to a medium side-front follow as she continues along the rubble path toward the right-front for two steps. She still dominates the frame while courtyard depth and distant light open behind her. Her left hand glides from the pillar to the broken wall edge, her fingertips still reading the stone. Her expression enters the third phase, approaching and confirming: the eyes visibly brighten, the gaze rests longer, the outer eye corners open a little, the first trace of a smile appears at the mouth but never fully becomes one; her chin lifts slightly, as if she finally allows herself one more look; the shoulders fully release and the shoulder blades settle lower. She finishes the line here: <d>[English] ...and look one more time.</d> After the line, do not seal the lips immediately; leave a trace of open breath and resonance. Her gait, hair, tank hem, and strap all lag and rebound naturally. A few small stones at the path edge are nudged by her boot and roll a short distance before stopping. [Shot 5] At 00:09.0-00:12.2, second sensual close-up on side face and shoulder-neck in a gentle push-in. She steps her right foot onto the slightly raised broken platform in the right-middle-ground. On contact, her weight settles downward with a real grounded sink through the body, and the torso makes a tiny stabilization correction. A breeze from the right-rear lifts the loose hair at her forehead and the tail of the braid, pushing them left-back before they slowly settle against the shoulder again. Her right hand unconsciously presses once at the top edge of the tank and then smooths the shoulder strap, while her left hand reaches the broken stone rail for support. Her expression enters the fourth phase, lightly struck by beauty: the brows and eyes fully ease, the eyelids lift slightly, the pupils lock into the brightest depth of the courtyard, and the bridge of the nose and cupid's bow catch soft warm rim light; at last the mouth forms a tiny private smile, not performative, more like she has been quietly soothed by the moment. She breathes the short line softly here: <d>[English] Beautiful.</d> Let it come out on one breath, light and unforced. After the word, keep half a beat of breath and held gaze. [Shot 6] At 00:12.2-00:15.0, transition into a half-body intimate near shot. The camera makes a very small arc to settle just front-left of her. She does not freeze. First she half-turns slightly toward camera as if sharing the discovery with a companion nearby, but she never truly performs to the audience; then her gaze slowly returns to the courtyard depth. Her final expression is the fifth phase, private satisfaction and soft aftertaste: the eyes are gentler than before, the lower eyelids relaxed, a trace of smile remains at the mouth corners, the lips softly close and then loosen again with breath, the jawline softens, and the neck muscles release. Her left hand remains on the broken stone rail, the right arm hangs naturally, and the strap and tank respond subtly to breathing and wind. Dust continues to move in the warm backlight, and distant trees and stone surfaces shift by the smallest amount in the breeze. End on a living pause, with her still present in the moment, and do not cut to black.
 
-[Time-Coded Motion Breakdown]
-- 0-3s (Gentle Breeze & Hair Motion): A continuous soft summer breeze blows across the room, causing the fine strands of her blonde bangs and side hair to sway and flutter weightlessly, glowing translucently in the backlight.
-- 3-6s (Synchronized Rest): The girl and dog slumber peacefully with subtle chest rises and falls. The drifting hair strands lightly brush against the dog's ear, prompting a tiny, contented ear twitch from the Shiba.
-- 6-8s (Soft Drift & Golden Glow): The camera maintains a delicate organic handheld float as the breeze gently calms, settling her hair softly against her cheek. A soft, dreamlike golden lens flare shimmers at the edge of the frame.
+overall_soundscape: Maintain a continuous ancient courtyard atmosphere with no score-led dominance: soft wind through stone and foliage, distant courtyard air, faint grit movement underfoot, light cloth friction, leather strap creak, and quiet environmental space. Emphasize real footsteps on stone, light breathing settling from previous movement, loose hair brushing skin, fingertips on rough stone, a small strap adjustment, subtle cloth drag, drifting dust in warm air, soft footfalls, tiny pebbles nudged by her boot, moving fabric edges, the step onto the broken platform, the slight body sink, wind moving loose hair and braid tail, and one soft hand contact on stone. Keep all spoken lines close, low, and natural, with no loud effects and no supernatural sound design.
 
-[Camera & Optics] Shunji Iwai signature handheld organic breathing. 50mm large aperture shallow depth of field, rendering individual wind-blown hair strands crisp while keeping the background in creamy bokeh.
-[Lighting & Color Palette] High-key Japanese film aesthetic: strong ethereal backlighting, translucent hair rim lighting, dreamlike glow halation, pastel warmth, and fine film grain.
-[Audio Design] Intimate acoustic ambiance: the gentle whisper of a summer breeze, soft rustling garden leaves, faint distant wind chimes, and deep tranquil breathing.
-
-[Avoidances] No aggressive storm winds or chaotic hair physics; hair must flutter softly and realistically; no camera jolts; no sudden waking up.
+non_diegetic_music: Use either no score or only an extremely light, almost transparent warm ambient bed beneath the environment. It should support the intimate reflective mood without becoming sentimental, epic, or promotional. No percussive trailer pulse, no dramatic swell, and no magical sting.
 ~~~~
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/render-time-8s-video-in-185s-455656/video-b3d85db60137.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/that-one-second-deep-within-the-ruins-162956/video-b4268f949fd1.webm)
 
-**Source:** [@Tomw852](https://x.com/Tomw852/status/2094104586793455656) · 8s · 5:9 · cinematic story
+**Source:** [@ou_zhen599](https://x.com/ou_zhen599/status/2100859449716162956) · 15s · 16:9 · music video
 
 ---
 
-### 24. Created in Minimax H3
+### 24. Lara returns to familiar grounds, and it’s not just her memories that are truly reawakened.
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-in-minimax-h3-166116/video-22f9402ebdd6.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-in-minimax-h3-166116/poster-9e96b3ca9a5b.jpg" alt="Created in Minimax H3 video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/lara-returns-to-familiar-grounds-and-its-not-just-her-039850/video-084cf6864bde.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/lara-returns-to-familiar-grounds-and-its-not-just-her-039850/poster-1f0c35a7c418.jpg" alt="Lara returns to familiar grounds, and it’s not just her memories that are truly reawakened. video preview" width="700" />
 </a>
 
 <details>
-<summary><strong>Prompt</strong> — FORMAT: 15 seconds | 9:16 vertical | Ultra-photorealistic smartphone vlog | Real-world Tokyo at night CHARACTER LOCK Use the attached girl as the exact character and identity...</summary>
+<summary><strong>Prompt</strong> — For the target video, at 0.00 seconds into the target video, &lt;Picture 1&gt; (from [Shot 1]) is fully referenced. integrated_multimodal_description: [Shot 1] A 15-second, 16:9,...</summary>
 
 ~~~~text
-FORMAT: 15 seconds | 9:16 vertical | Ultra-photorealistic smartphone vlog | Real-world Tokyo at night
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
 
-CHARACTER LOCK
-Use the attached girl as the exact character and identity reference throughout the entire video. Preserve her recognizable facial features, face shape, warm skin tone, brown eyes, natural makeup, soft features, and dark brown hair styled in a messy high bun with loose strands framing her face.
-She is an adult woman with a natural, approachable travel-vlogger appearance.
+integrated_multimodal_description: [Shot 1] A 15-second, 16:9, cinematic realistic adventure-thriller image-to-video sequence set entirely inside the same rainforest ancient-temple canyon exterior shown in <Picture 1>: broken stone pillars, wet stone path, distant waterfall, and ruined temple remains all belong to one connected outdoor space. Preserve the exact same Lara-like adult female explorer throughout: same face, outfit, gear, wet hair, leather wear, mud, sweat, skin imperfections, and body proportions. No extra people, no visible monster body, no scene change, no black ending. She remains in continuous motion; every beat is tied to walking, brushing stone, crossing slick ground, tightening gear, climbing one wet step, pausing inside motion, and snapping into combat readiness. [Shot 2] At 00:00-00:03, the camera glides out from the edge of a broken stone pillar in the left foreground in a half-low near-medium tracking shot. She is already moving, traveling from frame left toward the right-front along the wet stone path. Her right hand presses a shoulder strap or rope at her waist while her left hand brushes damp hair from her face or grazes the stone for balance. Her boots cross shallow puddles, creating low circular ripples and thin sheets of water sliding off the stone edges. Her first emotional layer is restrained familiarity: gaze sweeps the distant ruin, then returns to the next foothold; eyelids are slightly lowered; lip line tight; breath steady but deeper than normal; the space between the brows carries contained recognition. Hair lifts from the neck in the humid canyon side-wind, then settles back against wet skin. Jacket hem, tank edge, and pant fabric lag behind her stride and rebound naturally. Warm twilight backlight from the right-rear through cloud and waterfall mist gives only a narrow gold rim on cheek edge, collarbone, nose bridge, and wet hair strands, while pillar shadows remain dense and the mist catches fine highlighted particles. [Shot 3] At 00:03-00:05, without changing direction, cut seamlessly into a functional sensual side-near shot, staying tight beside her as she passes the ancient pillar and vines. She never stops walking. The shot emphasizes wet hair skimming the side of her neck, the subtle rise and fall of her collarbone with breath, leather strap friction, and her fingers brushing old rope or stone edge while continuing forward. The sensuality comes entirely from motion, proximity, breath, and controlled contact with the environment. Her expression changes only slightly: the eye corners soften by a fraction, and the mouth loosens almost imperceptibly as if the smell of the old place has reached her, but she never smiles. Moisture on skin and fabric catches realistic fine highlights. Hair stays grouped in damp strands with small loose fibers moved by wind and spray. Waterfall mist forms a thin floating layer in the backlight, and nearby leaves tremble lightly from her passing contact. [Shot 4] At 00:05-00:08, shift into a half-body follow with a gentle push as she reaches a right-middle-ground cliff edge where the view opens toward the broken temple and waterfall. Her front foot steps onto a higher wet stone while the rear foot remains on the lower level, creating a suspended forward-driving pause rather than a full stop. The low camera rises slightly with her body, giving a restrained hero-return feeling. She tightens the old rope at her waist and lifts her eyes toward the distant ruined temple and the waterfall. In a low, light, steady voice she says, <d>[Chinese] 我又回来了。</d> The line is not shouted and not sentimental; it sounds like she is speaking to an old adversary. Her expression must layer clearly: before the line, the gaze holds a fraction longer and the jaw gathers inward; during the line, one corner of the mouth softens almost invisibly and then returns to neutral, the pupils stay focused, and a trace of warmth passes through the eyes; immediately after speaking she returns to experienced alertness. Dusk slices from behind and the right-rear, placing a soft gold edge on shoulder line, hair, collarbone, and tank edge, while waterfall mist provides a faint cool lift in the facial shadows. [Shot 5] At 00:08-00:11, she does not linger. She advances two more steps and climbs onto a slightly higher wet stone platform. The low near shot grows into a medium-close follow. This is the second functional sensual close-up: her abdomen tightens, one arm gathers the rope, the boot plants with authority, and the belt, waistband, tank hem, and abdominal muscles all show real load changes during the step and stabilization. Her chest and upper torso carry only brief, restrained natural inertia and settle. Her expression withdraws from return-softness back into route-reading focus: brow peaks tighten slightly, gaze begins mapping the deeper path ahead, and the lips part for one deeper breath. Hard physics stay visible: the boot compresses thin mud and water film on the stone, flicking tiny droplets outward; rough stone and moss leave a dark wet trace under the sole; cloth folds, strap rebound, and hair-end delay obey real inertia. [Shot 6] At 00:11-00:13, just as she raises her eyes to confirm the next route, the first shrill monster cry tears through the canyon from far deeper ahead. The creature never appears. The environment reacts before she does: the mist behind the waterfall is cut by a strange low-frequency turbulence, nearby hanging vines and leaves answer with a delayed fine tremor, tiny dust and droplets shake loose from stone cracks, and shallow water in the distance develops fast tight ripples. The camera does not whip or panic; it only hesitates by a fraction to let the sound and environmental response enter first. Her expression is precise and small: the eyes tighten first, pupils contract sharply, a little more sclera shows, the mouth line flattens instantly, and the whole face shifts from softened return to pre-combat freeze. [Shot 7] At 00:13-00:15, the second cry arrives closer, sharper, and with more spatial pressure. She reacts at once: a hard stop, a half-turn, one short backward step into the cover of the right-rear stone pillar, right hand moving instinctively toward weapon or rope, left knee bending to lower her center of gravity, shoulders and back tightening while the movement stays clean and efficient. The camera follows her with one short controlled reaction move and settles on a two-thirds side-back guarded pose, keeping both her and the space clear. Her expression is not panic but hunter-readiness: brow center lightly locked, gaze cutting hard toward the off-screen sound source, nostrils slightly open, lips parted just enough to pull breath or begin a low judgment, never exaggerated. Hair performs one brief delayed swing from the sudden stop; jacket and straps whip once and settle; chest and upper torso carry a short real braking response. Hard physics and fluid details match the action: tiny stones are scuffed aside by the stop, the thin standing water is sliced into a shallow fan-shaped splash, suspended mist grains shift under both her movement and the roar vibration, and small dust flecks fall from the pillar edge. End on her prepared-to-engage posture, without black, while the waterfall continues roaring, the second cry leaves pressure in the air, and leaves and mist hold their residual tremor.
 
-OUTFIT LOCK
+overall_soundscape: Keep the full environment diegetic and continuous: waterfall thunder in the distance, rain-soaked canyon air, intermittent dripping from stone, soft gear friction, wet boot movement on stone, faint residual fire crackle from far ruins, and off-screen pressure from something alive deeper in the gorge. Emphasize close footfalls through shallow water film, fabric and strap movement, damp hair brushing skin, breath held low and controlled, and soft ripples spreading from each step. Bring forward leather friction, fingertips against old rope or stone, nearby leaf tremor, thin airy waterfall mist, the low line <d>[Chinese] 我又回来了。</d>, the step-up contact on wet stone, tiny water flicks, cloth settling, strap rebound, one deeper breath as her focus sharpens again, then the first distant cry with mist disturbance, delayed vine tremor, shaken droplets, and high-frequency ripples in shallow water. Finish with the second cry closer and sharper, her abrupt stop, one backward step into cover, gear whip and settle, shallow splash at the boot edge, small grit displacement, pillar dust falling, and the waterfall remaining underneath the whole moment.
 
-Match the outfit shown in the storyboard:
-
-Cream-colored knit top
-
-Light beige lightweight jacket, worn open
-
-Charcoal/dark gray straight-leg trousers
-
-Clean white sneakers
-Small silver hoop earrings
-Simple silver wristwatch
-Minimal accessories
-Natural, understated makeup
-The hairstyle, face, outfit, accessories and overall appearance must remain identical across all six storyboard scenes.
-00–04s — RUNNING FOR IT
-Handheld selfie footage on a crowded Tokyo street at night.
-
-The girl from the attached reference walks quickly toward the camera, slightly out of breath. Her beige jacket moves naturally as she walks.
-
-Bright Tokyo signs, storefronts, pedestrians and traffic create an authentic nighttime city background.
-
-She looks directly into the phone camera and laughs:
-
-“Wait—my train leaves in two minutes!”
-
-She quickly turns the phone forward and starts jogging toward the station.
-
-04–08s — THE STATION
-
-Handheld camera follows her from behind and slightly beside her as she rushes down the station stairs.
-
-Her messy brown bun and beige jacket remain clearly recognizable.
-
-She reaches the ticket gate, taps her transit card and quickly passes through.
-
-The phone camera shakes naturally from her movement and briefly loses autofocus.
-
-08–12s — MADE IT
-
-She reaches the platform just as the train arrives.
-
-The camera captures the approaching train headlights before returning to her face.
-
-She steps inside, turns the phone toward herself and smiles while catching her breath.
-
-She says:
-
-“I actually made it!”
-
-The train doors close behind her.
-
-12–15s — TOKYO THROUGH THE WINDOW
-
-Inside the train, she turns the phone toward the window.
-
-Tokyo's illuminated buildings and streets naturally blur past as the train accelerates.
-
-Her face appears softly reflected in the glass.
-
-She looks toward the city and quietly says:
-
-“Okay… Tokyo at night hits different.”
-
-Natural cut.
-
-REALISM & CHARACTER CONSISTENCY
-
-Same attached girl in every shot. No character changes.
-
-Maintain the exact:
-
-Facial identity
-
-Brown eyes
-
-Dark brown messy high bun
-
-Loose face-framing hair strands
-Skin tone
-Facial proportions
-Cream knit top
-Beige jacket
-Charcoal trousers
-White sneakers
-Silver earrings
-Wristwatch
-Natural skin texture, realistic hair strands, authentic blinking, subtle facial expressions and believable body movement.
-No outfit changes, no hairstyle changes, no different woman, no face morphing, no beauty-filter effect.
-
-VISUAL STYLE
-Authentic handheld smartphone footage rather than a polished movie.
-
-Natural motion blur, autofocus hunting, slight exposure shifts, realistic low-light phone noise, imperfect framing, natural Tokyo crowds and physically accurate movement.
-
-No cinematic transitions, no fantasy effects, no exaggerated neon, no artificial-looking skin, no duplicated people, no impossible camera movement.
-
-AUDIO
-Natural Tokyo ambience, footsteps, station announcements, crowd noise, train brakes, door chime and her real voice.
-
-No background music, no subtitles, no watermark.
+non_diegetic_music: Keep music extremely restrained. At most use a thin low-frequency cinematic tension bed under the natural canyon ambience, almost imperceptible during the return line, then tightening slightly after the first off-screen cry. It must never overpower the waterfall, breath, gear movement, or the monster calls.
 ~~~~
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/created-in-minimax-h3-166116/video-22f9402ebdd6.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/lara-returns-to-familiar-grounds-and-its-not-just-her-039850/video-084cf6864bde.webm)
 
-**Source:** [@codewithhajra](https://x.com/codewithhajra/status/2093896492000166116) · 17s · 45:56 · vlog
+**Source:** [@ou_zhen599](https://x.com/ou_zhen599/status/2100849010278039850) · 15s · 16:9 · music video
 
 ---
 
-### 25. 以上是关于近期网友较多留言的回复，有问题可以在这里提问，我将尽量予以回答，我也会在合适的时间在经过认真论证后开源我的系统和工作流。
+### 25. Man reference <image 0> Woman reference <image 1> Use the two supplied character
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-929579-929579/video-1bbe0f98e178.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-929579-929579/poster-57b0a0b9f12c.jpg" alt="以上是关于近期网友较多留言的回复，有问题可以在这里提问，我将尽量予以回答，我也会在合适的时间在经过认真论证后开源我的系统和工作流。 video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/man-reference-image-0-woman-reference-image-1-use-the-734840/video-616e807aba28.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/man-reference-image-0-woman-reference-image-1-use-the-734840/poster-c72070b52105.jpg" alt="Man reference &lt;image 0&gt; Woman reference &lt;image 1&gt; Use the two supplied character video preview" width="700" />
 </a>
 
 <details>
-<summary><strong>Prompt</strong> — 一、整体基础设定 生成一支30秒、英式复古写实电影质感、原生同步英文对白的古典剧情短片。 画幅为宽银幕20:9，胶片写实电影摄影，24fps纯正电影观感，轻微细腻35mm复古胶片颗粒，无数码锐化感。...</summary>
+<summary><strong>Prompt</strong> — Man reference &lt;image 0&gt; Woman reference &lt;image 1&gt; Use the two supplied character references to preserve the exact identity and appearance of the red-haired woman and dark-haired...</summary>
 
 ~~~~text
-一、整体基础设定
+Man reference <image 0>
+Woman reference <image 1>
+Use the two supplied character references to preserve the exact identity and appearance of the red-haired woman and dark-haired man. EXACTLY TWO PEOPLE are present in this scene: ONE woman and ONE man. NEVER duplicate either character.
 
-生成一支30秒、英式复古写实电影质感、原生同步英文对白的古典剧情短片。
-画幅为宽银幕20:9，胶片写实电影摄影，24fps纯正电影观感，轻微细腻35mm复古胶片颗粒，无数码锐化感。
-故事发生在19世纪中期英国庄园书房，古典深木色精装墙面、复古雕花实木书柜、老旧皮质单人沙发、窗边垂落的暗丝绒窗帘。傍晚温柔暖调自然光从侧窗斜向切入，光线柔和朦胧，带轻微光影层次。
-整体色调极致克制高级，以深胡桃木棕、墨绿、米白、低饱和暗金为主，复古暗沉油画质感，画面干净厚重。全程规避所有现代物品、电子设备、现代装修风格与商业质感，纯古典英伦庄园氛围。
-整体表演摒弃戏剧化夸张演绎，全程依靠人物眼神微动、面部肌肉变化、呼吸节奏、细微肢体张力推进情绪，用克制的爆发力呈现底层灵魂的倔强与平等的呐喊。
+Late at night inside an old, slightly worn roadside American diner during heavy rain. The woman is already sitting alone on ONE SIDE of a booth, beside a rain-covered window, holding a ceramic cup of coffee. The man arrives and sits DIRECTLY ACROSS THE TABLE FROM HER on the OPPOSITE bench. He NEVER sits beside her. Once seated, both characters remain on their respective opposite sides of the table for the entire scene. Maintain this exact spatial relationship through every camera cut.
 
-二、故事内核&表演基调
+The visual treatment is moody, imperfect, atmospheric live-action feature-film photography, not pristine digital video. Slightly underexposed faces, deep soft shadows, low-key practical lighting, warm dim tungsten diner lamps mixed with cold blue-gray rainy window light, subdued colors, restrained saturation, gentle highlight bloom and halation around practical lights, subtle organic 35mm-style grain, slight lens softness, natural skin texture, atmospheric haze, imperfect shadow detail, soft optical depth of field and natural motion blur. Rain streaks distort distant neon and headlights outside into soft colored bokeh. Avoid clean clinical lighting, beauty lighting, glossy commercial imagery, HDR, razor-sharp edges, perfect digital clarity, plastic skin and polished AI aesthetics. It should look photographed through a real cinema lens in a dark location, with texture and imperfection.
 
-核心冲突：身份卑微的家庭教师女主角，面对贵族主人的身份试探与阶级碾压，压抑情绪彻底爆发，挣脱身份桎梏、呐喊灵魂平等、人格对等的核心信念。
-表演基调：内敛、倔强、隐忍又充满力量，无嘶吼、无大哭、无夸张肢体。情绪层次：隐忍拘谨→内心震颤→坚定反驳→情绪破防→温柔却决绝的灵魂告白，全程靠微表情和声线层次递进，安静却极具冲击力。
+[00:00–00:02] Moody medium-wide shot from behind the man's shoulder as he approaches the booth. The woman is visible ALONE on the opposite side of the table, looking down sadly at her coffee. He slides into the empty bench directly across from her. CUT immediately once he is seated.
 
-三、人物一致性
+[00:02–00:04] Tight close-up of the woman from the man's seated perspective. His shoulder may appear ONLY as a soft out-of-focus foreground edge. Do not show another man anywhere in frame. She raises her eyes toward him, disappointed, and quietly says: “You're late.”
 
-女主角
+[00:04–00:06] Reverse tight close-up of the man from the woman's seated perspective. Her red hair may appear ONLY as a soft blurred foreground edge. He says quietly: “I'm sorry... but I had a good reason.”
 
-20岁左右英国年轻女性，身形清瘦单薄、体态挺直不佝偻，自带倔强清冷气质。浅棕色中短发整齐利落，发丝柔软朴素，无精致造型；皮肤白皙通透，保留原生细腻皮肤纹理，无磨皮美颜，眉眼干净清澈，眼神坚定有韧劲。
-身着19世纪英式朴素女佣高领素色米白长裙，剪裁简约无装饰、干净素雅，面料轻薄垂坠。
-声线：清澈温柔的青年女中音，音色干净柔和，情绪从拘谨平稳逐渐变得坚定有力，尾段带着隐忍的哽咽，温柔却极具穿透力。
+[00:06–00:08] CUT to a close tabletop insert. His hand places a small OPEN engagement-ring box beside her coffee. A beautiful engagement ring is clearly visible inside. Warm practical light catches the ring naturally. Only his hand enters the shot.
 
-男主角
+[00:08–00:10] CUT directly to an extreme close-up of the woman's face. She freezes in disbelief. Her eyes widen and begin filling with tears; her lips part, then slowly form a stunned, emotional smile. Cold rainy-window bokeh glows softly behind her. She looks across the table toward him. End on her face.
 
-40岁左右英国贵族男性，身形挺拔高大、骨架宽阔，气质沉稳阴郁、自带沧桑疏离感。深棕色微卷短发，鬓角略带成熟质感，面部轮廓硬朗，眉眼深邃，额头沉稳，自带上位者的压迫感，眼神深沉内敛。
-身着19世纪英伦复古深色丝绒西装马甲、白色复古立领衬衫，穿搭庄重华贵，贵族质感十足。
-声线：低沉磁性的醇厚男低音，语气从从容试探、带着阶级优越感的淡然，逐渐转为错愕、收敛锋芒、温柔动容。
+CRITICAL CONTINUITY: Exactly ONE woman and ONE man. Never clone, duplicate or create another version of either character. The woman remains on her original side of the booth. The man sits ONLY on the opposite side. He NEVER sits beside her. An over-the-shoulder foreground shoulder is part of the SAME person whose viewpoint the camera represents and must NEVER become another visible character.
 
-全局人物约束
-
-两人全程保持面孔、年龄、发型、服装、神态、身形完全一致，无面部漂移、五官变形、妆容变化、服装穿帮、年龄波动。无任何现实演员、公众人物五官特征。
-严格遵守180度镜头轴线：男主角位于画面左侧，女主角位于画面右侧，两人面对面站立，间距一米左右，视线精准对接，全程站位固定无错乱、无互换位置。
-
-四、分镜头时序模块
-
-【镜头一｜0.0—6.5秒】
-
-85mm人像镜头，男主角胸部以上近景，三分之二侧脸朝向画面右侧的女主角。背景虚化深木色书柜与丝绒窗帘，极浅景深，突出人物面部情绪。
-摄影机近乎完全固定，仅保留极其细微的电影手持呼吸感，无任何推进、晃动、环绕、升降运镜。
-0.0—3.0秒：男主角姿态松弛淡然，眉眼微垂，眼神带着上位者的从容与试探，眉心舒展，嘴唇轻抿，下颌放松，语气慵懒疏离，带着轻微的阶级俯视感。
-3.0—6.5秒：说话间眼神微微抬升，紧盯对面的女主角，眼睑轻微收紧，面部神态依旧沉稳，无大幅情绪波动，语气平淡笃定。
-表情辅助：AU2眉部放松、AU12嘴角轻微放平、AU48眼部平视聚焦
-男主角语速平缓、语气淡然试探：
-“Do you think, because I am poor, obscure, plain, and little, I am soulless and heartless?”
-台词节奏均匀，尾音轻微拉长，自带贵族沉稳气场。
-本镜头结束后硬切转场，无淡入淡出、无转场特效。
-
-【镜头二｜6.5—18.0秒】
-
-硬切至女主角越肩近景，男主角的肩膀与轮廓作为模糊前景，占据画面左下角六分之一。女主角居于画面绝对中心，胸部以上构图，背景虚化窗边光影与书柜，画面干净聚焦。
-摄影机全程固定机位，仅有几乎无法察觉的细微呼吸晃动，无任何动态运镜。
-6.5—10.0秒：女主角身体微微挺直，肩背收紧，原本柔和的眉眼瞬间绷紧，眉心轻微聚拢，上眼睑抬起，双眼清亮坚定，直视对方，无丝毫闪躲。嘴唇轻闭，呼吸轻微加快，隐忍的情绪开始积蓄。
-表情辅助：AU4眉心微蹙、AU5眼睑抬起、AU23嘴唇收紧
-10.0—14.0秒：情绪逐步上扬，眼神更加锐利澄澈，面部无愤怒狰狞，只有倔强与坦荡。下颌轻轻咬紧，颈部线条绷紧，身体无晃动，仅气场彻底打开。声线从温柔变得清亮有力，字字铿锵。
-14.0—18.0秒：彻底挣脱自卑桎梏，眼神坦荡明亮，眉眼舒展却依旧坚定，积压的情绪尽数释放，语气决绝又赤诚。
-女主角语速平稳、坚定有力，无急促嘶吼：
-“You think wrong! I have as much soul as you—and full as much heart!”
-重读“soul”“heart”两个单词，语气掷地有声，温柔却不卑微。
-本镜头保持神态定格，精准卡点台词结束瞬间硬切。
-
-【镜头三｜18.0—26.0秒】
-
-硬切回男主角同角度近景，焦段、光线、构图、机位与镜头一完全统一，画面衔接丝滑。
-女主角画外音持续输出，声音来自画面右侧，清晰通透。
-18.0—21.0秒：男主角瞬间错愕，原本松弛的眉心骤然收紧，双眼微微睁大，眼底的从容与优越感瞬间消散，出现明显震动与意外，嘴唇微张，欲言又止。
-21.0—24.0秒：上位者的压迫感彻底褪去，眼神变得深沉柔和，眼睑放松，下颌收紧，沉默倾听，面部神态从试探转为动容、愧疚与惊艳。
-24.0—26.0秒：气息放缓，目光牢牢锁定前方，眼底满是复杂情绪：震撼、怜惜、认同，彻底放下阶级偏见。
-女主角画外音，声线温柔却无比坚定，情绪层层递进：
-“If God had gifted me with some beauty and much wealth, I should have made it as hard for you to leave me.”
-
-【镜头四｜26.0—30.0秒】
-
-硬切至女主角面部极近特写，聚焦眉眼与面部神态，比前序镜头更贴近面部，极致放大情绪细节。
-26.0—28.0秒：女主角眼眶轻微泛红，眼底蓄满细碎水光，无夸张流泪，睫毛微颤，呼吸轻柔急促，带着隐忍的委屈与赤诚的渴望。嘴角微微放平，眼神柔软却依旧倔强。
-28.0—30.0秒：情绪落定，眼神澄澈坦荡，眉眼温柔，语气平缓治愈，完成灵魂平等的终极告白。
-女主角带着温柔哽咽、无比真诚的语气收尾：
-“as it is now for me to leave you.”
-台词结束后，定格女主角含泪坚定的面部神态0.3秒，直接黑屏收尾，无淡出、无残留画面。
-
-五、声音设计
-
-1. 原生精准英文对白生成，双人声线辨识度极高，口型与每一个英文音节100%精准同步，无口型错位、无延迟偏差。
-2. 男主角人声：低沉醇厚男低音，情绪曲线：从容试探→错愕震动→温柔动容，声线全程沉稳，无尖锐、无浮夸。
-3. 女主角人声：清澈治愈女中音，情绪曲线：温柔拘谨→坚定倔强→赤诚坦荡→隐忍温柔，层次细腻完整，强弱有度，无全程大喊大叫。
-4. 保留真实人声细节：细微换气声、轻柔呼吸、尾音轻微颤音、隐忍哽咽，不降噪、不抹平真实人声质感。
-5. 环境音：仅保留极其轻微的窗外晚风簌簌声、书房安静空气底噪、细微窗帘飘动声，极致安静空灵。
-6. 全程无背景音乐、无配乐、无旁白、无额外音效、无人声混响过度，纯人声+轻环境音，凸显台词力量。
-
-六、影像限制（强制规避BUG）
-
-禁止字幕、禁止任何文字、禁止水印、禁止LOGO、禁止任何现代元素。
-禁止第三人入镜、禁止场景切换、禁止光线色调突变、禁止人物服装/发型/神态中途变化。
-禁止面部漂移、五官扭曲、眼神涣散、目光错位、嘴唇粘连、牙齿畸形、虚假过度流泪。
-禁止美颜磨皮、过度曝光、高饱和色彩、广告质感灯光、舞台戏剧打光。
-禁止夸张肢体动作、挥手、摇头、身体晃动、嘶吼尖叫、慢动作、环绕运镜、快速推拉镜头。
-禁止人物体型畸变、比例失调、穿模、画面CG感，全程保持真人写实电影质感。
-
-七、核心主旨重申
-
-本片核心魅力不在于镜头炫技，而在于极致细腻的微表情情绪递进。通过双人眼神博弈、声线层次变化、细微神态张力，演绎跨越阶级的灵魂平等，画面安静克制、情绪厚重有力量，贴合原著温柔又倔强的内核。
+NO MUSIC. Only quiet rain, subdued diner ambience and dialogue.
 ~~~~
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-929579-929579/video-1bbe0f98e178.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/man-reference-image-0-woman-reference-image-1-use-the-734840/video-616e807aba28.webm)
 
-**Source:** [@PixelAigc](https://x.com/PixelAigc/status/2093563293306929579) · 31s · 9:5 · gameplay
+**Source:** [@EndFolding79421](https://x.com/EndFolding79421/status/2100797634650734840) · 10s · 43:24 · product commercial
 
 ---
 
-### 26. MV. One-scene long take. Low-angle shot. [Background / Floor] Create a gigantic
+### 26. A Different Place
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/mv-one-scene-long-take-low-angle-shot-background-floor-516749/video-e0e60b415b8c.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/mv-one-scene-long-take-low-angle-shot-background-floor-516749/poster-667c052159d2.jpg" alt="MV. One-scene long take. Low-angle shot. [Background / Floor] Create a gigantic video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/a-different-place-226253/video-e0cc56f65182.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/a-different-place-226253/poster-b236db185e23.jpg" alt="A Different Place video preview" width="700" />
 </a>
 
 <details>
-<summary><strong>Prompt</strong> — MV. One-scene long take. Low-angle shot. [Background / Floor] Create a gigantic background surface spanning the entire area immediately behind the performers, extending...</summary>
+<summary><strong>Prompt</strong> — A cinematic journey through a completely unknown fantasy world. A vast open meadow stretches toward distant mountains, with a handful of strange, beautiful homes scattered...</summary>
 
 ~~~~text
-MV. One-scene long take. Low-angle shot.
-
-[Background / Floor] Create a gigantic background surface spanning the entire area immediately behind the performers, extending horizontally across the frame. Project video across the entire background surface with a projector. Do not show any outer boundary, frame, or edge of the projection surface. Do not show a wide expanse of floor or any stage depth behind the performers. The floor beneath their feet is finished in glossy black mirror-like material. The projected background imagery and the white lyric light are clearly reflected on the floor.
-
-[Lyric Direction] Display the white lyrics one phrase at a time, very large across the entire background. Use intense lyric motion similar to aggressive motion graphics. Do not show a large amount of text at once. Do not alter, add, duplicate, or omit any of the specified text. Use a two-stage reveal: first display only the outlines of the letters, then fill in the interiors. Frequently use glitch effects, chromatic aberration, sudden scaling, abrupt stops, position shifts, brief flashing, rotation, and distortion, with strong variations in speed and intensity.
-
-[Lighting] Do not use bright frontal lighting. Use the projector imagery and the projected white lyric light as the primary light sources. The projected imagery and light must clearly illuminate the performers’ bodies and faces.
-
-[Performer Action] Move their mouths in sync with the song.
-
-[Negative] Do not make it look like a live concert stage or a children’s recital/performance.
-
-[Lyrics] Display the lyrics in English.
-
-"If they are broadleaf trees, they wither and fall for sure.
-In the chilled autumn, no matter how you resist, it’s useless."
+A cinematic journey through a completely unknown fantasy world. A vast open meadow stretches toward distant mountains, with a handful of strange, beautiful homes scattered naturally across the landscape. The architecture is unlike anything on Earth, organic and imaginative rather than conventional. Colorful kites drift high in the wind. Strange flying creatures move slowly across the sky while unusual animals wander through the grass. Small unconventional flying vehicles travel between distant settlements. People live naturally within this world, walking along paths and going about their daily lives. The camera slowly travels forward through the landscape, revealing more and more details. Everything feels like part of one coherent, functioning ecosystem. Beautiful, mysterious, cinematic, immersive, grounded fantasy, natural lighting, realistic movement.
 ~~~~
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/mv-one-scene-long-take-low-angle-shot-background-floor-516749/video-e0e60b415b8c.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/a-different-place-226253/video-e0cc56f65182.webm)
 
-**Source:** [@h64g_](https://x.com/h64g_/status/2092307579221516749) · 76s · 16:9 · music video
+**Source:** [@ItsCosmicAnts](https://x.com/ItsCosmicAnts/status/2100707808333226253) · 15s · 16:9 · cinematic travel
 
 ---
 
-### 27. Made in with on
+### 27. This cost $0.2516.
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/made-in-with-on-053234/video-c27e75822678.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/made-in-with-on-053234/poster-68f6dcd81898.jpg" alt="Made in with on video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/this-cost-0-2516-244875/video-4c39f907ccef.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/this-cost-0-2516-244875/poster-9a2e70e5c45d.jpg" alt="This cost $0.2516. video preview" width="700" />
 </a>
 
 <details>
-<summary><strong>Prompt</strong> — Image 1: Futuristic racing game HUD interface, premium cyber racing design, transparent glass panels, holographic speedometer, position ranking display, energy boost meter, sharp...</summary>
+<summary><strong>Prompt</strong> — Hyper realistic blockbuster cinematic 15 second action sequence in one true unbroken continuous shot, with no cuts, no morphing, and no scene transitions. A rally car races along...</summary>
 
 ~~~~text
-Image 1:
-Futuristic racing game HUD interface, premium cyber racing design, transparent glass panels, holographic speedometer, position ranking display, energy boost meter, sharp aerodynamic graphics, glowing route map, futuristic typography, clean competitive esports style interface, high-tech minimal design, AAA racing game quality, 16:9.
+Hyper realistic blockbuster cinematic 15 second action sequence in one true unbroken continuous shot, with no cuts, no morphing, and no scene transitions. A rally car races along a narrow alpine cliff road in bright cold daylight, escaping a falling avalanche and trying to reach a tunnel before the route is buried. The camera begins high above in a wide aerial view revealing snow peaks, sheer drops, and the winding road, then physically dives toward the car into a close tracking chase. It glides beside the doors, drops low near the spinning tires as snow sprays, rises overhead to reveal the avalanche rushing behind, then arcs outward into a high circling drone like view before descending again into a front facing backward tracking move. The shot remains seamless throughout as the car drifts around icy switchbacks, clips loose snow, and bursts toward the tunnel just ahead of the collapsing slope.
 ~~~~
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/made-in-with-on-053234/video-c27e75822678.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/this-cost-0-2516-244875/video-4c39f907ccef.webm)
 
-**Source:** [@AllaAisling](https://x.com/AllaAisling/status/2091617234930053234) · 15s · 16:9 · music video
+**Source:** [@umesh_ai](https://x.com/umesh_ai/status/2100629018299244875) · 14s · 4:3 · action
 
 ---
 
-### 28. Character Board Animation (Bottom Video) & Character Intro Animation (Top Video)
+### 28. 📷“Shadow of the Snow-Cracked Coffin”
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/character-board-animation-bottom-video-character-intro-animation-top-vid-865400/video-a9048f3cc023.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/character-board-animation-bottom-video-character-intro-animation-top-vid-865400/poster-8649b607f5a1.jpg" alt="Character Board Animation (Bottom Video) &amp; Character Intro Animation (Top Video) video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/shadow-of-the-snow-cracked-coffin-357881/video-0a6f74b39b8f.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/shadow-of-the-snow-cracked-coffin-357881/poster-1fdc1708ec77.jpg" alt="📷“Shadow of the Snow-Cracked Coffin” video preview" width="700" />
 </a>
 
 <details>
-<summary><strong>Prompt</strong> — Use the reference image as the sole source for the character’s identity, design, facial features, hair, proportions, outfit, color language, and illustration style. Create a clean...</summary>
+<summary><strong>Prompt</strong> — For the target video, at 0.00 seconds into the target video, &lt;Picture 1&gt; (from [Shot 1]) is fully referenced. integrated_multimodal_description: [Shot 1] A 15-second cinematic...</summary>
 
 ~~~~text
-Use the reference image as the sole source for the character’s identity, design, facial features, hair, proportions, outfit, color language, and illustration style.
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
 
-Create a clean 16:9 artistic character introduction board with an editorial artbook aesthetic. Keep the layout fixed and keep every section in a stable position.
+integrated_multimodal_description: [Shot 1] A 15-second cinematic realistic adventure-thriller image-to-video sequence locked to the same exterior snow-peak ruin space shown in <Picture 1>: the same ice field, wet black rock, broken ice-water opening, and nearby storm-beaten cliff surface. Preserve the exact same adult female explorer throughout: same face, wet hair, wardrobe, backpack, pistol, body proportions, wet skin texture, and overall silhouette. Only one clear subject exists: her. No extra protagonists, no visible pursuer face, no spatial mismatch, no black frame. The state chain is strict: from 00:00 to 00:03.6 she is still on the bridge deck moving forward; at 00:03.6 the bridge breaks and she falls and catches the side rope; from 00:03.6 to 00:12.0 she remains suspended in open air beside the cliff with no stable foothold, never back on the bridge and never already on the cliff edge; only from 00:12.0 to 00:15.0 does she finally catch the broken lip and climb up for the first and only time. The camera stays low, intimate, lightly handheld with breathing vibration, always driven by her eyes, body, gun, the ice surface, the crack, and the opening. [Shot 2] At 00:00-00:01.8, begin on the bridge deck in a low intimate near shot. Start on her hand crushing the thick rope, glide across wet collarbone, slight chest breathing, damp strands stuck to the neck, then lift into her forward-leaning shoulder-and-back effort. She is still on the bridge deck, moving carefully forward. Her right hand presses the rope, her left steadies it, her left foot tests forward, knees slightly bent, abdomen tight to stabilize the bridge. This first sensual close-up comes only from survival action: collarbone, shoulder-neck line, wet hair, chest breathing, and back tension. Her first emotional layer is focused bridge control with panic suppressed: brows lightly drawn together, eyes fixed on the next foothold, lids tense, nostrils opened by restrained breath, lips slightly parted, jaw locked. She says quietly, <d>[English] Easy... keep moving.</d> Filtered jungle daylight shapes wet hair edges, collarbone, and shoulder line; straps cling and crease under reach and rope pressure. [Shot 3] At 00:01.8-00:03.6, she is still on the bridge deck in a frontal retreating medium shot, moving along the bridge axis toward camera. She accelerates by two quick steps. The planks start loosening under her and the bridge suddenly sags. She does not stop; she instantly drops her center of gravity and keeps moving. Her second emotional layer is tightening alertness: brows contract more, gaze narrows sharply, eyes flick between planks below and the broken lip ahead, nostrils open wider, lips flatten, jaw hardens. Tiny splinters and droplets fall through plank gaps, rope fibers begin fraying, and the bridge shivers with elastic vibration. [Shot 4] At 00:03.6-00:05.4, the bridge breaks. Begin on a tight structural view of planks and rope, then follow the fall briefly. The planks snap apart, the main rope fibers burst one after another, and the bridge section folds and drops. She falls with it and instinctively grabs a side rope with both hands; the rope catches her violently in midair. Make it unmistakable that from this moment she is hanging outside the cliff in open air with both feet off the ground and no bridge support beneath her. Her third emotional layer is uncontrolled terror forced into survival: pupils contract hard, eyes open wide but not caricature-wide, brow center drives down, nostrils strain, teeth clamp, throat loses a breath on the sudden stop. She says, <d>[English] No— hold... hold it!</d> The first half breaks on the arrest; the second is forced stabilization. Hard physics must read: rope fibers snap with different thicknesses and recoil, broken planks and wet wood dust tumble downward, palms scrape the rope and shed fibers, shoulders, arms, and lats take the violent stop, hair lifts with fall inertia then drops back heavy against face and neck, straps yank tight and rebound. [Shot 5] At 00:05.4-00:07.9, she remains hanging in open air beside the cliff. The camera looks slightly downward along the rope from near her shoulder and forearm, but the frame must always retain her hands, rope, and part of her arm or torso. Below is a narrow gorge river hundreds of meters down, white rapids punching through dark green rock walls, the falling wood immediately swallowed by the current, spray breaking into fine droplets, and cold mist lifting upward. She lets her eyes drop once toward the void, then immediately drags her head and gaze back toward the broken cliff lip. Her fourth emotional layer is fear seen for a flash and then forcibly contained: eyelids tremble, the eyeballs drop for one instant, lips shake slightly, the inhale catches, then focus re-forms. She says, <d>[English] Don't look down... come on.</d> The first half is lower like a self-command; the second is shorter and harder. Wind rises from below and lightly shakes damp strands near her temples, trouser hems, the tank hem, and straps. [Shot 6] At 00:07.9-00:12.0, she is still hanging in midair with no successful support on the cliff yet. Use a lateral medium close shot at side level, moving with her and the rope as they swing. She turns her body into a pendulum using abdomen, shoulders, knees, and hips to drive herself toward the broken lip. On the first swing she only brushes the broken wood with her fingertips, then immediately swings back out into open air again, still fully hanging on the rope with no stable support anywhere on her body. She instantly changes grip, tightens her core, bends her knees, rolls a shoulder, and loads a second swing. This is the second sensual close-up, fully embedded inside suspended self-rescue: tightened waist and abdomen, wet back under strain, stretched strap, forearm veins, palm friction on rope, and fast chest breathing. Her fifth emotional layer is pain and refusal to give up: after the first failure the brow drops lower, eye corners tighten, nostrils pulse, lips press and release, one mouth corner twitches with pain; before the second effort her gaze locks hard on the broken lip again, sharpening from scattered pain back into focused aggression, and the jaw locks again. She says, <d>[English] One more... come on, move.</d> The rope forms a real loaded arc and rebounds, palms show small blood streaks and wet abrasion, the broken wood sheds more fragments where she strikes it, clothes gather and stretch under swing loads then rebound, and hair whips first then settles against the neck and shoulder. Emphasize throughout that she remains suspended in midair after the first failed attempt. [Shot 7] At 00:12.0-00:15.0, this is the first and only moment she truly leaves the hanging state. Let the camera push in slightly with her upward drive. On the final swing she reaches the highest point, slams a forearm over the broken edge, and only now her knee successfully hooks the remaining wood for the first time. Her left hand claws the edge, the abdomen contracts violently, and she drags her full body up against the cliff, rolls half her torso back over the lip, and finally collapses onto the edge, breathing hard. Make it absolutely clear that this is the first genuine contact with the upper edge in the entire video. Her sixth emotional layer is shock after survival and near-collapse: the brows have not fully relaxed, the eyes first pin to the ground and edge, then begin to lose focus half a beat later; nostrils keep flaring fast; the lip line trembles from oxygen debt and pain; the mouth corner twitches faintly; the jaw unlocks little by little. No new dialogue. In the last half-second, let warm wet backlight from the jungle canopy catch her cheek, collarbone, and neck contour again, while cold bounce from below still lives on the underside of the jaw and inner arms. A few more broken boards drop away behind her to prove the space is still unstable. End without cutting to black, holding on her collapsed position at the broken lip, chest heaving, wet hair hanging down, and the blurred white gorge water still surging behind.
 
-Layout structure:
-- Left 40%: one large stylish waist-up portrait pose of the character.
-- Upper-right area: 3 full-body character pose panels arranged horizontally in a single row.
-- Lower-right area: 3 cinematic environment panels arranged horizontally in a single row directly below the full-body poses.
-- Bottom full-width strip: one horizontal color palette derived directly from the reference character.
+overall_soundscape: Continuous environmental bed: humid jungle air, distant insects softened by height, rope strain, bridge wood creaks, and the deep constant roar of the gorge river below. Emphasize close breath, hand pressure on wet rope, boots on damp planks, faint cloth drag, and her low line <d>[English] Easy... keep moving.</d> Build through plank groans, knot friction, splinters and droplets falling, rope fibers fraying, the bridge rupture, body catch on the side rope, palm scrape against coarse fiber, wind from the gorge, whitewater impact below, pendulum swings, rope tension rise and release, wood edge contact on the failed reach, fragments dropping away, clothes and straps shifting under strain, the final impact of forearm and knee on the edge, fingernails scraping wood, rope rebound, more debris falling, and harsh recovery breathing. No bombastic score, no trailer hits, no extra voices.
 
-Use a single solid off-white background across the entire board. Keep the outer canvas clean and uniform with no gradients, textures, scenery, decorative background patterns, or color blocks behind the layout.
-
-Do not rearrange, resize, swap, or reinterpret these sections. The large portrait must stay on the left. The 3 full-body poses must stay in the upper-right row. The 3 environment panels must stay in the lower-right row. The color palette must stay along the bottom.
-
-The 3 full-body pose panels must clearly show the character’s full silhouette, outfit, and personality through different poses.
-
-The 3 environment panels must also include the character, shown in different natural settings and under different lighting conditions. Give the character a different natural pose in each environment, interacting believably with the space through actions such as walking, sitting, leaning, resting, looking out, or casually occupying the scene. Avoid repeated standing poses.
-
-Choose environments, poses, lighting, and visual accents that naturally fit the character’s design and personality. Carry the character-derived color palette throughout the board.
-
-Keep strong character consistency across all panels. Minimal or no typography, subtle framing lines, elegant spacing, polished concept-art presentation. No redesign, no unrelated elements, no watermark.
-
----
-Bottom Video
-MiniMax H3 Prompt for Board Animation:
-
-Use the provided character board @[board reference] as the sole visual source. Animate the existing static board itself while preserving the exact 16:9 composition, panel positions, character design, illustration style, color palette, and solid off-white background.
-
-Keep the camera completely static for the entire video. No zoom, pan, tilt, reframing, parallax, or camera movement of any kind. The board itself must remain perfectly locked in place.
-
-The large waist-up portrait on the left is the main animated focal point. Let the character naturally change pose within the existing portrait area: subtle head turns, gaze changes, shoulder and upper-body shifts, small hand or arm movements when visible, expression changes, blinking, breathing, and gentle hair and clothing motion. Avoid repeating a single idle loop. Make it feel like a short sequence of natural portrait poses.
-
-The 3 full-body characters in the upper-right must remain in their exact panel positions and each perform a smooth full 360-degree turn in place, like a character turntable. Preserve their original proportions, outfit, identity, and panel boundaries.
-
-The 3 environment panels in the lower-right must remain fixed inside their frames. Animate each scene subtly and differently, preserving its original setting and lighting. Let the character perform small natural actions appropriate to the environment, such as walking a few steps, shifting posture, sitting naturally, leaning, looking around, or reacting gently to the surroundings. Add restrained environmental motion such as rain, wind, moving clouds, reflections, foliage, drifting particles, or subtle lighting changes where appropriate.
-
-Keep the bottom color palette completely static. Keep the solid off-white board background unchanged. Do not rearrange panels, expand scenes beyond their frames, add new elements, duplicate characters, redesign the character, or alter the layout. The result should feel like a polished animated artbook character board.
-
----
-
-Top Video
-MiniMax H3 Prompt for Character animation:
-
-Use the provided character board @[board reference] as the sole visual reference for character identity, design, facial features, hair, proportions, outfit, colors, environments, and illustration style. Use it as reference only. Do not animate the board itself.
-
-Create a short cinematic character introduction where the character comes to life through a sequence of polished animated shots inspired by the board’s content. Begin with the large waist-up portrait as a living shot, then move into the 3 full-body poses as brief character-focused moments, then transition into the 3 environment scenes as cinematic shots where the character naturally exists in those spaces. End on a clean composed hero shot of the character.
-
-Let the character be the animated focus in every shot. Use natural motion such as blinking, breathing, gaze shifts, head turns, subtle pose changes, small gestures, gentle hair and clothing motion, walking, sitting, leaning, resting, or looking out depending on the scene. The 3 full-body moments should clearly show the character’s silhouette, outfit, and attitude. The 3 environment moments should show the character in different natural settings, different lighting conditions, and different natural poses that fit each location.
-
-Use elegant cinematic camera movement, smooth transitions, and refined artbook-inspired presentation. Preserve strong character consistency and the board’s color language throughout. Minimal typography, atmospheric, polished, artistic, no redesign, no watermark.
+non_diegetic_music: Keep music minimal and subordinate to the physical environment. If any score is used, make it a restrained low-frequency tension bed that thickens during the hanging section and eases slightly into a shocked, breathless aftermath once she collapses onto the edge. No heroic swell, no horror blast, no melodramatic climax.
 ~~~~
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/character-board-animation-bottom-video-character-intro-animation-top-vid-865400/video-a9048f3cc023.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/shadow-of-the-snow-cracked-coffin-357881/video-0a6f74b39b8f.webm)
 
-**Source:** [@aimikoda](https://x.com/aimikoda/status/2091280502086865400) · 15s · 1023:1150 · fashion
+**Source:** [@ou_zhen599](https://x.com/ou_zhen599/status/2100592186572357881) · 15s · 16:9 · music video
 
 ---
 
-### 29. 镜头慢慢推进，镜头慢慢环绕，最后定格在这个仙人人物的身上，云雾快速翻腾，人物衣服随风飘扬。
+### 29. Minimax H3, open weights, generated locally. A whole autumn on one leaf. It doesn't fall.
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-483549-483549/video-28302ff344a0.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-483549-483549/poster-5240802e644a.jpg" alt="镜头慢慢推进，镜头慢慢环绕，最后定格在这个仙人人物的身上，云雾快速翻腾，人物衣服随风飘扬。 video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-open-weights-generated-locally-a-whole-autumn-on-732325/video-c60d31e3efb3.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-open-weights-generated-locally-a-whole-autumn-on-732325/poster-6441c0e6bb38.jpg" alt="Minimax H3, open weights, generated locally. A whole autumn on one leaf. It doesn't fall. video preview" width="700" />
 </a>
 
 <details>
-<summary><strong>Prompt</strong> — Picture Prompt in MJ...</summary>
+<summary><strong>Prompt</strong> — &quot;the green drains from the edges inward, yellow spreading, then orange creeping in from the veins, then deep red taking the whole leaf, then brown starting at the tip&quot; Duration:...</summary>
 
 ~~~~text
-Picture Prompt in MJ
+"the green drains from the edges inward, yellow spreading, then orange creeping in from the veins, then deep red taking the whole leaf, then brown starting at the tip"
 
-实景搭建的宏大东方宫殿群，【第一层:近景实体遮挡】，巧妙利用粗粝厚重的青石、苍松或天然岩石作强烈的近景物理遮挡。【第二层:中景压迫红墙与贴地人物】，高大巍峨的官式朱红宫墙呈实体压迫感向上延伸（表面仅接受自然光，绝无自发光或霓虹感），宫墙下方坚实厚重的青石露台上，身着汉服女子双脚稳稳贴地、伴随真实接触阴影，微小如豆但衣褶清晰。【穿层雾气与空间透视】，真实的物理云雾与山岚在近、中、远三层空间之间穿梭流淌，彻底割开画面层次。【第三层:远景极限纵深】，无尽云海与远山因大气透视自然淡化。自然阳光从真实太阳方位均匀洒落，实体质感达照片级写实。80 年代香港武侠片实体布景美学，胶片颗粒细腻，暖调偏色，严禁数字平滑感、荧光色、霓虹光、体积光、光束特效、3D 渲染感、文字、水印。
+Duration: 15s. Camera: locked macro. Rendered locally in ComfyUI, then Topaz to 4K.
+
+Colors in order, each with where it starts. That's a timeline. "Turns autumn colors" is a mood.
 ~~~~
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-483549-483549/video-28302ff344a0.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-open-weights-generated-locally-a-whole-autumn-on-732325/video-c60d31e3efb3.webm)
 
-**Source:** [@PixelAigc](https://x.com/PixelAigc/status/2090985277653483549) · 7s · 16:9 · cinematic story
+**Source:** [@GlennHasABeard](https://x.com/GlennHasABeard/status/2100583903945732325) · 15s · 9:5 · cinematic story
 
 ---
 
-### 30. Created with Hailuo H3.
+### 30. Minimax H3, open weights, generated locally. One sugar cube, one cup of tea, fifteen seconds.
 
-<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-hailuo-h3-182619/video-75c2c914df29.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-hailuo-h3-182619/poster-fdfc758d64c8.jpg" alt="Created with Hailuo H3. video preview" width="700" />
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-open-weights-generated-locally-one-sugar-cube-one-093393/video-fe4e1aa4219b.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-open-weights-generated-locally-one-sugar-cube-one-093393/poster-c03e74a5105c.jpg" alt="Minimax H3, open weights, generated locally. One sugar cube, one cup of tea, fifteen seconds. video preview" width="700" />
 </a>
 
 <details>
-<summary><strong>Prompt</strong> — Ultra cinematic title sequence: A colossal glacier fractures across an endless frozen ocean. Deep blue cracks spread for miles beneath translucent ice before the entire shelf...</summary>
+<summary><strong>Prompt</strong> — &quot;the cube's corners soften and round, the cube shrinking evenly and slumping into a mound&quot; Duration: 15s. Camera: locked macro. Rendered locally in ComfyUI, then Topaz to 4K....</summary>
 
 ~~~~text
-Ultra cinematic title sequence: A colossal glacier fractures across an endless frozen ocean. Deep blue cracks spread for miles beneath translucent ice before the entire shelf collapses. Mountains of ice are launched into the sky, suspended in breathtaking slow motion. Every crystal catches the sunlight while frozen debris rotates around the camera. The crystalline storm assembles the word "EXTINCTION", carved from pure glacial ice with intricate frozen textures. Hairline fractures slowly spread through every letter until the title violently shatters into millions of glittering ice fragments. Photorealistic ice simulation, IMAX-scale environmental VFX.
+"the cube's corners soften and round, the cube shrinking evenly and slumping into a mound"
+
+Duration: 15s. Camera: locked macro. Rendered locally in ComfyUI, then Topaz to 4K.
+
+"Dissolves" is a verb. Corners, then a mound, then nothing is a sequence of shapes. Same rule as the ice cube last week. It keeps working.
 ~~~~
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-hailuo-h3-182619/video-75c2c914df29.webm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-open-weights-generated-locally-one-sugar-cube-one-093393/video-fe4e1aa4219b.webm)
 
-**Source:** [@CharaspowerAI](https://x.com/CharaspowerAI/status/2090740724803182619) · 15s · 16:9 · title sequence
+**Source:** [@GlennHasABeard](https://x.com/GlennHasABeard/status/2100555772539093393) · 15s · 9:5 · cinematic story
 
 ---
 

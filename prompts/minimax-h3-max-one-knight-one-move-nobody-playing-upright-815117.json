@@ -1,0 +1,31 @@
+{
+  "slug": "minimax-h3-max-one-knight-one-move-nobody-playing-upright-815117",
+  "title": {
+    "en": "Minimax H3 Max. One knight, one move, nobody playing. Upright, and an L.",
+    "zh": "Minimax H3 Max. One knight, one move, nobody playing. Upright, and an L."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @GlennHasABeard.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "26:15",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@GlennHasABeard",
+    "url": "https://x.com/GlennHasABeard/status/2099857432356815117"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/GlennHasABeard/status/2099857432356815117"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-max-one-knight-one-move-nobody-playing-upright-815117/video-6085e7828a1b.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-max-one-knight-one-move-nobody-playing-upright-815117/poster-46d299bb9c89.jpg",
+  "prompt": "\"the knight is vertical on its base in every frame with its head up and never tips, leans, rolls or lies down, it glides on its base\"\n\nDuration: 15s. Camera: locked, sixty degrees above.\n\nTake one went diagonal. Take two lay down, because \"slides flat\" and a camera straight overhead told it to. Every fix opens a new door. Close them one at a time."
+}

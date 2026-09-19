@@ -1,0 +1,31 @@
+{
+  "slug": "image-to-videothe-shootout-scene-in-the-shooting-incident-h3-690595",
+  "title": {
+    "en": "Image-to-Video：🔫The shootout scene in the “Shooting Incident” H3 is actually pretty good.",
+    "zh": "Image-to-Video：🔫The shootout scene in the “Shooting Incident” H3 is actually pretty good."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @ou_zhen599.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+  },
+  "category": "music-video",
+  "mode": "text-to-video",
+  "duration": "14s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ou_zhen599",
+    "url": "https://x.com/ou_zhen599/status/2097704785646690595"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/ou_zhen599/status/2097704785646690595"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/image-to-videothe-shootout-scene-in-the-shooting-incident-h3-690595/video-9d0ef8f9c499.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/image-to-videothe-shootout-scene-in-the-shooting-incident-h3-690595/poster-9b40160f3812.jpg",
+  "prompt": "For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.\n\nintegrated_multimodal_description: [Shot 1] Live-action, cinematic, fully photoreal tactical survival realism. The first frame fully matches <Picture 1>: a wounded young adult woman inside a ruined abandoned building, preserving her exact face, facial proportions, skin tone, long naturally hanging dark hair, dirt and blood streaks, exhausted athletic body state, white cropped tank top, tactical backpack worn on her body, fingerless gloves, handgun in hand, visible fresh scratches and wounds, and intensely alert eyes. The room is a realistic decayed interior with broken concrete, ruined walls, shattered windows, debris, dust, and unstable daylight. The right-side window is the only attack origin in the entire video. The camera starts low and close on her left-front side, slightly below chest height, in a wide-angle immersive view that keeps her face, shoulders, gun hand, backpack tension, and room depth visible. She is already half-crouched near a structural pillar, compact and angled left-front, breathing controlled but strained. A sudden gunshot blasts through the right window. Glass explodes inward, dust blooms through the daylight, and fragments cut past her face. Her jaw tightens, her breath catches briefly, and her eyes lock to the right-window entry before her body finishes dropping. One arm and shoulder compress around the backpack as she folds into cover. [Shot 2] At 00:03.000, the camera stays on the same logical interior side and moves tightly with her as she drops lower and slides across the dusty floor toward the low broken-wall dead angle. The backpack drags with real weight and inertia but never leaves her body. Incoming rounds stitch the floor and wall behind her in one clear diagonal chase line from the right window only. Concrete and wood impacts burst in directional sprays. She keeps the handgun tight and controlled. Her eyes stay busy reading fire geometry, impact rhythm, and strike height while her body remains compact around the backpack. [Shot 3] At 00:06.000, the camera settles with her inside the dead angle for a short still beat. She is not panicking or posing. She listens, measures, and solves the problem with her eyes. Dust hangs and drifts across foreground, middle ground, and background. Her shoulders stay low, one knee and hip press into the floor, the backpack stays tight against her body, and the handgun remains ready but not blindly raised. Her gaze tracks from the right-window entry line to the recent impact heights, then back to the likely exposure channel. She subtly shifts weight, preserving the bag and preparing a clean firing line. [Shot 4] At 00:09.000, the shooter overcommits with another burst from the same right window. This burst finally exposes him: she gains a readable line of sight to a clear dark human silhouette in the right window opening. The camera does not jump across the room; it stays on the same interior side and lets the reveal happen within one coherent spatial move. She sees the silhouette clearly, tracks it with her eyes first, then begins raising the gun line with control. No blind firing, no guesswork, and no second shooter. Her hair remains soft and gravity-led, moving only from body motion, air displacement, and impact shock. [Shot 5] At 00:12.000, she explodes up from low cover along the pillar edge in one clean tactical motion, not a heroic pose. The camera stays close enough to feel her body mass, backpack drag, cloth lag, and floor friction while preserving the right-window geography. She sights directly on the visible dark silhouette in the right window and fires one precise counter-shot at that silhouette only. The handgun shows real weight, arm tension, wrist reaction, and strong but believable recoil. The silhouette is hit and collapses backward out of the window line with a real backward fall. Enemy gunfire stops completely. [Shot 6] At 00:13.800, the camera holds with her on the same interior shadow side, still low and close. She remains breathing hard, compact, and protective of the backpack, eyes fixed on the now-silent right window. Dust hangs in the room, glass fragments and debris settle, and the room map remains stable: pillar where she started, broken-wall dead angle where she read the shooter, pillar edge where she rose to fire, and the right window as the only origin of every incoming round. No additional enemies appear, no new firing direction begins, and the duel is clearly over.\n\noverall_soundscape: No music. Gunshots from outside the right window, inward glass shatter, bullet impacts in concrete and wood, debris rain, dusty floor scrape, cloth drag, backpack friction, strained breathing, one clean aimed handgun counter-shot, and then a complete stop in enemy gunfire define the soundscape. Dust and small debris continue settling in the silence after the kill.\n\nnon_diegetic_music: N/A"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "hailuo-h3-the-sunflowers-stopped-watching-the-sun-288672",
+  "title": {
+    "en": "Hailuo H3. The sunflowers stopped watching the sun.",
+    "zh": "Hailuo H3. The sunflowers stopped watching the sun."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @GlennHasABeard.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "1024:585",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@GlennHasABeard",
+    "url": "https://x.com/GlennHasABeard/status/2098144465697288672"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/GlennHasABeard/status/2098144465697288672"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-the-sunflowers-stopped-watching-the-sun-288672/video-22527e569241.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-the-sunflowers-stopped-watching-the-sun-288672/poster-113e797e5d51.jpg",
+  "prompt": "\"the heads turn, all together, away from the sun and toward the camera\"\n\nDuration: 15s. Camera: locked, flower-head height.\n\n\"The heads always move together\" is a crowd rule. Crowds in video models are a hundred individual decisions unless you give them one."
+}

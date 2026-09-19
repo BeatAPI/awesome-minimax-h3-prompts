@@ -1,0 +1,31 @@
+{
+  "slug": "hailuo-h3-the-waterfall-freezes-upward-and-the-sound-goes-397279",
+  "title": {
+    "en": "Hailuo H3. The waterfall freezes upward and the sound goes with it.",
+    "zh": "Hailuo H3. The waterfall freezes upward and the sound goes with it."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @GlennHasABeard.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "1024:585",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@GlennHasABeard",
+    "url": "https://x.com/GlennHasABeard/status/2097776859727397279"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/GlennHasABeard/status/2097776859727397279"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-the-waterfall-freezes-upward-and-the-sound-goes-397279/video-f1375b696359.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-the-waterfall-freezes-upward-and-the-sound-goes-397279/poster-1450e6d016a8.jpg",
+  "prompt": "\"a waterfall roar that fades in steps as the ice climbs\"\n\nDuration: 15s. Camera: locked, across the pool.\n\nThe sound line and the picture describe the same staircase. When they agree, the model has two reasons to do it right."
+}

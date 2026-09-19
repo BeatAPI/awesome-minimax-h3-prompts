@@ -1,0 +1,31 @@
+{
+  "slug": "knock-one-over-886660",
+  "title": {
+    "en": "Knock one over.",
+    "zh": "Knock one over."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 title sequence prompt with attached video evidence from @HBCoop_.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3视频提示词。"
+  },
+  "category": "title-sequence",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@HBCoop_",
+    "url": "https://x.com/HBCoop_/status/2100948748079886660"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/HBCoop_/status/2100948760163652081"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/knock-one-over-886660/video-8ed8450abd6b.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/knock-one-over-886660/poster-c6714925034f.jpg",
+  "prompt": "Analog practical title sequence shot on real film, photorealistic, warm tungsten light, shallow depth of field, a polished dark walnut floor.\n\n[0-3s] Extreme close-up, low to the floor: a single black domino with white pips stands at the start of a long curving line of dominoes. A fingertip taps it. It tips over.\n\n[3-9s] The camera tracks low alongside the chain reaction as it races forward, hundreds of black dominoes falling one after another in a fast rippling wave with crisp clicking sounds. The line curves and splits into several branching paths.\n\n[9-13s] The camera cranes smoothly up and back to a high overhead view as the final branches fall. The fallen dominoes have been laid out so that, seen from above, the lines of toppled black dominoes spell the single word FALL in large clean block capital letters across the floor.\n\n[13-15s] Hold perfectly still on the overhead view. The word FALL is sharp, legible and correctly spelled, made only of fallen dominoes. The last domino settles. Silence.\n\nOnly the four letters F, A, L, L. No other text, no logos, no people except the single fingertip at the start."
+}

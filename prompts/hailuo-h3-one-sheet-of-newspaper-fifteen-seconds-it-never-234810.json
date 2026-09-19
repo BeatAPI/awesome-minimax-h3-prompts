@@ -1,0 +1,31 @@
+{
+  "slug": "hailuo-h3-one-sheet-of-newspaper-fifteen-seconds-it-never-234810",
+  "title": {
+    "en": "Hailuo H3. One sheet of newspaper, fifteen seconds, it never becomes two.",
+    "zh": "Hailuo H3. One sheet of newspaper, fifteen seconds, it never becomes two."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @GlennHasABeard.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "7:4",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@GlennHasABeard",
+    "url": "https://x.com/GlennHasABeard/status/2098030225200234810"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/GlennHasABeard/status/2098030225200234810"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-one-sheet-of-newspaper-fifteen-seconds-it-never-234810/video-ea431559155c.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-one-sheet-of-newspaper-fifteen-seconds-it-never-234810/poster-6014551a4ce7.jpg",
+  "prompt": "\"one sheet, always the same sheet, the wind always blowing left to right\"\n\nDuration: 15s. Camera: locked wide.\n\nTumbling paper is where video models multiply things. The rip at 8 seconds is the hard part."
+}

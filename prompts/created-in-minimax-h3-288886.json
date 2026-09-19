@@ -1,0 +1,31 @@
+{
+  "slug": "created-in-minimax-h3-288886",
+  "title": {
+    "en": "Created in Minimax H3",
+    "zh": "Created in Minimax H3"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 vlog prompt with attached video evidence from @codewithhajra.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3视频提示词。"
+  },
+  "category": "vlog",
+  "mode": "reference-to-video",
+  "duration": "15s",
+  "aspectRatio": "15:17",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@codewithhajra",
+    "url": "https://x.com/codewithhajra/status/2093181779872288886"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/codewithhajra/status/2093181779872288886"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-in-minimax-h3-288886/video-70945b2c0304.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-in-minimax-h3-288886/poster-b0686cc945bc.jpg",
+  "prompt": "FORMAT: 9:16 vertical, 15 seconds\nSTYLE: Ultra-realistic luxury UGC, high-end fashion campaign, cinematic studio lighting, sophisticated, minimal, premium, photorealistic 4K.\nPRODUCT CONSISTENCY — CRITICAL:\nUse the uploaded handbag images as the exact and only product reference. Preserve the handbag’s exact shape, proportions, black color, smooth material, long structured handles, side bow/tie details, hardware, stitching, opening, and CHARLES & KEITH logo. Do not redesign, resize, recolor, add/remove details, or change the construction. The same handbag must remain perfectly consistent throughout every shot.\n\n🎬 SHOT-BY-SHOT\n0–2s — UNBOXING HOOK\nClose-up UGC shot of a stylish woman opening a CHARLES & KEITH black box on a clean, elegant table. She lifts the lid and gently pulls back the white dust bag/tissue paper, revealing the exact black handbag inside. Natural hand movement, satisfying packaging sounds, warm soft lighting.\nOn-screen text: “Okay… this is even prettier in person.”\n\n2–4s — HERO REVEAL\nSmooth cinematic camera movement from left to right, revealing the handbag’s full silhouette and distinctive oversized handles. Subtle realistic shadow beneath the bag. Premium fashion-commercial lighting.\n\n4–6s — DETAIL SHOT\nMacro close-up of the CHARLES & KEITH logo and smooth black finish. Camera gently racks focus from the material to the logo. Highly detailed texture, realistic reflections, shallow depth of field.\n6–8s — SIDE DETAIL\nThree-quarter angle matching the uploaded reference image. Slowly orbit around the bag to showcase its structured shape, side construction and elegant tie details. Keep the product geometry identical to the reference.\n8–11s — UGC LIFESTYLE MOMENT\nA stylish woman wearing a minimalist black blazer and tailored trousers naturally picks up the handbag from the studio surface. Frame primarily focuses on the handbag and hands rather than her face. The long handles fall naturally as she lifts it.\n\n11–13s — CARRY SHOT\nClose-up tracking shot as she carries the handbag beside her. Soft studio-to-fashion-editorial transition, subtle movement, natural hand interaction, realistic material behavior.\n13–15s — FINAL HERO\nReturn to a clean front three-quarter product shot. The handbag is placed elegantly on the surface while the camera slowly pushes in. Soft luxury lighting, beautiful shadow, crisp product details.\n\nOn-screen text:\n“Timeless. Effortless. Yours.”\n🎥 CAMERA & QUALITY\n\nSmooth controlled camera movements, macro lens details, shallow depth of field, realistic reflections, soft diffused key light, subtle rim lighting, natural shadows, premium editorial composition, realistic hand movement, physically accurate materials, no artificial CGI appearance, no excessive transitions.\nAUDIO: Soft luxury fashion beat + subtle tissue-paper crinkle + gentle handbag placement sound. No distracting music.\n\nNEGATIVE PROMPT:\nNo product redesign, no altered proportions, no different handbag, no extra straps, no missing handles, no distorted logo, no warped geometry, no floating objects, no plastic-looking material, no excessive gloss, no shaky footage, no cartoon/CGI appearance, no unrealistic hands, no face distortion, no text glitches."
+}

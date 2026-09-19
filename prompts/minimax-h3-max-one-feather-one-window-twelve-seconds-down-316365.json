@@ -1,0 +1,31 @@
+{
+  "slug": "minimax-h3-max-one-feather-one-window-twelve-seconds-down-316365",
+  "title": {
+    "en": "Minimax H3 Max. One feather, one window, twelve seconds down.",
+    "zh": "Minimax H3 Max. One feather, one window, twelve seconds down."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @GlennHasABeard.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "26:15",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@GlennHasABeard",
+    "url": "https://x.com/GlennHasABeard/status/2099526136468316365"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/GlennHasABeard/status/2099526136468316365"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-max-one-feather-one-window-twelve-seconds-down-316365/video-56af6f37fc73.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-max-one-feather-one-window-twelve-seconds-down-316365/poster-bd8e45e52220.jpg",
+  "prompt": "\"taking twelve full seconds to fall the height of the window\"\n\nDuration: 15s. Camera: locked.\n\nSlow motion is not an adjective. It is a distance divided by a time you wrote down. Twelve seconds for one window is the whole instruction."
+}

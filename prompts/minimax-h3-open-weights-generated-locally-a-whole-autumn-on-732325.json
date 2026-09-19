@@ -1,0 +1,31 @@
+{
+  "slug": "minimax-h3-open-weights-generated-locally-a-whole-autumn-on-732325",
+  "title": {
+    "en": "Minimax H3, open weights, generated locally. A whole autumn on one leaf. It doesn't fall.",
+    "zh": "Minimax H3, open weights, generated locally. A whole autumn on one leaf. It doesn't fall."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @GlennHasABeard.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "9:5",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@GlennHasABeard",
+    "url": "https://x.com/GlennHasABeard/status/2100583903945732325"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/GlennHasABeard/status/2100583903945732325"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-open-weights-generated-locally-a-whole-autumn-on-732325/video-c60d31e3efb3.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-open-weights-generated-locally-a-whole-autumn-on-732325/poster-6441c0e6bb38.jpg",
+  "prompt": "\"the green drains from the edges inward, yellow spreading, then orange creeping in from the veins, then deep red taking the whole leaf, then brown starting at the tip\"\n\nDuration: 15s. Camera: locked macro. Rendered locally in ComfyUI, then Topaz to 4K.\n\nColors in order, each with where it starts. That's a timeline. \"Turns autumn colors\" is a mood."
+}

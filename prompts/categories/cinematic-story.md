@@ -135,7 +135,727 @@ Maintain geographic and temporal continuity across all shots.
 
 ---
 
-## 2. Created with MiniMax H3 Max
+## 2. Minimax H3, open weights, generated locally. One lamp, one flower, rain on the glass.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-open-weights-generated-locally-one-lamp-one-flower-997920/video-439b574e2788.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-open-weights-generated-locally-one-lamp-one-flower-997920/poster-ba38f224c0b1.jpg" alt="Minimax H3, open weights, generated locally. One lamp, one flower, rain on the glass. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — &quot;the petals open one ring at a time from the outside in&quot; Duration: 15s. Camera: locked, pot height. Rendered locally in ComfyUI, then Topaz to 4K. &quot;No other plant moves&quot; is the...</summary>
+
+~~~~text
+"the petals open one ring at a time from the outside in"
+
+Duration: 15s. Camera: locked, pot height. Rendered locally in ComfyUI, then Topaz to 4K.
+
+"No other plant moves" is the sentence that kept the greenhouse asleep. One thing opening is a story. Everything opening is a screensaver.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-open-weights-generated-locally-one-lamp-one-flower-997920/video-439b574e2788.webm)
+
+**Source:** [@GlennHasABeard](https://x.com/GlennHasABeard/status/2101008623555997920) · 15s · 9:5 · cinematic story
+
+---
+
+## 3. Minimax H3, open weights, generated locally. One balloon. The string is the last thing you see.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-open-weights-generated-locally-one-balloon-the-string-726711/video-99380535f130.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-open-weights-generated-locally-one-balloon-the-string-726711/poster-e5eb0f1e1624.jpg" alt="Minimax H3, open weights, generated locally. One balloon. The string is the last thing you see. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — &quot;the dot leaves the top of the frame and the tail of the string follows it out&quot; Duration: 15s. Camera: locked, looking up. Rendered locally in ComfyUI, then Topaz to 4K. The...</summary>
+
+~~~~text
+"the dot leaves the top of the frame and the tail of the string follows it out"
+
+Duration: 15s. Camera: locked, looking up. Rendered locally in ComfyUI, then Topaz to 4K.
+
+The string is the continuity test. A thin line attached to a shrinking object for fifteen seconds.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-open-weights-generated-locally-one-balloon-the-string-726711/video-99380535f130.webm)
+
+**Source:** [@GlennHasABeard](https://x.com/GlennHasABeard/status/2100950273434726711) · 15s · 9:5 · cinematic story
+
+---
+
+## 4. Which one handled the scene best?
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/which-one-handled-the-scene-best-825625/video-bbd98fb78199.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/which-one-handled-the-scene-best-825625/poster-053f23976abb.jpg" alt="Which one handled the scene best? video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — A street chef in a crowded Asian night market at night tosses noodles in a flaming wok. Handheld camera slowly pushes in from the crowd toward the stall. The wok flares with a...</summary>
+
+~~~~text
+A street chef in a crowded Asian night market at night tosses noodles in a flaming wok. Handheld camera slowly pushes in from the crowd toward the stall. The wok flares with a burst of orange fire and sparks; steam rolls up into the string lights, oil glistens, the chef flips the noodles high and catches them, then looks up at the camera and grins. Warm lantern light, neon signs blurred in the background, shallow depth of field, cinematic, photoreal. Natural sound of sizzling, the crowd, and the flame. No music, no on-screen text.
+
+Explore at 🔗
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/which-one-handled-the-scene-best-825625/video-bbd98fb78199.webm)
+
+**Source:** [@enhance_ai](https://x.com/enhance_ai/status/2100922427538825625) · 17s · 16:9 · cinematic story
+
+---
+
+## 5. Minimax H3, open weights, generated locally. A whole autumn on one leaf. It doesn't fall.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-open-weights-generated-locally-a-whole-autumn-on-732325/video-c60d31e3efb3.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-open-weights-generated-locally-a-whole-autumn-on-732325/poster-6441c0e6bb38.jpg" alt="Minimax H3, open weights, generated locally. A whole autumn on one leaf. It doesn't fall. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — &quot;the green drains from the edges inward, yellow spreading, then orange creeping in from the veins, then deep red taking the whole leaf, then brown starting at the tip&quot; Duration:...</summary>
+
+~~~~text
+"the green drains from the edges inward, yellow spreading, then orange creeping in from the veins, then deep red taking the whole leaf, then brown starting at the tip"
+
+Duration: 15s. Camera: locked macro. Rendered locally in ComfyUI, then Topaz to 4K.
+
+Colors in order, each with where it starts. That's a timeline. "Turns autumn colors" is a mood.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-open-weights-generated-locally-a-whole-autumn-on-732325/video-c60d31e3efb3.webm)
+
+**Source:** [@GlennHasABeard](https://x.com/GlennHasABeard/status/2100583903945732325) · 15s · 9:5 · cinematic story
+
+---
+
+## 6. Minimax H3, open weights, generated locally. One sugar cube, one cup of tea, fifteen seconds.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-open-weights-generated-locally-one-sugar-cube-one-093393/video-fe4e1aa4219b.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-open-weights-generated-locally-one-sugar-cube-one-093393/poster-c03e74a5105c.jpg" alt="Minimax H3, open weights, generated locally. One sugar cube, one cup of tea, fifteen seconds. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — &quot;the cube's corners soften and round, the cube shrinking evenly and slumping into a mound&quot; Duration: 15s. Camera: locked macro. Rendered locally in ComfyUI, then Topaz to 4K....</summary>
+
+~~~~text
+"the cube's corners soften and round, the cube shrinking evenly and slumping into a mound"
+
+Duration: 15s. Camera: locked macro. Rendered locally in ComfyUI, then Topaz to 4K.
+
+"Dissolves" is a verb. Corners, then a mound, then nothing is a sequence of shapes. Same rule as the ice cube last week. It keeps working.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-open-weights-generated-locally-one-sugar-cube-one-093393/video-fe4e1aa4219b.webm)
+
+**Source:** [@GlennHasABeard](https://x.com/GlennHasABeard/status/2100555772539093393) · 15s · 9:5 · cinematic story
+
+---
+
+## 7. Minimax H3 local. One wave. Left to right. Then nothing.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-local-one-wave-left-to-right-then-nothing-303788/video-8288deb1ee60.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-local-one-wave-left-to-right-then-nothing-303788/poster-a8ef7618aee4.jpg" alt="Minimax H3 local. One wave. Left to right. Then nothing. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — &quot;a clear moving band of flattened wheat about ten stalks wide, the stalks behind it standing back up as it passes&quot; Duration: 15s. Camera: locked, just above the wheat. A field is...</summary>
+
+~~~~text
+"a clear moving band of flattened wheat about ten stalks wide, the stalks behind it standing back up as it passes"
+
+Duration: 15s. Camera: locked, just above the wheat.
+
+A field is ten thousand stalks. A band ten stalks wide moving at walking pace is one object. Turn the crowd into one thing.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-local-one-wave-left-to-right-then-nothing-303788/video-8288deb1ee60.webm)
+
+**Source:** [@GlennHasABeard](https://x.com/GlennHasABeard/status/2100319404806303788) · 15s · 9:5 · cinematic story
+
+---
+
+## 8. Minimax H3 Max. Ten marbles, one per second, single file, off the edge.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-max-ten-marbles-one-per-second-single-file-462923/video-0cf643964083.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-max-ten-marbles-one-per-second-single-file-462923/poster-dea1e5d7310f.jpg" alt="Minimax H3 Max. Ten marbles, one per second, single file, off the edge. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — &quot;a new marble leaving the jar roughly every second, never two at once&quot; Duration: 15s. Camera: locked, shelf height. A rate in the picture and a rate in the sound line. Two clocks...</summary>
+
+~~~~text
+"a new marble leaving the jar roughly every second, never two at once"
+
+Duration: 15s. Camera: locked, shelf height.
+
+A rate in the picture and a rate in the sound line. Two clocks that agree.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-max-ten-marbles-one-per-second-single-file-462923/video-0cf643964083.webm)
+
+**Source:** [@GlennHasABeard](https://x.com/GlennHasABeard/status/2100185257970462923) · 15s · 7:4 · cinematic story
+
+---
+
+## 9. Created with MiniMax H3
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-641230/video-271672951652.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-641230/poster-c12b07adb38c.jpg" alt="Created with MiniMax H3 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — A young beautiful woman with long blonde hair featuring pink and blue highlights sits on a sofa in a bright modern living room, watching a soccer match on a large wall-mounted TV...</summary>
+
+~~~~text
+A young beautiful woman with long blonde hair featuring pink and blue highlights sits on a sofa in a bright modern living room, watching a soccer match on a large wall-mounted TV while holding a drink and a hot dog. Excited by the game, she leaps up, runs to the screen, and touches it, causing glowing energetic shockwaves to ripple across the display before she magically steps directly through the screen into a packed, floodlit stadium. Still in her elegant white suit, she dynamically dribbles a soccer ball down the pitch, kicks a powerful shot past the diving goalkeeper into the net, and celebrates on the field alongside players while calmly holding her drink.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-641230/video-271672951652.webm)
+
+**Source:** [@TaliaAariz](https://x.com/TaliaAariz/status/2099966666763641230) · 15s · 1:1 · cinematic story
+
+---
+
+## 10. Minimax H3 Max. The fan takes ten seconds to get going. The papers wait for it.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-max-the-fan-takes-ten-seconds-to-get-612863/video-6fc481395d85.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-max-the-fan-takes-ten-seconds-to-get-612863/poster-d02f0861aecf.jpg" alt="Minimax H3 Max. The fan takes ten seconds to get going. The papers wait for it. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — &quot;The papers stay perfectly flat the whole time. End state: fan at full speed, papers flat. 13-15 seconds: the top three papers lift at once&quot; Duration: 15s. Camera: locked, fan and...</summary>
+
+~~~~text
+"The papers stay perfectly flat the whole time. End state: fan at full speed, papers flat. 13-15 seconds: the top three papers lift at once"
+
+Duration: 15s. Camera: locked, fan and desk in frame.
+
+Cause and effect in a prompt is two clocks. Write when the effect does not happen, or it happens at once.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-max-the-fan-takes-ten-seconds-to-get-612863/video-6fc481395d85.webm)
+
+**Source:** [@GlennHasABeard](https://x.com/GlennHasABeard/status/2099888647306612863) · 15s · 26:15 · cinematic story
+
+---
+
+## 11. Minimax H3 Max. One knight, one move, nobody playing. Upright, and an L.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-max-one-knight-one-move-nobody-playing-upright-815117/video-6085e7828a1b.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-max-one-knight-one-move-nobody-playing-upright-815117/poster-46d299bb9c89.jpg" alt="Minimax H3 Max. One knight, one move, nobody playing. Upright, and an L. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — &quot;the knight is vertical on its base in every frame with its head up and never tips, leans, rolls or lies down, it glides on its base&quot; Duration: 15s. Camera: locked, sixty degrees...</summary>
+
+~~~~text
+"the knight is vertical on its base in every frame with its head up and never tips, leans, rolls or lies down, it glides on its base"
+
+Duration: 15s. Camera: locked, sixty degrees above.
+
+Take one went diagonal. Take two lay down, because "slides flat" and a camera straight overhead told it to. Every fix opens a new door. Close them one at a time.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-max-one-knight-one-move-nobody-playing-upright-815117/video-6085e7828a1b.webm)
+
+**Source:** [@GlennHasABeard](https://x.com/GlennHasABeard/status/2099857432356815117) · 15s · 26:15 · cinematic story
+
+---
+
+## 12. Minimax H3 Max. One domino. It falls. Nothing happens. It gets back up.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-max-one-domino-it-falls-nothing-happens-it-903952/video-17a3a500832c.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-max-one-domino-it-falls-nothing-happens-it-903952/poster-b00558c293ae.jpg" alt="Minimax H3 Max. One domino. It falls. Nothing happens. It gets back up. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — &quot;the domino slowly rises back up onto its end, pivoting on its base, until it is upright again&quot; Duration: 15s. Camera: locked, domino height. &quot;No others ever appear&quot; is the...</summary>
+
+~~~~text
+"the domino slowly rises back up onto its end, pivoting on its base, until it is upright again"
+
+Duration: 15s. Camera: locked, domino height.
+
+"No others ever appear" is the consistency line. Every model wants to give a domino friends.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-max-one-domino-it-falls-nothing-happens-it-903952/video-17a3a500832c.webm)
+
+**Source:** [@GlennHasABeard](https://x.com/GlennHasABeard/status/2099565005955903952) · 15s · 26:15 · cinematic story
+
+---
+
+## 13. Minimax H3 Max. One feather, one window, twelve seconds down.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-max-one-feather-one-window-twelve-seconds-down-316365/video-56af6f37fc73.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-max-one-feather-one-window-twelve-seconds-down-316365/poster-bd8e45e52220.jpg" alt="Minimax H3 Max. One feather, one window, twelve seconds down. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — &quot;taking twelve full seconds to fall the height of the window&quot; Duration: 15s. Camera: locked. Slow motion is not an adjective. It is a distance divided by a time you wrote down....</summary>
+
+~~~~text
+"taking twelve full seconds to fall the height of the window"
+
+Duration: 15s. Camera: locked.
+
+Slow motion is not an adjective. It is a distance divided by a time you wrote down. Twelve seconds for one window is the whole instruction.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-max-one-feather-one-window-twelve-seconds-down-316365/video-56af6f37fc73.webm)
+
+**Source:** [@GlennHasABeard](https://x.com/GlennHasABeard/status/2099526136468316365) · 15s · 26:15 · cinematic story
+
+---
+
+## 14. Minimax H3 Max. One cork, one pop, nobody home.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-max-one-cork-one-pop-nobody-home-033629/video-a8137d62e011.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-max-one-cork-one-pop-nobody-home-033629/poster-2f197f843f96.jpg" alt="Minimax H3 Max. One cork, one pop, nobody home. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — &quot;the cork rises straight out of the neck with a single loud pop. 5-10 seconds: the cork keeps rising slowly, turning end over end once, until it is a hand's height above the...</summary>
+
+~~~~text
+"the cork rises straight out of the neck with a single loud pop. 5-10 seconds: the cork keeps rising slowly, turning end over end once, until it is a hand's height above the bottle"
+
+Duration: 15s. Camera: locked, room above the neck.
+
+"The cork pops out" is a verb. A hand's height above the bottle is a picture. Verbs get interpreted. Pictures get rendered.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-max-one-cork-one-pop-nobody-home-033629/video-a8137d62e011.webm)
+
+**Source:** [@GlennHasABeard](https://x.com/GlennHasABeard/status/2099468309339033629) · 15s · 26:15 · cinematic story
+
+---
+
+## 15. Hailuo H3. One song, one day. The box winds down with the sun.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-one-song-one-day-the-box-winds-down-604159/video-077d63f5386b.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-one-song-one-day-the-box-winds-down-604159/poster-1b4e4f924ea3.jpg" alt="Hailuo H3. One song, one day. The box winds down with the sun. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — &quot;the sunbeam on the floor sweeps steadily from left to right across the room, the light warming from pale to gold&quot; Duration: 15s. Camera: locked, room interior. Two clocks again,...</summary>
+
+~~~~text
+"the sunbeam on the floor sweeps steadily from left to right across the room, the light warming from pale to gold"
+
+Duration: 15s. Camera: locked, room interior.
+
+Two clocks again, the crank and the sun. Both written as continuous. "Never jumps" is the sentence that keeps them from cutting to noon.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-one-song-one-day-the-box-winds-down-604159/video-077d63f5386b.webm)
+
+**Source:** [@GlennHasABeard](https://x.com/GlennHasABeard/status/2099240686461604159) · 15s · 1024:585 · cinematic story
+
+---
+
+## 16. Hailuo H3. One note, one glass, the water draws it.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-one-note-one-glass-the-water-draws-it-296456/video-264bdad5bff5.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-one-note-one-glass-the-water-draws-it-296456/poster-fe025b90fd77.jpg" alt="Hailuo H3. One note, one glass, the water draws it. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — &quot;as the tone slowly fades, the pattern coarsens, the lattice widening into larger rings, then a few slow ripples&quot; Duration: 15s. Camera: locked, rim height. The audio line fades...</summary>
+
+~~~~text
+"as the tone slowly fades, the pattern coarsens, the lattice widening into larger rings, then a few slow ripples"
+
+Duration: 15s. Camera: locked, rim height.
+
+The audio line fades from 3 to 13 and the pattern coarsens from 3 to 13. Same clock, two channels.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-one-note-one-glass-the-water-draws-it-296456/video-264bdad5bff5.webm)
+
+**Source:** [@GlennHasABeard](https://x.com/GlennHasABeard/status/2099118117146296456) · 15s · 7:4 · cinematic story
+
+---
+
+## 17. Created with MiniMax H3.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-493291/video-3c2fa9ab2d7e.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-493291/poster-28fbf2e39d6c.jpg" alt="Created with MiniMax H3. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — A joyful young East Asian woman with long dark hair, wearing a white sleeveless top, white shorts, and white sneakers, capturing a carefree summer day. Style Cinematic 2000s...</summary>
+
+~~~~text
+A joyful young East Asian woman with long dark hair, wearing a white sleeveless top, white shorts, and white sneakers, capturing a carefree summer day.
+Style
+Cinematic 2000s Japanese art-house film aesthetic. Bright, airy, and nostalgic color grading with warm highlights and soft natural lighting.
+
+Camera & Framing
+Lighting consists of bright, sun-drenched summer daylight with subtle natural lens flares. Framing includes wide exterior tracking shots, high-angle crosswalk views, low-angle foot close-ups, and a medium fish-tank reflection shot.
+
+Audio
+Nostalgic acoustic indie-pop soundtrack featuring light piano melodies, gentle guitar strumming, and subtle environmental foley like flowing water and distant summer ambiance.
+
+Realism
+Photorealistic 8K rendering with natural fabric movement, realistic skin tones, accurate water reflections, and organic camera motion.
+
+Detailed Scene Breakdown
+00:00 to 00:01 features a wide back-view shot of the woman running down a sunlit sloped residential street in Japan that opens up directly to the bright blue ocean view ahead.
+
+00:02 to 00:02 shows a medium tracking shot of her skipping happily down a quiet suburban street lined with trees and traditional walls.
+
+00:03 to 00:04 captures a high-angle shot of her gracefully running across a white pedestrian zebra crosswalk on a sunny afternoon.
+
+00:05 to 00:06 is a close-up shot focusing on her feet in white sneakers as she carefully walks across natural stone stepping stones over a sparkling shallow river stream.
+
+00:07 to 00:13 features a medium shot looking through an outdoor glass goldfish tank filled with bright orange goldfish, where she walks up, leans down, and smiles warmly at the fish as sunlight reflects off the water.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-493291/video-3c2fa9ab2d7e.webm)
+
+**Source:** [@CaliraVal](https://x.com/CaliraVal/status/2098984611980493291) · 15s · 4:3 · cinematic story
+
+---
+
+## 18. Hailuo H3. A dandelion clock, one seed at a time, no wind.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-a-dandelion-clock-one-seed-at-a-time-699125/video-411971e5ff74.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-a-dandelion-clock-one-seed-at-a-time-699125/poster-c4868a2d1d4c.jpg" alt="Hailuo H3. A dandelion clock, one seed at a time, no wind. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — &quot;roughly one per second at first, then two, then several, the head thinning evenly from the top&quot; Duration: 15s. Camera: locked macro. A rate is a timeline. &quot;One per second, then...</summary>
+
+~~~~text
+"roughly one per second at first, then two, then several, the head thinning evenly from the top"
+
+Duration: 15s. Camera: locked macro.
+
+A rate is a timeline. "One per second, then two, then several" is three stages in eleven words. [The ticks matched or didn't.]
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-a-dandelion-clock-one-seed-at-a-time-699125/video-411971e5ff74.webm)
+
+**Source:** [@GlennHasABeard](https://x.com/GlennHasABeard/status/2098437562989699125) · 15s · 7:4 · cinematic story
+
+---
+
+## 19. Hailuo H3. The sunflowers stopped watching the sun.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-the-sunflowers-stopped-watching-the-sun-288672/video-22527e569241.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-the-sunflowers-stopped-watching-the-sun-288672/poster-113e797e5d51.jpg" alt="Hailuo H3. The sunflowers stopped watching the sun. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — &quot;the heads turn, all together, away from the sun and toward the camera&quot; Duration: 15s. Camera: locked, flower-head height. &quot;The heads always move together&quot; is a crowd rule. Crowds...</summary>
+
+~~~~text
+"the heads turn, all together, away from the sun and toward the camera"
+
+Duration: 15s. Camera: locked, flower-head height.
+
+"The heads always move together" is a crowd rule. Crowds in video models are a hundred individual decisions unless you give them one.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-the-sunflowers-stopped-watching-the-sun-288672/video-22527e569241.webm)
+
+**Source:** [@GlennHasABeard](https://x.com/GlennHasABeard/status/2098144465697288672) · 15s · 1024:585 · cinematic story
+
+---
+
+## 20. Hailuo H3. One sheet of newspaper, fifteen seconds, it never becomes two.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-one-sheet-of-newspaper-fifteen-seconds-it-never-234810/video-ea431559155c.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-one-sheet-of-newspaper-fifteen-seconds-it-never-234810/poster-6014551a4ce7.jpg" alt="Hailuo H3. One sheet of newspaper, fifteen seconds, it never becomes two. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — &quot;one sheet, always the same sheet, the wind always blowing left to right&quot; Duration: 15s. Camera: locked wide. Tumbling paper is where video models multiply things. The rip at 8...</summary>
+
+~~~~text
+"one sheet, always the same sheet, the wind always blowing left to right"
+
+Duration: 15s. Camera: locked wide.
+
+Tumbling paper is where video models multiply things. The rip at 8 seconds is the hard part.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-one-sheet-of-newspaper-fifteen-seconds-it-never-234810/video-ea431559155c.webm)
+
+**Source:** [@GlennHasABeard](https://x.com/GlennHasABeard/status/2098030225200234810) · 15s · 7:4 · cinematic story
+
+---
+
+## 21. Created with MiniMax H3 Max.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-max-370965/video-af00fece2c86.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-max-370965/poster-7cb672630218.jpg" alt="Created with MiniMax H3 Max. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Main Subject(s): Three young adult women, sisters and cousins, wearing authentic early-1900s clothing: long ankle-length skirts, high-neck blouses, fitted jackets, wide-brimmed...</summary>
+
+~~~~text
+Main Subject(s): Three young adult women, sisters and cousins, wearing authentic early-1900s clothing: long ankle-length skirts, high-neck blouses, fitted jackets, wide-brimmed hats, gloves, and simple leather shoes.
+
+Location: An ordinary morning market in Paris, France, around 1906. Wooden market stalls, baskets of vegetables, flowers, bread, horse-drawn carts, early automobiles, cobblestone streets, and pedestrians in period clothing.
+
+Visual Style: Ultra-realistic early-1900s hand-cranked motion-picture footage. Black-and-white with a subtle sepia tint, heavy film grain, flickering exposure, scratches, dust particles, uneven frame rate, soft focus, slight vignetting, and unstable image brightness. Silent-film intertitles appear between scenes. No modern objects, cars, signage, or technology.
+
+Camera Style: Static or slowly repositioned early motion-picture camera on a tripod. Slightly jerky movement from hand-cranked film, imperfect framing, occasional overexposure, film jitter, and brief damaged-film flickers. The footage should feel like a rare personal film discovered in an old archive.
+
+Timeline
+
+00:00–00:03
+The film opens on a busy cobblestone street. A horse-drawn cart passes slowly in front of the camera while pedestrians move through the frame. A brief intertitle appears: “A Morning in Paris — 1906.”
+
+00:03–00:06
+The three women walk toward a market stall carrying small woven baskets. One woman pauses to adjust her hat while another points toward a bread display. Their movements are slightly jerky and natural, matching the early film format.
+
+00:06–00:09
+They examine vegetables and flowers at a wooden stall. One woman accidentally drops an apple, and it rolls across the cobblestones. The others laugh silently and hurry to retrieve it as the camera remains fixed.
+
+00:09–00:12
+The women sit briefly on a bench near the market, sharing a loaf of bread and looking through a small paper shopping list. One woman turns toward the camera and waves politely. A second intertitle appears: “The shopping was not a complete success.”
+
+00:12–00:15
+They leave the market carrying their baskets as an early automobile slowly passes behind them. One woman looks back at the camera and gives a playful bow. The film flickers, briefly freezes, and ends with scratches across the frame.
+
+Audio: No recorded dialogue or synchronized sound. Silent-film presentation only, with visual intertitles. Optional subtle projector ambience may be added outside the footage, but the scene itself remains silent.
+
+Goal: Create the feeling of a rare, authentic 1906 family film–period clothing, ordinary market errands, small humorous accidents, and imperfect early cinema captured before modern filmmaking existed.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-max-370965/video-af00fece2c86.webm)
+
+**Source:** [@ZephyraLeigh](https://x.com/ZephyraLeigh/status/2097919526432370965) · 15s · 16:9 · cinematic story
+
+---
+
+## 22. Hailuo H3. The waterfall freezes upward and the sound goes with it.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-the-waterfall-freezes-upward-and-the-sound-goes-397279/video-f1375b696359.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-the-waterfall-freezes-upward-and-the-sound-goes-397279/poster-1450e6d016a8.jpg" alt="Hailuo H3. The waterfall freezes upward and the sound goes with it. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — &quot;a waterfall roar that fades in steps as the ice climbs&quot; Duration: 15s. Camera: locked, across the pool. The sound line and the picture describe the same staircase. When they...</summary>
+
+~~~~text
+"a waterfall roar that fades in steps as the ice climbs"
+
+Duration: 15s. Camera: locked, across the pool.
+
+The sound line and the picture describe the same staircase. When they agree, the model has two reasons to do it right.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-the-waterfall-freezes-upward-and-the-sound-goes-397279/video-f1375b696359.webm)
+
+**Source:** [@GlennHasABeard](https://x.com/GlennHasABeard/status/2097776859727397279) · 15s · 1024:585 · cinematic story
+
+---
+
+## 23. Hailuo H3. One bubble, fifteen seconds, it lands and stays.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-one-bubble-fifteen-seconds-it-lands-and-stays-075478/video-5bad783e63e3.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-one-bubble-fifteen-seconds-it-lands-and-stays-075478/poster-e6b66ac1b863.jpg" alt="Hailuo H3. One bubble, fifteen seconds, it lands and stays. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — &quot;it settles onto the rim of the glass and stays there, a perfect dome&quot; Duration: 15s. Camera: locked, counter height. Every model wants to pop the bubble because every bubble in...</summary>
+
+~~~~text
+"it settles onto the rim of the glass and stays there, a perfect dome"
+
+Duration: 15s. Camera: locked, counter height.
+
+Every model wants to pop the bubble because every bubble in its training pops. "It never pops" in the consistency line is the entire clip.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-one-bubble-fifteen-seconds-it-lands-and-stays-075478/video-5bad783e63e3.webm)
+
+**Source:** [@GlennHasABeard](https://x.com/GlennHasABeard/status/2097685726817075478) · 15s · 7:4 · cinematic story
+
+---
+
+## 24. Hailuo H3. A cathedral window that flies.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-a-cathedral-window-that-flies-407723/video-7d6dde319c68.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-a-cathedral-window-that-flies-407723/poster-da245267bc2b.jpg" alt="Hailuo H3. A cathedral window that flies. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — &quot;the whole envelope lit from behind so the colors throw a soft stained pattern onto the fog below it&quot; Duration: 15s. Camera: locked, hillside wide. The pattern on the fog is the...</summary>
+
+~~~~text
+"the whole envelope lit from behind so the colors throw a soft stained pattern onto the fog below it"
+
+Duration: 15s. Camera: locked, hillside wide.
+
+The pattern on the fog is the shot. Light through a thing is easy. Light through a thing landing on another thing is the proof it was glass.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-a-cathedral-window-that-flies-407723/video-7d6dde319c68.webm)
+
+**Source:** [@GlennHasABeard](https://x.com/GlennHasABeard/status/2097079692356407723) · 15s · 1024:585 · cinematic story
+
+---
+
+## 25. Hailuo H3. One drop, fifteen seconds. The crown takes seven of them.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-one-drop-fifteen-seconds-the-crown-takes-seven-315301/video-0579987ad3bb.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-one-drop-fifteen-seconds-the-crown-takes-seven-315301/poster-ecb598d8c233.jpg" alt="Hailuo H3. One drop, fifteen seconds. The crown takes seven of them. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — &quot;the rim rises into a crown of thin spikes each with a bead at its tip, the crown hangs at full height&quot; Duration: 15s. Camera: locked at surface level. Slow motion is not a style...</summary>
+
+~~~~text
+"the rim rises into a crown of thin spikes each with a bead at its tip, the crown hangs at full height"
+
+Duration: 15s. Camera: locked at surface level.
+
+Slow motion is not a style word. It is the time range you give the event. Seven seconds for a splash is the slow motion.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-one-drop-fifteen-seconds-the-crown-takes-seven-315301/video-0579987ad3bb.webm)
+
+**Source:** [@GlennHasABeard](https://x.com/GlennHasABeard/status/2096978477291315301) · 15s · 1024:585 · cinematic story
+
+---
+
+## 26. Hailuo H3. Sunny out. Terrible in the globe.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-sunny-out-terrible-in-the-globe-883140/video-a51b6a20a66f.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-sunny-out-terrible-in-the-globe-883140/poster-3a75212b165b.jpg" alt="Hailuo H3. Sunny out. Terrible in the globe. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — &quot;a few drops of condensation running down the outside of the glass from the cold inside&quot; Duration: 15s. Camera: locked, sill height. The condensation on the outside is the detail...</summary>
+
+~~~~text
+"a few drops of condensation running down the outside of the glass from the cold inside"
+
+Duration: 15s. Camera: locked, sill height.
+
+The condensation on the outside is the detail that makes the inside real. Physics leaking across the boundary sells the boundary.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-sunny-out-terrible-in-the-globe-883140/video-a51b6a20a66f.webm)
+
+**Source:** [@GlennHasABeard](https://x.com/GlennHasABeard/status/2096715442307883140) · 15s · 1024:585 · cinematic story
+
+---
+
+## 27. 🇬🇧 English ➔ 🇨🇳 Chinese ➔ 🇯🇵 Japanese ➔ 🇰🇷 Korean
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/english-chinese-japanese-korean-857840/video-b11afa4b79b7.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/english-chinese-japanese-korean-857840/poster-c576ecdef66e.jpg" alt="🇬🇧 English ➔ 🇨🇳 Chinese ➔ 🇯🇵 Japanese ➔ 🇰🇷 Korean video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — #MiniMaxH3 on 5070 12GB, Native Stage-1 Test: Multilingual Audio-Visual Benchmark (EN / CN / JA / KO) (Model download links + full prompt in replies 👇) A 100% raw generation...</summary>
+
+~~~~text
+#MiniMaxH3 on 5070 12GB, Native Stage-1 Test: Multilingual Audio-Visual Benchmark (EN / CN / JA / KO)
+(Model download links + full prompt in replies 👇)
+
+A 100% raw generation stress test using the exact same workflow as my last video: No Stage-2 upscaling, zero audio noise reduction / EQ, zero post-processing audio editing
+
+Massive shoutout to the open-source community creators: TenStrip (original 10Eros series creator) and cicalooo (INT8 ConvRot quantization) for their incredible contributions!
+
+Core Audio Generation Setup:
+• Backbone: 10Eros Max H3 Turbo Hybrid
+• Text Encoder: Qwen-3VL 32B
+• Audio VAE: Official FP32 Audio VAE (zero quantization loss)
+• Pipeline: Single-pass 8-step Turbo inference (NOT bolted-on TTS + lip-sync)
+
+Video showcases in sequence:
+🇬🇧 English ➔ 🇨🇳 Chinese ➔ 🇯🇵 Japanese ➔ 🇰🇷 Korean
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/english-chinese-japanese-korean-857840/video-b11afa4b79b7.webm)
+
+**Source:** [@Tomw852](https://x.com/Tomw852/status/2096276754230857840) · 32s · 9:5 · cinematic story
+
+---
+
+## 28. Hailuo H3. Prism conducts a storm. It listens.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-prism-conducts-a-storm-it-listens-768454/video-ea9fd7823c60.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-prism-conducts-a-storm-it-listens-768454/poster-f8c14e208f7a.jpg" alt="Hailuo H3. Prism conducts a storm. It listens. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — &quot;he closes his fist and everything goes still and silent at once&quot; Duration: 15s. Reference: one Prism image. Rendered 480p, Topaz to 4K. The ending is silence, which is the one...</summary>
+
+~~~~text
+"he closes his fist and everything goes still and silent at once"
+
+Duration: 15s. Reference: one Prism image. Rendered 480p, Topaz to 4K.
+
+The ending is silence, which is the one thing a storm clip never does. Ending on the opposite of the subject is the cheapest surprise in the book.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-prism-conducts-a-storm-it-listens-768454/video-ea9fd7823c60.webm)
+
+**Source:** [@GlennHasABeard](https://x.com/GlennHasABeard/status/2095953314080768454) · 15s · 7:4 · cinematic story
+
+---
+
+## 29. Created with MiniMax H3 Max
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-max-120666/video-1dd8c321e87b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-max-120666/poster-bba190dc87b8.jpg" alt="Created with MiniMax H3 Max video preview" width="700" />
@@ -156,7 +876,7 @@ A cinematic medium shot of a gentle East Asian young woman with dark hair styled
 
 ---
 
-## 3. Made with on
+## 30. Made with on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-on-438174/video-106e0254b230.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-on-438174/poster-d39cea3a2c83.jpg" alt="Made with on video preview" width="700" />
@@ -183,7 +903,55 @@ Mood: Magical, peaceful, emotional.
 
 ---
 
-## 4. Hailuo H3. RENDER, built out of wood shavings, then carved.
+## 31. The sentence: "An instrument, not a shortcut."
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/the-sentence-an-instrument-not-a-shortcut-793659/video-afa7dbfbe5c7.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/the-sentence-an-instrument-not-a-shortcut-793659/poster-f6940cdc6153.jpg" alt="The sentence: &quot;An instrument, not a shortcut.&quot; video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — &quot;the keys visibly depress and release one at a time, never two at once&quot; Spelling survives when the text arrives one keystroke at a time. Ask for the whole sentence at once and you...</summary>
+
+~~~~text
+"the keys visibly depress and release one at a time, never two at once"
+
+Spelling survives when the text arrives one keystroke at a time. Ask for the whole sentence at once and you get typewriter soup.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/the-sentence-an-instrument-not-a-shortcut-793659/video-afa7dbfbe5c7.webm)
+
+**Source:** [@GlennHasABeard](https://x.com/GlennHasABeard/status/2095212520671793659) · 15s · 7:4 · cinematic story
+
+---
+
+## 32. Hailuo H3. Closed laundromat, one violin, the dryers keep time.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-closed-laundromat-one-violin-the-dryers-keep-time-630752/video-e2ccbaff69a5.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-closed-laundromat-one-violin-the-dryers-keep-time-630752/poster-9495f7e07b6a.jpg" alt="Hailuo H3. Closed laundromat, one violin, the dryers keep time. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — &quot;the dryer drums fall into rhythm with the bowing, their tumbling clothes turning over exactly on the strong beats&quot; Duration: 15s. Camera: locked, center aisle. The dryers are...</summary>
+
+~~~~text
+"the dryer drums fall into rhythm with the bowing, their tumbling clothes turning over exactly on the strong beats"
+
+Duration: 15s. Camera: locked, center aisle.
+
+The dryers are what sell it. Give the impossible thing one mundane witness that reacts and the scene reads as real.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-closed-laundromat-one-violin-the-dryers-keep-time-630752/video-e2ccbaff69a5.webm)
+
+**Source:** [@GlennHasABeard](https://x.com/GlennHasABeard/status/2094843509903630752) · 15s · 7:4 · cinematic story
+
+---
+
+## 33. Hailuo H3. RENDER, built out of wood shavings, then carved.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-render-built-out-of-wood-shavings-then-carved-130121/video-bd0a19d40894.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-render-built-out-of-wood-shavings-then-carved-130121/poster-52ebbfcee83a.jpg" alt="Hailuo H3. RENDER, built out of wood shavings, then carved. video preview" width="700" />
@@ -208,7 +976,7 @@ Spelling the letters out one at a time in order is what got six letters instead 
 
 ---
 
-## 5. Fluffi vs. laser pointer. Hailuo H3, one take.
+## 34. Fluffi vs. laser pointer. Hailuo H3, one take.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/fluffi-vs-laser-pointer-hailuo-h3-one-take-136738/video-5e8746c5ec06.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/fluffi-vs-laser-pointer-hailuo-h3-one-take-136738/poster-2537853395a5.jpg" alt="Fluffi vs. laser pointer. Hailuo H3, one take. video preview" width="700" />
@@ -235,7 +1003,7 @@ only describe the pounce, he catches it.
 
 ---
 
-## 6. ▫️ Render Time: 8s video in ~185s
+## 35. ▫️ Render Time: 8s video in ~185s
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/render-time-8s-video-in-185s-455656/video-b3d85db60137.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/render-time-8s-video-in-185s-455656/poster-6ab458edf47e.jpg" alt="▫️ Render Time: 8s video in ~185s video preview" width="700" />
@@ -269,7 +1037,280 @@ only describe the pounce, he catches it.
 
 ---
 
-## 7. 镜头慢慢推进，镜头慢慢环绕，最后定格在这个仙人人物的身上，云雾快速翻腾，人物衣服随风飘扬。
+## 36. WAN 3.0目前效果确实可以，要稍微好于 MiniMax H3
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/wan-3-0-minimax-h3-913225/video-33e1354acf97.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/wan-3-0-minimax-h3-913225/poster-a320b2a4e196.jpg" alt="WAN 3.0目前效果确实可以，要稍微好于 MiniMax H3 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — 嘴上说不要，照片却笑得很甜 【时长】18秒 【画幅】9:16竖屏 【风格】真人街头摄影短视频，手机纪实影像与专业写真照片交替剪辑，傍晚黄金时刻，真实皮肤质感，长焦浅景深，时尚街拍氛围，轻喜剧反差 【语言】中文对白，无字幕 【人物数量】画面中始终只有女主一人；摄影师只出现画外男声，不能实体出镜 【人物角色卡】 @...</summary>
+
+~~~~text
+嘴上说不要，照片却笑得很甜
+
+【时长】18秒
+【画幅】9:16竖屏
+【风格】真人街头摄影短视频，手机纪实影像与专业写真照片交替剪辑，傍晚黄金时刻，真实皮肤质感，长焦浅景深，时尚街拍氛围，轻喜剧反差
+【语言】中文对白，无字幕
+【人物数量】画面中始终只有女主一人；摄影师只出现画外男声，不能实体出镜
+
+【人物角色卡】
+  @ 命名“方圆”，街头偶遇摄影师的女生。人物脸部、身形、发型、妆容、服装及原有配饰完全继承参考图。增加一部手机和一只单肩托特包作为剧情道具。
+
+【核心情绪反差】
+
+动态视频状态：
+方圆表现得冷淡、拽、有距离感。下巴微抬，嘴唇轻抿，眉毛略微压低，眼神像是在审视镜头。说话时不撒娇、不害羞、不甜笑，拒绝动作干脆从容。
+
+写真照片状态：
+只要硬切进入写真，方圆的表情瞬间改变。眉眼完全舒展开，眼睛弯起，脸颊抬高，露出明亮、自然、毫无防备的甜美笑容。笑容必须明显比动态视频更温柔、更亲近、更有感染力。
+
+情绪切换不能渐变：
+
+动态冷脸 → 快门声与硬切 → 写真甜笑；
+写真甜笑 → 硬切回视频 → 笑容立即消失，恢复冷淡。
+
+这条“冷脸视频与甜笑照片”的反差是全片最重要的喜剧效果。
+
+[00:00-00:04.20] 镜头1｜第一次冷脸拒绝
+
+方圆站在现代创意园区的林荫道路旁，肩背托特包，低头看手机。
+
+手持摄影机从侧前方缓慢靠近，由中远景推进到胸部近景。
+
+00:00-00:00.80
+方圆低头操作手机，完全没有注意镜头。右手拿手机，另一只手轻点屏幕，嘴唇闭合，表情平静冷淡。
+
+00:00.80-00:02.40
+听见陌生人搭话，她的手指先停下来。
+
+她没有立刻抬头，而是停顿半拍，先把眼睛从手机屏幕移向镜头，随后才缓慢抬起头。
+
+下巴微微上扬，眉毛轻压，眼神带有明显的审视感，脸上没有笑容。
+
+【画外年轻男声】
+“哎，你好，我是一名街头摄影师，可以邀请你拍两张照片吗？”
+
+男声礼貌、自然，带一点试探感。
+
+00:02.40-00:03.90
+方圆先冷冷看着镜头，停顿约0.2秒，再开口：
+
+【方圆】
+“不要拿镜头对着我。”
+
+语气平静、直接、有距离感，不能带娇嗔语气。
+
+说“不要”时，她才抬起空闲的左手。
+
+说“拿镜头”时，左手五指逐渐打开，掌心朝向摄影机。
+
+说“对着我”时，左掌从容地靠近镜头，遮挡大半画面。右手始终拿着手机。
+
+她从手掌旁边继续冷冷盯着镜头，嘴角不笑，也不害羞躲闪。
+
+00:03.90-00:04.20
+方圆收回手掌，干脆转身离开。肩膀先转，头部随后转动，头发产生真实甩动惯性。
+
+[00:04.20-00:07.80] 镜头2｜第一组甜笑写真
+
+在方圆冷脸转身之后，伴随清脆快门声，画面突然硬切成专业写真。
+
+照片中的她不再冷漠，而是立即露出非常甜美、明亮的笑容。
+
+照片一｜00:04.20-00:05.10
+半身逆光回眸写真。
+
+方圆身体朝前，脸回转看向镜头，露出灿烂的露齿甜笑。脸颊明显抬起，眼睛弯成柔和月牙形，整个人突然变得亲近温柔。
+
+人物、发丝和背景完全静止。
+
+照片二｜00:05.10-00:06.00
+林荫道路全身写真。
+
+方圆保持交叉迈步的优雅走姿，低头露出自然甜笑，像是被摄影师逗笑。笑容柔软放松，没有任何冷漠感。
+
+照片三｜00:06.00-00:06.85
+黄金逆光中近景写真。
+
+一只手放在头顶发间，另一条手臂扶住托特包。方圆直视镜头，露出明亮甜美的露齿笑，眼尾弯起，脸颊饱满上扬。
+
+照片四｜00:06.85-00:07.80
+面部与上胸特写写真。
+
+方圆头部轻轻侧歪，双眼温柔看向镜头，露出整组照片中最甜、最有感染力的笑容。牙齿自然露出，眼睛弯起，背景形成金色散景。
+
+四张照片全部是真正静止的写真成片，不眨眼、不呼吸、不飘发。相邻照片通过快门声和硬切切换，不使用大面积白闪。
+
+[00:07.80-00:10.30] 镜头3｜切回视频，笑容立即消失
+
+硬切回手机动态视频。
+
+切回的第一帧，方圆脸上的甜美笑容必须完全消失，重新恢复冷淡、拽、不耐烦的状态。
+
+00:07.80-00:08.50
+摄影机从侧后方跟拍。
+
+方圆背对镜头继续向前走，手机拿在胸腰之间，托特包随脚步轻微晃动。
+
+【画外年轻男声】
+“很快很快，就两张。”
+
+听见摄影师继续央求，方圆没有马上停下。
+
+她先用眼角向后看，再缓慢转动头部和肩膀。她的眼神冷淡，下巴微抬，嘴唇轻抿，像是觉得摄影师很烦。
+
+00:08.50-00:10.00
+方圆一边走一边看向镜头：
+
+【方圆】
+“我没有配合你的义务。”
+
+语气平静、坚定、带明显边界感，不能微笑。
+
+说“我没有”时，她直视镜头，眉毛轻轻压低。
+
+说“配合你的”时，空闲手从胸前抬起，五指逐渐打开。
+
+说“义务”时，掌心正对摄影机并向前靠近，形成明确的“停止拍摄”手势。
+
+她嘴上拒绝得很冷，但肩膀已经自然打开，腰部形成漂亮侧转，头部角度和手掌位置都非常适合拍照。
+
+00:10.00-00:10.30
+她放下手掌，冷淡地转回前方继续走。整个过程中不能出现甜笑。
+
+[00:10.30-00:13.50] 镜头4｜第二组甜笑写真
+
+就在方圆冷着脸转身离开时，快门声响起，画面再次硬切成甜美写真。
+
+照片五｜00:10.30-00:11.10
+大腿以上中景写真。
+
+方圆双手在腰前拿着手机，身体微侧，脸转向镜头，突然露出放松明亮的露齿甜笑。眼睛弯起，肩膀柔和，与上一秒的冷脸形成强烈反差。
+
+照片六｜00:11.10-00:11.90
+道路边全身写真。
+
+方圆一只手叉腰，另一只手抓住托特包肩带，髋部自然侧移。虽然姿势利落时尚，但表情非常甜，嘴角明显上扬，露出自然牙齿，眼神温柔亲近。
+
+照片七｜00:11.90-00:12.70
+林荫道路全身回眸写真。
+
+身体保持向前迈步，后脚脚跟抬起，头和上胸向后回转。方圆回头看镜头时露出灿烂笑容，脸颊抬起，像是在开心地回应摄影师。
+
+照片八｜00:12.70-00:13.50
+胸腰以上近景写真。
+
+方圆双手拿着手机，头部轻轻侧歪，双眼直视镜头，露出温柔甜美的笑容。笑意同时出现在嘴角和眼睛里，不能只是机械地咧嘴。
+
+四张写真全部完全冻结，不能出现眨眼、呼吸、头发移动或背景运动。
+
+[00:13.50-00:15.20] 镜头5｜再次切回冷脸动态视频
+
+硬切回动态视频的第一帧，甜笑再次立即消失。
+
+摄影机位于方圆侧后方，以腰胸以上中近景跟拍。
+
+【画外年轻男声】
+“就两分钟，两分钟，真的，就两……”
+
+男声带一点执着和央求感，最后一句没有说完。
+
+方圆没有台词，不跟随画外声音张嘴。
+
+00:13.50-00:14.00
+她回头冷冷看摄影机一眼。嘴唇闭合，眉毛略压，下巴微抬，表情像在说：“你怎么还在拍？”
+
+00:14.00-00:14.50
+她把脸转回前方，背对镜头继续走。长发自然覆盖背部，托特包随脚步轻轻晃动。
+
+00:14.50-00:15.20
+她借着下一步突然向镜头方向回身。
+
+肩膀先转，头部随后转回，大束头发因惯性向外甩开，形成真实流畅的发丝弧线。
+
+她的脸仍然保持冷淡，不能在甩发过程中提前微笑。
+
+[00:15.20-00:18.00] 镜头6｜冷着脸却已经摆好Pose
+
+摄影机由侧后方绕到侧前方，并缓慢推进至胸部近景。
+
+00:15.20-00:15.80
+方圆完成回身，左手抬到后脑和头顶发根，手肘自然向外打开。
+
+眼睛准确找到镜头，目光稳定直接；嘴唇轻抿，下巴微抬，依然是一副不愿意配合的冷淡表情。
+
+00:15.80-00:16.40
+左手沿头发外侧向下滑动，把甩到脸前的发束拨开。
+
+头发依靠真实惯性继续向一侧飘动。与此同时，她的肩膀自然打开，身体逐渐转成三分之二侧身。
+
+00:16.40-00:17.10
+左手落到托特包上缘，把包轻轻抱稳在身体侧面。
+
+她把重心放到一条腿上，腰部轻微侧移，一侧肩膀向后打开，已经形成完整的专业模特Pose。
+
+她的脸仍然冷淡，不能出现与写真相同的甜笑。
+
+00:17.10-00:18.00
+摄影机缓慢推进至近景。
+
+方圆保持侧身抱包姿势，下巴先微抬，再缓慢压低一点；双眼从略低的眉骨位置直视镜头，嘴唇维持冷淡的闭合状态。
+
+最后0.4秒，她只让一侧嘴角出现极其轻微、几乎看不出来的得意弧度，像是在说：
+
+“我没有答应拍照，只是刚好会摆Pose。”
+
+结尾仍是动态视频，保留轻微呼吸与发丝余动，不能变成甜笑写真。
+
+【声音设计】
+使用节奏利落的时尚流行音乐。
+
+动态视频段保留脚步声、手机握持声、衣料摩擦声、托特包摆动声和甩发声。
+
+每次从冷脸动态视频切入甜笑写真时，必须加入清脆机械快门声，并与画面硬切和音乐重拍同步。
+
+摄影师始终为镜头后的画外男声。只有方圆说两句拒绝台词时产生口型。
+
+【主要约束】
+动态视频中的方圆必须冷淡、拽、不甜笑；
+写真照片中的方圆必须笑得明亮、自然、甜美；
+冷脸和甜笑只能通过硬切瞬间切换，禁止缓慢渐变；
+写真段必须完全静止，动态段保持真实连续运动；
+禁止换脸、人物外观漂移、口型错位、额外人物、字幕、Logo和水印。
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/wan-3-0-minimax-h3-913225/video-33e1354acf97.webm)
+
+**Source:** [@johnAGI168](https://x.com/johnAGI168/status/2093342672605913225) · 18s · 9:16 · cinematic story
+
+---
+
+## 37. Image-to-Video using the famous Kubrick scene.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-to-video-using-the-famous-kubrick-scene-936255/video-3b7bd47bb2f7.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-to-video-using-the-famous-kubrick-scene-936255/poster-5e57f01861d9.jpg" alt="Image-to-Video using the famous Kubrick scene. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Use the reference image as the exact first frame, keep the same uncanny prehistoric sci-fi look, keep the black server monolith there and keep the apes there, the camera is...</summary>
+
+~~~~text
+Use the reference image as the exact first frame, keep the same uncanny prehistoric sci-fi look, keep the black server monolith there and keep the apes there, the camera is handheld and low like a nervous witness hiding among them, move slowly toward the monolith as the apes circle it and start making a bigger scene, then one ape slams both hands on it and the whole thing wakes up in a way that feels way too powerful, as the camera rushes closer the black grid starts glowing from inside and weird light leaks through it, autofocus breathes and slips and catches again while the apes lose their minds and start screaming and jumping and running past the lens, then the monolith opens or unfolds or does something impossible and the camera gets pulled forward into whatever is happening next, as we move around it the desert starts changing fast, rocks splitting open, giant metal structures rising out of the ground, dust storms mixing with sparks and fog and strange debris, then the apes start evolving or mutating or turning into something else while still running around, and the camera keeps chasing the next insane thing it sees, then somehow there’s a huge moon hanging way too low, then a broken skyline in the distance, then a river of glowing data or fire or whatever, while the camera just keeps pushing through like one continuous shot and never cuts, handheld shakes, accidental zooms, blur, focus hunting, moments where the lens gets too close to fur or rock or the monolith surface, then things go fully off the rails and the whole world starts feeling like the birth of civilization and the end of civilization at the same time, keep it messy and escalating and dreamlike, don’t over-explain, just keep discovering crazier stuff as the camera moves, you know what I mean, just make it
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/image-to-video-using-the-famous-kubrick-scene-936255/video-3b7bd47bb2f7.webm)
+
+**Source:** [@cocktailpeanut](https://x.com/cocktailpeanut/status/2091233403353936255) · 14s · 17:11 · cinematic story
+
+---
+
+## 38. 镜头慢慢推进，镜头慢慢环绕，最后定格在这个仙人人物的身上，云雾快速翻腾，人物衣服随风飘扬。
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-483549-483549/video-28302ff344a0.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-483549-483549/poster-5240802e644a.jpg" alt="镜头慢慢推进，镜头慢慢环绕，最后定格在这个仙人人物的身上，云雾快速翻腾，人物衣服随风飘扬。 video preview" width="700" />
@@ -292,7 +1333,193 @@ Picture Prompt in MJ
 
 ---
 
-## 8. Human Cakes MiniMax h3 local
+## 39. Dance through the layers of your soul and carve your own masterpiece... ✨
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/dance-through-the-layers-of-your-soul-and-carve-your-894447/video-49727d9b29ab.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/dance-through-the-layers-of-your-soul-and-carve-your-894447/poster-1cc55f495687.jpg" alt="Dance through the layers of your soul and carve your own masterpiece... ✨ video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — REFERENCE USAGE — nine extracted panels, used in order as @Image1 through @Image9 and matching the nine scenes below. Take every composition, layout, colour, cut shape and layer...</summary>
+
+~~~~text
+REFERENCE USAGE — nine extracted panels, used in order as @Image1 through @Image9 and matching the nine scenes below. Take every composition, layout, colour, cut shape and layer arrangement from them. The dancer is the same black paper silhouette in all nine.
+
+A 16:9 surreal dance film made entirely of layered cut paper. Every element in every frame is a physical sheet: cut, stacked, embossed and lit on a table. Palette locked to three papers only: warm cream, deep vermilion red and matte charcoal black. No other colour ever appears.
+
+MATERIAL RULE — this governs every movement in the film:
+Everything is real cut paper with visible thickness at every cut edge, visible fibre and deckle texture, fine embossed pattern pressed into the sheets, and soft contact shadows from each layer onto the one beneath. Paper moves only as paper can: sheets slide across one another, lift and settle, hinge and fold along creases, curl at their edges, unfurl, fan open, peel back and rotate flat. Nothing ever melts, morphs, liquefies, stretches or deforms. Nothing is smooth, glossy or digital. Keep a handmade imperfection throughout: uneven cuts, a fibre catching the light, a corner lifting.
+
+Lighting and camera: a single soft raking key from the upper left, so every cut edge throws a delicate shadow and every embossed pattern reads in relief. Macro depth of field, shallow focal plane. The camera moves slowly and continuously in every shot, pushing in, drifting or craning, so the stacked layers separate in parallax and the frame reveals itself as real physical depth. This parallax is the most important effect in the film and must be visible in every scene.
+
+Transitions: no hard cuts. Every scene change happens in the material. A foreground paper layer sweeps across frame and when it clears the next scene has been built behind it; or the current scene's layers peel back one by one to the next underneath; or the paper folds along a crease and opens onto somewhere new. Each transition takes about a third of a second and lands on a beat.
+
+The dancer is one flat black paper silhouette throughout, with a fluid skirt cut in loose sweeping shapes. She has no face and no features. She moves with real, elegant, weighted dance motion but always stays a flat cutout: she turns by pivoting flat, she leaps by lifting off the surface with her shadow separating beneath her, and her skirt moves as paper streamers rather than cloth.
+
+[0-1.8s] @Image1. The camera drifts along the winding red ribbon as it unfurls forward across the cream ground, its embossed swirls catching the raking light. The dancer runs and turns along its crest. Paper clouds slide past in the foreground in parallax.
+
+[1.8-3.4s] @Image2. The clouds sweep across and clear onto the profile window. Inside her head the scene assembles: the moon lifts into place, cloud layers slide apart, peonies unfurl petal by petal, the small dancer turns at the centre. The camera pushes gently into the opening.
+
+[3.4-4.8s] @Image3. The scene peels back onto the large black silhouette. She raises one arm slowly and fully as the black and cream waves rise behind her, each wave crest a separate sheet lifting and curling over in sequence. The camera cranes up with her arm.
+
+[4.8-6.5s] @Image4. A wave layer sweeps across and clears onto the valley. The camera flies slowly forward down the pale path between the red mountains as the mountain layers part in deep parallax on both sides. The black sun disc holds still at the far end. The tiny dancer runs ahead of camera.
+
+[6.5-8s] @Image5 The valley folds along a crease and opens onto the spiral. The concentric red rings rotate slowly at different speeds against each other while the dancer turns at the centre, and the camera pushes in toward her. Hypnotic and even.
+
+[8-9.6s] @Image6. The spiral rings slide apart to reveal the carved archway. The camera pushes through the arch as the cranes lift off the flat background one by one and fly in layered depth, the pagodas and red maples separating in parallax. The dancer turns beneath them.
+
+[9.6-11.2s] @Image7. The archway peels open into the field of black shards. The shards fan and scatter outward, red petals lift off the surface and drift through the air, and the dancer moves through the turbulence. The camera holds and lets the paper storm move around her. The most kinetic scene in the film.
+
+[11.2-12.8s] @Image8. The shards settle flat and the enormous red peony unfurls from a closed bud, petal layer by layer opening toward the lens, filling the right of frame. The small dancer walks the cream ground beside it, unhurried. The camera drifts sideways.
+
+[12.8-15s] @Image9. The peony petals sweep across frame and clear onto the sunburst. Every black and red ray fans outward from the centre at once and light blooms behind the dancer as she opens both arms and lifts. Hold on the finished composition, completely still, for the final half second.
+
+Score: an original soothing, mesmerizing, dreamlike piece carries the whole film. Instrumentation is a wordless breathy female voice singing soft open vowels and gentle sighs, warm felt piano, bowed glass harmonics, a plucked koto style string, a low soft pad and a slow shallow pulse. Calm, hypnotic, weightless, quietly emotional. No drums, no percussion beyond the soft pulse, no orchestral swells, no epic build, no words or lyrics of any kind.
+
+The score opens at 0 seconds on a sustained pad and one distant piano note. The breathy wordless vocal enters at 1.8 seconds and floats above everything from then on. The plucked string enters at 4.8 seconds in a slow circling figure. At 6.5 seconds bowed glass harmonics enter under the spiral and the arrangement becomes hypnotic and even. At 9.6 seconds the pulse lifts slightly and the vocal opens wider under the paper storm. At 12.8 seconds everything blooms into one wide sustained warm chord for the sunburst, holding and decaying into silence at the end. The music must never become urgent, dramatic or loud.
+
+Sound design sits very quietly under the score: a soft paper slide on each transition, a delicate rustle as petals lift and shards fan, a light dry flutter as the cranes take off. Barely audible, textural only. No voiceover, no spoken words, no library stock music. The score must be an original composition and must not imitate any existing track.
+
+Do not add text, captions, subtitles, credits, watermarks or logos anywhere. Do not add any fourth colour. Do not give the dancer a face, features or three dimensional volume. No photoreal humans, no cloth simulation, no water, no fire, no glowing particles, no lens flares, no glitter, no digital gradients, no drop shadows that do not come from real layers.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/dance-through-the-layers-of-your-soul-and-carve-your-894447/video-49727d9b29ab.webm)
+
+**Source:** [@abulu8](https://x.com/abulu8/status/2089309241072894447) · 15s · 16:9 · cinematic story
+
+---
+
+## 40. Created with Hailuo H3.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-hailuo-h3-605442/video-a1e186d4ed37.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-hailuo-h3-605442/poster-08701973e85c.jpg" alt="Created with Hailuo H3. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Ultra cinematic wide shot: A vast field of burning embers stretches into darkness. Suddenly, an enormous wall of fire races across the ground, sending billions of glowing sparks...</summary>
+
+~~~~text
+Ultra cinematic wide shot: A vast field of burning embers stretches into darkness. Suddenly, an enormous wall of fire races across the ground, sending billions of glowing sparks into the air. The flames twist into a gigantic rotating fire vortex hundreds of feet high. Molten embers, smoke, and liquid fire spiral together, naturally forging the word "IGNITE" from blazing flames. The letters burn brighter and brighter before erupting into a colossal shockwave that fills the screen with fire and incandescent particles. Hollywood fire simulation, ultra-realistic VFX, blockbuster title reveal.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-hailuo-h3-605442/video-a1e186d4ed37.webm)
+
+**Source:** [@CharaspowerAI](https://x.com/CharaspowerAI/status/2089291191447605442) · 15s · 16:9 · cinematic story
+
+---
+
+## 41. The perfect loop doesn’t exist..
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/the-perfect-loop-doesnt-exist-259517/video-f3720b1d66c3.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/the-perfect-loop-doesnt-exist-259517/poster-ed98690cea83.jpg" alt="The perfect loop doesn’t exist.. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — [Create a perfect loop where end frame corresponds to the first frame.]</summary>
+
+~~~~text
+[Create a perfect loop where end frame corresponds to the first frame.]
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/the-perfect-loop-doesnt-exist-259517/video-f3720b1d66c3.webm)
+
+**Source:** [@SoftRenderAi](https://x.com/SoftRenderAi/status/2089272051710259517) · 27s · 16:9 · cinematic story
+
+---
+
+## 42. MiniMax H3. usando duas imagens de referência. 720p, renderizado de uma vez.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-usando-duas-imagens-de-referncia-720p-renderizado-de-455165/video-48440dc4fe72.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-usando-duas-imagens-de-referncia-720p-renderizado-de-455165/poster-a63a862f133c.jpg" alt="MiniMax H3. usando duas imagens de referência. 720p, renderizado de uma vez. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Use the &lt;picture 1&gt; as the exact first frame. The video opens on the exact first frame from &lt;picture 1&gt;. Centered in the lower third of the frame, a clean elegant legend appears...</summary>
+
+~~~~text
+Use the <picture 1> as the exact first frame.
+
+The video opens on the exact first frame from <picture 1>. Centered in the lower third of the frame, a clean elegant legend appears in classic yellow Fraktur typeface reading “Berlim, 1935”. After a brief hold, the legend fades out.
+
+[Shot 1] Bright sunny summer day in a tree-lined park. The blonde woman in the red-and-black geometric dress, black cardigan, wide-brimmed burgundy hat, black over-the-knee boots and yellow handbag stands on the path, then begins walking forward at a steady, unhurried pace. Warm natural light filters through the leaves. Continuous happy summer park ambience: birds singing, distant children laughing and playing, soft breeze, footsteps on gravel. Wide tracking shot follows her as she walks.
+
+[Shot 2] At 00:04.000, hard cut to a wooden park bench to the side of the path. The man from <picture 2> sits on the bench casually scrolling on a modern smartphone, completely absorbed. The man appears in black and white, grainy as in an old photo. He looks at the woman, surprised. The man from <picture 2> says: <d>[German]Fräulein?</d>
+
+[Shot 3] At 00:06.200, hard cut back to a medium side-tracking shot of the woman. Without breaking stride or changing expression, she reaches into her yellow handbag with one hand.
+draws a compact pistol, raises it, and fires a single clean headshot toward the bench.
+Quick cut to a closer angle on the man as the shot hits; he jerks and collapses sideways on the bench, phone tumbling to the grass.
+
+[Shot 3]
+A extreme close up of the man's head, the bullet hole on his forehead oozes a thin stream of red blood.
+
+[Shot 3]
+Immediate hard cut back to the woman: still walking at the same calm pace,  continues down the path, never looking back.
+Final wide shot from behind as she walks away into the dappled sunlight, the happy park sounds (birds, children playing, summer breeze) continuing uninterrupted. She places a finger on her ear and say <d>[Portuguese]Está feito</d>.  A light effect hits the woman and she's teleported, the scenery is now empty.
+
+Exact identity, outfit, hat, yellow handbag and lighting continuity from the first frame. Natural handheld-style tracking mixed with clean cinematic cuts, realistic fabric and skin detail, shallow depth of field on the closer shots.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-usando-duas-imagens-de-referncia-720p-renderizado-de-455165/video-48440dc4fe72.webm)
+
+**Source:** [@Cardoso](https://x.com/Cardoso/status/2088296385422455165) · 12s · 40:23 · cinematic story
+
+---
+
+## 43. (modify with my ingredients )
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/modify-with-my-ingredients-740520/video-08f202aa5c22.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/modify-with-my-ingredients-740520/poster-29fd1640de49.jpg" alt="(modify with my ingredients ) video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Cinematic 15-second sequence: A young athletic woman with short dark hair in a fitted dark spacesuit sprints desperately down a glass-walled spaceship corridor under flashing red...</summary>
+
+~~~~text
+Cinematic 15-second sequence: A young athletic woman with short dark hair in a fitted dark spacesuit sprints desperately down a glass-walled spaceship corridor under flashing red emergency lights, stars visible outside. She bursts into a circular observation room and collapses against a massive round panoramic window, pressing her face and hands to the glass in exhaustion. Through the window a beautiful planet violently explodes — a massive wave of fire and energy races toward the ship and smashes into the glass in a blinding flash. Hard cut: the same woman jolts awake in a dark ordinary bedroom, gasping, covered in sweat. Handheld camera, urgent pacing, intense red emergency lighting, cinematic sci-fi destruction, realistic, film grain.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/modify-with-my-ingredients-740520/video-08f202aa5c22.webm)
+
+**Source:** [@nonameoasis](https://x.com/nonameoasis/status/2087974304692740520) · 15s · 16:9 · cinematic story
+
+---
+
+## 44. 好莱坞的女演员有危机了！💔继Seedance 2.5 之后，Minimax H3 在家用电脑上的部署同样能实现虚拟数字人非常丰富的人物脸部微表情的表演。
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/seedance-2-5-minimax-h3-549391/video-9d3c0834da76.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/seedance-2-5-minimax-h3-549391/poster-cee24d895eb2.jpg" alt="好莱坞的女演员有危机了！💔继Seedance 2.5 之后，Minimax H3 在家用电脑上的部署同样能实现虚拟数字人非常丰富的人物脸部微表情的表演。 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — 使用参考图作为起始帧。保持角色完全一致：年轻东亚女性，灰色无袖上衣，大号细银圈耳环，柔和阴天光线，完全模糊的海岸背景。保持细微连续的手持镜头漂移。全程头发被风轻轻吹动。动作序列： 主体强忍哭泣。嘴唇紧紧抿住，下巴颤抖，胸口因急剧吸气而起伏。泪水在眼中积聚但未落下。 情绪崩溃。眼睛紧闭，嘴巴张开抽泣。泪水从双颊主动滑落。头部微微向下倾斜。...</summary>
+
+~~~~text
+使用参考图作为起始帧。保持角色完全一致：年轻东亚女性，灰色无袖上衣，大号细银圈耳环，柔和阴天光线，完全模糊的海岸背景。保持细微连续的手持镜头漂移。全程头发被风轻轻吹动。动作序列：
+主体强忍哭泣。嘴唇紧紧抿住，下巴颤抖，胸口因急剧吸气而起伏。泪水在眼中积聚但未落下。
+情绪崩溃。眼睛紧闭，嘴巴张开抽泣。泪水从双颊主动滑落。头部微微向下倾斜。
+灰色上衣前领从画面底部边缘被向上直接拉起，布料自然拉伸变形，覆盖住她的下巴、嘴巴和鼻子。布料在面部特征上自然变形。画面中不得出现任何手、手指或手臂。
+布料自然松开并落下，回到锁骨位置。她的脸重新露出，眼睛微微睁开向下看，嘴巴张开，沉重疲惫地喘息。
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/seedance-2-5-minimax-h3-549391/video-9d3c0834da76.webm)
+
+**Source:** [@PixelAigc](https://x.com/PixelAigc/status/2087325691918549391) · 10s · 30:17 · cinematic story
+
+---
+
+## 45. Human Cakes MiniMax h3 local
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/human-cakes-minimax-h3-local-046088/video-6d9833daf182.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/human-cakes-minimax-h3-local-046088/poster-983cf855f21f.jpg" alt="Human Cakes MiniMax h3 local video preview" width="700" />
@@ -319,7 +1546,7 @@ Throughout: constant heavy smartphone-style camera shake and jitter, natural mot
 
 ---
 
-## 9. 動画プロンプトはリプ欄に
+## 46. 動画プロンプトはリプ欄に
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-813383-813383/video-80bf4915acd6.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-813383-813383/poster-02f5468c0bb7.jpg" alt="動画プロンプトはリプ欄に video preview" width="700" />
@@ -340,7 +1567,7 @@ Throughout: constant heavy smartphone-style camera shake and jitter, natural mot
 
 ---
 
-## 10. It came out pretty good
+## 47. It came out pretty good
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/it-came-out-pretty-good-253323/video-c6dbc7691117.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/it-came-out-pretty-good-253323/poster-20df70c2cfc2.jpg" alt="It came out pretty good video preview" width="700" />
@@ -373,7 +1600,7 @@ Cinematic lighting, sharp details on suits and the wooden table, subtle tension 
 
 ---
 
-## 11. Cinematic Story Study 170082
+## 48. Cinematic Story Study 170082
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/time-for-some-munchies-uh-h3-local-looks-like-th-170082/video-8cf1d13e3ca8.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/time-for-some-munchies-uh-h3-local-looks-like-th-170082/poster-d3dd74039b80.jpg" alt="Cinematic Story Study 170082 video preview" width="700" />
@@ -416,7 +1643,7 @@ None.
 
 ---
 
-## 12. Cinematic Story Study 241802
+## 49. Cinematic Story Study 241802
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-cinematic-burst-cut-video-showcasing-t-241802/video-972163827ce4.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-cinematic-burst-cut-video-showcasing-t-241802/poster-a682179bc0fa.jpg" alt="Cinematic Story Study 241802 video preview" width="700" />
@@ -471,7 +1698,7 @@ Hard constraints:
 
 ---
 
-## 13. 很多人做 AI 影片的提示词，写的是“高级、电影感、震撼”
+## 50. 很多人做 AI 影片的提示词，写的是“高级、电影感、震撼”
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-707794/video-e5e4b44dacee.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-707794/poster-c8f971f8e6fa.jpg" alt="很多人做 AI 影片的提示词，写的是“高级、电影感、震撼” video preview" width="700" />
@@ -501,7 +1728,7 @@ Ref2VA 模式是六段式重写，对应 T2VA、I2VA、FL2VA、L2VA、Ref2VA 五
 
 ---
 
-## 14. Ice Cave Exploration 🏔
+## 51. Ice Cave Exploration 🏔
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ice-cave-exploration-902327/video-59402d4435d2.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ice-cave-exploration-902327/poster-a1e73a65e04b.jpg" alt="Ice Cave Exploration 🏔 video preview" width="700" />
@@ -535,7 +1762,7 @@ REALISM DIRECTIVE: Ice must behave like real compressed glacier ice, not glass. 
 
 ---
 
-## 15. Xiamen Lacquer Thread Sculpture Craft Film
+## 52. Xiamen Lacquer Thread Sculpture Craft Film
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/xiamen-lacquer-thread-sculpture-craft-film-985938/video-6f68682477c9.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/xiamen-lacquer-thread-sculpture-craft-film-985938/poster-ece810c067ed.jpg" alt="Xiamen Lacquer Thread Sculpture Craft Film video preview" width="700" />
@@ -589,7 +1816,7 @@ REALISM DIRECTIVE: Ice must behave like real compressed glacier ice, not glass. 
 
 ---
 
-## 16. H3 local. I like vague
+## 53. H3 local. I like vague
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/h3-local-i-like-vague-105742/video-0338bd5e1fc7.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/h3-local-i-like-vague-105742/poster-7cd882b94339.jpg" alt="H3 local. I like vague video preview" width="700" />
@@ -610,7 +1837,7 @@ a village of tiny people living on cow poop. The camera then dramatically zooms 
 
 ---
 
-## 17. MiniMax H3在配音情绪上把握很好，点赞！
+## 54. MiniMax H3在配音情绪上把握很好，点赞！
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-541389/video-ae9465a0035d.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-541389/poster-5b18881bd183.jpg" alt="MiniMax H3在配音情绪上把握很好，点赞！ video preview" width="700" />
@@ -643,7 +1870,7 @@ a village of tiny people living on cow poop. The camera then dramatically zooms 
 
 ---
 
-## 18. 5秒，4:3，顶级东方仙侠3A游戏CG，电影级高端宣传片，严格参考图1的月下仙城场景与美术气质：巨大明月、云海天宫、环形仙城、悬浮仙山、瀑布、白玉仙桥、金顶楼阁、冷
+## 55. 5秒，4:3，顶级东方仙侠3A游戏CG，电影级高端宣传片，严格参考图1的月下仙城场景与美术气质：巨大明月、云海天宫、环形仙城、悬浮仙山、瀑布、白玉仙桥、金顶楼阁、冷
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/54-33acg1-263455/video-f7524a101be1.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/54-33acg1-263455/poster-d362966f1abd.jpg" alt="5秒，4:3，顶级东方仙侠3A游戏CG，电影级高端宣传片，严格参考图1的月下仙城场景与美术气质：巨大明月、云海天宫、环形仙城、悬浮仙山、瀑布、白玉仙桥、金顶楼阁、冷 video preview" width="700" />
@@ -682,7 +1909,7 @@ a village of tiny people living on cow poop. The camera then dramatically zooms 
 
 ---
 
-## 19. The CEO thought he could handle anything... until he met
+## 56. The CEO thought he could handle anything... until he met
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/the-ceo-thought-he-could-handle-anything-until-h-761388/video-907b663e80a2.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/the-ceo-thought-he-could-handle-anything-until-h-761388/poster-2f0231bd8309.jpg" alt="The CEO thought he could handle anything... until he met video preview" width="700" />
@@ -707,7 +1934,7 @@ a village of tiny people living on cow poop. The camera then dramatically zooms 
 
 ---
 
-## 20. Documentary Study 162229
+## 57. Documentary Study 162229
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/main-subject-young-korean-woman-early-20s-oversi-162229/video-e506e31f1751.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/main-subject-young-korean-woman-early-20s-oversi-162229/poster-a46afa77bbaf.jpg" alt="Documentary Study 162229 video preview" width="700" />
@@ -742,7 +1969,7 @@ Goal: An adventurous, cheerful camping setup moment grounded, warm, authentic.
 
 ---
 
-## 21. Model on Generative AI is getting really good .. I
+## 58. Model on Generative AI is getting really good .. I
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/model-on-generative-ai-is-getting-really-good-i-238799/video-df2a0f1adabb.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/model-on-generative-ai-is-getting-really-good-i-238799/poster-9b550371d673.jpg" alt="Model on Generative AI is getting really good .. I video preview" width="700" />
@@ -765,7 +1992,7 @@ Goal: An adventurous, cheerful camping setup moment grounded, warm, authentic.
 
 ---
 
-## 22. 添付のキャラクター参照（ 📷Image1 ）とオーディオトラックをタ
+## 59. 添付のキャラクター参照（ 📷Image1 ）とオーディオトラックをタ
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-765882/video-b72b7f816e36.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-765882/poster-39035d6a8edf.jpg" alt="添付のキャラクター参照（ 📷Image1 ）とオーディオトラックをタ video preview" width="700" />
@@ -789,7 +2016,7 @@ Goal: An adventurous, cheerful camping setup moment grounded, warm, authentic.
 
 ---
 
-## 23. Can reason? -- I wanted to see if reasoning could
+## 60. Can reason? -- I wanted to see if reasoning could
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/can-reason-i-wanted-to-see-if-reasoning-could-167396/video-cda3ecc92797.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/can-reason-i-wanted-to-see-if-reasoning-could-167396/poster-bbf4883d7fe0.jpg" alt="Can reason? -- I wanted to see if reasoning could video preview" width="700" />
@@ -810,7 +2037,7 @@ A single continuous fixed wide shot in a plain, brightly lit test room, filmed l
 
 ---
 
-## 24. Fantasy Film Study 614835
+## 61. Fantasy Film Study 614835
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/the-necromancer-walks-along-raising-skeletons-wi-614835/video-dd624d4a68c1.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/the-necromancer-walks-along-raising-skeletons-wi-614835/poster-4b29619c28be.jpg" alt="Fantasy Film Study 614835 video preview" width="700" />
@@ -831,7 +2058,7 @@ The necromancer walks along, raising skeletons with magic; they smoothly rise to
 
 ---
 
-## 25. Documentary Study 757074
+## 62. Documentary Study 757074
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/main-subject-757074/video-1b3d79ad1932.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/main-subject-757074/poster-7308afe8eda6.jpg" alt="Documentary Study 757074 video preview" width="700" />
@@ -868,7 +2095,7 @@ Goal: A small, grounded gardening moment warm, patient, authentic.
 
 ---
 
-## 26. Midjourney v8.2 + Suno
+## 63. Midjourney v8.2 + Suno
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/midjourney-v8-2-suno-835622/video-88fd290481d8.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/midjourney-v8-2-suno-835622/poster-4c18e4d923ff.jpg" alt="Midjourney v8.2 + Suno video preview" width="700" />
@@ -889,7 +2116,7 @@ Create a fast-paced surreal editorial sequence synchronized tightly to the refer
 
 ---
 
-## 27. Cinematic Story Study 249079
+## 64. Cinematic Story Study 249079
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/subject-person-from-image1-face-and-hairstyle-mu-249079/video-a395e31e5306.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/subject-person-from-image1-face-and-hairstyle-mu-249079/poster-0501d966e477.jpg" alt="Cinematic Story Study 249079 video preview" width="700" />
@@ -920,7 +2147,7 @@ Style: Unedited low-quality phone video look. No color grading, no film look, no
 
 ---
 
-## 28. 对于图片的风格参考的 复现效果也不错
+## 65. 对于图片的风格参考的 复现效果也不错
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-913721-913721/video-447f21cdc5d2.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-913721-913721/poster-2e5764d395cc.jpg" alt="对于图片的风格参考的 复现效果也不错 video preview" width="700" />
@@ -971,7 +2198,7 @@ Style: Unedited low-quality phone video look. No color grading, no film look, no
 
 ---
 
-## 29. cinematic sci-fi suspense video. A realistic spaceship crew in full futuristic
+## 66. cinematic sci-fi suspense video. A realistic spaceship crew in full futuristic
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-sci-fi-suspense-video-a-realistic-spaceship-crew-in-024495/video-dfe92e389553.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-sci-fi-suspense-video-a-realistic-spaceship-crew-in-024495/poster-1d2a943ae1f8.jpg" alt="cinematic sci-fi suspense video. A realistic spaceship crew in full futuristic video preview" width="700" />
@@ -992,7 +2219,7 @@ cinematic sci-fi suspense video. A realistic spaceship crew in full futuristic u
 
 ---
 
-## 30. Generated a french bulldog with MiniMax H3
+## 67. Generated a french bulldog with MiniMax H3
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/generated-a-french-bulldog-with-minimax-h3-182507/video-eb80c2704709.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/generated-a-french-bulldog-with-minimax-h3-182507/poster-0b12ef8276be.jpg" alt="Generated a french bulldog with MiniMax H3 video preview" width="700" />
@@ -1013,7 +2240,7 @@ A casual handheld smartphone video filmed by the dog's owner in an ordinary subu
 
 ---
 
-## 31. 7- GROK IMAGINE 1.5
+## 68. 7- GROK IMAGINE 1.5
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/7-grok-imagine-1-5-649179/video-4f1fd87b9bad.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/7-grok-imagine-1-5-649179/poster-a391664a7349.jpg" alt="7- GROK IMAGINE 1.5 video preview" width="700" />
@@ -1034,7 +2261,7 @@ Tarih öncesi çağlarda geçen bir konser sahnesi. Sahnede mağara adamları va
 
 ---
 
-## 32. Documentary Study 281571
+## 69. Documentary Study 281571
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/tried-a-simple-slice-of-life-scene-with-on-281571/video-bb8dca82f171.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/tried-a-simple-slice-of-life-scene-with-on-281571/poster-62eb9f01e71b.jpg" alt="Documentary Study 281571 video preview" width="700" />
@@ -1071,7 +2298,7 @@ Goal: A quiet, ordinary household moment grounded, warm, believable.
 
 ---
 
-## 33. Documentary Study 603469
+## 70. Documentary Study 603469
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/main-subject-603469/video-357d96831db6.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/main-subject-603469/poster-28688cc39b25.jpg" alt="Documentary Study 603469 video preview" width="700" />
@@ -1108,7 +2335,7 @@ Goal: A quiet, cozy breakfast moment calm, warm, deeply relatable.
 
 ---
 
-## 34. Local AI
+## 71. Local AI
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/local-ai-000274/video-e03d0617d09a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/local-ai-000274/poster-06d2e19f1724.jpg" alt="Local AI video preview" width="700" />
@@ -1141,7 +2368,7 @@ Photorealistic, ultra-detailed fluid and object physics, correct volume and surf
 
 ---
 
-## 35. MiniMax H3
+## 72. MiniMax H3
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-378626/video-4bf981ac58d8.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-378626/poster-52b05da26564.jpg" alt="MiniMax H3 video preview" width="700" />
@@ -1191,7 +2418,7 @@ Photorealistic, ultra-detailed fluid and object physics, correct volume and surf
 
 ---
 
-## 36. 単にリップシンクだけさせると無表情になりがちだったので表情の演技を追加してみました✨
+## 73. 単にリップシンクだけさせると無表情になりがちだったので表情の演技を追加してみました✨
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-311602-311602/video-21d975aba71b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-311602-311602/poster-bb822cd95010.jpg" alt="単にリップシンクだけさせると無表情になりがちだったので表情の演技を追加してみました✨ video preview" width="700" />
@@ -1213,7 +2440,7 @@ She sings cheerfully, full of excitement. She laughs with her eyes crinkled, smi
 
 ---
 
-## 37. One gripe with : unless I specify exactly what each
+## 74. One gripe with : unless I specify exactly what each
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/one-gripe-with-unless-i-specify-exactly-what-eac-460476/video-ad0077bfa9a2.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/one-gripe-with-unless-i-specify-exactly-what-eac-460476/poster-b38317310a6c.jpg" alt="One gripe with : unless I specify exactly what each video preview" width="700" />
@@ -1234,7 +2461,7 @@ She sings cheerfully, full of excitement. She laughs with her eyes crinkled, smi
 
 ---
 
-## 38. すこし演技ができるもののSola2みたいに感情を出すのは無理のようです🤔
+## 75. すこし演技ができるもののSola2みたいに感情を出すのは無理のようです🤔
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/sola2-445763/video-371b46d15c8e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/sola2-445763/poster-75968517178b.jpg" alt="すこし演技ができるもののSola2みたいに感情を出すのは無理のようです🤔 video preview" width="700" />
@@ -1260,7 +2487,7 @@ Voice 2(female):あと30秒！あたしらの勝ちやな！
 
 ---
 
-## 39. 具体评分、参考图及提示词见评论
+## 76. 具体评分、参考图及提示词见评论
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-030212-030212/video-5565482b960c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-030212-030212/poster-39c4f9f1ecbf.jpg" alt="具体评分、参考图及提示词见评论 video preview" width="700" />
@@ -1293,7 +2520,7 @@ Voice 2(female):あと30秒！あたしらの勝ちやな！
 
 ---
 
-## 40. Afternoon Nap in a Hammock
+## 77. Afternoon Nap in a Hammock
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/afternoon-nap-in-a-hammock-190553/video-251802f07ed2.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/afternoon-nap-in-a-hammock-190553/poster-f25f86a4ddf2.jpg" alt="Afternoon Nap in a Hammock video preview" width="700" />
@@ -1335,7 +2562,7 @@ Goal: A calm, drowsy afternoon rest moment intimate, soft, deeply believable.
 
 ---
 
-## 41. Dramatic performances ✅
+## 78. Dramatic performances ✅
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/dramatic-performances-301360/video-39f613ace4a3.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/dramatic-performances-301360/poster-ca12f1684e28.jpg" alt="Dramatic performances ✅ video preview" width="700" />
@@ -1370,7 +2597,7 @@ Style: Film grain, dark shadows, crushed blacks, in and out of focus.
 
 ---
 
-## 42. Documentary Study 624724
+## 79. Documentary Study 624724
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/x-midjourney-v8-2-on-624724/video-a9c2f9ecf7a8.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/x-midjourney-v8-2-on-624724/poster-b139295b4f99.jpg" alt="Documentary Study 624724 video preview" width="700" />
@@ -1656,7 +2883,7 @@ https://t.co/aS4VrWHW2q
 
 ---
 
-## 43. also has an impressive understanding of different cultures
+## 80. also has an impressive understanding of different cultures
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/also-has-an-impressive-understanding-of-differen-911311/video-30929f926e81.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/also-has-an-impressive-understanding-of-differen-911311/poster-821009c883cb.jpg" alt="also has an impressive understanding of different cultures video preview" width="700" />
@@ -1677,7 +2904,7 @@ Traditional Javanese market in Yogyakarta, early morning, present day, ultra-rea
 
 ---
 
-## 44. ist jetzt in Edimakor verfügbar 🥳
+## 81. ist jetzt in Edimakor verfügbar 🥳
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ist-jetzt-in-edimakor-verfugbar-394936/video-6cbb234d1631.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ist-jetzt-in-edimakor-verfugbar-394936/poster-84537b07fa2c.jpg" alt="ist jetzt in Edimakor verfügbar 🥳 video preview" width="700" />
@@ -1701,7 +2928,7 @@ Entdecke neue Ideen mit der All-in-One-Referenzfunktion! ✨
 
 ---
 
-## 45. 如果你喜欢这个视频，可以自己做一下，提示词在评论区👇，MiniMax H3的优缺点在引用的推文里
+## 82. 如果你喜欢这个视频，可以自己做一下，提示词在评论区👇，MiniMax H3的优缺点在引用的推文里
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-449246/video-3af38045ee82.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-449246/poster-b6eb63ae95b2.jpg" alt="如果你喜欢这个视频，可以自己做一下，提示词在评论区👇，MiniMax H3的优缺点在引用的推文里 video preview" width="700" />
@@ -1726,7 +2953,7 @@ Entdecke neue Ideen mit der All-in-One-Referenzfunktion! ✨
 
 ---
 
-## 46. Okay one more, I couldn't stop 😂
+## 83. Okay one more, I couldn't stop 😂
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/okay-one-more-i-couldn-t-stop-837115/video-2efb5b2da659.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/okay-one-more-i-couldn-t-stop-837115/poster-8e8a54172485.jpg" alt="Okay one more, I couldn't stop 😂 video preview" width="700" />
@@ -1769,7 +2996,7 @@ music, ambient room tone only.
 
 ---
 
-## 47. AI can’t replace you Joey
+## 84. AI can’t replace you Joey
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ai-cant-replace-you-joey-113820/video-978781c592e7.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ai-cant-replace-you-joey-113820/poster-6f8fa9df057e.jpg" alt="AI can’t replace you Joey video preview" width="700" />
@@ -1808,7 +3035,7 @@ STYLE: Warm 90s sitcom aesthetic, steady handheld feel, natural performances, ch
 
 ---
 
-## 48. 非常震惊！我居然现在才发现！AI已经发展到一站式全部搞定所有功能的超强平台！如果你是导演，应该主动拥抱AI，而不是视而不见。 我在@edimakortaiwan
+## 85. 非常震惊！我居然现在才发现！AI已经发展到一站式全部搞定所有功能的超强平台！如果你是导演，应该主动拥抱AI，而不是视而不见。 我在@edimakortaiwan
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/aiai-edimakortaiwan-940599/video-e4fa018f8fca.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/aiai-edimakortaiwan-940599/poster-57d8a69127a0.jpg" alt="非常震惊！我居然现在才发现！AI已经发展到一站式全部搞定所有功能的超强平台！如果你是导演，应该主动拥抱AI，而不是视而不见。 我在@edimakortaiwan video preview" width="700" />
@@ -1837,7 +3064,28 @@ STYLE: Warm 90s sitcom aesthetic, steady handheld feel, natural performances, ch
 
 ---
 
-## 49. 15秒，16:9横版人类进化史科普短片
+## 86. No me lo podía creer hasta que yo mismo lo hice.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/no-me-lo-poda-creer-hasta-que-yo-mismo-lo-934915/video-c49e19f905e9.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/no-me-lo-poda-creer-hasta-que-yo-mismo-lo-934915/poster-3ab9d6d92043.jpg" alt="No me lo podía creer hasta que yo mismo lo hice. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Jim and Dwight from The Office discuss whether artificial intelligence will take their jobs.</summary>
+
+~~~~text
+Jim and Dwight from The Office discuss whether artificial intelligence will take their jobs.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/no-me-lo-poda-creer-hasta-que-yo-mismo-lo-934915/video-c49e19f905e9.webm)
+
+**Source:** [@00Bohr](https://x.com/00Bohr/status/2084532554971934915) · 10s · 7:4 · cinematic story
+
+---
+
+## 87. 15秒，16:9横版人类进化史科普短片
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-816740/video-ff4a06f980e4.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-816740/poster-2787381e3fee.jpg" alt="15秒，16:9横版人类进化史科普短片 video preview" width="700" />
@@ -1917,7 +3165,7 @@ STYLE: Warm 90s sitcom aesthetic, steady handheld feel, natural performances, ch
 
 ---
 
-## 50. No way, this is golden 🤣😂
+## 88. No way, this is golden 🤣😂
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/no-way-this-is-golden-595436/video-49223c671db4.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/no-way-this-is-golden-595436/poster-ad490cfcd11b.jpg" alt="No way, this is golden 🤣😂 video preview" width="700" />
@@ -1976,7 +3224,7 @@ at the lens.
 
 ---
 
-## 51. Generated with
+## 89. Generated with
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/generated-with-810731/video-83eacf931d6b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/generated-with-810731/poster-78ada233cc1f.jpg" alt="Generated with video preview" width="700" />
@@ -1997,7 +3245,7 @@ Continuous 15-second cinematic shot, extreme slow-motion: a futuristic cyberpunk
 
 ---
 
-## 52. 我让 用 3 张参考图
+## 90. 我让 用 3 张参考图
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-313955/video-fdf480d99d00.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-313955/poster-dcb245bf2290.jpg" alt="我让 用 3 张参考图 video preview" width="700" />
@@ -2035,7 +3283,7 @@ Continuous 15-second cinematic shot, extreme slow-motion: a futuristic cyberpunk
 
 ---
 
-## 53. Blue-Haired Hero and Spirit Fox Escape
+## 91. Blue-Haired Hero and Spirit Fox Escape
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/blue-haired-hero-and-spirit-fox-escape-209379/video-306a2ec093ca.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/blue-haired-hero-and-spirit-fox-escape-209379/poster-5de493373abb.jpg" alt="Blue-Haired Hero and Spirit Fox Escape video preview" width="700" />
@@ -2064,7 +3312,7 @@ Maintain one continuous route and clear cause-and-effect motion. No teleporting,
 
 ---
 
-## 54. Nighttime Motorcycle Chase Synced to Music
+## 92. Nighttime Motorcycle Chase Synced to Music
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/and-reference-preserve-the-rider-s-face-short-curly-375367/video-9ada2b599685.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/and-reference-preserve-the-rider-s-face-short-curly-375367/poster-89f9e4e64541.jpg" alt="Nighttime Motorcycle Chase Synced to Music video preview" width="700" />
@@ -2099,7 +3347,7 @@ Cinematic live-action realism, physically accurate motorcycle movement, energeti
 
 ---
 
-## 55. Theme Park Memory Montage
+## 93. Theme Park Memory Montage
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/nostalgic-montage-of-different-clips-graphic-motion-lay-586917/video-5f89f4d35e10.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/nostalgic-montage-of-different-clips-graphic-motion-lay-586917/poster-7e7b6f7defd8.jpg" alt="Theme Park Memory Montage video preview" width="700" />
@@ -2120,7 +3368,7 @@ Nostalgic montage of different clips. Graphic motion layouts of friends having f
 
 ---
 
-## 56. Macaw Scream in Extreme Slow Motion
+## 94. Macaw Scream in Extreme Slow Motion
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-wildlife-documentary-vertical-framing-subject-592938/video-d5110cc8b14a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-wildlife-documentary-vertical-framing-subject-592938/poster-1d9af280d9f7.jpg" alt="Macaw Scream in Extreme Slow Motion video preview" width="700" />
@@ -2141,7 +3389,7 @@ Nostalgic montage of different clips. Graphic motion layouts of friends having f
 
 ---
 
-## 57. Korean Idol VHS Beauty Vlog
+## 95. Korean Idol VHS Beauty Vlog
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/dv-16mm-camcorder-vlog-with-soft-vhs-tape-quality-209852/video-c3f74dcdc2f5.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/dv-16mm-camcorder-vlog-with-soft-vhs-tape-quality-209852/poster-b6975c0aebd6.jpg" alt="Korean Idol VHS Beauty Vlog video preview" width="700" />
@@ -2162,7 +3410,7 @@ DV 16mm camcorder vlog with soft VHS tape quality, handheld POV by CHASE and mir
 
 ---
 
-## 58. Mechanical bull charge The Beasts Are Coming
+## 96. Mechanical bull charge The Beasts Are Coming
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/mechanical-bull-charge-the-beasts-are-coming-720815/video-5c0e8e10c9c2.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/mechanical-bull-charge-the-beasts-are-coming-720815/poster-b96e40a1ed6e.jpg" alt="Mechanical bull charge The Beasts Are Coming video preview" width="700" />
@@ -2201,7 +3449,7 @@ Use the same signature look: desaturated steel blue, charcoal grey, mist white, 
 
 ---
 
-## 59. Wake up We Hunt mechanical bull mount
+## 97. Wake up We Hunt mechanical bull mount
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/wake-up-we-hunt-mechanical-bull-mount-700581/video-0e0352543d86.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/wake-up-we-hunt-mechanical-bull-mount-700581/poster-0d1df166a962.jpg" alt="Wake up We Hunt mechanical bull mount video preview" width="700" />
@@ -2234,7 +3482,7 @@ Sound: deep metallic groans, steam bursts, furnace rumble, hoof impact, distant 
 
 ---
 
-## 60. Fire dragon and rider over scorched world
+## 98. Fire dragon and rider over scorched world
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/fire-dragon-and-rider-over-scorched-world-726278/video-2117b5976484.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/fire-dragon-and-rider-over-scorched-world-726278/poster-9ee7e11e63c5.jpg" alt="Fire dragon and rider over scorched world video preview" width="700" />
@@ -2256,7 +3504,7 @@ rising over a scorched world, cutting through smoke and sunset.
 
 ---
 
-## 61. Seamless-loop cinematic warrior blade reconstruction
+## 99. Seamless-loop cinematic warrior blade reconstruction
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/seamless-loop-cinematic-warrior-blade-reconstruction-513162/video-9f69d344bf8d.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/seamless-loop-cinematic-warrior-blade-reconstruction-513162/poster-4a8a26a14902.jpg" alt="Seamless-loop cinematic warrior blade reconstruction video preview" width="700" />
@@ -2277,7 +3525,7 @@ rising over a scorched world, cutting through smoke and sunset.
 
 ---
 
-## 62. Most cinematic scenes challenge
+## 100. Most cinematic scenes challenge
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/most-cinematic-scenes-challenge-742779/video-f48e065cbcfd.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/most-cinematic-scenes-challenge-742779/poster-ebcff6136f10.jpg" alt="Most cinematic scenes challenge video preview" width="700" />
@@ -2298,7 +3546,7 @@ The most cinematic scenes you can make.
 
 ---
 
-## 63. Urban street superpowered punch action sequence
+## 101. Urban street superpowered punch action sequence
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/urban-street-superpowered-punch-action-sequence-712509/video-ec5bdb059314.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/urban-street-superpowered-punch-action-sequence-712509/poster-ba5a74ddc38a.jpg" alt="Urban street superpowered punch action sequence video preview" width="700" />
@@ -2382,7 +3630,7 @@ Fighter stands alone in TOTAL DEVASTATION. Breathing HEAVILY, chest HEAVING, eye
 
 ---
 
-## 64. Swimming strokes aesthetic showcase
+## 102. Swimming strokes aesthetic showcase
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/swimming-strokes-aesthetic-showcase-832514/video-5daa50fd298a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/swimming-strokes-aesthetic-showcase-832514/poster-fc9b7356fb8a.jpg" alt="Swimming strokes aesthetic showcase video preview" width="700" />
@@ -2433,7 +3681,7 @@ Fighter stands alone in TOTAL DEVASTATION. Breathing HEAVILY, chest HEAVING, eye
 
 ---
 
-## 65. Rain-Soaked Korean Noir Reunion
+## 103. Rain-Soaked Korean Noir Reunion
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/16-9-15s-hyper-realistic-korean-noir-crime-teaser-a-447606/video-120e7ace6322.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/16-9-15s-hyper-realistic-korean-noir-crime-teaser-a-447606/poster-eae3a767b8d2.jpg" alt="Rain-Soaked Korean Noir Reunion video preview" width="700" />
@@ -2466,7 +3714,7 @@ Audio: Rain, thunder, jazz crackle, lighter click, intimate silence during dialo
 
 ---
 
-## 66. Sci-fi explorer approaches dark gateway mystery
+## 104. Sci-fi explorer approaches dark gateway mystery
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/sci-fi-explorer-approaches-dark-gateway-mystery-410508/video-45794f2b7f7d.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/sci-fi-explorer-approaches-dark-gateway-mystery-410508/poster-41dc276878ea.jpg" alt="Sci-fi explorer approaches dark gateway mystery video preview" width="700" />
@@ -2505,7 +3753,7 @@ No dialogue, subtitles, title cards, logos, watermarks, extra characters, vehicl
 
 ---
 
-## 67. Handheld Two-Person Argument
+## 105. Handheld Two-Person Argument
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/two-characters-arguing-in-english-make-the-emotion-feel-377881/video-629f0d40f5d5.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/two-characters-arguing-in-english-make-the-emotion-feel-377881/poster-8cc91ed3c57e.jpg" alt="Handheld Two-Person Argument video preview" width="700" />
@@ -2526,7 +3774,7 @@ Two characters arguing in English. Make the emotion feel very realistic  angry, 
 
 ---
 
-## 68. 1998 Seoul rainy bus stop archival home video
+## 106. 1998 Seoul rainy bus stop archival home video
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/1998-seoul-rainy-bus-stop-archival-home-video-300930/video-dc63bcf406f6.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/1998-seoul-rainy-bus-stop-archival-home-video-300930/poster-a7d8e421447e.jpg" alt="1998 Seoul rainy bus stop archival home video video preview" width="700" />
@@ -2555,7 +3803,7 @@ Generation Requirements: Produce one continuous, uninterrupted 15-second recordi
 
 ---
 
-## 69. Ink-wash shrimp leap into futuristic city
+## 107. Ink-wash shrimp leap into futuristic city
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ink-wash-shrimp-leap-into-futuristic-city-848857/video-e69b57698224.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ink-wash-shrimp-leap-into-futuristic-city-848857/poster-6dabc94cb3bb.jpg" alt="Ink-wash shrimp leap into futuristic city video preview" width="700" />
@@ -2576,7 +3824,7 @@ Generation Requirements: Produce one continuous, uninterrupted 15-second recordi
 
 ---
 
-## 70. Fire-breathing dragon in broken palace
+## 108. Fire-breathing dragon in broken palace
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/fire-breathing-dragon-in-broken-palace-831106/video-97094ad26d51.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/fire-breathing-dragon-in-broken-palace-831106/poster-71ffd72b1ac9.jpg" alt="Fire-breathing dragon in broken palace video preview" width="700" />
@@ -2597,7 +3845,7 @@ Fire-Breathing Dragon in a Broken Palace**  A colossal fire-breathing dragon wit
 
 ---
 
-## 71. Empty Suit Stop-Motion Assembly
+## 109. Empty Suit Stop-Motion Assembly
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/empty-suit-stop-motion-assembly-854152/video-f88cb4181bff.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/empty-suit-stop-motion-assembly-854152/poster-475cb8c1a69b.jpg" alt="Empty Suit Stop-Motion Assembly video preview" width="700" />
@@ -2618,7 +3866,7 @@ Static locked-off camera, no zoom, no pan, no handheld drift. The frame never mo
 
 ---
 
-## 72. Lightning God at a Shaolin Monastery
+## 110. Lightning God at a Shaolin Monastery
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/buddhist-monastery-courtyard-at-dawn-mist-drifting-betw-411584/video-71ad9000d4ca.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/buddhist-monastery-courtyard-at-dawn-mist-drifting-betw-411584/poster-e1578a62db9d.jpg" alt="Lightning God at a Shaolin Monastery video preview" width="700" />
@@ -2639,7 +3887,7 @@ Buddhist monastery courtyard at dawn, mist drifting between stone pillars. Wide 
 
 ---
 
-## 73. Skyship Through a Floating Kingdom
+## 111. Skyship Through a Floating Kingdom
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/skyship-flight-across-a-floating-kingdom-single-continu-344891/video-5e1c6d863a64.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/skyship-flight-across-a-floating-kingdom-single-continu-344891/poster-5b79b9582051.jpg" alt="Skyship Through a Floating Kingdom video preview" width="700" />
@@ -2660,7 +3908,7 @@ Skyship flight across a floating kingdom (single continuous shot) From above a s
 
 ---
 
-## 74. Natural-Material Dragon Stop Motion
+## 112. Natural-Material Dragon Stop Motion
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/top-down-stop-motion-style-video-of-four-hands-assembli-679353/video-c8badfe5e48e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/top-down-stop-motion-style-video-of-four-hands-assembli-679353/poster-77b783b17268.jpg" alt="Natural-Material Dragon Stop Motion video preview" width="700" />
@@ -2686,7 +3934,7 @@ Final shot: the completed dragon head sculpture sits alone on the white backgrou
 
 ---
 
-## 75. Cliffside Descent to the Ocean
+## 113. Cliffside Descent to the Ocean
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/shot-opens-tight-on-a-beautiful-woman-face-wind-452380/video-08dce77b0419.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/shot-opens-tight-on-a-beautiful-woman-face-wind-452380/poster-ff89a0a5a5d0.jpg" alt="Cliffside Descent to the Ocean video preview" width="700" />
@@ -2707,7 +3955,7 @@ The shot opens tight on a beautiful woman face, wind tearing at her coat as she 
 
 ---
 
-## 76. Armored swordswoman rock-plateau action sequence
+## 114. Armored swordswoman rock-plateau action sequence
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/armored-swordswoman-rock-plateau-action-sequence-009447/video-2aa17fa2410a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/armored-swordswoman-rock-plateau-action-sequence-009447/poster-497f63aa6c54.jpg" alt="Armored swordswoman rock-plateau action sequence video preview" width="700" />
@@ -2756,7 +4004,7 @@ The shot opens tight on a beautiful woman face, wind tearing at her coat as she 
 
 ---
 
-## 77. Cinematic Story Study 333627
+## 115. Cinematic Story Study 333627
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/the-ceo-s-pursuit-was-simply-too-irresistible-ev-333627/video-b70e9c37a23e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/the-ceo-s-pursuit-was-simply-too-irresistible-ev-333627/poster-f7ab0c1c8494.jpg" alt="Cinematic Story Study 333627 video preview" width="700" />
@@ -2800,7 +4048,7 @@ The shot opens tight on a beautiful woman face, wind tearing at her coat as she 
 
 ---
 
-## 78. Hard sci-fi desert 3x3 grid animation sequence
+## 116. Hard sci-fi desert 3x3 grid animation sequence
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/hard-sci-fi-desert-3x3-grid-animation-sequence-845158/video-828cd6dc32d0.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/hard-sci-fi-desert-3x3-grid-animation-sequence-845158/poster-04359e816e53.jpg" alt="Hard sci-fi desert 3x3 grid animation sequence video preview" width="700" />
@@ -2842,7 +4090,7 @@ Photorealistic, ultra-detailed skin and fabric textures, perfect sand physics, c
 
 ---
 
-## 79. Five cinematic dialogue set-piece scenes
+## 117. Five cinematic dialogue set-piece scenes
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/five-cinematic-dialogue-set-piece-scenes-875568/video-4a97371192c0.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/five-cinematic-dialogue-set-piece-scenes-875568/poster-e36f94c0299f.jpg" alt="Five cinematic dialogue set-piece scenes video preview" width="700" />
@@ -2970,7 +4218,7 @@ POSITIVE LOCKS Exactly two officers are in the room and no other figures enter. 
 
 ---
 
-## 80. Live-action relationship confession drama scene
+## 118. Live-action relationship confession drama scene
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/live-action-relationship-confession-drama-scene-224793/video-af329c217b0b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/live-action-relationship-confession-drama-scene-224793/poster-0979bf00cae0.jpg" alt="Live-action relationship confession drama scene video preview" width="700" />
@@ -3052,7 +4300,7 @@ Final frame: Hold on the husband as the meaning lands. His hand lowers, and the 
 
 ---
 
-## 81. Little Robot Cyberpunk Escape
+## 119. Little Robot Cyberpunk Escape
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/stunning-action-packed-scene-following-a-little-robot-r-288619/video-92e936e50dd3.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/stunning-action-packed-scene-following-a-little-robot-r-288619/poster-75c2c618f326.jpg" alt="Little Robot Cyberpunk Escape video preview" width="700" />
@@ -3073,7 +4321,7 @@ A stunning action packed scene following a little robot running away from soldie
 
 ---
 
-## 82. Cloaked Avenger vs. Cyborg Executioner
+## 120. Cloaked Avenger vs. Cyborg Executioner
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/cloaked-avenger-identity-lock-and-wardrobe-reference-us-595100/video-1663dd881714.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/cloaked-avenger-identity-lock-and-wardrobe-reference-us-595100/poster-75eae3bbb074.jpg" alt="Cloaked Avenger vs. Cyborg Executioner video preview" width="700" />

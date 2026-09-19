@@ -1,0 +1,31 @@
+{
+  "slug": "itried-it-with-my-own-profile-interfact-using-minimax-h3-049468",
+  "title": {
+    "en": "Itried it with my own profile interfact using Minimax H3 on",
+    "zh": "Itried it with my own profile interfact using Minimax H3 on"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 anime prompt with attached video evidence from @Just_sharon7.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动画提示词。"
+  },
+  "category": "anime",
+  "mode": "reference-to-video",
+  "duration": "15s",
+  "aspectRatio": "9:16",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Just_sharon7",
+    "url": "https://x.com/Just_sharon7/status/2095915218652049468"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Just_sharon7/status/2095915218652049468"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/itried-it-with-my-own-profile-interfact-using-minimax-h3-049468/video-731f70c5405f.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/itried-it-with-my-own-profile-interfact-using-minimax-h3-049468/poster-08d300427b7f.jpg",
+  "prompt": "A 15-second vertical 9:16 anime short. Soft clean 2D anime illustration style, kawaii character design, smooth motion, white background with a real X/Twitter profile UI as the stage.\n\nCharacter\n\ngirl @Image  based on the profile photo: long wavy blonde hair, light makeup, gold necklace, pretty face, large eyes, small smile. She starts as a small circular live-action-style avatar, then becomes a full-body anime character standing on the phone screen. Outfit after she pops out: white baseball cap slightly tilted, oversized light-grey hoodie, black shorts, white crew socks, white sneakers. Slightly petite proportions.\n\nSetting / UI layer\n\nSharon Riley’s X profile stays visible at first:\n\ncream “Collaborations” banner with a smiling blonde woman in a white shirt and the email marketing6415@gmail.com; circular avatar of Sharon; display name Sharon Riley with blue check; handle @Just_sharon7; “256.3K posts”; Follow / message / notification buttons; bio “Into AI- DM for paid partnership.” plus email; blue CPP line “@Roboneo_ai, @Higgsfield, @capcutapp, @tapnow_ai, @openart_ai”; Entertainment & Recreation, DM for promo, Instagram link, Born July 25, Joined April 2022; 10.8K Following · 47.5K Followers; Posts tab selected; pinned post about AGIBOT WORLD 2026 / robot RL dataset, with a dark quote card underneath. Bottom X tab bar stays throughout. A yellow circular “+” button stays in the lower right.\n\nShot-by-shot action\n\n0–2s: Tiny avatar girl sits inside the circular profile picture, then curls up hugging her knees. She pops out of the circle and grows to full body, stretching one arm out in a cheerful pose over the profile text.\n\n2–6s: She stands on the profile, cycling through cute idle poses — casual stance, hands clasped at her chest, lifting a small object, glancing aside. Name, bio, follower counts, and pinned post remain behind her.\n\n6–9s: A long wooden broom appears in her hands. She sweeps left to right. White dust/particles fly. As she sweeps, the display name, bio, buttons, stats, and pinned post wipe away, leaving mostly blank white space. Banner, empty orange/avatar circle, and bottom nav remain.\n\n9–11s: She plants the broom beside her, puts both hands in the hoodie pocket, looks down shyly. Then she turns her back to camera, pulls out a thick black marker, and raises it.\n\n11–14s: Handwritten black text appears as she writes across the empty white screen: “The prank was a success!” She turns back toward camera, marker in one hand, standing on the broom, smiling at the viewer.\n\nLook & motion\n\nSoft studio lighting, no harsh shadows. Clean line art, muted pastel colors, slight paper texture. Smooth frame-by-frame animation, playful timing, no camera shake. Keep the X UI sharp and readable until it is swept away. End on a still of the girl, the handwritten punchline, the leftover Collaborations banner, and the yellow + button."
+}

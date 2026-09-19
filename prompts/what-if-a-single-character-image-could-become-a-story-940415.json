@@ -1,0 +1,31 @@
+{
+  "slug": "what-if-a-single-character-image-could-become-a-story-940415",
+  "title": {
+    "en": "What if a single character image could become a story you actually want to keep watching?",
+    "zh": "What if a single character image could become a story you actually want to keep watching?"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 action prompt with attached video evidence from @aimikoda.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动作提示词。"
+  },
+  "category": "action",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@aimikoda",
+    "url": "https://x.com/aimikoda/status/2098771179808940415"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/aimikoda/status/2098771179808940415"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/what-if-a-single-character-image-could-become-a-story-940415/video-ae92904afa4d.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/what-if-a-single-character-image-could-become-a-story-940415/poster-1236a19ee666.jpg",
+  "prompt": "Create a curiosity-driven character vignette built from 10–15 short cuts around the character from Image1.\n\nPreserve the character’s identity, visual style and overall design.  Infer its nature and world directly from Image1.\n\nOpen with an immediately intriguing visual situation that creates a simple unanswered question. Build the following cuts around discovery, reaction, progression and small consequences. Each cut should introduce a new visual idea while clearly advancing the same underlying situation.\n\nLet the character reveal itself through behavior rather than exposition. Use its movement, instincts, habits, abilities, limitations, relationships and interaction with the surrounding world to make the sequence increasingly interesting.\n\nKeep the narrative simple enough to understand without dialogue. Create visual cause and effect between cuts. Allow details introduced early to gain meaning later. Build toward a clear reveal, reversal, transformation, emotional beat or satisfying visual payoff near the end.\n\nAvoid generic daily routines, disconnected montage imagery and repetitive actions. Do not force familiar human behavior onto the character or world. Let the situations emerge naturally from the reference.\n\nMake every few seconds visually distinct through changes in scale, framing, environment, movement, tension and information. Maintain strong continuity so the viewer wants to see what happens next.\n\nUse objective third-person cinematic observation with natural handheld imperfection and varied shot sizes. Keep the camera readable, responsive and visually motivated.\n\nUse only clean diegetic sound. No dialogue, narration, BGM, subtitles or title cards."
+}

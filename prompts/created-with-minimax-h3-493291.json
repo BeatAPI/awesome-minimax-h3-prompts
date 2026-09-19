@@ -1,0 +1,31 @@
+{
+  "slug": "created-with-minimax-h3-493291",
+  "title": {
+    "en": "Created with MiniMax H3.",
+    "zh": "Created with MiniMax H3."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @CaliraVal.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "4:3",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@CaliraVal",
+    "url": "https://x.com/CaliraVal/status/2098984611980493291"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/CaliraVal/status/2098984611980493291"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-493291/video-3c2fa9ab2d7e.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-493291/poster-28fbf2e39d6c.jpg",
+  "prompt": "A joyful young East Asian woman with long dark hair, wearing a white sleeveless top, white shorts, and white sneakers, capturing a carefree summer day.\nStyle\nCinematic 2000s Japanese art-house film aesthetic. Bright, airy, and nostalgic color grading with warm highlights and soft natural lighting.\n\nCamera & Framing\nLighting consists of bright, sun-drenched summer daylight with subtle natural lens flares. Framing includes wide exterior tracking shots, high-angle crosswalk views, low-angle foot close-ups, and a medium fish-tank reflection shot.\n\nAudio\nNostalgic acoustic indie-pop soundtrack featuring light piano melodies, gentle guitar strumming, and subtle environmental foley like flowing water and distant summer ambiance.\n\nRealism\nPhotorealistic 8K rendering with natural fabric movement, realistic skin tones, accurate water reflections, and organic camera motion.\n\nDetailed Scene Breakdown\n00:00 to 00:01 features a wide back-view shot of the woman running down a sunlit sloped residential street in Japan that opens up directly to the bright blue ocean view ahead.\n\n00:02 to 00:02 shows a medium tracking shot of her skipping happily down a quiet suburban street lined with trees and traditional walls.\n\n00:03 to 00:04 captures a high-angle shot of her gracefully running across a white pedestrian zebra crosswalk on a sunny afternoon.\n\n00:05 to 00:06 is a close-up shot focusing on her feet in white sneakers as she carefully walks across natural stone stepping stones over a sparkling shallow river stream.\n\n00:07 to 00:13 features a medium shot looking through an outdoor glass goldfish tank filled with bright orange goldfish, where she walks up, leans down, and smiles warmly at the fish as sunlight reflects off the water."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "hailuo-h3-prism-conducts-a-storm-it-listens-768454",
+  "title": {
+    "en": "Hailuo H3. Prism conducts a storm. It listens.",
+    "zh": "Hailuo H3. Prism conducts a storm. It listens."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @GlennHasABeard.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "7:4",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@GlennHasABeard",
+    "url": "https://x.com/GlennHasABeard/status/2095953314080768454"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/GlennHasABeard/status/2095953314080768454"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-prism-conducts-a-storm-it-listens-768454/video-ea9fd7823c60.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-prism-conducts-a-storm-it-listens-768454/poster-f8c14e208f7a.jpg",
+  "prompt": "\"he closes his fist and everything goes still and silent at once\"\n\nDuration: 15s. Reference: one Prism image. Rendered 480p, Topaz to 4K.\n\nThe ending is silence, which is the one thing a storm clip never does. Ending on the opposite of the subject is the cheapest surprise in the book."
+}

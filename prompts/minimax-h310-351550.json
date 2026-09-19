@@ -1,0 +1,31 @@
+{
+  "slug": "minimax-h310-351550",
+  "title": {
+    "en": "千と千尋の神隠しの有名なあのシーンを再現してみたかったので、MiniMax H3で試してみました。プロンプトは約10秒で設定してます。",
+    "zh": "千と千尋の神隠しの有名なあのシーンを再現してみたかったので、MiniMax H3で試してみました。プロンプトは約10秒で設定してます。"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @yudotanaka.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+  },
+  "category": "music-video",
+  "mode": "reference-to-video",
+  "duration": "10s",
+  "aspectRatio": "15:17",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@yudotanaka",
+    "url": "https://x.com/yudotanaka/status/2098753493641351550"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/yudotanaka/status/2098753493641351550"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h310-351550/video-4ee56914e0a5.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h310-351550/poster-5fb06c841abf.jpg",
+  "prompt": "Use Reference Image 1 as the exact starting frame.\n\nPreserve the entire screenshot faithfully, including the social media interface, profile information, embedded image, icons, buttons, layout, colors, and all elements except the post text that will physically detach from the screen.\n\nFor the first 1.5 seconds, the entire screenshot remains completely static and unchanged.\n\nThen the visible post text begins to glow very subtly.\n\nThe post text is physically attached to the surface of the screen. The original characters themselves begin to detach from the screen one by one and rise toward the viewer as solid three-dimensional letters.\n\nCRITICAL EFFECT:\nThe original 2D text must disappear from its original position at the exact moment each character detaches and rises.\n\nDo NOT leave the original text visible underneath the floating letters.\nDo NOT create duplicate text.\nDo NOT keep a second copy of the post text on the screen.\n\nEach Japanese character should behave like a physical object being lifted from the screen:\nthe flat character on the screen disappears as it separates,\nwhile the corresponding three-dimensional character continues moving upward into the space in front of the screen.\n\nFrom 2 to 4 seconds, the characters gradually detach from the screen and float several centimeters in front of it. Their original Japanese shapes, wording, spacing, and typography remain recognizable.\n\nThe area where the original text was displayed becomes naturally blank after the characters leave. The rest of the social media interface remains unchanged.\n\nFrom 4 to 6 seconds, the detached characters hover independently in front of the screen. They have subtle three-dimensional depth, soft shadows, delicate warm illumination, and realistic spatial separation from the flat screen.\n\nFrom 6 to 8 seconds, the floating characters begin moving in a smooth circular orbit around an invisible central point. The characters gradually form a graceful spiral vortex.\n\nFrom 8 to 9.5 seconds, the spiral tightens and the characters are pulled toward the center of the vortex. They rotate and move deeper into three-dimensional space.\n\nAt the end, the floating characters dissolve into a small number of subtle glowing particles and disappear.\n\nThe original text does NOT return.\n\nThe final frame shows the same social media screenshot with the original post-text area now empty, while every other part of the interface remains unchanged.\n\nKeep the camera completely static. No zoom, pan, tilt, rotation, or reframing.\n\nDo not animate the social media interface.\nDo not animate the profile picture.\nDo not animate the embedded image.\nDo not animate the icons or buttons.\nDo not create any new text.\nDo not rewrite or replace the Japanese text.\nDo not duplicate the Japanese text.\n\nThe only moving elements are the original post characters after they detach from the screen, followed by their spiral motion and disappearance.\n\nThe effect should look like real physical letters being peeled away from a digital screen and released into three-dimensional space. Elegant, mysterious, cinematic, restrained, and physically convincing."
+}

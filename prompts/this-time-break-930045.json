@@ -1,0 +1,31 @@
+{
+  "slug": "this-time-break-930045",
+  "title": {
+    "en": "This time: BREAK.",
+    "zh": "This time: BREAK."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @CharaspowerAI.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+  },
+  "category": "music-video",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@CharaspowerAI",
+    "url": "https://x.com/CharaspowerAI/status/2099453130219930045"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/CharaspowerAI/status/2099453130219930045"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/this-time-break-930045/video-6359017738dc.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/this-time-break-930045/poster-0406641cffdf.jpg",
+  "prompt": "Ultra-cinematic Hollywood action title sequence beginning on an enormous suspended slab of reinforced black glass and titanium. A single invisible impact hits dead center, creating a microscopic fracture that races outward at impossible speed. The camera dives directly into the crack as internal layers shear apart, sparks ignite, and pressure waves ripple through the material. Suddenly the entire structure detonates into millions of glass shards, metal splinters and glowing fragments suspended in slow motion. A violent magnetic pulse reverses the explosion and drags selected pieces back toward the center, where they collide, interlock and brutally construct the monumental word \"BREAK\" from fractured dark metal wrapped in transparent crystal. The camera performs a fast low-angle orbit as glowing cracks spread through every letter, then a final supersonic shockwave slams through the completed title and blasts it apart toward the lens. Photorealistic destruction physics, razor-sharp reflections, volumetric dust, aggressive speed ramps, premium theatrical title VFX."
+}

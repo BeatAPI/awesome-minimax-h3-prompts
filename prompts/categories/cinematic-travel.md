@@ -2,7 +2,76 @@
 
 [Back to the full gallery](../../README.md) · [Catalog index](../README.md)
 
-## 1. Created with MiniMax H3 on .
+## 1. A Different Place
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/a-different-place-226253/video-e0cc56f65182.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/a-different-place-226253/poster-b236db185e23.jpg" alt="A Different Place video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — A cinematic journey through a completely unknown fantasy world. A vast open meadow stretches toward distant mountains, with a handful of strange, beautiful homes scattered...</summary>
+
+~~~~text
+A cinematic journey through a completely unknown fantasy world. A vast open meadow stretches toward distant mountains, with a handful of strange, beautiful homes scattered naturally across the landscape. The architecture is unlike anything on Earth, organic and imaginative rather than conventional. Colorful kites drift high in the wind. Strange flying creatures move slowly across the sky while unusual animals wander through the grass. Small unconventional flying vehicles travel between distant settlements. People live naturally within this world, walking along paths and going about their daily lives. The camera slowly travels forward through the landscape, revealing more and more details. Everything feels like part of one coherent, functioning ecosystem. Beautiful, mysterious, cinematic, immersive, grounded fantasy, natural lighting, realistic movement.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/a-different-place-226253/video-e0cc56f65182.webm)
+
+**Source:** [@ItsCosmicAnts](https://x.com/ItsCosmicAnts/status/2100707808333226253) · 15s · 16:9 · cinematic travel
+
+---
+
+## 2. • Sampling: 8-step PDD Acc (Ref2V)
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/sampling-8-step-pdd-acc-ref2v-221912/video-58d4a742ceac.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/sampling-8-step-pdd-acc-ref2v-221912/poster-f0e1be4b8584.jpg" alt="• Sampling: 8-step PDD Acc (Ref2V) video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — subject_definitions: - &lt;Picture 1&gt;: S1, the young adult female elf office worker, pointed elf ears, blonde bob hair with soft bangs, tailored black business suit, white collared...</summary>
+
+~~~~text
+subject_definitions:
+- <Picture 1>: S1, the young adult female elf office worker, pointed elf ears, blonde bob hair with soft bangs, tailored black business suit, white collared shirt, and black tie.
+- <Picture 2>: S2, the nocturnal Tokyo convenience store exterior setting, clean glass sliding doors, bright cool-white fluorescent interior illumination spilling outside, and illuminated storefront signage.
+- <Audio 1>: A1, the nocturnal city ambient audio reference, featuring muffled urban night hum, distant traffic rumble, and cold nocturnal air texture.
+
+summary:
+A smooth 8-second backward tracking steadicam shot: S1 exits convenience store S2 and walks forward while the camera glides backward synchronously, gently decelerating to a stop as S1 retrieves a chilled caramel pudding from a plastic bag, culminating in a tender, relieved smile against creamy night bokeh with ambient city audio from A1 and zero music.
+
+retention_analysis:
+- S1 (<Picture 1>): Exact facial features, blonde bob hair texture, pointed elf ears, and black business suit retained consistently across all framing transitions.
+- S2 (<Picture 2>): Store architecture, sliding glass door, and night lighting preserved as the continuous background and backlight rim source.
+- A1 (<Audio 1>): Acoustic spatial texture and low-frequency urban hum preserved exact as the environmental ambient room-tone.
+
+detailed_description:
+From 00:00.000 to 00:03.000:
+Medium shot (MS, waist-up framing) captured on an 85mm T1.8 prime lens in 16:9 aspect ratio. The camera executes a slow, ultra-smooth backward tracking movement on a steadicam at a leisurely 0.2 m/s. S1 pushes open the glass sliding door of S2 and steps outside onto the sidewalk, walking toward the receding camera. Strong cool-white fluorescent backlighting spills from inside the store directly toward the lens, blooming into a soft, milky white halation flare that rims her blonde hair and the translucent edges of her pointed elf ears. S1 carries a translucent striped plastic shopping bag in her right hand, her expression deeply weary with downcast, unfocused eyes as she advances at an exhausted pace.
+
+From 00:03.000 to 00:05.500:
+S1 gradually decelerates her walking pace and comes to a gentle stop on the quiet pavement. The camera matches her deceleration seamlessly with an organic ease-out, settling to a gentle hover exactly 1 meter in front of her without any jarring stops or sudden shakes, framing her in a medium close-up (MCU, chest-up). Cool fluorescent light from the store window merges with a faint warm amber streetlamp overhead, sculpting her pale cheeks and white shirt collar. Lowering her head, S1 reaches into the plastic bag with slender pale fingers, gently lifting out a chilled caramel pudding cup lightly frosted with cold condensation mist.
+
+From 00:05.500 to 00:08.000:
+The camera remains stationary with a barely perceptible organic breath. The shallow depth of field dissolves the nighttime street and convenience store signage into immense, creamy, circular bokeh discs. Sensing the cold condensation against her fingertips, S1 exhales softly, her shoulders sinking. Her pointed elf ears soften and subtly tilt upward into a natural, relaxed posture. Her furrowed brow completely unwinds, and the corners of her mouth lift into an extremely faint, sweet, and genuinely relieved smile of solace. She lingers quietly in the cool night air as the shot holds its peaceful composition to the final frame.
+
+overall_soundscape:
+Inherits the continuous nocturnal urban ambience from A1 (<Audio 1>) as the foundational soundscape. Layered with pristine diegetic Foley: faint electronic chime of the store door sliding open, synchronized rhythmic footsteps of dress shoes on asphalt, soft crinkling of the thin plastic shopping bag in the night breeze, delicate tactile tap of fingers on the cold plastic pudding lid, and a soft audible sigh of exhalation.
+
+non_diegetic_music:
+None. Absolutely no background music, no soundtrack, no melodic instruments, strictly zero musical score. Pure diegetic Foley and ambient urban night atmosphere from A1 only.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/sampling-8-step-pdd-acc-ref2v-221912/video-58d4a742ceac.webm)
+
+**Source:** [@Tomw852](https://x.com/Tomw852/status/2095713022136221912) · 8s · 20:11 · cinematic travel
+
+---
+
+## 3. Created with MiniMax H3 on .
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-989121/video-da744e0dc652.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-989121/poster-49af374a62a1.jpg" alt="Created with MiniMax H3 on . video preview" width="700" />
@@ -23,7 +92,7 @@ A young Western artist sets up an easel in a peaceful city park and paints the s
 
 ---
 
-## 2. Audioリファレンスでエラーが出る場合は、表示上15秒でも小数点以下でわずかに超えていることがあるので、実際の尺をチェックしてみてください！
+## 4. Audioリファレンスでエラーが出る場合は、表示上15秒でも小数点以下でわずかに超えていることがあるので、実際の尺をチェックしてみてください！
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/audio15-594554/video-ecc108df5599.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/audio15-594554/poster-366a5dfe5895.jpg" alt="Audioリファレンスでエラーが出る場合は、表示上15秒でも小数点以下でわずかに超えていることがあるので、実際の尺をチェックしてみてください！ video preview" width="700" />
@@ -98,7 +167,7 @@ NEONが眼鏡越しにカメラを見る。
 
 ---
 
-## 3. Cinematic Travel Study 474111
+## 5. Cinematic Travel Study 474111
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-1-starting-frame-474111/video-bd69c73377b9.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-1-starting-frame-474111/poster-69cf37945736.jpg" alt="Cinematic Travel Study 474111 video preview" width="700" />
@@ -145,7 +214,7 @@ None. No music.
 
 ---
 
-## 4. The last thing you see in your first and last
+## 6. The last thing you see in your first and last
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/the-last-thing-you-see-in-your-first-and-last-290296/video-fae8461b3583.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/the-last-thing-you-see-in-your-first-and-last-290296/poster-ad1a13269cdc.jpg" alt="The last thing you see in your first and last video preview" width="700" />
@@ -166,7 +235,7 @@ amateur handheld pov footage of a tourist in their plush and comfortable room of
 
 ---
 
-## 5. Player stats UI
+## 7. Player stats UI
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/player-stats-ui-170293/video-797862e901ab.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/player-stats-ui-170293/poster-9579885d0aab.jpg" alt="Player stats UI video preview" width="700" />
@@ -286,7 +355,7 @@ A subtle electronic current travels through the cyan circuitry across ZENITH’s
 
 ---
 
-## 6. 这是Omni生成的视频，TtoV，你觉得如何？（没有用过Kling3.0，MiniMax H3，不知道对比如何）
+## 8. 这是Omni生成的视频，TtoV，你觉得如何？（没有用过Kling3.0，MiniMax H3，不知道对比如何）
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/omnittovkling3-0minimax-h3-630895/video-7a35d86967c0.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/omnittovkling3-0minimax-h3-630895/poster-7ebc221bed60.jpg" alt="这是Omni生成的视频，TtoV，你觉得如何？（没有用过Kling3.0，MiniMax H3，不知道对比如何） video preview" width="700" />
@@ -323,7 +392,7 @@ Mood: peaceful, heavenly, dreamlike.
 
 ---
 
-## 7. Inspired by The Odyssey
+## 9. Inspired by The Odyssey
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/inspired-by-the-odyssey-622590/video-58166fc986e6.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/inspired-by-the-odyssey-622590/poster-f8d993d18e7a.jpg" alt="Inspired by The Odyssey video preview" width="700" />
@@ -346,7 +415,7 @@ Epic ancient Greek mythology, grounded realism, sweeping IMAX cinematography, pr
 
 ---
 
-## 8. Ultra cinematic macro shot: A calm mountain lake at dawn
+## 10. Ultra cinematic macro shot: A calm mountain lake at dawn
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-cinematic-macro-shot-a-calm-mountain-lake-039920/video-904bee4a707b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-cinematic-macro-shot-a-calm-mountain-lake-039920/poster-544eed646f07.jpg" alt="Ultra cinematic macro shot: A calm mountain lake at dawn video preview" width="700" />
@@ -367,7 +436,7 @@ Ultra cinematic macro shot: A calm mountain lake at dawn reflects the first gold
 
 ---
 
-## 9. "Drowning deep down the ocean" created with MiniMax H3
+## 11. "Drowning deep down the ocean" created with MiniMax H3
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/drowning-deep-down-the-ocean-created-with-minimax-h3-773704/video-b17ae8dd6b39.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/drowning-deep-down-the-ocean-created-with-minimax-h3-773704/poster-55b4bf456688.jpg" alt="&quot;Drowning deep down the ocean&quot; created with MiniMax H3 video preview" width="700" />
@@ -403,7 +472,7 @@ Audio: Epic orchestral score mixed with deep underwater ambience, whale calls, d
 
 ---
 
-## 10. Created with MiniMax H3
+## 12. Created with MiniMax H3
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-879541/video-6681b10df8b3.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-879541/poster-796cacf77743.jpg" alt="Created with MiniMax H3 video preview" width="700" />
@@ -424,7 +493,7 @@ A cinematic 15-second fantasy adventure following a lone traveler as they cross 
 
 ---
 
-## 11. Circle, Square, Triangle, and Star
+## 13. Circle, Square, Triangle, and Star
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/circle-square-triangle-and-star-317678/video-e5ca7ba239b5.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/circle-square-triangle-and-star-317678/poster-456c0864c892.jpg" alt="Circle, Square, Triangle, and Star video preview" width="700" />
@@ -467,7 +536,7 @@ Requirements: Each shape fully visible before morph, uppercase-clarity level pre
 
 ---
 
-## 12. Cinematic Travel Study 844521
+## 14. Cinematic Travel Study 844521
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/is-now-publicly-available-844521/video-990083180050.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/is-now-publicly-available-844521/poster-ce9252bbb567.jpg" alt="Cinematic Travel Study 844521 video preview" width="700" />
@@ -488,7 +557,7 @@ CAIRN MUNRO — "ARRIVE UNHEARD" — 14 CUTS · 15s · 2K · 24fps  REFERENCES: 
 
 ---
 
-## 13. 's expressive imagination is also top-notch
+## 15. 's expressive imagination is also top-notch
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/s-expressive-imagination-is-also-top-notch-052621/video-e6443b6f6847.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/s-expressive-imagination-is-also-top-notch-052621/poster-817d615630c2.jpg" alt="'s expressive imagination is also top-notch video preview" width="700" />
@@ -530,7 +599,7 @@ No people, text, subtitles, logos, watermarks, monsters, or cartoon styling.
 
 ---
 
-## 14. Cinematic Travel Study 672988
+## 16. Cinematic Travel Study 672988
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/source-artwork-as-a-10-second-premium-sci-fi-mot-672988/video-b9f63844a74b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/source-artwork-as-a-10-second-premium-sci-fi-mot-672988/poster-d6c6a39d00a1.jpg" alt="Cinematic Travel Study 672988 video preview" width="700" />
@@ -554,7 +623,7 @@ Animate the source artwork as a 10-second premium sci-fi motion poster while pre
 
 ---
 
-## 15. Sagrada Família FPV flight
+## 17. Sagrada Família FPV flight
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/sagrada-familia-fpv-flight/video-bee48e110362.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/sagrada-familia-fpv-flight/poster-ad81c1bd1065.jpg" alt="Sagrada Família FPV flight video preview" width="700" />
@@ -577,7 +646,7 @@ The red drawn line must not appear in the video; it is only a hidden flight-path
 
 ---
 
-## 16. Mumbai monsoon FPV drone flight
+## 18. Mumbai monsoon FPV drone flight
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/mumbai-monsoon-fpv-drone-flight-942674/video-76b74f79f0dc.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/mumbai-monsoon-fpv-drone-flight-942674/poster-e9942b897901.jpg" alt="Mumbai monsoon FPV drone flight video preview" width="700" />

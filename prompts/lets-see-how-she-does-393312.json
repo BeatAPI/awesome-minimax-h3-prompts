@@ -1,0 +1,31 @@
+{
+  "slug": "lets-see-how-she-does-393312",
+  "title": {
+    "en": "Let’s see how she does… 👀",
+    "zh": "Let’s see how she does… 👀"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @EndFolding79421.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+  },
+  "category": "music-video",
+  "mode": "reference-to-video",
+  "duration": "14s",
+  "aspectRatio": "40:23",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@EndFolding79421",
+    "url": "https://x.com/EndFolding79421/status/2100396837924393312"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/EndFolding79421/status/2100396837924393312"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/lets-see-how-she-does-393312/video-8ea74cf0cbce.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/lets-see-how-she-does-393312/poster-b33825895594.jpg",
+  "prompt": "integrated_multimodal_description:\n\n<Image 1> is the CHARACTER APPEARANCE REFERENCE for femal dancer.\n\n<audio 1> use for music reference.\n\nintegrated_multimodal_description:\n\nCreate a 15-second realistic cinematic dance-performance test using the supplied female character image as the exact visual reference and starting frame.\n\nUse the supplied music clip as the ONLY audio <audio 1>.\n\nCRITICAL MUSIC SYNCHRONIZATION:\n\nThe woman actively listens and dances to the actual rhythm of the supplied music.\n\nAnalyze the music’s tempo, percussion, bass line, and strongest beat accents.\n\nHer choreography must remain synchronized with the music throughout the entire video.\n\nHer steps, hip movements, shoulder movements, arm gestures, head turns, and changes in direction land naturally on the musical beats.\n\nDo NOT create random dancing that is disconnected from the music.\n\nDo NOT change the speed of the song.\n\nDo NOT generate additional music, vocals, dialogue, clapping, footsteps, or sound effects.\n\nPERFORMANCE AND PERSONALITY:\n\nShe is DANCING AND HAVING FUN.\n\nShe genuinely enjoys the music and looks like she is feeling the rhythm rather than mechanically performing choreography.\n\nShe has lively eyes, natural smiles, playful expressions, confident energy, and spontaneous little reactions to the music.\n\nHer facial expression naturally changes throughout the dance. She can smile wider when a strong beat hits, briefly laugh to herself, give the camera a playful look, or show that she is simply enjoying the song.\n\nHer personality should come through in her face AND body language.\n\nCRITICAL: NO DEAD, BLANK, EMPTY, BORED, EMOTIONLESS, MODEL-POSE EXPRESSION.\n\nShe must never look like an AI character mechanically executing dance movements.\n\nHer expression and body language should feel connected: when she smiles, her eyes and posture participate naturally.\n\nShe performs a confident, playful, feminine dance suitable for an energetic pop-rock song.\n\nThe movement should feel natural and realistic—not like a rehearsed professional dance routine and not exaggerated social-media dancing.\n\nShe begins with a subtle bounce and shoulder movement as she catches the rhythm.\n\nShe then adds controlled side-to-side steps, natural hip movement, relaxed arm gestures, and occasional confident turns toward the camera.\n\nEvery fourth beat receives a slightly stronger movement, such as a sharper step, shoulder hit, hip accent, hair movement, or brief turn.\n\nShe remains energized throughout the full 15 seconds without repeating the exact same movement continuously.\n\nCAMERA:\n\nBegin with a clear full-body shot so her feet and entire body remain visible.\n\nUse a mostly stable camera with a very slow cinematic push inward.\n\nDo not use rapid editing, spinning cameras, extreme camera movement, or cuts that hide whether she is following the beat.\n\nMaintain realistic body mechanics, balance, weight shifts, foot placement, and momentum.\n\nCHARACTER CONTINUITY:\n\nPreserve the woman’s exact facial identity, hairstyle, hair color, age, body proportions, clothing, and accessories from the supplied reference.\n\nDo not alter her outfit.\n\nDo not change her face or body during movement.\n\nKeep both hands anatomically correct.\n\nNo extra fingers, duplicated limbs, warped joints, sliding feet, floating feet, or unnatural body motion.\n\nShe does NOT sing, speak, or lip-sync.\n\nHer mouth remains naturally expressive because she is enjoying herself, but she NEVER mouths or sings the lyrics.\n\nThe final result should look like a real woman who loves the song, is genuinely having fun, and naturally dances precisely in rhythm with its beat.\n\nNO GENERATED MUSIC. NO DIALOGUE. NO LIP-SYNC. SUPPLIED SONG AUDIO ONLY."
+}

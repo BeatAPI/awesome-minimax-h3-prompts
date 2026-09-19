@@ -1,0 +1,31 @@
+{
+  "slug": "minimax-h3-on-aireel-535631",
+  "title": {
+    "en": "MiniMax H3 on AIReel.",
+    "zh": "MiniMax H3 on AIReel."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 vlog prompt with attached video evidence from @AIReelofficial.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3视频提示词。"
+  },
+  "category": "vlog",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@AIReelofficial",
+    "url": "https://x.com/AIReelofficial/status/2099519792713535631"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/AIReelofficial/status/2099519792713535631"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-on-aireel-535631/video-ee36c2b8b2c9.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-on-aireel-535631/poster-22dce9c4420b.jpg",
+  "prompt": "Realistic 15-second Japanese daily life vlog video, filmed on a smartphone. A young Japanese woman with a sweet, natural appearance and casual Japanese street fashion is the main character. Keep her face, hairstyle, body proportions and identity consistent throughout the entire video. The video should feel like a real personal vlog recorded by a friend, not a commercial or cinematic film. Natural Japanese speaking only. Accurate Japanese lip sync. No English, no Chinese. No subtitles. Camera style: Handheld smartphone footage. Natural camera shake. Casual framing. Real autofocus changes. Occasional exposure adjustment. Realistic smartphone image quality. No cinematic camera movement. Scene 1: Morning in a quiet Japanese residential neighborhood. The girl walks out of a small apartment, holding her phone and smiling naturally at the camera. She walks through a local Japanese street with bicycles, vending machines, small houses and utility poles. She says naturally in Japanese: 「おはよう。今日は私のいつもの一日を紹介するね。」 Scene 2: She visits a small Japanese local cafe. She orders coffee and breakfast, watches the staff prepare the food, then shows the meal close to the camera. She smiles and says: 「ここのカフェ、本当にお気に入りなんだ。」 Show realistic Japanese cafe details: warm lights, customers chatting quietly, food preparation, natural atmosphere. Scene 3: She walks through a busy Japanese shopping street. She films convenience stores, small shops, street food and people passing by. She looks around happily and says: 「日本の街って歩くだけでも楽しいよね。」 Scene 4: She relaxes near a Japanese riverside or seaside area. The wind moves her hair naturally. She drinks something, looks at the scenery, and smiles. She says: 「今日は天気が良くて最高。」 Scene 5: Sunset ending. She walks along a Japanese street or waterfront, turns the phone toward herself, waves naturally. She says: 「じゃあ今日はここまで。またね。」 She smiles and ends the recording. Visual requirements: Ultra realistic smartphone vlog. Authentic Japan environment. Natural human movement. Real skin texture. Real hair movement. Real clothing physics. Natural facial expressions. Everyday Japanese lifestyle atmosphere. Documentary realism. 4K realistic video quality. Negative prompt: No subtitles. No text. No logo. No watermark. No AI face. No identity change. No different person. No exaggerated acting. No anime style. No CGI look. No cinematic camera shots. No drone view. No unnatural walking. No broken hands. No distorted face. No fake Japanese environment."
+}

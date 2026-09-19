@@ -1,0 +1,31 @@
+{
+  "slug": "created-with-minimax-h3-on-248245",
+  "title": {
+    "en": "Created with MiniMax H3 on",
+    "zh": "Created with MiniMax H3 on"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 product commercial prompt with attached video evidence from @CaliraVal.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+  },
+  "category": "product-commercial",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@CaliraVal",
+    "url": "https://x.com/CaliraVal/status/2089221706435248245"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/CaliraVal/status/2089221706435248245"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-248245/video-61976ad5def2.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-248245/poster-127f9e8ae493.jpg",
+  "prompt": "Create a 15-second photorealistic product-fashion video using the uploaded reference video as the primary visual, character, product, and performance reference.\n\nCharacter & Appearance\nRecreate the same woman from the reference video. Keep her facial identity, long dark brown hair with soft bangs, natural glamorous makeup, white fitted sleeveless top, light blue high-waisted jeans, delicate jewelry, bracelets, and rings consistent throughout the video.\n\nScene & Action\n\n0–3s:\nShe sits casually on a neatly made bed in a modern luxury bedroom with warm sunlight coming through the windows. She looks directly at the camera and speaks naturally in English while using subtle hand gestures. The exact black sunglasses case from the reference video is beside her.\n\n3–6s:\nShe picks up the sunglasses case and opens it while continuing to speak. Show a clean close-up of the case and the sunglasses inside.\n\n6–9s:\nShe removes the black rectangular sunglasses from the case. Show a detailed close-up of the sunglasses, preserving the exact shape, frame design, color, proportions, lenses, and material from the reference video.\n\n9–12s:\nShe puts the sunglasses on and adjusts them naturally with both hands while continuing to speak directly to the camera. Maintain natural facial expressions and confident fashion-influencer energy.\n\n12–15s:\nShe moves toward the large mirror and checks her look while wearing the sunglasses. Show both her and her reflection. She makes a final adjustment, then looks confidently toward the camera.\n\nVoice & Lip Sync\nThe woman must speak naturally in English throughout the video. Use the reference audio as the exact speech reference. Preserve the original words, pronunciation, pacing, pauses, emotion, and conversational tone.\n\nHer speech must be perfectly lip-synced. Match her mouth movements, jaw movement, facial expressions, blinking, eye movement, and subtle head gestures naturally to every spoken word.\n\nCamera\nBegin with a medium shot, gradually move closer during the product reveal, use cinematic close-ups for the sunglasses and hands, then transition naturally to a mirror shot. Smooth handheld movement, realistic focus changes, shallow depth of field.\n\nLighting & Environment\nWarm golden-hour sunlight, modern luxury bedroom, white bedding, dark bedside furniture, soft natural shadows, realistic mirror reflections, detailed skin and hair texture.\n\nStyle\nPhotorealistic luxury fashion commercial, realistic human movement, natural influencer-style performance, cinematic composition, premium product detail, realistic hands and fingers, consistent character identity, realistic physics.\n\nAudio\nClear natural female English speech with accurate lip sync, subtle room ambience, and realistic clothing/product sounds. No robotic voice, narrator, subtitles, extra dialogue, or overpowering music.\n\nImportant\nFollow the reference video's overall visual storytelling, character performance, product appearance, and timing while keeping the final result polished, realistic, and natural.\n\nFormat: 16:9\nDuration: 15 seconds\nQuality: Photorealistic, cinematic, high detail"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "minimax-h3-usando-duas-imagens-de-referncia-720p-renderizado-de-455165",
+  "title": {
+    "en": "MiniMax H3. usando duas imagens de referência. 720p, renderizado de uma vez.",
+    "zh": "MiniMax H3. usando duas imagens de referência. 720p, renderizado de uma vez."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @Cardoso.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "12s",
+  "aspectRatio": "40:23",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Cardoso",
+    "url": "https://x.com/Cardoso/status/2088296385422455165"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Cardoso/status/2088296385422455165"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-usando-duas-imagens-de-referncia-720p-renderizado-de-455165/video-48440dc4fe72.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-usando-duas-imagens-de-referncia-720p-renderizado-de-455165/poster-a63a862f133c.jpg",
+  "prompt": "Use the <picture 1> as the exact first frame.\n\nThe video opens on the exact first frame from <picture 1>. Centered in the lower third of the frame, a clean elegant legend appears in classic yellow Fraktur typeface reading “Berlim, 1935”. After a brief hold, the legend fades out.\n\n[Shot 1] Bright sunny summer day in a tree-lined park. The blonde woman in the red-and-black geometric dress, black cardigan, wide-brimmed burgundy hat, black over-the-knee boots and yellow handbag stands on the path, then begins walking forward at a steady, unhurried pace. Warm natural light filters through the leaves. Continuous happy summer park ambience: birds singing, distant children laughing and playing, soft breeze, footsteps on gravel. Wide tracking shot follows her as she walks.\n\n[Shot 2] At 00:04.000, hard cut to a wooden park bench to the side of the path. The man from <picture 2> sits on the bench casually scrolling on a modern smartphone, completely absorbed. The man appears in black and white, grainy as in an old photo. He looks at the woman, surprised. The man from <picture 2> says: <d>[German]Fräulein?</d>\n\n[Shot 3] At 00:06.200, hard cut back to a medium side-tracking shot of the woman. Without breaking stride or changing expression, she reaches into her yellow handbag with one hand.\ndraws a compact pistol, raises it, and fires a single clean headshot toward the bench.\nQuick cut to a closer angle on the man as the shot hits; he jerks and collapses sideways on the bench, phone tumbling to the grass.\n\n[Shot 3]\nA extreme close up of the man's head, the bullet hole on his forehead oozes a thin stream of red blood.\n\n[Shot 3]\nImmediate hard cut back to the woman: still walking at the same calm pace,  continues down the path, never looking back.\nFinal wide shot from behind as she walks away into the dappled sunlight, the happy park sounds (birds, children playing, summer breeze) continuing uninterrupted. She places a finger on her ear and say <d>[Portuguese]Está feito</d>.  A light effect hits the woman and she's teleported, the scenery is now empty.\n\nExact identity, outfit, hat, yellow handbag and lighting continuity from the first frame. Natural handheld-style tracking mixed with clean cinematic cuts, realistic fabric and skin detail, shallow depth of field on the closer shots."
+}

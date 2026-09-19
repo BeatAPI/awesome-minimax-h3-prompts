@@ -1,0 +1,31 @@
+{
+  "slug": "created-with-minimax-h3-max-on-646502",
+  "title": {
+    "en": "Created with MiniMax H3 Max on",
+    "zh": "Created with MiniMax H3 Max on"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 animation prompt with attached video evidence from @auqibhabib.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动画提示词。"
+  },
+  "category": "animation",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "2:3",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@auqibhabib",
+    "url": "https://x.com/auqibhabib/status/2099458295916646502"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/auqibhabib/status/2099458295916646502"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-max-on-646502/video-199bd7dfc0ca.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-max-on-646502/poster-1b25a16419c0.jpg",
+  "prompt": "Cinematic 3D cartoon animation, Pixar-style character design, bright colorful setting, playful slapstick comedy tone. Two cartoon characters: one big, round, friendly-looking creature, and one small, mischievous sidekick creature, in a cozy colorful room with soft lighting.\n**[0-2s]** Wide shot: the big creature stands happily, looking around, the small creature nearby holding something sticky and stretchy, giggling mischievously.\n**[2-3s]** The small creature flings the stretchy rubber-like substance — it lands with a splat directly onto the big creature's face.\n**[3-5s]** The big creature freezes, muffled \"eeeeeeee\" sound coming from underneath, eyes wide in exaggerated cartoon panic.\n**[5-7s]** It grabs the substance with both hands, pulling hard, face stretching comically as it struggles, the rubbery material stretching like gum.\n**[7-9s]** It stumbles backward, arms flailing, still pulling and stretching, the substance snapping back and slapping onto its face again with a comic \"boing\" sound.\n**[9-11s]** It spins in circles, tripping over furniture, muffled squeals continuing, the small creature watching and laughing hysterically.\n**[11-13s]** Finally, with one big exaggerated pull, the substance flies off — stretching like a slingshot and launching across the room, hitting the small creature square in the face instead.\n**[13-15s]** Final shot: the big creature stands relieved, catching its breath, while the small creature now struggles with the same sticky substance on its own face, roles reversed, big creature laughing heartily. Freeze-frame ending.\nExaggerated cartoon physics, squash-and-stretch animation style, bright saturated colors, comedic timing, funny character expressions, bouncy playful sound effects — \"eeeeeeee\" muffled voice, boing/stretch sounds, giggling, comic thud impacts. No dialogue beyond the muffled sounds, no text overlay, no watermark. 9:16 vertical, 15 seconds."
+}

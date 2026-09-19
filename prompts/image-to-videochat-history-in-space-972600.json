@@ -1,0 +1,31 @@
+{
+  "slug": "image-to-videochat-history-in-space-972600",
+  "title": {
+    "en": "🇹🇻🌌Image-to-Video：“Chat History in Space”",
+    "zh": "🇹🇻🌌Image-to-Video：“Chat History in Space”"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @ou_zhen599.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+  },
+  "category": "music-video",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ou_zhen599",
+    "url": "https://x.com/ou_zhen599/status/2096921323624972600"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/ou_zhen599/status/2096921323624972600"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/image-to-videochat-history-in-space-972600/video-4e34958125f4.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/image-to-videochat-history-in-space-972600/poster-663f64419c57.jpg",
+  "prompt": "For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.\n\nintegrated_multimodal_description: [Shot 1] Live-action, cinematic, ultra-realistic. The video starts exactly from <Picture 1>, preserving the warm spacecraft cabin, sofa area, porthole windows, pizza box, old astronaut helmet, candlelight, exposed wall wiring, and the full spatial continuity. The left girl is always A, the right girl is always B. Their identity, face, hairstyle, outfit, voice, and left-right relationship remain unchanged. A stays wrapped in a bathrobe and keeps holding the hot mug throughout. B stays side-lying close to her with both feet lifted behind her. The camera glides low across the pizza box, old helmet, candles, and wall wiring, then settles on both girls and the cat together. A looks down at the steam above the mug, thoughtful and avoiding eye contact; her eyelids are lowered, lips closed, shoulders slightly tucked, breathing shallow and even. B watches A with a restrained smile and softly swaying feet. Stars drift slowly outside, with a faint cool-blue reflection on the planetary curve. Thin steam rises from the mug; candle flames flicker gently without pulsing. [Shot 2] At 00:02.000, the camera gently pushes toward B while keeping her swaying calves and feet visible. B tilts her head slightly, hides a smile, then lets it show as she speaks and keeps watching A afterward. B, in a light teasing voice (S1), says, <d>[English] Daydreaming again? Who about?</d> “again” lifts slightly; there is a short pause before “Who about?”, which lands softer and more curious than pressing. [Shot 3] At 00:04.000, the shot cuts to A in close-up and sinks slightly with her movement. A freezes for a beat, blinks once, raises the mug to shield herself a little, lowers her head, and takes only a small sip. She swallows before speaking, keeping her gaze near the cup; the corner of her mouth almost lifts, then settles. A, in a soft inward voice (S2), says, <d>[English] No one… Don’t guess.</d> “No one” is short and quiet, followed by a brief hesitation; “Don’t guess” is soft, not angry. Drinking and speaking do not overlap. [Shot 4] At 00:06.000, the cat rises between them and the camera follows it naturally back into a medium close two-shot. A lightly strokes the cat’s ear to avoid B’s gaze. B inches closer, her feet still swaying, glances at A’s hands around the mug, then back to A’s face. Her smile deepens gently without exaggeration. B (S1), lowering her voice with playful warmth, says, <d>[English] Why so tight? You’re making the cup blush.</d> The first question is light and quick; “blush” lands with a smile. A begins to lose control of her smile by the end. [Shot 5] At 00:09.000, the camera returns to a slightly front-facing close two-shot favoring A. A lets out a small breathy laugh, shoulders relaxing. Keeping the mug upright in one hand, she lightly taps the back of B’s wrist with the other hand, then gently nudges B with one knee. Her eyes flick briefly toward B’s swinging feet, then toward B’s wrist, still not fully locking eye contact. B’s smile opens a little but she does not overreact. A (S2), smiling now, says, <d>[English] Keep your feet still. You’re flustering me even more.</d> The first sentence is playfully corrective; “even more” softens at the end. [Shot 6] At 00:12.000, the camera follows B in a tiny forward move. B shows a brief victorious smile, then softens; her feet gradually slow instead of stopping abruptly. She strokes the cat without pulling away. A finally raises her eyes and truly looks at her, keeping the faint smile from before and no longer looking away. B (S1) says, <d>[English] Then I’ll stop swinging my feet—and sway you.</d> The first half is light and playful; “sway you” becomes softer and more intimate, expressed only through voice and eyes, with no added pushing or body movement. After the line, the camera slowly pulls back to hold both girls, the cat between them, and the full warm cabin while they maintain eye contact. Dialogue order stays strictly B → A → B → A → B. No extra lines, no swapped roles, no axis crossing, no left-right swap, no cup hand change, no kiss, no hug, no subtitles, no text, no watermark.\n\noverall_soundscape: Low steady spacecraft room tone throughout, with soft fabric movement, subtle sofa friction, faint mug handling, quiet breathing, light cat contact sounds, and gentle foot-sway rustle. Ambient sound stays restrained and never covers the dialogue.\n\nnon_diegetic_music: N/A"
+}

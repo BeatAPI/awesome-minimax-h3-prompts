@@ -1,0 +1,31 @@
+{
+  "slug": "created-with-minimax-h3-on-917271",
+  "title": {
+    "en": "Created with MiniMax H3 on",
+    "zh": "Created with MiniMax H3 on"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 product commercial prompt with attached video evidence from @CaliraVal.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+  },
+  "category": "product-commercial",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@CaliraVal",
+    "url": "https://x.com/CaliraVal/status/2091012158280917271"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/CaliraVal/status/2091012158280917271"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-917271/video-7b443cd78c24.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-917271/poster-bb93c6268759.jpg",
+  "prompt": "Create a 15-second cinematic Pepsi commercial-style video set on an empty desert highway during golden hour. A stylish young woman in a western-inspired outfit and cowboy boots walks toward a classic white vintage convertible parked beside a remote gas station. Show dramatic low-angle shots of her boots, the car’s chrome wheels, and her confident walk.\n\nCut to an extreme close-up of her face, wind blowing through her hair, with warm sunlight and a confident expression. Show a chilled Pepsi glass bottle glowing in the sunset light, covered in realistic condensation, with the Pepsi logo clearly visible.\n\nThen show the woman sitting in the convertible while holding the Pepsi bottle as her scarf flows dramatically in the wind. Finish with a wide cinematic aerial shot of the vintage car speeding down the long empty desert road toward the setting sun, leaving a subtle trail of dust.\n\nStyle: photorealistic, premium Pepsi commercial, cinematic storytelling, warm golden-hour lighting, anamorphic lens, shallow depth of field, realistic skin and fabric, smooth camera movements, dramatic close-ups, rich contrast, subtle film grain, 4K, high-end advertising aesthetic, 9:16 vertical.\n#MiniMaxDesign"
+}

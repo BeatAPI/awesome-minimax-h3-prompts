@@ -1,0 +1,31 @@
+{
+  "slug": "use-the-reference-image-as-the-exact-first-frame-16-557922",
+  "title": {
+    "en": "Use the reference image as the exact first frame. 16:9, locked-off camera, one",
+    "zh": "Use the reference image as the exact first frame. 16:9, locked-off camera, one"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 anime prompt with attached video evidence from @Mayz1169.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动画提示词。"
+  },
+  "category": "anime",
+  "mode": "reference-to-video",
+  "duration": "8s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Mayz1169",
+    "url": "https://x.com/Mayz1169/status/2100932191316557922"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/Mayz1169/status/2100932557818757402"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/use-the-reference-image-as-the-exact-first-frame-16-557922/video-6cd0782c8ee0.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/use-the-reference-image-as-the-exact-first-frame-16-557922/poster-0c096f993831.jpg",
+  "prompt": "Use the reference image as the exact first frame. 16:9, locked-off camera, one continuous take. Preserve Rem’s face, short blue hair, black-and-white maid outfit, and original anime art style consistently throughout. Keep the desktop layout and Japanese menu bar unchanged.\n\n0–2s: Rem stands on the right, happily swaying gently from side to side while lifting the edges of her skirt slightly with both hands. As she turns, the hem accidentally catches the blue-purple desktop background. The background reacts like a soft fabric curtain, sending a horizontal ripple across the screen. The two folders and one screenshot icon on the left wobble, slide downward, fall to the bottom edge of the screen, and make a small playful bounce on impact.\n\n2–3s: Rem immediately freezes. Her eyes widen and she quickly covers her mouth with both hands, staring in surprise at the fallen icons.\n\n3–6s: She hurriedly leans toward the left and reaches out with both hands. She scoops up all three icons together and quickly pushes them back toward their original positions on the left. The icons behave like thin, lightweight magnetic tiles, snapping back onto the desktop surface. Two of them end up slightly crooked. Rem has no time to straighten them and quickly pulls her hands back.\n\n6–8s: Rem returns to her original position on the right, folds her hands neatly in front of her, and tries to put on an innocent, nothing-happened smile. Her eyes secretly glance toward the two crooked icons on the left. The tips of her hair, hair ribbon, and skirt hem move gently in a light breeze. The desktop background settles completely, while the two icons remain slightly tilted for a subtle comedic ending.\n\nThe background music begins with a light, cute Japanese-style piano melody. When the icons fall, add a short descending slide sound and light impact sounds, then shift into a playful pizzicato rhythm.\n\nKeep all movement fluid and expressions lively. Only the three desktop icons on the left may physically interact with Rem or the background. The top menu bar and bottom Dock must remain completely fixed. Preserve the original icon designs, filenames, and text exactly. No new characters. No camera movement, zoom, cuts, or transitions."
+}

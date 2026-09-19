@@ -1,0 +1,31 @@
+{
+  "slug": "a-completely-unnecessary-rescue-operation-followed-494764",
+  "title": {
+    "en": "A completely unnecessary rescue operation followed.",
+    "zh": "A completely unnecessary rescue operation followed."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 animation prompt with attached video evidence from @AllaAisling.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动画提示词。"
+  },
+  "category": "animation",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@AllaAisling",
+    "url": "https://x.com/AllaAisling/status/2095976391120494764"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/AllaAisling/status/2095976391120494764"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/a-completely-unnecessary-rescue-operation-followed-494764/video-53222b9b9b28.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/a-completely-unnecessary-rescue-operation-followed-494764/poster-c16a893a49e3.jpg",
+  "prompt": "Create a 15-second original chaotic action-comedy animation, 16:9.\n\nA normal adult sits on a couch sending a casual text message on a smartphone.\n\n0–3 seconds:\nThe person finishes typing a message and confidently presses SEND.\nThe message launches away.\nA split second later they notice a terrible auto-correct mistake.\nTheir eyes widen.\nImmediate panic.\nThey lunge toward the phone.\nToo late.\n\n3–6 seconds:\nThe digital message visibly races away through a stylized animated communication network.\nThe person dives into pursuit.\nThe living room transforms into an absurd digital action environment.\nFloating keyboards, giant letters, notification symbols, and message pathways fill the world.\n\n6–9 seconds:\nThe person sprints across giant keyboard keys.\nSlides beneath enormous punctuation marks.\nLeaps between floating message bubbles.\nThe mistaken message remains just out of reach.\nIncoming notification sounds trigger visual shockwaves throughout the environment.\n\n9–12 seconds:\nThe person performs one spectacular action-hero jump and finally catches the runaway message.\nThey desperately edit the mistake.\nDelete it.\nComplete victory.\nThe digital world becomes calm.\nThe person smiles with relief.\n\n12–15 seconds:\nA new reply message suddenly appears.\nLarge.\nBright.\nImpossible to ignore.\nIt reads only:\n\"WHAT DID YOU MEAN BY THAT?\"\nThe person's face immediately collapses.\nThe reply multiplies into dozens of identical reply bubbles surrounding them.\nThe person slowly lowers their head in defeat.\n\nCUT TO BLACK.\n\nHigh-energy original 3D animated comedy, cinematic action-adventure parody, expressive character acting, dynamic camera movement, spectacular digital environments, exaggerated visual storytelling, escalating chaos, clear readable comedy, precise timing. The audience should instantly understand the universal panic of sending the wrong message.\n\nNo logos, no recognizable apps, no copyrighted interfaces, no existing brands, no celebrity likenesses, no gore, no horror."
+}

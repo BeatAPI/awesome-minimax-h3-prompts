@@ -1,0 +1,31 @@
+{
+  "slug": "the-results-were-interesting-to-compare-which-one-is-your-101412",
+  "title": {
+    "en": "The results were interesting to compare. Which one is your pick?",
+    "zh": "The results were interesting to compare. Which one is your pick?"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 gameplay prompt with attached video evidence from @AIwithSynthia.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3游戏画面提示词。"
+  },
+  "category": "gameplay",
+  "mode": "reference-to-video",
+  "duration": "15s",
+  "aspectRatio": "535:689",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@AIwithSynthia",
+    "url": "https://x.com/AIwithSynthia/status/2095430202562101412"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/AIwithSynthia/status/2095430202562101412"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/the-results-were-interesting-to-compare-which-one-is-your-101412/video-bf7fd537deec.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/the-results-were-interesting-to-compare-which-one-is-your-101412/poster-b9f551342c4d.jpg",
+  "prompt": "Photorealistic cinematic cozy 1990s-inspired American café, warm wooden interiors, red leather booths, chrome details, vintage coffee machines, large windows, soft morning sunlight, realistic customers, subtle handheld camera texture, rich lived-in detail, natural film grain. Use the provided reference image as the exact character lock for the girl. Preserve her facial identity, eye color, hairstyle, skin texture, body proportions, makeup, and outfit consistency throughout.\n0–4s — [Medium Wide]\nThe girl sits peacefully at a café table enjoying her coffee and a slice of cake. She smiles toward the camera, takes a sip, then stands up to grab a napkin. As she turns, she accidentally bumps into a waiter carrying a large tray of coffees and pastries.\n4–9s — [Dynamic Tracking → Super Slow Motion]\nThe collision sends everything flying. Coffee cups, pastries, whipped cream, spoons, and coffee droplets explode into the air. Suddenly, time freezes completely at the peak of the chaos. Every customer, the waiter, and every flying object remains perfectly suspended.\nOnly the girl can move.\nShe looks around in disbelief, slowly walks through the frozen coffee disaster, picks up one perfectly suspended croissant, looks directly into the camera, and casually takes a bite.\n9–12s — [Smooth Tracking Shot]\nShe calmly walks toward the café exit while eating the croissant. Frozen coffee droplets sparkle in the sunlight around her. She casually fixes her hair and continues walking as if nothing happened.\n12–15s — [Medium Close-Up]\nJust as she reaches the door, time snaps back to normal. Cups crash onto tables, coffee splashes everywhere, pastries hit the floor, and the waiter reacts in shock. She turns toward the camera, raises her eyebrows, gives a tiny guilty smile and shrugs before walking out.\nUltra-realistic coffee and pastry physics, realistic liquid splashes, accurate gravity, believable reactions, precise time-freeze effect, cinematic camera orbit, natural facial expressions, realistic reflections, shallow depth of field, warm cinematic lighting, subtle film grain, movie-level temporal coherence, 4K HDR, 24fps, 16 9\nNegative Prompt: No subtitles, captions, logos, watermarks, duplicate people, distorted anatomy, extra fingers, facial changes, inconsistent outfit, flickering, cartoon style, unrealistic physics, floating objects outside the intentional freeze sequence, AI artifacts."
+}

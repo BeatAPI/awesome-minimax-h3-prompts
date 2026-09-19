@@ -1,0 +1,31 @@
+{
+  "slug": "english-chinese-japanese-korean-857840",
+  "title": {
+    "en": "🇬🇧 English ➔ 🇨🇳 Chinese ➔ 🇯🇵 Japanese ➔ 🇰🇷 Korean",
+    "zh": "🇬🇧 English ➔ 🇨🇳 Chinese ➔ 🇯🇵 Japanese ➔ 🇰🇷 Korean"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @Tomw852.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "32s",
+  "aspectRatio": "9:5",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Tomw852",
+    "url": "https://x.com/Tomw852/status/2096276754230857840"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/Tomw852/status/2096276754230857840"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/english-chinese-japanese-korean-857840/video-b11afa4b79b7.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/english-chinese-japanese-korean-857840/poster-c576ecdef66e.jpg",
+  "prompt": "#MiniMaxH3 on 5070 12GB, Native Stage-1 Test: Multilingual Audio-Visual Benchmark (EN / CN / JA / KO)\n(Model download links + full prompt in replies 👇)\n\nA 100% raw generation stress test using the exact same workflow as my last video: No Stage-2 upscaling, zero audio noise reduction / EQ, zero post-processing audio editing\n\nMassive shoutout to the open-source community creators: TenStrip (original 10Eros series creator) and cicalooo (INT8 ConvRot quantization) for their incredible contributions!\n\nCore Audio Generation Setup:\n• Backbone: 10Eros Max H3 Turbo Hybrid\n• Text Encoder: Qwen-3VL 32B\n• Audio VAE: Official FP32 Audio VAE (zero quantization loss)\n• Pipeline: Single-pass 8-step Turbo inference (NOT bolted-on TTS + lip-sync)\n\nVideo showcases in sequence:\n🇬🇧 English ➔ 🇨🇳 Chinese ➔ 🇯🇵 Japanese ➔ 🇰🇷 Korean"
+}

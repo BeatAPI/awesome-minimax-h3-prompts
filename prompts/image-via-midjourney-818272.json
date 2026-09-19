@@ -1,0 +1,31 @@
+{
+  "slug": "image-via-midjourney-818272",
+  "title": {
+    "en": "// Image via Midjourney",
+    "zh": "// Image via Midjourney"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 product commercial prompt with attached video evidence from @ai_artworkgen.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+  },
+  "category": "product-commercial",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ai_artworkgen",
+    "url": "https://x.com/ai_artworkgen/status/2098415995408818272"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/ai_artworkgen/status/2098415995408818272"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/image-via-midjourney-818272/video-50578e52d443.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/image-via-midjourney-818272/poster-78753f853af0.jpg",
+  "prompt": "Reference [@]Image1 for accurate face and mouth. use [@]Audio1 exactly for the voice.  He laments angrily with a negative attitude about skincare products; we see him ranting about how his skin is just fine, while the camera follows his mouth and tight-close-up on the face in one shot:\n\n[0s] CUT - DIRTY CLOSE-UP  [2s] CUT - CLOSE-UP [3s] CUT - EXTREME CLOSE-UP ON MOUTH [4s] CUT - DIRTY CLOSE-UP [6s] CUT - EXTREME CLOSE-UP ON MOUTH  [7s] CUT - EXTREME CLOSE-UP [9s] CUT - DIRTY CLOSE-UP [12s] CUT - EXTREME CLOSE-UP [13s] CUT - CLOSE-UP ON EYES\n\np.s. I used an audio sample of me talking in a 'scary' voice for the reference!"
+}

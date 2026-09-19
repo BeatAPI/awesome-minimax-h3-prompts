@@ -1,0 +1,31 @@
+{
+  "slug": "so-naturally-we-tested-it-with-a-tribal-princess-one-693578",
+  "title": {
+    "en": "So naturally, we tested it with a tribal princess, one giant python, and absolute chaos. 🐍😭",
+    "zh": "So naturally, we tested it with a tribal princess, one giant python, and absolute chaos. 🐍😭"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 animation prompt with attached video evidence from @ImaStudio_ai.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动画提示词。"
+  },
+  "category": "animation",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ImaStudio_ai",
+    "url": "https://x.com/ImaStudio_ai/status/2095459819184693578"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/ImaStudio_ai/status/2095459819184693578"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/so-naturally-we-tested-it-with-a-tribal-princess-one-693578/video-da596ccc5f8a.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/so-naturally-we-tested-it-with-a-tribal-princess-one-693578/poster-afd0aab24349.jpg",
+  "prompt": "Create a 15-second, 16:9, 24fps premium hand-drawn 2D fantasy tribal comedy.\nSTORY:\nA beautiful young Antelope High Priestess Princess calmly patrols a bright tropical tribal village. She hears rustling behind her, turns, and discovers ONE enormous colorful python. She tries to stay dignified, makes eye contact with it, instantly panics, and runs away. While escaping, she brushes hanging vines and accidentally startles a small flock of tropical birds, turning the elegant scene into colorful chaos.\nEMOTION:\nREGAL → SUSPICIOUS → SHOCK → PANIC → RUN → CHAOS.\nSTYLE:\nPremium animated feature-film quality, clean hand-drawn outlines, soft cel shading, vivid high-saturation colors.\nPalette: deep peacock blue + cyan + sky blue environment, golden tribal architecture, small pink accents, white + turquoise + gold princess.\nNo photorealism, no 3D CGI, no dark or muddy grading.\nCHARACTER:\nExactly ONE princess throughout.\nDeep brown skin, long thin black braids, gold antelope headdress with EXACTLY TWO curved horns, turquoise forehead gem, white one-shoulder dress, peacock-blue belt, gold/turquoise jewelry.\nShe always carries the SAME ceremonial staff with circular top, turquoise crystal and white feather.\nNo face, costume, hairstyle, horn or staff changes.\nENVIRONMENT:\nSimple tropical tribal village:\nwhite waterfall in background,\ngolden thatched hut and cyan/gold totem on left,\ncyan/gold temple with animal skull on right,\nlarge blue tropical leaves in foreground.\nTIMELINE:\n0–3s: Princess stands calm and majestic. Slow push-in. She hears rustling behind her.\n3–5s: She slowly turns, confused and alert.\n5–7s: ONE turquoise-green/yellow python rises from vegetation BEHIND her.\n7–8.5s: Princess foreground, python background. Eye contact. Brief comedy freeze.\n8.5–10s: Reaction close-up. Her regal expression collapses into adorable panic. She spins and runs.\n10–12s: Continuous LEFT → RIGHT side-tracking chase. Princess always ahead; python remains 2–4 meters behind.\n12–13s: She brushes hanging vines. 6–10 colorful birds burst upward.\n13–15s: Princess keeps running right, python behind, birds scattering upward. She ducks, nearly trips, recovers, looks at snake then birds in total disbelief. Princess exits right first, python shortly after.\nSTRICT:\nPrincess always in front, python always behind.\nNo overtaking, no side-by-side snake, no direction reversal, no teleportation, no extra humans, no duplicate princess, no second snake, no attack, bite, blood or horror.\nBirds are startled only; they do not attack or chase.\nABSOLUTELY NO text, subtitles, logos, labels, numbers, UI, watermarks or readable writing.\nFinal look: beautiful mysterious first half → fast colorful comedic second half.\n\n#MiniMaxH3Max #MiniMaxH3 #AIVideo #AIAnimation #ImaStudio"
+}

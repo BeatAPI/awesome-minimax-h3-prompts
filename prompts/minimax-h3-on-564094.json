@@ -1,0 +1,31 @@
+{
+  "slug": "minimax-h3-on-564094",
+  "title": {
+    "en": "MiniMax H3 on",
+    "zh": "MiniMax H3 on"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @itxabdullaa.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+  },
+  "category": "music-video",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@itxabdullaa",
+    "url": "https://x.com/itxabdullaa/status/2101269716568564094"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/itxabdullaa/status/2101269716568564094"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-on-564094/video-c85fe826a8ec.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-on-564094/poster-de3eb6c44669.jpg",
+  "prompt": "15s | 16:9 | One Continuous Take | Korean Dialogue Only | No BGM/Subtitles\n\nUltra-photorealistic live-action supernatural martial-arts thriller. So-Yeon (same actress throughout): 160cm, messy black hair covering eyes, black hoodie, gray sweatpants, Converse. Real human actors, real locations, practical VFX only.\n\nLocation: Rain-soaked Korean alley behind a night market. Food cart, scooters, crates, puddles, shutters, signs, cardboard boxes.\n\nCombat Style: Unarmed only. Sanda + Muay Thai clinch + Silat. Fast, messy, close-quarters fighting. Multiple attackers, realistic collisions, no poses or theatrical choreography.\n\nFault-Line Physics: Strength remains physical and grounded. Heavy impacts create realistic cracks from exact contact points: impact → vibration → cracks → dust/water movement → debris settling. No glow, energy effects, shockwaves, teleportation, or magic visuals.\n\n0–3s — Blocked Alley\n\nSo-Yeon walks carrying a small plastic bag. Seven thugs block the alley. A delivery rider tries to pass. The leader shoves the scooter aside:\n\n\"꺼져.\"\n\nSo-Yeon steps forward:\n\n\"그 사람 건드리지 마.\"\n\nThe leader grabs her shoulder.\n\n3–7s — First Collision\n\nShe counters instantly: wrist control → knee → elbow → throw. He crashes into stacked crates. Her sneaker lands in a puddle; thin cracks spread through the pavement. Everyone freezes.\n\nA thug yells:\n\n\"다 같이 가!\"\n\nAll six rush her.\n\n7–11s — Market Chaos\n\nShe ducks a punch that hits a metal shutter, redirects attackers into each other, throws one into a food cart, and sweeps another. The delivery rider pulls the elderly shop owner out of danger. Brief 0.2s micro slow-motion on a heavy impact as cracks spread through wet pavement before returning to real time.\n\n11–15s — Human Moment\n\nThe last two attackers collide into a concrete wall, creating a deep crack. Silence.\n\nThe rider asks:\n\n\"누나... 괜찮아요?\"\n\nSo-Yeon looks at her trembling hands. The elderly shop owner returns her dropped plastic bag:\n\n\"이거.\"\n\nShe accepts it with a small embarrassed bow. The damaged cart slowly rolls in the background.\n\nCUT TO BLACK.\n\nCamera: Reactive handheld documentary style, tight dialogue close-ups, sudden reframing during action, natural autofocus hunting, realistic motion blur, impact shake, authentic human reactions. No superhero poses, no exaggerated expressions, no CGI doubles. Focus equally on civilians, environment, and grounded physical combat."
+}

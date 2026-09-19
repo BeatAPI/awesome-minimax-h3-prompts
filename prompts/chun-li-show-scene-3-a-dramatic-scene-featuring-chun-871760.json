@@ -1,0 +1,31 @@
+{
+  "slug": "chun-li-show-scene-3-a-dramatic-scene-featuring-chun-871760",
+  "title": {
+    "en": "🥋“Chun-Li Show, Scene 3-A dramatic scene featuring Chun-Li”",
+    "zh": "🥋“Chun-Li Show, Scene 3-A dramatic scene featuring Chun-Li”"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 action prompt with attached video evidence from @ou_zhen599.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动作提示词。"
+  },
+  "category": "action",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ou_zhen599",
+    "url": "https://x.com/ou_zhen599/status/2094322714739871760"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/ou_zhen599/status/2094322714739871760"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/chun-li-show-scene-3-a-dramatic-scene-featuring-chun-871760/video-b8a2269f0110.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/chun-li-show-scene-3-a-dramatic-scene-featuring-chun-871760/poster-91f4772cc0b4.jpg",
+  "prompt": "For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.\n\nintegrated_multimodal_description: [Shot 1] Live-action, cinematic realism, post-fight intimacy. Chun-Li fully matches <Picture 1>: same face, hair buns, white ribbons, battle-worn blue qipao-style outfit, wrist guards, white boots, seated pose, smoky arena environment, clothing damage, body proportions, and controlled intensity. The first frame must begin exactly from the seated posture in <Picture 1>, with no pose reset. IMAX 70mm film grain, Nolan-inspired cinematic realism, photorealistic natural palette with charcoal black, umber, dark ochre, ash gray, and pale amber interwoven. Low-angle medium close-up, very slow physical push-in, no cut during the first emotional phase. Chun-Li sits wide and grounded with both hands on her waist. The off-screen interviewer, a mature calm warm woman (S1), says in an off-screen voiceover: <d>[English] Do you still miss your father?</d> Chun-Li does not answer immediately. Her breath catches, one hand slowly drops from her waist to her thigh or the floor, one knee subtly draws inward, her chin dips, her gaze lowers, and her jaw tightens before she finally answers. Chun-Li (S2), low, quiet, controlled, says: <d>[English] Every day.</d> [Shot 2] At 00:07.000, the shot cuts softly to a tighter medium close-up. Chun-Li steadies herself with one hand on her thigh or forearm, leans forward slightly, and says: <d>[English] I still hear him when I fight.</d> [Shot 3] At 00:11.000, the shot cuts softly to a slightly wider medium close-up. Chun-Li slowly straightens, brings one hand higher again, resets her shoulders, firms her jaw, lifts her eyes with quiet resolve, and says: <d>[English] I carry him with me.</d> Only Chun-Li is visible. The interviewer never appears. No melodrama, no exaggerated crying, no glamour posing. End on regained stillness, not collapse.\n\noverall_soundscape: Faint smoke movement, subtle room tone, soft distant arena hush, light fabric rustle, subtle boot shift, and quiet breath.\n\nnon_diegetic_music: Very restrained low strings and sparse piano at a slow tempo, mixed gently under the natural ambience."
+}

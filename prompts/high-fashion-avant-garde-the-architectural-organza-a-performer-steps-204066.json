@@ -1,0 +1,31 @@
+{
+  "slug": "high-fashion-avant-garde-the-architectural-organza-a-performer-steps-204066",
+  "title": {
+    "en": "High-Fashion Avant-Garde (The Architectural Organza) A performer steps into a",
+    "zh": "High-Fashion Avant-Garde (The Architectural Organza) A performer steps into a"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 fashion prompt with attached video evidence from @PCasino73066.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3时尚提示词。"
+  },
+  "category": "fashion",
+  "mode": "text-to-video",
+  "duration": "10s",
+  "aspectRatio": "2:3",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@PCasino73066",
+    "url": "https://x.com/PCasino73066/status/2099734057609204066"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/PCasino73066/status/2099734057609204066"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/high-fashion-avant-garde-the-architectural-organza-a-performer-steps-204066/video-462540f7feaa.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/high-fashion-avant-garde-the-architectural-organza-a-performer-steps-204066/poster-0ed0975cf82f.jpg",
+  "prompt": "High-Fashion Avant-Garde (The Architectural Organza) A performer steps into a sharp, structural spotlight. Their attire instantly transforms into thousands of rigid, micro-pleated charcoal fabric layers. The material expands outward into a high-fashion gown with exaggerated geometric angles that mimic modern skyscrapers."
+}

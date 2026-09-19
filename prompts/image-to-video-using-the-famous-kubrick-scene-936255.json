@@ -1,0 +1,31 @@
+{
+  "slug": "image-to-video-using-the-famous-kubrick-scene-936255",
+  "title": {
+    "en": "Image-to-Video using the famous Kubrick scene.",
+    "zh": "Image-to-Video using the famous Kubrick scene."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @cocktailpeanut.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "reference-to-video",
+  "duration": "14s",
+  "aspectRatio": "17:11",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@cocktailpeanut",
+    "url": "https://x.com/cocktailpeanut/status/2091233403353936255"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/cocktailpeanut/status/2091233403353936255"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/image-to-video-using-the-famous-kubrick-scene-936255/video-3b7bd47bb2f7.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/image-to-video-using-the-famous-kubrick-scene-936255/poster-5e57f01861d9.jpg",
+  "prompt": "Use the reference image as the exact first frame, keep the same uncanny prehistoric sci-fi look, keep the black server monolith there and keep the apes there, the camera is handheld and low like a nervous witness hiding among them, move slowly toward the monolith as the apes circle it and start making a bigger scene, then one ape slams both hands on it and the whole thing wakes up in a way that feels way too powerful, as the camera rushes closer the black grid starts glowing from inside and weird light leaks through it, autofocus breathes and slips and catches again while the apes lose their minds and start screaming and jumping and running past the lens, then the monolith opens or unfolds or does something impossible and the camera gets pulled forward into whatever is happening next, as we move around it the desert starts changing fast, rocks splitting open, giant metal structures rising out of the ground, dust storms mixing with sparks and fog and strange debris, then the apes start evolving or mutating or turning into something else while still running around, and the camera keeps chasing the next insane thing it sees, then somehow there’s a huge moon hanging way too low, then a broken skyline in the distance, then a river of glowing data or fire or whatever, while the camera just keeps pushing through like one continuous shot and never cuts, handheld shakes, accidental zooms, blur, focus hunting, moments where the lens gets too close to fur or rock or the monolith surface, then things go fully off the rails and the whole world starts feeling like the birth of civilization and the end of civilization at the same time, keep it messy and escalating and dreamlike, don’t over-explain, just keep discovering crazier stuff as the camera moves, you know what I mean, just make it"
+}

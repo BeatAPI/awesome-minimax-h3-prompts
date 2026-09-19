@@ -1,0 +1,31 @@
+{
+  "slug": "here-are-the-results-below-878412",
+  "title": {
+    "en": "Here are the results below",
+    "zh": "Here are the results below"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 fashion prompt with attached video evidence from @IqrasaifiAI.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3时尚提示词。"
+  },
+  "category": "fashion",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "540:811",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@IqrasaifiAI",
+    "url": "https://x.com/IqrasaifiAI/status/2097314274095878412"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/IqrasaifiAI/status/2097314274095878412"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/here-are-the-results-below-878412/video-f86aa209a99b.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/here-are-the-results-below-878412/poster-785339fda00a.jpg",
+  "prompt": "subject_definitions: <Subject 1> is the stylized sorceress in <Picture 1>, featuring an asymmetrical silver-white bob cut, violet star-ring eyes, an obsidian moon pendant, a high-collared velvet coat with embroidered gold constellations, and a thin gold rimless monocle over her left eye. Preserve her exact facial identity, celestial wardrobe, hair silhouette, monocle placement, body proportions, and semi-realistic stylized 3D CG aesthetic. summary: [reference generation] This is one complete 15-second, 16:9, 2K CELESTIAL NOIR character PV centered on <Subject 1>. Fourteen uneven visual beats transition from quiet astrological observation into dynamic spell-casting visuals, geometric celestial rings, and a final portrait freeze. The color palette centers on midnight navy and obsidian black, highlighted by bright violet eye emissives, shimmering metallic gold, and moonlit ivory. retention_analysis: <Subject 1> (appears in [Shot 1] through [Shot 14]): fully_preserved - maintain exact face structure, silver-white asymmetrical hair, violet star-patterned eyes, moon pendant, monocle, constellation-embroidered coat, proportions, and stylized 3D lighting in every frame. detailed_description: The target video uses an editorial gothic-astronomy PV style with sharp cell-shaded textures and metallic particle systems. The background consists of abstract, moving star charts and geometric celestial spheres free of real-world brands, copied faces, or source-image text. [Shot 1] A centered bust shot introduces <Subject 1>. She looks down toward a hovering golden astrolabe while the exact title \"CELESTIAL TIDE\" rises behind her in gold serif typography. [Shot 2] At 00:00.650, a geometric circle aligns with her monocle lens, zooming into an extreme close-up of her left violet eye as star-shaped pupil patterns rotate. [Shot 3] At 00:01.300, she taps the monocle frame with her gloved forefinger. The camera arcs smoothly left while a shimmering gold constellation line connects to the edge of the frame. [Shot 4] At 00:02.100, the constellation line snaps into the graphic label \"PHASE_01\". The camera tilts down as her obsidian moon pendant releases a soft purple pulse. [Shot 5] At 00:02.900, she spreads her velvet coat sleeves in a wide horizontal gesture. The frame cuts instantly to a dark midnight field while her sweeping motion carries the camera horizontally. [Shot 6] At 00:03.700, a vertical black bar reveals her in profile. She turns her head toward the camera, her asymmetrical hair swaying with natural momentum as a golden moon-phase graphic appears behind her silhouette. [Shot 7] At 00:04.600, a three-panel vertical split breaks her gaze, her pendant, and the astrolabe into distinct close-ups that slide downward in unison. [Shot 8] At 00:05.500, the panels collapse outward as she snaps her fingers. Concentric violet magic rings expand across the frame alongside the exact label \"PHASE_02\". [Shot 9] At 00:06.400, the camera pushes through the innermost ring directly toward her face, punctuated by a two-frame golden lens flare. [Shot 10] At 00:07.300, the flare clears into a dynamic medium shot at a steep low angle. Golden starlight trails follow her arm as she draws an arc in the air. [Shot 11] At 00:08.300, the drawn arc turns into a full eclipse frame. The camera follows her coat sleeve dragging upward across the frame to wipe the scene. [Shot 12] At 00:09.400, a side-by-side dual panel pairs her focused expression with a close-up of her monocle reflecting golden star charts. [Shot 13] At 00:10.600, the dual panels merge into a tracking shot where she steps directly toward the camera, her hair floating gently in low gravity as \"CELESTIAL\" drifts behind her. [Shot 14] At 00:12.500, she brings a hand up to rest near her collarbone, looking serenely into the lens as the title locks into \"CELESTIAL TIDE\" for the final 2.5 seconds. Across all shots, preserve her exact face, eye color, hairstyle, monocle, coat, pendant, skin tone, and proportions. Do not include extra characters, random logos, unreadable text, or altered clothing. Only display \"CELESTIAL TIDE\", \"PHASE_01\", and \"PHASE_02\". Keep her facial features and key hand gestures unobscured. overall_soundscape: Deep cosmic wind resonance remains underneath metallic astrolabe clicks, velvet fabric rustles, a finger snap at 00:05.500, and a low gong impact for the final title lock at 00:12.500. Sound effects are subtle and secondary to the music score; no spoken voice lines are present. non_diegetic_music: A 120 BPM gothic electro-orchestral piece featuring harpsichord arpeggios, heavy cinematic sub-bass, and a haunting violoncello melody in D minor. Drums enter at 00:02.900, soaring strings peak at 00:07.300, and a bell toll resolves beneath the closing title card."
+}

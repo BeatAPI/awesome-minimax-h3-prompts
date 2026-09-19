@@ -1,0 +1,31 @@
+{
+  "slug": "minimax-hailuo-h3-max-on-620144",
+  "title": {
+    "en": "MiniMax Hailuo H3 Max on",
+    "zh": "MiniMax Hailuo H3 Max on"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 horror prompt with attached video evidence from @bmx_ai13.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3恐怖提示词。"
+  },
+  "category": "horror",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "7:4",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@bmx_ai13",
+    "url": "https://x.com/bmx_ai13/status/2097213092954620144"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/bmx_ai13/status/2097213092954620144"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-hailuo-h3-max-on-620144/video-0479e1e47a6a.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-hailuo-h3-max-on-620144/poster-bea05f14e385.jpg",
+  "prompt": "1 continuous shot. Total duration 15 seconds, no cuts. Normal speed, strictly objective and smooth camera.\n\nCAPTURE CADENCE  CRITICAL: captured natively at 24fps, strict 16:9 aspect ratio, IMAX film look, deep cinematic contrast, pure practical lighting. NO ON-SCREEN TEXT.\n\nTHE 2-SECOND HOOK (0.0 to 2.0s): Extreme close-up of a warm, glowing, 8mm vintage film projection showing a smiling man in a sunlit park. The image is bright and nostalgic. Suddenly, the camera shifts an inch to the side, revealing that this beautiful memory is being projected directly onto the terrifying, pale, scarred face of a silver-eyed infected. The infected is standing dead still, mesmerized by the light.\n\nSEQUENCE (2.0s to 15.0s): The camera pulls back slowly and smoothly in a wide 16:9 dolly out movement to reveal the dark, ruined interior of an abandoned theater. The Subject Lock  a young, slim female survivor with fair skin, wearing a dusty, torn modern navy blue dress  stands a few feet away. She is holding a heavy, battery-powered vintage film projector, aiming the beam directly at the infected (who is clearly her transformed loved one). Tears are streaming down her clean face, her hands trembling under the weight of the projector, but she holds it steady, keeping him pacified with the memory.\n\nWorld Plate: Pitch black room, the only light source is the harsh, flickering beam of the projector cutting through heavy atmospheric dust, creating stark, emotional shadows.\n\nCamera Rule: Smooth, emotional dolly out. Real tear physics on the woman's face, highly detailed skin textures, pure practical projection light interaction with the infected's skin, no CGI look, completely photorealistic.\n\n (Sound Design & Music):[0.0s - 2.0s]: The warm, nostalgic, mechanical ticking and whirring sound of an old 8mm film projector. A faint, distant sound of a man laughing.\n[2.0s - 10.0s]: A deeply emotional, singular Hans Zimmer-style church organ chord begins to swell, incredibly sad and heavy. Beneath it, the terrifying, raspy, irregular breathing of the infected, contrasting with the beautiful music. The mechanical whir of the projector remains constant.\n[10.0s - 15.0s]: The woman lets out a single, quiet, trembling gasp of air (trying to hold back a sob). The beautiful organ chord slowly distorts and bends out of tune, swallowed by a dark, looming cinematic sub-bass rumble as the reality of the tragedy sets in. Fade to silence on the final frame."
+}

@@ -59,7 +59,87 @@ image1の細く淡い青灰色と暖灰色の線、透明感のある二層以�
 
 ---
 
-## 2. The Downhill Slingshot 🏎️💨
+## 2. Use the reference image as the exact first frame. 16:9, locked-off camera, one
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/use-the-reference-image-as-the-exact-first-frame-16-557922/video-6cd0782c8ee0.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/use-the-reference-image-as-the-exact-first-frame-16-557922/poster-0c096f993831.jpg" alt="Use the reference image as the exact first frame. 16:9, locked-off camera, one video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Use the reference image as the exact first frame. 16:9, locked-off camera, one continuous take. Preserve Rem’s face, short blue hair, black-and-white maid outfit, and original...</summary>
+
+~~~~text
+Use the reference image as the exact first frame. 16:9, locked-off camera, one continuous take. Preserve Rem’s face, short blue hair, black-and-white maid outfit, and original anime art style consistently throughout. Keep the desktop layout and Japanese menu bar unchanged.
+
+0–2s: Rem stands on the right, happily swaying gently from side to side while lifting the edges of her skirt slightly with both hands. As she turns, the hem accidentally catches the blue-purple desktop background. The background reacts like a soft fabric curtain, sending a horizontal ripple across the screen. The two folders and one screenshot icon on the left wobble, slide downward, fall to the bottom edge of the screen, and make a small playful bounce on impact.
+
+2–3s: Rem immediately freezes. Her eyes widen and she quickly covers her mouth with both hands, staring in surprise at the fallen icons.
+
+3–6s: She hurriedly leans toward the left and reaches out with both hands. She scoops up all three icons together and quickly pushes them back toward their original positions on the left. The icons behave like thin, lightweight magnetic tiles, snapping back onto the desktop surface. Two of them end up slightly crooked. Rem has no time to straighten them and quickly pulls her hands back.
+
+6–8s: Rem returns to her original position on the right, folds her hands neatly in front of her, and tries to put on an innocent, nothing-happened smile. Her eyes secretly glance toward the two crooked icons on the left. The tips of her hair, hair ribbon, and skirt hem move gently in a light breeze. The desktop background settles completely, while the two icons remain slightly tilted for a subtle comedic ending.
+
+The background music begins with a light, cute Japanese-style piano melody. When the icons fall, add a short descending slide sound and light impact sounds, then shift into a playful pizzicato rhythm.
+
+Keep all movement fluid and expressions lively. Only the three desktop icons on the left may physically interact with Rem or the background. The top menu bar and bottom Dock must remain completely fixed. Preserve the original icon designs, filenames, and text exactly. No new characters. No camera movement, zoom, cuts, or transitions.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/use-the-reference-image-as-the-exact-first-frame-16-557922/video-6cd0782c8ee0.webm)
+
+**Source:** [@Mayz1169](https://x.com/Mayz1169/status/2100932191316557922) · 8s · 16:9 · anime
+
+---
+
+## 3. Itried it with my own profile interfact using Minimax H3 on
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/itried-it-with-my-own-profile-interfact-using-minimax-h3-049468/video-731f70c5405f.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/itried-it-with-my-own-profile-interfact-using-minimax-h3-049468/poster-08d300427b7f.jpg" alt="Itried it with my own profile interfact using Minimax H3 on video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — A 15-second vertical 9:16 anime short. Soft clean 2D anime illustration style, kawaii character design, smooth motion, white background with a real X/Twitter profile UI as the...</summary>
+
+~~~~text
+A 15-second vertical 9:16 anime short. Soft clean 2D anime illustration style, kawaii character design, smooth motion, white background with a real X/Twitter profile UI as the stage.
+
+Character
+
+girl @Image  based on the profile photo: long wavy blonde hair, light makeup, gold necklace, pretty face, large eyes, small smile. She starts as a small circular live-action-style avatar, then becomes a full-body anime character standing on the phone screen. Outfit after she pops out: white baseball cap slightly tilted, oversized light-grey hoodie, black shorts, white crew socks, white sneakers. Slightly petite proportions.
+
+Setting / UI layer
+
+Sharon Riley’s X profile stays visible at first:
+
+cream “Collaborations” banner with a smiling blonde woman in a white shirt and the email marketing6415@gmail.com; circular avatar of Sharon; display name Sharon Riley with blue check; handle @Just_sharon7; “256.3K posts”; Follow / message / notification buttons; bio “Into AI- DM for paid partnership.” plus email; blue CPP line “@Roboneo_ai, @Higgsfield, @capcutapp, @tapnow_ai, @openart_ai”; Entertainment & Recreation, DM for promo, Instagram link, Born July 25, Joined April 2022; 10.8K Following · 47.5K Followers; Posts tab selected; pinned post about AGIBOT WORLD 2026 / robot RL dataset, with a dark quote card underneath. Bottom X tab bar stays throughout. A yellow circular “+” button stays in the lower right.
+
+Shot-by-shot action
+
+0–2s: Tiny avatar girl sits inside the circular profile picture, then curls up hugging her knees. She pops out of the circle and grows to full body, stretching one arm out in a cheerful pose over the profile text.
+
+2–6s: She stands on the profile, cycling through cute idle poses — casual stance, hands clasped at her chest, lifting a small object, glancing aside. Name, bio, follower counts, and pinned post remain behind her.
+
+6–9s: A long wooden broom appears in her hands. She sweeps left to right. White dust/particles fly. As she sweeps, the display name, bio, buttons, stats, and pinned post wipe away, leaving mostly blank white space. Banner, empty orange/avatar circle, and bottom nav remain.
+
+9–11s: She plants the broom beside her, puts both hands in the hoodie pocket, looks down shyly. Then she turns her back to camera, pulls out a thick black marker, and raises it.
+
+11–14s: Handwritten black text appears as she writes across the empty white screen: “The prank was a success!” She turns back toward camera, marker in one hand, standing on the broom, smiling at the viewer.
+
+Look & motion
+
+Soft studio lighting, no harsh shadows. Clean line art, muted pastel colors, slight paper texture. Smooth frame-by-frame animation, playful timing, no camera shake. Keep the X UI sharp and readable until it is swept away. End on a still of the girl, the handwritten punchline, the leftover Collaborations banner, and the yellow + button.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/itried-it-with-my-own-profile-interfact-using-minimax-h3-049468/video-731f70c5405f.webm)
+
+**Source:** [@Just_sharon7](https://x.com/Just_sharon7/status/2095915218652049468) · 15s · 9:16 · anime
+
+---
+
+## 4. The Downhill Slingshot 🏎️💨
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/the-downhill-slingshot-698388/video-460ca4f77a31.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/the-downhill-slingshot-698388/poster-761ffa9438e1.jpg" alt="The Downhill Slingshot 🏎️💨 video preview" width="700" />
@@ -129,7 +209,7 @@ Final output:
 
 ---
 
-## 3. Anime Film Study 135392
+## 5. Anime Film Study 135392
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-character-introduction-focused-on-pres-135392/video-a5403f903f53.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-character-introduction-focused-on-pres-135392/poster-16737aaf3f80.jpg" alt="Anime Film Study 135392 video preview" width="700" />
@@ -173,7 +253,7 @@ Place the character in a fitting environment that supports their identity and mo
 
 ---
 
-## 4. Anime Film Study 575169
+## 6. Anime Film Study 575169
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/player-stats-ui-animation-with-gpt-image-2-and-575169/video-684a93323721.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/player-stats-ui-animation-with-gpt-image-2-and-575169/poster-4aaa4f5eebd0.jpg" alt="Anime Film Study 575169 video preview" width="700" />
@@ -209,7 +289,7 @@ Audio: low electronic boot hum, delicate scanning ticks, short confirmation tone
 
 ---
 
-## 5. Bond-style spy-thriller op-art anime title sequence
+## 7. Bond-style spy-thriller op-art anime title sequence
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/bond-style-spy-thriller-op-art-anime-title-seque-295024/video-d1f8c9968b69.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/bond-style-spy-thriller-op-art-anime-title-seque-295024/poster-95af26b8a77f.jpg" alt="Bond-style spy-thriller op-art anime title sequence video preview" width="700" />
@@ -240,7 +320,7 @@ ENDING: On the final hit, freeze the character in full black silhouette at cente
 
 ---
 
-## 6. Anime Film Study 935100
+## 8. Anime Film Study 935100
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/spaghetti-western-pulp-anime-title-sequence-wher-935100/video-840540ee62cd.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/spaghetti-western-pulp-anime-title-sequence-wher-935100/poster-93ff3e121409.jpg" alt="Anime Film Study 935100 video preview" width="700" />
@@ -264,7 +344,7 @@ Apply heavy 35mm film grain, scratches, dust, gate weave, cigarette burns, and s
 
 ---
 
-## 7. 週刊アニメ＆MVプロンプト Vol.28
+## 9. 週刊アニメ＆MVプロンプト Vol.28
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/mv-vol-28-247434/video-186b17aeb97a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/mv-vol-28-247434/poster-296ddda94eb7.jpg" alt="週刊アニメ＆MVプロンプト Vol.28 video preview" width="700" />
@@ -313,7 +393,7 @@ Image2の黒紺を基調にした高密度ゴシック衣装を維持する。�
 
 ---
 
-## 8. An other example of poster animation and honestly I can't
+## 10. An other example of poster animation and honestly I can't
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/an-other-example-of-poster-animation-and-honestl-483220/video-259ed38a3f3a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/an-other-example-of-poster-animation-and-honestl-483220/poster-490dc389290b.jpg" alt="An other example of poster animation and honestly I can't video preview" width="700" />
@@ -340,7 +420,7 @@ Reveal the Japanese title with a bold elastic impact, followed by the English la
 
 ---
 
-## 9. Luna is back! now that I can render text beautifully
+## 11. Luna is back! now that I can render text beautifully
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/luna-is-back-now-that-i-can-render-text-beautifu-328598/video-51f0bf1b686f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/luna-is-back-now-that-i-can-render-text-beautifu-328598/poster-d8585f0637c1.jpg" alt="Luna is back! now that I can render text beautifully video preview" width="700" />
@@ -387,7 +467,152 @@ Audio mix: 0–2s card is silent except one soft chime. @Audio1voice begins only
 
 ---
 
-## 10. 使用画像はリプ欄にあります
+## 12. (created using on )
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-using-on-394071/video-eac1c4f8f180.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-using-on-394071/poster-00aad2fc2cf7.jpg" alt="(created using on ) video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — 😺👇 Video Prompt（15秒｜精緻日本2D動畫電影風格｜英文對話） 風格設定： 精緻日本2D動畫電影風格，細膩手繪人物，高品質賽璐珞動畫質感，電影級柔光渲染，唯美夕陽逆光，柔和景深，髮絲與衣物自然飄動。整體前半段是可愛戀愛喜劇氛圍，中段加入意外驚險感，後半段轉為浪漫心動戲劇場面。強調眼神、停頓、微表情與角色之間的距離變化。 BGM：...</summary>
+
+~~~~text
+😺👇
+
+Video Prompt（15秒｜精緻日本2D動畫電影風格｜英文對話）
+
+風格設定：
+
+精緻日本2D動畫電影風格，細膩手繪人物，高品質賽璐珞動畫質感，電影級柔光渲染，唯美夕陽逆光，柔和景深，髮絲與衣物自然飄動。整體前半段是可愛戀愛喜劇氛圍，中段加入意外驚險感，後半段轉為浪漫心動戲劇場面。強調眼神、停頓、微表情與角色之間的距離變化。
+
+BGM：
+
+開場為輕快浪漫鋼琴與鐘琴，營造可愛動畫感；逗貓棒互動時加入俏皮弦樂；跌倒瞬間加入戲劇化交響樂與心跳節奏；最後轉為溫柔鋼琴與弦樂，營造戀愛動畫高潮。
+
+角色設定：
+
+霸道總裁：30歲，俊朗成熟，黑色短髮，深灰色高級西裝，冷峻沉穩，表面冷淡但眼神逐漸流露溫柔。
+
+白貓女秘書：24歲，長黑髮，白色貓耳、白色貓尾飾品，粉紅色優雅職場套裝搭配短裙，甜美、害羞、帶有白貓般靈動氣質。
+
+0–2秒
+
+鏡頭從女秘書粉紅色套裝細節開始。
+
+鏡頭緩慢向上移動，經過白色貓尾與白色貓耳，最後停在她無辜又緊張的臉。
+
+她站在辦公桌旁，雙手輕輕交握。
+
+切換霸總特寫。
+
+霸總坐在辦公桌後，神情冷酷，目光銳利。
+
+女秘書小聲：
+
+"Are you still mad at me?"
+
+2–5秒
+
+霸總沒有回答。
+
+他冷靜站起，打開抽屜，拿出精緻羽毛逗貓棒。
+
+女秘書看到後露出驚訝表情，耳朵微微紅。
+
+霸總走近，輕輕晃動羽毛。
+
+霸總：
+
+"You know what happens next."
+
+女秘書忍住笑意，移開視線。
+
+5–8秒
+
+羽毛在她眼前左右飄動。
+
+她努力保持冷靜，但視線不自覺追隨。
+
+鏡頭切換到玻璃隔間外。
+
+幾位女同事偷偷探頭觀看，露出驚訝、羨慕又嫉妒的表情。
+
+回到辦公室。
+
+霸總把逗貓棒稍微提高。
+
+女秘書踮起腳尖。
+
+霸總淡淡說：
+
+"Careful."
+
+女秘書伸手：
+
+"I can reach it."
+
+8–11秒
+
+女秘書終於抓住逗貓棒。
+
+下一秒腳步失去平衡。
+
+她向前倒下。
+
+霸總瞬間伸手接住她。
+
+兩人一起跌落到柔軟地毯。
+
+慢動作。
+
+霸總雙手撐在她身旁，形成保護性的近距離姿勢。
+
+夕陽逆光照亮兩人的臉。
+
+女秘書羞紅臉，眼眶泛起淡淡淚光，呼吸微微急促。
+
+短暫安靜。
+
+霸總低聲：
+
+"You’re always surprising me."
+
+11–15秒
+
+浪漫鋼琴響起。
+
+霸總看著她，冷漠表情逐漸融化。
+
+他伸手輕輕替她整理臉旁髮絲，溫柔撫過她的臉頰。
+
+他靠近她，用低沉溫柔的聲音說：
+
+"You know you’re impossible to ignore."
+
+女秘書害羞地將臉微微側開，不敢直視他，嘴角露出小小笑容。
+
+她輕聲回答：
+
+"Only with you..."
+
+霸總微微一笑。
+
+最後鏡頭慢慢拉遠。
+
+夕陽照亮辦公室，櫻花花瓣飄入窗邊，浪漫動畫配樂升起，畫面定格在兩人彼此心動的瞬間。
+
+#AIAnime #AIFilm #AIAnimation #AIDrama #AIVideo
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/created-using-on-394071/video-eac1c4f8f180.webm)
+
+**Source:** [@drjoetw](https://x.com/drjoetw/status/2083878408191394071) · 15s · 16:9 · anime
+
+---
+
+## 13. 使用画像はリプ欄にあります
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-024386/video-36bced361da1.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-024386/poster-2a6d878592a9.jpg" alt="使用画像はリプ欄にあります video preview" width="700" />
@@ -472,7 +697,7 @@ Image4の深い青緑の花園へ完全に切り替える。最初は高い位�
 
 ---
 
-## 11. 星花魔法都市を舞台にした高級ファンタジーRPGのキャラクター導入シー
+## 14. 星花魔法都市を舞台にした高級ファンタジーRPGのキャラクター導入シー
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-947872/video-ec36906fd039.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-947872/poster-a563a7dba7f7.jpg" alt="星花魔法都市を舞台にした高級ファンタジーRPGのキャラクター導入シー video preview" width="700" />
@@ -711,7 +936,7 @@ BGMなし。
 
 ---
 
-## 12. Anime Film Study 738298
+## 15. Anime Film Study 738298
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/expression-progression-eyes-brows-eyelids-mouth-738298/video-78fda7431b49.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/expression-progression-eyes-brows-eyelids-mouth-738298/poster-939a1366a682.jpg" alt="Anime Film Study 738298 video preview" width="700" />
@@ -789,7 +1014,7 @@ Expression progression: eyes -> brows -> eyelids -> mouth -> gaze.
 
 ---
 
-## 13. Anime Film Study 734471
+## 16. Anime Film Study 734471
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/fast-paced-15-second-16-9-anime-opening-title-se-734471/video-ae9ee04ad276.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/fast-paced-15-second-16-9-anime-opening-title-se-734471/poster-ff68c6e0f732.jpg" alt="Anime Film Study 734471 video preview" width="700" />
@@ -853,7 +1078,7 @@ A fast, polished and rhythmically precise anime opening with expressive characte
 
 ---
 
-## 14. Jazz-Noir Anime Title Sequence
+## 17. Jazz-Noir Anime Title Sequence
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/jazz-noir-anime-title-sequence-652641/video-7e17bcde8d5c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/jazz-noir-anime-title-sequence-652641/poster-d32e3f4117b6.jpg" alt="Jazz-Noir Anime Title Sequence video preview" width="700" />
@@ -890,7 +1115,7 @@ End on the character in silhouette, frozen mid-pose against a solid red field, w
 
 ---
 
-## 15. Pixar-style mouse adventure 3D animation
+## 18. Pixar-style mouse adventure 3D animation
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/pixar-style-mouse-adventure-3d-animation-582726/video-8eb481ff6b46.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/pixar-style-mouse-adventure-3d-animation-582726/poster-73bb04045d04.jpg" alt="Pixar-style mouse adventure 3D animation video preview" width="700" />
@@ -911,7 +1136,7 @@ End on the character in silhouette, frozen mid-pose against a solid red field, w
 
 ---
 
-## 16. Giant Kitchen Spider Comedy Short
+## 19. Giant Kitchen Spider Comedy Short
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/3d-pixar-style-animated-comedy-short-film-ultra-premium-057697/video-03d1c36a6c7b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/3d-pixar-style-animated-comedy-short-film-ultra-premium-057697/poster-6734cbaa9974.jpg" alt="Giant Kitchen Spider Comedy Short video preview" width="700" />
@@ -978,7 +1203,7 @@ This ending creates a strong cliffhanger for the extension, where an unexpected 
 
 ---
 
-## 17. Hand-Drawn Ginger Pork Cooking Anime
+## 20. Hand-Drawn Ginger Pork Cooking Anime
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/hand-drawn-ginger-pork-anime-cooking-960451/video-b92e508d3872.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/hand-drawn-ginger-pork-anime-cooking-960451/poster-b6c2ab769949.jpg" alt="Hand-Drawn Ginger Pork Cooking Anime video preview" width="700" />
@@ -1006,7 +1231,7 @@ This ending creates a strong cliffhanger for the extension, where an unexpected 
 
 ---
 
-## 18. Watercolor anime fetish montage rapid cuts
+## 21. Watercolor anime fetish montage rapid cuts
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/watercolor-anime-fetish-montage-rapid-cuts-335119/video-446479029140.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/watercolor-anime-fetish-montage-rapid-cuts-335119/poster-d795e2786bf3.jpg" alt="Watercolor anime fetish montage rapid cuts video preview" width="700" />
@@ -1160,7 +1385,7 @@ sequence:
 
 ---
 
-## 19. ASMR multi-cut overseas snack unboxing anime
+## 22. ASMR multi-cut overseas snack unboxing anime
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/asmr-multi-cut-overseas-snack-unboxing-anime-428159/video-93ba3d480c75.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/asmr-multi-cut-overseas-snack-unboxing-anime-428159/poster-8db721f6dc4f.jpg" alt="ASMR multi-cut overseas snack unboxing anime video preview" width="700" />
@@ -1265,7 +1490,7 @@ cut16:
 
 ---
 
-## 20. Dark-Fantasy Tavern Fight
+## 23. Dark-Fantasy Tavern Fight
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/style-hyper-realistic-dark-fantasy-tavern-cinematic-gro-137433/video-61ca3ff0afb8.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/style-hyper-realistic-dark-fantasy-tavern-cinematic-gro-137433/poster-27f527a53b15.jpg" alt="Dark-Fantasy Tavern Fight video preview" width="700" />
@@ -1370,7 +1595,7 @@ No floating, no anime combat, no superhero physics, no unrealistic flips, no wei
 
 ---
 
-## 21. Photoreal Character Turnaround Sheet
+## 24. Photoreal Character Turnaround Sheet
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ver-597837/video-0e075694490d.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ver-597837/poster-5f88cb99f6e5.jpg" alt="Photoreal Character Turnaround Sheet video preview" width="700" />

@@ -1,0 +1,31 @@
+{
+  "slug": "minimax-h3-on-keeps-raising-the-bar-for-realistic-ugc-303513",
+  "title": {
+    "en": "MiniMax H3 on keeps raising the bar for realistic UGC content.",
+    "zh": "MiniMax H3 on keeps raising the bar for realistic UGC content."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 vlog prompt with attached video evidence from @SimplyAnnisa.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3视频提示词。"
+  },
+  "category": "vlog",
+  "mode": "reference-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@SimplyAnnisa",
+    "url": "https://x.com/SimplyAnnisa/status/2084241879097303513"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/SimplyAnnisa/status/2084241879097303513"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-on-keeps-raising-the-bar-for-realistic-ugc-303513/video-4fb48a2c88c3.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-on-keeps-raising-the-bar-for-realistic-ugc-303513/poster-9a3fa35892b7.jpg",
+  "prompt": "Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, skin tone, body proportions, and facial consistency throughout every shot.\nCreate a 15-second ultra-realistic UGC-style lifestyle advertisement featuring a realistic young woman sharing her favorite premium Matcha Starter Kit in a bright, minimalist Japanese-inspired kitchen with warm morning sunlight, natural wood textures, soft neutral décor, ceramic tableware, and a calm luxury aesthetic.\nShe smiles naturally while holding an elegant matcha tin and says this has become her favorite way to start every morning. She opens the premium matcha container, carefully scoops vibrant green matcha powder into a handcrafted ceramic bowl, pours warm water, and whisks it smoothly using a traditional bamboo whisk until a rich, creamy foam forms. She lifts the bowl, takes a small sip, closes her eyes with a genuine smile, and enjoys the peaceful morning moment.\nCapture authentic handheld smartphone shots, over-the-shoulder angles, cinematic macro close-ups of the vivid green matcha powder, the bamboo whisk creating silky foam, the handcrafted ceramic bowl, rising steam, natural hand movements, and warm sunlight reflecting across the table. Finish with her holding the completed bowl beside her face, smiling warmly into the camera.\nAuthentic creator-style content, natural facial expressions, healthy glowing skin, cozy morning atmosphere, luxury lifestyle aesthetic, subtle depth of field, premium color grading, smartphone-shot realism, vertical 9:16, 4K HDR, no text, subtitles, logos, or watermarks."
+}

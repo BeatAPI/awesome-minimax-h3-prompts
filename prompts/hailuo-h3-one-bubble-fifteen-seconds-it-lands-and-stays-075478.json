@@ -1,0 +1,31 @@
+{
+  "slug": "hailuo-h3-one-bubble-fifteen-seconds-it-lands-and-stays-075478",
+  "title": {
+    "en": "Hailuo H3. One bubble, fifteen seconds, it lands and stays.",
+    "zh": "Hailuo H3. One bubble, fifteen seconds, it lands and stays."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @GlennHasABeard.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "7:4",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@GlennHasABeard",
+    "url": "https://x.com/GlennHasABeard/status/2097685726817075478"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/GlennHasABeard/status/2097685726817075478"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-one-bubble-fifteen-seconds-it-lands-and-stays-075478/video-5bad783e63e3.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-one-bubble-fifteen-seconds-it-lands-and-stays-075478/poster-e6b66ac1b863.jpg",
+  "prompt": "\"it settles onto the rim of the glass and stays there, a perfect dome\"\n\nDuration: 15s. Camera: locked, counter height.\n\nEvery model wants to pop the bubble because every bubble in its training pops. \"It never pops\" in the consistency line is the entire clip."
+}

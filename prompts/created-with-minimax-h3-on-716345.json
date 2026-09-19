@@ -1,0 +1,31 @@
+{
+  "slug": "created-with-minimax-h3-on-716345",
+  "title": {
+    "en": "Created with Minimax H3 on",
+    "zh": "Created with Minimax H3 on"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @ZaraIrahh.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+  },
+  "category": "music-video",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ZaraIrahh",
+    "url": "https://x.com/ZaraIrahh/status/2087762931777716345"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/ZaraIrahh/status/2087762931777716345"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-716345/video-86dc3b31c280.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-716345/poster-1b90402600ff.jpg",
+  "prompt": "Create a 15-second viral-ready stylized 3D animation with a bold graphic-poster aesthetic, combining 3D cel shading, abstract motion graphics, surreal transformations, and extremely dynamic camera movement.\n\nSTYLE: Stylized 3D toon/cel-shaded animation, low-poly geometric forms, hard-edged shadows, clean surfaces, exaggerated proportions, strong silhouettes, minimal textures, high contrast. Make the world feel like a graphic poster transformed into 3D space. Avoid photorealism and generic CGI.\n\nCOLOR PALETTE: Golden yellow, amber, lemon yellow, black, and white dominate the entire video. Metallic gray appears only as a small accent. Red is allowed only on the villain's sofa, liquor, and warning signals.\n\n0–3 SECONDS — INSTANT HOOK:\nOpen with an extreme close-up of a mysterious 3D graphic object rushing directly toward the camera. Suddenly pull the camera backward to reveal a surreal geometric city made of pipes, grids, sliced buildings, blocks, signs, and mechanical structures. Use a dramatic perspective shift and rapid camera rotation.\n\n3–7 SECONDS — ESCALATION:\nThe city begins transforming at impossible speed. Buildings split into geometric pieces, pipes twist through the streets, blocks rotate in mid-air, and graphic symbols explode outward. The camera flies through the environment with aggressive parallax, speed ramps, and seamless transitions.\n\n7–11 SECONDS — CHARACTER + SURPRISE:\nReveal the villain sitting on a distinctive red sofa in the middle of the moving city. The villain makes one dramatic gesture. Instantly, the sofa, surrounding architecture, and entire environment transform into a massive surreal 3D geometric structure. Use a rapid push-in followed by a sudden wide shot.\n\n11–14 SECONDS — CLIMAX:\nEverything accelerates. Yellow and black geometric elements spiral around the camera. Buildings fold, rotate, compress, and reconstruct. Use extreme perspective, fast tracking, graphic match cuts, silhouettes, diagonal masks, distortion, and a powerful final camera movement.\n\n14–15 SECONDS — LOOP:\nThe entire world rapidly collapses into the same graphic object from the opening shot. End on the exact visual composition needed to seamlessly connect back to the first frame, creating a perfect infinite loop.\n\nANIMATION LANGUAGE: Constant motion, squash and stretch, geometric morphing, slicing, flipping, compression, distortion, object transformation, impossible physics, speed ramps, freeze-frame accents, and satisfying visual cause-and-effect.\n\nCAMERA: Extreme push-ins, rapid pull-outs, rotating shots, overhead views, low angles, impossible tracking shots, camera-through-object transitions, sudden perspective changes, and dramatic scale shifts.\n\nFINAL LOOK: Premium, surreal, energetic, highly stylized 3D cel animation that feels like a living graphic poster. Every second must introduce a new visual surprise. Make the first second immediately attention-grabbing and the final second perfectly loopable."
+}

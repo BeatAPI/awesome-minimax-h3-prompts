@@ -1,0 +1,31 @@
+{
+  "slug": "made-with-minimax-h3-on-128023",
+  "title": {
+    "en": "Made with MiniMax H3 on",
+    "zh": "Made with MiniMax H3 on"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 product commercial prompt with attached video evidence from @Chaemate_.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+  },
+  "category": "product-commercial",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "236:135",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Chaemate_",
+    "url": "https://x.com/Chaemate_/status/2095770134313128023"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Chaemate_/status/2095770134313128023"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-on-128023/video-43dda0dbdd5a.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-on-128023/poster-77bf6cf6b7b8.jpg",
+  "prompt": "Create a 15-second fast-paced character creation timelapse inside a professional digital drawing and character design interface.\n\nUse the provided character reference only as the final target for the character's appearance, proportions, clothing, hairstyle, colors and distinctive features. The process must visibly start from a completely blank canvas and reconstruct the referenced character from scratch.\n\nShow a visible mouse cursor actively controlling the entire creation process. Every major visual change should feel caused by cursor interaction with the UI.\n\n0:00-0:02\nStart on a blank white or neutral canvas inside a clean professional drawing interface. The cursor quickly creates the first loose construction lines, head shape, body proportions and basic pose using rough sketch strokes.\n\n0:02-0:05\nAccelerate into detailed sketching. The cursor rapidly defines the face, hair, anatomy, clothing silhouette, accessories and characteristic features of the referenced character. Use believable drawing gestures, short strokes, selections, transforms and occasional undo corrections.\n\n0:05-0:08\nThe rough sketch becomes clean line art. The cursor switches tools, adjusts brush size and cleans the silhouette. Unnecessary construction lines disappear while precise facial details, clothing folds and small design elements are added.\n\n0:08-0:11\nRapid coloring phase. The cursor selects regions and fills the character with the correct colors from the reference. Show quick palette selections, color picking, layer changes, clipping masks and brush passes. Add shadows, highlights and material details in fast succession.\n\n0:11-0:13\nRendering and polish. The cursor adds final lighting, hair detail, skin shading, fabric texture, reflections and small accent details. Briefly zoom into important areas such as the face or costume while refining them, then zoom back out.\n\n0:13-0:15\nThe interface clears unnecessary guides and panels. The finished character is shown fully rendered and closely matching the provided reference. End with the cursor making one final small adjustment, then stop on a clean full-character presentation.\n\nSTYLE:\nHigh-speed digital art timelapse, polished professional character-design workflow, believable drawing software UI, smooth cursor movement, rapid but readable actions, clean layers and tool changes, no random text, no fake dialogue, no unrelated popups.\n\nMOTION:\nThe entire 15 seconds should feel continuously productive. Avoid long pauses. Compress several minutes or hours of drawing into an energetic timelapse while keeping the progression clearly readable: blank canvas → rough sketch → clean line art → flat colors → shading → polished final character.\n\nCAMERA:\nPrimarily screen-recording style with subtle digital zooms and pans following the cursor and active drawing area. Keep the UI stable and readable. Do not use cinematic cuts outside the software interface.\n\nAUDIO:\nSynthesize a soft ambient soundtrack: subtle mechanical ticking, gear-whirring, and light workshop ambience underscoring the drawing motion — no dialogue, no music stings, nothing that competes with the visual rhythm of the strokes.\n\nIMPORTANT:\nThe character must not appear instantly or through a single magical transformation. Every stage should visibly build upon the previous one through cursor-driven drawing, editing, coloring and rendering actions."
+}

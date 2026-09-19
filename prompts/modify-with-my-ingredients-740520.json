@@ -1,0 +1,31 @@
+{
+  "slug": "modify-with-my-ingredients-740520",
+  "title": {
+    "en": "(modify with my ingredients )",
+    "zh": "(modify with my ingredients )"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @nonameoasis.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@nonameoasis",
+    "url": "https://x.com/nonameoasis/status/2087974304692740520"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/nonameoasis/status/2087974304692740520"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/modify-with-my-ingredients-740520/video-08f202aa5c22.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/modify-with-my-ingredients-740520/poster-29fd1640de49.jpg",
+  "prompt": "Cinematic 15-second sequence: A young athletic woman with short dark hair in a fitted dark spacesuit sprints desperately down a glass-walled spaceship corridor under flashing red emergency lights, stars visible outside. She bursts into a circular observation room and collapses against a massive round panoramic window, pressing her face and hands to the glass in exhaustion. Through the window a beautiful planet violently explodes — a massive wave of fire and energy races toward the ship and smashes into the glass in a blinding flash. Hard cut: the same woman jolts awake in a dark ordinary bedroom, gasping, covered in sweat. Handheld camera, urgent pacing, intense red emergency lighting, cinematic sci-fi destruction, realistic, film grain."
+}

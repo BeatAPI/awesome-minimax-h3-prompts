@@ -1,0 +1,31 @@
+{
+  "slug": "no-me-lo-poda-creer-hasta-que-yo-mismo-lo-934915",
+  "title": {
+    "en": "No me lo podía creer hasta que yo mismo lo hice.",
+    "zh": "No me lo podía creer hasta que yo mismo lo hice."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @00Bohr.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "10s",
+  "aspectRatio": "7:4",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@00Bohr",
+    "url": "https://x.com/00Bohr/status/2084532554971934915"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/00Bohr/status/2084532554971934915"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/no-me-lo-poda-creer-hasta-que-yo-mismo-lo-934915/video-c49e19f905e9.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/no-me-lo-poda-creer-hasta-que-yo-mismo-lo-934915/poster-3ab9d6d92043.jpg",
+  "prompt": "Jim and Dwight from The Office discuss whether artificial intelligence will take their jobs."
+}
