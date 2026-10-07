@@ -1,0 +1,31 @@
+{
+  "slug": "minimax-h3-open-weights-generated-locally-sunday-breakfast-cabin-rules-062213",
+  "title": {
+    "en": "Amber breakfast lace",
+    "zh": "琥珀色早餐蕾丝"
+  },
+  "description": {
+    "en": "A MiniMax H3 cinematic travel prompt and video shared by @GlennHasABeard.",
+    "zh": "原作者 @GlennHasABeard 分享的 MiniMax H3 提示词与视频案例。"
+  },
+  "category": "cinematic-travel",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "9:5",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@GlennHasABeard",
+    "url": "https://x.com/GlennHasABeard/status/2106751587121062213"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/GlennHasABeard/status/2106751587121062213"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-open-weights-generated-locally-sunday-breakfast-cabin-rules-062213/video-8dcdbd08249d.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-open-weights-generated-locally-sunday-breakfast-cabin-rules-062213/poster-fe08a55089a0.jpg",
+  "prompt": "\"it cools into a lacy amber pattern like frost on a window\"\n\nDuration: 15s. Camera: locked, slightly above."
+}

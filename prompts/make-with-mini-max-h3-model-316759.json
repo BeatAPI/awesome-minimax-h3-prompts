@@ -1,0 +1,31 @@
+{
+  "slug": "make-with-mini-max-h3-model-316759",
+  "title": {
+    "en": "Luminous creatures in a closing bookstore",
+    "zh": "闭店书店中的发光精灵"
+  },
+  "description": {
+    "en": "A MiniMax H3 product commercial prompt and video shared by @Astraea0106.",
+    "zh": "原作者 @Astraea0106 分享的 MiniMax H3 提示词与视频案例。"
+  },
+  "category": "product-commercial",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Astraea0106",
+    "url": "https://x.com/Astraea0106/status/2107342639209316759"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/Astraea0106/status/2107481589051695422"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/make-with-mini-max-h3-model-316759/video-af0c518fc116.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/make-with-mini-max-h3-model-316759/poster-256964ddc200.jpg",
+  "prompt": "15 seconds, 16:9 landscape. Blend photoreal live-action footage of a quiet independent bookstore just before closing with delicate hand-drawn luminous animated spirits. Warm amber lamps illuminate overflowing wooden bookshelves while soft evening light filters through the front windows. The bookstore feels cozy, nostalgic, and lived in, with scattered books, handwritten staff notes, reading glasses left on a table, a ceramic coffee cup, and a wooden ladder leaning against a shelf.\n\nFilm as though someone unexpectedly notices the tiny illustrated creatures while browsing alone. Capture the footage using a handheld smartphone with subtle natural shake, gentle autofocus breathing, slight exposure fluctuations between warm interior lights and the darker corners of the store, and realistic shadow noise. The footage should feel like a genuine discovery rather than a planned production.\n\nThe tiny hand-drawn spirits quietly emerge between stacked books, peek around shelves, climb across book spines, slide down hanging bookmarks, and leave glowing illustrated doodles that briefly shimmer before fading away. Their movements should feel playful, curious, and believable within the real environment.\n\nCamera: slow handheld exploration, hesitant push-ins, gentle rack focus between foreground books and hidden creatures, natural reframing, and intimate close-ups that make the viewer feel as though they're carefully following the tiny spirits through the bookstore.\n\nLighting & Atmosphere: warm tungsten practical lighting, soft evening window light, floating dust particles, subtle reflections on polished wood, shallow depth of field, and gentle illustrated glow that naturally blends into the live-action environment.\n\nDo not include frightening expressions, exaggerated cartoon features, jump scares, sudden camera movements, oversized creatures, or destructive behavior. The animation should remain subtle, elegant, and quietly magical.\n\nAudio: soft page turns, distant floorboard creaks, quiet footsteps, subtle cloth movement, ambient room tone, gentle pencil-sketch sounds as the creatures draw glowing lines, tiny musical chimes, delicate electronic textures, and quiet whispered vocalizations that enhance the feeling of discovery without becoming distracting."
+}

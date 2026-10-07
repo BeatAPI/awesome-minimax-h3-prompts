@@ -1,0 +1,31 @@
+{
+  "slug": "minimax-h3-open-weights-generated-locally-sealed-the-letter-the-951434",
+  "title": {
+    "en": "Stamp reveals a tiny koi pond",
+    "zh": "印章揭出微型锦鲤池"
+  },
+  "description": {
+    "en": "A MiniMax H3 cinematic story prompt and video shared by @GlennHasABeard.",
+    "zh": "原作者 @GlennHasABeard 分享的 MiniMax H3 提示词与视频案例。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "9:5",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@GlennHasABeard",
+    "url": "https://x.com/GlennHasABeard/status/2107473740023951434"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/GlennHasABeard/status/2107473740023951434"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-open-weights-generated-locally-sealed-the-letter-the-951434/video-0ff947a1527c.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-open-weights-generated-locally-sealed-the-letter-the-951434/poster-e7864c8bbc16.jpg",
+  "prompt": "\"the round impression is a tiny pond with one orange koi swimming in it\"\n\nDuration: 15s. Camera: locked macro, slightly above."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "minimax-h3-open-weights-generated-locally-painted-the-wall-went-639673",
+  "title": {
+    "en": "Paint roller reveals a meadow",
+    "zh": "滚筒刷揭开草甸"
+  },
+  "description": {
+    "en": "A MiniMax H3 cinematic travel prompt and video shared by @GlennHasABeard.",
+    "zh": "原作者 @GlennHasABeard 分享的 MiniMax H3 提示词与视频案例。"
+  },
+  "category": "cinematic-travel",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "9:5",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@GlennHasABeard",
+    "url": "https://x.com/GlennHasABeard/status/2107231924309639673"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/GlennHasABeard/status/2107231924309639673"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-open-weights-generated-locally-painted-the-wall-went-639673/video-d8053ff51421.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-open-weights-generated-locally-painted-the-wall-went-639673/poster-0df398e5e27b.jpg",
+  "prompt": "\"the stripe it leaves is not paint but a view of a sunny green meadow\"\n\nDuration: 15s. Camera: locked, facing the wall."
+}

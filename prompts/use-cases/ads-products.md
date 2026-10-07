@@ -1,6 +1,6 @@
 # MiniMax H3 Ads & Products prompts
 
-[Back to all 506 prompts](../../README.md)
+[Back to all 550 prompts](../../README.md)
 
 ## 1. Luxury perfume commercial
 
@@ -36,7 +36,595 @@ Slow-motion hero shot of the luxury perfume bottle elegantly rotating as glowing
 
 ---
 
-## 2. Created with MiniMax H3 on
+## 2. Unbroken journey through human history
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/create-a-30-second-cinematic-time-journey-video-as-one-801831/video-f0321320c9da.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/create-a-30-second-cinematic-time-journey-video-as-one-801831/poster-b77beff01a2b.jpg" alt="Unbroken journey through human history video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a 30-second cinematic time-journey video as one completely seamless, continuous, unbroken shot. No cuts, no fades, no dissolves, no resets, and no montage feeling. The...</summary>
+
+~~~~text
+Create a 30-second cinematic time-journey video as one completely seamless, continuous, unbroken shot. No cuts, no fades, no dissolves, no resets, and no montage feeling. The camera may orbit, track, dip, rise, rotate, pass behind foreground elements, and temporarily obscure the character, but the result must always feel like one uninterrupted moving shot.  The core idea is a single man traveling forward through time, beginning in the Stone Age and moving through major eras into the present and then the future. He must remain the same continuous human presence, but his appearance, clothing, grooming, tools, and body language should transform fluidly as he passes from one era to the next. Each transformation must happen on camera and feel physically connected to his movement.  His evolution should be seamless: prehistoric hunter becomes early farmer, then ancient city dweller, then classical traveler, then desert scholar or noble, then medieval scribe or explorer, then industrial worker or passenger, then modern city man, then present-day urban person, then future human. His hair, beard, clothing materials, accessories, footwear, and carried objects should all shift naturally with the era. These changes must happen during motion, not as sudden jumps.  Keep the tone epic, adventurous, awe-filled, and family-friendly. Avoid graphic violence, gore, visible injury, or disturbing threats. The environments may feel dramatic, but the man is always safe.  Open with a strong hook in prehistoric times.  Start in the Stone Age at sunrise.  A prehistoric man stands on a rocky cliff above a vast landscape. A herd of massive animals moves across the plain below. Wind blows through tall grass. Firelight flickers near a cave. The image should feel instantly epic and cinematic.  He hears a deep natural rumble and turns.  The camera swings around him as he starts running along the cliff edge.  As he moves, his fur clothing, rough hair, and wooden spear are clearly visible.  He leaps onto a large stone outcrop.  The moment his foot lands, the terrain begins transforming beneath him in one continuous motion.  The rocky ground softens into earth paths and cultivated land.  His fur wrap becomes woven cloth.  His spear shortens and reshapes into a wooden farming staff or tool.  His hair becomes more groomed.  Now he is moving through an early farming settlement in the Neolithic age.  He runs between grain fields, clay pots, baskets, fences, and simple homes.  A spinning potter's wheel passes close to the camera.  Its circular motion transforms into a polished bronze shield.  At the same time, his clothing becomes more structured and ornamented.  Now he is in a bronze-age or early ancient city.  He moves through columns, market fabrics, stone streets, and torchlit courtyards.  A hanging banner sweeps across frame.  As it wraps around him, his outfit transforms again into garments suited to an ancient seafaring or classical world.  The banner becomes a sail.  Now he is aboard an ancient ship.  He grabs a rope as the camera moves with him.  The rope becomes reins or a leather strap.  His costume shifts into a classical traveler or rider look.  Now he moves along a grand classical road lined with monumental architecture.  As he continues, his sandals, draped garments, hairstyle, and accessories match the era.  The road curves.  Stone underfoot becomes sand.  Architecture transforms into a desert kingdom with carved facades and giant statues.  His appearance changes again into desert-era robes with a different hairstyle, sash, and accessories.  He moves through this world as carved symbols slide past the camera.  The symbols become ink marks on parchment.  His robes and styling evolve into a medieval scholarly or cultural look.  Now he is inside a medieval scholarly hall or library-like setting with scrolls, candles, manuscripts, and maps.  A long scroll unfurls across the lens.  The scroll becomes a silk banner.  His clothing changes into elegant garments suited to an imperial eastern or refined pre-modern era.  He crosses a bridge through gardens, lanterns, and rooftops.  The bridge planks transform into a ship or dock surface.  Then ropes and wooden structures transform again into iron beams, steam, wheels, and machinery.  His clothing becomes industrial-era attire.  His hair and grooming adapt.  Now he is in the Industrial Revolution, surrounded by steam, rail tracks, metal structures, and movement.  A large train wheel rolls close to frame.  The wheel transforms into an early automobile wheel.  His outfit becomes early modern, with era-appropriate tailoring and accessories.  He moves through a growing city with electric lamps, storefronts, and newspapers.  A door or passing vehicle wipes the frame.  When it clears, his look shifts again into late twentieth-century style.  Now he moves through a more modern urban setting with neon, traffic, signage, and a faster rhythm.  A reflective glass surface expands across frame.  The reflection becomes a present-day city.  His appearance now becomes contemporary: modern haircut, present-day clothing, realistic urban styling, and current posture and energy.  He slows briefly in the present, taking in digital screens, smartphones, clean architecture, and modern crowds.  He touches a glowing screen or transparent panel.  That touch triggers the move into the future.  The screen expands into luminous architecture.  His clothing, hairstyle, and overall design evolve again, now becoming sleek, elegant, and futuristic while still feeling human and believable.  He enters a near-future city with autonomous transit, vertical gardens, holographic interfaces, and sustainable design.  The camera circles him.  As the circle completes, the future advances further.  His appearance refines one more time into a more advanced future identity, with evolved materials, subtle wearable technology, and a calm confident presence.  Now he stands in a far-future environment with luminous towers, sky bridges, ambient flying vehicles, and seamless integration between nature and technology.  For the ending, he reaches a high overlook above the future city.  He stops.  The camera comes around to face him.  In the world around him, visual echoes of the earlier eras appear layered within the architecture and atmosphere: prehistoric fire, fields, ancient stone, sails, manuscripts, steam, glass towers, and future light.  He looks out in awe, as if all of history has flowed into this single moment.  End with a feeling of continuity, wonder, and human evolution across time.  Important execution rules:  The man must not feel like a fixed character with only background changes. His entire appearance must continuously transform with each era:  clothing materials  silhouette  hairstyle  beard or facial grooming  footwear  accessories  tools or carried objects  posture and body language  These changes must happen fluidly during movement, through match transitions and environmental interaction. For example:  fur wrap becoming woven cloth  spear becoming farming tool  farming cloth becoming ancient draped garments  banner wrapping around him and becoming a sail while his outfit changes  reins leading into classical styling  sand and symbols introducing desert robes  scroll movement transforming him into a medieval scholar  industrial smoke and machinery shifting him into worker attire  glass reflection updating him into present-day fashion  glowing interface transforming him into a future human  He should remain physically active throughout. He should run, turn, jump small gaps, weave through spaces, step onto changing surfaces, reach, climb, brace, balance, and react with wonder. He must never look like he is casually strolling while time changes around him.  Framing should vary while remaining continuous: close-up, medium, wide, profile, front-tracking, rear-tracking, side-tracking, low angle, high angle feel, and circular moves.  Every transformation must be clear, readable, and physically motivated.  The final result should feel like one unbroken breath of human history, with a single man evolving seamlessly through time from the Stone Age to the far future.  Tone: cinematic, photorealistic, exhilarating, elegant, inspiring, adventurous, seamless, family-friendly, and full of wonder.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/create-a-30-second-cinematic-time-journey-video-as-one-801831/video-f0321320c9da.webm)
+
+**Source:** [@qtum](https://x.com/qtum/status/2105438735248801831) · 40s · 16:9 · fashion
+
+---
+
+## 3. Anime romantic comedy on the sofa
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/looks-like-a-real-anime-episode-938945/video-7a117e839f5e.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/looks-like-a-real-anime-episode-938945/poster-790e86ff6468.jpg" alt="Anime romantic comedy on the sofa video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — 2D anime | romantic comedy | cel-shaded, clean line art, dark blue night palette. Multishot, 6 shots. Cuts only at the specified points. CHARACTERS HANA: wavy shoulder-length dark...</summary>
+
+~~~~text
+2D anime | romantic comedy | cel-shaded, clean line art, dark blue night palette.
+Multishot, 6 shots. Cuts only at the specified points.
+
+CHARACTERS
+HANA: wavy shoulder-length dark red hair, oversized gray cardigan with one button missing, a bandage on her index finger. 160 cm.
+YUTO: neat black hair with a small bed-head tuft at the back, navy hoodie with a pilled sleeve, glasses pushed up on his forehead. 178 cm.
+
+LOCATION
+Dark living room at night. They share one sofa under a single fleece blanket. A TV off-frame in front of them is the only light source, flickering blue on their faces. A bowl of popcorn between them.
+
+SUBTITLES
+Spoken dialogue is in Japanese. English subtitles are burned into the image as on-screen text only — they are never spoken aloud. Style: white sans-serif, thin black outline, one single line, bottom center of frame, 8% from the bottom edge. Each subtitle appears with its line and disappears at the cut. Subtitle text is shown inside 【】 brackets below; the brackets themselves are not displayed.
+
+Shot 1 (0–2.5s) — Medium front shot of both, FOV 47, static.
+Hana sits upright, arms crossed, smug smile, chin raised. Yuto beside her grips a cushion with both hands, already tense.
+Hana (spoken, Japanese): 「全然怖くないし。」
+On-screen subtitle: 【I'm not scared at all.】
+HARD CUT
+
+Shot 2 (2.5–5s) — Close-up on Yuto, FOV 29, slow push-in ending on his eyes.
+His pupils shrink to tiny dots, a vertical column of blue shade lines drops over his upper face, sweat drop on his temple. He swallows, the cushion squeezed flat. No subtitle in this shot.
+HARD CUT
+
+Shot 3 (5–8s) — Medium front shot, FOV 47, static.
+A violent white flash from the TV and a loud sting. Both jump. Clear gag faces: mouths huge and wavy, eyes white, hair standing in spikes. The popcorn bowl flips and popcorn bursts upward like confetti. Two small white ghost-shaped souls slip out of their open mouths.
+Hana and Yuto (spoken, Japanese): 「ぎゃああああっ！」
+On-screen subtitle: 【AAAAAAH!】
+HARD CUT
+
+Shot 4 (8–10.5s) — Wide shot, FOV 63, static.
+They are clutching each other tightly, trembling, their outlines drawn with shaky wobbling lines. Popcorn rains down on them. The souls drift back into their mouths. No subtitle in this shot.
+HARD CUT
+
+Shot 5 (10.5–13s) — Two-shot close-up, profile, FOV 29, static.
+Silence. They slowly realize how close they are, faces a hand apart. Both blush deep red at the same time. A tiny comic sparkle pops between them. They let go and shuffle apart in short jerky movements. No subtitle in this shot.
+HARD CUT
+
+Shot 6 (13–15s) — Close-up on Hana, three-quarter front, FOV 29, static.
+Normal detailed anime face: cheeks red, eyes sliding sideways, lips pouting. One popcorn kernel stuck in her hair.
+Hana (spoken, Japanese): 「…今のはノーカン。」
+On-screen subtitle: 【...That one doesn't count.】
+She pulls the blanket up over her nose. End on her eyes peeking above the blanket.
+
+LIGHTING
+Only light source is the off-frame TV: flickering cool blue 8500K, with a single white flash in shot 3. Deep shadows in the room.
+
+Sound: No score. Production audio only — faint TV dialogue murmur, a sharp horror sting, popcorn scattering, fabric rustle, double scream, then near silence and a soft blanket rustle. All voices in Japanese only.
+
+Characters keep the same face, hair and wardrobe in every shot. Gag faces are clear, exaggerated super-deformed expressions, then return to the normal detailed anime face. Clean consistent line art, consistent lighting between shots. Subtitles stay in the same position, size and style in every shot, spelled exactly as written. The room contains only the sofa, the blanket and the popcorn bowl.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/looks-like-a-real-anime-episode-938945/video-7a117e839f5e.webm)
+
+**Source:** [@MayorKingAI](https://x.com/MayorKingAI/status/2107531471103938945) · 15s · 7:4 · product commercial
+
+---
+
+## 4. Luminous creatures in a closing bookstore
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/make-with-mini-max-h3-model-316759/video-af0c518fc116.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/make-with-mini-max-h3-model-316759/poster-256964ddc200.jpg" alt="Luminous creatures in a closing bookstore video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — 15 seconds, 16:9 landscape. Blend photoreal live-action footage of a quiet independent bookstore just before closing with delicate hand-drawn luminous animated spirits. Warm amber...</summary>
+
+~~~~text
+15 seconds, 16:9 landscape. Blend photoreal live-action footage of a quiet independent bookstore just before closing with delicate hand-drawn luminous animated spirits. Warm amber lamps illuminate overflowing wooden bookshelves while soft evening light filters through the front windows. The bookstore feels cozy, nostalgic, and lived in, with scattered books, handwritten staff notes, reading glasses left on a table, a ceramic coffee cup, and a wooden ladder leaning against a shelf.
+
+Film as though someone unexpectedly notices the tiny illustrated creatures while browsing alone. Capture the footage using a handheld smartphone with subtle natural shake, gentle autofocus breathing, slight exposure fluctuations between warm interior lights and the darker corners of the store, and realistic shadow noise. The footage should feel like a genuine discovery rather than a planned production.
+
+The tiny hand-drawn spirits quietly emerge between stacked books, peek around shelves, climb across book spines, slide down hanging bookmarks, and leave glowing illustrated doodles that briefly shimmer before fading away. Their movements should feel playful, curious, and believable within the real environment.
+
+Camera: slow handheld exploration, hesitant push-ins, gentle rack focus between foreground books and hidden creatures, natural reframing, and intimate close-ups that make the viewer feel as though they're carefully following the tiny spirits through the bookstore.
+
+Lighting & Atmosphere: warm tungsten practical lighting, soft evening window light, floating dust particles, subtle reflections on polished wood, shallow depth of field, and gentle illustrated glow that naturally blends into the live-action environment.
+
+Do not include frightening expressions, exaggerated cartoon features, jump scares, sudden camera movements, oversized creatures, or destructive behavior. The animation should remain subtle, elegant, and quietly magical.
+
+Audio: soft page turns, distant floorboard creaks, quiet footsteps, subtle cloth movement, ambient room tone, gentle pencil-sketch sounds as the creatures draw glowing lines, tiny musical chimes, delicate electronic textures, and quiet whispered vocalizations that enhance the feeling of discovery without becoming distracting.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/make-with-mini-max-h3-model-316759/video-af0c518fc116.webm)
+
+**Source:** [@Astraea0106](https://x.com/Astraea0106/status/2107342639209316759) · 15s · 16:9 · product commercial
+
+---
+
+## 5. Tokyo kawaii gyaru selfie music video
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-007298/video-8d1c785f8c6c.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-007298/poster-8b76b38c92b7.jpg" alt="Tokyo kawaii gyaru selfie music video video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — 16:9Create a 15-second high-energy cute Japanese GAL / gyaru music video, 16:9 horizontal. Use the reference image as the ONLY character reference. Keep exactly the same girl...</summary>
+
+~~~~text
+16:9Create a 15-second high-energy cute Japanese GAL / gyaru music video, 16:9 horizontal.
+Use the reference image as the ONLY character reference.
+Keep exactly the same girl throughout the entire video:
+same face, facial features, hairstyle, hair color, makeup, skin tone, body proportions, outfit, accessories, and long decorated pink nails.
+ONE GIRL ONLY.
+NO character switching.
+NO outfit switching.
+## MUSIC
+Generate an original upbeat English pop song specifically matched to the visuals.
+Music style:
+cute energetic Y2K bubblegum pop + kawaii hyperpop + light dance-pop.
+Tempo around 145–155 BPM.
+The song should feel:
+playful, sweet, youthful, catchy, energetic, sparkling and slightly chaotic.
+Use:
+punchy pop drums,
+bouncy electronic bass,
+bright synths,
+cute digital chimes,
+claps,
+sparkling electronic accents,
+short rhythmic transitions.
+Female English vocal.
+The vocal should sound youthful, cute, clear and melodic.
+NO screaming.
+NO random “ahhh”, “woo”, “bong”, “boom” or meaningless vocal sounds.
+NO spoken dialogue.
+Use real short English lyrics with a catchy hook, for example:
+“Look at me, I’m shining bright,
+Pink little stars all through the night,
+Heart goes click when you come my way,
+Sweet little chaos, make my day.”
+The lyrics may be adjusted naturally to fit the melody and rhythm.
+The girl MUST visibly open her mouth and accurately lip-sync to the English lyrics throughout the MV.
+Her mouth shapes must clearly correspond to the sung words.
+Do NOT keep her mouth closed while vocals are playing.
+Facial expressions, mouth movement, hand gestures, camera movement and graphic effects must all synchronize with the musical beat.
+## IMPORTANT MOVEMENT RULE
+Every shot must use a DIFFERENT hand gesture, facial expression and body movement.
+DO NOT repeatedly use peace signs.
+DO NOT repeatedly push both hands toward the camera.
+DO NOT repeat the same cheek pose.
+DO NOT loop any previous movement.
+Each new musical phrase introduces a visually different pose.
+The performance should constantly evolve.
+## CAMERA
+Extreme ultra-wide-angle / fisheye action-camera look, approximately 12–14mm equivalent.
+The camera stays close to the girl.
+Strong playful perspective distortion.
+When a hand briefly approaches the lens, it becomes dramatically larger in the foreground while her face remains visible.
+Energetic handheld MV feeling.
+Use different camera behavior for different shots:
+micro push-in,
+small side orbit,
+quick tilt,
+tiny pull-back,
+low-angle close-up,
+slight camera rotation.
+Avoid repeating identical camera movements.
+## LOCATION
+Bright sunny Japanese city intersection,
+Shibuya-inspired urban street,
+blue sky,
+colorful Japanese commercial buildings,
+real pedestrians far in the background,
+realistic outdoor daylight.
+Keep the same general location throughout so the video remains visually coherent.
+---
+## SHOT 1 — 0–1.7s
+Extreme fisheye close-up.
+The girl looks directly into the lens while singing the first English lyric.
+She makes ONE peace sign beside one eye while the other hand lightly holds her loose red tie.
+She gives a cute pout, then instantly raises her eyebrows on the beat.
+Small camera push-in.
+Tiny pink sparkles pop beside her eye.
+---
+## SHOT 2 — 1.7–3.3s
+Completely different action.
+She drops the peace sign.
+She points one index finger directly toward the camera while slightly leaning her shoulder forward.
+The fingertip becomes oversized through fisheye perspective.
+She continues clearly lip-syncing.
+A glowing neon-pink heart traces a circle around her fingertip.
+Camera slightly tilts sideways.
+---
+## SHOT 3 — 3.3–5s
+New action.
+She pulls her hand away from the lens and places both open palms underneath her chin in a cute flower pose.
+She tilts her head strongly to one side.
+Expression changes:
+wide eyes → quick wink → bright smile.
+Her mouth keeps moving naturally with every English lyric.
+Tiny butterflies appear around her hair.
+---
+## SHOT 4 — 5–6.7s
+New action.
+She turns her upper body sideways and looks back toward the camera over her shoulder.
+One hand flicks her pink-tipped hair.
+The other hand stays naturally lowered.
+She sings directly toward the lens with a playful confident smile.
+Camera performs a quick small side orbit.
+Pink glitter trails briefly follow her hair movement.
+---
+## SHOT 5 — 6.7–8.3s
+New action.
+She faces forward again and performs two cute alternating cat-paw gestures near her shoulders.
+Left paw → right paw → both briefly raised.
+She scrunches her nose and closes one eye.
+Do NOT use peace signs in this shot.
+Hand-drawn pink cat ears briefly appear above her head.
+Tiny stars bounce around her fingers on the beat.
+---
+## SHOT 6 — 8.3–10s
+New action.
+She makes ONE small finger heart with one hand beside her cheek.
+Her other hand points toward herself.
+She mouths the strongest lyric of the hook with a large, clearly visible singing mouth shape.
+She gives a cheeky side-eye, then looks directly into the lens.
+Camera performs a subtle rapid zoom-out.
+A neon heart pulses once behind her.
+---
+## SHOT 7 — 10–11.7s
+New action.
+She lifts both hands above her head and forms a large heart silhouette using both arms.
+Her upper body sways once from left to right.
+She smiles brightly while continuing accurate English lip-sync.
+Camera moves slightly lower for a playful low-angle fisheye view.
+Several translucent pink hearts float upward.
+---
+## SHOT 8 — 11.7–13.3s
+New action.
+She suddenly leans very close to the camera.
+One hand gently cups the side of her mouth as if singing a secret directly toward the viewer.
+The other hand stays behind her back.
+She gives an exaggerated mischievous expression while clearly mouthing the lyric.
+Camera makes a tiny clockwise rotation.
+Pink handwritten doodles rapidly appear around her face.
+---
+## SHOT 9 — 13.3–15s
+Final climax.
+Use a completely NEW final gesture.
+She steps back slightly, raises both open hands beside her head with fingers spread wide, then quickly brings ONE hand forward to make a tiny finger heart toward the lens.
+She finishes the final English lyric with a huge joyful smile and a quick wink.
+On the final beat:
+pink hearts,
+butterflies,
+stars,
+sparkles,
+glitter,
+and cute hand-drawn GAL doodles
+burst outward around her.
+End on her smiling directly into the lens.
+---
+## EFFECT STYLE
+Effects must react to specific physical movements and musical beats.
+Use:
+hot-pink translucent hearts,
+neon butterflies,
+sparkling stars,
+hand-drawn Y2K doodles,
+glowing fingertip trails,
+tiny glitter particles,
+cute animated cat ears,
+small handwritten pink symbols.
+Do NOT keep effects constantly on screen.
+Effects should appear briefly on strong beats, then disappear.
+Effects must follow the girl's hands, fingertips, hair movement and facial expressions.
+They should feel like playful Japanese GAL sticker graphics integrated into live-action footage.
+NOT fantasy magic.
+NOT cyberpunk.
+NOT heavy VFX.
+## VISUAL STYLE
+Realistic live-action footage.
+Cute Japanese GAL / gyaru aesthetic.
+Y2K Japanese pop MV.
+Bright summer daylight.
+Realistic skin texture.
+Glossy pink nails.
+Energetic social-media music-video aesthetic.
+Strong fisheye perspective.
+Fast but readable visual rhythm.
+Cute, colorful, playful and slightly chaotic.
+## RHYTHM
+Every 1–2 seconds introduce something visually new.
+Gesture changes must land on beats.
+Expression changes must land on beats.
+Graphic effects must land on beats.
+Camera accents must land on beats.
+The girl's lip movement must continuously follow the English singing.
+The sequence should feel intentionally choreographed to the music rather than random posing.
+## NEGATIVE REQUIREMENTS
+No repeated poses.
+No repeated peace signs.
+No repeated double-hand lens pushes.
+No looping gestures.
+No frozen mouth during vocals.
+No random talking.
+No screaming.
+No meaningless vocal sounds.
+No subtitles.
+No lyrics displayed on screen.
+No text overlays.
+No scene duplication.
+No duplicate hands.
+No extra arms.
+No extra fingers.
+No fused fingers.
+No warped face.
+No sudden character changes.
+No outfit changes.
+No excessive motion blur.
+No slow cinematic pacing.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-007298/video-8d1c785f8c6c.webm)
+
+**Source:** [@ImaStudio_ai](https://x.com/ImaStudio_ai/status/2107335719241007298) · 16s · 16:9 · product commercial
+
+---
+
+## 6. Black Mirror final reflection fight
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-186579/video-89ebcfd76244.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-186579/poster-e1358d081072.jpg" alt="Black Mirror final reflection fight video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — MINIMAX H3 — 15-SECOND CINEMATIC FIGHT “BLACK MIRROR: FINAL REFLECTION” 16:9 widescreen, premium dark-fantasy fashion-action. Obsidian Ronin vs Inkshade Valkyrie inside a gigantic...</summary>
+
+~~~~text
+MINIMAX H3 — 15-SECOND CINEMATIC FIGHT
+“BLACK MIRROR: FINAL REFLECTION”
+16:9 widescreen, premium dark-fantasy fashion-action.
+
+Obsidian Ronin vs Inkshade Valkyrie inside a gigantic floating liquid-black obsidian mirror surrounded by an endless white void. Preserve exact established character designs, faces, hair, armor, weapons, proportions and silhouettes. No redesigns.
+
+Constant movement. No idle poses, hard cuts, teleportation, freeze frames, blood or gore.
+
+The mirror behaves like liquid glass: every sword strike creates ripples, cracks and independent reflections that briefly attack before snapping back.
+
+0–3s: Mirror forms from liquid black glass. Ronin emerges with a katana strike as Valkyrie attacks from the opposite reflection. Blades collide, creating a huge circular ripple.
+
+3–6s: Ronin's heavy cut meets Valkyrie's agile twin-blade counter. Reflections attack from opposite directions. Black cracks race across the mirror. Smoke briefly forms “REAL OR REFLECTION?”
+
+6–9s: Mirror tilts vertical. Both fighters sprint across its surface, exchanging rapid sword strikes. The glass bends around them like liquid.
+
+9–12s: Mirror explodes into floating black fragments. Fighters leap between reflections, destroying them. Fragments align into a giant blade shape. Smoke forms “BREAK THE IMAGE”, then shatters.
+
+12–15s: Final charge. Ronin's massive diagonal katana strike collides with Valkyrie's spinning twin-blade cross attack. The entire mirror shatters into thousands of black particles. Silence. Final smoke typography: “ONLY ONE REMAINS.”
+
+Elegant black-and-white luxury aesthetic, glossy reflections, silver highlights, charcoal smoke, cinematic motion blur, precise camera orbiting, low mirror tracking, rotating blade shots and dramatic final push.
+
+15s | 16:9 | continuous action | premium cinematic dark fantasy | exact character consistency
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-186579/video-89ebcfd76244.webm)
+
+**Source:** [@itxsarmadd](https://x.com/itxsarmadd/status/2106698801604186579) · 15s · 16:9 · fashion
+
+---
+
+## 7. A step behind her
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-to-video-a-step-behind-her-722148/video-486d19759bf4.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-to-video-a-step-behind-her-722148/poster-24cc9078bcf5.jpg" alt="A step behind her video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — integrated_multimodal_description: 15 seconds, 16:9, live-action cinematic realism. Use &lt;Picture 1&gt; as the only reference for the woman, outfit, location, lighting, and first...</summary>
+
+~~~~text
+integrated_multimodal_description:
+15 seconds, 16:9, live-action cinematic realism. Use <Picture 1> as the only reference for the woman, outfit, location, lighting, and first frame. The opening frame must precisely inherit her leaning pose against the pink weathered wall, with the gray shutter on her left, the old poster on her right, the street in front, and the wall lamp, plants, hair, gold earrings, red polka-dot dress, neckline, waist structure, and facial identity all preserved. Same place, same moment, one continuous performance. Soft retro street-fashion film color: dusty pink wall, stable deep wine-red dress, warm natural skin, restrained gray-green background, medium contrast, soft highlight roll-off, subtle fine grain, real skin texture with slight moisture sheen. Keep the original daylight direction, around 5200K white balance, soft shadows, and continuous exposure. No neon shift, sunset change, rain, extra people, mirrored geography, teleporting, or filter changes.
+
+She activates immediately from the exact leaning pose. Her path is fixed: P0 at the wall -> short advance to P1 -> diagonal drift to P2 -> slow walk along the wall to P3 -> shutter tap and turn -> final move toward P4. She never leaves the same street side, and the camera never crosses the wall axis. The emotional line is playful control turning into mutual recognition: she tests whether the camera can keep up, confirms it, then rewards it with a final backward smile before leaving.
+
+[00:00-00:03.0]
+35mm ground-level tracking rises into a side-follow. Starting from the exact leaning pose in <Picture 1>, she releases her left palm from the wall, pushes shoulder and back away, and advances from P0 to P1 in two short landing steps, the second slightly quicker than the first. The camera retreats a short distance straight backward, keeping a medium framing from head to mid-thigh and bringing her from frame-right toward center. Step impact travels foot -> knee -> hip -> torso; dress waist folds redistribute as she straightens; hair leaves the shoulder a beat later. The pink wall stays clearly behind her. She catches the camera first, then lifts her chin slightly. A restrained hint of a smile appears. During the second landing she absorbs the motion with a small knee bend; the upper body stops first and the chest shows one brief natural rise-and-settle under dress support, while fabric edges and hair tips settle a fraction later. She lowers her chin slightly, checks whether the camera is still backing away, and from 2.7s to 3.4s says quietly: <d>[English] Keep up.</d> The stress lands on “up,” short and clear, lightly challenging.
+
+[00:03.0-00:07.5]
+Without resetting pose, she turns diagonally toward P2 and moves slowly along the wall toward screen-left into P3, settling into a three-quarter left-facing side walk. The camera tracks parallel from the street side, framing head, upper torso, right hand, and a slice of wall, with open space ahead on the left. Her right hand rises near shoulder height and lightly skims the wall. One focus idea only: briefly show the fingertip contact while her face stays readable, then over about half a second transfer focus to her eyes as she looks back toward the camera; after that, keep the face sharp. Eyes move first, then the head follows. She exhales slowly; breath gently lifts and lowers chest, shoulders, and neck while she keeps walking. The corner of her mouth lifts and restrains again, as if confirming that the camera really is following. When her fingertips cross a brittle paint edge, a tiny amount of dust flakes off and drops close to the wall; no large peeling or damage. Before 7.5s she reaches P3 and her right hand transitions from the pink wall onto the edge of the gray shutter.
+
+[00:07.5-00:09.0]
+At P3 she gives the shutter a light tap with her right hand, producing one short metallic tick, then releases immediately. The shutter never opens. She completes a real stop-and-support under the feet, then the hips, shoulders, and head rotate toward the camera in order. The camera performs one brief left whip of about 0.2-0.3 seconds following her turn, with directional motion blur, then settles instantly into a medium head-to-mid-thigh framing from the street side. No axis jump, no background replacement. As the frame stabilizes, her curls and skirt are still returning from the turn; earrings sway lightly then decay. The chest follows the torso turn with a short constrained lateral inertia under the dress and settles naturally, never bouncing independently.
+
+[00:09.0-00:12.0]
+From the settled medium shot at P3, the camera slowly pushes in toward a face-and-upper-body close shot while keeping the shoulder line and dress waist visible. It does not retreat anymore. She notices that the camera is finally coming toward her. She presses her lips together slightly, the smile starts in the outer corners of the eyes, then the mouth releases and she lets out one short natural laugh. Her shoulders drop subtly with the laugh; upper torso and chest move only with the connected exhale. Any remaining turn inertia is already gone. While laughing, she shifts another half-step along the wall toward screen-left, keeping eye contact instead of posing in place. From 10.6s to 11.6s she says softly: <d>[English] That's better.</d> “better” carries the smile, looser than the first line. After the line she takes a small inhale, the smile stays in her eyes, and her right hand begins to rise.
+
+[00:12.0-00:15.0]
+Her right palm briefly sweeps across the right edge of the lens area as a partial foreground wipe without touching the lens and without blacking out the frame. As the hand drops naturally with her turn, she continues from P3 toward P4 along the shutter and wall, leaving in two steps that start fast and then return to a natural pace. The camera pans left to send her out, always remaining on the street side. Around 14.0s, while still walking, she turns her head slightly back and gives the camera one last look with the real smile still present. The camera catches that glance and gradually settles; she keeps moving toward the left edge. End on her back-side profile and part of the old wall still visible, with a living-frame finish rather than a distant cut, freeze, blackout, or location change.
+
+Physical continuity is strict: every inertia must have a source, path, and end state. Step impact moves from foot to knee to hip to torso; turning is driven by planted support under the feet; hair, earrings, skirt hem, and fabric react with slight delay and then decay. The dress retains seam definition, polka-dot pattern, and believable cloth weight. Fitted areas stay constrained by body and seams; only looser skirt edges move with walking, turning, and the light breeze. Chest motion stays synchronized to walking, breathing, and rotation, with stable anatomy and no rubbery deformation or repeated bounce. Contacts happen only at real touch points: feet on ground, hand on wall, hand on shutter. The wall remains intact. The shutter never swaps sides. The poster is ordinary background only and never animates. A light intermittent breeze flows along the wall from the left street opening toward the right, stirring a few loose hairs, soft skirt edges, plant leaves, and one tiny lifted paper corner on the poster, which flutters and settles back.
+
+overall_soundscape:
+Continuous low-intensity side-street ambience runs through the full 15 seconds: distant urban air, restrained alley noise, and a light intermittent breeze moving along the wall. At 0.0-3.0s, two distinct footfalls land with slightly different weight as fabric rubs softly and hair shifts. At the landing settle, keep a brief close-range body rustle. From 2.7-3.4s the woman says once, <d>[English] Keep up.</d> in a natural adult female mid-low register, clear conversational English with a faint dry texture, fully synchronized to accurate lip movement. At 3.0-7.5s, keep subtle fingertip friction against painted wall, a quiet exhale, faint cloth motion, and very small paint dust release with no exaggerated debris sound. At 7.5-9.0s, include one short light metallic tap on the shutter with a tiny fast-decaying resonance, plus turning fabric and earring movement. At 9.0-12.0s, her breathing and one short genuine laugh sit close to the camera; from 10.6-11.6s she says once, <d>[English] That's better.</d> more relaxed and smiling than the first line. At 12.0-15.0s, keep the passing hand as a soft foreground whoosh, two departing steps, continued low street tone, and the last glance landing in a quieter tail. Dialogue and real action sounds must always stay clear. No added crowd voices, no poster voice, no exaggerated impacts, no moans, no melodramatic whooshes.
+
+non_diegetic_music:
+Use a very light, clean rhythmic bed only. A restrained low bass pulse and sparse dry percussion accents support the first quick approach and the shutter tap as timing marks. Reduce percussion during the slow side-walk and keep the music thinned out under the laugh and the second line. The score should stay minimal, modern, and controlled, never sentimental, never wall-to-wall, and always below dialogue and physical Foley.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/image-to-video-a-step-behind-her-722148/video-486d19759bf4.webm)
+
+**Source:** [@ou_zhen599](https://x.com/ou_zhen599/status/2106385077374722148) · 15s · 16:9 · fashion
+
+---
+
+## 8. Sprite golf sports commercial
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-on-664007/video-b69fbcba0fc9.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-on-664007/poster-1f79f2b5dcaf.jpg" alt="Sprite golf sports commercial video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — 0–2s — THE SIP Fast close-up of the ginger-haired golfer on a sunny golf course. She grabs the Sprite can, cracks it open — PSHHHT! — condensation and tiny droplets flying in slow...</summary>
+
+~~~~text
+0–2s — THE SIP
+Fast close-up of the ginger-haired golfer on a sunny golf course. She grabs the Sprite can, cracks it open — PSHHHT! — condensation and tiny droplets flying in slow motion. She takes a refreshing sip and gives a confident little smirk.
+2–4s — GAME ON
+Hard cut. She tosses the Sprite can slightly upward, catches it, grabs her golf club, and steps into position. Quick whip-pan around her as sunlight flashes across the frame.
+
+4–7s — THE SWING
+Rapid montage: close-up of her gripping the club → golf ball on the tee → her eyes locking onto the ball → skirt and ponytail moving as she swings. She hits the ball with a powerful, perfectly timed CRACK!
+7–10s — FOLLOW THE BALL
+Ultra-fast camera follows the golf ball flying across the bright green course. Speed ramp as it passes trees and sunlight, then lands perfectly near the hole.
+
+10–12s — HOLE IN ONE
+She watches it drop into the hole. Quick reaction shot: she smiles, spins the club casually, and walks toward the camera like she absolutely knew that was happening.
+12–15s — HERO SHOT
+She grabs the cold Sprite can again and takes another sip. Camera pushes in as she lowers the can, smiling confidently. Condensation sparkles in the sunlight. End on a clean product close-up of the Sprite can beside the golf ball.
+
+On-screen text:
+“REFRESH. RELOAD. PLAY.”
+SPRITE — THIRSTY FOR MORE.
+Fast cuts, energetic commercial pacing, whip transitions, speed ramps, crisp summer lighting, realistic golf physics, dynamic camera movement, refreshing splash effects, premium sports-ad aesthetic.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-on-664007/video-b69fbcba0fc9.webm)
+
+**Source:** [@sophiaparkerr_](https://x.com/sophiaparkerr_/status/2106337250346664007) · 15s · 7:4 · product commercial
+
+---
+
+## 9. Still portrait on a moving train
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/she-doesnt-move-the-train-does-625103/video-d87a51c0edb9.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/she-doesnt-move-the-train-does-625103/poster-0913928b32a1.jpg" alt="Still portrait on a moving train video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Use the reference image as the exact visual and character foundation. Create one continuous 15-second cinematic shot on a deserted underground metro platform at night. Preserve...</summary>
+
+~~~~text
+Use the reference image as the exact visual and character foundation. Create one continuous 15-second cinematic shot on a deserted underground metro platform at night. Preserve the woman’s exact face, bleached shaggy wolf cut, lemon-yellow track jacket, proportions, styling, and overall appearance throughout the entire video.
+
+0–3 seconds — Establishing movement
+The woman stands motionless on the platform, facing slightly toward the camera with a calm, distant expression. The camera begins a very slow handheld push-in. Her hair moves gently from the distant airflow of an approaching train. Fluorescent station lights create soft reflections on the wet platform.
+
+3–6 seconds — Train approaches
+A metro train becomes visible in the deep background and rapidly approaches behind her. The camera continues its subtle push-in while drifting slightly sideways. The approaching train headlights create a gradual exposure change across the scene. Her expression remains composed and almost completely still.
+
+6–10 seconds — Train rushes past
+The train suddenly races directly behind her. Powerful displaced air dramatically blows her bleached wolf cut backward and makes the lemon track jacket ripple naturally. Keep her face sharp and recognizable while the train develops realistic horizontal motion blur. Passing carriage lights streak across the background and briefly illuminate her face.
+
+10–13 seconds — Peak cinematic moment
+The strongest airflow lifts individual strands of her hair across the frame. She subtly turns her eyes toward the passing train but does not turn her head significantly. The camera makes a very slight lateral movement, maintaining her as the central visual anchor. Reflections and light streaks move rapidly across the wet platform.
+
+13–15 seconds — Aftermath
+The train begins disappearing into the distance. The airflow gradually settles. Her hair falls naturally back around her face. The camera completes the slow push-in and settles on a close cinematic portrait. She looks past the camera with the same quiet, detached expression as the final train lights fade into the background.
+
+Visual style throughout:
+Photorealistic cinematic 35mm film, Kodak Portra color rendition, authentic analog grain, visible natural skin pores and texture, subtle halation around fluorescent lights, slightly imperfect exposure, muted analog colors, realistic motion blur, shallow depth of field, tactile film texture, documentary fashion editorial aesthetic, subtle handheld camera movement, realistic physics, natural hair and fabric motion.
+
+Continuity constraints:
+One continuous shot, no cuts, no scene changes, no changes to wardrobe, no hairstyle transformation, no facial morphing, no identity changes, no extra people, no beauty-filtered skin, no plastic texture, no exaggerated acting, no surreal effects, no CGI-looking train or environment. Preserve the exact visual identity and composition of the reference image.
+
+Format: 15 seconds, 16:9 widescreen, cinematic composition, realistic temporal motion, premium analog fashion-film aesthetic.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/she-doesnt-move-the-train-does-625103/video-d87a51c0edb9.webm)
+
+**Source:** [@MrDasCreates](https://x.com/MrDasCreates/status/2106245982652625103) · 15s · 16:9 · fashion
+
+---
+
+## 10. Rose Glow fashion magazine trailer
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/15s-16-9-24fps-fashion-magazine-trailer-rose-glow-soft-876409/video-c024b300388a.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/15s-16-9-24fps-fashion-magazine-trailer-rose-glow-soft-876409/poster-0d0e6817964b.jpg" alt="Rose Glow fashion magazine trailer video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a 15s, 16:9, 24fps live-action fashion magazine trailer with exactly 13 cuts. Style: Korean/Asian luxury fashion editorial × pink campaign × kinetic typography. Theme: ROSE...</summary>
+
+~~~~text
+Create a 15s, 16:9, 24fps live-action fashion magazine trailer with exactly 13 cuts. Style: Korean/Asian luxury fashion editorial × pink campaign × kinetic typography. Theme: ROSE GLOW. Tagline: SOFT ATTITUDE. Use the reference girl as the ONLY identity source. Keep the same young adult East Asian woman, face, skin tone, age, long dark-brown hair, bangs, slim body and proportions. No face drift, extra people, hairstyle or body changes. WORLD: PINK FASHION MAGAZINE STUDIO only. No outdoor/city/café/hotel/nature. Every cut changes set, layout and composition. Palette: soft/rose pink, cream white, small black/silver. Use magazine pages, typography walls, acrylic, mirrors, torn paper, grids, flowers, contact sheets, frames, checkerboard. LOOKS: 01 pink tweed + mini skirt; 02 cream-white top + pink-white asymmetric skirt; 03 rose fitted mini dress; 04 pale-pink Y2K crop top + pink-gray low-rise skirt; 05 pale-pink satin/tweed hero dress. CUTS: 1 close-up side gaze→camera, “ROSE”. 2 LOOK01, touch face, push-in, “GLOW”. 3 beauty close-up, brush hair, cream set, “CHINA MUSE”. 4 LOOK02, side→front, pink circle, “SOFT ATTITUDE”. 5 giant magazine page, half-step, “THE PINK EDIT”. 6 LOOK03 seated on silver platform, “MODERN ROMANCE”. 7 chest-up, adjust earring, “COVER GIRL”. 8 LOOK04, checkerboard, hip shift + look back, “NEW MOOD”. 9 centered model + 3–4 photo contact sheets. 10 torn pink paper reveal, shoulder turn, “FASHION ISSUE”. 11 LOOK05, pink acrylic + silver frame, step forward, “ROSE GLOW”. 12 pull-back as magazine pages/contact sheets/frames build around her, “SOFT ATTITUDE”. 13 final cover: slight turn→direct gaze; graphics assemble into ROSE GLOW / CHINA MUSE / SOFT ATTITUDE / VOL. 2026 / THE PINK EDIT. Hold final 0.5s. 55% live-action / 45% motion graphics. Each cut combines character action + camera move + typography + graphics. No dancing. Avoid slideshow, repeated backgrounds, sticker/PPT feel, cyberpunk, unreadable text, logos, watermark, UI, subtitles.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/15s-16-9-24fps-fashion-magazine-trailer-rose-glow-soft-876409/video-c024b300388a.webm)
+
+**Source:** [@molyin_com](https://x.com/molyin_com/status/2107089090063876409) · 15s · 7:4 · fashion
+
+---
+
+## 11. Romantic evening perfume commercial
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-657852/video-a741d47e7095.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-657852/poster-730edaa4257e.jpg" alt="Romantic evening perfume commercial video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create an ultra-realistic, cinematic luxury perfume commercial with a romantic evening atmosphere. Scene 1: A beautiful young woman with a short brunette bob haircut, elegant...</summary>
+
+~~~~text
+Create an ultra-realistic, cinematic luxury perfume commercial with a romantic evening atmosphere.
+
+Scene 1: A beautiful young woman with a short brunette bob haircut, elegant features, and natural makeup stands in front of a mirror, wearing a sophisticated white evening dress and delicate gold jewelry. She smiles softly while getting ready for a special evening.
+
+Scene 2: Close-up of her smartphone resting on a bedside table as she receives a message. Warm ambient lighting creates a cozy, intimate mood.
+
+Scene 3: She opens her wardrobe and chooses an elegant white dress. Capture natural movements, realistic fabric physics, and cinematic framing.
+
+Scene 4: A macro close-up of her hand holding a luxurious transparent glass perfume bottle with pink fragrance. She gently sprays the perfume on her wrist. Highlight the fine mist, glass reflections, and premium product details.
+
+Scene 5: She turns away from the mirror, her short hair moving naturally as she prepares to leave. Use a smooth cinematic camera movement.
+
+Scene 6: A beautiful European city street at night, with warm restaurant lights, passing cars, and soft reflections on the pavement. The woman walks gracefully toward a stylish restaurant.
+
+Scene 7: A romantic close-up of the woman and a handsome young man meeting outside at night. They exchange warm smiles and look into each other's eyes, creating a subtle romantic moment.
+
+Visual style: Premium luxury perfume advertisement, cinematic storytelling, warm golden lighting, realistic skin texture, shallow depth of field, elegant camera movements, soft bokeh, natural human expressions, sophisticated color grading, photorealistic details, 4K quality.
+
+Maintain consistent character identities, realistic movements, seamless transitions, and a refined romantic atmosphere. No text, no subtitles, no logos, no watermark.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-657852/video-a741d47e7095.webm)
+
+**Source:** [@CaliraVal](https://x.com/CaliraVal/status/2105895582275657852) · 15s · 4:3 · product commercial
+
+---
+
+## 12. Created with MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-666438/video-981342f914ef.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-666438/poster-60faf7e2265c.jpg" alt="Created with MiniMax H3 on video preview" width="700" />
@@ -73,7 +661,7 @@ Negative: No face changes, identity drift, duplicate character, extra people, di
 
 ---
 
-## 3. Man reference <image 0> Woman reference <image 1> Use the two supplied character
+## 13. Man reference <image 0> Woman reference <image 1> Use the two supplied character
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/man-reference-image-0-woman-reference-image-1-use-the-734840/video-616e807aba28.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/man-reference-image-0-woman-reference-image-1-use-the-734840/poster-c72070b52105.jpg" alt="Man reference &lt;image 0&gt; Woman reference &lt;image 1&gt; Use the two supplied character video preview" width="700" />
@@ -114,7 +702,7 @@ NO MUSIC. Only quiet rain, subdued diner ambience and dialogue.
 
 ---
 
-## 4. Try it 👉
+## 14. Try it 👉
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-771014/video-ed497b15dc8d.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-771014/poster-eaf72cfa5115.jpg" alt="Try it 👉 video preview" width="700" />
@@ -149,7 +737,7 @@ Realistic skin, hair and fabrics. Keep identity perfectly stable. No second pers
 
 ---
 
-## 5. High-Fashion Avant-Garde (The Architectural Organza) A performer steps into a
+## 15. High-Fashion Avant-Garde (The Architectural Organza) A performer steps into a
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/high-fashion-avant-garde-the-architectural-organza-a-performer-steps-204066/video-462540f7feaa.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/high-fashion-avant-garde-the-architectural-organza-a-performer-steps-204066/poster-0ed0975cf82f.jpg" alt="High-Fashion Avant-Garde (The Architectural Organza) A performer steps into a video preview" width="700" />
@@ -170,7 +758,7 @@ High-Fashion Avant-Garde (The Architectural Organza) A performer steps into a sh
 
 ---
 
-## 6. Try it →
+## 16. Try it →
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-017874/video-3ad031a973c5.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-017874/poster-be615d69a5c5.jpg" alt="Try it → video preview" width="700" />
@@ -207,7 +795,7 @@ Final result: real K-pop comeback teaser energy — Pink. Pretty. Playful. Idol-
 
 ---
 
-## 7. Created with MiniMax H3 on
+## 17. Created with MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-401562/video-9e801624de46.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-401562/poster-eeb787686e50.jpg" alt="Created with MiniMax H3 on video preview" width="700" />
@@ -272,7 +860,7 @@ Premium AAA quality, soft cinematic rendering, stylish and luminous, strong grap
 
 ---
 
-## 8. Crispy outside. Creamy inside. Pure caramel temptation.🍮✨ Made for the moment you deserve.
+## 18. Crispy outside. Creamy inside. Pure caramel temptation.🍮✨ Made for the moment you deserve.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/crispy-outside-creamy-inside-pure-caramel-temptation-made-for-the-087216/video-bda1143d8357.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/crispy-outside-creamy-inside-pure-caramel-temptation-made-for-the-087216/poster-f64fb67cb41a.jpg" alt="Crispy outside. Creamy inside. Pure caramel temptation.🍮✨ Made for the moment you deserve. video preview" width="700" />
@@ -339,7 +927,7 @@ Ultra-realistic gourmet dessert commercial, detailed golden dough texture, gloss
 
 ---
 
-## 9. Try it →
+## 19. Try it →
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-160503/video-f8170d9fad12.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-160503/poster-af392992ef4d.jpg" alt="Try it → video preview" width="700" />
@@ -411,7 +999,7 @@ One locked Korean-idol heroine × premium scarlet fashion styling × multi-scene
 
 ---
 
-## 10. Made with MiniMax H3 on
+## 20. Made with MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-on-206139/video-06dfb3bbf918.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-on-206139/poster-d6f6ecebdc38.jpg" alt="Made with MiniMax H3 on video preview" width="700" />
@@ -475,7 +1063,7 @@ FINAL LOOK: Elegant, aggressive, surreal dark-fashion sword cinema.
 
 ---
 
-## 11. What's your best trick for taming video models?
+## 21. What's your best trick for taming video models?
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/what-s-your-best-trick-for-taming-video-models-939347/video-65d6b1e0978d.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/what-s-your-best-trick-for-taming-video-models-939347/poster-88b26e03c659.jpg" alt="What's your best trick for taming video models? video preview" width="700" />
@@ -504,7 +1092,7 @@ Seconds 8-10: The cookie skids to a stop, turns back to camera, raises one leg i
 
 ---
 
-## 12. // Image via Midjourney
+## 22. // Image via Midjourney
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-via-midjourney-818272/video-50578e52d443.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-via-midjourney-818272/poster-78753f853af0.jpg" alt="// Image via Midjourney video preview" width="700" />
@@ -529,7 +1117,7 @@ p.s. I used an audio sample of me talking in a 'scary' voice for the reference!
 
 ---
 
-## 13. Try it 👉
+## 23. Try it 👉
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-506178/video-307340b8e049.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-506178/poster-4c62e3974539.jpg" alt="Try it 👉 video preview" width="700" />
@@ -580,7 +1168,7 @@ No second human/fairy, duplicates, face drift, hairstyle/color/costume changes, 
 
 ---
 
-## 14. Generation controls (authoritative)
+## 24. Generation controls (authoritative)
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/generation-controls-authoritative-863017/video-7a694e8717d3.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/generation-controls-authoritative-863017/poster-cfc7f8499aa5.jpg" alt="Generation controls (authoritative) video preview" width="700" />
@@ -624,7 +1212,7 @@ Soft elegant instrumental music with delicate strings, airy piano, and subtle sh
 
 ---
 
-## 15. Made With Minimax H3
+## 25. Made With Minimax H3
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-216042/video-d6ddb6e21e0c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-216042/poster-72c375b824b3.jpg" alt="Made With Minimax H3 video preview" width="700" />
@@ -672,7 +1260,7 @@ Audio: Door bell, footsteps, flower stems rustling, scissors cutting stems, pape
 
 ---
 
-## 16. Seedance 2.5 vs minimax h3 , for me h3 won
+## 26. Seedance 2.5 vs minimax h3 , for me h3 won
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/seedance-2-5-vs-minimax-h3-for-me-h3-won-951458/video-1dfdc6320259.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/seedance-2-5-vs-minimax-h3-for-me-h3-won-951458/poster-4bab6a0a236a.jpg" alt="Seedance 2.5 vs minimax h3 , for me h3 won video preview" width="700" />
@@ -717,7 +1305,7 @@ Action & Animation Sequence
 
 ---
 
-## 17. Made with MiniMax Hailuo H3 Max on
+## 27. Made with MiniMax Hailuo H3 Max on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-hailuo-h3-max-on-160120/video-49509ccadf7a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-hailuo-h3-max-on-160120/poster-2fc2f00cc32c.jpg" alt="Made with MiniMax Hailuo H3 Max on video preview" width="700" />
@@ -754,7 +1342,7 @@ TENSION: Macro split-screen tension; hands holding the OREO cookie from both sid
 
 ---
 
-## 18. Here are the results below
+## 28. Here are the results below
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/here-are-the-results-below-878412/video-f86aa209a99b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/here-are-the-results-below-878412/poster-785339fda00a.jpg" alt="Here are the results below video preview" width="700" />
@@ -775,7 +1363,7 @@ subject_definitions: <Subject 1> is the stylized sorceress in <Picture 1>, featu
 
 ---
 
-## 19. Soft outside. Sweet surprise inside. 🥭✨ A little bite of tropical obsession.
+## 29. Soft outside. Sweet surprise inside. 🥭✨ A little bite of tropical obsession.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/soft-outside-sweet-surprise-inside-a-little-bite-of-tropical-333063/video-ef41b035fd4b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/soft-outside-sweet-surprise-inside-a-little-bite-of-tropical-333063/poster-1e7c50450a21.jpg" alt="Soft outside. Sweet surprise inside. 🥭✨ A little bite of tropical obsession. video preview" width="700" />
@@ -897,7 +1485,7 @@ IMPORTANT: Keep the mango mochi and packaging consistent and recognizable across
 
 ---
 
-## 20. Anime fashion film with dance moves.
+## 30. Anime fashion film with dance moves.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/anime-fashion-film-with-dance-moves-119410/video-ccb829c99c45.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/anime-fashion-film-with-dance-moves-119410/poster-a17c60424d5f.jpg" alt="Anime fashion film with dance moves. video preview" width="700" />
@@ -928,7 +1516,7 @@ Finish with a sudden forward lean toward the lens while enormous pink and cyan e
 
 ---
 
-## 21. created with MiniMax H3 on
+## 31. created with MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-614134/video-a8a83565a196.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-614134/poster-ba4d0ea8b5bd.jpg" alt="created with MiniMax H3 on video preview" width="700" />
@@ -949,7 +1537,7 @@ Create a 15-second animated art piece centred on Feluda. This is not a movie sce
 
 ---
 
-## 22. Created with MiniMax H3.
+## 32. Created with MiniMax H3.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-023816/video-90162a4f2d1f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-023816/poster-7725b7fe255a.jpg" alt="Created with MiniMax H3. video preview" width="700" />
@@ -982,7 +1570,7 @@ Photorealistic, natural skin and hair, realistic fabric movement, cinematic ligh
 
 ---
 
-## 23. Try it →
+## 33. Try it →
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-731290/video-45072d167800.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-731290/poster-ec2c3bde4342.jpg" alt="Try it → video preview" width="700" />
@@ -1031,7 +1619,7 @@ Final feel: a premium pink Korean K-pop fashion campaign — cute, sexy, Y2K, en
 
 ---
 
-## 24. Cold, creamy, and impossible to resist. 🍓✨ One spoonful changes everything.
+## 34. Cold, creamy, and impossible to resist. 🍓✨ One spoonful changes everything.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/cold-creamy-and-impossible-to-resist-one-spoonful-changes-everything-689457/video-bdc9d5f87ae9.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/cold-creamy-and-impossible-to-resist-one-spoonful-changes-everything-689457/poster-1fe0602318ea.jpg" alt="Cold, creamy, and impossible to resist. 🍓✨ One spoonful changes everything. video preview" width="700" />
@@ -1098,7 +1686,7 @@ Ultra-realistic premium frozen dessert commercial, rich creamy ice cream texture
 
 ---
 
-## 25. Minimax H3 in
+## 35. Minimax H3 in
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-in-975646/video-a41f85105df7.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-in-975646/poster-7f4ee612296d.jpg" alt="Minimax H3 in video preview" width="700" />
@@ -1153,7 +1741,7 @@ QUALITY: Premium AAA cinematic × children’s-book illustration × fairy-tale m
 
 ---
 
-## 26. Create a 15-second high-fashion editorial film starring the adult character in
+## 36. Create a 15-second high-fashion editorial film starring the adult character in
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/create-a-15-second-high-fashion-editorial-film-starring-the-956809/video-22071a11ffe2.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/create-a-15-second-high-fashion-editorial-film-starring-the-956809/poster-ecef0c4c6081.jpg" alt="Create a 15-second high-fashion editorial film starring the adult character in video preview" width="700" />
@@ -1197,7 +1785,7 @@ Stable identity and anatomy throughout. No outfit changes, added accessories or 
 
 ---
 
-## 27. Zodiac Transformation
+## 37. Zodiac Transformation
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/zodiac-transformation-222142/video-01d8791aa176.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/zodiac-transformation-222142/poster-d5f5b2499e24.jpg" alt="Zodiac Transformation video preview" width="700" />
@@ -1244,7 +1832,7 @@ End with the fully transformed character in a breathtaking zodiac-inspired celes
 
 ---
 
-## 28. You can use this style for MVs and character promos too.
+## 38. You can use this style for MVs and character promos too.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/you-can-use-this-style-for-mvs-and-character-promos-142588/video-a7fdf9edba2b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/you-can-use-this-style-for-mvs-and-character-promos-142588/poster-dee683a178db.jpg" alt="You can use this style for MVs and character promos too. video preview" width="700" />
@@ -1271,7 +1859,7 @@ Crisp premium anime illustration, Y2K Harajuku arcade aesthetic, saturated neon 
 
 ---
 
-## 29. "integrated_multimodal_description: [Shot 1] Stylized 3D Pixar-animated look
+## 39. "integrated_multimodal_description: [Shot 1] Stylized 3D Pixar-animated look
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/integrated-multimodal-description-shot-1-stylized-3d-pixar-animated-look-093063/video-e08a8e78744e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/integrated-multimodal-description-shot-1-stylized-3d-pixar-animated-look-093063/poster-afc1b6a2c715.jpg" alt="&quot;integrated_multimodal_description: [Shot 1] Stylized 3D Pixar-animated look video preview" width="700" />
@@ -1333,7 +1921,7 @@ hard comedic sting as he reaches the door at 00:14.000."
 
 ---
 
-## 30. Made with MiniMax H3 on
+## 40. Made with MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-on-128023/video-43dda0dbdd5a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-on-128023/poster-77bf6cf6b7b8.jpg" alt="Made with MiniMax H3 on video preview" width="700" />
@@ -1391,7 +1979,7 @@ The character must not appear instantly or through a single magical transformati
 
 ---
 
-## 31. Canvas Try it →
+## 41. Canvas Try it →
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/canvas-try-it-182080/video-33a88ecdb8ea.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/canvas-try-it-182080/poster-e6374292d642.jpg" alt="Canvas Try it → video preview" width="700" />
@@ -1441,7 +2029,7 @@ No second human/fairy, duplicates, face drift, hairstyle/color/costume changes, 
 
 ---
 
-## 32. Time to experiment.
+## 42. Time to experiment.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/time-to-experiment-885143/video-d99f511d12bf.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/time-to-experiment-885143/poster-cfb5856ab572.jpg" alt="Time to experiment. video preview" width="700" />
@@ -1513,7 +2101,7 @@ NEGATIVE PROMPT: No CGI look, synthetic skin, beauty filter, excessive sharpenin
 
 ---
 
-## 33. Strong, modern, editorial, with a little strange beauty and controlled unease.
+## 43. Strong, modern, editorial, with a little strange beauty and controlled unease.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/strong-modern-editorial-with-a-little-strange-beauty-and-controlled-746202/video-72e57d6f8b5d.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/strong-modern-editorial-with-a-little-strange-beauty-and-controlled-746202/poster-b0c7e46ac669.jpg" alt="Strong, modern, editorial, with a little strange beauty and controlled unease. video preview" width="700" />
@@ -1603,7 +2191,7 @@ Strong, modern, editorial, with a little strange beauty and controlled unease.
 
 ---
 
-## 34. Made with MiniMax H3 on
+## 44. Made with MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-on-814722/video-cae708cb7934.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-on-814722/poster-9f172b024123.jpg" alt="Made with MiniMax H3 on video preview" width="700" />
@@ -1715,7 +2303,7 @@ Strong, modern, editorial, with a little strange beauty and controlled unease.
 
 ---
 
-## 35. Golden Hour Neighborhood Walk
+## 45. Golden Hour Neighborhood Walk
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/golden-hour-neighborhood-walk-568202/video-67f30f278849.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/golden-hour-neighborhood-walk-568202/poster-edfef6cbf784.jpg" alt="Golden Hour Neighborhood Walk video preview" width="700" />
@@ -1758,7 +2346,7 @@ Audio: Natural location sound only — footsteps on pavement, soft ambient neigh
 
 ---
 
-## 36. MiniMax H3 生成
+## 46. MiniMax H3 生成
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-476668/video-f75161a75007.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-476668/poster-b805b9332db6.jpg" alt="MiniMax H3 生成 video preview" width="700" />
@@ -1838,7 +2426,7 @@ Anna 右手握住一只黑色高跟鞋，手腕一翻、向上一抛——鞋子
 
 ---
 
-## 37. wan 3.0 🆚 Seedance 2.0 🆚 MiniMax H3
+## 47. wan 3.0 🆚 Seedance 2.0 🆚 MiniMax H3
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/wan-3-0-seedance-2-0-minimax-h3-021455/video-8fa74aa0b046.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/wan-3-0-seedance-2-0-minimax-h3-021455/poster-39a5114106ec.jpg" alt="wan 3.0 🆚 Seedance 2.0 🆚 MiniMax H3 video preview" width="700" />
@@ -1980,7 +2568,7 @@ wan3.0 效果👇
 
 ---
 
-## 38. Created with / MiniMax H3 × Ima Studio
+## 48. Created with / MiniMax H3 × Ima Studio
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-ima-studio-241208/video-38646d3f5fbe.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-ima-studio-241208/poster-3e5dabfbe8f2.jpg" alt="Created with / MiniMax H3 × Ima Studio video preview" width="700" />
@@ -2003,7 +2591,7 @@ Try MiniMax H3 on Ima Studio 👉
 
 ---
 
-## 39. Created with MiniMax H3.
+## 49. Created with MiniMax H3.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-166818/video-7aae9b13719f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-166818/poster-7f88a5e15ff2.jpg" alt="Created with MiniMax H3. video preview" width="700" />
@@ -2024,7 +2612,7 @@ Create a 15-second ultra-realistic cinematic lifestyle video based on the storyb
 
 ---
 
-## 40. Character Board Animation (Bottom Video) & Character Intro Animation (Top Video)
+## 50. Character Board Animation (Bottom Video) & Character Intro Animation (Top Video)
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/character-board-animation-bottom-video-character-intro-animation-top-vid-865400/video-a9048f3cc023.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/character-board-animation-bottom-video-character-intro-animation-top-vid-865400/poster-8649b607f5a1.jpg" alt="Character Board Animation (Bottom Video) &amp; Character Intro Animation (Top Video) video preview" width="700" />
@@ -2094,7 +2682,7 @@ Use elegant cinematic camera movement, smooth transitions, and refined artbook-i
 
 ---
 
-## 41. Created with MiniMax H3 on
+## 51. Created with MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-917271/video-7b443cd78c24.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-917271/poster-bb93c6268759.jpg" alt="Created with MiniMax H3 on video preview" width="700" />
@@ -2122,7 +2710,7 @@ Style: photorealistic, premium Pepsi commercial, cinematic storytelling, warm go
 
 ---
 
-## 42. Get unlimited on Runway
+## 52. Get unlimited on Runway
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/get-unlimited-on-runway-974704/video-d33b402d089d.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/get-unlimited-on-runway-974704/poster-f3361d4084ff.jpg" alt="Get unlimited on Runway video preview" width="700" />
@@ -2152,7 +2740,7 @@ Prompt 2
 
 ---
 
-## 43. Created with Unlimited on Runway.
+## 53. Created with Unlimited on Runway.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-unlimited-on-runway-347863/video-3aea515ebb8e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-unlimited-on-runway-347863/poster-897155ff4fc7.jpg" alt="Created with Unlimited on Runway. video preview" width="700" />
@@ -2173,7 +2761,7 @@ A man puts on headphones while walking through a dull grey city. Beat begins. Fi
 
 ---
 
-## 44. Created with MiniMax H3 on
+## 54. Created with MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-248245/video-61976ad5def2.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-248245/poster-127f9e8ae493.jpg" alt="Created with MiniMax H3 on video preview" width="700" />
@@ -2238,7 +2826,7 @@ Quality: Photorealistic, cinematic, high detail
 
 ---
 
-## 45. I made a comedy special with Hailuo H3 and the timing is spot on
+## 55. I made a comedy special with Hailuo H3 and the timing is spot on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/i-made-a-comedy-special-with-hailuo-h3-and-the-076759/video-cad41e26b34c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/i-made-a-comedy-special-with-hailuo-h3-and-the-076759/poster-abdb310fd381.jpg" alt="I made a comedy special with Hailuo H3 and the timing is spot on video preview" width="700" />
@@ -2300,7 +2888,7 @@ Production details: Keep the same comedian, outfit, microphone, stage and audien
 
 ---
 
-## 46. Second Storyboard Image to video using MiniMax H3 on
+## 56. Second Storyboard Image to video using MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/second-storyboard-image-to-video-using-minimax-h3-on-665414/video-2c4784f7af18.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/second-storyboard-image-to-video-using-minimax-h3-on-665414/poster-bbe5730a76e8.jpg" alt="Second Storyboard Image to video using MiniMax H3 on video preview" width="700" />
@@ -3785,7 +4373,7 @@ No humans stepping on characters.
 
 ---
 
-## 47. First Storyboard Image to video using 's MiniMax H3 on
+## 57. First Storyboard Image to video using 's MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-517354/video-f661e6c0d06a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-517354/poster-b7e70bb4f45d.jpg" alt="First Storyboard Image to video using 's MiniMax H3 on video preview" width="700" />
@@ -5192,7 +5780,7 @@ CUT TO CHILL.
 
 ---
 
-## 48. Created with MiniMax H3
+## 58. Created with MiniMax H3
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-540945/video-13cbea5b7467.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-540945/poster-9a426723aa8a.jpg" alt="Created with MiniMax H3 video preview" width="700" />
@@ -5213,7 +5801,7 @@ Create a premium 15-second cinematic ad for Audionic Trance Airbud 850. Start wi
 
 ---
 
-## 49. T2V Hailuo MinimaxH3 Prompt [FORMAT] Create a 15-second, 16:9 retro graphic
+## 59. T2V Hailuo MinimaxH3 Prompt [FORMAT] Create a 15-second, 16:9 retro graphic
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/t2v-hailuo-minimaxh3-prompt-format-create-a-15-second-16-099381/video-7d3845a01378.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/t2v-hailuo-minimaxh3-prompt-format-create-a-15-second-16-099381/poster-77292751d7b1.jpg" alt="T2V Hailuo MinimaxH3 Prompt [FORMAT] Create a 15-second, 16:9 retro graphic video preview" width="700" />
@@ -5276,7 +5864,7 @@ Never a slideshow. Maintain active graphic motion, physical visual transitions, 
 
 ---
 
-## 50. Created with MiniMax H3
+## 60. Created with MiniMax H3
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-823597/video-68e6bf825c2a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-823597/poster-27f10be5609b.jpg" alt="Created with MiniMax H3 video preview" width="700" />
@@ -5306,7 +5894,7 @@ Style: Luxury fragrance commercial, cinematic, photorealistic, 4K.
 
 ---
 
-## 51. Seocnd Storyboard image to video using 's MiniMax H3 on
+## 61. Seocnd Storyboard image to video using 's MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/seocnd-storyboard-image-to-video-using-s-minimax-h3-on-442041/video-252019a6d170.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/seocnd-storyboard-image-to-video-using-s-minimax-h3-on-442041/poster-b607393e7e7f.jpg" alt="Seocnd Storyboard image to video using 's MiniMax H3 on video preview" width="700" />
@@ -6775,7 +7363,7 @@ No levitating food.
 
 ---
 
-## 52. First Storyboard image to video using 's MiniMax H3 on
+## 62. First Storyboard image to video using 's MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-995928/video-9cbd5b66bb9b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-995928/poster-7150a1d5c769.jpg" alt="First Storyboard image to video using 's MiniMax H3 on video preview" width="700" />
@@ -8281,7 +8869,7 @@ The viewer should immediately want to see:
 
 ---
 
-## 53. Second Storyboard Image to video using MiniMax H3 on
+## 63. Second Storyboard Image to video using MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/second-storyboard-image-to-video-using-minimax-h3-on-215889/video-ecca828f5d4c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/second-storyboard-image-to-video-using-minimax-h3-on-215889/poster-987b9e53a9c3.jpg" alt="Second Storyboard Image to video using MiniMax H3 on video preview" width="700" />
@@ -9729,7 +10317,7 @@ harmonica must remain visible.
 
 ---
 
-## 54. First Storyboard image to video using 's MiniMax H3 on
+## 64. First Storyboard image to video using 's MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-440739/video-034b4f923dc7.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-440739/poster-cf6d96d10055.jpg" alt="First Storyboard image to video using 's MiniMax H3 on video preview" width="700" />
@@ -11186,7 +11774,7 @@ No crime/gangster framing.
 
 ---
 
-## 55. Second Storyboard Image to video using MiniMax H3 on
+## 65. Second Storyboard Image to video using MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/second-storyboard-image-to-video-using-minimax-h3-on-451093/video-224daea0e392.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/second-storyboard-image-to-video-using-minimax-h3-on-451093/poster-b91e6afd1269.jpg" alt="Second Storyboard Image to video using MiniMax H3 on video preview" width="700" />
@@ -12649,7 +13237,7 @@ MOTION RULES — KIWI
 
 ---
 
-## 56. First Storyboard Image to video using 's MiniMax H3 on
+## 66. First Storyboard Image to video using 's MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-954269/video-a4a4f16df0e6.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-954269/poster-db4db1d3907d.jpg" alt="First Storyboard Image to video using 's MiniMax H3 on video preview" width="700" />
@@ -14115,7 +14703,7 @@ King Pine must still visibly wear:
 
 ---
 
-## 57. Fourthi Storyboard Image to video using MiniMax H3 on
+## 67. Fourthi Storyboard Image to video using MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/fourthi-storyboard-image-to-video-using-minimax-h3-on-470161/video-29eaf32ca5bd.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/fourthi-storyboard-image-to-video-using-minimax-h3-on-470161/poster-02038036727b.jpg" alt="Fourthi Storyboard Image to video using MiniMax H3 on video preview" width="700" />
@@ -15527,7 +16115,7 @@ Restored night palette:
 
 ---
 
-## 58. No painful reactions.
+## 68. No painful reactions.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/no-painful-reactions-707867/video-1bf525965dd7.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/no-painful-reactions-707867/poster-655644de766c.jpg" alt="No painful reactions. video preview" width="700" />
@@ -16916,7 +17504,7 @@ No painful reactions.
 
 ---
 
-## 59. No moon restoration yet.
+## 69. No moon restoration yet.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/no-moon-restoration-yet-834347/video-837f31b71233.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/no-moon-restoration-yet-834347/poster-87888b4156ef.jpg" alt="No moon restoration yet. video preview" width="700" />
@@ -18389,7 +18977,7 @@ No moon restoration yet.
 
 ---
 
-## 60. First Storyboard Image to video using 's MiniMax H3 on
+## 70. First Storyboard Image to video using 's MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-105162/video-d32d3c31e4ed.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-105162/poster-36c4ecade43d.jpg" alt="First Storyboard Image to video using 's MiniMax H3 on video preview" width="700" />
@@ -19799,7 +20387,7 @@ and
 
 ---
 
-## 61. Second Storyboard Image to video using 's MiniMax H3 on
+## 71. Second Storyboard Image to video using 's MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/second-storyboard-image-to-video-using-s-minimax-h3-on-495506/video-8719e1aaa9da.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/second-storyboard-image-to-video-using-s-minimax-h3-on-495506/poster-771aa67142d6.jpg" alt="Second Storyboard Image to video using 's MiniMax H3 on video preview" width="700" />
@@ -21201,7 +21789,7 @@ Individual stars physically move to new locations.
 
 ---
 
-## 62. The viewer should immediately want to see how 3,200 tiny stars transform the night in PART 2.
+## 72. The viewer should immediately want to see how 3,200 tiny stars transform the night in PART 2.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/the-viewer-should-immediately-want-to-see-how-3-200-630916/video-24183f17ba1e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/the-viewer-should-immediately-want-to-see-how-3-200-630916/poster-714aea4de2e0.jpg" alt="The viewer should immediately want to see how 3,200 tiny stars transform the night in PART 2. video preview" width="700" />
@@ -22572,7 +23160,7 @@ The viewer should immediately want to see how 3,200 tiny stars transform the nig
 
 ---
 
-## 63. This model shines at generating mixed‑media motion graphics combining visuals and text information.
+## 73. This model shines at generating mixed‑media motion graphics combining visuals and text information.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/this-model-shines-at-generating-mixedmedia-motion-graphics-combining-vis-961590/video-d529433d7a27.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/this-model-shines-at-generating-mixedmedia-motion-graphics-combining-vis-961590/poster-f3b7316a5e07.jpg" alt="This model shines at generating mixed‑media motion graphics combining visuals and text information. video preview" width="700" />
@@ -22765,7 +23353,7 @@ No dialogue.
 
 ---
 
-## 64. Product Commercial Study 969702
+## 74. Product Commercial Study 969702
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/16-9-luxury-fashion-commercial-using-as-exact-vi-969702/video-c07c62a99d2c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/16-9-luxury-fashion-commercial-using-as-exact-vi-969702/poster-949e012ef325.jpg" alt="Product Commercial Study 969702 video preview" width="700" />
@@ -22788,7 +23376,7 @@ Use bright, fashion forward European luxury cinematography inspired by a restore
 
 ---
 
-## 65. [REFERENCE CONTROL] Use the uploaded PART 2 storyboard image for “The Tiny
+## 75. [REFERENCE CONTROL] Use the uploaded PART 2 storyboard image for “The Tiny
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/reference-control-use-the-uploaded-part-2-storyboard-image-for-477564/video-09c5896a79ee.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/reference-control-use-the-uploaded-part-2-storyboard-image-for-477564/poster-616f23c3b7b5.jpg" alt="[REFERENCE CONTROL] Use the uploaded PART 2 storyboard image for “The Tiny video preview" width="700" />
@@ -24193,7 +24781,7 @@ No grabbing.
 
 ---
 
-## 66. First Storyboard Image to video using 's MiniMax H3 on
+## 76. First Storyboard Image to video using 's MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-333283/video-2b0e6363cbd5.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-333283/poster-11e6ed23c117.jpg" alt="First Storyboard Image to video using 's MiniMax H3 on video preview" width="700" />
@@ -25559,7 +26147,7 @@ Brum’s eyes remain closed.
 
 ---
 
-## 67. Third Storyboard Image to video using MiniMax H3 on
+## 77. Third Storyboard Image to video using MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/third-storyboard-image-to-video-using-minimax-h3-on-135909/video-8c68e979a329.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/third-storyboard-image-to-video-using-minimax-h3-on-135909/poster-3062cde194e2.jpg" alt="Third Storyboard Image to video using MiniMax H3 on video preview" width="700" />
@@ -27018,7 +27606,7 @@ do not restart it.
 
 ---
 
-## 68. Second Storyboard Image to video using 's MiniMax H3 on
+## 78. Second Storyboard Image to video using 's MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/second-storyboard-image-to-video-using-s-minimax-h3-on-647644/video-0d2454d0cc90.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/second-storyboard-image-to-video-using-s-minimax-h3-on-647644/poster-6af16ef5bd37.jpg" alt="Second Storyboard Image to video using 's MiniMax H3 on video preview" width="700" />
@@ -28484,7 +29072,7 @@ She realizes the problem.
 
 ---
 
-## 69. First Storyboard Image to video using 's MiniMax H3 on
+## 79. First Storyboard Image to video using 's MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-951530/video-1d1aa189c088.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-951530/poster-33564592648b.jpg" alt="First Storyboard Image to video using 's MiniMax H3 on video preview" width="700" />
@@ -29765,7 +30353,7 @@ This cut should make the viewer immediately want to watch PART 2.
 
 ---
 
-## 70. Minimax H3 in
+## 80. Minimax H3 in
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-in-173149/video-f43c338c8766.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-in-173149/poster-c2e45f6b45ee.jpg" alt="Minimax H3 in video preview" width="700" />
@@ -29838,7 +30426,7 @@ This cut should make the viewer immediately want to watch PART 2.
 
 ---
 
-## 71. Storyboard 2 to Video using MiniMax H3 on
+## 81. Storyboard 2 to Video using MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/storyboard-2-to-video-using-minimax-h3-on-852170/video-6383c31206b6.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/storyboard-2-to-video-using-minimax-h3-on-852170/poster-9b2051a10043.jpg" alt="Storyboard 2 to Video using MiniMax H3 on video preview" width="700" />
@@ -30799,7 +31387,7 @@ CUT TO BLACK.
 
 ---
 
-## 72. Storyboard Image to video using 's MiniMax H3 on
+## 82. Storyboard Image to video using 's MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/storyboard-image-to-video-using-s-minimax-h3-on-693556/video-ef5ace4250f9.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/storyboard-image-to-video-using-s-minimax-h3-on-693556/poster-edcc0332562b.jpg" alt="Storyboard Image to video using 's MiniMax H3 on video preview" width="700" />
@@ -31587,7 +32175,7 @@ CUT TO BLACK.
 
 ---
 
-## 73. Created this with Minimax H3 on
+## 83. Created this with Minimax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-this-with-minimax-h3-on-185447/video-fdee2411a77e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-this-with-minimax-h3-on-185447/poster-577d23675580.jpg" alt="Created this with Minimax H3 on video preview" width="700" />
@@ -31633,7 +32221,7 @@ Visual Style: Premium commercial production, Billboard music video aesthetic, lu
 
 ---
 
-## 74. Create a breathtaking 15-second cinematic flower-morph sequence using the seven
+## 84. Create a breathtaking 15-second cinematic flower-morph sequence using the seven
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/create-a-breathtaking-15-second-cinematic-flower-morph-sequence-using-622337/video-05344071a617.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/create-a-breathtaking-15-second-cinematic-flower-morph-sequence-using-622337/poster-22d297ea3f87.jpg" alt="Create a breathtaking 15-second cinematic flower-morph sequence using the seven video preview" width="700" />
@@ -31701,7 +32289,7 @@ Create genuine continuous anatomical flower transformations. No cuts, crossfades
 
 ---
 
-## 75. How to push Hailuo Minimax H3 to its absolute LIMIT. ⚙️🪐
+## 85. How to push Hailuo Minimax H3 to its absolute LIMIT. ⚙️🪐
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/how-to-push-hailuo-minimax-h3-to-its-absolute-limit-576280/video-cda3bf06a3ff.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/how-to-push-hailuo-minimax-h3-to-its-absolute-limit-576280/poster-389ea7176822.jpg" alt="How to push Hailuo Minimax H3 to its absolute LIMIT. ⚙️🪐 video preview" width="700" />
@@ -31727,7 +32315,7 @@ Use the provided image as the final state. Audio-driven motion sync.
 
 ---
 
-## 76. An other great use for : Product Showcase
+## 86. An other great use for : Product Showcase
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/an-other-great-use-for-product-showcase-096175/video-f3fd02e0acc0.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/an-other-great-use-for-product-showcase-096175/poster-bb6598e746d6.jpg" alt="An other great use for : Product Showcase video preview" width="700" />
@@ -31763,7 +32351,7 @@ Premium wellness-commercial finish, photorealistic ceramic and metal, realistic 
 
 ---
 
-## 77. Hailuo Minimax H3 is super good for product videos🤩
+## 87. Hailuo Minimax H3 is super good for product videos🤩
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-minimax-h3-is-super-good-for-product-videos-129035/video-df83e5dfea13.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-minimax-h3-is-super-good-for-product-videos-129035/poster-c95680ed0247.jpg" alt="Hailuo Minimax H3 is super good for product videos🤩 video preview" width="700" />
@@ -31784,7 +32372,7 @@ cinematic commercial Begin with peat smoke, rain droplets, and oak wood dust flo
 
 ---
 
-## 78. A luxury product commercial generated from a single reference image.
+## 88. A luxury product commercial generated from a single reference image.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/a-luxury-product-commercial-generated-from-a-single-reference-image-637965/video-10c90f0e35ee.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/a-luxury-product-commercial-generated-from-a-single-reference-image-637965/poster-8d25d438dabf.jpg" alt="A luxury product commercial generated from a single reference image. video preview" width="700" />
@@ -31897,7 +32485,7 @@ SEE BEYOND
 
 ---
 
-## 79. Created in
+## 89. Created in
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-in-675674/video-5664945c8d42.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-in-675674/poster-e575573517d2.jpg" alt="Created in video preview" width="700" />
@@ -31918,7 +32506,7 @@ SEE BEYOND
 
 ---
 
-## 80. This video was made with H3 in Krea.
+## 90. This video was made with H3 in Krea.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/this-video-was-made-with-h3-in-krea-797558/video-b64c9e952828.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/this-video-was-made-with-h3-in-krea-797558/poster-895ea7d43ec5.jpg" alt="This video was made with H3 in Krea. video preview" width="700" />
@@ -31990,7 +32578,7 @@ No cartoon styling, no cheap VFX clutter, no excessive lens distortion, no unrea
 
 ---
 
-## 81. going open source could mark a turning point for AI
+## 91. going open source could mark a turning point for AI
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/going-open-source-could-mark-a-turning-point-for-006285/video-41caf4846565.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/going-open-source-could-mark-a-turning-point-for-006285/poster-76c5abfc225f.jpg" alt="going open source could mark a turning point for AI video preview" width="700" />
@@ -32011,7 +32599,7 @@ exaggerated comedy acting, changing identities or faces, distorted fingers or co
 
 ---
 
-## 82. 質感はPixVerseのV6と似ているような。
+## 92. 質感はPixVerseのV6と似ているような。
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/pixversev6-795780/video-ab11677b3664.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/pixversev6-795780/poster-0744d89c149c.jpg" alt="質感はPixVerseのV6と似ているような。 video preview" width="700" />
@@ -32040,7 +32628,7 @@ non_diegetic_music: A steady four-beat pulse at a constant tempo runs from the f
 
 ---
 
-## 83. Mind-blown. One shot
+## 93. Mind-blown. One shot
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/mind-blown-one-shot-376793/video-b2f67795e835.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/mind-blown-one-shot-376793/poster-f47b714c6d95.jpg" alt="Mind-blown. One shot video preview" width="700" />
@@ -32077,7 +32665,7 @@ No character changes, extra people, random text, subtitles, logos, outfit change
 
 ---
 
-## 84. 第一次用MiniMax H3，提示词见评论区，参考了X上的大神
+## 94. 第一次用MiniMax H3，提示词见评论区，参考了X上的大神
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3x-423684/video-3fd54c187316.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3x-423684/poster-4e4601d3a14a.jpg" alt="第一次用MiniMax H3，提示词见评论区，参考了X上的大神 video preview" width="700" />
@@ -32273,7 +32861,7 @@ No:
 
 ---
 
-## 85. Minimax 3 Prompt: Create a premium 16:9 landscape fashion film. Use Image 1 for
+## 95. Minimax 3 Prompt: Create a premium 16:9 landscape fashion film. Use Image 1 for
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-3-prompt-create-a-premium-16-9-landscape-fashion-108362/video-1ab7df834413.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-3-prompt-create-a-premium-16-9-landscape-fashion-108362/poster-7377fe4eb43b.jpg" alt="Minimax 3 Prompt: Create a premium 16:9 landscape fashion film. Use Image 1 for video preview" width="700" />
@@ -32298,7 +32886,7 @@ I added the final video in and the reference images for you to learn from!
 
 ---
 
-## 86. from Hailuio can easily make motivational videos like this
+## 96. from Hailuio can easily make motivational videos like this
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/from-hailuio-can-easily-make-motivational-videos-599712/video-936f4b9bfe14.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/from-hailuio-can-easily-make-motivational-videos-599712/poster-49c304bcd12e.jpg" alt="from Hailuio can easily make motivational videos like this video preview" width="700" />
@@ -32319,7 +32907,7 @@ I added the final video in and the reference images for you to learn from!
 
 ---
 
-## 87. ComfyUIのワークフローのサンプルプロンプトは下記のとおりでした。今までの知見から、アニメ調でアイドルの女の子が日本語で挨拶をする5秒のt2v動画のプロンプトを考案してください。
+## 97. ComfyUIのワークフローのサンプルプロンプトは下記のとおりでした。今までの知見から、アニメ調でアイドルの女の子が日本語で挨拶をする5秒のt2v動画のプロンプトを考案してください。
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/comfyui5t2v-197998/video-6e2a3aca2761.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/comfyui5t2v-197998/poster-17ac5e98500e.jpg" alt="ComfyUIのワークフローのサンプルプロンプトは下記のとおりでした。今までの知見から、アニメ調でアイドルの女の子が日本語で挨拶をする5秒のt2v動画のプロンプトを考案してください。 video preview" width="700" />
@@ -32355,7 +32943,7 @@ No real-life live action rendering, no realistic skin texture, no 3D CG look, no
 
 ---
 
-## 88. Created with MiniMax H3
+## 98. Created with MiniMax H3
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-459646/video-c902a571c039.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-459646/poster-dd92d1b8893f.jpg" alt="Created with MiniMax H3 video preview" width="700" />
@@ -32376,7 +32964,7 @@ A cinematic 15-second ultra-realistic story following a young woman who discover
 
 ---
 
-## 89. MiniMax H3 is incredible at text rendering!
+## 99. MiniMax H3 is incredible at text rendering!
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-is-incredible-at-text-rendering-644291/video-62c6959966f0.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-is-incredible-at-text-rendering-644291/poster-051de0428cc7.jpg" alt="MiniMax H3 is incredible at text rendering! video preview" width="700" />
@@ -32397,7 +32985,7 @@ Create a 15-second cinematic text-animation video built around the quote:  “Ev
 
 ---
 
-## 90. 🎥 or Seedance 2.5/2.0 → Final AI video
+## 100. 🎥 or Seedance 2.5/2.0 → Final AI video
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/or-seedance-2-5-2-0-final-ai-video-333827/video-0f5f2b25a681.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/or-seedance-2-5-2-0-final-ai-video-333827/poster-5b01c51a4f1a.jpg" alt="🎥 or Seedance 2.5/2.0 → Final AI video video preview" width="700" />
@@ -32422,7 +33010,7 @@ A 15-second stop-motion miniature video with Chinese narration. On a warm wooden
 
 ---
 
-## 91. Low-Angle Fashion Tracking Film
+## 101. Low-Angle Fashion Tracking Film
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/low-angle-fashion-tracking-film-062019/video-7eccbb514e51.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/low-angle-fashion-tracking-film-062019/poster-98861d56b4fd.jpg" alt="Low-Angle Fashion Tracking Film video preview" width="700" />
@@ -32443,7 +33031,7 @@ Ultra realistic cinematic video, shot on ARRI Alexa 35 with spherical lens, natu
 
 ---
 
-## 92. MiniMax H3 on 🔥
+## 102. MiniMax H3 on 🔥
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-on-464203/video-c4844d7423b8.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-on-464203/poster-663cb7ecaed1.jpg" alt="MiniMax H3 on 🔥 video preview" width="700" />
@@ -32478,7 +33066,7 @@ Use @Image 1 for the character and the menu interface style. Use @Image 2 for th
 
 ---
 
-## 93. AURELIA — Awaken your senses. ☕
+## 103. AURELIA — Awaken your senses. ☕
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/aurelia-awaken-your-senses-035223/video-8e74e51830a3.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/aurelia-awaken-your-senses-035223/poster-07ef5c197094.jpg" alt="AURELIA — Awaken your senses. ☕ video preview" width="700" />
@@ -32660,7 +33248,7 @@ The package must remain completely visible at all times.
 
 ---
 
-## 94. Kintsugi Sword Seamless Loop
+## 104. Kintsugi Sword Seamless Loop
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/kintsugi-sword-seamless-loop-524882/video-18ce4fdcf3f2.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/kintsugi-sword-seamless-loop-524882/poster-1365004257d9.jpg" alt="Kintsugi Sword Seamless Loop video preview" width="700" />
@@ -32768,7 +33356,7 @@ Prompt #MiniMaxH3 in Chinese:
 
 ---
 
-## 95. Ramen Bowl UGC Taste Test
+## 105. Ramen Bowl UGC Taste Test
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ramen-bowl-ugc-taste-test-612348/video-f5a033bef00e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ramen-bowl-ugc-taste-test-612348/poster-2469cb1c850e.jpg" alt="Ramen Bowl UGC Taste Test video preview" width="700" />
@@ -32810,7 +33398,7 @@ cinematic look, luxury commercial, perfect framing, CGI noodles, unrealistic ste
 
 ---
 
-## 96. Gourmet Burger UGC Taste Test
+## 106. Gourmet Burger UGC Taste Test
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/gourmet-burger-ugc-taste-test-165289/video-787be15a8d6a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/gourmet-burger-ugc-taste-test-165289/poster-7f4d2652dee1.jpg" alt="Gourmet Burger UGC Taste Test video preview" width="700" />
@@ -32851,7 +33439,7 @@ cinematic grading, commercial production, CGI burger, fake cheese, distorted han
 
 ---
 
-## 97. Luxury Skincare Storyboard Commercial
+## 107. Luxury Skincare Storyboard Commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-skincare-storyboard-commercial-805571/video-995ac1ada011.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-skincare-storyboard-commercial-805571/poster-411a41f0ec66.jpg" alt="Luxury Skincare Storyboard Commercial video preview" width="700" />
@@ -32883,7 +33471,7 @@ Transition
 
 ---
 
-## 98. Surreal Blue Studio Dance with a Horse
+## 108. Surreal Blue Studio Dance with a Horse
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/surreal-blue-studio-dance-with-horse-588086/video-35d70f2a6270.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/surreal-blue-studio-dance-with-horse-588086/poster-c616e26c1d83.jpg" alt="Surreal Blue Studio Dance with a Horse video preview" width="700" />
@@ -32908,7 +33496,7 @@ Create a surreal 15-second fashion-film sequence inside a minimalist monochrome 
 
 ---
 
-## 99. cinematic editorial film, not a traditional advertisement
+## 109. cinematic editorial film, not a traditional advertisement
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-editorial-film-not-a-traditional-adver-555943/video-534c0e4af02c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-editorial-film-not-a-traditional-adver-555943/poster-0a63df1d32fb.jpg" alt="cinematic editorial film, not a traditional advertisement video preview" width="700" />
@@ -32931,7 +33519,7 @@ Created using MiniMax H3 on @openart_ai
 
 ---
 
-## 100. Yellow Sunglasses in a Black Studio
+## 110. Yellow Sunglasses in a Black Studio
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/upload-use-la-ragazza-in-reference-as-a-strict-265763/video-3f6fdfa9ec17.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/upload-use-la-ragazza-in-reference-as-a-strict-265763/poster-991557679b75.jpg" alt="Yellow Sunglasses in a Black Studio video preview" width="700" />
@@ -33008,7 +33596,7 @@ Composition: model centered, all type within the central third of the frame
 
 ---
 
-## 101. Strawberry Drink Transformation Commercial
+## 111. Strawberry Drink Transformation Commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/shots-shot-id-1-start-time-00-00-end-878083/video-fac16344ba1e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/shots-shot-id-1-start-time-00-00-end-878083/poster-5b30a531bab4.jpg" alt="Strawberry Drink Transformation Commercial video preview" width="700" />
@@ -33029,7 +33617,7 @@ Composition: model centered, all type within the central third of the frame
 
 ---
 
-## 102. Ice Gunslinger Interactive Web Loop
+## 112. Ice Gunslinger Interactive Web Loop
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ice-gunslinger-interactive-web-loop-045626/video-8ed8d15497ae.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ice-gunslinger-interactive-web-loop-045626/poster-b4852f65a0a0.jpg" alt="Ice Gunslinger Interactive Web Loop video preview" width="700" />
@@ -33124,7 +33712,7 @@ Composition: model centered, all type within the central third of the frame
 
 ---
 
-## 103. Blackberry Vanilla Soda UGC Vlog
+## 113. Blackberry Vanilla Soda UGC Vlog
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/blackberry-vanilla-soda-ugc-vlog-998714/video-1ca980fa6505.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/blackberry-vanilla-soda-ugc-vlog-998714/poster-7b02c89bbf7e.jpg" alt="Blackberry Vanilla Soda UGC Vlog video preview" width="700" />
@@ -33169,7 +33757,7 @@ Continuous natural ambient kitchen sound, subtle upbeat pop background music und
 
 ---
 
-## 104. Bamboo Forest Wuxia Mystery
+## 114. Bamboo Forest Wuxia Mystery
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/16-9-cinematic-wuxia-mystery-set-in-a-bamboo-571041/video-da23c2db41ab.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/16-9-cinematic-wuxia-mystery-set-in-a-bamboo-571041/poster-6d22d8f211d0.jpg" alt="Bamboo Forest Wuxia Mystery video preview" width="700" />
@@ -33193,7 +33781,7 @@ Prioritize facial close-ups and measured shot/reverse-shot coverage. Keep the rh
 
 ---
 
-## 105. Golden Guardian Web Hero Loop
+## 115. Golden Guardian Web Hero Loop
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/golden-guardian-web-hero-loop-616089/video-ad594df1ac56.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/golden-guardian-web-hero-loop-616089/poster-f3ffd3a6c85e.jpg" alt="Golden Guardian Web Hero Loop video preview" width="700" />
@@ -33289,7 +33877,7 @@ Prioritize facial close-ups and measured shot/reverse-shot coverage. Keep the rh
 
 ---
 
-## 106. Emerald Bio-Serum Product Film
+## 116. Emerald Bio-Serum Product Film
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-luxury-skincare-product-commercial-vertical-9-591469/video-3ae42a6b5baa.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-luxury-skincare-product-commercial-vertical-9-591469/poster-c0c5f3bb6066.jpg" alt="Emerald Bio-Serum Product Film video preview" width="700" />
@@ -33310,7 +33898,7 @@ Cinematic luxury skincare product commercial, vertical 9:16, 15 seconds. A trans
 
 ---
 
-## 107. Black-and-Gold Perfume Commercial
+## 117. Black-and-Gold Perfume Commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-ultra-premium-luxury-perfume-commercial-in-ci-520833/video-3e8b79841b85.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-ultra-premium-luxury-perfume-commercial-in-ci-520833/poster-d1f16abe5ae1.jpg" alt="Black-and-Gold Perfume Commercial video preview" width="700" />
@@ -33341,7 +33929,7 @@ Photorealistic, Hollywood luxury TV commercial, ultra-detailed, flawless glass r
 
 ---
 
-## 108. Morning Lip Oil UGC Testimonial
+## 118. Morning Lip Oil UGC Testimonial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-character-reference-preserve-her-fac-256521/video-544db8790618.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-character-reference-preserve-her-fac-256521/poster-8add510d989f.jpg" alt="Morning Lip Oil UGC Testimonial video preview" width="700" />
@@ -33370,7 +33958,7 @@ Authentic UGC creator content, realistic facial expressions, natural hand gestur
 
 ---
 
-## 109. Luxury Watch Storyboard Campaign
+## 119. Luxury Watch Storyboard Campaign
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-watch-storyboard-campaign-903017/video-159289899741.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-watch-storyboard-campaign-903017/poster-2d54ae2e9819.jpg" alt="Luxury Watch Storyboard Campaign video preview" width="700" />
@@ -33451,7 +34039,7 @@ Create a world-class luxury watch commercial.
 
 ---
 
-## 110. NOVA X smartphone TVC
+## 120. NOVA X smartphone TVC
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/nova-x-smartphone-tvc/video-2d8b6006478e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/nova-x-smartphone-tvc/poster-b8d3da037263.jpg" alt="NOVA X smartphone TVC video preview" width="700" />
@@ -33478,7 +34066,7 @@ Create a 15-second premium cinematic branding TVC for a futuristic smartphone br
 
 ---
 
-## 111. SparkRush Ultra Fizz beach soft-drink commercial
+## 121. SparkRush Ultra Fizz beach soft-drink commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/sparkrush-ultra-fizz-beach-soft-drink-commercial-383681/video-d58a1e1504ea.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/sparkrush-ultra-fizz-beach-soft-drink-commercial-383681/poster-2b0c0c9a968a.jpg" alt="SparkRush Ultra Fizz beach soft-drink commercial video preview" width="700" />
@@ -33569,7 +34157,7 @@ CUT8 0:14-0:15
 
 ---
 
-## 112. Premium cinematic fashion campaign outfit reveal
+## 122. Premium cinematic fashion campaign outfit reveal
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/premium-cinematic-fashion-campaign-outfit-reveal-103224/video-df6c020702d4.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/premium-cinematic-fashion-campaign-outfit-reveal-103224/poster-0a6dd612e1a2.jpg" alt="Premium cinematic fashion campaign outfit reveal video preview" width="700" />
@@ -33590,7 +34178,7 @@ Create a premium cinematic fashion campaign video using the five uploaded appare
 
 ---
 
-## 113. Cyber-grunge fashion film with VHS glitch
+## 123. Cyber-grunge fashion film with VHS glitch
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/cyber-grunge-fashion-film-with-vhs-glitch-978345/video-c438b1df4b17.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/cyber-grunge-fashion-film-with-vhs-glitch-978345/poster-7a372fea4e5c.jpg" alt="Cyber-grunge fashion film with VHS glitch video preview" width="700" />
@@ -33613,7 +34201,7 @@ VHS glitches, CCTV dropouts, 90s grain, scanlines, chromatic aberration, flash-t
 
 ---
 
-## 114. RadiantGlo skincare commercial
+## 124. RadiantGlo skincare commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/radiantglo-skincare-commercial/video-2534fd8d7746.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/radiantglo-skincare-commercial/poster-7ffd693fc2a8.jpg" alt="RadiantGlo skincare commercial video preview" width="700" />
@@ -33640,7 +34228,7 @@ Cold nights fading into warm dawn color science throughout — think a skincare 
 
 ---
 
-## 115. Bathroom Mirror Skincare UGC Ad
+## 125. Bathroom Mirror Skincare UGC Ad
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ugc-style-skincare-video-featuring-a-realistic-young-wo-242986/video-ec288635cb7f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ugc-style-skincare-video-featuring-a-realistic-young-wo-242986/poster-18b009c5b1b5.jpg" alt="Bathroom Mirror Skincare UGC Ad video preview" width="700" />
@@ -33661,7 +34249,7 @@ UGC-style skincare video featuring a realistic young woman speaking directly to 
 
 ---
 
-## 116. Luxury Sports Car Landing Page Motion
+## 126. Luxury Sports Car Landing Page Motion
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ui-ux-motion-showcase-video-for-a-high-performance-luxu-229386/video-9d89c4f629e6.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ui-ux-motion-showcase-video-for-a-high-performance-luxu-229386/poster-ebbf825e1ade.jpg" alt="Luxury Sports Car Landing Page Motion video preview" width="700" />
@@ -33754,7 +34342,7 @@ A premium automotive brand website, similar to a supercar launch page. Dark meta
 
 ---
 
-## 117. KALDR cold perfume commercial multi-reference
+## 127. KALDR cold perfume commercial multi-reference
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/kaldr-cold-perfume-commercial-multi-reference-943073/video-0b03def784aa.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/kaldr-cold-perfume-commercial-multi-reference-943073/poster-b0ced00e36d5.jpg" alt="KALDR cold perfume commercial multi-reference video preview" width="700" />
@@ -33808,7 +34396,7 @@ Do not add other people, boats, buildings, vehicles, modern objects, subtitles, 
 
 ---
 
-## 118. Luxury metallic gown desert runway fashion ad
+## 128. Luxury metallic gown desert runway fashion ad
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-metallic-gown-desert-runway-fashion-ad-907132/video-79e8be8efcca.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-metallic-gown-desert-runway-fashion-ad-907132/poster-f22e97706ea8.jpg" alt="Luxury metallic gown desert runway fashion ad video preview" width="700" />
@@ -33829,7 +34417,7 @@ Do not add other people, boats, buildings, vehicles, modern objects, subtitles, 
 
 ---
 
-## 119. Luxury checkered sports-coupe night-to-dawn commercial
+## 129. Luxury checkered sports-coupe night-to-dawn commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-checkered-sports-coupe-night-to-dawn-commercial-451623/video-741ec90432a6.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-checkered-sports-coupe-night-to-dawn-commercial-451623/poster-c2420b1685bb.jpg" alt="Luxury checkered sports-coupe night-to-dawn commercial video preview" width="700" />
@@ -33873,7 +34461,7 @@ coherent character and vehicle identity across every cut 📷Image1 , cinematic 
 
 ---
 
-## 120. Marble Staircase Lip Gloss Commercial
+## 130. Marble Staircase Lip Gloss Commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-character-reference-preserve-her-fac-150697/video-b637e0c6f931.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-character-reference-preserve-her-fac-150697/poster-dfa401edffbd.jpg" alt="Marble Staircase Lip Gloss Commercial video preview" width="700" />
@@ -33898,7 +34486,7 @@ Ultra-realistic beauty cinematography, luxury cosmetic campaign, smooth gimbal m
 
 ---
 
-## 121. Sushi Night Smartphone UGC Vlog
+## 131. Sushi Night Smartphone UGC Vlog
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/duration-15-seconds-aspect-ratio-16-9-style-authentic-613617/video-7d59e3e86e10.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/duration-15-seconds-aspect-ratio-16-9-style-authentic-613617/poster-ee7d7c188983.jpg" alt="Sushi Night Smartphone UGC Vlog video preview" width="700" />
@@ -33948,7 +34536,7 @@ cinematic color grading, overly smooth gimbal movement, studio lighting, profess
 
 ---
 
-## 122. Strawberry seasonal match-cut food commercial
+## 132. Strawberry seasonal match-cut food commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/strawberry-seasonal-match-cut-food-commercial-117943/video-683968bcc3d5.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/strawberry-seasonal-match-cut-food-commercial-117943/poster-d840280d5869.jpg" alt="Strawberry seasonal match-cut food commercial video preview" width="700" />
@@ -33969,7 +34557,7 @@ Premium food commercial. Extreme macro shot of a single ripe strawberry falling 
 
 ---
 
-## 123. White-Cyclorama Luxury Eyewear Campaign
+## 133. White-Cyclorama Luxury Eyewear Campaign
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/premium-9-16-fashion-eyewear-commercial-match-the-refer-665060/video-4d28abb73363.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/premium-9-16-fashion-eyewear-commercial-match-the-refer-665060/poster-b6317831cfc6.jpg" alt="White-Cyclorama Luxury Eyewear Campaign video preview" width="700" />
@@ -33991,7 +34579,7 @@ Create a premium 9:16 fashion-eyewear commercial. Match the reference video’s 
 
 ---
 
-## 124. Dark Rap Fashion Zine Music Video
+## 134. Dark Rap Fashion Zine Music Video
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/style-dark-rap-rap-music-video-with-photoreal-high-fash-066367/video-f7530cdb0007.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/style-dark-rap-rap-music-video-with-photoreal-high-fash-066367/poster-042e39743d51.jpg" alt="Dark Rap Fashion Zine Music Video video preview" width="700" />
@@ -34012,7 +34600,7 @@ Style: dark-rap -rap music video with photoreal high-fashion polish and the text
 
 ---
 
-## 125. The Brief: "Jessica x The Bag"
+## 135. The Brief: "Jessica x The Bag"
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/the-brief-jessica-x-the-bag-804089/video-0ef2025a0f9f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/the-brief-jessica-x-the-bag-804089/poster-2901ee10dfd8.jpg" alt="The Brief: &quot;Jessica x The Bag&quot; video preview" width="700" />
@@ -34039,7 +34627,7 @@ Warm, glossy, early-2000s fashion-film color science throughout — think The De
 
 ---
 
-## 126. Image Model: GPT Image 2
+## 136. Image Model: GPT Image 2
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-model-gpt-image-2-143224/video-83cdd5450477.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-model-gpt-image-2-143224/poster-97e396da2238.jpg" alt="Image Model: GPT Image 2 video preview" width="700" />
@@ -34206,7 +34794,7 @@ Style: AAA Unreal Engine 5 cinematic, photorealistic PBR materials, production-q
 
 ---
 
-## 127. Luxury wireless headphones product showcase
+## 137. Luxury wireless headphones product showcase
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-wireless-headphones-product-showcase-291312/video-6d76adba9a18.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-wireless-headphones-product-showcase-291312/poster-8b57d5fe56fd.jpg" alt="Luxury wireless headphones product showcase video preview" width="700" />
@@ -34235,7 +34823,7 @@ Create a 15-second luxury cinematic product showcase for premium wireless over-e
 
 ---
 
-## 128. Vertical car transformation street-culture film
+## 138. Vertical car transformation street-culture film
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/vertical-car-transformation-street-culture-film-378938/video-68111b1a63ab.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/vertical-car-transformation-street-culture-film-378938/poster-aee0c4e02707.jpg" alt="Vertical car transformation street-culture film video preview" width="700" />
@@ -34364,7 +34952,7 @@ Feels like a premium car modification advertisement
 
 ---
 
-## 129. High-Speed Sports Product Landing Page
+## 139. High-Speed Sports Product Landing Page
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/dynamic-product-landing-page-ui-ux-demo-inspired-by-nik-789559/video-08cc2ecf4395.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/dynamic-product-landing-page-ui-ux-demo-inspired-by-nik-789559/poster-6fdf282e513d.jpg" alt="High-Speed Sports Product Landing Page video preview" width="700" />
@@ -34385,7 +34973,7 @@ Create a dynamic product-landing-page UI/UX demo inspired by Nike's digital lang
 
 ---
 
-## 130. Ultra-premium cinematic luxury perfume commercial
+## 140. Ultra-premium cinematic luxury perfume commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-premium-cinematic-luxury-perfume-commercial-783085/video-2722820a0df4.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-premium-cinematic-luxury-perfume-commercial-783085/poster-363c20e524ca.jpg" alt="Ultra-premium cinematic luxury perfume commercial video preview" width="700" />
@@ -34435,7 +35023,7 @@ Low quality, blurry, noise, flickering, unstable motion, distorted anatomy, bad 
 
 ---
 
-## 131. Seamless Warrior Sword Reflection Loop
+## 141. Seamless Warrior Sword Reflection Loop
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/seamless-warrior-sword-reflection-loop-874724/video-8c6fd235ee6b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/seamless-warrior-sword-reflection-loop-874724/poster-2ae99518ad9c.jpg" alt="Seamless Warrior Sword Reflection Loop video preview" width="700" />
@@ -34512,7 +35100,7 @@ Music: glass bells and plucks in at 3.2, strings rise at 6.6, choir swell peaks 
 
 ---
 
-## 132. Luxury Emerald Necklace Storyboard
+## 142. Luxury Emerald Necklace Storyboard
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/title-luxury-emerald-necklace-commercial-storyboard-for-872509/video-a300713c3d76.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/title-luxury-emerald-necklace-commercial-storyboard-for-872509/poster-63e3a397f968.jpg" alt="Luxury Emerald Necklace Storyboard video preview" width="700" />
@@ -34560,7 +35148,7 @@ Inspired by world-class luxury jewelry campaigns, premium fashion editorial, sof
 
 ---
 
-## 133. The Thief's Awkward Product Excuse
+## 143. The Thief's Awkward Product Excuse
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-video-prompt-300101/video-236581d53aa7.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-video-prompt-300101/poster-009909ab0bfb.jpg" alt="The Thief's Awkward Product Excuse video preview" width="700" />
@@ -34581,7 +35169,7 @@ Inspired by world-class luxury jewelry campaigns, premium fashion editorial, sof
 
 ---
 
-## 134. Neon Nightmare Burger Commercial
+## 144. Neon Nightmare Burger Commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-15-second-commercial-shot-fast-paced-editing-160587/video-6452503d24f8.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-15-second-commercial-shot-fast-paced-editing-160587/poster-dc524a95b7c6.jpg" alt="Neon Nightmare Burger Commercial video preview" width="700" />

@@ -1,0 +1,31 @@
+{
+  "slug": "a-slow-thick-river-of-morning-fog-rolls-out-of-803897",
+  "title": {
+    "en": "Morning fog pours from a pillow",
+    "zh": "枕头流出晨雾"
+  },
+  "description": {
+    "en": "A MiniMax H3 cinematic story prompt and video shared by @GlennHasABeard.",
+    "zh": "原作者 @GlennHasABeard 分享的 MiniMax H3 提示词与视频案例。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "9:5",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@GlennHasABeard",
+    "url": "https://x.com/GlennHasABeard/status/2107445902591803897"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/GlennHasABeard/status/2107445902591803897"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/a-slow-thick-river-of-morning-fog-rolls-out-of-803897/video-3fe3a1696666.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/a-slow-thick-river-of-morning-fog-rolls-out-of-803897/poster-d131fb70c267.jpg",
+  "prompt": "\"a slow thick river of morning fog rolls out of the opening\"\n\nDuration: 15s. Camera: locked, mattress height."
+}

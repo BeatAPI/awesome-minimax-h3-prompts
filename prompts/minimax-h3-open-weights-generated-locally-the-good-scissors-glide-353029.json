@@ -1,0 +1,31 @@
+{
+  "slug": "minimax-h3-open-weights-generated-locally-the-good-scissors-glide-353029",
+  "title": {
+    "en": "Scissors cut a river in paper",
+    "zh": "剪刀在纸上剪出河流"
+  },
+  "description": {
+    "en": "A MiniMax H3 cinematic story prompt and video shared by @GlennHasABeard.",
+    "zh": "原作者 @GlennHasABeard 分享的 MiniMax H3 提示词与视频案例。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "9:5",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@GlennHasABeard",
+    "url": "https://x.com/GlennHasABeard/status/2107804966186353029"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/GlennHasABeard/status/2107804966186353029"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-open-weights-generated-locally-the-good-scissors-glide-353029/video-f4b13de52be0.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-open-weights-generated-locally-the-good-scissors-glide-353029/poster-4c1000e46ace.jpg",
+  "prompt": "\"the cut opens behind the blades into a narrow river\"\n\nDuration: 15s. Camera: locked, from above."
+}

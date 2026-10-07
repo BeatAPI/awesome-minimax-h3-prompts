@@ -1,0 +1,31 @@
+{
+  "slug": "made-with-minimax-h3-680517",
+  "title": {
+    "en": "Magical park encounter with a white lion",
+    "zh": "公园偶遇魔法白狮"
+  },
+  "description": {
+    "en": "A MiniMax H3 cinematic story prompt and video shared by @laviniavelle.",
+    "zh": "原作者 @laviniavelle 分享的 MiniMax H3 提示词与视频案例。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "4:7",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@laviniavelle",
+    "url": "https://x.com/laviniavelle/status/2106981798001680517"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/laviniavelle/status/2106981798001680517"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-680517/video-34427994ca86.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-680517/poster-b8b0a78396ab.jpg",
+  "prompt": "A Cinematic video of a young woman wearing a brown jacket walking in a peaceful park during dusk She walks along a path lined with glowing warm streetlamps On a wooden park bench, a giant, majestic white lion with glowing fur is calmly sitting The woman approaches the white lion and gently pets its mane and face. Close-up shot showing a warm connection between her and the gentle white lion with the lion nuzzling against her cheek lovingly Finally they are sitting together peacefully on the grass under a warm streetlamp at night Cinematic lighting, realistic, soft shadows 4k resolution, emotional and magical vibe."
+}

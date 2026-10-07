@@ -1,0 +1,31 @@
+{
+  "slug": "t2v-no-character-references-688537",
+  "title": {
+    "en": "1970s detective on a city night",
+    "zh": "1970 年代城市雨夜女侦探"
+  },
+  "description": {
+    "en": "A MiniMax H3 action prompt and video shared by @EndFolding79421.",
+    "zh": "原作者 @EndFolding79421 分享的 MiniMax H3 提示词与视频案例。"
+  },
+  "category": "action",
+  "mode": "text-to-video",
+  "duration": "14s",
+  "aspectRatio": "47:26",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@EndFolding79421",
+    "url": "https://x.com/EndFolding79421/status/2105394309440688537"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/EndFolding79421/status/2105394309440688537"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/t2v-no-character-references-688537/video-e68004e442bc.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/t2v-no-character-references-688537/poster-a0f29e3e4d79.jpg",
+  "prompt": "1970s. Nighttime in a gritty urban American city.\n\nA Black female police detective in authentic 1970s plainclothes stands beside an older white male police detective.\n\nShe wears a fitted brown leather jacket, rust-colored blouse, dark flared trousers and leather boots. She has a natural 1970s Afro hairstyle.\n\nThe older detective wears a rumpled tan sport coat, wide-collar dress shirt, dark tie and brown trousers.\n\nThey stand beside a large dark-green 1972 four-door American sedan parked at the curb.\n\nBusy city street behind them with old brick buildings, storefronts, pedestrians, neon signs and period cars.\n\nNO modern vehicles, clothing, phones or modern objects.\n\nACTION / CAMERA:\n\nBegin LOW beside the front wheel of the parked sedan.\n\nThe female detective steps around the front of the car toward camera.\n\nThe camera quickly TILTS UP and tracks backward with her.\n\nThe older detective follows several steps behind.\n\nShe suddenly notices something across the street.\n\nShe stops sharply.\n\nFAST CRASH-ZOOM into an EXTREME CLOSE-UP of her face.\n\nShe stares across the street and says:\n\nFEMALE DETECTIVE:\n\"There he is. Let's move.\"\n\nShe immediately takes off running.\n\nThe older detective reacts and runs after her.\n\nCRITICAL:\n\nThere is EXACTLY ONE Black female detective.\n\nThere is EXACTLY ONE older white male detective.\n\nThe female detective leads the action.\n\nThe older detective remains behind her.\n\nBoth detectives remain visually consistent throughout the sequence.\n\nEverything visible belongs to the 1970s.\n\nNO modern cars.\nNO smartphones.\nNO modern police equipment.\nNO modern clothing."
+}

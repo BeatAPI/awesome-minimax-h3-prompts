@@ -1,0 +1,31 @@
+{
+  "slug": "minimax-h3-open-weights-generated-locally-typed-five-letters-they-960108",
+  "title": {
+    "en": "Typewriter prints daisies",
+    "zh": "打字机打出雏菊"
+  },
+  "description": {
+    "en": "A MiniMax H3 cinematic story prompt and video shared by @GlennHasABeard.",
+    "zh": "原作者 @GlennHasABeard 分享的 MiniMax H3 提示词与视频案例。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "9:5",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@GlennHasABeard",
+    "url": "https://x.com/GlennHasABeard/status/2107572001413960108"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/GlennHasABeard/status/2107572001413960108"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-open-weights-generated-locally-typed-five-letters-they-960108/video-a83c3e93eca5.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-open-weights-generated-locally-typed-five-letters-they-960108/poster-01e9c9a153c4.jpg",
+  "prompt": "\"each key strike prints not a letter but a small real daisy\"\n\nDuration: 15s. Camera: locked, paper height."
+}

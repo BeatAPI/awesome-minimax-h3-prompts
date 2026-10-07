@@ -1,0 +1,31 @@
+{
+  "slug": "created-with-minimax-h3-657852",
+  "title": {
+    "en": "Romantic evening perfume commercial",
+    "zh": "浪漫夜间香水广告"
+  },
+  "description": {
+    "en": "A MiniMax H3 product commercial prompt and video shared by @CaliraVal.",
+    "zh": "原作者 @CaliraVal 分享的 MiniMax H3 提示词与视频案例。"
+  },
+  "category": "product-commercial",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "4:3",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@CaliraVal",
+    "url": "https://x.com/CaliraVal/status/2105895582275657852"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/CaliraVal/status/2105895582275657852"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-657852/video-a741d47e7095.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-657852/poster-730edaa4257e.jpg",
+  "prompt": "Create an ultra-realistic, cinematic luxury perfume commercial with a romantic evening atmosphere.\n\nScene 1: A beautiful young woman with a short brunette bob haircut, elegant features, and natural makeup stands in front of a mirror, wearing a sophisticated white evening dress and delicate gold jewelry. She smiles softly while getting ready for a special evening.\n\nScene 2: Close-up of her smartphone resting on a bedside table as she receives a message. Warm ambient lighting creates a cozy, intimate mood.\n\nScene 3: She opens her wardrobe and chooses an elegant white dress. Capture natural movements, realistic fabric physics, and cinematic framing.\n\nScene 4: A macro close-up of her hand holding a luxurious transparent glass perfume bottle with pink fragrance. She gently sprays the perfume on her wrist. Highlight the fine mist, glass reflections, and premium product details.\n\nScene 5: She turns away from the mirror, her short hair moving naturally as she prepares to leave. Use a smooth cinematic camera movement.\n\nScene 6: A beautiful European city street at night, with warm restaurant lights, passing cars, and soft reflections on the pavement. The woman walks gracefully toward a stylish restaurant.\n\nScene 7: A romantic close-up of the woman and a handsome young man meeting outside at night. They exchange warm smiles and look into each other's eyes, creating a subtle romantic moment.\n\nVisual style: Premium luxury perfume advertisement, cinematic storytelling, warm golden lighting, realistic skin texture, shallow depth of field, elegant camera movements, soft bokeh, natural human expressions, sophisticated color grading, photorealistic details, 4K quality.\n\nMaintain consistent character identities, realistic movements, seamless transitions, and a refined romantic atmosphere. No text, no subtitles, no logos, no watermark."
+}

@@ -1,8 +1,580 @@
 # MiniMax H3 Music & Performance prompts
 
-[Back to all 506 prompts](../../README.md)
+[Back to all 550 prompts](../../README.md)
 
-## 1. Created using Minimax H3 on
+## 1. Quiet fantasy beside the lake
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/dont-turn-the-page-043532/video-45ee0d37ae8c.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/dont-turn-the-page-043532/poster-ccc312ca17f6.jpg" alt="Quiet fantasy beside the lake video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — 15-second, 16:9, cinematic realistic fantasy short developed strictly from &lt;Picture 1&gt;. Lock the whole sequence inside the same small lake boat space only: the same yellow-blue...</summary>
+
+~~~~text
+15-second, 16:9, cinematic realistic fantasy short developed strictly from <Picture 1>. Lock the whole sequence inside the same small lake boat space only: the same yellow-blue old wooden boat, the same dark lake water, the same orange-cyan umbrella, the same reeds and purple flowers, and the same woman, dog, and book. No second location, no extra people, no black ending. Preserve the exact same adult woman: auburn-brown long hair, straw hat, deep blue floral bikini, same face, same proportions, same seat on the right side of the boat. Preserve the same brown-white beagle with cyan collar on the left half of the boat. Preserve the same gilt-edged dark green hardcover book, starting half-open in her left hand between them. The emotional line is restrained: she wants to keep reading, the dog interrupts, the book reveals something unnatural, and she shuts it decisively before settling into wary tenderness.
+
+Blocking and continuity: left dog, right woman, middle book, rear umbrella remain stable throughout. She never stands. The dog never crosses into her side. The book follows one strict state progression only: half-open in her hand -> dragged down by the dog onto the yellow deck while still open -> closed by her own hand. Camera must always remain on the same visible gunwale side as in <Picture 1> and never cross the axis formed by the woman and the book.
+
+[00:00-00:02.5]
+Slow push-in, oblique half-body close shot. She leans from a slightly reclined posture toward the book. Her right palm slides along the damp gunwale to stabilize her center of gravity while her left hand lifts the book and teases up half a page with her thumb. One natural inhale lifts the ribcage and swimsuit slightly, then a soft exhale returns it. Water droplets on the shoulder and neck catch light. Focus settles on the page she is about to turn but has not turned yet. White smoke begins to emerge from the page gutter. Reflections on the water and reeds continue moving gently. Her gaze stays on the text, lips slightly parted from concentration.
+
+[00:02.5-00:03.5]
+Pan left along the white smoke toward the dog. The dog’s nose follows the smoke. Its eyes shift to the back of her neck before the head fully turns, ears lifting and hind legs storing energy. The dog’s launch toward the right bridges into the next beat.
+
+[00:03.5-00:05.7]
+The dog bites the lower-left corner of the page. The page tears with a short rip and a few paper fibers. A whip-flash shake catches the woman to the right. She recoils right-rear, her left hand losing the book, her right palm slamming down on the gunwale, and the boat tilting then rebounding. Keep face, shoulders, and upper torso together in frame. As the shoulders and back pull away, the chest follows with one short natural inertial lift; when her body stops and the boat rebounds, that motion resolves into two restrained offset responses, one vertical and one slight lateral, both physically damped by the swimsuit and body weight. Hair whips late and a few droplets leave the skin. Use only a very brief local slow-down at the rebound peak, then return to normal speed. By the end of the shot, the book falls toward the center deck, still on the dog’s side of the axis, and the dog remains left of her.
+
+[00:05.7-00:08.4]
+Cut to a low camera inside the same visible side of the boat. The frame stabilizes and depth shifts smoothly. The hard corner of the book cover hits the yellow deck with a muted knock; a little dry worn corner debris breaks off; the pages tremble and remain open. Show the book first, then shift focus to the continuous white smoke rising from the same page gutter. The smoke is drawn longer by the breeze under the umbrella, twists, and condenses into a semi-transparent hand reaching toward where her face was a moment earlier. The smoke-hand casts a passing hand-shaped shadow under the umbrella, consistent with the existing light direction. Her right hand is still bracing the boat. Her gaze moves from the dog to the hand-shadow. The dog has retreated back to the left side of the book. Lake ripples are caused only by the rocking of the boat. Purple flowers and reeds move irregularly in the breeze.
+
+[00:08.4-00:11.2]
+She does not stand. Her abdomen tightens and her body leans from the right toward the left-front. Her right hand continues to stabilize on the gunwale while her left hand reaches and catches the book cover. The camera tracks left along the same side of the boat, holding her eyes, reaching hand, upper torso, and the book corner in one frame. The forward lean lowers the chest with the shift in center of gravity; the abrupt stop before closing the book creates one short inertial rebound; quick breathing adds a small continuous rise-fall through the chest and swimsuit. Hair tips brush the shoulder and the straw-hat brim trembles lightly. She sets her jaw and slaps the book shut with one decisive movement. The pages clap closed, the cover vibrates, and the smoke-hand collapses from the fingertips backward into fine strands that retract rapidly along the original path back into the book gutter. The umbrella shadow of the hand shrinks out in sync. No floating smoke residue remains.
+
+[00:11.2-00:15.0]
+Slow pull-back. The book remains closed on the center deck, and her left hand is still pressing it down. Her upper chest rises and falls through two short recovery breaths, then gradually returns toward slower breathing. The dog approaches from the left and touches the back of her hand with its nose. She lifts her eyes once to confirm there is nothing above under the umbrella, then her left hand leaves the book cover and moves to the dog’s cyan collar, while her right hand still steadies the gunwale. She says softly in English, with breath not fully settled yet: <d>[English] Good dog.</d> The line is short and light. The camera pulls back to hold the half-body relationship of the woman and dog under the same umbrella. The boat rocks gently. The dog’s tail flicks only once. Her left hand finally rests on the dog’s collar. Do not cut to black.
+
+Lighting and color: preserve the original warm-umbrella and cold-lake palette. Warm top light filtered through the umbrella illuminates her skin. The lake gives soft cyan reflections in shadow. Her skin stays naturally warm with real water-droplet sheen. The smoke is cold silver-white and only local. When the smoke-hand appears, only the local light under the umbrella and environmental sound are slightly suppressed; do not change sun direction, time of day, or overall color temperature. After the book is closed, the original warm-cool balance returns.
+
+Physical logic: the old wooden boat tilts and rebounds locally from the dog’s leap and her bracing hand, and water slaps the hull into uneven ripples. The umbrella fabric and ribs tremble with the boat’s motion but do not come loose. Page tearing, cover striking wood, tiny dry debris, palms pressing wood, and droplets leaving wet skin all carry correct force and sound. The smoke originates only from the book pages, only inside the boat and under the umbrella, never passing through skin, and never causing weather or location shifts. Hair moves in layers; the wettest strands lag the most. Upper-body motion is always driven by breathing, torso acceleration, abrupt stopping, and boat rebound, with real support and no exaggeration.
+
+Hard negative constraints: no identity drift, no face deformation, no extra people, no extra limbs, no extra animals, no second location, no wide cutaway, no magical particle storm, no fake smoke residue, no zero-gravity hair, no cloth drift, no black ending, no subtitles, no watermark.
+
+overall_soundscape:
+The base ambience is intimate and natural: dark lake water lapping the boat, reeds moving, pages rustling, quiet dog breathing, slight umbrella fabric tremor, and soft wet skin or cloth movement. The opening includes page handling, thumb on paper, a subtle breath in, light contact of her hand on the damp gunwale, and the first faint hiss of white smoke from the book gutter. When the camera pans to the dog, bring forward the dog’s sniffing and body tension. At the grab, layer paw scrape on wood, a short paper tear, her sharp inhale, the right palm striking the gunwale, and the boat’s sudden wood-and-water reaction. Immediately after, reduce the environmental bed so the smoke hiss, slight umbrella-rib vibration, and the low uncanny presence of the smoke-hand dominate the foreground. When she lunges back in and shuts the book, the cover closes with a firm muffled clap that cuts the unnatural sound off. Then the lake sound and normal ambience return. In the ending, her breathing is still slightly unsettled as she says <d>[English] Good dog.</d> softly, and the dog answers only with a small nose touch and one tail flick.
+
+non_diegetic_music:
+Keep the score restrained and cinematic. Begin with a soft warm-cool suspended texture under the water and reeds, almost imperceptible, supporting the concentration of reading. As the smoke appears and the dog notices it, introduce a faint low unease without overpowering natural sounds. At the book snatch and recoil, give one brief accent and then immediately thin the score so paper, breath, boat movement, and smoke hiss lead. During the smoke-hand section, hold a narrow suspended tone with minimal low-frequency pressure. When the book is shut, let that tension collapse quickly into a lighter, warmer emotional residue. End with only a small intimate undertone beneath the returning lake ambience, with no melodramatic swell and no hard stop.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/dont-turn-the-page-043532/video-45ee0d37ae8c.webm)
+
+**Source:** [@ou_zhen599](https://x.com/ou_zhen599/status/2105346237038043532) · 15s · 16:9 · music video
+
+---
+
+## 2. Fleeing toward the wall
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/fleeing-toward-the-wall-160897/video-48f36fdd5d20.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/fleeing-toward-the-wall-160897/poster-6d7ced5c4cd4.jpg" alt="Fleeing toward the wall video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — integrated_multimodal_description 15 seconds, 16:9, realistic cinematic image-to-video, I2VA. Use &lt;Picture 1&gt; as the exact first frame and only reference for the same adult...</summary>
+
+~~~~text
+integrated_multimodal_description
+
+15 seconds, 16:9, realistic cinematic image-to-video, I2VA. Use <Picture 1> as the exact first frame and only reference for the same adult red-haired woman, black wet tied-back hair with loose strands, black tank top, worn dark-red shorts, brown leather shoulder strap, black gloves, green gemstone necklace, wet stone path, stone walls, jewelry, and lighting. Keep face, body proportions, clothing, and gemstone position fully consistent. The whole sequence stays in the same wet stone corridor only: reflective pavement in deep background, rough stone wall on the left, darker stone wall with restrained amber reflections on the right. No new location and no extra people.
+
+Lock continuity: from the original position she runs about 1.5 meters toward the camera in two large steps, then shifts about 0.7 meters to frame-left and stops close to the left wall. Her right hand grips the gemstone while it remains around her neck, and her right palm presses both hand and gemstone against the wet left wall. The necklace never breaks, is never removed, and never sinks into the wall. She stays near the left wall throughout. After releasing her hand, she exits forward along the same toward-camera direction from the foreground. The camera always stays at the original camera end or slightly front-left of her, with left wall on frame-left and right wall on frame-right, never crossing axis. The top stone is above this same corridor, and all stone motion continues logically from previous shot state.
+
+Her goal changes from escaping falling stone to using the wall and gemstone to brace the overhead collapse. During the run her eyes search ahead, jaw tightens, and breathing shortens. When debris hits water, her eyes move to the left wall before the head does. As the gemstone nears the wall and one stone lifts by only a finger width, she blinks quickly, looks between gemstone and wall crack, presses her lips, makes the decision, and immediately sidesteps into the wall. During bracing, shoulders, back, waist, and legs work together. She inhales and holds one breath before impact, then exhales only after the collision stops. At the end her gaze softens briefly and one corner of her mouth lifts slightly. She is always purposeful, never posing. Keep three fused dynamic close moments: the two-step sprint creates clear natural vertical chest inertia with breath and slight lag in wet hair and leather strap; the sliding stop creates waist turn first and a brief chest-and-shoulder rebound after; the wall-bracing effort creates one deep inhalation that lifts the ribcage and tightens shoulders and back, followed by a slow exhale after the impact is contained.
+
+Keep the same color world: cold wet stone blue-black and gray-cyan dominate, low saturation, high contrast, preserved shadow texture, restrained amber reflections on the right. The gemstone glow and light in the stone cracks are deep emerald green, illuminating only nearby wet surfaces and stone texture, never flooding the whole scene green. Skin stays warm-neutral, shorts remain muted wine-red. Maintain soft highlight roll-off, wet reflections, subtle film grain, and identical light direction and grade.
+
+[0.0-3.0s] Fast. She breaks immediately from the first-frame pose and runs two large steps toward camera. The first lands in water, the second clears a raised stone. Use a high close tracking shot retreating with her, keeping eyes, upper body, and necklace together, then lowering toward footfalls and splashing droplets. A few small stones drop from upper-right into puddles. A low heavy overhead stone-shift overtakes the rain. Cut just before the second-step braking.
+
+[3.0-5.0s] Sudden slow-down. She slides sharply toward the left wall and turns. Track laterally with her to frame-left. At the instant of shoe skid and chest-shoulder rebound, use about half a second of local slow motion, then return to normal speed. Follow her gaze from face to the gemstone as it nears the left wall. The nearest wall stone lifts by only a finger width, and water begins crawling backward up the crack. She grips the necklace and checks quickly between the gemstone and the wall seam. Skid splash hits the wall and runs down by gravity.
+
+[5.0-9.0s] Re-acceleration. She steps fully into the left-wall position, grips the gemstone at her neck with her right hand, and presses her right palm against the wet stone. Side-follow from left-front, then push in to hold her hand, side face, straining chest, and shoulders together. Green light enters the wet seam at the edge of her palm and propagates upward in stages. Nearby wedge stones tremble first, then rise one by one, scraping and shedding fine sand. End with her right palm firmly planted on the wall and knees bent to stabilize.
+
+[9.0-10.5s] Visual peak. Start from the green glow at her palm and glide along the left wall surface, following the light through about one meter of wet cracks, then tilt upward to reveal stones from both left and right walls extending inward and interlocking along the center line to catch the descending ceiling stone. One heavy low-frequency stone impact lands. The seam bursts locally, and stone dust, fine fragments, and water spray outward, hit wall and ground, then fall. The dust briefly veils the amber reflection and thins. No fire, no explosion.
+
+[10.5-12.0s] Suspended hold. Cut back to a fixed low-angle close shot from her left-front. She remains in the same position with her right palm against the wall while the ceiling stone stays held above her. The impact drives her knees lower and shakes shoulders and back once. The breath she has been holding slowly leaves only after she confirms the stone is stable. Small pebbles keep falling into puddles around her feet, ripples spreading outward. Camera does not move.
+
+[12.0-15.0s] Release. She lifts her right hand away. The green light withdraws back into the gemstone and fades, while the interlocked stone walls continue bearing the load. The camera slowly rises and pulls back from her left-front, now framing her, the left wall, the right wall, and the stopped ceiling stone together. She looks toward the wall and, while stepping backward, says softly, <d>[English] Thank you. </d> with breath still unstable. She then turns and runs out toward the camera foreground along the same direction. End on the same wet corridor, the still-supported ceiling stone, and puddle ripples gradually fading.
+
+Physical continuity is strict: at the end the walls remain load-bearing, the gemstone is dim again but still hanging at her neck, and she exits through the foreground. Rain, splash, stone dust, and fragments obey motion and gravity. Background puddles and warm reflections stay subtly alive. Keep the same face, finger count, body proportions, black tank top, red shorts, necklace, left-right wall positions, stone mass, and collision directions. Camera changes only serve escape, discovery, resistance, and rescue.
+
+overall_soundscape
+
+Continuous fine rain and hollow stone-path resonance throughout, with water drips and small splashes always present. In the opening, emphasize two fast wet footfalls, leather strap movement, the necklace tapping lightly against skin, and short urgent breaths. Small falling stones strike puddles before the larger overhead stone-shift tone arrives. In the slide section, foreground the shoe skid, water hitting the wall, and the narrowed ambience as attention shifts to the gemstone and wall reaction. When the gemstone activates, add only a close low-frequency hum at the wall surface, never a large magical sound. During the bracing section, stage the chain clearly: breath held under strain, stone scraping upward in segments, fine sand falling into water, then the single heavy stone impact and a short local fracture burst. After impact, open the mix and leave mainly water droplets, small falling stone, and her recovering breath. The only spoken line is <d>[English] Thank you. </d> with clear mouth sync. No subtitles and no overpowering score.
+
+non_diegetic_music
+
+Use only a very restrained low tension layer, almost subliminal. Tighten it slightly during the run and the discovery of the wall reaction, drop it away around the major stone impact, and keep it nearly absent so rain, stone friction, breath, and the final line carry the emotion.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/fleeing-toward-the-wall-160897/video-48f36fdd5d20.webm)
+
+**Source:** [@ou_zhen599](https://x.com/ou_zhen599/status/2107529156066160897) · 15s · 16:9 · music video
+
+---
+
+## 3. The last hand on the collapsing platform
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/the-last-hand-680530/video-7762948fe10e.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/the-last-hand-680530/poster-6d4fbe4b73ca.jpg" alt="The last hand on the collapsing platform video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — integrated_multimodal_description 15 seconds, 16:9, realistic industrial-disaster image-to-video, I2VA. Use &lt;Picture 1&gt; as the first frame and only scene reference. Extend only...</summary>
+
+~~~~text
+integrated_multimodal_description
+
+15 seconds, 16:9, realistic industrial-disaster image-to-video, I2VA. Use <Picture 1> as the first frame and only scene reference. Extend only the giant rusted robot, the burning factory zone, the right-side elevated platform, and the single distant human figure already visible on that platform. The story is one continuous reveal: at first the glowing mono-eye and outstretched claw seem to target the person, then it becomes clear the robot is reaching to catch the unstable platform beneath that person. Same place, same time, no scene jump.
+
+Lock staging: A = the giant robot at left-center, with the circular amber mono-eye, pale gray-blue rusted armor, exposed gear ring, pistons, and cables exactly based on <Picture 1>. A takes one large step toward the right-side platform, then only makes load-bearing adjustments with the feet and does not advance again. A always uses the right hand nearest the platform to support the inner edge. B = the single distant human figure on the right-side platform from <Picture 1>, always staying on the right section; do not generate any close-up face, gender detail, or clothing redesign. The platform inner edge faces A, the outer edge remains attached to the right-side building. Camera always stays on the frontal factory side from <Picture 1>, never crosses axis. A stays left-center, B and the platform stay right. Every shot continues from the previous end position.
+
+Keep the original palette: smoke-black blue, cold steel blue-gray, oxidized rust gray, with existing fire orange and mono-eye amber as limited warm accents. Cold cyan shadows, restrained metallic mids, local fire reflections, low saturation, high contrast, readable joints in the darks, preserved flame detail in highlights. Overcast cold top light and existing warm side firelight stay constant.
+
+[0.0-2.3s] Fast. A is already moving in frame 1. Its weight shifts hard toward the right, the foot nearest the platform crushes foreground scrap as it takes one large step, rubble squeezes outward, and low smoke rolls flat under the impact. The right shoulder rotates and the right arm rises toward the platform. The mono-eye aperture tightens onto B as if aiming. B steps back once along the right railing, gripping it with both hands, shoulders tense, head turned toward A. Use a 24mm low-angle near-ground tracking shot moving rightward, keeping A and the right platform in the same frame. Cut on action as the right arm passes close across the lens.
+
+[2.3-4.7s] Mechanical close-up. Hold a fixed close shot on A’s right shoulder, forearm, and wrist as the arm extends toward frame-right. The motion chain is precise and causal: shoulder gear ring engages and rotates, rusted armor plates slide apart exposing the dark inner shaft, hydraulic pistons extend in stages, oil sheen flickers between cold ambient light and nearby firelight, cables lag slightly by inertia then slide over guide wheels and pull tight, the wrist aligns, and the segmented claw fingers open one by one with fingertips crossing beyond the right edge. No random independent movement. Mechanical hum rises and valve hiss comes close. Around 2.8s, B shouts once from the distance, <d>[English] Stay back! </d>, partly masked by machinery, with no face cut-in. Carry into the next shot with fingertip direction.
+
+[4.7-7.0s] Reveal and slow failure. Whip-pan along the claw direction and land on the inner steel-beam connection of the right-side platform. B’s feet and gripping hands are visible at the top of frame, and A’s fingertips remain at the left edge. The connection vibrates and emits one sharp metallic failure tone. Slowly push in. The existing fire at lower-right continues heating the support. Under heat and load, the beam gradually bends, riveted joints loosen, metal filings fall by gravity, and only the inner edge of the platform sinks a few centimeters. B bends the knees and grips the railing tighter, looking down at the feet and then toward A’s approaching hand. The final connection break bridges into the next shot.
+
+[7.0-10.8s] Violent impact. Cut to a fixed frontal factory wide shot on the same axis, with A, the right platform, and B all visible. Only the inner edge of the platform suddenly drops about half a meter while the outer edge remains attached to the building; B folds low against the railing. A stabilizes with the already-planted stepping leg, then drives the right arm forward. The right hand wedges under the inner edge, and after palm contact the claw fingers visibly hook the edge beam. The impact chain is clear: palm contact -> wrist piston compression -> elbow axle drop -> shoulder armor shudder -> torso lean -> knee on the platform side dropping into rubble; the other foot braces backward and carves a short trench in debris. At the moment of contact, use about half a second of local slow motion, with the camera jolting backward briefly from the force and then stabilizing before returning to normal speed. A small amount of orange-white sparks scrape out from the contact point, arc downward, and extinguish. Steel dust and debris burst outward, then fall. Existing firelight flickers across the steel surface. The platform finally stops on A’s hand, and B remains on the right section.
+
+[10.8-15.0s] Slow settle. Pull back slowly from the load-bearing right hand: finger joints tremble in fine detail, wrist pistons make small corrective compensation, vibration in the taut cables diminishes, the hydraulic system exhales quietly, and the claw remains locked to the beam. Continue pulling until A’s one-knee support posture is fully visible. B uses the railing to stand steady again, first looking at the supported broken inner edge, then raising the head toward A’s mono-eye; the shoulders gradually relax. A’s mono-eye settles from urgent flicker into a stable glow, always directed at the platform. Background smoke columns keep rising and rolling, smokestack flare, pipe venting, and ground fires continue with believable motion; dust settles and sparks disappear. End on A still supporting the platform from below with the right hand, while B stands stable on the right section.
+
+Physical continuity is strict: keep A’s mono-eye, armor, limbs, and claw-finger count stable. B remains a single distant person only. Only the inner platform edge fails; the outer edge never fully detaches. No teleporting, no axis crossing, no fire passing through solid surfaces, no smoke obscuring the key contact point, no floating debris, no laser effects, no extra people, no subtitles, and no watermark.
+
+overall_soundscape
+
+Layered industrial ambience throughout: low factory bass, distant fire roar, venting pipes, chain and cable rattles, gear engagement, hydraulic hiss, brittle metal failure, heavy metal impact, and rolling rubble. In the opening, emphasize the huge footfall, scrap scraping under pressure, stone and debris displacement, low smoke disturbed by the step, and distant furnace fire. During the arm-extension close-up, bring the mechanics forward: gear ring bite, staged piston extension, cable drag over pulleys, tightening tension, valve hiss, and rising servo hum. Around 2.8s, B shouts once from far away, <d>[English] Stay back! </d>, partly swallowed by machine noise. At the connection reveal and slow push, feature the small metallic tremor, heat-stressed beam creak, loose rivets, and falling filings. In the impact section, the sound order must be clear: final support break -> platform drop -> robot hand strike and catch -> piston compression -> shoulder shock -> rubble trench scrape -> brief spark spit -> debris fall. After the impact, suppress the broader ambience briefly, then let the load-bearing mechanical groan and distant fire return. Existing smokestacks and fire zones may produce remote dull bursts and momentary flare-ups, but do not introduce any new explosion source. No score should overpower the collision.
+
+non_diegetic_music
+
+Use no dominant score. If any non-diegetic layer is present, keep it minimal and extremely low, more like pressure than melody. Let the scene be driven by industrial bass, machinery, metal stress, impact, and the post-catch bearing groan. The catch moment should feel powered by physical sound rather than music.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/the-last-hand-680530/video-7762948fe10e.webm)
+
+**Source:** [@ou_zhen599](https://x.com/ou_zhen599/status/2107381934158680530) · 15s · 16:9 · music video
+
+---
+
+## 4. Zombie horror in an underground parking garage
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-on-407680/video-72130fb53f71.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-on-407680/poster-2ae0c49b9091.jpg" alt="Zombie horror in an underground parking garage video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a 15-second ultra-photorealistic live-action zombie horror movie sequence in 16:9 widescreen. Make it feel like a professionally shot theatrical horror film, with 5...</summary>
+
+~~~~text
+Create a 15-second ultra-photorealistic live-action zombie horror movie sequence in 16:9 widescreen. Make it feel like a professionally shot theatrical horror film, with 5 connected shots, escalating tension, strong cinematic sound design and music. Realistic human movement, realistic environments, grounded physics, no comedy, no text, no subtitles, no dialogue.  SHOT 1 — 0–3 sec: Night. A deserted underground parking garage. A frightened young woman walks quickly between parked cars, holding a small flashlight. The camera tracks backward in front of her. Suddenly, the flashlight beam catches a motionless person standing far behind her. Deep bass hit.  SHOT 2 — 3–6 sec: Close-up of the woman's face as she stops breathing for a moment and looks behind her. The parking space is empty. The music drops almost completely silent. She slowly turns back toward the camera.  SHOT 3 — 6–9 sec: A zombie suddenly appears extremely close behind her in the background — pale dirty skin, torn everyday clothing, blood around the mouth, unnatural posture. It moves toward her with a sudden violent burst. Hard music impact.  SHOT 4 — 9–12 sec: She runs through the parking garage. Camera follows handheld from behind. Multiple distant zombie silhouettes suddenly emerge between the cars, blocking the exit. Emergency lights begin flashing red.  SHOT 5 — 12–15 sec: She reaches the exit door and desperately pulls it open. Bright daylight floods into the dark garage. She looks relieved for half a second — then the camera moves slightly past her shoulder and reveals dozens of zombies already standing silently outside, completely blocking the exit.  On the final bass hit, one zombie suddenly looks directly into the camera.  CUT TO BLACK.  VISUAL STYLE: ultra-photorealistic live-action theatrical zombie horror, cinematic 16:9 composition, realistic human anatomy, realistic zombie makeup and skin texture, physically believable movement, dark atmospheric lighting, practical-looking effects, subtle film grain, dramatic contrast, natural handheld camera movement, high-end horror cinematography.  CONSISTENCY & QUALITY: keep the same woman, same clothing, same hairstyle and same underground parking garage throughout the sequence. Zombies must have consistent realistic anatomy. No extra limbs, extra fingers, duplicated people, warped faces, melting bodies, floating objects, cartoon appearance, video-game look, excessive gore, text, subtitles, logos or watermark.  EDITING: each shot must have a clear visual purpose and connect naturally to the next. Fast pacing, no dead time. The first shot must immediately create curiosity. Build tension from mystery → realization → zombie reveal → chase → final shocking reveal.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-on-407680/video-72130fb53f71.webm)
+
+**Source:** [@Just_Anika_Here](https://x.com/Just_Anika_Here/status/2107342788178407680) · 15s · 16:9 · music video
+
+---
+
+## 5. A delicate rescue after the blast
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/after-the-deafening-blast-she-held-in-her-arms-the-445030/video-7ddc6f9b013a.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/after-the-deafening-blast-she-held-in-her-arms-the-445030/poster-f163d1ce4d1f.jpg" alt="A delicate rescue after the blast video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — integrated_multimodal_description: 15-second, 16:9, realistic cinematic short generated from &lt;Picture 1&gt; as the only first-frame reference. Preserve the same adult blonde woman...</summary>
+
+~~~~text
+integrated_multimodal_description:
+15-second, 16:9, realistic cinematic short generated from <Picture 1> as the only first-frame reference. Preserve the same adult blonde woman with curled hair, deep blue denim shirt, stained apron, same face, body proportions, shotgun, iron barrel, enamel cup, single flowering plant, broken roof edge, and distant Welcome sign. Keep the same frontal ghost-town street orientation for the entire clip. No second location, no extra people, no black ending. The woman remains the only active human subject. The plant stays the same single plant rooted in the same soil inside the cup from first visible moment to final frame. No lid action.
+
+Spatial lock: start point A is center frame. The iron barrel and flower cup at B stay in the left foreground about one meter from A. The unstable roof edge is directly above B. Retreat endpoint C is slightly right of A in the middle of the street. Gun drop point G is in the right-front open ground, on the camera side of the A-B-C movement line, never blocking her retreat. Her path is only A -> B -> C. First the left hand adjusts the apron while the right hand carries the shotgun. After throwing away the gun, the left hand keeps the cup handle continuously, and the right hand supports the cup from below; only after she is stable at C may the right hand leave the cup bottom to brush the leaf. The camera always stays on the same frontal street side.
+
+Color and light remain the same midday desert palette: faded blue-cyan sky, sand-gold street, old wood brown, inky blue shirt, aged ivory apron, and muted green plant. Hard natural sunlight from upper right edges curls, skin, and dust. Wooden arcade shadows stay slightly cool blue-grey. Skin remains warm peach. Contrast is firm but not crushed. All shots preserve the same color temperature, skin rendering, and sun direction.
+
+[00:00-00:02.6]
+Low-angle 35mm track sliding left about half a meter, continuing from the first-frame pose. She immediately takes half a step toward B. Her left hand drops the apron edge and smooths the waist while her right shoulder adjusts the shotgun weight. Her chin lifts slightly. A trace of self-assured satisfaction sits at the mouth. Her eyes sweep the street. As the camera completes the left slide, the cup mouth and the small flowering plant enter the left foreground. Keep face, apron-adjusting hand, and chest fabric together in one frame. The step landing and shoulder-weight shift cause one slight downward settle and natural rebound through the upper torso under the denim shirt. Apron straps pull taut and release. Old muzzle smoke stretches into a thin strand in the wind. Background details stay alive: grass tufts, hanging lines, sign edge, and the loose roof board.
+
+[00:02.6-00:04.4]
+Fixed layered composition near the barrel: the flower sits low in the foreground while the broken roof edge remains above it in the rear layer. In the same gust, one loose board lifts, the beam shudders twice, old nails begin pulling free, and the roof edge sinks a few centimeters while wood cracking grows denser. Focus shifts from flower to loosening roof joint, and in the same frame she is seen stopping in the rear background. She looks up at the roof, then down at the flower. The mouth loses its soft confidence, the inhale catches briefly, and the knees begin to bend. The audience must understand in one image that the flower is in the fall zone.
+
+[00:04.4-00:06.2]
+Same-side side-front close shot. The wood-crack sound continues across the cut. Her eyes stay fixed on B. With one hard decision, her right hand yanks the shotgun off her shoulder and throws it toward G. The gun butt hits sandy ground first, slides toward the right-front, scrapes, slows, and comes fully to rest, pointing away from both the woman and the flower. No new gunshot. She never looks after the gun. Her weight is already compressed into the left leg, upper lids slightly narrowed, jaw set. The throw and forward drive are one continuous decision, never a pose.
+
+[00:06.2-00:09.3]
+50mm side-front fast follow as she crosses toward screen left to B. Her left hand grabs the cup handle, her right hand supports the bottom, she lifts the cup fully free from the barrel, then folds it inward toward her chest so the flower head stays protected. Keep face, shoulders, chest line, both hands, the flower cup, and the barrel edge readable together for about one second. During the turn and lunge, the upper torso inside the denim shirt lags slightly behind the torso motion; the stopping force when catching the cup tightens the chest fabric, producing one clear inertial return and one or two diminishing after-tremors. Apron straps pull tight. Curls and shirt hem whip forward late and settle back. She looks only at the handle and cup, breathing faster, expression controlled. End once the cup bottom has clearly passed the barrel edge.
+
+[00:09.3-00:11.1]
+Fixed low wide shot with B on the left and G remaining in the right foreground. She retreats about one meter toward C on the right, both hands guarding the cup. The loosened roof edge falls under gravity and the beam end strikes the now-empty iron barrel first. The barrel wall dents and resonates. The wood breaks further along old cracks. Small splinters and rust flakes burst outward. Sand and dust rush toward the camera. Particles fall under gravity, bounce once or twice, and settle. The retreat remains fast and real, but about half a second before impact there is a brief local slowing so the cup bottom is clearly free of the strike point; immediately after impact the motion returns to normal speed. The crash makes her blink once and tighten her shoulders, but both hands protect the cup more firmly. The gun remains at G throughout.
+
+[00:11.1-00:15.0]
+A dust wipe transitions into a same-side slow push of about 0.4 meters. She reaches C and stabilizes. Her left hand stays on the cup handle. Her breathing is fast. Her right hand leaves the cup bottom, first checks the flower stem, then uses fingertips to brush a single speck of wood dust from one leaf. Keep face, chest fabric, and the flower together in frame. Two short recovery inhales create visible rise and fall in the upper chest while the apron chest panel moves lightly with breath. Once she sees the stem is intact, the jaw releases, the eye corners soften, and she exhales long. Upper-body motion gradually calms. She says very softly in English to the flower: <d>[English] Still here.</d> In the last frame the flower is still trembling slightly, her trace smile is visible, and the blurred Welcome sign remains in the distance. Do not cut to black.
+
+Physical realism and continuity are strict. The old wooden boat? No — keep the old wooden street environment only. The shotgun drop, cup lift, roof failure, beam impact, barrel dent, splinter burst, dust travel, and final debris positions must all obey force and gravity. Wind continuously affects grass, hanging lines, sign edges, hair tips, and apron. Hair and fabric obey body inertia during the sharp turn and stop. Upper-body motion is caused only by stepping, turning, stopping, and breathing, constrained by denim, apron, and gravity, never exaggerated.
+
+Hard negative constraints:
+Lock the same face, same clothing, normal fingers, stable upper-body proportions, one cup, and one plant only. No face drift, no extra limbs, no extra people, no fake gunfire, no cartoon acting, no subtitles, no watermark, no black ending.
+
+overall_soundscape:
+Dry noon frontier ambience carries through the whole scene: wind across wood, faint sand skimming the street, distant sign and loose structure creaks, cloth friction, footsteps, and the last residual faint thermal hiss of old muzzle smoke. The hazard build is clear: a loose board knocking, old nails gradually withdrawing, and increasingly dense wood cracking above the barrel. When she discards the shotgun, the butt impacts dirt with a solid thump and a short metallic settling sound. As she lunges for the cup, grit scrapes under her boots, the cup handle taps lightly against her grip, and breathing tightens. The collapse is heavy and physical: beam striking iron barrel, metal resonance, wood breaking further, rust flakes and splinters scattering, dust and grit hitting and settling. In the final section, the sound field narrows back down to wind, fast recovery breath, the delicate brush of her fingertips on leaf and stem, and the close soft line <d>[English] Still here.</d> No new gunfire, no voice-over, no extra human presence.
+
+non_diegetic_music:
+Keep the score restrained and cinematic. Begin with a subtle tension bed under the wind and wood ambience, suggesting quiet control rather than danger spectacle. Let the score tighten slightly as the roof joint loosens and she realizes the flower is in the fall zone, then pull back so the physical sounds of discarding the gun, sprinting, and catching the cup dominate. At the barrel impact, allow one brief low impact accent only, then recede quickly. In the final push-in at C, let the music soften into a very light intimate undertone that supports relief without sentimentality. End open and breathing, with no swell and no hard stop.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/after-the-deafening-blast-she-held-in-her-arms-the-445030/video-7ddc6f9b013a.webm)
+
+**Source:** [@ou_zhen599](https://x.com/ou_zhen599/status/2105631783832445030) · 15s · 16:9 · music video
+
+---
+
+## 6. Underwater fingertip connection
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/i-give-this-underwater-effect-a-big-thumbs-up-707905/video-bf4ff7e79e7b.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/i-give-this-underwater-effect-a-big-thumbs-up-707905/poster-6b656aff7716.jpg" alt="Underwater fingertip connection video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — integrated_multimodal_description: 15-second, 16:9, cinematic image-to-video short developed strictly from &lt;Picture 1&gt;. Lock the whole video inside one continuous Chinese...</summary>
+
+~~~~text
+integrated_multimodal_description:
+15-second, 16:9, cinematic image-to-video short developed strictly from <Picture 1>. Lock the whole video inside one continuous Chinese courtyard shallow-pool space only: wet stone pool edge in the right foreground, koi in the pool, filtered tree shadows above, and softly defocused eaves and courtyard architecture beyond. No second scene, no axis break, no wide unrelated reveal, no extra people, no dialogue, no subtitles, no watermark. Preserve the exact same adult woman: same face, hair, clothing, tattoos, accessories, body proportions, and light direction.
+
+@A begins seated on the wet stone edge in the right foreground, body turned about two-thirds toward the left-front, right hand braced behind her, left shoulder closer to camera, and left leg entering the pool first. Her motion path is fixed and continuous: slide diagonally from right foreground into mid-right, transfer support from stone into water, and settle half-submerged with the shoulder line about 45 degrees to camera. Her head turns slowly and her gaze passes slightly left of camera. She never freezes into a pose; the whole sequence is one continuous weighted entry into the water.
+
+Hand choreography controls the rhythm: fingertips hover before landing, move wet hair aside, pause along the neck and collarbone, drag water down the skin, draw a water trace across the stone, then rise with droplets to touch the shoulder and outer upper arm before withdrawing. Each touch must stay synchronized with breath, eye pauses, and weight transfer. Wrists stay soft, fingers never stiff, no empty posing.
+
+[00:00-00:03.0]
+Ground-level tracking with a low upward angle glides right-to-left along the pool surface. @A presses down with her right hand on the wet stone, fingers gripping lightly and then sliding open for leverage. Her left fingertips hover over the water, then land half a beat later and create one small ripple ring. Her left foot cuts the water cleanly, and the outer left calf is wrapped by water first. Hips glide forward-left across the wet stone. The shot ends with the left leg already in the water and the body visibly beginning to sink. Her expression is controlled and body-led: brow center slightly tight, upper lids lowered, lower lids faintly gathered, gaze resting between the foot and water surface, lips parted by a line, shallow but long breath. This contains the first sensual anchor: one tiny real chest-rib motion caused by the forward glide and compressed breath.
+
+[00:03.0-00:03.5]
+One very short whip-like water-lit transition, following the direction of the slide from the lower-body movement into the upper-body close view. Keep it brief, elegant, and spatially coherent.
+
+[00:03.5-00:06.5]
+Upper-body close shot with a slow push and smooth rack focus. Focus begins on wet hair edges and droplets on the collarbone, then shifts to the eyes and lip line. With two fingers, @A slowly moves wet hair away from the side of her neck, revealing the neck line and collarbone. Her fingertip pads pause on the upper collarbone for one beat, then drag a line of water down the skin, stopping just above the upper chest before withdrawing. The right hand remains behind, supporting her on the stone. Because support and descent happen together, the upper body carries a small real inertia movement while breathing shapes the ribcage, neck, shoulders, and collarbone. Emotion moves from concentration into a softer, more self-possessed tease: lashes tremble once, the gaze rises slightly but still does not meet the lens, one tiny nasal inhale appears, brow peaks soften, and the mouth stays slightly open. This is the second sensual anchor: fingertips, neck, collarbone, upper chest, wet skin, and breath in one causal chain.
+
+[00:06.5-00:09.0]
+Lateral side-follow along the pool edge. Her right palm drags a shallow water trace across the wet stone, then hooks the edge again for fresh leverage. Her left hand passes slowly down the outside of the waist, as if spreading away water while gathering the body line back in. The body lowers farther into the pool, and the water rises from outer thigh toward the waist. The transfer of center of gravity produces one brief natural soft rebound through the hips and lower torso. Her head tilts slightly, the eyes move sideways from a lower angle, and half of the side face slips into view. Upper lids lift a fraction, lower lids soften, and the mouth relaxes rather than smiles. The emotion is now languid, teasing, and rhythm-controlling. This is the third sensual anchor through side-body sink, waist-led support, and restrained upper-torso response.
+
+[00:09.0-00:12.0]
+Fixed static shot. @A is now half-submerged. The right hand leaves the stone by half an inch and settles back softly, creating a tiny realistic rebound. The left hand rises slightly out of the water with droplets on the fingertips, lightly touches the shoulder and outer upper arm, then slides away, allowing one droplet to roll visibly down the skin. Wet hair clings to the neck and cheek. Water rocks softly against the upper body edge. Her head rises slowly, and her gaze travels from the water surface to a point left of camera and stays there for half a beat. The jaw fully relaxes, the lips remain faintly open, and the feeling becomes wrapped, loose, and quietly seductive rather than performative.
+
+[00:12.0-00:15.0]
+Extremely light pullback. @A sinks another half inch into the water. Her left hand floats to the surface, fingers together but soft, and the fingertips draw a very narrow bright line through the water. Halfway through, the fingers lift lightly and break the line, then withdraw slowly. There is no more lateral travel. Only breathing, gaze hold, and a minimal neck-angle adjustment remain. Eyelids stay half-lowered, the returned gaze never fully gives itself to the lens, and the lips stay soft. The final emotional state is quiet, lazy, and suggestive, suspended inside the water. End on the half-submerged mid-right posture without cutting away.
+
+Water and environmental behavior must remain fully realistic. The top of the foot creates the first narrow fast-expanding ripple. The hip glide and leg descent create a second wider slower wave layer. Fingertip taps create small thin ripple rings; fingertip drags create one narrow bright reflective line. Water climbs slowly along the outer calf, outer thigh, and waist with a clear skin-wrapping effect. Droplets remain on the collarbone and shoulders as held beads. After her fingers pass, dragged water traces remain on the skin. Koi are disturbed and slip away from the leg side and under the waist, their tails adding small secondary disturbances. All water highlights, fish wakes, and ripples must obey gravity, flow, contact, and surface tension.
+
+Hair and clothing physics must stay grounded. Wet hair has visible weight and clings to the neck, collarbone, cheek, and face edge. Every small head tilt causes a half-beat lag in a few strands before they settle back against the skin. Once soaked, clothing becomes heavier and more adherent, with outer edges and folds smoothing down against the body. No floating fabric, no plastic stiffness, no exaggerated shaking. Body dynamics come only from weight transfer, breath, sinking, and support: small natural upper-body inertia, slow chest-rib breathing, and one soft waist-hip rebound as the body lowers.
+
+Lighting: warm golden afternoon natural light from upper-left rear, filtered through leaves into broken highlights. The pool acts as a dynamic upward fill, lifting the underside of the jaw, neck side, lower collarbone, and waist from below. Pale wet stone gives weak shadow-side return. Shadows lean cool blue-gray. Highlights concentrate on shoulder, collarbone, jawline, wet hair edges, and the entering leg. Light direction must remain stable.
+
+Color and grading: warm cinematic skin, cool blue-gray shadows, cold white pool reflections, soft highlight rolloff, controlled saturation, preserved tattoo detail, deep but open blacks, and restrained background vegetation and architecture. Core palette: warm amber-gold skin light, soft beige skin, blue-gray shadows, cold white water highlights, deep dark green foliage. Keep the image expensive, restrained, and natural.
+
+Hard negative constraints: no second scene, no wide cutaways, no spatial confusion, no static posing, no face collapse, no drifting features, no extra people, no stray reflected silhouettes, no cartoon expressions, no forced smile, no exaggerated body shake, no cheap splash, no wig-like hair, no plastic fabric, no unstable lighting, no oversaturation, no filter look, no subtitles, and no watermark.
+
+overall_soundscape:
+A restrained Chinese courtyard ambience with light wind through leaves, soft tree movement, shallow water touching stone, the foot entering the pool, palm pressure on wet stone, fingertips touching and drawing through the water, and wet hair softly adhering to skin. There is no dialogue. The sound field remains intimate and close. In the opening, emphasize skin and cloth moving against damp stone, the foot cutting into water, the small opening ripple, the hand grip releasing into a slide, and the first shallow controlled inhale. In the upper-body close shot, the sonic focus shifts to moisture and breath: wet hair moving off the neck, fingertips dragging water along the collarbone, a small change in breathing, droplets shifting on skin, and the near-silent pause of touch before withdrawal. During the side-follow, bring forward the hand dragging water across stone, the re-grip at the edge, the slow water wrap around the hip and waist, and the slight secondary motion from koi slipping away beneath the surface. In the fixed shot, let the room thin: the hand lifts and returns softly to stone, one droplet slides down skin, hair settles against the cheek, and the water strokes the body edge in small loops. In the final beat, the fingertip line across the surface and its delicate break should be audible as a fine wet disturbance, with the courtyard held in calm suspension.
+
+non_diegetic_music:
+Very light atmospheric score only, made of soft sustained tones and airy harmonic texture. The opening should feel intimate, warm-cool, and body-led rather than melodramatic. As the body enters the water, allow the texture to widen slightly without increasing weight. During the hair-and-collarbone passage, reduce harmonic pressure and let breath, water, and skin detail dominate. In the side-lowering section, let the tone deepen very subtly to support the feeling of sinking into a controlled sensual rhythm. In the final 3 seconds, hold a suspended nearly weightless harmonic bed under the unfinished gaze and the broken fingertip water-line, preserving a quiet aftertaste rather than a dramatic ending.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/i-give-this-underwater-effect-a-big-thumbs-up-707905/video-bf4ff7e79e7b.webm)
+
+**Source:** [@ou_zhen599](https://x.com/ou_zhen599/status/2105579175461707905) · 15s · 16:9 · music video
+
+---
+
+## 7. Look at me before the glass falls
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-to-video-look-at-me-355465/video-e18f6060ed19.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-to-video-look-at-me-355465/poster-9ea36cada980.jpg" alt="Look at me before the glass falls video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — integrated_multimodal_description: 15 seconds, 16:9, realistic cinematic image-to-video. Use &lt;Picture 1&gt; as the only first frame and the only visual reference for the adult woman...</summary>
+
+~~~~text
+integrated_multimodal_description:
+15 seconds, 16:9, realistic cinematic image-to-video. Use <Picture 1> as the only first frame and the only visual reference for the adult woman and the hangar. Preserve her face, hairstyle, goggles, earmuffs, dark olive open-collar work jacket, shoulder strap, sweat-sheened skin, dual mechanical arms, and the same dark steel-beam hangar with warm practical light on the left, long skylight at upper right, workbench, and distant background figures. The camera is first-person POV of a rescued person standing in front of her; only this person’s left forearm may appear briefly, and no second clear face is ever shown.
+
+Lock spatial continuity: she advances from center frame toward the camera. Upper-right frame and behind her right side hold the skylight and brighter corridor with cold daylight. Left frame remains the darker ceiling zone and safety passage. Danger falls from upper-right into the right corridor. She and the camera always retreat together toward screen-left, never swapping sides. Her left hand first pulls one earmuff aside to listen; her right hand grabs the rescued person’s left forearm and releases only at the end. Any camera turn stays on the same side of the action axis.
+
+Keep the palette and light stable: charred steel black-green, dark olive clothing, tungsten amber practicals, cool skylight white, and natural warm skin. Low saturation, deep olive and blue-gray shadows against amber highlights, roughly 3200K practicals against 5600K skylight daylight. High contrast with retained steel detail and soft highlight roll-off. Glass breakage creates only a brief cold-white flicker; time of day and overall color temperature never jump.
+
+[0.0-2.0s]
+Fast POV retreat. Continue directly from the frontal close view of <Picture 1>. From the first frame she takes a large step toward the camera, pulls one earmuff aside with her left hand to isolate a metallic tension sound overhead, and the POV retreats quickly by about one step. Two forceful footfalls drive visible vertical load through her upper body. The open collar and shoulder strap tremble with the same rhythm; sweat beads and loose hair catch warm side backlight. Close framing always keeps face and chest together. Her eyes first scan the person in front of her, then jump past the camera toward her own upper-right rear; her brow tightens slightly and her lips stop the breath she was about to release.
+
+[2.0-3.5s]
+Sudden slow-down, low-angle tilt up. She is still stepping forward slowly, never freezing. The camera tilts upward from the moving collar and shoulder strap to her eyes. In the curved reflection of the goggles, the bright skylight line in the upper-right trembles, and a speck of dust lands on her shoulder. Her eyes move first, then her head follows with a small turn. She blinks once quickly, bites down lightly in the back of the jaw, and returns attention to the rescued person. Do not reveal the full crack yet.
+
+[3.5-8.0s]
+Violent acceleration, lateral side-follow with one rebound deceleration. She leans toward the person and says in a low, short command close to one breath, <d>[English] Look at me.</d> The line is a command, not comfort. While speaking, her right hand reaches to the edge of frame and grabs the person’s left forearm. She lowers her center of gravity, drives off with her right foot, and pulls the person and the POV diagonally toward screen-left, out of the bright corridor, across about two steps. The camera is dragged by this force, sliding fast sideways and slightly downward, then settling under the darker left-side ceiling with one brief inertial rebound. The camera passes close to her upper body: the shoulder strap tightens, the open collar is tugged by wind and hard turn, and the chest makes a pronounced lateral swing caused by sideways acceleration and torso rotation. After the abrupt stop, it shows a smaller quickly decaying rebound consistent with real soft-tissue inertia and breathing. Loose hair whips opposite the movement and falls back across the shoulder, and the earmuff swings lightly. She checks first whether the person’s footing follows, then looks at the person’s eyes, keeping the mouth tight.
+
+[8.0-11.0s]
+Impact reveal, whip-pan. They have already stopped in the safe left-side zone. From beside her left shoulder, the camera whips toward the right-rear, but the endpoint still keeps part of her left shoulder silhouette in frame. At the skylight in the upper-right, one metal fastener snaps first, the frame bends, and a single pane loosens from one corner, tilts, strikes a beam, and shatters. Large shards fall first, then smaller fragments follow gravity into the bright corridor on the right, hitting, bouncing, and sliding outward. A little fine debris scatters toward the camera’s previous path and slows to a stop near the left-side ceiling edge. Cold white daylight passes through the fragments, and dust is thrown up by the impact, briefly veiling the frame before thinning. The distant background figures only turn, duck, or step back within their own positions. Do not turn this into a full hangar collapse.
+
+[11.0-15.0s]
+Stillness, fixed close shot. Use the impact dust as the transition back to the same safe left-side position. Hold a fixed half-body close shot. Her right hand still supports the person’s forearm and only lets go after confirming the person is steady. After the violent movement, her chest rises and falls visibly with urgent breathing. The open collar edge and shoulder strap tremble first, then settle gradually with one longer exhale. The composition contains both upper body and face, and attention rises with her movement: the jaw softens from tension, her lips part slightly, and she reestablishes eye contact with the person; one corner of the mouth loosens for only a brief instant. Then her eyes lift toward the upper-right skylight before the head follows, checking the danger again. End with both her and the camera still in the safe left-side zone, debris settled, and background figures continuing small evasive movement without freezing.
+
+Keep continuity exact throughout: same identity, same outfit openness, same goggles, earmuff, and shoulder-strap positions, same lighting direction, and the same factory depth. The camera must feel physically tugged by her grip. Hair, clothing, strap, skin, and chest motion must all follow step, torso rotation, hard stop, and breathing with proper inertia and decay. The glass falls only because of the failed upper-right skylight. All fragments follow gravity, collision, and occlusion. Face, fingers, ribcage, and cloth proportions remain stable. No extra foreground character enters.
+
+overall_soundscape:
+A continuous low industrial hangar ambience runs through the full 15 seconds: heavy room tone, faint metal resonance, distant footsteps, sparse background worker movement, and scattered machine hum. At the start, one sharp thin metallic tension ping is heard overhead; when she pulls one earmuff aside, the higher-frequency abnormal sound becomes clearer. During 0.0-2.0s, emphasize two heavy retreating footfalls, cloth and leather friction, close breathing, and light strap movement. From 2.0-3.5s, keep the tension thin and focused, with one tiny dust hit on fabric and the room tone narrowing as she listens. At 3.5-8.0s, she says once, <d>[English] Look at me.</d> in a low clear voice fully synchronized with the mouth. Add two urgent lateral steps, a light buckle tap from the shoulder strap, close breath, the grip on the forearm, and the camera-body pull. At 8.0-11.0s, the sound chain is precise: metal fastener break -> glass striking beam and shattering -> dense ground impacts and fragment sliding. After the impact, a brief ear-ringing tone compresses the sound field. In the last section, let that fade into her breathing as it changes from sharp to slower, with sparse distant reactions from the background figures. No extra dialogue, no voice-over, no subtitles.
+
+non_diegetic_music:
+Use a restrained low-frequency suspense pulse under the opening approach. Thin it out as she listens upward, then tighten it briefly during the grab-and-pull section. The glass-failure reveal should be driven mainly by physical sound, with only a short dark accent under the snap and fall. After the impact, drop the score back almost completely, leaving only a faint residual tension tone beneath her breathing and the far hangar ambience. Keep the music minimal and secondary to footsteps, breath, strap movement, metal failure, and falling glass.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/image-to-video-look-at-me-355465/video-e18f6060ed19.webm)
+
+**Source:** [@ou_zhen599](https://x.com/ou_zhen599/status/2106654552137355465) · 15s · 16:9 · music video
+
+---
+
+## 8. Ravenholdt courtyard vanish effect
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/airem-scry-executing-vanish-262478/video-06b418569a90.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/airem-scry-executing-vanish-262478/poster-f4b70c0f39ed.jpg" alt="Ravenholdt courtyard vanish effect video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — f/2.8 lens, eye level, static camera in Ravenholdt courtyard. Damp stone courtyard, low mountain fog. From 0s to 2s, subject holds unblinking eye contact. At 2s, he swiftly pulls...</summary>
+
+~~~~text
+f/2.8 lens, eye level, static camera in Ravenholdt courtyard. Damp stone courtyard, low mountain fog. From 0s to 2s, subject holds unblinking eye contact. At 2s, he swiftly pulls his dark wool hood over his head and turns his back to camera. At 3.5s, as his cloak sweeps, his physical body rapidly dissolves and evaporates into a brief wisp of dark shadow-mist, vanishing completely by second 5, leaving the damp stone courtyard entirely empty for the final second.  TEXTURES AND VFX: Optical body dissolve, realistic dark mist evaporation, fluid wool physics, organic sensor grain. Quick cloth rustle, boot pivot, brief wind gust, fading rain ambience.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/airem-scry-executing-vanish-262478/video-06b418569a90.webm)
+
+**Source:** [@holagarciajavi](https://x.com/holagarciajavi/status/2106409582222262478) · 9s · 4:5 · music video
+
+---
+
+## 9. Explosive Hollywood pyro title reveal
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/this-burn-experiment-is-a-perfect-example-812627/video-79f526e55c9a.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/this-burn-experiment-is-a-perfect-example-812627/poster-5aa94a81d7a7.jpg" alt="Explosive Hollywood pyro title reveal video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Extreme Hollywood pyro title sequence: begin inside a microscopic droplet of fuel suspended in darkness as a spark suddenly ignites its surface. Fire spreads explosively outward...</summary>
+
+~~~~text
+Extreme Hollywood pyro title sequence: begin inside a microscopic droplet of fuel suspended in darkness as a spark suddenly ignites its surface. Fire spreads explosively outward and the camera rockets backward through a chain reaction of enormous fuel explosions. Liquid fire whips across the frame like glowing ribbons while burning debris and sparks spiral into a rapidly expanding fire tornado. The camera enters the vortex and rotates around a white-hot molten core where streams of liquid metal begin violently forging the gigantic word "BURN". Every letter emerges incandescent from the inferno before cooling into cracked black steel while magma remains visible beneath the surface. The completed title slams into frame with enormous weight as flames blast through the gaps between the letters. Pressure suddenly builds inside the typography until "BURN" violently ruptures from within, unleashing a radial explosion of molten metal, sparks and fire directly into the lens. Extreme heat distortion, realistic pyro physics, aggressive camera movement, AAA theatrical VFX.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/this-burn-experiment-is-a-perfect-example-812627/video-79f526e55c9a.webm)
+
+**Source:** [@CharaspowerAI](https://x.com/CharaspowerAI/status/2106398901267812627) · 15s · 16:9 · music video
+
+---
+
+## 10. One step from a forest rescue
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/one-step-away-035510/video-5ef4991c2413.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/one-step-away-035510/poster-19bb344ba694.jpg" alt="One step from a forest rescue video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — integrated_multimodal_description 15 seconds, 16:9, image-to-video, realistic live-action cinematic survival short, I2VA. Use &lt;Picture 1&gt; as the only first-frame anchor and only...</summary>
+
+~~~~text
+integrated_multimodal_description
+
+15 seconds, 16:9, image-to-video, realistic live-action cinematic survival short, I2VA. Use <Picture 1> as the only first-frame anchor and only reference for the same damp conifer forest, near thick tree trunk, low ferns, thin mist, sparse warm floating light points, and diagonal sunset from frame-right. Keep the same adult white-haired woman: same face, headband, black leather corset, bracers, belt, short skirt, sweat and mud traces, and the same axe. Keep the same gray wolf with the same size and fur color. Everything happens in one continuous evasive incident in the same forest clearing. No new people, animals, props, or location change.
+
+Spatial lock: woman always stays on frame-left, wolf stays close on her right. At first both run toward the right-front. Danger is a small moss-covered patch one step ahead in the lower-right front. Camera always stays on the same side as <Picture 1>, never crossing the action axis or swapping left-right positions. The axe always stays in the same hand as in <Picture 1>; the other gloved hand stays near the wolf’s mouth. The wolf bites only the glove until she reaches firm ground, never skin. She brakes with her own feet, slides one step backward-left, then drives the axe blade into safe mud to stabilize; the wolf does not drag her. At the end the axe remains planted on the original hand side, and she touches the wolf’s forehead with her freed hand.
+
+Keep the grade from <Picture 1>: low saturation, clear heavy cold-warm contrast, deep blue-green forest shadows, gray-green damp moss, near-black brown leather, amber-gold sunset rim light and tiny sparks, warm-neutral skin. Preserve shadow texture, keep skin from turning blue, and let the right-side golden rim light trace white hair, shoulders, back, and wolf fur. Highlights stay soft. Color temperature, shadow hue, skin tone, and sunset direction stay constant. The underground smolder appears only as a very small dark-red glow inside the crack, never turning the forest into firelight. Add subtle film grain and real lens depth of field.
+
+[00:00-00:02.4] Rapid establishment. From frame 1 she is already running three steps toward the right-front. Use a low-angle three-quarter side tracking shot moving with her and gradually closing in, woman on the left, wolf on the right, axe handle near the left edge, wolf head near the lower-right edge. Her gaze locks on the brighter area ahead, chin slightly tucked, brows lowered. Each footfall sends weighted vertical impact through shoulders, waist, chest, and axe arm. Keep a close moment with face, neckline, and corset together: the chest under the leather support shows clear rhythmic vertical movement from the continuous run, with straps, leather edges, and sweat beads reacting with slight delayed rebound. Breathing is rapid and continuous, white hair whips backward, hair tips brush her cheek. During the run, the wolf suddenly lowers its nose and angles its ears toward the lower-front danger area, its stride falling half a beat behind hers.
+
+[00:02.4-00:05.9] Misread and hard brake. The wolf bites the glove on the hand nearest it from her right side. The camera performs a fast whip from the wolf’s mouth toward the woman and lands in a frontal three-quarter close shot without circling to the other side. The sudden resistance interrupts her step. Her lead foot compresses into wet soil and carves a short mud skid while her body continues forward for half a beat before wrenching back. The axe hand rises to shoulder level but never swings down. Hold her face, shoulders, chest, and axe handle in the same frame: the abrupt stop creates one clear forward inertia surge through chest and corset, then one to two natural diminishing rebounds with short uneven breaths. The garment tightens and recovers, and sweat-wet white hair flicks across the corner of her mouth. She bites her lower lip, nostrils slightly open, eyes fix first on the wolf’s mouth, then flick up toward the raised axe blade. Knees and waist still fight for balance. A thin root snaps quietly. Her eyes shift toward the lower-right danger zone before her head follows, and the axe freezes mid-lift. After the whip lands, hold briefly still so the frantic motion collapses into tense suspension.
+
+[00:05.9-00:07.2] Discovery. Cut to an over-shoulder close shot from the same side, with her side face in the left foreground and the moss underfoot in the lower-right. Camera remains still. Focus glides from her wet eye to a fine crack ahead: under it there is only a dim dark-red ember glow, and one thin thread of smoke curls upward along the moss edge. She blinks once quickly, traces the crack with her gaze, and parts her lips without sound. Background tree shadows and mist keep drifting slowly, with sunset direction unchanged.
+
+[00:07.2-00:10.3] Collapse burst. A root breaks with a sharp snap. Cut to a ground-level view from the same side, with a short pull bringing the crack, her foot, the gray wolf, and the safe ground into one frame. Only a one-step-wide patch of moss and root structure collapses. Roots hollowed by underground smolder bend first and then break; soil clods and charred roots fall under gravity, hit the lower root wall, and fracture again. Expelled dust and a small number of sparks puff upward; the sparks rise with heat and die, while mud crumbs fall back to the rim, leaving a black torn edge and slow smoke. Her foot brakes just before the edge. She slides backward-left, lowers her knees, and drives the axe blade into solid mud on the left; the handle takes her upper-body weight and vibrates slightly. Bracers, belt, and leather corset tighten under impact and then rebound. The wolf remains safely on the right, releases the glove, digs all four paws into the ground, and its fur lifts briefly from the hard stop and nearby air movement. Ferns shake from footsteps and falling soil. Background treetops, mist, and backlit warm particles keep only natural wind movement. No explosion and no huge chasm.
+
+[00:10.3-00:15.0] Aftershock and relationship reversal. From a two-subject close shot with her low and braced on the axe and the wolf on the right, slowly push in until the ending frame holds her face and upper body together with the wolf’s head, while the axe handle still remains near the left edge. She first checks the foot that stopped outside the crack, then the axe blade, and only then looks at the wolf. The fingers gripping the handle loosen one by one, the hardness between her brows fades, and her bitten lower lip relaxes. Before standing, her chest and corset rise and fall clearly with several deep breaths, and the residual tremor from the run and hard brake gradually settles; straps, sweat on her neck, loose white hair, and fitted leather move only with breathing and weight. She touches the wolf’s forehead with the back of her free hand. The wolf leans slightly closer and never makes a human-like expression. Looking at the wolf, she says softly, breath still in it, <d>[English] I almost... </d> and stops mid-line. In the final second she exhales slowly, her hand still on the wolf, and the camera comes to rest without cutting to black.
+
+overall_soundscape
+
+Opening rhythm is urgent and physical: three wet-soil footfalls, leather-and-cloth friction, the axe handle lightly tapping the belt with each stride, the woman’s hard breathing, and the wolf’s breath. When the wolf bites the glove, add one short leather bite sound and one shoe-brake scrape in mud; the whip-pan carries a light air-cut whoosh. After 00:04, the low-frequency pressure and wider detail collapse suddenly, leaving mostly chest breath, faint forest air, and a small root-creak. In the discovery section, keep subtle smoke hiss, damp forest tone, and soft drift of ferns and mist. At 00:07.2, the root break and falling soil create the only major sonic peak: root snap, dirt and charred pieces dropping, fragments hitting lower surfaces, dust burst, a few faint sparks, and the axe blade driving into firm mud. Debris decays quickly from near to far. In the ending, restore gentle wind, fern friction, slowing breath from woman and wolf, and the final line <d>[English] I almost... </d>, short, light, and breath-filled. No voice-over and no subtitles.
+
+non_diegetic_music
+
+Use restrained low-frequency suspense pulses under the opening run. At the glove bite and hard brake, tighten the pulse briefly, then strip the score back so breath, root creak, and forest detail dominate. Let the collapse peak be driven mostly by physical sound, with only a subtle dark undertone beneath it. During the final push-in, reintroduce a very thin fragile low pad that supports the emotional reversal without becoming sentimental. Keep the music minimal, tense, and secondary to breathing, leather, soil, axe impact, and the wolf.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/one-step-away-035510/video-5ef4991c2413.webm)
+
+**Source:** [@ou_zhen599](https://x.com/ou_zhen599/status/2107106890086035510) · 14s · 16:9 · music video
+
+---
+
+## 11. Rainforest escape by half a step
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-to-video-just-half-a-step-away-637359/video-c94637984cef.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-to-video-just-half-a-step-away-637359/poster-b853b35e08af.jpg" alt="Rainforest escape by half a step video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — integrated_multimodal_description 15 seconds, 16:9, multi-shot live-action realistic wet-rainforest survival short film, I2VA. Use &lt;Picture 1&gt; as the only locked first frame and...</summary>
+
+~~~~text
+integrated_multimodal_description
+
+15 seconds, 16:9, multi-shot live-action realistic wet-rainforest survival short film, I2VA. Use <Picture 1> as the only locked first frame and only reference for the same adult female explorer: same face, beige headband, black twin braids, wet light-camouflage fitted tank top, worn shorts, camouflage backpack, and machete always in her right hand. Keep the same shallow muddy jungle path, same rain, same light, same frontal geography. She takes the first step at frame 1. No location or time change, no extra people or animals.
+
+Lock geography: she starts centered, facing camera, advancing about half a meter. On screen-left, a hanging vine beside the mossy tree blocks a narrow escape gap. From the right-rear, an old thick branch extends above the center of the muddy path. After noticing warning signs, she cuts the left hanging vine with one right-hand diagonal slash, places her left foot through the opening first, brings the right foot after it, side-steps about seventy centimeters, and stabilizes on screen-left. The thick branch falls only onto the central step point she just left. End with her on the left and the fallen branch across center. Camera stays only frontal or left-front; any whip to the right only follows danger and never reverses left-right orientation. The vine never moves by itself; only the blade cut makes the lower section drop.
+
+Performance rhythm: fast -> slow -> extremely fast -> impact -> held breath -> release.
+
+[0.0-2.0s] Fast. 35mm frontal medium-close tracking backward as she advances through shallow water from frame 1. Machete stays low in her right hand. Her eyes scan ahead, then flick to the hanging vine on screen-left; breathing is short and steady. Keep face, shoulders, chest, and machete hand in frame: two quick splashing steps make the chest under the wet fitted top rise and fall with body weight, then show a brief inertia lag after each foot plant before settling. Wet fabric clings and loosens with ribcage motion. Her steps push shallow water outward, nearby leaves tremble, rain slides down the blade. From the right-rear comes a small wood crack. Cut on the sound and splash of her next step to a low water-level view.
+
+[2.0-4.8s] Sudden slow-down. Low water-level close shot: wet wood chips fall from upper-right into the shallow water she is about to step into, making consecutive rings. They come from the same old thick branch in the right-rear. Tilt up from the rings to her face. She halts the right foot before landing. Eyes drop to the chips first, then snap up upper-right; head follows half a beat later. Inhale catches, lips part slightly. A second heavier wood crack sounds. She sees the split widening, then instantly cuts her gaze to the narrow left gap and blocking vine. She mutters once, <d>[English] Shit. </d>, low and short, partly buried under rain.
+
+[4.8-6.3s] Extremely fast. Cut to a left-front close shot on the same axis, moving with her sharp sidestep left. She drives off the right foot, turns shoulders left, and swings the machete once from low position across the body in a diagonal slash, clearly severing the hanging vine on the left side. Her eyes look through the opening, not at the blade. Wet fibers split, raindrops fling outward; the upper vine remains hanging while the lower section drops by gravity into mud and water. After the blade clears past her body, the left foot enters first, the right foot follows, and she brakes in a bent-knee stop on screen-left with the blade still outward. Keep eyes, shoulders, chest, slashing arm, and backpack strap together in frame: during the pivot, upper body and backpack lag behind the hips; after the lateral stop, the chest makes one brief sideward motion along the original travel direction, then one smaller rebound and decay. Braids and loose backpack straps whip later than the torso. The instant she finishes the evade, her gaze snaps back to the upper-right. The next shot whips with that gaze toward the falling branch.
+
+[6.3-8.4s] Impact. The camera whips right with her eyeline and lands on a slightly wider view of the same space: she is on the left, the central path is the spot she just vacated. The thick branch from the right-rear breaks at the earlier split: wet wood fibers tear, chips drop, and the branch falls diagonally under gravity, shearing through lower leaves before crashing hard into the central shallow muddy path. Muddy water sprays outward in low arcs; nearer droplets hit the lens. Ferns and water keep trembling, debris follows into the water, and the branch gradually stops shaking. She crouches and tucks her shoulders on the left to avoid spray, but both feet stay planted in the safe spot. Clothes and braids react only to the earlier sidestep and splash impact. Water on the lens carries the cut into the next shot.
+
+[8.4-11.1s] Held breath. Same-side fixed medium shot, woman on the left, fallen branch across center, confirming the strike point. She stares at the branch’s final oscillation while gripping the machete tightly in her right hand and blinking away droplets. Two shallow urgent inhales come first; only after the branch settles do her knuckles loosen and the machete tip drop toward the muddy water. Her eyes follow only the broken branch.
+
+[11.1-15.0s] Release. Cut to a left-front close shot of face and upper body, keeping the fallen branch legible over her shoulder near center. With her empty left hand, she wipes rain from brow and eye line, then the hand pauses near her cheek while her gaze stays past the camera toward the branch. Her chest lifts with one last deep inhale, tightening the wet top slightly; then she exhales long, and chest, shoulders, fabric, and twin braids gradually calm. A tiny relieved, disbelieving smile appears at one corner of her mouth. The machete remains low in her right hand. No ending dialogue. Let rain on the branch and settling path water close the scene. Keep the exact color world from <Picture 1>: dark moss green, deep leaf green, rain-haze blue gray, wet mud brown, real warm skin tone, medium-low saturation, soft layered contrast, cool diffuse canopy light with unchanged direction, only brief natural highlights on wet skin and blade. Rain lines, leaf drips, water rings, cut vine, and branch aftershock must always have clear cause and effect. Background remains alive, never a still frame. Keep identity, body proportions, headband, twin braids, clothing wetness, backpack, machete in right hand, left-hand wipe, left-right tree positions, upper and lower vine sections after the cut, branch’s central resting place, rainfall intensity, and light direction fully consistent. No subtitles or voice-over.
+
+overall_soundscape
+
+Continuous dense rainforest rain, leaf drips, shallow-water footsteps, soft foliage rustle, and wet jungle air throughout. At 0.0-2.0s, emphasize two advancing splashing steps, cloth friction, rain ticking on blade and leaves, and one small wood crack from the right-rear. At 2.0-4.8s, add several wet wood chips dropping into shallow water with consecutive rings, then a second heavier wood crack as the split widens. She says once, low and short, <d>[English] Shit. </d>, partly masked by rain but clearly lip-synced. At 4.8-6.3s, foreground the push-off step, one clean machete slash through wet vine fibers, the cut lower segment dropping into mud-water, lateral braking footwork, backpack strap snap, and brief body-weight recovery. At 6.3-8.4s, feature the branch tearing free, leaf-shearing, heavy impact into muddy water, low spray, debris dropping, lens-hit droplets, and residual shaking. At 8.4-11.1s, reduce to rain, her tight breathing, branch after-vibration, and small water movement. At 11.1-15.0s, keep only rain, drip on broken wood, soft fabric movement, her final deep inhale and long exhale, and the path water settling. Do not bury her breathing after the impact.
+
+non_diegetic_music
+
+Use extremely restrained tension scoring only. A faint low pulse under the opening fast advance, thinning when the wood chips and cracks interrupt her step. Add one sharp minimal accent for the slash and lateral escape, then let the branch impact play mostly through physical sound. After the crash, keep the score nearly absent, with only a subtle low suspended tone releasing during her final exhale. Music must stay secondary to rain, breath, blade, water, and branch impact.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/image-to-video-just-half-a-step-away-637359/video-c94637984cef.webm)
+
+**Source:** [@ou_zhen599](https://x.com/ou_zhen599/status/2107073661102637359) · 15s · 16:9 · music video
+
+---
+
+## 12. Rain stopping fantasy mishap
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-877940-877940/video-b6123b21c4e2.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-877940-877940/poster-50eb13966ccb.jpg" alt="Rain stopping fantasy mishap video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — subject_definitions: &lt;Subject 1&gt; is the single female character depicted in &lt;Picture 1&gt;. All views in the character sheet show the SAME person. Preserve her exact facial identity,...</summary>
+
+~~~~text
+subject_definitions:
+<Subject 1> is the single female character depicted in <Picture 1>. All views in the character sheet show the SAME person. Preserve her exact facial identity, pale green eyes, short black bob with straight bangs, raised patterned hood, red-and-silver headphones, oversized black-and-turquoise graphic jacket, shorts, patterned thigh-high socks, chunky black boots, and original body proportions. Maintain all clothing colors, graphic motifs, and accessories throughout.
+summary:
+[reference generation] Create a 15-second, 9:16 animated comedy. <Subject 1> confidently stops the rain with a small supernatural gesture. After a brief moment of satisfaction, one tiny rain cloud appears directly above her head and starts raining only on her. She tries to walk away, but the little cloud follows her perfectly. End with her defeated, irritated stare toward the camera. Exactly three shots, one girl, one location, no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in all three shots): fully_preserved - retain her identity, costume, headphones, hairstyle, hood, proportions, and illustrated appearance. Rain adds surface droplets without changing the clothing design.
+Use <Picture 1> only as a character-design reference. Do not reproduce the white background, character-sheet layout, headings, or multiple views.
+detailed_description:
+High-detail 2D anime animation matching the reference illustration, with smooth, restrained acting and consistent costume details. The setting is a quiet Japanese side street at night. A softly illuminated shop window and cool blue streetlight make the rain clearly visible. The pavement is wet, with small puddles and stable reflections. Keep the same location and lighting throughout.
+
+The newly generated little cloud is a single compact, dark-gray cloud about 60 centimeters wide, floating roughly 50 centimeters above the girl's hood. It produces one narrow vertical shower directly onto her hood and shoulders. Maintain its shape and size. This cloud is the only source of rain after the opening rainfall stops.
+[Shot 1]
+A steady, eye-level medium-wide shot shows <Subject 1> standing in the center of the frame during ordinary rainfall across the entire street. Her face, raised hood, headphones, and distinctive jacket are clearly visible. Leave enough space above her head for the later cloud.
+She glances upward with mild annoyance, then slowly raises her right hand toward the sky, palm open. A brief, restrained cyan glow appears around her palm. As she closes her fingers, the rainfall across the street stops completely. The glow disappears. Hold a short, clear pause with no falling rain anywhere. Existing puddles and wet reflections remain unchanged.
+She lowers her hand and lifts her chin slightly, looking quietly pleased with herself. The broad rainfall sound fades into peaceful street ambience.
+[Shot 2] At 00:05.000, cut to a slightly wider, locked full-body shot in the same location.
+<Subject 1> remains centered, and the surrounding street is still free of falling rain. One tiny dark-gray cloud materializes directly above her hood. After a brief beat, it starts a narrow shower onto her head and shoulders. Clearly show the rain beginning at the underside of this cloud.
+Only the small area directly beneath it receives fresh rain; the rest of the street remains rain-free. She freezes, blinks once as droplets reach her face, and slowly looks upward at the cloud. Her satisfied expression becomes a silent, offended stare. Keep the cloud's edges and the localized rain column clearly visible.
+
+[Shot 3] At 00:09.000, cut to a steady medium-wide shot with room beside her to show movement.
+<Subject 1> takes two deliberate steps toward screen-left, attempting to leave the shower. The tiny cloud moves horizontally at exactly her walking speed, staying directly above her hood. Its narrow shower follows her continuously, never falling behind or spreading across the street.
+She stops. The cloud immediately stops above her and keeps raining. Allow a short beat so the failed escape is unmistakable. She slowly lowers her shoulders, turns her eyes toward the camera, and gives a flat, deeply unimpressed stare. One visible droplet runs down her cheek. Hold this expression during the final two seconds while the little cloud continues raining only on her. End at 15 seconds.
+overall_soundscape:
+Broad rainfall and small pavement splashes during the opening. When she stops the weather, the rainfall sound clearly fades out, leaving quiet nighttime ambience. The little cloud introduces a smaller, localized patter on her hood and shoulders. Natural footsteps accompany her two steps. No dialogue, narration, singing, muttering, sighs, or other vocal reactions.
+
+non_diegetic_music:
+A restrained instrumental electronic bass phrase accompanies her confident rain-stopping gesture, then ends during the peaceful pause. One short, dry plucked note punctuates the tiny cloud's first shower. Keep the ending sparse so the rain and her silent reaction carry the joke. No vocals.
+
+Exactly one girl and one tiny cloud. Maintain the original character design and opaque clothing. The broad rainfall stops before the little cloud appears. Do not instantly dry the pavement. No additional rain clouds, umbrellas, lightning, strong wind, destructive effects, character duplication, extra limbs, camera shake, or additional cuts. Add no captions, subtitles, title cards, watermarks, or branded signage.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-877940-877940/video-b6123b21c4e2.webm)
+
+**Source:** [@tokyo_Valentine](https://x.com/tokyo_Valentine/status/2106945512389877940) · 14s · 16:9 · music video
+
+---
+
+## 13. Do not worry about me
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-to-video-dont-worry-about-me-902577/video-f0c30e038eab.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-to-video-dont-worry-about-me-902577/poster-0f8aa597fc47.jpg" alt="Do not worry about me video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — integrated_multimodal_description: 15-second, 16:9, realistic cinematic short generated from &lt;Picture 1&gt; as the only first frame. Lock the whole film inside the same snowy alley...</summary>
+
+~~~~text
+integrated_multimodal_description:
+15-second, 16:9, realistic cinematic short generated from <Picture 1> as the only first frame. Lock the whole film inside the same snowy alley only: the same rusted spherical robot in the left foreground, the same woman, hanging wires, neon haze, snow, and ruined alley depth. No extra people, no extra robots, no new space. Preserve the exact same adult blonde woman: same face, wet hair, open black short jacket, chest garment, harness straps, dual mechanical arms, armored legs, and identity. Preserve the same rusted spherical robot with one amber eye and two short antennas.
+
+The story is farewell. She treats the robot like a lover, tells it she will be okay, presses its existing reply button, receives one last touch from its remaining power, then holds it and finally breaks into tears. The robot stays in the left foreground for the entire clip. She begins from the central standing position in <Picture 1>, with her right mechanical hand already resting on its head. She steps half a step toward screen right along the shell curve, then drops to one knee on the robot’s right side and never changes position again. Her left hand presses the circular mechanism low on the front shell. Her right hand moves from stroking the head into the final embrace. She actively brings her face close to the antenna so only a small antenna rotation is needed to touch her cheek. The camera stays on the same side of the woman-robot line as in <Picture 1>.
+
+Color stays low-saturation and cold: coal black, steel blue, snow-fog blue, with amber from the eye as the only vivid warm light, and skin kept naturally warm. Medium-high contrast, textured darks, soft amber falloff, fine film grain. The original red-blue neon remains blurred and reduced in saturation. When the eye brightens, the warm light only sweeps across her face, knuckles, the shell, and nearby snow. Once it dies, the cold blue environment returns.
+
+[00:00-00:02.6]
+50mm three-quarter side medium close, moving about 40 cm sideways with her. Continue directly from <Picture 1>; she is already moving. Staying close to the shell, she steps half a step right while her right palm slowly brushes away snow and her thumb wipes the rim of the amber eye. Ice grains loosen and roll down the shell into the snow. The shot ends holding her eyes, shoulder-chest line, mechanical hand, and the robot together. Leaning in and stopping creates one soft upper-torso inertial sway, then it settles back. Jacket edges and harness straps fall into place half a beat later. She begins with held breath, then when she sees the eye still carrying a faint ember she gives it one tiny reassuring smile. Cut at the instant her thumb stops on the eye rim.
+
+[00:02.6-00:05.5]
+40mm side-front waist-up shot with a slow push of about 20 cm. She lowers to one knee in thick snow on the robot’s screen-right side; the knee compresses snow and pushes powder outward. After she drops, the torso stops first, then the chest and clothing settle downward and rebound once lightly; when she inhales, the upper chest lifts and a strap trembles faintly. She keeps her eyes on the amber eye and says in a low gentle English voice: <d>[English] I'll be okay. You can rest.</d> “okay” carries a forced trace of a smile; “rest” lands softer. After speaking, she swallows once. Her left hand finds the circular reply button low on the front shell. Cut to the hand.
+
+[00:05.5-00:06.7]
+Short fixed detail close-up. Her left thumb slowly presses the circular button until the mechanical contact clicks. Her right hand still rests lightly on the top of the robot. The amber eye contracts inward and dims temporarily. Her thumb does not leave immediately. Background snow and blurred neon continue moving. A faint antenna servo startup sound carries into the next shot.
+
+[00:06.7-00:09.0]
+Slow same-side arc move of about 15 degrees, shifting from the ice-coated antenna tip toward her eyes. Depth of field glides from the antenna to her pupils. She actively brings her cheek close. One short antenna rotates only about 10 degrees from the root. Thin ice around it cracks realistically, and tiny pieces fall onto the back of her right hand. The antenna tip touches her cheek with a very light metal contact. The amber eye brightens briefly, and warm light reveals water just forming in her eyes. She first gives a genuine small smile, then the smile stops in place, her lashes tremble, and she refuses to blink. The second antenna and the shell keep their original shape.
+
+[00:09.0-00:11.6]
+Fixed same-side two-subject close shot. The antenna that touched her loses strength and drops back, lightly tapping the shell. The amber eye slowly fades out, and the warm light retreats from her face. She keeps the comforting smile for half a beat after the light is gone, then her lower lip trembles and one breath fails to come in fully. From the kneeling pose she leans forward and wraps both arms around the spherical shell as far as she can. Her mechanical palms and the rusted shell touch with a restrained muted metal sound. Her shoulder contacts the shell first, the body stops abruptly, and the upper torso and jacket give one light sway from the forward stop, then settle into irregular fine trembling from interrupted breathing. Hair slips across her face. The harness tightens with the shoulders. She presses her forehead against the place she had just cleaned. Cut tighter to her face.
+
+[00:11.6-00:15.0]
+Fixed facial close-up. The robot’s cold curved surface occupies one side of frame. The camera does not pull back and does not cut away. Her face is pressed to the shell. At first she closes her eyes and tries to hold it in; the throat jumps once. One tear slides across her cheek, and the first trembling breath escapes between her lips. In the final two seconds she hugs tighter, her shoulder trembling at the edge of frame, and finally lets out a suppressed cry she can no longer contain. End on her crying face, without black.
+
+Physical continuity must remain strict. Snow drifts diagonally toward lower right the whole time. Wet hair and jacket edges respond to the same light wind. Hanging wires sway gently. Background neon and machine haze keep subtle motion. Ice fragments fall under gravity, snow powder moves from touch and wind, and face, costume, hand roles, shell cracks, antenna length, and all spatial directions remain consistent.
+
+overall_soundscape:
+A constant bed of cold alley wind, fine snow movement, distant neon electrical buzz, and faint ambient machine hum. Very close tactile Foley leads the scene: hand brushing loose snow from metal, ice grains ticking and sliding down the shell, knee compressing thick snow with a dull push, breath held then released softly, the circular button giving a clean mechanical click, a tiny servo wake-up whir, thin ice cracking around the antenna hinge, the antenna tip touching skin with a delicate metal tap, the antenna falling back and striking the shell lightly, then muted mechanical-hand-to-shell contact as she embraces it. After that, breath becomes the main foreground sound: broken inhales, one swallowed sob, then restrained crying that finally escapes in the last seconds. Dialogue remains intimate and close: <d>[English] I'll be okay. You can rest.</d> No new character sounds, no offscreen interruption.
+
+non_diegetic_music:
+Use almost no score. Keep only a faint cold low bed under the wind for the opening, nearly imperceptible. At the moment the antenna turns and touches her cheek, add one restrained low warm string bloom, brief and intimate rather than dramatic. As the eye fades, withdraw the music to near silence so the dying servo, breath, and crying carry the emotional weight. No swell, no sentimental climax, no hard musical punctuation at the end.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/image-to-video-dont-worry-about-me-902577/video-f0c30e038eab.webm)
+
+**Source:** [@ou_zhen599](https://x.com/ou_zhen599/status/2106050598298902577) · 15s · 16:9 · music video
+
+---
+
+## 14. Created using Minimax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-using-minimax-h3-on-852344/video-137186aebdb7.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-using-minimax-h3-on-852344/poster-91ab54cf2270.jpg" alt="Created using Minimax H3 on video preview" width="700" />
@@ -45,7 +617,7 @@ Sound: the wheel's steady electric hum throughout, the low rumble of turning cla
 
 ---
 
-## 2. MiniMax H3 on
+## 15. MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-on-564094/video-c85fe826a8ec.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-on-564094/poster-de3eb6c44669.jpg" alt="MiniMax H3 on video preview" width="700" />
@@ -118,7 +690,7 @@ Camera: Reactive handheld documentary style, tight dialogue close-ups, sudden re
 
 ---
 
-## 3. This time: BLADE.
+## 16. This time: BLADE.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/this-time-blade-469270/video-4dd3e6286010.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/this-time-blade-469270/poster-ecb491253295.jpg" alt="This time: BLADE. video preview" width="700" />
@@ -139,7 +711,7 @@ Hyper-kinetic action-film title sequence opening on a mirror-polished titanium w
 
 ---
 
-## 4. She found a cell phone that had been secretly filming her, and the camera was right behind her.
+## 17. She found a cell phone that had been secretly filming her, and the camera was right behind her.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/she-found-a-cell-phone-that-had-been-secretly-filming-584121/video-c785f0871a16.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/she-found-a-cell-phone-that-had-been-secretly-filming-584121/poster-b585bc27a35d.jpg" alt="She found a cell phone that had been secretly filming her, and the camera was right behind her. video preview" width="700" />
@@ -166,7 +738,7 @@ non_diegetic_music: Keep score absent or nearly absent. If any non-diegetic laye
 
 ---
 
-## 5. 📷“Wake Up, Neon”
+## 18. 📷“Wake Up, Neon”
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/wake-up-neon-236692/video-664bc4a0fa7b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/wake-up-neon-236692/poster-7f0a819f42d0.jpg" alt="📷“Wake Up, Neon” video preview" width="700" />
@@ -193,7 +765,7 @@ non_diegetic_music: Keep score minimal or absent. If any non-diegetic layer is u
 
 ---
 
-## 6. Made with MiniMax H3
+## 19. Made with MiniMax H3
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-558505/video-ee8fca79ff2f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-558505/poster-20724b7a5253.jpg" alt="Made with MiniMax H3 video preview" width="700" />
@@ -242,7 +814,7 @@ Avoid: cuts, shaky camera, cartoon look, people close-up, logos, extra towers ap
 
 ---
 
-## 7. 📷“Sandstorm Recognition”
+## 20. 📷“Sandstorm Recognition”
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/sandstorm-recognition-530176/video-27f56c9514be.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/sandstorm-recognition-530176/poster-350a02d0b4cc.jpg" alt="📷“Sandstorm Recognition” video preview" width="700" />
@@ -269,7 +841,7 @@ non_diegetic_music: No dominant score. If any non-diegetic layer is used, keep i
 
 ---
 
-## 8. 📷“Rebirth Within the Wall”
+## 21. 📷“Rebirth Within the Wall”
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/rebirth-within-the-wall-416352/video-df347fa4d9d9.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/rebirth-within-the-wall-416352/poster-7c12c7b3e5d4.jpg" alt="📷“Rebirth Within the Wall” video preview" width="700" />
@@ -296,7 +868,7 @@ non_diegetic_music: Keep music extremely restrained. At most use a thin low-freq
 
 ---
 
-## 9. 📷“That One Second Deep Within the Ruins”
+## 22. 📷“That One Second Deep Within the Ruins”
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/that-one-second-deep-within-the-ruins-162956/video-b4268f949fd1.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/that-one-second-deep-within-the-ruins-162956/poster-401e38a9b9fd.jpg" alt="📷“That One Second Deep Within the Ruins” video preview" width="700" />
@@ -323,7 +895,7 @@ non_diegetic_music: Use either no score or only an extremely light, almost trans
 
 ---
 
-## 10. Lara returns to familiar grounds, and it’s not just her memories that are truly reawakened.
+## 23. Lara returns to familiar grounds, and it’s not just her memories that are truly reawakened.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/lara-returns-to-familiar-grounds-and-its-not-just-her-039850/video-084cf6864bde.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/lara-returns-to-familiar-grounds-and-its-not-just-her-039850/poster-1f0c35a7c418.jpg" alt="Lara returns to familiar grounds, and it’s not just her memories that are truly reawakened. video preview" width="700" />
@@ -350,7 +922,7 @@ non_diegetic_music: Keep music extremely restrained. At most use a thin low-freq
 
 ---
 
-## 11. 📷“Shadow of the Snow-Cracked Coffin”
+## 24. 📷“Shadow of the Snow-Cracked Coffin”
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/shadow-of-the-snow-cracked-coffin-357881/video-0a6f74b39b8f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/shadow-of-the-snow-cracked-coffin-357881/poster-1fdc1708ec77.jpg" alt="📷“Shadow of the Snow-Cracked Coffin” video preview" width="700" />
@@ -377,7 +949,7 @@ non_diegetic_music: Keep music minimal and subordinate to the physical environme
 
 ---
 
-## 12. Pure sci-fi blockbuster energy.
+## 25. Pure sci-fi blockbuster energy.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/pure-sci-fi-blockbuster-energy-254320/video-500ffa83764c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/pure-sci-fi-blockbuster-energy-254320/poster-da8171797cda.jpg" alt="Pure sci-fi blockbuster energy. video preview" width="700" />
@@ -398,7 +970,7 @@ High-end sci-fi Hollywood title sequence beginning deep inside a futuristic ener
 
 ---
 
-## 13. 📷“Ambush on the River”
+## 26. 📷“Ambush on the River”
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ambush-on-the-river-437322/video-46c9f6a420df.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ambush-on-the-river-437322/poster-85096850c1ee.jpg" alt="📷“Ambush on the River” video preview" width="700" />
@@ -425,7 +997,7 @@ non_diegetic_music: No non-diegetic music.
 
 ---
 
-## 14. FastH3 vs base Minimax H3 comparison, its 5x faster!
+## 27. FastH3 vs base Minimax H3 comparison, its 5x faster!
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/fasth3-vs-base-minimax-h3-comparison-its-5x-faster-424156/video-79b169e13224.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/fasth3-vs-base-minimax-h3-comparison-its-5x-faster-424156/poster-2edf488d0d16.jpg" alt="FastH3 vs base Minimax H3 comparison, its 5x faster! video preview" width="700" />
@@ -456,7 +1028,7 @@ No subtitles, caption text, watermark, logo, timestamp, or UI overlay text — t
 
 ---
 
-## 15. 📷“Self-Rescue on the Cliff”
+## 28. 📷“Self-Rescue on the Cliff”
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/self-rescue-on-the-cliff-291609/video-ec0944515d99.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/self-rescue-on-the-cliff-291609/poster-16838d79bd16.jpg" alt="📷“Self-Rescue on the Cliff” video preview" width="700" />
@@ -483,7 +1055,7 @@ non_diegetic_music: Keep music minimal and subordinate to the physical environme
 
 ---
 
-## 16. Let’s see how she does… 👀
+## 29. Let’s see how she does… 👀
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/lets-see-how-she-does-393312/video-8ea74cf0cbce.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/lets-see-how-she-does-393312/poster-b33825895594.jpg" alt="Let’s see how she does… 👀 video preview" width="700" />
@@ -590,7 +1162,7 @@ NO GENERATED MUSIC. NO DIALOGUE. NO LIP-SYNC. SUPPLIED SONG AUDIO ONLY.
 
 ---
 
-## 17. 📷“Not a Signpost, but a Trap”
+## 30. 📷“Not a Signpost, but a Trap”
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/not-a-signpost-but-a-trap-206010/video-9db6662601e6.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/not-a-signpost-but-a-trap-206010/poster-90b808f1c126.jpg" alt="📷“Not a Signpost, but a Trap” video preview" width="700" />
@@ -617,7 +1189,7 @@ non_diegetic_music: Keep music minimal and subordinate to the physical environme
 
 ---
 
-## 18. Hollywood-grade photoreal night Formula 1 race, anamorphic 2.35:1, 24fps, shot on
+## 31. Hollywood-grade photoreal night Formula 1 race, anamorphic 2.35:1, 24fps, shot on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/hollywood-grade-photoreal-night-formula-1-race-anamorphic-2-35-754722/video-776df01326fe.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/hollywood-grade-photoreal-night-formula-1-race-anamorphic-2-35-754722/poster-5a0ff198b25b.jpg" alt="Hollywood-grade photoreal night Formula 1 race, anamorphic 2.35:1, 24fps, shot on video preview" width="700" />
@@ -643,7 +1215,7 @@ Negative: no new camera angles, no added or repeated shots, no changed cut timin
 
 ---
 
-## 19. 📷“Treasure Hunt in the Sky”
+## 32. 📷“Treasure Hunt in the Sky”
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/treasure-hunt-in-the-sky-067707/video-9dec4c524438.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/treasure-hunt-in-the-sky-067707/poster-ca57ad0cb2a2.jpg" alt="📷“Treasure Hunt in the Sky” video preview" width="700" />
@@ -670,7 +1242,7 @@ non_diegetic_music: Keep music minimal and secondary to the environment. Use onl
 
 ---
 
-## 20. 📷“The Jungle Trap”
+## 33. 📷“The Jungle Trap”
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/the-jungle-trap-179756/video-713d3c868316.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/the-jungle-trap-179756/poster-7b9c2b1c7fdb.jpg" alt="📷“The Jungle Trap” video preview" width="700" />
@@ -697,7 +1269,7 @@ non_diegetic_music: No melodic score. If any music is used, keep it to a minimal
 
 ---
 
-## 21. 📷“Shadows in the Temple”
+## 34. 📷“Shadows in the Temple”
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/shadows-in-the-temple-783402/video-b3063602b33b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/shadows-in-the-temple-783402/poster-3b9bb80091e2.jpg" alt="📷“Shadows in the Temple” video preview" width="700" />
@@ -724,7 +1296,7 @@ non_diegetic_music: Use no score or only an extremely low, almost subliminal pre
 
 ---
 
-## 22. I won this round, but I didn't win anything back.
+## 35. I won this round, but I didn't win anything back.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/i-won-this-round-but-i-didn-t-win-anything-633866/video-2ef03ca89dca.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/i-won-this-round-but-i-didn-t-win-anything-633866/poster-15f61c0b0fdb.jpg" alt="I won this round, but I didn't win anything back. video preview" width="700" />
@@ -751,7 +1323,7 @@ non_diegetic_music: Use no score or a nearly inaudible low-frequency tension bed
 
 ---
 
-## 23. 📷“The Prey”
+## 36. 📷“The Prey”
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/the-prey-686418/video-45d65f381717.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/the-prey-686418/poster-66183642d7de.jpg" alt="📷“The Prey” video preview" width="700" />
@@ -778,7 +1350,7 @@ non_diegetic_music: Use no score or only an extremely faint low-frequency pressu
 
 ---
 
-## 24. This time: BREAK.
+## 37. This time: BREAK.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/this-time-break-930045/video-6359017738dc.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/this-time-break-930045/poster-0406641cffdf.jpg" alt="This time: BREAK. video preview" width="700" />
@@ -799,7 +1371,7 @@ Ultra-cinematic Hollywood action title sequence beginning on an enormous suspend
 
 ---
 
-## 25. 📷“Bait in the Fog”
+## 38. 📷“Bait in the Fog”
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/bait-in-the-fog-511057/video-e5b2b028b292.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/bait-in-the-fog-511057/poster-f04e400276ef.jpg" alt="📷“Bait in the Fog” video preview" width="700" />
@@ -826,7 +1398,7 @@ non_diegetic_music: Use almost no music. If any score is present, keep it as an 
 
 ---
 
-## 26. 📷“The Target in the Mirror”
+## 39. 📷“The Target in the Mirror”
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/the-target-in-the-mirror-610639/video-820ef7bfb586.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/the-target-in-the-mirror-610639/poster-f69c93946f0c.jpg" alt="📷“The Target in the Mirror” video preview" width="700" />
@@ -853,7 +1425,7 @@ non_diegetic_music: Use almost no score. If any music is present, keep it as an 
 
 ---
 
-## 27. 📷“That last shot wasn’t to save my life.”
+## 40. 📷“That last shot wasn’t to save my life.”
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/that-last-shot-wasnt-to-save-my-life-395563/video-0fc389de4360.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/that-last-shot-wasnt-to-save-my-life-395563/poster-397fdc293561.jpg" alt="📷“That last shot wasn’t to save my life.” video preview" width="700" />
@@ -880,7 +1452,7 @@ non_diegetic_music: Keep score minimal and tension-based, using only a low restr
 
 ---
 
-## 28. 📷“Final Coordinates”
+## 41. 📷“Final Coordinates”
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/final-coordinates-224132/video-ad7a0d134519.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/final-coordinates-224132/poster-988f437067e0.jpg" alt="📷“Final Coordinates” video preview" width="700" />
@@ -907,7 +1479,7 @@ non_diegetic_music: Use almost no score. If any music is present, keep it as a v
 
 ---
 
-## 29. 千と千尋の神隠しの有名なあのシーンを再現してみたかったので、MiniMax H3で試してみました。プロンプトは約10秒で設定してます。
+## 42. 千と千尋の神隠しの有名なあのシーンを再現してみたかったので、MiniMax H3で試してみました。プロンプトは約10秒で設定してます。
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h310-351550/video-4ee56914e0a5.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h310-351550/poster-5fb06c841abf.jpg" alt="千と千尋の神隠しの有名なあのシーンを再現してみたかったので、MiniMax H3で試してみました。プロンプトは約10秒で設定してます。 video preview" width="700" />
@@ -977,7 +1549,7 @@ The effect should look like real physical letters being peeled away from a digit
 
 ---
 
-## 30. ❄️*Souls of the Snow Fortress*
+## 43. ❄️*Souls of the Snow Fortress*
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/souls-of-the-snow-fortress-689512/video-d40309fe694d.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/souls-of-the-snow-fortress-689512/poster-5c1bdc743f79.jpg" alt="❄️*Souls of the Snow Fortress* video preview" width="700" />
@@ -1004,7 +1576,7 @@ non_diegetic_music: Use minimal dark war scoring, grounded and severe. Start wit
 
 ---
 
-## 31. Created with Minimax H3 Max
+## 44. Created with Minimax H3 Max
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-max-320190/video-6605e1f983e1.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-max-320190/poster-b6e02ca17983.jpg" alt="Created with Minimax H3 Max video preview" width="700" />
@@ -1043,7 +1615,7 @@ Negative prompt: no scene changes, no cuts, no jump cuts, no camera shake, no di
 
 ---
 
-## 32. 🔫☠️“The Sniper Incident”
+## 45. 🔫☠️“The Sniper Incident”
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/the-sniper-incident-096033/video-2a8777ecc063.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/the-sniper-incident-096033/poster-f3da18839783.jpg" alt="🔫☠️“The Sniper Incident” video preview" width="700" />
@@ -1070,7 +1642,7 @@ non_diegetic_music: Use no score or only an extremely minimal low-frequency pres
 
 ---
 
-## 33. 🔫💀“Patrol Incidents”
+## 46. 🔫💀“Patrol Incidents”
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/patrol-incidents-936869/video-25a015c57b02.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/patrol-incidents-936869/poster-e5ff64d30b32.jpg" alt="🔫💀“Patrol Incidents” video preview" width="700" />
@@ -1097,7 +1669,7 @@ non_diegetic_music: Use little or no score. If any score is present, keep it ext
 
 ---
 
-## 34. 🍡When I'm tired, I come back to my sister's place to grab a skewer.
+## 47. 🍡When I'm tired, I come back to my sister's place to grab a skewer.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/when-i-m-tired-i-come-back-to-my-sister-524455/video-e8053c9b559f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/when-i-m-tired-i-come-back-to-my-sister-524455/poster-4a7b630d13c0.jpg" alt="🍡When I'm tired, I come back to my sister's place to grab a skewer. video preview" width="700" />
@@ -1124,7 +1696,7 @@ non_diegetic_music: Use little or no score. If present, keep it minimal and low,
 
 ---
 
-## 35. Image-to-Video：🔫The shootout scene in the “Shooting Incident” H3 is actually pretty good.
+## 48. Image-to-Video：🔫The shootout scene in the “Shooting Incident” H3 is actually pretty good.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-to-videothe-shootout-scene-in-the-shooting-incident-h3-690595/video-9d0ef8f9c499.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-to-videothe-shootout-scene-in-the-shooting-incident-h3-690595/poster-9b40160f3812.jpg" alt="Image-to-Video：🔫The shootout scene in the “Shooting Incident” H3 is actually pretty good. video preview" width="700" />
@@ -1151,7 +1723,7 @@ non_diegetic_music: N/A
 
 ---
 
-## 36. Created with Minimax H3 in
+## 49. Created with Minimax H3 in
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-in-717935/video-9b2e1f4607c5.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-in-717935/poster-1bb76007c67d.jpg" alt="Created with Minimax H3 in video preview" width="700" />
@@ -1204,7 +1776,7 @@ FAILURE CONTROLS: No modern 3D game graphics, no smooth vector shapes, no random
 
 ---
 
-## 37. Image-to-Video🚀“Passing the time in the space capsule—yes, this is the life I love.”
+## 50. Image-to-Video🚀“Passing the time in the space capsule—yes, this is the life I love.”
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-to-videopassing-the-time-in-the-space-capsuleyes-this-806124/video-386e0cee839e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-to-videopassing-the-time-in-the-space-capsuleyes-this-806124/poster-4854de59a523.jpg" alt="Image-to-Video🚀“Passing the time in the space capsule—yes, this is the life I love.” video preview" width="700" />
@@ -1229,7 +1801,7 @@ non_diegetic_music: N/A. The music is diegetic, originating from her headphones 
 
 ---
 
-## 38. Minimax H3 on
+## 51. Minimax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-on-425131/video-e5f85b3cc0cf.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-on-425131/poster-4073e8d3d114.jpg" alt="Minimax H3 on video preview" width="700" />
@@ -1266,7 +1838,7 @@ Maintain the same face, hairstyle, clothing and environment throughout. No anima
 
 ---
 
-## 39. The Stone Garden
+## 52. The Stone Garden
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/the-stone-garden-268887/video-8a25ec9565fa.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/the-stone-garden-268887/poster-20e26c3b69fc.jpg" alt="The Stone Garden video preview" width="700" />
@@ -1313,7 +1885,7 @@ Sharp cuts, urgent natural-speed action, readable hands and reactions. Preserve 
 
 ---
 
-## 40. 😶The H3's high dynamic range always seems to be a cause for concern.
+## 53. 😶The H3's high dynamic range always seems to be a cause for concern.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/the-h3-s-high-dynamic-range-always-seems-to-be-805308/video-ec7d448778be.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/the-h3-s-high-dynamic-range-always-seems-to-be-805308/poster-5979aca1ea85.jpg" alt="😶The H3's high dynamic range always seems to be a cause for concern. video preview" width="700" />
@@ -1357,7 +1929,7 @@ N/A
 
 ---
 
-## 41. 🇹🇻🌌Image-to-Video：“Chat History in Space”
+## 54. 🇹🇻🌌Image-to-Video：“Chat History in Space”
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-to-videochat-history-in-space-972600/video-4e34958125f4.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-to-videochat-history-in-space-972600/poster-663f64419c57.jpg" alt="🇹🇻🌌Image-to-Video：“Chat History in Space” video preview" width="700" />
@@ -1384,7 +1956,7 @@ non_diegetic_music: N/A
 
 ---
 
-## 42. One spark. One word.
+## 55. One spark. One word.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/one-spark-one-word-304260/video-1ce39c316db8.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/one-spark-one-word-304260/poster-0f59613394dd.jpg" alt="One spark. One word. video preview" width="700" />
@@ -1405,7 +1977,7 @@ Extreme cinematic pyro title reveal beginning with a single glowing spark fallin
 
 ---
 
-## 43. The "drawn-to-life" workflow in Minimax H3 just keeps getting better. 💥🪄
+## 56. The "drawn-to-life" workflow in Minimax H3 just keeps getting better. 💥🪄
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/the-drawn-to-life-workflow-in-minimax-h3-just-keeps-443821/video-181c7e3f5b3f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/the-drawn-to-life-workflow-in-minimax-h3-just-keeps-443821/poster-98d70b71e564.jpg" alt="The &quot;drawn-to-life&quot; workflow in Minimax H3 just keeps getting better. 💥🪄 video preview" width="700" />
@@ -1448,7 +2020,7 @@ None.
 
 ---
 
-## 44. SHATTER.
+## 57. SHATTER.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/shatter-695817/video-3dd688759057.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/shatter-695817/poster-f97a8a5e14b5.jpg" alt="SHATTER. video preview" width="700" />
@@ -1469,7 +2041,7 @@ Premium action-film title sequence beginning with a gigantic transparent glass m
 
 ---
 
-## 45. 🙋“Friend”
+## 58. 🙋“Friend”
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/friend-720924/video-a0f449589850.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/friend-720924/poster-bd29c41559cc.jpg" alt="🙋“Friend” video preview" width="700" />
@@ -1526,7 +2098,7 @@ N/A
 
 ---
 
-## 46. When you let the AI write the ending to your favorite rom-com.
+## 59. When you let the AI write the ending to your favorite rom-com.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/when-you-let-the-ai-write-the-ending-to-your-805567/video-2f248e906544.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/when-you-let-the-ai-write-the-ending-to-your-805567/poster-ceb0e82cd51f.jpg" alt="When you let the AI write the ending to your favorite rom-com. video preview" width="700" />
@@ -1595,7 +2167,7 @@ Same two people, same clothes, same hair, same cliff and weather for the whole c
 
 ---
 
-## 47. Made with 365 days of unlimited MiniMax H3 unlimited generations, unlimited ideas.
+## 60. Made with 365 days of unlimited MiniMax H3 unlimited generations, unlimited ideas.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-365-days-of-unlimited-minimax-h3-unlimited-generations-141390/video-63a884af56c8.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-365-days-of-unlimited-minimax-h3-unlimited-generations-141390/poster-f78e42716fa8.jpg" alt="Made with 365 days of unlimited MiniMax H3 unlimited generations, unlimited ideas. video preview" width="700" />
@@ -1653,7 +2225,7 @@ One woman image_1i, one man. Same face/hair/body/season/grade. No extra close ch
 
 ---
 
-## 48. A cinematic creation film follows one maker reconstructing the main subject shown
+## 61. A cinematic creation film follows one maker reconstructing the main subject shown
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/a-cinematic-creation-film-follows-one-maker-reconstructing-the-main-311555/video-9615f0923d10.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/a-cinematic-creation-film-follows-one-maker-reconstructing-the-main-311555/poster-b10363323b51.jpg" alt="A cinematic creation film follows one maker reconstructing the main subject shown video preview" width="700" />
@@ -1674,7 +2246,7 @@ A cinematic creation film follows one maker reconstructing the main subject show
 
 ---
 
-## 49. Turn a still concept into a moving ink-style visual with flowing brush textures
+## 62. Turn a still concept into a moving ink-style visual with flowing brush textures
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/turn-a-still-concept-into-a-moving-ink-style-visual-691861/video-d3a92de79ddb.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/turn-a-still-concept-into-a-moving-ink-style-visual-691861/poster-bfa9005aa0bc.jpg" alt="Turn a still concept into a moving ink-style visual with flowing brush textures video preview" width="700" />
@@ -1700,7 +2272,7 @@ Create with Ima Studio 👉
 
 ---
 
-## 50. MV. One-scene long take. Low-angle shot. [Background / Floor] Create a gigantic
+## 63. MV. One-scene long take. Low-angle shot. [Background / Floor] Create a gigantic
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/mv-one-scene-long-take-low-angle-shot-background-floor-516749/video-e0e60b415b8c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/mv-one-scene-long-take-low-angle-shot-background-floor-516749/poster-667c052159d2.jpg" alt="MV. One-scene long take. Low-angle shot. [Background / Floor] Create a gigantic video preview" width="700" />
@@ -1736,7 +2308,7 @@ In the chilled autumn, no matter how you resist, it’s useless."
 
 ---
 
-## 51. LInk to 1st test
+## 64. LInk to 1st test
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/link-to-1st-test-870917/video-a69f86463d36.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/link-to-1st-test-870917/poster-1a3a98fd9504.jpg" alt="LInk to 1st test video preview" width="700" />
@@ -1952,7 +2524,7 @@ None.
 
 ---
 
-## 52. Made in with on
+## 65. Made in with on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/made-in-with-on-053234/video-c27e75822678.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/made-in-with-on-053234/poster-68f6dcd81898.jpg" alt="Made in with on video preview" width="700" />
@@ -1974,7 +2546,7 @@ Futuristic racing game HUD interface, premium cyber racing design, transparent g
 
 ---
 
-## 53. Minimax H3 Comfyui Green Lantern Test...
+## 66. Minimax H3 Comfyui Green Lantern Test...
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-comfyui-green-lantern-test-497677/video-9c9cc3f1ee4b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-comfyui-green-lantern-test-497677/poster-b2ed00571cfc.jpg" alt="Minimax H3 Comfyui Green Lantern Test... video preview" width="700" />
@@ -2114,7 +2686,7 @@ None.
 
 ---
 
-## 54. Start and End Images in Minimax H3 Comfyui...
+## 67. Start and End Images in Minimax H3 Comfyui...
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/start-and-end-images-in-minimax-h3-comfyui-785340/video-d016e64099a7.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/start-and-end-images-in-minimax-h3-comfyui-785340/poster-abed914d045b.jpg" alt="Start and End Images in Minimax H3 Comfyui... video preview" width="700" />
@@ -2415,7 +2987,7 @@ N/A
 
 ---
 
-## 55. Created with Minimax H3 on
+## 68. Created with Minimax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-716345/video-86dc3b31c280.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-716345/poster-1b90402600ff.jpg" alt="Created with Minimax H3 on video preview" width="700" />
@@ -2461,7 +3033,7 @@ FINAL LOOK: Premium, surreal, energetic, highly stylized 3D cel animation that f
 
 ---
 
-## 56. Created with Minimax H3 in
+## 69. Created with Minimax H3 in
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-in-453795/video-cf2ea34358cc.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-in-453795/poster-7f7e45997bf1.jpg" alt="Created with Minimax H3 in video preview" width="700" />
@@ -2496,7 +3068,7 @@ Animation made with Minimax H3
 
 ---
 
-## 57. Create a 15-second ultra-photorealistic live-action war sequence set in the
+## 70. Create a 15-second ultra-photorealistic live-action war sequence set in the
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/create-a-15-second-ultra-photorealistic-live-action-war-sequence-714552/video-5a1aa71322f9.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/create-a-15-second-ultra-photorealistic-live-action-war-sequence-714552/poster-c2fc59c43935.jpg" alt="Create a 15-second ultra-photorealistic live-action war sequence set in the video preview" width="700" />
@@ -2532,7 +3104,7 @@ Negative Prompt: modern buildings, modern cars, smartphones, modern clothing, mo
 
 ---
 
-## 58. Created with MiniMax H3.
+## 71. Created with MiniMax H3.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-522089/video-c091a3bdd9be.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-522089/poster-1264d9cf5d1a.jpg" alt="Created with MiniMax H3. video preview" width="700" />
@@ -2553,7 +3125,7 @@ A young Western female street photographer walks through a lively downtown stree
 
 ---
 
-## 59. Created using MiniMax H3 on .
+## 72. Created using MiniMax H3 on .
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-using-minimax-h3-on-933942/video-5f61370b7f96.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-using-minimax-h3-on-933942/poster-8cafaa3f4e11.jpg" alt="Created using MiniMax H3 on . video preview" width="700" />
@@ -2625,7 +3197,7 @@ changing outfit, changing hair color, distorted face, extra fingers, watermark
 
 ---
 
-## 60. "A hyper-realistic handheld phone video of a quiet suburban backyard on a bright
+## 73. "A hyper-realistic handheld phone video of a quiet suburban backyard on a bright
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/a-hyper-realistic-handheld-phone-video-of-a-quiet-suburban-495564/video-ed6186000378.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/a-hyper-realistic-handheld-phone-video-of-a-quiet-suburban-495564/poster-3f2373d244e6.jpg" alt="&quot;A hyper-realistic handheld phone video of a quiet suburban backyard on a bright video preview" width="700" />
@@ -2646,7 +3218,7 @@ changing outfit, changing hair color, distorted face, extra fingers, watermark
 
 ---
 
-## 61. Generated with Minimax H3 on
+## 74. Generated with Minimax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/generated-with-minimax-h3-on-116099/video-324e8e0741a4.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/generated-with-minimax-h3-on-116099/poster-44259f5d470e.jpg" alt="Generated with Minimax H3 on video preview" width="700" />
@@ -2681,7 +3253,7 @@ Style: hyper-realistic, cinematic, intense, fast-paced, suspenseful, fantasy atm
 
 ---
 
-## 62. 但实际证明Seedance2依然能打啊！
+## 75. 但实际证明Seedance2依然能打啊！
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/seedance2-854556/video-fd825440ee98.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/seedance2-854556/poster-04f43b4f5394.jpg" alt="但实际证明Seedance2依然能打啊！ video preview" width="700" />
@@ -2707,7 +3279,7 @@ Mira performing on stage to the track — not singing, moving like a rock star, 
 
 ---
 
-## 63. Minimax H3 keeps delivering beautiful VFX sequences.
+## 76. Minimax H3 keeps delivering beautiful VFX sequences.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-keeps-delivering-beautiful-vfx-sequences-725200/video-e88007d9788b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-keeps-delivering-beautiful-vfx-sequences-725200/poster-0c2e0703e6a5.jpg" alt="Minimax H3 keeps delivering beautiful VFX sequences. video preview" width="700" />
@@ -2728,7 +3300,7 @@ Epic cinematic aerial shot: Endless rolling clouds flow across towering mountain
 
 ---
 
-## 64. Enra Vael Forge-City Character Introduction
+## 77. Enra Vael Forge-City Character Introduction
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/enra-vael-forge-city-character-introduction-325876/video-860852f08613.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/enra-vael-forge-city-character-introduction-325876/poster-084b15d05dee.jpg" alt="Enra Vael Forge-City Character Introduction video preview" width="700" />
@@ -2784,7 +3356,7 @@ Directly reuse the 00:00.000-00:15.000 musical layer of < 📷Audio1 > unchanged
 
 ---
 
-## 65. An 1890s field guide plate, drawing itself
+## 78. An 1890s field guide plate, drawing itself
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/an-1890s-field-guide-plate-drawing-itself-963371/video-e96200ab35e1.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/an-1890s-field-guide-plate-drawing-itself-963371/poster-02d3a9dc60dd.jpg" alt="An 1890s field guide plate, drawing itself video preview" width="700" />
@@ -2830,7 +3402,7 @@ At 13 seconds, one Eurasian wren song — sudden, intricate and far louder than 
 
 ---
 
-## 66. Music Video Study 455917
+## 79. Music Video Study 455917
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/someone-got-up-at-four-so-you-didn-t-have-to-455917/video-d12f55f27d28.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/someone-got-up-at-four-so-you-didn-t-have-to-455917/poster-8e724bf262b3.jpg" alt="Music Video Study 455917 video preview" width="700" />
@@ -2939,7 +3511,7 @@ never moves position. Do not add a ninth shot. Do not animate the end card.
 
 ---
 
-## 67. Impressionante fazer isso com uma IA local.
+## 80. Impressionante fazer isso com uma IA local.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/impressionante-fazer-isso-com-uma-ia-local-035362/video-10625d317dea.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/impressionante-fazer-isso-com-uma-ia-local-035362/poster-22117ffd06a7.jpg" alt="Impressionante fazer isso com uma IA local. video preview" width="700" />
@@ -2988,7 +3560,7 @@ non_diegetic_music: None. Dry, absurd, self-aware comedic timing.
 
 ---
 
-## 68. Video: Seedance 2.5 and Minimax H3 on
+## 81. Video: Seedance 2.5 and Minimax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-seedance-2-5-and-minimax-h3-on-161893/video-584b838bee7b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-seedance-2-5-and-minimax-h3-on-161893/poster-9ea6c927bb53.jpg" alt="Video: Seedance 2.5 and Minimax H3 on video preview" width="700" />
@@ -3011,7 +3583,7 @@ non_diegetic_music: None. Dry, absurd, self-aware comedic timing.
 
 ---
 
-## 69. A handheld found-footage shot from behind a person playing an authentic Street
+## 82. A handheld found-footage shot from behind a person playing an authentic Street
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/a-handheld-found-footage-shot-from-behind-a-person-playing-800047/video-57ffb21847b1.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/a-handheld-found-footage-shot-from-behind-a-person-playing-800047/poster-0d02de46fdc9.jpg" alt="A handheld found-footage shot from behind a person playing an authentic Street video preview" width="700" />
@@ -3032,7 +3604,7 @@ A handheld found-footage shot from behind a person playing an authentic Street F
 
 ---
 
-## 70. Music Video Study 428386
+## 83. Music Video Study 428386
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/gorgeous-latina-beauty-dancing-through-the-magic-428386/video-794a4c21ec07.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/gorgeous-latina-beauty-dancing-through-the-magic-428386/poster-fbb9e347c658.jpg" alt="Music Video Study 428386 video preview" width="700" />
@@ -3088,7 +3660,7 @@ A handheld found-footage shot from behind a person playing an authentic Street F
 
 ---
 
-## 71. Which one looks better to you?
+## 84. Which one looks better to you?
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/which-one-looks-better-to-you-565341/video-89453214ac2b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/which-one-looks-better-to-you-565341/poster-865d7672ff1a.jpg" alt="Which one looks better to you? video preview" width="700" />
@@ -3127,7 +3699,7 @@ No third-person view, no visible hero face, no constant hands in frame, no rando
 
 ---
 
-## 72. Creating a sleek, professional ad for using itself. ⚡
+## 85. Creating a sleek, professional ad for using itself. ⚡
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/creating-a-sleek-professional-ad-for-using-itsel-709286/video-ff22890b1579.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/creating-a-sleek-professional-ad-for-using-itsel-709286/poster-bc6b9233e343.jpg" alt="Creating a sleek, professional ad for using itself. ⚡ video preview" width="700" />
@@ -3198,7 +3770,7 @@ Do not add subtitles, captions, credits, watermarks, panel numbers, section labe
 
 ---
 
-## 73. Created with MiniMax H3
+## 86. Created with MiniMax H3
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-708458/video-9d226381a64e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-708458/poster-35d1fceb944b.jpg" alt="Created with MiniMax H3 video preview" width="700" />
@@ -3252,7 +3824,7 @@ Dark stormy jungle atmosphere mixed with warm golden sunlight, volumetric light 
 
 ---
 
-## 74. MiniMax H3
+## 87. MiniMax H3
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-282512/video-f22944aa48a4.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-282512/poster-b3406822b7ee.jpg" alt="MiniMax H3 video preview" width="700" />
@@ -3273,7 +3845,7 @@ Cinematic comedy sequence, 15 seconds. [SCENE 1: 0-4s] Extreme close-up: A morbi
 
 ---
 
-## 75. Created with MiniMax H3
+## 88. Created with MiniMax H3
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-243802/video-96d91bd90aed.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-243802/poster-ad3728cd310d.jpg" alt="Created with MiniMax H3 video preview" width="700" />
@@ -3294,7 +3866,7 @@ A cinematic 15-second ultra-realistic Hollywood action sequence featuring a skil
 
 ---
 
-## 76. Minimax H3 on
+## 89. Minimax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-on-229978/video-1d57d72e7cfc.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-on-229978/poster-2d13a8cb7005.jpg" alt="Minimax H3 on video preview" width="700" />
@@ -3333,7 +3905,7 @@ Do not include text, captions, logos, watermarks, brand names, duplicated specta
 
 ---
 
-## 77. MiniMax H3 on v/s Seedance 2.5
+## 90. MiniMax H3 on v/s Seedance 2.5
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-on-v-s-seedance-2-5-783077/video-317fb0bc5e05.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-on-v-s-seedance-2-5-783077/poster-b50f469c9512.jpg" alt="MiniMax H3 on v/s Seedance 2.5 video preview" width="700" />
@@ -3372,7 +3944,7 @@ Ultra-cinematic dark fantasy, realistic sword choreography, terrifying creature 
 
 ---
 
-## 78. First try with Minimax H3 and is full cinematic 📽️ 🤩
+## 91. First try with Minimax H3 and is full cinematic 📽️ 🤩
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/first-try-with-minimax-h3-and-is-full-cinematic-276158/video-e77014093dbc.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/first-try-with-minimax-h3-and-is-full-cinematic-276158/poster-33f9f340f70f.jpg" alt="First try with Minimax H3 and is full cinematic 📽️ 🤩 video preview" width="700" />
@@ -3393,7 +3965,7 @@ Whip pan from a screaming crowd to a massive kraken-like creature rising from fl
 
 ---
 
-## 79. Krea 2 Turbo + Minimax H3 in Comfyui = ...
+## 92. Krea 2 Turbo + Minimax H3 in Comfyui = ...
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/krea-2-turbo-minimax-h3-in-comfyui-742459/video-f6039a6c447c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/krea-2-turbo-minimax-h3-in-comfyui-742459/poster-529b077379d4.jpg" alt="Krea 2 Turbo + Minimax H3 in Comfyui = ... video preview" width="700" />
@@ -3426,7 +3998,7 @@ Static camera throughout. No cuts. Smooth cinematic motion. Museum lighting rema
 
 ---
 
-## 80. 🤯 is seriously good at this kind of K-pop lyric
+## 93. 🤯 is seriously good at this kind of K-pop lyric
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/is-seriously-good-at-this-kind-of-k-pop-lyric-987242/video-5fda0a4e6bd1.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/is-seriously-good-at-this-kind-of-k-pop-lyric-987242/poster-fb7648983910.jpg" alt="🤯 is seriously good at this kind of K-pop lyric video preview" width="700" />
@@ -3490,7 +4062,7 @@ Keep the SAME Korean woman about 22 as the reference image: same facial identity
 
 ---
 
-## 81. "duration": "15s"
+## 94. "duration": "15s"
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/duration-15s-808615/video-6abbfdf8bb00.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/duration-15s-808615/poster-a38df7a83639.jpg" alt="&quot;duration&quot;: &quot;15s&quot; video preview" width="700" />
@@ -3551,7 +4123,7 @@ Keep the SAME Korean woman about 22 as the reference image: same facial identity
 
 ---
 
-## 82. Been testing the new Flux3 and Hailuo Minimax H3 models like crazy lately.
+## 95. Been testing the new Flux3 and Hailuo Minimax H3 models like crazy lately.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/been-testing-the-new-flux3-and-hailuo-minimax-h3-models-282651/video-94592e26e50f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/been-testing-the-new-flux3-and-hailuo-minimax-h3-models-282651/poster-2a1a79751bf4.jpg" alt="Been testing the new Flux3 and Hailuo Minimax H3 models like crazy lately. video preview" width="700" />
@@ -3611,7 +4183,7 @@ Exactly one woman, one head, one face and one helmet. Face hidden until helmet r
 
 ---
 
-## 83. What if Superman had to do his own laundry? 😂
+## 96. What if Superman had to do his own laundry? 😂
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/what-if-superman-had-to-do-his-own-laundry-986556/video-72f8ca650e9e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/what-if-superman-had-to-do-his-own-laundry-986556/poster-f6eb714b138a.jpg" alt="What if Superman had to do his own laundry? 😂 video preview" width="700" />
@@ -3637,7 +4209,7 @@ Exactly one woman, one head, one face and one helmet. Face hidden until helmet r
 
 ---
 
-## 84. What if Cleopatra ordered pizza? 😂
+## 97. What if Cleopatra ordered pizza? 😂
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/what-if-cleopatra-ordered-pizza-892346/video-c8b774803106.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/what-if-cleopatra-ordered-pizza-892346/poster-9b43dc43a54e.jpg" alt="What if Cleopatra ordered pizza? 😂 video preview" width="700" />
@@ -3662,7 +4234,7 @@ Exactly one woman, one head, one face and one helmet. Face hidden until helmet r
 
 ---
 
-## 85. Hailuo has been great at text motion graphics for a long time, but it really shines with H3.
+## 98. Hailuo has been great at text motion graphics for a long time, but it really shines with H3.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-has-been-great-at-text-motion-graphics-for-a-330229/video-1b55976da384.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-has-been-great-at-text-motion-graphics-for-a-330229/poster-338db6b7f5cc.jpg" alt="Hailuo has been great at text motion graphics for a long time, but it really shines with H3. video preview" width="700" />
@@ -3702,7 +4274,7 @@ Anamorphic-feel 35mm for wides, 50mm for the mid shots.
 
 ---
 
-## 86. 3 references. One model
+## 99. 3 references. One model
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/3-references-one-model-894024/video-c38d6cafc378.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/3-references-one-model-894024/poster-10bd2674f8d4.jpg" alt="3 references. One model video preview" width="700" />
@@ -3740,7 +4312,7 @@ Mouth and teeth must stay natural and undistorted at all times — no deformatio
 
 ---
 
-## 87. 動画プロンプトはリプ欄で
+## 100. 動画プロンプトはリプ欄で
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-098132-098132/video-ede22d0cb4bb.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-098132-098132/poster-134bd905899f.jpg" alt="動画プロンプトはリプ欄で video preview" width="700" />
@@ -3761,7 +4333,7 @@ Mouth and teeth must stay natural and undistorted at all times — no deformatio
 
 ---
 
-## 88. 7-second video. The Office (US) mockumentary style, inside the Dunder Mifflin
+## 101. 7-second video. The Office (US) mockumentary style, inside the Dunder Mifflin
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/7-second-video-the-office-us-mockumentary-style-inside-the-709123/video-9569d415640f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/7-second-video-the-office-us-mockumentary-style-inside-the-709123/poster-5b88ac86aefe.jpg" alt="7-second video. The Office (US) mockumentary style, inside the Dunder Mifflin video preview" width="700" />
@@ -3794,7 +4366,7 @@ Natural English dialogue, precise lip synchronization, realistic overlapping off
 
 ---
 
-## 89. t2vで2Kで生成。
+## 102. t2vで2Kで生成。
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/t2v2k-197897/video-5c6884d5b0d4.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/t2v2k-197897/poster-44d24ab575b8.jpg" alt="t2vで2Kで生成。 video preview" width="700" />
@@ -3821,7 +4393,7 @@ non_diegetic_music: A single low synth drone that begins under the wreckage and 
 
 ---
 
-## 90. Hailuo MiniMax H3 vs. Seedance 2.0
+## 103. Hailuo MiniMax H3 vs. Seedance 2.0
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-minimax-h3-vs-seedance-2-0-186452/video-4049eb1f4eaf.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-minimax-h3-vs-seedance-2-0-186452/poster-2173025914f5.jpg" alt="Hailuo MiniMax H3 vs. Seedance 2.0 video preview" width="700" />
@@ -3880,7 +4452,7 @@ Exactly one dragon and one rider. The rider is seated on the dragon from the beg
 
 ---
 
-## 91. Made it on
+## 104. Made it on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/made-it-on-225758/video-67e141c9ffd3.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/made-it-on-225758/poster-905c4eb5b416.jpg" alt="Made it on video preview" width="700" />
@@ -3947,7 +4519,7 @@ Exactly one bat-dragon. No additional flying creatures. No rider. Exactly one he
 
 ---
 
-## 92. Hip-Hop Character Lip-Sync Performance
+## 105. Hip-Hop Character Lip-Sync Performance
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/hip-hop-music-video-make-the-character-from-video1-107776/video-82752a8f7c3d.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/hip-hop-music-video-make-the-character-from-video1-107776/poster-f2c554bb73d5.jpg" alt="Hip-Hop Character Lip-Sync Performance video preview" width="700" />
@@ -3968,7 +4540,7 @@ hip hop music video, make the character from @Video1 dance to the beat from musi
 
 ---
 
-## 93. Grimy hip-hop music video mood
+## 106. Grimy hip-hop music video mood
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/grimy-hip-hop-music-video-mood-030578/video-f9d069d327ed.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/grimy-hip-hop-music-video-mood-030578/poster-c2d9399f8fca.jpg" alt="Grimy hip-hop music video mood video preview" width="700" />
@@ -3989,7 +4561,7 @@ hip hop music video, make the character from @Video1 dance to the beat from musi
 
 ---
 
-## 94. Beat-Synced K-Pop Multimodal MV
+## 107. Beat-Synced K-Pop Multimodal MV
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/beat-synced-k-pop-multimodal-mv-043716/video-54c0a54b87f1.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/beat-synced-k-pop-multimodal-mv-043716/poster-62b79925bee5.jpg" alt="Beat-Synced K-Pop Multimodal MV video preview" width="700" />
@@ -4010,7 +4582,7 @@ Make an MV from Audio1 . Show these Kpop members from Image1 singing and dancing
 
 ---
 
-## 95. Dark-pop trio music-video performance with on-screen titles
+## 108. Dark-pop trio music-video performance with on-screen titles
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/dark-pop-trio-music-video-performance-with-on-screen-titles-931081/video-91c6d0df85d1.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/dark-pop-trio-music-video-performance-with-on-screen-titles-931081/poster-fd5df6b4f2eb.jpg" alt="Dark-pop trio music-video performance with on-screen titles video preview" width="700" />
@@ -4031,7 +4603,7 @@ Make an MV from Audio1 . Show these Kpop members from Image1 singing and dancing
 
 ---
 
-## 96. 3x3 contact sheet female rapper grid performance
+## 109. 3x3 contact sheet female rapper grid performance
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/3x3-contact-sheet-female-rapper-grid-performance-672833/video-ba3d4a001ac4.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/3x3-contact-sheet-female-rapper-grid-performance-672833/poster-3089de066a00.jpg" alt="3x3 contact sheet female rapper grid performance video preview" width="700" />
@@ -4052,7 +4624,7 @@ Use @Image 1 as the exact opening frame. It is a 3x3 contact sheet of nine separ
 
 ---
 
-## 97. Nightclub Breakdance Camera Orbit
+## 110. Nightclub Breakdance Camera Orbit
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/nightclub-breakdance-orbit-717186/video-20acd83c2a11.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/nightclub-breakdance-orbit-717186/poster-b6d8304760f5.jpg" alt="Nightclub Breakdance Camera Orbit video preview" width="700" />
@@ -4096,7 +4668,7 @@ or children.
 
 ---
 
-## 98. Dark-pop cyber-grunge rap music video style
+## 111. Dark-pop cyber-grunge rap music video style
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/dark-pop-cyber-grunge-rap-music-video-style-998615/video-f0f0f0f7241c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/dark-pop-cyber-grunge-rap-music-video-style-998615/poster-1ca7bae3079a.jpg" alt="Dark-pop cyber-grunge rap music video style video preview" width="700" />
@@ -4117,7 +4689,7 @@ Style: dark-pop / cyber-grunge / rap music video with photoreal high-fashion pol
 
 ---
 
-## 99. Dreamlike Summer Greenhouse Anime
+## 112. Dreamlike Summer Greenhouse Anime
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-video-prompt-056852/video-e02bf02c9bc9.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-video-prompt-056852/poster-6480d57e838e.jpg" alt="Dreamlike Summer Greenhouse Anime video preview" width="700" />
@@ -4202,7 +4774,7 @@ Style: dark-pop / cyber-grunge / rap music video with photoreal high-fashion pol
 
 ---
 
-## 100. Fantasy Academy Bread-Sharing Scene
+## 113. Fantasy Academy Bread-Sharing Scene
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-video-prompt-773075/video-85ff5049786e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-video-prompt-773075/poster-702c97b9b772.jpg" alt="Fantasy Academy Bread-Sharing Scene video preview" width="700" />
@@ -4289,7 +4861,7 @@ Style: dark-pop / cyber-grunge / rap music video with photoreal high-fashion pol
 
 ---
 
-## 101. Would you like to dance
+## 114. Would you like to dance
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/would-you-like-to-dance-986858/video-4b3c56a77b13.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/would-you-like-to-dance-986858/poster-eb5878919f69.jpg" alt="Would you like to dance video preview" width="700" />
@@ -4310,7 +4882,7 @@ Would you like to dance?
 
 ---
 
-## 102. Emotional performance lip-sync to reference audio
+## 115. Emotional performance lip-sync to reference audio
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/emotional-performance-lip-sync-to-reference-audio-609528/video-2277fda214a8.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/emotional-performance-lip-sync-to-reference-audio-609528/poster-09f46092e544.jpg" alt="Emotional performance lip-sync to reference audio video preview" width="700" />

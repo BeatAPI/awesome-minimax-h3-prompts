@@ -23,7 +23,445 @@ Camera: First-person perspective at eye level with authentic handheld player mov
 
 ---
 
-## 2. I gave both the exact same brief down to the broken left tusk and the narration pacing.
+## 2. Banquet hall aftermath and the game master
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/case-101788/video-80d87721f4be.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/case-101788/poster-fa7dffd2efbd.jpg" alt="Banquet hall aftermath and the game master video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — 添付された人物リファレンスの顔立ち、髪色、髪型、体格、衣装を正確に維持する。 劇場公開用超大作実写映画、Netflix最上位オリジナル映画級、制作費50億円規模。 GAME 05専用の巨大高級宴会場。 乱闘によって椅子が倒れ、テーブルがずれ、料理、皿、ナプキンが床へ散乱している。 15秒のシネマティックシークエンス。 前シーンの直後。...</summary>
+
+~~~~text
+添付された人物リファレンスの顔立ち、髪色、髪型、体格、衣装を正確に維持する。
+
+劇場公開用超大作実写映画、Netflix最上位オリジナル映画級、制作費50億円規模。
+
+GAME 05専用の巨大高級宴会場。
+
+乱闘によって椅子が倒れ、テーブルがずれ、料理、皿、ナプキンが床へ散乱している。
+
+15秒のシネマティックシークエンス。
+
+前シーンの直後。
+
+焦茶色センター分け、ブラウン系カーディガン、ストライプシャツ、ワイドスラックス姿のKAIがSPの動きを回避し、巨大モニターを強く見上げる。
+
+呼吸が少し乱れている。
+
+KAI：
+
+「こんなのゲームじゃないだろ！」
+
+VOICE — KAI：
+
+20代前半男性。
+
+柔らかく透明感のある中低音。
+
+緊迫時には声に強い芯が出る。
+
+明瞭な日本語。
+
+全編で同じ声質とピッチを維持。
+
+巨大モニターへ切り替わる。
+
+金髪ロングウェーブ、黒スーツ、黒インナー、シルバークロスアクセサリー姿の女性ゲームマスター。
+
+ゲームマスター：
+
+「戦闘は必要ありません。」
+
+VOICE — ゲームマスター：
+
+20代後半〜30代前半女性。
+
+低めのアルト。
+
+冷たく滑らかで落ち着いた声。
+
+ゆっくり明瞭。
+
+感情の起伏が非常に小さい。
+
+全編で同じ声質、ピッチ、話速を維持。
+
+その言葉と同時に、宴会場の動きが一斉に止まる。
+
+32mm相当のワイドショット。
+
+黒髪ロングヘア、白黒ストライプ衣装のヤクザ系女性参加者とSPが近距離で停止。
+
+MAELは低い姿勢で呼吸を整えている。
+
+LUCAS、NERO、RION、角がありピンク系衣装姿の愉快犯も動きを止める。
+
+空中を舞っていた白いナプキンだけがゆっくり床へ落ちる。
+
+約1秒の静寂。
+
+ゲームマスター：
+
+「SPの前を通る。それだけです。」
+
+全員の視線がSPと、その横にある広い通過スペースへ向く。
+
+KAIへ切り替わる。
+
+KAIは荒れ果てた宴会場を見る。
+
+倒れた椅子。
+
+割れた皿。
+
+散乱した料理。
+
+SPを見る。
+
+もう一度荒れた会場を見る。
+
+KAI：
+
+「……じゃあ俺たち、何で戦ってんの？」
+
+声は怒鳴らず、完全な脱力と素の疑問。
+
+最後はKAIが無言で立っている表情を約1秒残す。
+
+CAMERA:
+
+冒頭KAIは50mm cinema prime相当のmedium close-up。
+
+ゲームマスターは85mm相当のportrait close-up。
+
+乱闘停止は32mm相当のwide ensemble shot。
+
+最後は75mm相当でKAIのtight medium close-up。
+
+アクション後からカメラの動きを急激に静かにする。
+
+24fpsの自然な映画モーション。
+
+LIGHTING:
+
+暖かなシャンデリア光。
+
+冷たい白色トップライト。
+
+弱い赤色警告灯が徐々に消えていく。
+
+KAIの焦茶色ヘアには暖かなブラウンの階調。
+
+ゲームマスターは冷たいニュートラル光。
+
+AUDIO:
+
+BGMなし。
+
+冒頭はKAIの荒い呼吸、靴音、椅子やグラスが動く音、衣服の擦れ。
+
+ゲームマスター：
+
+「戦闘は必要ありません。」
+
+その瞬間に激しい音が一斉に止まる。
+
+その後は低い空調音。
+
+揺れているシャンデリアの微かな金属音。
+
+ナプキンが床へ落ちる小さな音。
+
+ゲームマスター：
+
+「SPの前を通る。それだけです。」
+
+KAIの最後の台詞には宴会場の自然な残響。
+
+「……じゃあ俺たち、何で戦ってんの？」
+
+台詞後、約1秒の静寂と空調音だけを残して終了。
+
+16:9 cinematic widescreen。
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/case-101788/video-80d87721f4be.webm)
+
+**Source:** [@varts_works](https://x.com/varts_works/status/2107369186121101788) · 15s · 16:9 · gameplay
+
+---
+
+## 3. Six-character banquet hall battle
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-design-578150/video-731ed8d76fbe.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-design-578150/poster-79f0ea577704.jpg" alt="Six-character banquet hall battle video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — 添付された6名の人物リファレンスの顔立ち、髪色、髪型、体格、衣装を正確に維持する。 劇場公開用超大作実写アクション映画、Netflix最上位オリジナル映画級、制作費50億円規模。 GAME 05専用の巨大高級宴会場。 巨大なクリスタルシャンデリア。 長い高級テーブル。 白いテーブルクロス。 大量の料理、皿、グラス、椅子。...</summary>
+
+~~~~text
+添付された6名の人物リファレンスの顔立ち、髪色、髪型、体格、衣装を正確に維持する。
+
+劇場公開用超大作実写アクション映画、Netflix最上位オリジナル映画級、制作費50億円規模。
+
+GAME 05専用の巨大高級宴会場。
+
+巨大なクリスタルシャンデリア。
+
+長い高級テーブル。
+
+白いテーブルクロス。
+
+大量の料理、皿、グラス、椅子。
+
+15秒の高速かつ読みやすい乱闘シークエンス。
+
+【0.0〜2.5秒】
+
+前シーン直後。
+
+黒髪ロングヘア、白黒ストライプ衣装のヤクザ系女性参加者が、
+
+短い茶系ヘア、真っ黒なスーツ、黒シャツ、黒ネクタイ、黒サングラス姿のSPが伸ばした腕を素早く外側へ払い除ける。
+
+SPが一歩踏み込む。
+
+ヤクザ系女性参加者は低く重心を落とし、SPの腕を受け流しながら身体を横へ移動する。
+
+二人の身体が近くの椅子へ当たり、椅子が大きく倒れる。
+
+テーブルクロスが揺れる。
+
+【2.5〜5.0秒】
+
+乱闘を見た、
+
+黒髪に紫系アクセント、光沢ブラックシャツ、黒系ワイドパンツ姿のLUCASと、
+
+シルバー系ヘア、ダメージニット、ブラック系ロックスタイル姿のRIONが、
+
+なぜか二人とも同時にSP方向へ乗り込んでいく。
+
+LUCASは低い姿勢から素早く距離を詰める。
+
+SPの片腕を外側へ押さえようと手を伸ばす。
+
+RIONは反対側から一気に接近。
+
+SPのもう片側へ回り込み、制止しようとする。
+
+二人とも完全に真剣。
+
+LUCAS：
+
+「押さえろ！」
+
+VOICE — LUCAS:
+
+20代前半男性。
+
+滑らかで少し冷たい中低音。
+
+明瞭で抑制された声。
+
+緊迫しているため短く強く発声する。
+
+RIONは無言で動く。
+
+【5.0〜7.5秒】
+
+カメラが急速に上昇。
+
+巨大宴会場を真上から90度見下ろす完全な俯瞰ショットへ移行。
+
+24mm cinema prime相当のTOP SHOT。
+
+中央に真っ黒なスーツ姿のSP。
+
+その周囲へ、
+
+黒髪ロングヘア、白黒ストライプ衣装のヤクザ系女性参加者、
+
+黒髪に紫系アクセント、光沢ブラックシャツ姿のLUCAS、
+
+シルバー系ヘア、ダメージニット姿のRIONが異なる方向から入り込み、
+
+さらにピンク系ヘア、ダメージTシャツとボーダーレイヤー、ワイドデニム姿のMAELが外側から駆け込んでくる。
+
+4方向から人物が集まり、宴会場中央の乱闘が急激に拡大している。
+
+人物を円形に整列させず、実際の乱戦らしい不規則な位置関係。
+
+SPが身体の向きを高速で変えながら複数人を制止。
+
+ストライプ女性の黒いロングヘアが大きく動く。
+
+LUCASの黒髪の紫系アクセント、RIONのシルバー系ヘア、MAELのピンク系ヘアが真上からでも明確に識別できる。
+
+周囲では椅子が倒れ、白いナプキン、料理、皿が散乱し始める。
+
+巨大なシャンデリアの光が磨かれた床へ複雑に反射。
+
+【7.5〜10.5秒】
+
+俯瞰ショットからカメラが高速で降下。
+
+MAELへ接続。
+
+MAEL：
+
+「おい、やめろ！」
+
+VOICE — MAEL:
+
+20歳前後男性。
+
+若さのあるミドルレンジ。
+
+わずかにハスキー。
+
+緊迫時には自然に声量が上がる。
+
+MAELがSPと他の参加者の間へ強引に割って入る。
+
+SPがMAELの接近へ即座に反応。
+
+身体を切り返し、MAELの前進する勢いを横方向へ逸らす。
+
+MAELの両足が一瞬床から浮く。
+
+身体が大きく横へ弾かれる。
+
+ピンク系ヘア、ダメージTシャツ、ボーダーレイヤー、ワイドデニムが慣性で大きく揺れる。
+
+【10.5〜13.0秒】
+
+カメラが弾かれたMAELを高速で横方向へ追う。
+
+MAELが画面外へ流れる。
+
+そのパンの先に、
+
+焦茶色センター分け、ブラウン系カーディガン、ストライプシャツ、ワイドスラックス姿のKAI。
+
+KAIが目の前で拡大した乱闘を鋭く見ている。
+
+SPがKAI方向へ制止する腕を伸ばす。
+
+KAIは上半身を低く沈め、斜め横へ紙一重で回避。
+
+SPの腕がKAIの頭上すれすれを通過する。
+
+【13.0〜15.0秒】
+
+KAIが姿勢を立て直す。
+
+荒い呼吸。
+
+一瞬だけ乱闘を見る。
+
+そのまま壁面の巨大モニター方向へ鋭く顔を上げる。
+
+KAIの表情には、
+
+「なんでこんなことになってる？」
+
+という怒りと理解不能。
+
+次の
+
+「こんなのゲームじゃないだろ！」
+
+へ直接繋がる状態で終了。
+
+CAMERA:
+
+開始35mm cinema prime相当のmedium action shot。
+
+LUCASとRION参戦時は32mm相当で横方向へ移動。
+
+5秒付近からカメラが急速に垂直上昇し、24mm相当の完全な90-degree overhead top shot。
+
+俯瞰状態を約2.5秒維持。
+
+その後カメラが高速で下降し、28mm相当のMAELアクションへ接続。
+
+MAELが弾かれた動きをcontrolled whip panで追い、そのまま50mm相当のKAIへ接続。
+
+KAI回避ではSPの腕を大きな前景、KAIの瞳をシャープに捉える。
+
+24fps。
+
+高速で重い劇場版アクション。
+
+各人物の動作が判別できるテンポ。
+
+LIGHTING:
+
+暖かなシャンデリア光。
+
+冷たい白色トップライト。
+
+乱闘の拡大とともに宴会場奥で弱い赤色警告灯が点灯。
+
+俯瞰ショットではシャンデリアと天井照明によって人物の位置を明確に分離。
+
+磨かれた床へ人物、照明、散乱した皿を反射させる。
+
+AUDIO:
+
+BGMなし。
+
+靴が硬い床を蹴る音。
+
+荒い呼吸。
+
+スーツ、ニット、シャツの擦れる音。
+
+腕同士の乾いた接触音。
+
+椅子が倒れる音。
+
+皿とグラスがぶつかる音。
+
+テーブルクロスが引かれる布音。
+
+LUCAS：
+
+「押さえろ！」
+
+俯瞰へ上昇するにつれて、乱闘の音が巨大宴会場全体へ広がったような長い残響へ変化。
+
+カメラ下降と同時に再び近距離のフォーリーを強くする。
+
+MAEL：
+
+「おい、やめろ！」
+
+MAELが弾かれる低い身体接触音。
+
+靴が床を滑る音。
+
+KAIが回避した瞬間の強い踏み込み音。
+
+最後はKAIの荒い呼吸と、背景で続く乱闘音を残す。
+
+16:9 cinematic widescreen。
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-design-578150/video-731ed8d76fbe.webm)
+
+**Source:** [@varts_works](https://x.com/varts_works/status/2107143985265578150) · 15s · 16:9 · gameplay
+
+---
+
+## 4. I gave both the exact same brief down to the broken left tusk and the narration pacing.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/i-gave-both-the-exact-same-brief-down-to-the-315908/video-c1c6f549e118.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/i-gave-both-the-exact-same-brief-down-to-the-315908/poster-6959553b2ab8.jpg" alt="I gave both the exact same brief down to the broken left tusk and the narration pacing. video preview" width="700" />
@@ -69,7 +507,7 @@ NEGATIVE: no music or score, no on-screen text, no subtitles, no logos, no femal
 
 ---
 
-## 3. Realistic emotions. Natural movement. A complete story arc in just 15 seconds.
+## 5. Realistic emotions. Natural movement. A complete story arc in just 15 seconds.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/realistic-emotions-natural-movement-a-complete-story-arc-in-just-210536/video-5ad858a564ef.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/realistic-emotions-natural-movement-a-complete-story-arc-in-just-210536/poster-f82e735ef635.jpg" alt="Realistic emotions. Natural movement. A complete story arc in just 15 seconds. video preview" width="700" />
@@ -118,7 +556,7 @@ Exact character identity, outfit and room layout locked throughout. Ring box sta
 
 ---
 
-## 4. Made with MiniMax H3 on
+## 6. Made with MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-on-547609/video-23ef8e9c02cb.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-on-547609/poster-da4927e604fc.jpg" alt="Made with MiniMax H3 on video preview" width="700" />
@@ -215,7 +653,7 @@ NEGATIVE: face changes, identity drift, duplicated characters, exaggerated cryin
 
 ---
 
-## 5. The results were interesting to compare. Which one is your pick?
+## 7. The results were interesting to compare. Which one is your pick?
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/the-results-were-interesting-to-compare-which-one-is-your-101412/video-bf7fd537deec.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/the-results-were-interesting-to-compare-which-one-is-your-101412/poster-b9f551342c4d.jpg" alt="The results were interesting to compare. Which one is your pick? video preview" width="700" />
@@ -248,7 +686,7 @@ Negative Prompt: No subtitles, captions, logos, watermarks, duplicate people, di
 
 ---
 
-## 6. 以上是关于近期网友较多留言的回复，有问题可以在这里提问，我将尽量予以回答，我也会在合适的时间在经过认真论证后开源我的系统和工作流。
+## 8. 以上是关于近期网友较多留言的回复，有问题可以在这里提问，我将尽量予以回答，我也会在合适的时间在经过认真论证后开源我的系统和工作流。
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-929579-929579/video-1bbe0f98e178.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-929579-929579/poster-57b0a0b9f12c.jpg" alt="以上是关于近期网友较多留言的回复，有问题可以在这里提问，我将尽量予以回答，我也会在合适的时间在经过认真论证后开源我的系统和工作流。 video preview" width="700" />
@@ -367,7 +805,7 @@ Negative Prompt: No subtitles, captions, logos, watermarks, duplicate people, di
 
 ---
 
-## 7. MiniMax H3 feels like a really good fit for interactive game concepts.
+## 9. MiniMax H3 feels like a really good fit for interactive game concepts.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-feels-like-a-really-good-fit-for-interactive-417323/video-47c399792570.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-feels-like-a-really-good-fit-for-interactive-417323/poster-cfb4a8498788.jpg" alt="MiniMax H3 feels like a really good fit for interactive game concepts. video preview" width="700" />
@@ -396,7 +834,7 @@ Sound Design: Use pure instrumental music mixed with electronic arcade sounds, n
 
 ---
 
-## 8. is a huge model for some themes
+## 10. is a huge model for some themes
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/is-a-huge-model-for-some-themes-157293/video-3a23900fd3b4.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/is-a-huge-model-for-some-themes-157293/poster-c2ebc5d6241f.jpg" alt="is a huge model for some themes video preview" width="700" />
@@ -424,7 +862,7 @@ Camera movement: Natural player-controlled movement with subtle handheld sway wh
 
 ---
 
-## 9. Y2K K-Pop Candy Typography Music Video
+## 11. Y2K K-Pop Candy Typography Music Video
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/soft-cute-y2k-crush-k-pop-girl-group-rap-mv-748313/video-7588687fb895.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/soft-cute-y2k-crush-k-pop-girl-group-rap-mv-748313/poster-ca11d6e8f8b2.jpg" alt="Y2K K-Pop Candy Typography Music Video video preview" width="700" />
@@ -463,7 +901,7 @@ Shot 7 — Group Rap Performance「UNBREAKABLE」 Three members together.
 
 ---
 
-## 10. Explorer and Cat in a Floating Eco-City
+## 12. Explorer and Cat in a Floating Eco-City
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-cinematic-aaa-adventure-game-trailer-one-continuo-722460/video-8df5c20c5939.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-cinematic-aaa-adventure-game-trailer-one-continuo-722460/poster-478284a3421e.jpg" alt="Explorer and Cat in a Floating Eco-City video preview" width="700" />
@@ -484,7 +922,7 @@ Ultra cinematic AAA adventure game trailer, one continuous seamless camera shot,
 
 ---
 
-## 11. Fantasy Deck-Builder Battle UI
+## 13. Fantasy Deck-Builder Battle UI
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/deck-builder-turn-ui-choreography-446745/video-3d55b47abdf6.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/deck-builder-turn-ui-choreography-446745/poster-8cb4c8f5ec6c.jpg" alt="Fantasy Deck-Builder Battle UI video preview" width="700" />
@@ -512,7 +950,7 @@ Negative: no UI drift or warping, no invented card names, no misspellings, no go
 
 ---
 
-## 12. Colorful Paint-Weapon Selection Screen
+## 14. Colorful Paint-Weapon Selection Screen
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-1-for-the-character-image-2-for-the-619967/video-7ac98e27a185.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-1-for-the-character-image-2-for-the-619967/poster-e51bf318751f.jpg" alt="Colorful Paint-Weapon Selection Screen video preview" width="700" />

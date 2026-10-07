@@ -59,7 +59,129 @@ image1の細く淡い青灰色と暖灰色の線、透明感のある二層以�
 
 ---
 
-## 2. Use the reference image as the exact first frame. 16:9, locked-off camera, one
+## 2. Passing train light on a rainy platform
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-ref2v-992627/video-02680647ff5f.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-ref2v-992627/poster-9211d452c09a.jpg" alt="Passing train light on a rainy platform video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — A single continuous live-action long take on a Japanese elevated train platform at night in the rain. One woman waiting alone, camera locked in place at her right side, filming...</summary>
+
+~~~~text
+A single continuous live-action long take on a Japanese elevated train platform at night in the rain. One woman waiting alone, camera locked in place at her right side, filming her right profile down the length of the platform. It runs from her small waiting fidgets, through a commuter train arriving and passing in front of her, to the train nearly stopping and a soft side-profile smile. One take, camera fixed with only slight handheld breathing, no cuts, no zoom, no push-in. Normal real-world speed throughout, no slow motion.
+
+Shot 1 — 0.0s: Realistic cinematic, real-camera rainy-night platform, one continuous long take, medium shot from mid-thigh up, camera fixed at her right at chest height looking down the platform's depth. Right side of frame is the wet-bright yellow tactile paving, the platform edge, and two steel rails converging into the distance, with the arched glass windscreen beyond; left side is the platform interior and orange glowing shopfront boxes; cool fluorescent tubes recede overhead; red-blue-green neon bokeh at the far end; tiles wet-black and reflective. Riria stands center-slightly-left inside the yellow paving, facing the tracks, her right profile to the lens, shopfront orange rimming her back and bun. The right-side rail is empty, no train yet. She is already mid-action: tilting the umbrella back a little, looking up past its rim at the night sky beyond the canopy, reaching her right hand forward toward the track side past the umbrella rim, palm up, holding a beat to test whether it's still raining, a few drops landing in her palm.
+
+Shot 1 continues — 1.5s: She pulls her hand back, rights the umbrella back over her head, lets out a soft breath, and shifts her weight from one foot to the other.
+
+Shot 1 continues — 2.0s: Two small, soft cool-white headlights light up at the far end of the right-side rail. She leans her upper body slightly forward (feet not crossing the yellow paving), peering toward the far end of the tracks, body still squared to the rails. The headlights grow larger and brighter extremely gradually along the right rail, the steel, the standing water, and the platform edge lighting up bit by bit.
+
+Shot 1 continues — 3.5s: She straightens up, steps back half a step, grips the umbrella handle again with her left hand, her gaze following the approaching train. The light keeps rising slowly and evenly — first catching the side-profile edge of her forehead, nose bridge, and lips, then washing softly onto her face. The same light also falls on the droplets on the umbrella, the rain, the wet tiles, and her coat, no hard edges, no flicker. Her skin is only softly brightened overall, still matte, no shine spot. She squints slightly and tucks her chin a little into the turtleneck.
+
+Shot 1 continues — 5.5s: A silver stainless-steel commuter train with a green waistline reaches her along the right-side rail, wheels on the rails, body tight to the platform edge, the nose passing in front of her and exiting frame right. In the same instant a gust blows in from the depth of frame: bangs and side hairs pressed to her cheeks, coat hem, lapels, and back belt lifting, umbrella tilting about a hand's width and trembling. Her left hand steadies the umbrella, her right hand lifts to gather the blown-open coat front at her chest, still facing the tracks. The cool-white headlight glow transitions smoothly into the warm-white carriage glow over about a second, brightness roughly unchanged, only cool-to-warm. Carriages run past in front of her on the right with motion blur, the warm-white light a long steady even band on her face, coat front, and umbrella rim, no flicker. Her feet stay planted, sharp, normal speed, no slow motion.
+
+Shot 1 continues — 7.0s to 10.0s: The train visibly decelerates, carriages resolving back into distinguishable windows, inside them only defocused warm-white light and blurred shapes, but the warm light on her stays constant. The wind eases, hems settle, hair slowly drops. Around 8.5s she releases the coat front and uses her right fingertips to tuck the strands stuck to her cheek behind her ear, revealing the pearl stud, then lets her right hand fall naturally.
+
+Shot 1 continues — 10.0s: The train glides slowly toward a near-stop, settling on the right-side rail, the warm-white light still steady and soft on her face.
+
+Shot 1 continues — 10.5s: Her head turns only slightly toward the lens side, feet and shoulders still toward the tracks, still a clean right profile in frame, at most the far corner of her eye and mouth just showing, never a three-quarter front or full face. Her gaze slants gently toward the lens side, not direct to camera. Framing stays mid-thigh-up medium, no push-in.
+
+Shot 1 continues — 12.5s: The corner of her mouth slowly lifts into a soft, restrained closed-lip smile on the profile, cheekbone rising a touch, eye corner curving, never a toothy grin or a posed frozen smile. The smile holds on the profile, she blinks once and breathes out softly, a strand of hair still swaying in the leftover wind, the train completing its last short glide at walking pace with doors staying shut. The image ends while these tiny motions are still underway, never a freeze frame. Live throughout — rain keeps falling, droplets slide and pool on the umbrella, the turtleneck collar rises faintly with her breath, flyaways drift, puddle ripples shimmer, distant neon glows steady, the handheld frame breathing lightly.
+
+All light changes are continuous, slow gradients, never blinking: no flicker, strobe, or on-off pulsing, no per-frame brightness jumps, no sudden light on or off, no hard-edge pools or stage-spotlight circles, no window-shaped light patches sweeping across her face. The windows are large and the carriage light diffuse, so what lands on her is one steady sheet of warm light. The headlights are just two softly growing points, never direct into the lens, the frame never flashes white. The same light lands on the umbrella, the rain, the wet tiles, the platform edge, and her coat at once, never only on her face. Fluorescent tubes and distant neon glow steady, never flickering. Camera exposure locked the whole time, no auto-brightening or darkening. The whole clip brightens smoothly only once, then holds steady, never bright-then-dark-then-bright. The nose passing in front of her and the gust lifting her hair and hems happen in the same instant (around 5.5s), never wind-before-train or train-already-past-before-wind.
+
+Prohibited
+
+No subtitles, watermark, logo, or overlay text; platform light boxes, billboards, and train destination displays appear only as defocused glowing color blocks, never any readable text. No dialogue or narration. No standing still before the train or woodenly posing before it; no flicking water off the hand. No light blinking, flickering, strobing, or on-off pulsing; no bright-then-dark-then-bright; no sudden light on or off; no headlight flaring white into the lens; no window-shaped light patches sweeping across her face; no stage-spotlight circles or hard light beams; no light landing only on her face; no exposure wavering; no flickering tubes or neon. No standing with her back to the tracks; no facing the shopfronts, platform interior, or lens; no chest toward frame left. No rail on the left side of frame; no train driving onto the platform; no train on the left or shopfront side; no train crossing the frame; no train floating or off the rails; no train passing behind her; no train between her and the lens; no train coming from behind the camera, driving off into the distance, or reversing. No push-in, pull-out, zoom, or orbit. No chest-up close-up or face close-up. No full face to lens, three-quarter front glance back, or direct eye contact. No turning the shoulders or turning around. No early smile. No skin oil, sweat, water shine, specular spots, wet reflection, or droplets on the face. No rubbery, silicone, waxwork, or plastic skin, no smoothing, no freckles vanishing. No grey studio backdrop. No triptych, split-screen, or a second Riria. No other passengers or staff on the platform. No doors opening or anyone getting off. No slow motion or slowed hair drift. No umbrella flipping inside out, flying from her hand, or the shaft crossing her face; no right hand covering her face. No features drifting into a similar-looking different person — it is this person from the reference. No toothy grin. No global amber or teal-orange filter. No CG, anime, over-sharpening, or HDR look. No freeze frame. No third hand or finger distortion.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-ref2v-992627/video-02680647ff5f.webm)
+
+**Source:** [@kentdhani](https://x.com/kentdhani/status/2107736392247992627) · 15s · 40:23 · anime
+
+---
+
+## 3. Ground splitting fantasy sword comedy
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-810451-810451/video-a511d50d44b1.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-810451-810451/poster-7bc64f237397.jpg" alt="Ground splitting fantasy sword comedy video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — subject_definitions: &lt;Subject 1&gt; is A, the black-haired heroine from character reference image 1. &lt;Subject 2&gt; is B, the white-haired heroine from character reference image 2....</summary>
+
+~~~~text
+subject_definitions:
+<Subject 1> is A, the black-haired heroine from character reference image 1.
+<Subject 2> is B, the white-haired heroine from character reference image 2.
+Preserve both exact faces, hairstyles, outfits, accessories, proportions and original 2D art styles.
+<Audio 1> is the voice-timbre reference for <Subject 1> (S1) only. Use A's vocal identity and natural pitch; never copy the recording or its words.
+summary:
+[reference generation + audio reference] Create a 15-second Japanese 2D anime action-comedy with synchronized sound. Use the selected aspect ratio. A dramatically splits the ground between herself and B and believes she has created an impassable obstacle. B calmly places an ordinary wooden plank across the gap and walks toward A. End on A's familiar silent, stunned face.
+retention_analysis:
+<Subject 1> (all shots): fully_preserved - exact identity, design, proportions and illustrated style; new actions and setting.
+<Subject 2> ([Shot 1], [Shot 2]): fully_preserved - exact identity, design, proportions and illustrated style; new actions and setting.
+<Audio 1>: reference - vocal timbre guides A's single written sentence; no recorded words or audio signal are copied.
+Images define identity only, not poses or sheet layouts. Equal standing height, excluding ornaments. ONE A and ONE B; no clones, merged identities or additional people.
+detailed_description:
+Hand-drawn 2D anime with clean linework, cel shading, readable movements and expressive faces. Use the reference art style throughout.
+One empty stone courtyard in warm afternoon light. A starts screen-left; B starts screen-right, facing A. They are about three meters apart. A stays on the left throughout. B later walks right-to-left toward A without passing or touching her.
+Use a stable three-quarter wide view showing both full bodies, their feet and the floor between them. Keep the same viewing side and screen direction.
+ONE ordinary wooden plank lies flat beside B on the right side from the opening frame. It is plain brown, straight, rigid, about 1.6 meters long and 45 centimeters wide. Its long axis follows the right-to-left walking direction.
+The attack creates ONE fissure between A and B, running from the foreground toward the rear of the courtyard. It separates the left and right banks. The gap is about 70 centimeters wide, much shorter than the plank. Both banks stay level, with solid visible edges. The dark bottom is not visible.
+The fissure never opens beneath either heroine or the plank. Courtyard walls stay intact. Referenced costumes and accessories do not change.
+
+[Shot 1]
+Static three-quarter wide view. <Subject 1> stands screen-left with a confident expression. <Subject 2> stands screen-right beside the visible plank, relaxed and attentive, her lips closed.
+Between 0.3 and 2.3 seconds, <Subject 1> (S1) declares confidently using the vocal timbre referenced from <Audio 1>: [Japanese] これが、さいきょう! Synchronize A's lips to this sentence once. Finish by 2.3 seconds, then close her mouth.
+A lifts her right foot slightly and delivers ONE powerful stomp.
+Show foot contact with intact stone before the magic starts. A brilliant teal shockwave races across the floor between the heroines. Stone dust rises as ONE fissure opens in that space.
+Make the effect spectacular but brief. Keep both bodies and the floor readable. No full-screen flash, camera rotation or smoke concealing the result.
+By 3.5 seconds, the dust clears enough to reveal the finished gap. Both heroines stand safely on their original banks. The plank remains beside B. No additional attack.
+[Shot 2] At 00:03.500, cut slightly closer from the same viewing side.
+A lifts her chin and gives a proud, closed-mouth smile. She looks across the gap at B and waits.
+B looks down at the fissure, then at the plank beside her. Her mouth stays closed; there is no vocal reaction.
+Hold a short quiet beat before B picks up the plank.
+
+From 5.0 to 9.0 seconds, keep this shot uncut.
+B bends her knees, grips the plank with both hands and lifts it as ONE rigid object.
+She lowers it across the fissure. Its long axis points from her right bank toward A's left bank, perpendicular to the fissure.
+Show the far end settle onto the left bank and the near end settle onto the right bank. Both ends rest visibly on solid stone, with generous overlap beyond each edge.
+B releases her hands only after both ends are supported. The plank lies flat and does not move again.
+Keep B's hands, the complete plank and both banks visible. One plain wooden clack. No magic, glow, floating or prop transformation.
+A stays still on the left bank and watches. Her smile slowly fades.
+From 9.0 to 12.0 seconds, B walks calmly along the plank from screen-right to screen-left.
+Show her feet contacting the wood in sequence. The plank stays flat, rigid and supported on both banks. B does not jump, float or perform a balancing routine.
+She steps onto the left bank and stops between A and the gap, comfortably away from A. No passing, contact or overlap.
+B remains composed with closed lips, viewed mostly in profile during the crossing. No greeting, invitation gesture or conversational mouth movement.
+The plank stays across the still-open fissure. A looks from B down to the ordinary bridge. No further action.
+[Shot 3] At 00:12.000, cut to A's face on the left bank.
+Preserve <Subject 1>'s exact reference face. Her eyes widen, pupils become slightly smaller and eyebrows lift. Her lips part once into a small stunned expression, then HOLD without repeated jaw or lip movement.
+She looks slightly toward the camera with her familiar uncomprehending expression.
+Apply a short, slow push-in and hold the final full second. No vocal sound. End directly on A's face.
+ONE A, ONE B, ONE plank, ONE fissure. No prop duplication, deformation or sudden appearance. The gap never closes or changes width. No falling, injury, costume change or extra gag.
+Exactly ONE spoken sentence. B never speaks or makes a vocal reaction; her lips remain closed whenever visible. After 2.3 seconds, neither heroine produces speech, gasps, grunts, screams, laughter, sighs, humming or audible breaths. No narration, inner monologue or improvised words. Physical sound effects continue.
+No subtitles, captions, readable text, speech bubbles, logos, watermarks or HUD.
+overall_soundscape:
+Faint courtyard wind. One heavy stomp synchronized to visible foot contact, one magical pressure burst and a short stone-cracking rumble. Later, one wooden placement clack and restrained footsteps during B's crossing. The final reaction contains only faint ambience.
+Only A's written line uses <Audio 1>; no other voices or source playback.
+
+non_diegetic_music:
+Brief dramatic instrumental percussion and low strings during the opening attack. Stop completely when B looks toward the plank. No further music, choir, vocal samples, comedy sting or canned laughter.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-810451-810451/video-a511d50d44b1.webm)
+
+**Source:** [@tokyo_Valentine](https://x.com/tokyo_Valentine/status/2106993431767810451) · 14s · 16:9 · anime
+
+---
+
+## 4. Use the reference image as the exact first frame. 16:9, locked-off camera, one
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/use-the-reference-image-as-the-exact-first-frame-16-557922/video-6cd0782c8ee0.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/use-the-reference-image-as-the-exact-first-frame-16-557922/poster-0c096f993831.jpg" alt="Use the reference image as the exact first frame. 16:9, locked-off camera, one video preview" width="700" />
@@ -92,7 +214,7 @@ Keep all movement fluid and expressions lively. Only the three desktop icons on 
 
 ---
 
-## 3. Itried it with my own profile interfact using Minimax H3 on
+## 5. Itried it with my own profile interfact using Minimax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/itried-it-with-my-own-profile-interfact-using-minimax-h3-049468/video-731f70c5405f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/itried-it-with-my-own-profile-interfact-using-minimax-h3-049468/poster-08d300427b7f.jpg" alt="Itried it with my own profile interfact using Minimax H3 on video preview" width="700" />
@@ -139,7 +261,7 @@ Soft studio lighting, no harsh shadows. Clean line art, muted pastel colors, sli
 
 ---
 
-## 4. The Downhill Slingshot 🏎️💨
+## 6. The Downhill Slingshot 🏎️💨
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/the-downhill-slingshot-698388/video-460ca4f77a31.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/the-downhill-slingshot-698388/poster-761ffa9438e1.jpg" alt="The Downhill Slingshot 🏎️💨 video preview" width="700" />
@@ -209,7 +331,7 @@ Final output:
 
 ---
 
-## 5. Anime Film Study 135392
+## 7. Anime Film Study 135392
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-character-introduction-focused-on-pres-135392/video-a5403f903f53.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-character-introduction-focused-on-pres-135392/poster-16737aaf3f80.jpg" alt="Anime Film Study 135392 video preview" width="700" />
@@ -253,7 +375,7 @@ Place the character in a fitting environment that supports their identity and mo
 
 ---
 
-## 6. Anime Film Study 575169
+## 8. Anime Film Study 575169
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/player-stats-ui-animation-with-gpt-image-2-and-575169/video-684a93323721.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/player-stats-ui-animation-with-gpt-image-2-and-575169/poster-4aaa4f5eebd0.jpg" alt="Anime Film Study 575169 video preview" width="700" />
@@ -289,7 +411,7 @@ Audio: low electronic boot hum, delicate scanning ticks, short confirmation tone
 
 ---
 
-## 7. Bond-style spy-thriller op-art anime title sequence
+## 9. Bond-style spy-thriller op-art anime title sequence
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/bond-style-spy-thriller-op-art-anime-title-seque-295024/video-d1f8c9968b69.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/bond-style-spy-thriller-op-art-anime-title-seque-295024/poster-95af26b8a77f.jpg" alt="Bond-style spy-thriller op-art anime title sequence video preview" width="700" />
@@ -320,7 +442,7 @@ ENDING: On the final hit, freeze the character in full black silhouette at cente
 
 ---
 
-## 8. Anime Film Study 935100
+## 10. Anime Film Study 935100
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/spaghetti-western-pulp-anime-title-sequence-wher-935100/video-840540ee62cd.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/spaghetti-western-pulp-anime-title-sequence-wher-935100/poster-93ff3e121409.jpg" alt="Anime Film Study 935100 video preview" width="700" />
@@ -344,7 +466,7 @@ Apply heavy 35mm film grain, scratches, dust, gate weave, cigarette burns, and s
 
 ---
 
-## 9. 週刊アニメ＆MVプロンプト Vol.28
+## 11. 週刊アニメ＆MVプロンプト Vol.28
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/mv-vol-28-247434/video-186b17aeb97a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/mv-vol-28-247434/poster-296ddda94eb7.jpg" alt="週刊アニメ＆MVプロンプト Vol.28 video preview" width="700" />
@@ -393,7 +515,7 @@ Image2の黒紺を基調にした高密度ゴシック衣装を維持する。�
 
 ---
 
-## 10. An other example of poster animation and honestly I can't
+## 12. An other example of poster animation and honestly I can't
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/an-other-example-of-poster-animation-and-honestl-483220/video-259ed38a3f3a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/an-other-example-of-poster-animation-and-honestl-483220/poster-490dc389290b.jpg" alt="An other example of poster animation and honestly I can't video preview" width="700" />
@@ -420,7 +542,7 @@ Reveal the Japanese title with a bold elastic impact, followed by the English la
 
 ---
 
-## 11. Luna is back! now that I can render text beautifully
+## 13. Luna is back! now that I can render text beautifully
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/luna-is-back-now-that-i-can-render-text-beautifu-328598/video-51f0bf1b686f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/luna-is-back-now-that-i-can-render-text-beautifu-328598/poster-d8585f0637c1.jpg" alt="Luna is back! now that I can render text beautifully video preview" width="700" />
@@ -467,7 +589,7 @@ Audio mix: 0–2s card is silent except one soft chime. @Audio1voice begins only
 
 ---
 
-## 12. (created using on )
+## 14. (created using on )
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-using-on-394071/video-eac1c4f8f180.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-using-on-394071/poster-00aad2fc2cf7.jpg" alt="(created using on ) video preview" width="700" />
@@ -612,7 +734,7 @@ BGM：
 
 ---
 
-## 13. 使用画像はリプ欄にあります
+## 15. 使用画像はリプ欄にあります
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-024386/video-36bced361da1.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-024386/poster-2a6d878592a9.jpg" alt="使用画像はリプ欄にあります video preview" width="700" />
@@ -697,7 +819,7 @@ Image4の深い青緑の花園へ完全に切り替える。最初は高い位�
 
 ---
 
-## 14. 星花魔法都市を舞台にした高級ファンタジーRPGのキャラクター導入シー
+## 16. 星花魔法都市を舞台にした高級ファンタジーRPGのキャラクター導入シー
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-947872/video-ec36906fd039.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-947872/poster-a563a7dba7f7.jpg" alt="星花魔法都市を舞台にした高級ファンタジーRPGのキャラクター導入シー video preview" width="700" />
@@ -936,7 +1058,7 @@ BGMなし。
 
 ---
 
-## 15. Anime Film Study 738298
+## 17. Anime Film Study 738298
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/expression-progression-eyes-brows-eyelids-mouth-738298/video-78fda7431b49.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/expression-progression-eyes-brows-eyelids-mouth-738298/poster-939a1366a682.jpg" alt="Anime Film Study 738298 video preview" width="700" />
@@ -1014,7 +1136,7 @@ Expression progression: eyes -> brows -> eyelids -> mouth -> gaze.
 
 ---
 
-## 16. Anime Film Study 734471
+## 18. Anime Film Study 734471
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/fast-paced-15-second-16-9-anime-opening-title-se-734471/video-ae9ee04ad276.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/fast-paced-15-second-16-9-anime-opening-title-se-734471/poster-ff68c6e0f732.jpg" alt="Anime Film Study 734471 video preview" width="700" />
@@ -1078,7 +1200,7 @@ A fast, polished and rhythmically precise anime opening with expressive characte
 
 ---
 
-## 17. Jazz-Noir Anime Title Sequence
+## 19. Jazz-Noir Anime Title Sequence
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/jazz-noir-anime-title-sequence-652641/video-7e17bcde8d5c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/jazz-noir-anime-title-sequence-652641/poster-d32e3f4117b6.jpg" alt="Jazz-Noir Anime Title Sequence video preview" width="700" />
@@ -1115,7 +1237,7 @@ End on the character in silhouette, frozen mid-pose against a solid red field, w
 
 ---
 
-## 18. Pixar-style mouse adventure 3D animation
+## 20. Pixar-style mouse adventure 3D animation
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/pixar-style-mouse-adventure-3d-animation-582726/video-8eb481ff6b46.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/pixar-style-mouse-adventure-3d-animation-582726/poster-73bb04045d04.jpg" alt="Pixar-style mouse adventure 3D animation video preview" width="700" />
@@ -1136,7 +1258,7 @@ End on the character in silhouette, frozen mid-pose against a solid red field, w
 
 ---
 
-## 19. Giant Kitchen Spider Comedy Short
+## 21. Giant Kitchen Spider Comedy Short
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/3d-pixar-style-animated-comedy-short-film-ultra-premium-057697/video-03d1c36a6c7b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/3d-pixar-style-animated-comedy-short-film-ultra-premium-057697/poster-6734cbaa9974.jpg" alt="Giant Kitchen Spider Comedy Short video preview" width="700" />
@@ -1203,7 +1325,7 @@ This ending creates a strong cliffhanger for the extension, where an unexpected 
 
 ---
 
-## 20. Hand-Drawn Ginger Pork Cooking Anime
+## 22. Hand-Drawn Ginger Pork Cooking Anime
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/hand-drawn-ginger-pork-anime-cooking-960451/video-b92e508d3872.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/hand-drawn-ginger-pork-anime-cooking-960451/poster-b6c2ab769949.jpg" alt="Hand-Drawn Ginger Pork Cooking Anime video preview" width="700" />
@@ -1231,7 +1353,7 @@ This ending creates a strong cliffhanger for the extension, where an unexpected 
 
 ---
 
-## 21. Watercolor anime fetish montage rapid cuts
+## 23. Watercolor anime fetish montage rapid cuts
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/watercolor-anime-fetish-montage-rapid-cuts-335119/video-446479029140.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/watercolor-anime-fetish-montage-rapid-cuts-335119/poster-d795e2786bf3.jpg" alt="Watercolor anime fetish montage rapid cuts video preview" width="700" />
@@ -1385,7 +1507,7 @@ sequence:
 
 ---
 
-## 22. ASMR multi-cut overseas snack unboxing anime
+## 24. ASMR multi-cut overseas snack unboxing anime
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/asmr-multi-cut-overseas-snack-unboxing-anime-428159/video-93ba3d480c75.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/asmr-multi-cut-overseas-snack-unboxing-anime-428159/poster-8db721f6dc4f.jpg" alt="ASMR multi-cut overseas snack unboxing anime video preview" width="700" />
@@ -1490,7 +1612,7 @@ cut16:
 
 ---
 
-## 23. Dark-Fantasy Tavern Fight
+## 25. Dark-Fantasy Tavern Fight
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/style-hyper-realistic-dark-fantasy-tavern-cinematic-gro-137433/video-61ca3ff0afb8.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/style-hyper-realistic-dark-fantasy-tavern-cinematic-gro-137433/poster-27f527a53b15.jpg" alt="Dark-Fantasy Tavern Fight video preview" width="700" />
@@ -1595,7 +1717,7 @@ No floating, no anime combat, no superhero physics, no unrealistic flips, no wei
 
 ---
 
-## 24. Photoreal Character Turnaround Sheet
+## 26. Photoreal Character Turnaround Sheet
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ver-597837/video-0e075694490d.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ver-597837/poster-5f88cb99f6e5.jpg" alt="Photoreal Character Turnaround Sheet video preview" width="700" />
