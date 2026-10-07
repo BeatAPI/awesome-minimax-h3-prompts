@@ -1,0 +1,31 @@
+{
+  "slug": "hailuo-h3-sunny-out-terrible-in-the-globe-883140",
+  "title": {
+    "en": "Hailuo H3. Sunny out. Terrible in the globe.",
+    "zh": "Hailuo H3. Sunny out. Terrible in the globe."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @GlennHasABeard.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "1024:585",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@GlennHasABeard",
+    "url": "https://x.com/GlennHasABeard/status/2096715442307883140"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/GlennHasABeard/status/2096715442307883140"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-sunny-out-terrible-in-the-globe-883140/video-a51b6a20a66f.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-sunny-out-terrible-in-the-globe-883140/poster-3a75212b165b.jpg",
+  "prompt": "\"a few drops of condensation running down the outside of the glass from the cold inside\"\n\nDuration: 15s. Camera: locked, sill height.\n\nThe condensation on the outside is the detail that makes the inside real. Physics leaking across the boundary sells the boundary."
+}

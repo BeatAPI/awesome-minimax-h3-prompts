@@ -1,0 +1,31 @@
+{
+  "slug": "sampling-8-step-pdd-acc-ref2v-221912",
+  "title": {
+    "en": "• Sampling: 8-step PDD Acc (Ref2V)",
+    "zh": "• Sampling: 8-step PDD Acc (Ref2V)"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic travel prompt with attached video evidence from @Tomw852.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3视频提示词。"
+  },
+  "category": "cinematic-travel",
+  "mode": "text-to-video",
+  "duration": "8s",
+  "aspectRatio": "20:11",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Tomw852",
+    "url": "https://x.com/Tomw852/status/2095713022136221912"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/Tomw852/status/2095713620877332505"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/sampling-8-step-pdd-acc-ref2v-221912/video-58d4a742ceac.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/sampling-8-step-pdd-acc-ref2v-221912/poster-f0e1be4b8584.jpg",
+  "prompt": "subject_definitions:\n- <Picture 1>: S1, the young adult female elf office worker, pointed elf ears, blonde bob hair with soft bangs, tailored black business suit, white collared shirt, and black tie.\n- <Picture 2>: S2, the nocturnal Tokyo convenience store exterior setting, clean glass sliding doors, bright cool-white fluorescent interior illumination spilling outside, and illuminated storefront signage.\n- <Audio 1>: A1, the nocturnal city ambient audio reference, featuring muffled urban night hum, distant traffic rumble, and cold nocturnal air texture.\n\nsummary:\nA smooth 8-second backward tracking steadicam shot: S1 exits convenience store S2 and walks forward while the camera glides backward synchronously, gently decelerating to a stop as S1 retrieves a chilled caramel pudding from a plastic bag, culminating in a tender, relieved smile against creamy night bokeh with ambient city audio from A1 and zero music.\n\nretention_analysis:\n- S1 (<Picture 1>): Exact facial features, blonde bob hair texture, pointed elf ears, and black business suit retained consistently across all framing transitions.\n- S2 (<Picture 2>): Store architecture, sliding glass door, and night lighting preserved as the continuous background and backlight rim source.\n- A1 (<Audio 1>): Acoustic spatial texture and low-frequency urban hum preserved exact as the environmental ambient room-tone.\n\ndetailed_description:\nFrom 00:00.000 to 00:03.000:\nMedium shot (MS, waist-up framing) captured on an 85mm T1.8 prime lens in 16:9 aspect ratio. The camera executes a slow, ultra-smooth backward tracking movement on a steadicam at a leisurely 0.2 m/s. S1 pushes open the glass sliding door of S2 and steps outside onto the sidewalk, walking toward the receding camera. Strong cool-white fluorescent backlighting spills from inside the store directly toward the lens, blooming into a soft, milky white halation flare that rims her blonde hair and the translucent edges of her pointed elf ears. S1 carries a translucent striped plastic shopping bag in her right hand, her expression deeply weary with downcast, unfocused eyes as she advances at an exhausted pace.\n\nFrom 00:03.000 to 00:05.500:\nS1 gradually decelerates her walking pace and comes to a gentle stop on the quiet pavement. The camera matches her deceleration seamlessly with an organic ease-out, settling to a gentle hover exactly 1 meter in front of her without any jarring stops or sudden shakes, framing her in a medium close-up (MCU, chest-up). Cool fluorescent light from the store window merges with a faint warm amber streetlamp overhead, sculpting her pale cheeks and white shirt collar. Lowering her head, S1 reaches into the plastic bag with slender pale fingers, gently lifting out a chilled caramel pudding cup lightly frosted with cold condensation mist.\n\nFrom 00:05.500 to 00:08.000:\nThe camera remains stationary with a barely perceptible organic breath. The shallow depth of field dissolves the nighttime street and convenience store signage into immense, creamy, circular bokeh discs. Sensing the cold condensation against her fingertips, S1 exhales softly, her shoulders sinking. Her pointed elf ears soften and subtly tilt upward into a natural, relaxed posture. Her furrowed brow completely unwinds, and the corners of her mouth lift into an extremely faint, sweet, and genuinely relieved smile of solace. She lingers quietly in the cool night air as the shot holds its peaceful composition to the final frame.\n\noverall_soundscape:\nInherits the continuous nocturnal urban ambience from A1 (<Audio 1>) as the foundational soundscape. Layered with pristine diegetic Foley: faint electronic chime of the store door sliding open, synchronized rhythmic footsteps of dress shoes on asphalt, soft crinkling of the thin plastic shopping bag in the night breeze, delicate tactile tap of fingers on the cold plastic pudding lid, and a soft audible sigh of exhalation.\n\nnon_diegetic_music:\nNone. Absolutely no background music, no soundtrack, no melodic instruments, strictly zero musical score. Pure diegetic Foley and ambient urban night atmosphere from A1 only."
+}

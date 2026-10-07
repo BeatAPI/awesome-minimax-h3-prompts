@@ -1,0 +1,31 @@
+{
+  "slug": "golden-hour-neighborhood-walk-568202",
+  "title": {
+    "en": "Golden Hour Neighborhood Walk",
+    "zh": "Golden Hour Neighborhood Walk"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 product commercial prompt with attached video evidence from @afrinxai.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+  },
+  "category": "product-commercial",
+  "mode": "reference-to-video",
+  "duration": "21s",
+  "aspectRatio": "7:4",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@afrinxai",
+    "url": "https://x.com/afrinxai/status/2093685105474568202"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/afrinxai/status/2093685105474568202"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/golden-hour-neighborhood-walk-568202/video-67f30f278849.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/golden-hour-neighborhood-walk-568202/poster-edfef6cbf784.jpg",
+  "prompt": "Style: Ultra-realistic cinematic handheld footage, natural daylight fading into golden-hour sunset. Soft realistic film grain, gentle handheld sway, shallow-to-medium depth of field, warm color grading. Real Seoul residential neighborhood (narrow alleys, brick low-rise houses, hanok-style tiled roofs, utility poles, parked cars). No CGI, no beauty filter, no overly polished commercial look — believable skin texture, natural flyaway hairs, authentic wind movement.\n\nReference: Use exactly one reference image for the woman. Preserve her identity, face, skin tone, hairstyle, body proportions, and wardrobe consistently across every shot.\n\nCharacter: Young Korean woman, early-to-mid 20s, cream cardigan over sage-green button-up blouse, blue straight-leg jeans, white sneakers, brown crossbody/shoulder bag, small silver hoop/pearl earrings. Natural makeup with soft red-toned lips, glossy dark hair worn down, warm authentic smile throughout.\n\n00:00–00:03 — Approach Walk: She walks toward camera down a quiet daytime alley between low white and brick walls, relaxed casual pace, soft ambient smile, mid-shot tracking backward in front of her.\n\n00:03–00:07 — Crouch & Cat: She crouches down at a wall corner where a small tabby street cat sits, leaning in with a delighted laugh, one hand resting on her knee, warm candid side-profile framing.\n\n00:07–00:10 — Golden Turn: Cut to golden-hour light — she walks down a sloped residential street, sun flare grazing her hair and shoulders, glancing upward and around with a soft content smile, hair lifting gently in the breeze.\n\n00:10–00:13 — Wide Street Walk: Wider tracking shot past hanok rooftops and brick houses, city skyline visible in the distance, she strolls confidently, glancing off to the side, golden backlight rimming her hair.\n\n00:13–00:16 — Close Glance Back: Close-up as she turns her head over her shoulder toward camera, playful knowing smile, hair swept by wind, warm rim-light on her cheek and earring.\n\n00:16–00:19 — Walking Away: Camera holds behind her as she continues down the alley past a weathered painted wall, sunset light raking across the brick, bag swaying gently on her shoulder.\n\n00:19–00:20 — Final Look: She glances back over her shoulder once more with a soft laugh/smile as the shot settles, warm dusk light silhouetting her hair — natural cut-off mid-motion.\n\nRealism: Accurate hands and natural gait throughout, believable cat behavior and interaction, consistent wardrobe and hairstyle across all cuts, natural long shadows and warm sun flare in the golden-hour segments, soft handheld micro-shake, no teleporting, duplication, warped hands, extra fingers, or wardrobe changes between cuts.\n\nAudio: Natural location sound only — footsteps on pavement, soft ambient neighborhood sound (birds, distant traffic, faint breeze), fabric rustling, a soft cat meow/purr during the crouch beat, quiet natural breathing and laughter. No music, narration, subtitles, captions, logos, watermark, or on-screen text."
+}

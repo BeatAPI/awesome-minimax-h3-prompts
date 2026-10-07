@@ -1,0 +1,31 @@
+{
+  "slug": "hailuo-h3-a-dandelion-clock-one-seed-at-a-time-699125",
+  "title": {
+    "en": "Hailuo H3. A dandelion clock, one seed at a time, no wind.",
+    "zh": "Hailuo H3. A dandelion clock, one seed at a time, no wind."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @GlennHasABeard.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "7:4",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@GlennHasABeard",
+    "url": "https://x.com/GlennHasABeard/status/2098437562989699125"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/GlennHasABeard/status/2098437562989699125"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-a-dandelion-clock-one-seed-at-a-time-699125/video-411971e5ff74.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-a-dandelion-clock-one-seed-at-a-time-699125/poster-c4868a2d1d4c.jpg",
+  "prompt": "\"roughly one per second at first, then two, then several, the head thinning evenly from the top\"\n\nDuration: 15s. Camera: locked macro.\n\nA rate is a timeline. \"One per second, then two, then several\" is three stages in eleven words. [The ticks matched or didn't.]"
+}

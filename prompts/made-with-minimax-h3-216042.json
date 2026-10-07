@@ -1,0 +1,31 @@
+{
+  "slug": "made-with-minimax-h3-216042",
+  "title": {
+    "en": "Made With Minimax H3",
+    "zh": "Made With Minimax H3"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 product commercial prompt with attached video evidence from @afrinxai.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+  },
+  "category": "product-commercial",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "7:4",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@afrinxai",
+    "url": "https://x.com/afrinxai/status/2097884675373216042"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/afrinxai/status/2097884675373216042"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-216042/video-d6ddb6e21e0c.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-216042/poster-72c375b824b3.jpg",
+  "prompt": "Format: 15 seconds, vertical 16:9, 2K, 24fps, ultra-realistic cinematic Korean lifestyle film, natural documentary realism, physically accurate motion, subtle film grain.\n\nCharacter: Young Korean woman with the exact face from the uploaded reference. Shoulder-length naturally wavy dark-brown hair with a slightly messy effortless texture, a few loose strands around her face, natural eyebrows, minimal fresh makeup, realistic skin texture. Outfit: oversized dusty-blue knit cardigan, fitted white inner top, relaxed charcoal wide-leg trousers, clean white sneakers, small cream canvas shoulder bag. Same face, hair, body proportions, outfit, and accessories throughout all shots.\n\n00–02s — ENTERING:\nShe walks toward a tiny independent flower shop on a quiet Seoul side street. Camera follows at shoulder height with subtle handheld movement. She reaches for the wooden glass door and gently pushes it open. A small brass bell swings naturally above the entrance.\n02–04s — DISCOVERING FLOWERS:\nCut to a medium close-up inside the shop. She slowly walks between buckets of fresh flowers, gently brushing her fingertips across delicate stems. Her eyes notice a beautiful small white flower arrangement. She pauses and gives a subtle natural smile.\n\n04–06s — CHOOSING:\nClose-up of her hands selecting several delicate white and pale-green flowers from a metal bucket. She carefully lifts the stems, examines them, then places them together. Realistic fingers, natural hand movement, accurate flower physics.\n06–08s — TRIMMING:\nAt a rustic wooden worktable, she receives small florist scissors. She trims the flower stems one by one. Show realistic cutting motion, tiny leaves moving naturally, scattered stems on the table.\n\n08–10s — BOUQUET:\nMacro cinematic shot of her hands arranging the flowers into a small minimalist bouquet. She rotates the stems, adjusts spacing, wraps the bouquet in textured kraft paper, then ties it with thin natural twine.\n10–12s — LEAVING:\nShe opens the shop door and steps outside holding the finished bouquet close to her chest. Her canvas bag hangs naturally from her shoulder. The door bell moves behind her as she exits.\n\n12–15s — FINAL MOMENT:\nShe walks a few steps down the quiet Seoul alley, stops beneath a small leafy street tree, looks down at the bouquet, then slowly looks toward the camera with a soft genuine smile. Camera smoothly pulls backward, revealing the flower shop, plants, narrow Korean street, and evening atmosphere.\nEnvironment: Cozy independent Seoul flower shop, wooden shelves, metal flower buckets, handwritten Korean price tags, wrapped bouquets, hanging plants, glass door, rustic worktable, quiet residential-commercial alley outside.\n\nLighting & color: Soft natural overcast daylight transitioning subtly toward blue hour. Neutral cinematic color grade, realistic skin tones, muted greens, dusty blue clothing, gentle contrast, soft shadows, controlled highlights. No excessive golden light, no orange cast, no HDR, no oversaturation, no artificial glow, no plastic skin.\nCamera: Smooth cinematic handheld movement, realistic depth of field, natural focus transitions, 35mm/50mm lens feeling, occasional macro close-ups, no impossible camera movement.\n\nPhysics & consistency: Natural walking, accurate foot contact, realistic weight shifts, correct hand-object interaction, flowers bend naturally, paper folds realistically, hair and cardigan respond subtly to movement and breeze. No face morphing, no identity drift, no outfit changes, no extra fingers, no duplicated flowers, no warped hands, no floating objects, no sudden teleportation.\nAudio: Door bell, footsteps, flower stems rustling, scissors cutting stems, paper wrapping, distant Seoul traffic, subtle outdoor breeze. No music, no narration, no dialogue."
+}

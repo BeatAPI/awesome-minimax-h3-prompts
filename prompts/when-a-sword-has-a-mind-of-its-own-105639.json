@@ -1,0 +1,31 @@
+{
+  "slug": "when-a-sword-has-a-mind-of-its-own-105639",
+  "title": {
+    "en": "⚔️“When a Sword Has a Mind of Its Own”",
+    "zh": "⚔️“When a Sword Has a Mind of Its Own”"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 action prompt with attached video evidence from @ou_zhen599.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动作提示词。"
+  },
+  "category": "action",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ou_zhen599",
+    "url": "https://x.com/ou_zhen599/status/2095866920990105639"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/ou_zhen599/status/2095866920990105639"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/when-a-sword-has-a-mind-of-its-own-105639/video-89ae9e102386.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/when-a-sword-has-a-mind-of-its-own-105639/poster-7bfe67f4c1c0.jpg",
+  "prompt": "subject_definitions:\n<Subject 1> is Lida from <Picture 1>: pale cracked skin, long black hair, dark wine-red and black hooded robe, golden ritual instrument, forehead talisman. Remove all setup-board text, labels, and studio background.\n<Subject 2> is ALin from <Picture 2>: black coiled hair, gold accessories, red ribbons, deep blue-black and dark crimson swordswoman costume with gold embroidery, sheathed Longyuan sword. The sword never leaves the scabbard.\n<Subject 3> is the wet ancient forest from <Picture 3>: humid moon-blue night, twisted roots, puddles, mud, cold mist.\n\nsummary:\n[reference generation] A 15-second realistic dark fantasy standoff in <Subject 3>. <Subject 2> always stays left foreground facing diagonally right. <Subject 1> always stays right mid-background facing diagonally left. They remain about three meters apart with puddles and roots as the boundary. Camera always stays on the same side of the axis, with no axis crossing, no side swap, no combat, no unsheathing, and no body contact.\n\nretention_analysis:\n<Subject 1> (appears throughout): fully_preserved - retain Lida's face, cracked pale skin, robe colors, hair, talisman, and ritual styling; remove non-scene board elements.\n<Subject 2> (appears throughout): fully_preserved - retain ALin's identity, hair, ribbons, costume, embroidery, and sheathed sword; sword remains sealed.\n<Subject 3> (appears throughout): fully_preserved - retain wet blue forest, roots, puddles, mud, and cold mist.\n\ndetailed_description:\nThe video is highly realistic, cinematic, and dark fantasy in a lunar-eclipse cold grey-blue palette: deep blue-black shadows, cold grey-blue moon mist, muted ink-green roots, low-brightness withered wine red and old gold on <Subject 1>, restrained dark carmine and dull antique gold on <Subject 2>. Only the seal light is bright: icy white with a slight cyan edge. Wet reflections, preserved blacks, subtle film grain.\n\n[Shot 1] A 24mm ground-level move slides along roots into a puddle. The water first shows offset reflections of <Subject 2> on the left and <Subject 1> on the right, then a third black shadow near <Subject 2>'s scabbard. The camera tilts up to reveal the real standoff in the same left-right order.\n[Shot 2] At 00:01.200, 85mm slow push. <Subject 1> is a soft right-shoulder foreground blur, <Subject 2> is sharp on the left. Three dark-gold talismans slip from <Subject 1>'s sleeve and hover over the puddle. She studies <Subject 2>'s sword hand, then both eyes, and whispers, <d>[English] Leave the sword.</d> <Subject 2>'s thumb tightens on the guard.\n[Shot 3] At 00:03.200, from behind <Subject 2>'s left side, mist lines creep from right to left toward the scabbard. <Subject 1> says, <d>[English] Who are you hiding it for?</d> <Subject 2> shifts half a step diagonally back, presses down the red ribbon, angles the scabbard aside, and answers, <d>[English] Don’t touch it.</d>\n[Shot 4] At 00:05.200, same-side inserts: <Subject 1>'s right eye, talismans, sword guard, bark cracks. <Subject 1> tracks breathing, not the blade. Magic forces the guard open a fraction; icy seal light leaks out; tree cracks light up from near to far; the third black shadow returns in the puddle. <Subject 2> instantly presses the guard shut.\n[Shot 5] At 00:10.000, medium close. Burnt talismans hover. <Subject 1> reads face, chest, then sword hand and says, <d>[English] So it chose you.</d> <Subject 2> raises the sheathed sword across the chest to block her gaze.\n[Shot 6] At 00:12.200, extreme close. <Subject 1>'s hand stops 25 cm from <Subject 2>'s left shoulder. Blue-white fire bends against the scabbard. <Subject 2> rotates the sheathed sword upward about 45 degrees to redirect the spell pressure, never drawing the blade. Talismans crumble into ash. <Subject 2> says, <d>[English] One step closer, and it wakes.</d> At 00:14.200, stable wide ending: <Subject 2> left foreground, <Subject 1> right rear, hand suspended, third black shadow flashes once in the puddle and vanishes, mist coils around the scabbard, near silence.\n\noverall_soundscape:\nWet forest wind, mud water, talisman friction, low ritual hum, restrained breathing, short low-frequency pulse when the seal opens, then sound vacuum after the final line.\n\nnon_diegetic_music:\nMinimal dark ambient score with low drones and sparse metallic resonance, nearly subliminal."
+}

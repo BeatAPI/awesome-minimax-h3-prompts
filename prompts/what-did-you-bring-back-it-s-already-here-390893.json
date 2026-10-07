@@ -1,0 +1,31 @@
+{
+  "slug": "what-did-you-bring-back-it-s-already-here-390893",
+  "title": {
+    "en": "👿What did you bring back? It's already here!",
+    "zh": "👿What did you bring back? It's already here!"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 action prompt with attached video evidence from @ou_zhen599.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动作提示词。"
+  },
+  "category": "action",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ou_zhen599",
+    "url": "https://x.com/ou_zhen599/status/2097988690102390893"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/ou_zhen599/status/2097988690102390893"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/what-did-you-bring-back-it-s-already-here-390893/video-09a53ce74288.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/what-did-you-bring-back-it-s-already-here-390893/poster-bebc09c3fb2a.jpg",
+  "prompt": "For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.\n\nintegrated_multimodal_description: [Shot 1] Live-action, cinematic, photoreal sci-fi realism. The first frame fully matches <Picture 1>: three women in the same narrow cyber spaceship corridor, preserving exact faces, hairstyles, body proportions, prosthetic placement, clothing, weapons, spatial positions, and the same industrial cabin environment. Lisa remains seated against the left wall and seat platform with her metallic prosthetic visible; Sai stays in the center holding a knife low at her side and remains silent throughout; Xiao stands in the right foreground holding a soda can in her right hand and keeps it in that hand for the entire video. The corridor has a glowing main screen and console on the right, a metal wall and platform on the left, a narrow passage in the middle, dirty cold overhead light, screen reflections, warm electronic edge reflections, realistic skin and metal response, and slight film grain. The shot begins with all three already visible, no empty opening frame. The camera glides in steadily from the right screen edge in a grounded pseudo-one-take with natural standard-lens perspective, slight handheld breathing only, never floating or drifting. Xiao looks left at Lisa, drinks once from the can to suppress anger, then takes one step forward. Sai moves slowly in the center, knife hanging naturally, not looking at either woman, listening to the space first. Lisa sits low on the left, head slightly lowered, then slowly raises her eyes. [Shot 2] At 00:03.000, the same shot continues with a slight forward push as Xiao stops, leans in, and says in a low, hard voice, <d>[English] You left him there?</d> Only Xiao moves her lips. Lisa does not answer immediately. She first lifts her eyes to Xiao, braces with the prosthetic arm against her side, and prepares to rise. [Shot 3] At 00:05.000, Lisa stands up from the wall with real weight transfer and one half-step toward Xiao, holding eye contact. Her prosthetic support feels natural and heavy. She says quietly and coldly, <d>[English] What I brought back... matters more.</d> Only Lisa moves her lips. Xiao does not step back and slowly crushes the soda can in her right hand with visible metal compression. [Shot 4] At 00:07.000, Xiao stares at Lisa, squeezes the can harder so it gives a small metallic crack, and says, <d>[English] More?</d> At the same moment Sai is the first to sense danger: she stops walking, lets the knife tip sink slightly, and slowly turns her head toward the glowing right-side main screen. Her breath becomes shallower, but she never speaks. [Shot 5] At 00:09.000, a cabin tracking alarm suddenly triggers. The right-side main screen automatically shows a specific red tracking dot moving slowly along the outer hull outline, not abstract noise. Xiao is cut off and turns sharply toward the screen. Sai shifts half a step aside to clear the sightline for Xiao and the camera. Lisa also turns to look. Keep the women and the screen readable in the same composition; do not isolate the screen alone. [Shot 6] At 00:12.000, all three look toward the right side. Xiao's soda can lowers gradually but stays in her right hand. Lisa now stands behind-left of Xiao and says in a lower, calmer, colder voice, <d>[English] I didn’t bring it back.</d> then <d>[English] It followed us.</d> Only Lisa moves her lips for these two lines. Xiao stays silent with her mouth slightly parted in shock. Sai remains still, jaw tight, in silent readiness. [Shot 7] At 00:14.000, a huge dark shadow passes slowly outside the porthole or exterior view, and the red tracking dot on the screen suddenly closes in. Xiao’s can drops a little lower. Sai leans forward almost imperceptibly into a ready stance. Lisa does not step back. The shadow darkens part of the frame for a final visual shock, then the image cuts directly to black at 00:15.000. No subtitles, no watermark, no extra people, no identity drift, no face distortion, no extra limbs, no wrong weapon, no wrong props, no flipped positions, no camera whip, no floating-camera feel, no exaggerated mouth shapes, no shouting performance, no screen gibberish, and no added dialogue.\n\noverall_soundscape: Cabin room tone, low electronic hum, clothing friction, light footsteps, breathing, subtle soda-can metal deformation, and the tracking alarm define the soundscape. Dialogue is clean and dry, with no extra voices. Non-speaking characters never move their lips. No music.\n\nnon_diegetic_music: N/A"
+}

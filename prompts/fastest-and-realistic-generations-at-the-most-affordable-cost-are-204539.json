@@ -1,0 +1,31 @@
+{
+  "slug": "fastest-and-realistic-generations-at-the-most-affordable-cost-are-204539",
+  "title": {
+    "en": "Fastest and realistic generations, at the most affordable cost, are you guys liking it?",
+    "zh": "Fastest and realistic generations, at the most affordable cost, are you guys liking it?"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 animation prompt with attached video evidence from @ImagineArt_X.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动画提示词。"
+  },
+  "category": "animation",
+  "mode": "reference-to-video",
+  "duration": "20s",
+  "aspectRatio": "4:3",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ImagineArt_X",
+    "url": "https://x.com/ImagineArt_X/status/2097937941683204539"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/ImagineArt_X/status/2097937941683204539"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/fastest-and-realistic-generations-at-the-most-affordable-cost-are-204539/video-e86f8270c8d5.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/fastest-and-realistic-generations-at-the-most-affordable-cost-are-204539/poster-716fccde8189.jpg",
+  "prompt": "Reference images defines the art style and the scene: hand-placed 16-bit pixel art with hard square pixels, the palette, the environment layout, the characters and the chunky HUD blocks exactly as shown. Keep the pixel grid, the palette, the layout and every character exactly. No legible text, logos or signage lettering anywhere.\nOne unbroken take in mid-90s crime-game pixel art, native canvas upscaled with nearest-neighbour so every pixel stays hard and square — no anti-aliasing, no sub-pixel blending, no soft edges. Animated at a chunky 12 frames per second with limited animation: held poses broken by two- and three-frame changes, no in-between smoothing, no motion blur, no depth-of-field. Sky, water, haze and smoke stay as dither and shift a few pixels per frame. Characters move as stepped sprite cycles — hips rolling through each step, hands trailing, hair and fabric whipping in stepped clumps, shadows sliding across the ground plank by plank in hard stepped edges. Environment scrolls past in hard horizontal pixel steps rather than sliding. Highlights, sequins, sweat, sun-flare and window lights are individual bright pixels switching on and off. Any impact — gunshot, splash, crash — is a three-frame flat-colour burst that pushes every colour one step brighter for a single frame, then snaps back. The palette stays locked for the whole shot: no true blacks unless the reference has them, deepest shadow a warm dark brown in daylight or cold blue-black at night. HUD bars, minimap block and ammo digits stay pinned to the frame on the same pixel grid, the ammo counter ticking down by one on each shot.\nSHOT: [swap per image — one or two sentences on what moves and how the camera behaves. Examples below.]\nAUDIO: Warm, slightly lo-fi. [scene SFX in <>] (one continuous synth or surf-rock bed matched to the scene's tempo, no build)."
+}

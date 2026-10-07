@@ -1,0 +1,31 @@
+{
+  "slug": "pure-sci-fi-blockbuster-energy-254320",
+  "title": {
+    "en": "Pure sci-fi blockbuster energy.",
+    "zh": "Pure sci-fi blockbuster energy."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @CharaspowerAI.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+  },
+  "category": "music-video",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@CharaspowerAI",
+    "url": "https://x.com/CharaspowerAI/status/2100540300800254320"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/CharaspowerAI/status/2100540300800254320"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/pure-sci-fi-blockbuster-energy-254320/video-500ffa83764c.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/pure-sci-fi-blockbuster-energy-254320/poster-da8171797cda.jpg",
+  "prompt": "High-end sci-fi Hollywood title sequence beginning deep inside a futuristic energy chamber as enormous rotating rings accelerate around a white-hot plasma core. The camera threads between superconducting structures while electric arcs jump across metal surfaces and energy particles streak past the lens. The reactor suddenly destabilizes, causing mechanical components to rip free and spiral around the core. Instead of collapsing, every fragment becomes trapped inside a powerful electromagnetic field and begins assembling into massive industrial letterforms. Turbine blades, armor plates, cooling vents and glowing conduits lock together with brutal mechanical precision until the word \"REACTOR\" dominates the chamber. The camera sweeps across its surface as plasma pulses through transparent sections inside every letter, then the system reaches critical mass and releases a gigantic circular energy blast that tears the chamber apart while the title remains centered for one final hero frame. Transformers-level mechanical detail, premium energy simulation, relentless cinematic movement."
+}

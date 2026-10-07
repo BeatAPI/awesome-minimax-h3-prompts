@@ -1,0 +1,31 @@
+{
+  "slug": "hollywood-grade-photoreal-night-formula-1-race-anamorphic-2-35-754722",
+  "title": {
+    "en": "Hollywood-grade photoreal night Formula 1 race, anamorphic 2.35:1, 24fps, shot on",
+    "zh": "Hollywood-grade photoreal night Formula 1 race, anamorphic 2.35:1, 24fps, shot on"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @YaseenK7212.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+  },
+  "category": "music-video",
+  "mode": "text-to-video",
+  "duration": "35s",
+  "aspectRatio": "949:540",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@YaseenK7212",
+    "url": "https://x.com/YaseenK7212/status/2100191968617754722"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/YaseenK7212/status/2100191968617754722"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/hollywood-grade-photoreal-night-formula-1-race-anamorphic-2-35-754722/video-776df01326fe.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/hollywood-grade-photoreal-night-formula-1-race-anamorphic-2-35-754722/poster-5a0ff198b25b.jpg",
+  "prompt": "Hollywood-grade photoreal night Formula 1 race, anamorphic 2.35:1, 24fps, shot on ARRI with vintage anamorphic glass. This is a surfacing and lighting pass over the reference footage. Preserve the reference exactly: same number of shots, same cut points, same shot order, same framing, same camera path and speed in every shot. Do not invent, re-time, re-order, repeat or replace any shot. Do  not add camera moves.\nOne exception, limited strictly to the driver's body inside the cockpit: replace the simplified figure with a real human being. A real man in his early thirties, athletic build, seated low. Modern carbon-fibre F1 helmet with aero shell, top intake vents, side ducts and chin bar, gold-tinted visor showing his eyes — real human eyes, focused, visible skin texture, sweat at the brow, faint stubble. HANS device collar. Multi-layer fireproof Nomex suit with visible seams, quilted stitching and shoulder straps. Race gloves gripping the wheel, forearms tensed, small steering corrections. A living person, not a mannequin. Everything outside the cockpit opening keeps the reference geometry unchanged.\nSurfacing: gloss carbon-fibre bodywork with clearcoat sheen and visible weave, titanium skid plate throwing sparks, brushed-aluminium pushrods, worn slick tyres with heat-glazed shoulders and pickup rubber, scratched polycarbonate visor catching light. Asphalt dark and damp, aggregate texture, tyre marbles at the edges.\nLighting: floodlit night circuit, hard blue-white pools from the light towers, warm sodium spill between them, long specular streaks on the wet track, exhaust heat shimmer, faint tyre smoke drifting through the beams. Deep black sky, distant grandstand lights soft and out of focus.\nNatural motion blur, shallow depth of field, fine 35mm grain, slight chromatic fringing at frame edges.\nNegative: no new camera angles, no added or repeated shots, no changed cut timing, no hero or beauty shots, no cartoon or painted-on eyes, no toy figure, no mannequin, no clay surfaces, no text, no logos, no sponsor decals, no crowd, no daylight, no debris on track, no warping geometry, no extra cars."
+}

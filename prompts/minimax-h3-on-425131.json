@@ -1,0 +1,31 @@
+{
+  "slug": "minimax-h3-on-425131",
+  "title": {
+    "en": "Minimax H3 on",
+    "zh": "Minimax H3 on"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @bmx_ai13.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+  },
+  "category": "music-video",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "1873:1080",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@bmx_ai13",
+    "url": "https://x.com/bmx_ai13/status/2097133820382425131"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/bmx_ai13/status/2097133820382425131"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-on-425131/video-e5f85b3cc0cf.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-on-425131/poster-4073e8d3d114.jpg",
+  "prompt": "Create a 15 second, 16:9 cinematic mixed media gothic fantasy video in one fluid take with two soft internal transitions.\n\nA beautiful, slender adult woman with porcelain-pale skin, large dark-rimmed almond eyes, small dark lips, sharp cheekbones, a high widow’s-peak black bob, long fingers, and an elegant Victorian patchwork coat stands inside a living handmade collage. Her coat combines ink-stained paper, torn lace, charcoal marks, watercolor stains, and gold leaf.\n\n0–3s: Extreme close-up of a black ink line drawing itself across cream paper, becoming her eyelid. Her eye opens, revealing gold sparkles in the iris.\n\n3–8s: Slowly pull back to reveal her face and an impossible room of cracked paper walls, dripping ink arches, torn windows, watercolor light, floating scraps, and scribbled chandeliers. She inhales as charcoal dust rises from her coat.\n\n8–12s: She raises one hand. Paper petals bloom from her sleeve, ink staircases unfold behind her, and gold flakes orbit her. The camera smoothly circles left into a three-quarter profile.\n\n12–15s: Settle into a centered hero shot inside the living collage cathedral. A final ink line draws a loose halo above her head. She looks into the camera with a quiet, strange smile as dust and gold continue drifting.\n\nStyle: elegant gothic whimsy, outsider art, artcore, stop-motion illustration, ink, watercolor, charcoal, torn paper and gold leaf, rich handmade textures, cinematic dark fairy tale, subtle HD film grain. Cool moonlight, warm amber watercolor glow, soft rim lighting and deep charcoal shadows.\n\nAudio: paper rustling, pencil scratching, faint ink drops, quiet breath, lonely piano, music-box tones and a soft whimsical drone. No speech or lyrics.\n\nMaintain the same face, hairstyle, clothing and environment throughout. No animals, grotesque features, extra people, text, logos, subtitles, watermarks, modern objects, identity flicker, face morphing, broken hands or extra fingers."
+}

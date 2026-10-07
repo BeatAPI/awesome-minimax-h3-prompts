@@ -1,0 +1,31 @@
+{
+  "slug": "the-sentence-an-instrument-not-a-shortcut-793659",
+  "title": {
+    "en": "The sentence: \"An instrument, not a shortcut.\"",
+    "zh": "The sentence: \"An instrument, not a shortcut.\""
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @GlennHasABeard.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "7:4",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@GlennHasABeard",
+    "url": "https://x.com/GlennHasABeard/status/2095212520671793659"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/GlennHasABeard/status/2095212520671793659"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/the-sentence-an-instrument-not-a-shortcut-793659/video-afa7dbfbe5c7.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/the-sentence-an-instrument-not-a-shortcut-793659/poster-f6940cdc6153.jpg",
+  "prompt": "\"the keys visibly depress and release one at a time, never two at once\"\n\nSpelling survives when the text arrives one keystroke at a time. Ask for the whole sentence at once and you get typewriter soup."
+}

@@ -2,7 +2,96 @@
 
 [Back to the full gallery](../../README.md) · [Catalog index](../README.md)
 
-## 1. 動画プロンプトはリプ欄に
+## 1. 📷“The Fallen Crown”
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/the-fallen-crown-205994/video-22bb1d53e999.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/the-fallen-crown-205994/poster-16b19cd787a2.jpg" alt="📷“The Fallen Crown” video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — For the target video, at 0.00 seconds into the target video, &lt;Picture 1&gt; (from [Shot 1]) is fully referenced. integrated_multimodal_description: [Shot 1] A 15-second, 16:9...</summary>
+
+~~~~text
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description: [Shot 1] A 15-second, 16:9 cinematic realistic image-to-video sequence set entirely inside the same ancient temple porch and stone-column corridor shown in <Picture 1>. Preserve the exact same adult woman throughout: same face, hairstyle, makeup, garment cut, leather texture, body ratio, gait, and presence. The whole sequence stays in one continuous space only: the porch threshold, the narrow corridor between the right-side pillar and wall, and the same right-side wall mural zone. No exterior, no new hall, no extra people, no extra props, no subtitles, no watermark, and no black ending. The core story is that she is not entering the temple as a new visitor, but behaving like a brief awakened action-memory belonging to the wall mural itself. She is always moving or has just finished moving, never posing. [Shot 2] At 00:00-00:02.2, a low-angle near shot begins at boot heel, forward-driving legs, and knee line, then tilts up to collarbone, jaw, and part of the face. The camera stays close to the floor and glides backward as she crosses the threshold. When the right foot lands, thin floor dust is pressed outward by the boot sole and curls softly around the edge. Her gaze stays beyond the camera rather than into it, eyelids slightly lowered, pupils steady, lips naturally closed, and collarbone and upper chest rise and fall with restrained real breathing. Warm air from above and behind lifts the long hair gently, with slight delayed motion in the strands. Clothing follows the body line and rebounds subtly. This first sensual close-up is built entirely from gait, center-of-gravity transfer, collarbone breathing, jawline, and hair edge-light. [Shot 3] At 00:02.2-00:05.0, cut to a frontal medium close retreating shot, framing from chest to knee while she continues advancing on the central axis. During the advance she drifts half a step toward frame right and her left hand naturally grazes the relief carving on the right-side pillar without stopping to search. As her fingertips move across the stone, a small amount of fine stone powder slides down. One extremely thin, brittle ancient gold-leaf fragment peels away from the carving and sticks lightly between her index and middle fingers. Her eyes do not make a large turn at once. First she checks it with peripheral vision, the brow peak lifts by an almost invisible degree, the lip line softens slightly, and the breath becomes shallower. Lighting remains warm side-back gold on her edges and cool shadow on the pillar, with soft highlights on the leather surfaces. [Shot 4] At 00:05.0-00:07.4, cut to a near close-up from side waist to hand, the camera slightly low and behind her right side, following in a very small arc. She does not stop walking; instead the torso rotates subtly within the stride, hips and waist connected, as she lifts her left hand to inspect the gold leaf. Emphasize the side waist line, the slight pull and rebound of fabric caused by movement, and the tactile precision of her fingers rolling the fragment. Her gaze gathers inward from distance to fingertips, lashes pressing down, breath becoming very shallow at the nose tip, lips slightly parted without sound, and jawline gently tightening. Hair swings at the shoulder with small inertial delay. The gold leaf trembles in the edge light with weak realistic reflection rather than glitter. This is the second sensual close-up, built from waist, hand, cloth tension, breath, touch, and latent danger. [Shot 5] At 00:07.4-00:10.5, cut to a three-quarter side-front medium close shot. The camera moves in a tiny arc to her left-front and then stabilizes, keeping both her and the right-side wall relationship clear. She completes the last half step, moves close to the right wall, and presses the ultra-thin gold leaf into a nearly invisible crack in the wall. After pressing it in, she does not withdraw the hand immediately; the fingertips stay there for half a second. The crack begins to spread slowly along the buried line of the ancient wall image. Only a few tiny stone grains fall, and dust hangs briefly before settling. Her eyeballs hold, then perform one short refocus. Her brow center does not knot dramatically; both brow peaks draw slightly inward. The middle of the upper lip lifts faintly, the mouth opens by a low degree, and the breath catches once in the throat. She whispers, almost as breath itself, <d>[English] I never left.</d> The line should feel like recognition rather than exposition. Inside the crack there is only a weak gold dust-glow and subtle misalignment in the wall pattern, like memory inside stone being disturbed. No explosion, no beam, no collapse. [Shot 6] At 00:10.5-00:12.8, cut to a face close-up and push in slightly, focusing on the eyes, lips, cheekbone edge-light, and the small muscular changes around the mid-face. Her left hand remains on the wall. She does not retreat. Her eyes stay forward first, then flick for a fraction toward the interior of the wall as if hearing a response within it. The lips remain slightly parted, breath briefly suspended, lower lids slightly tight, and warm gold edge light catches the fine hair along the face. The emotion is a single struck instant of surprise held under extreme control, never a scream, never a wide-open panic. This is the third sensual close-up, centered on parted lips, paused gaze, hair rim light, and high-control micro-expression. [Shot 7] At 00:12.8-00:15.0, maintain the same axis and slowly withdraw from face close-up to medium and then medium-wide without rising, without changing angle, and without entering any new space. As the camera withdraws, it becomes gradually clear that her standing pose, raised arm angle, and head orientation precisely match the pose of an ancient painted goddess on the right wall. The mural does not suddenly appear; instead the old pigment layers, cracks, dust traces, and surviving outline in the wall are gradually revealed as something that was always there and is only now being seen. She does not perform an exaggerated reaction. She simply keeps one unfinished breath in the body. In the final beat, the painted goddess’s eyeball shifts by the smallest possible degree, the gold dust slowly settles back to the floor, and the sequence ends in an elegant uncanny suspended state without cutting to black.
+
+overall_soundscape: Maintain a hollow ancient stone ambience throughout, with low temple air, soft boot pressure on dusted floor, faint grains sliding, fingertips rubbing stone, tiny wall-friction sounds, and restrained breathing. Emphasize boot contact, dust pushed outward by the step, hair moving in warm airflow, fingertip contact with the pillar carving, a fine trickle of stone powder, the fragile peel of the gold leaf, fabric pull-and-release at the waist and torso, the dry whisper of fingers rolling the thin gold leaf, the soft press of gold leaf into the crack, a delicate stone-grain release, faint wall-friction spread as the crack extends, dust pausing in the air, and her near-whispered line <d>[English] I never left.</d> Reduce the space further near the end to breath, tiny skin and cloth movement, microscopic wall resonance, settling dust grains, and the near-inaudible response of the mural’s living eye.
+
+non_diegetic_music: Use little to no score. If any non-diegetic layer is present, keep it to an extremely thin low sustained tonal bed, almost imperceptible, supporting the suspended ancient-memory feeling without turning the sequence into overt fantasy or horror.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/the-fallen-crown-205994/video-22bb1d53e999.webm)
+
+**Source:** [@ou_zhen599](https://x.com/ou_zhen599/status/2101243238334205994) · 14s · 16:9 · horror
+
+---
+
+## 2. 📷“Ruins Bait”
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ruins-bait-198120/video-81216ff2642f.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ruins-bait-198120/poster-a799f827f6ce.jpg" alt="📷“Ruins Bait” video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — For the target video, at 0.00 seconds into the target video, &lt;Picture 1&gt; (from [Shot 1]) is fully referenced. integrated_multimodal_description: [Shot 1] A 15-second, 16:9,...</summary>
+
+~~~~text
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description: [Shot 1] A 15-second, 16:9, cinematic photoreal post-apocalyptic action sequence based on <Picture 1>, unfolding entirely inside the same ruined street with its adjacent broken wall, wrecked car, and rubble zone. Preserve the exact same female protagonist, white war dog, weapon, face, hair, body proportions, tactical leather outfit, hat, gloves, and ruined-street environment throughout. No extra people, no second location, no empty establishing shot, no environment drift, no identity drift. The tone is high-pressure patrol: professional coldness, restrained beauty, tactical dread, and dangerous control. Hard daylight from above and slightly frame-right creates broken shadow bands, hat-shadow pressure around the eyes, and small highlights on hair edge, hat brim, shoulders, waist, and gun metal. [Shot 2] At 00:00.000-00:03.100, begin immediately with the woman, the dog, the wrecked car, and street depth all visible. A low wide tracking camera at dog-shoulder height moves from her left-front as she and the white war dog advance together around the rusted car. Her rifle stays low and ready, angled front-lower. Her movement is alert broken-line patrol, not casual walking. The dog patrols half a body-width ahead on her left, nose slightly raised. Her first layer is controlled readiness: eyes pressing down the street and toward the broken wall, lids slightly lowered, jaw tucked, breathing stable. [Shot 3] At 00:03.100, cut to a moving medium-close from her left-front side. She lifts her leg over twisted rebar and a half-collapsed car door, torso leaning forward, hips and waist engaging cleanly. The leather suit shows crisp stretch and highlight shifts across chest, shoulders, waist, and hips. As she lands, she shortens the dog’s tether and draws it back half a step closer while keeping the gun stable. She glances toward the broken wall, brow center tightening slightly, breath shorter and closer, and says in a low controlled voice: <d>[English] Easy. Stay close.</d> [Shot 4] At 00:05.500, return to a wide medium tracking shot from left-front, drifting slightly right to leave negative space around the wall shadow. The dog suddenly freezes, lowers its front legs, and begins a low growl while staring behind the broken wall. She does not stop. She smoothly lifts the rifle from low ready into prepared firing position and takes two more compressed steps. Her gaze, shoulder line, and rifle align toward the wall. The progression sharpens: lids open a fraction, pupils focus harder, lips part once then seal, nostrils flare slightly, neck and jawline harden. She says: <d>[English] I heard that. Show yourself.</d> [Shot 5] At 00:08.400, move into the action climax on a normal field of view, camera slightly below chest height with restrained operator inertia. Rubble and rebar behind the wall erupt and a single infected ruin-zombie lunges straight out from the front. The zombie has real forward weight and ruin texture: partial facial decay, gray skin, damaged clothing, concrete dust, and debris, never excessive gore. She reacts within her own forward momentum, performing one fast controlled sliding half-step to create clearance while raising the rifle directly into the attack path. Just before firing she says one short cold line: <d>[English] Back off.</d> Then she fires one close-range shot. The muzzle flash is brief, recoil travels clearly through her arms and shoulder, and the muzzle is immediately controlled back down. The zombie’s head-and-neck zone takes a restrained but effective hit: a short blood mist, a few heavier droplets, gray dust, and wall powder burst together, then the body loses balance and is thrown sideways back into the broken wall. Debris rebounds, dust falls, muzzle smoke lingers briefly, and a small amount of blood remains in the rubble cracks and wall edge. Her face stays cold and lethal: pupils contract, jaw locks, eyes crush down on the target, no scream, no exaggerated mouth opening. [Shot 6] At 00:13.000, continue in the same visual language, moving slightly to her right-rear side in a close following shot. The zombie twitches once and then becomes still at the wall. The dog surges forward by half a step, still growling low toward the corpse. She crosses her left arm over to press the dog’s neck and shoulders back under control while keeping the rifle aimed forward. Her boots step past the blood-dusted rubble and she pushes deeper into the street with the dog. Her side face cuts briefly across frame. The final expression shifts from kill pressure back into patrol control: eyes remain sharp, but the mouth corner presses slightly downward with fatigue, irritation, and cold numbness, as if this was only one more obstruction. She says: <d>[English] Move. We keep walking.</d> End while she and the dog continue forward into the same environment, with wind through hollow buildings, airborne dust, and gun smoke thinning.
+
+overall_soundscape: Keep the sound dominated by environmental realism: dry wind through ruined structures, boots on broken concrete and grit, tether movement, the dog’s breathing, growl, and short bark, wall impact, one gunshot, the zombie body striking rubble, and settling dust. Bring the obstacle crossing into close detail with leather strain, gear movement, rebar contact, and her low line <d>[English] Easy. Stay close.</d> Reduce broad ambience slightly before the attack so the dog’s growl, dust roll, and tightening breath stand out, then let the wall burst, rubble crack, zombie weight, <d>[English] Back off.</d>, the single firearm report, and the heavy body slam land clearly. Finish with the dog’s restrained aggression, boots passing the corpse, her final line <d>[English] Move. We keep walking.</d>, and the return of wind and drifting dust.
+
+non_diegetic_music: Use no score or only an extremely faint low-frequency tension bed. If present, it should stay nearly subliminal and never overpower footsteps, dog behavior, gear movement, or the single gunshot. Let the clip be carried by environmental pressure, patrol rhythm, and the clean violence of the interruption.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/ruins-bait-198120/video-81216ff2642f.webm)
+
+**Source:** [@ou_zhen599](https://x.com/ou_zhen599/status/2099408343962198120) · 14s · 16:9 · horror
+
+---
+
+## 3. MiniMax Hailuo H3 Max on
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-hailuo-h3-max-on-620144/video-0479e1e47a6a.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-hailuo-h3-max-on-620144/poster-bea05f14e385.jpg" alt="MiniMax Hailuo H3 Max on video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — 1 continuous shot. Total duration 15 seconds, no cuts. Normal speed, strictly objective and smooth camera. CAPTURE CADENCE CRITICAL: captured natively at 24fps, strict 16:9 aspect...</summary>
+
+~~~~text
+1 continuous shot. Total duration 15 seconds, no cuts. Normal speed, strictly objective and smooth camera.
+
+CAPTURE CADENCE  CRITICAL: captured natively at 24fps, strict 16:9 aspect ratio, IMAX film look, deep cinematic contrast, pure practical lighting. NO ON-SCREEN TEXT.
+
+THE 2-SECOND HOOK (0.0 to 2.0s): Extreme close-up of a warm, glowing, 8mm vintage film projection showing a smiling man in a sunlit park. The image is bright and nostalgic. Suddenly, the camera shifts an inch to the side, revealing that this beautiful memory is being projected directly onto the terrifying, pale, scarred face of a silver-eyed infected. The infected is standing dead still, mesmerized by the light.
+
+SEQUENCE (2.0s to 15.0s): The camera pulls back slowly and smoothly in a wide 16:9 dolly out movement to reveal the dark, ruined interior of an abandoned theater. The Subject Lock  a young, slim female survivor with fair skin, wearing a dusty, torn modern navy blue dress  stands a few feet away. She is holding a heavy, battery-powered vintage film projector, aiming the beam directly at the infected (who is clearly her transformed loved one). Tears are streaming down her clean face, her hands trembling under the weight of the projector, but she holds it steady, keeping him pacified with the memory.
+
+World Plate: Pitch black room, the only light source is the harsh, flickering beam of the projector cutting through heavy atmospheric dust, creating stark, emotional shadows.
+
+Camera Rule: Smooth, emotional dolly out. Real tear physics on the woman's face, highly detailed skin textures, pure practical projection light interaction with the infected's skin, no CGI look, completely photorealistic.
+
+ (Sound Design & Music):[0.0s - 2.0s]: The warm, nostalgic, mechanical ticking and whirring sound of an old 8mm film projector. A faint, distant sound of a man laughing.
+[2.0s - 10.0s]: A deeply emotional, singular Hans Zimmer-style church organ chord begins to swell, incredibly sad and heavy. Beneath it, the terrifying, raspy, irregular breathing of the infected, contrasting with the beautiful music. The mechanical whir of the projector remains constant.
+[10.0s - 15.0s]: The woman lets out a single, quiet, trembling gasp of air (trying to hold back a sob). The beautiful organ chord slowly distorts and bends out of tune, swallowed by a dark, looming cinematic sub-bass rumble as the reality of the tragedy sets in. Fade to silence on the final frame.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-hailuo-h3-max-on-620144/video-0479e1e47a6a.webm)
+
+**Source:** [@bmx_ai13](https://x.com/bmx_ai13/status/2097213092954620144) · 15s · 7:4 · horror
+
+---
+
+## 4. 動画プロンプトはリプ欄に
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-010351-010351/video-7e9e767d9993.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-010351-010351/poster-a3d71659bc86.jpg" alt="動画プロンプトはリプ欄に video preview" width="700" />
@@ -23,7 +112,7 @@ KAWAII HORRORミュージックビデオを完成させる。これは映像と�
 
 ---
 
-## 2. Horror Film Study 836142
+## 5. Horror Film Study 836142
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/the-real-horror-wasn-t-the-ghost-it-was-trusting-836142/video-870106c1d95d.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/the-real-horror-wasn-t-the-ghost-it-was-trusting-836142/poster-cf71c1889ddc.jpg" alt="Horror Film Study 836142 video preview" width="700" />
@@ -50,7 +139,7 @@ KAWAII HORRORミュージックビデオを完成させる。これは映像と�
 
 ---
 
-## 3. Horror Film Study 335284
+## 6. Horror Film Study 335284
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/found-footage-film-with-335284/video-d0f6e38d9844.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/found-footage-film-with-335284/poster-40daaaf7a40d.jpg" alt="Horror Film Study 335284 video preview" width="700" />
@@ -71,7 +160,7 @@ KAWAII HORRORミュージックビデオを完成させる。これは映像と�
 
 ---
 
-## 4. Is this real? I honestly can’t believe it 😱😮
+## 7. Is this real? I honestly can’t believe it 😱😮
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/is-this-real-i-honestly-cant-believe-it-988527/video-bf9310e39939.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/is-this-real-i-honestly-cant-believe-it-988527/poster-87bf19bf8e78.jpg" alt="Is this real? I honestly can’t believe it 😱😮 video preview" width="700" />
@@ -109,7 +198,7 @@ Jesse remains completely emotionless, silently staring at Dwight while holding t
 
 ---
 
-## 5. Desert Buggy Combat Chase
+## 8. Desert Buggy Combat Chase
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-16-9-photoreal-cinematic-action-sequence-with-743096/video-fac1842f50c4.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-16-9-photoreal-cinematic-action-sequence-with-743096/poster-a828d66e929b.jpg" alt="Desert Buggy Combat Chase video preview" width="700" />
@@ -231,7 +320,7 @@ No subtitles, titles, logos, watermarks, additional racers, pedestrians, creatur
 
 ---
 
-## 6. Luminous Creature in a Dusk Kitchen
+## 9. Luminous Creature in a Dusk Kitchen
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/15-seconds-16-9-landscape-blend-live-action-footage-of-867462/video-186f665474fa.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/15-seconds-16-9-landscape-blend-live-action-footage-of-867462/poster-12f86ca52100.jpg" alt="Luminous Creature in a Dusk Kitchen video preview" width="700" />
@@ -254,7 +343,7 @@ No subtitles, titles, logos, watermarks, additional racers, pedestrians, creatur
 
 ---
 
-## 7. Cyberpunk Ice-Blue Character Awakening
+## 10. Cyberpunk Ice-Blue Character Awakening
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-source-image-and-first-frame-221921/video-7bd2fd15e422.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-source-image-and-first-frame-221921/poster-4917e9fd5c81.jpg" alt="Cyberpunk Ice-Blue Character Awakening video preview" width="700" />
@@ -275,7 +364,7 @@ Use the uploaded image as the exact source image and first frame. Preserve the o
 
 ---
 
-## 8. 1970s Shibuya Urban-Legend Horror
+## 11. 1970s Shibuya Urban-Legend Horror
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/1970-japanese-urba-207488/video-76b98520e830.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/1970-japanese-urba-207488/poster-fe772a707df9.jpg" alt="1970s Shibuya Urban-Legend Horror video preview" width="700" />
@@ -329,7 +418,7 @@ Use the uploaded image as the exact source image and first frame. Preserve the o
 
 ---
 
-## 9. Containment Breach in a Sterile Lab
+## 12. Containment Breach in a Sterile Lab
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/slow-motion-handheld-close-up-16-9-shaky-organic-handhe-994748/video-bf061cee3029.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/slow-motion-handheld-close-up-16-9-shaky-organic-handhe-994748/poster-a47bef0e059f.jpg" alt="Containment Breach in a Sterile Lab video preview" width="700" />

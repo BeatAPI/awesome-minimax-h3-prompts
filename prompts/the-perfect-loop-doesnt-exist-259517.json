@@ -1,0 +1,31 @@
+{
+  "slug": "the-perfect-loop-doesnt-exist-259517",
+  "title": {
+    "en": "The perfect loop doesn’t exist..",
+    "zh": "The perfect loop doesn’t exist.."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @SoftRenderAi.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "27s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@SoftRenderAi",
+    "url": "https://x.com/SoftRenderAi/status/2089272051710259517"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/SoftRenderAi/status/2089272051710259517"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/the-perfect-loop-doesnt-exist-259517/video-f3720b1d66c3.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/the-perfect-loop-doesnt-exist-259517/poster-ed98690cea83.jpg",
+  "prompt": "[Create a perfect loop where end frame corresponds to the first frame.]"
+}

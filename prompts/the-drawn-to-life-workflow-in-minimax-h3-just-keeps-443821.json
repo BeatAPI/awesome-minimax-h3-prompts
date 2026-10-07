@@ -1,0 +1,31 @@
+{
+  "slug": "the-drawn-to-life-workflow-in-minimax-h3-just-keeps-443821",
+  "title": {
+    "en": "The \"drawn-to-life\" workflow in Minimax H3 just keeps getting better. 💥🪄",
+    "zh": "The \"drawn-to-life\" workflow in Minimax H3 just keeps getting better. 💥🪄"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @amadeus_NFT.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+  },
+  "category": "music-video",
+  "mode": "reference-to-video",
+  "duration": "16s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@amadeus_NFT",
+    "url": "https://x.com/amadeus_NFT/status/2096657714579443821"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/amadeus_NFT/status/2096657714579443821"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/the-drawn-to-life-workflow-in-minimax-h3-just-keeps-443821/video-181c7e3f5b3f.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/the-drawn-to-life-workflow-in-minimax-h3-just-keeps-443821/poster-98d70b71e564.jpg",
+  "prompt": "subject_definitions\n<Subject 1> is the drawn boxer whose appearance, black outlines, white shorts with red accents, and spatial relationship with the physical tomato come from <Picture 1>.\n<Subject 2> is the physical red tomato placed on the white paper, whose lighting and contact shadow come from <Picture 1> and <Picture 2>.\n<Picture 1> is the image , used as a reference image for the composition anchor, character design, and layout.\n<Picture 2>  used as a storyboard reference for the drawing progression and lighting.\n\nsummary\n[reference generation] The target video is a single continuous extreme close-up shot where a physical red tomato on full-frame lightly textured white paper is incorporated into a live sketch of a boxer. The drawn boxer (<Subject 1>) comes to life, locks eyes with the lens, and punches the physical tomato (<Subject 2>), splattering it onto a locked perpendicular top-down camera.\n\nretention_analysis\n<Subject 1> (appears in [Shot 1]): fully_preserved - the boxer's design and spatial positioning are accurately maintained.\n<Subject 2> (appears in [Shot 1]): fully_preserved - the physical tomato remains a static 3D prop until it is punched.\n<Picture 1> ([Shot 1] composition anchor): partially_preserved - the exact spatial layout is maintained, but the drawn boxer will animate.\n<Picture 2> ([Shot 1] storyboard reference): weak_reference - the sequence progression of drawing and lighting is adapted into a continuous fluid motion.\n\ndetailed_description\n[Shot 1] A locked perpendicular top-down camera holds an extreme close-up view focused entirely on full-frame lightly textured white paper. There is no desk, no table, no visible paper edges, and no page corners anywhere in the frame. Under even studio lighting, <Subject 2>, a real three-dimensional red tomato, sits completely static on the paper, casting a soft contact shadow. A human hand holding a pencil enters the frame and rapidly sketches <Subject 1>, the body of a boxer, around the static tomato. The hand first draws black outlines, then switches to a red pencil for the shorts and the other glove. <Subject 2> remains entirely motionless, serving as the boxer's extended glove. The hand pulls completely out of the frame and does not return. The drawn boxer and the tomato remain motionless for a brief beat. Suddenly, <Subject 1> animates into motion. His jaw sets tight, brows pull down, and his eyes lock directly onto the camera lens in a dead-center gaze. Maintaining this unbroken eye contact, he shifts his weight and throws a heavy punch straight upward. This action launches <Subject 2> directly off the paper toward the lens. The tomato violently strikes the camera lens and bursts, with thick red juice, pulp, and seeds splattering across the glass, completely covering the frame and obscuring the view. There are no scene cuts throughout.\n\noverall_soundscape\nNear-silent room tone with a faint low bed under it. Rapid graphite scratching on textured paper as the hand draws. A sharp paper rustle and air whoosh when the boxer punches, ending with a heavy wet splat as the tomato hits the lens.\n\nnon_diegetic_music\nNone."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "created-using-minimax-h3-on-852344",
+  "title": {
+    "en": "Created using Minimax H3 on",
+    "zh": "Created using Minimax H3 on"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @TheJumbledSoul.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+  },
+  "category": "music-video",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "4:7",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@TheJumbledSoul",
+    "url": "https://x.com/TheJumbledSoul/status/2101302250752852344"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/TheJumbledSoul/status/2101302463009599632"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-using-minimax-h3-on-852344/video-137186aebdb7.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-using-minimax-h3-on-852344/poster-91ab54cf2270.jpg",
+  "prompt": "Use @[char ref] for the potter's identity, face, amber eyes, blue-black hair cut blunt at the jaw with the short copper-bound braid at her right temple, the fine gold kintsugi seams on her left cheek and chest, the white porcelain right forearm and hand joined by fine gold lacquer, the long open indigo wrap robe over cream wrapped linen, the wide brown leather belt hung with small steel tools, and her bare feet with grey clay dust dried across the shins. Preserve her proportions. Ignore the sheet's backdrop and repeated views. Invent no accessories; the only objects are the wheel, the clay and the water basin.\n\nCinematic 2D anime with clean linework, cel shading and painted surfaces. A dim workshop: plank walls, shelves of unfired pots receding into shadow, a water basin on the bench, a cool blue window behind her and one warm lamp hanging low at screen-left. Amber key against blue shadow. Wet clay holds a dull sheen; the porcelain forearm reads matte against skin; the gold seams catch the lamp and flare.\n\nFormat: 15 seconds, 9:16 vertical, 3 shots joined by hard cuts, real time, no slow motion, no dialogue.\n\nGeography lock: she sits behind the wheel facing camera, the lamp always at screen-left, the window always behind her, the basin at screen-right on the bench. The camera stays on the near side of the wheel and never crosses behind her. The clay sits at the centre of the wheel head for the whole film.\n\nMechanics: the wheel turns continuously and never stops. Her skin hand works the outside of the form, the porcelain hand the inside. The clay obeys pressure: it rises where the hands narrow, thins as it climbs, and once the wall is too thin it cannot recover, so it leans and folds rather than springing back. One lump of clay throughout, never replaced.\n\nCamera grammar: one move per shot, coupled to the clay. Push in as the form rises, hold still when she reacts, push again as she restarts. Keep the wheel head and her hands in frame together during work, and keep the whole face in frame during the reaction. Brake briefly on the collapse so it reads.\n\n0-3s, shot 1: Close three-quarter from just above the wheel, looking down across her forearms to the clay. The grey column turns fast between her hands; the wall lifts and narrows as her palms close. Clay slicks the gold seams in the porcelain. The camera pushes in slowly.\n\n3-5.5s: Continue the same shot. The wall climbs taller and thinner, ribbing into fine spiral ridges. A fleck of clay flicks off the rim and crosses the lamp beam. The tools at her belt sway with her breathing.\n\n5.5-8s: Continue. The rim begins to waver, tips off centre, and the wall folds over on itself and settles into a low collapsed spiral. Her hands lift clear and hold above it, fingers open. Cut on the hands stopping.\n\n8-11.5s, shot 2: Hard cut to a locked close-up of her face, lamp hard from the left, window light rimming her jaw. She looks down at the ruin and her jaw sets. The gold seam on her cheek flares in the lamp. Her shoulders drop, breath goes out, and the corner of her mouth lifts into a small closed-lip smile. The copper-bound braid swings once against her neck. Cut on the smile arriving.\n\n11.5-15s, shot 3: Hard cut to a low angle just above the wheel head, her hands entering from above. The porcelain hand presses the collapsed spiral down into a rounded mound and holds it centred while her other hand drives the wheel edge and the wheel accelerates. Her thumb sinks and opens a shallow new bowl, and the clay runs true again. The camera pushes in slowly. End on the clay turning, no held pose, no further cut.\n\nSound: the wheel's steady electric hum throughout, the low rumble of turning clay, water trickling in the basin, the soft heavy fold of the collapse, one quiet breath out, the creak of the leather belt, and the wheel rising to a faster whir at the end. No music. No subtitles, captions, logos, title cards or overlays."
+}

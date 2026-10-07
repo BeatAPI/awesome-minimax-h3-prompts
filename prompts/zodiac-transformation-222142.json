@@ -1,0 +1,31 @@
+{
+  "slug": "zodiac-transformation-222142",
+  "title": {
+    "en": "Zodiac Transformation",
+    "zh": "Zodiac Transformation"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 fashion prompt with attached video evidence from @aimikoda.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3时尚提示词。"
+  },
+  "category": "fashion",
+  "mode": "reference-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@aimikoda",
+    "url": "https://x.com/aimikoda/status/2095946000070222142"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/aimikoda/status/2095946000070222142"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/zodiac-transformation-222142/video-01d8791aa176.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/zodiac-transformation-222142/poster-d5f5b2499e24.jpg",
+  "prompt": "[ZODIAC] = Sagittarius\n\nUse the provided character reference as the fixed identity, face, body proportions, hairstyle, and starting outfit. The sequence must begin with the character clearly wearing the exact clothing and overall look from the reference image. Start from the referenced outfit, then transform it into a celestial zodiac-inspired magical-girl form.\n\nCreate a highly detailed cinematic transformation sequence with the energy of a classic 90s magical-girl anime metamorphosis, but rendered in high-end cinematic 3D realism fused with celestial fantasy spectacle. The transformation must feel elegant, iconic, elaborate and emotionally satisfying. It should not be a quick glow-up. It must be a full staged transformation with many visible steps and signature beauty shots.\n\nThe transformation must be continuous and cumulative. Every new element remains once created. No random morphing, no disappearing parts, no resets.\n\nTransformation structure:\n1. Start with the character in the original reference outfit.\n2. Subtle astral energy appears: floating cosmic dust, soft light blooms, magical currents, constellation traces, luminous sigils, moonlike glow.\n3. The transformation begins in close-up stages: glowing lines travel across the body, fabrics flutter upward, ribbons of light wrap around arms, waist and legs, jewelry-like light forms at the wrists, chest and neck, shoes and gloves begin to reshape, accessories appear in flashes of celestial energy.\n4. The outfit evolves piece by piece in a detailed magical-girl transformation style. Skirt layers, sleeves, gloves, boots, ornaments, brooch-like centerpieces, shoulder details, celestial trims and zodiac motifs form one after another through radiant energy, crystal particles and flowing light bands.\n5. Hair, aura and silhouette become more divine and refined, while still preserving the original character identity.\n6. The final outfit must clearly express [ZODIAC]. The zodiac influence should be visible in the costume design itself through color palette, motifs, ornaments, shapes, textures, elemental energy and symbolic details. Do not rely only on a text label or a single zodiac icon. Make the sign readable through the full fashion language of the costume.\n7. End on a dramatic hero reveal of the fully transformed zodiac form.\n\nFor [ZODIAC], translate the sign into the costume design and atmosphere. The final look should visibly communicate the sign’s essence. Example logic: Scorpio can use sleek segmented ornamentation, deep obsidian and crimson tones, subtle tail-like silhouette accents, venomous elegance, mysterious intensity and dangerous beauty. Other signs should also be reflected through equally clear visual symbolism in the transformed costume.\n\nHigh-end cinematic 3D realism fused with celestial fantasy spectacle. Brilliant magical currents bloom into radiant constellations, luminous sigils and flowing cosmic particles that illuminate every movement. The camera glides with graceful precision, then accelerates into dynamic celestial motion, orbiting the character, pushing through expanding energy rings, diving through layered light formations and emerging behind incoming magical effects in seamless transitions. Include iconic transformation shots such as close-ups of the eyes, hands, boots, accessories, silhouette reveals and full-body floating spins. Ethereal fog, layered volumetric light, shimmering atmospheric dust and physically based rendering create immense scale while preserving elegant silhouettes and feature-film realism.\n\nAs the final reveal settles, elegant typography appears in the lower-left corner displaying exactly:\n[ZODIAC]\n\nThe typography should feel refined, celestial and premium, with graceful high-contrast letterforms, subtle glow, delicate spacing and luxury fantasy title-design sensibility. Keep it clearly readable and naturally integrated into the frame. No additional text.\n\nEnd with the fully transformed character in a breathtaking zodiac-inspired celestial realm, wearing an evolved astral version of the original outfit, with the zodiac clearly expressed through the costume itself."
+}

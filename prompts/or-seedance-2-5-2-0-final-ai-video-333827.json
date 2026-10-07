@@ -1,0 +1,31 @@
+{
+  "slug": "or-seedance-2-5-2-0-final-ai-video-333827",
+  "title": {
+    "en": "🎥 or Seedance 2.5/2.0 → Final AI video",
+    "zh": "🎥 or Seedance 2.5/2.0 → Final AI video"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 product commercial prompt with attached video evidence from @drjoetw.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+  },
+  "category": "product-commercial",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@drjoetw",
+    "url": "https://x.com/drjoetw/status/2083774630767333827"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/drjoetw/status/2083774630767333827"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/or-seedance-2-5-2-0-final-ai-video-333827/video-0f5f2b25a681.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/or-seedance-2-5-2-0-final-ai-video-333827/poster-5b01c51a4f1a.jpg",
+  "prompt": "🤡👇)\n\nA 15-second stop-motion miniature video with Chinese narration. On a warm wooden table, a handcrafted miniature filmmaking workflow unfolds from left to right. The opening hook features a tiny romantic couple passionately kissing beneath a beautifully crafted miniature Eiffel Tower in Paris. The camera slowly pans horizontally before transitioning into five miniature production stations connected as one seamless creative pipeline. The first station shows a tiny laptop displaying Google AI Mode, where miniature creators search for story ideas and reference materials. The second station features a miniature computer running ChatGPT, where a complete screenplay magically appears line by line. The third station showcases GPT Image transforming text prompts into detailed character portraits and cinematic concept art. The fourth station presents miniature filmmakers using Seedance 2 or Seedance 2.5 to animate those images into smooth AI-generated short films, with tiny cameras, monitors, and editing equipment surrounding the workspace. The final station ends with colorful miniature cinema screens displaying completed AI short dramas while joyful tiny creators celebrate together. Realistic clay figurines, handcrafted miniature props, warm cinematic lighting, shallow depth of field, and a tilt-shift lens effect create the illusion of a tiny living world. Calm Mandarin Chinese narration explains the entire AI short drama creation process in one continuous long shot, ending with the cheerful English phrase: \"Have fun creating videos!\"\n\n#AIVideo #AIMovie #AIFilm #AIDrama #sd2 #seedance"
+}

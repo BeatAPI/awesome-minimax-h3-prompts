@@ -1,0 +1,31 @@
+{
+  "slug": "created-with-minimax-h3-in-717935",
+  "title": {
+    "en": "Created with Minimax H3 in",
+    "zh": "Created with Minimax H3 in"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @airina_xyz.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+  },
+  "category": "music-video",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "7:4",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@airina_xyz",
+    "url": "https://x.com/airina_xyz/status/2097304488717717935"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/airina_xyz/status/2097304501262995790"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-in-717935/video-9b2e1f4607c5.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-in-717935/poster-1bb76007c67d.jpg",
+  "prompt": "LEVEL UP YOURSELF — Retro Pixel-Art Arcade World\n\n15-second, 16:9 high-energy 16-bit pixel-art motion-graphics film. 1990s arcade aesthetic, limited neon palette, chunky pixels, CRT scanline accents, sprite animation, parallax platforming environments, exaggerated game UI motion. Never photorealistic.\n\nSUBJECT / MOTIFS: An ordinary Level-1 character gains tiny “identity pixels” whenever they complete a simple positive action. There is no instant transformation; the sprite evolves only after many repetitions.\n\nTEXT LEDGER — only readable text:\n“EVERY ACTION = 1 VOTE”\n“+1”\n“+1”\n“+1”\n“THE EVIDENCE BUILDS”\n“IDENTITY UPDATED”\n\nVISUAL CAUSALITY LAW: Every completed action awards exactly one glowing pixel. Pixels accumulate visibly around the character and eventually redraw their sprite.\n\nCHOREOGRAPHY — 8 shots:\n0:00–0:01.5 — Arcade boot-up burst. Tiny neutral sprite stands center screen. Giant pixel text glitches in: “EVERY ACTION = 1 VOTE”.\n0:01.5–0:03 — Character opens a pixel book. Bleep! One gold square pops out: “+1”. Camera chases it upward.\n0:03–0:04.5 — Match-cut: sprite jumps onto treadmill platform. One running step triggers another “+1”.\n0:04.5–0:06 — Character rejects a giant flashing distraction button and walks past it. Third “+1” shoots into a meter.\n0:06–0:07.7 — Meter is still almost empty. Camera zooms inside one lonely pixel, emphasizing that one action is tiny.\n0:07.7–0:09.8 — Rapid 12-frame action cascade: read, run, create, clean, practice, sleep; dozens of +1 pixels stream into the meter.\n0:09.8–0:12 — Meter bursts open; pixels swarm around the character, redrawing posture, clothing and aura one square at a time. Text: “THE EVIDENCE BUILDS”.\n0:12–0:15 — Character steps through a pixel portal. New stronger sprite lands in hero pose while UI stamps: “IDENTITY UPDATED”. Camera crash-zooms into one glowing pixel.\n\nSOUND / MUSIC: Button clicks, coin pings, crunchy 8-bit footsteps, item pickups, CRT buzz, level-up arpeggio. Chiptune beat accelerates with the accumulation and locks tightly to every +1.\n\nTYPOGRAPHY: Crisp bitmap font only; high-contrast dark outline on all bright-background text.\n\nCAMERA / MOTION: Side-scroll tracking, crash zooms, sprite smear frames, pixel tunnels, parallax levels, screen shakes on major beats.\n\nFAILURE CONTROLS: No modern 3D game graphics, no smooth vector shapes, no random UI text, no extra score numbers beyond specified +1 symbols."
+}

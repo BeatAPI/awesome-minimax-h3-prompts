@@ -1,0 +1,31 @@
+{
+  "slug": "hailuo-h3-one-drop-fifteen-seconds-the-crown-takes-seven-315301",
+  "title": {
+    "en": "Hailuo H3. One drop, fifteen seconds. The crown takes seven of them.",
+    "zh": "Hailuo H3. One drop, fifteen seconds. The crown takes seven of them."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @GlennHasABeard.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "1024:585",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@GlennHasABeard",
+    "url": "https://x.com/GlennHasABeard/status/2096978477291315301"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/GlennHasABeard/status/2096978477291315301"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-one-drop-fifteen-seconds-the-crown-takes-seven-315301/video-0579987ad3bb.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-one-drop-fifteen-seconds-the-crown-takes-seven-315301/poster-ecb598d8c233.jpg",
+  "prompt": "\"the rim rises into a crown of thin spikes each with a bead at its tip, the crown hangs at full height\"\n\nDuration: 15s. Camera: locked at surface level.\n\nSlow motion is not a style word. It is the time range you give the event. Seven seconds for a splash is the slow motion."
+}

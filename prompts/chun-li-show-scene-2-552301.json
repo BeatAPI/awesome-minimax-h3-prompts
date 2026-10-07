@@ -1,0 +1,31 @@
+{
+  "slug": "chun-li-show-scene-2-552301",
+  "title": {
+    "en": "🥋“Chun-Li Show, Scene 2”",
+    "zh": "🥋“Chun-Li Show, Scene 2”"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 action prompt with attached video evidence from @ou_zhen599.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动作提示词。"
+  },
+  "category": "action",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ou_zhen599",
+    "url": "https://x.com/ou_zhen599/status/2094073241694552301"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/ou_zhen599/status/2094073241694552301"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/chun-li-show-scene-2-552301/video-77b519f40493.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/chun-li-show-scene-2-552301/poster-9f206aba825c.jpg",
+  "prompt": "For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.\n\nintegrated_multimodal_description: [Shot 1] Live-action, cinematic realism, high-speed martial arts showcase. Chun-Li fully matches <Picture 1>: same face, hair, twin buns with white ribbons, blue modified qipao combat dress, gold trim, black waist sash, spiked wrist cuffs, leg lines, white socks, white-gold sneakers, and overall Chun-Li presence. The first frame must begin from the exact low fighting stance in <Picture 1> and continue seamlessly with no pose reset, no standing restart, and no delay. IMAX 70mm film grain, Nolan-inspired cinematic realism, photorealistic natural palette with charcoal black, umber, dark ochre, ash gray, and pale amber interwoven. Low-angle medium close-up to medium shot, camera tightly attached to Chun-Li with subtle sink, light push, slight lateral drift, smooth arc follow, and small pullback only when needed. Chun-Li comes alive directly from the first-frame stance, says in a friendly, relaxed, confident voice (S1): <d>[English] First... Kikoken.</d> and immediately drives a real Kikoken palm release with forward pressure. She slides in closer, lowers her weight, says <d>[English] Hyakuretsukyaku.</d> and bursts into very fast chained lightning kicks. Without stopping, she recoils, rotates through the waist, changes side, reins in for half a breath, lightly resets one hand, and says <d>[English] Ready for the next one?</d> She instantly drops back into rhythm, loads upward, says <d>[English] Tensho Kicks.</d> and fires a compact vertical explosive kicking sequence with clean upward leg action and controlled landing. She then rotates straight into a Spinning Bird Kick-style finishing phrase with a clear circular body line, fast readable rotational legwork, and no exaggerated long inversion. She lands cleanly, returns to Chun-Li’s live defensive guard, steadies her breath while ribbons and skirt continue to sway, raises one hand with relaxed master-level dominance, and says <d>[English] Classic, right?</d> She ends in a beautiful but practical signature stance with complete control. The whole video must feel like real Street Fighter 6 Chun-Li combat showcase: fast, sharp, smooth, elegant, tactical, and never dance-like, cartoonish, messy, or generic.\n\noverall_soundscape: Sharp breathing, shoe friction, fabric and ribbon snaps, light arena smoke drift, and crisp body-driven impact air.\n\nnon_diegetic_music: Tight hybrid percussion and restrained low electronic pulses at a fast tempo, mixed lightly beneath the action."
+}

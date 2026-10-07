@@ -1,0 +1,31 @@
+{
+  "slug": "made-with-minimax-h3-on-206139",
+  "title": {
+    "en": "Made with MiniMax H3 on",
+    "zh": "Made with MiniMax H3 on"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 fashion prompt with attached video evidence from @itxabdullaa.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3时尚提示词。"
+  },
+  "category": "fashion",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@itxabdullaa",
+    "url": "https://x.com/itxabdullaa/status/2099115096937206139"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/itxabdullaa/status/2099115096937206139"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-on-206139/video-06dfb3bbf918.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-on-206139/poster-d6f6ecebdc38.jpg",
+  "prompt": "FORMAT: 15s | 16:9 | continuous cinematic sequence\n\nCONCEPT: Dark-fantasy sword duel inside a gigantic floating liquid-obsidian mirror surrounded by a pure white void. Reflections briefly move independently, creating deceptive attacks.\n\nCHARACTER LOCK:\nObsidian Ronin: exact reference design, horned kabuto, black mane, dark/gold armor, heavy katana. Heavy, controlled, powerful.\nInkshade Valkyrie: exact reference design, porcelain face, two-tone hair, silver-black gothic armor, dissolving cloak, twin blades. Fast, aerial, unpredictable.\nNo redesign.\n\nSTYLE: Luxury dark-fashion aesthetic, glossy black mirror, silver highlights, smoke, cracks, particles, cinematic motion blur. No blood, gore, guns, battlefield, idle poses, teleportation, hard cuts, or freeze frames.\n\n0–3s\n\nWhite void. Black mirror materializes and ripples. Ronin and Valkyrie emerge from opposite reflections and collide immediately. Huge ripple; reflections continue fighting independently.\n\n3–6s\n\nLow camera sweep. Ronin heavy slash → Valkyrie ducks and spins → reflections counter from opposite directions → Ronin blocks → Valkyrie X-slash. Cracks spread across mirror.\n\nSmoke forms: REAL OR REFLECTION? then shatters.\n\n6–9s\n\nMirror turns vertical. Both run across it. Ronin overhead strike → Valkyrie aerial dodge → lands behind him → Ronin pivots and blocks. Blades lock; mirror bends like liquid glass. Shockwave separates them.\n\n9–12s\n\nMirror explodes into floating fragments containing distorted reflections. Ronin and Valkyrie leap through them, destroying reflections. Fragments align into a giant black blade shape.\n\nSmoke forms: BREAK THE IMAGE → Valkyrie slices through it.\n\n12–15s\n\nBrief stillness. Fragments rush together. Both charge. Ronin’s diagonal katana strike and Valkyrie’s spinning twin-blade cross attack collide center-frame.\n\nMirror shatters into thousands of particles. Music cuts to silence.\n\nSmoke forms: ONLY ONE REMAINS. Their silhouettes fade as the white void consumes everything.\n\nMOTION: Constant action, clear impact/consequence, natural hair/cloak/particle physics.\nCAMERA: Smooth orbit → low sweep → rapid rotation → dramatic final push.\nAUDIO: Dark electronic-orchestral score, bass, cello, metallic impacts, blade whistles; silence at final collision.\n\nFINAL LOOK: Elegant, aggressive, surreal dark-fashion sword cinema."
+}

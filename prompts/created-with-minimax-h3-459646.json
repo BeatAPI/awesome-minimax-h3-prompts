@@ -1,0 +1,31 @@
+{
+  "slug": "created-with-minimax-h3-459646",
+  "title": {
+    "en": "Created with MiniMax H3",
+    "zh": "Created with MiniMax H3"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 product commercial prompt with attached video evidence from @aiwithaly.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+  },
+  "category": "product-commercial",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@aiwithaly",
+    "url": "https://x.com/aiwithaly/status/2084141213574459646"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/aiwithaly/status/2084141213574459646"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-459646/video-c902a571c039.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-459646/poster-dd92d1b8893f.jpg",
+  "prompt": "A cinematic 15-second ultra-realistic story following a young woman who discovers a secret rooftop garden hidden above a busy city. Carrying a watering can, she opens an old rooftop door and finds a breathtaking oasis filled with colorful flowers, climbing vines, butterflies, and birds glowing in the warm morning sunlight. She explores the magical garden, gently touching blooming flowers as sunlight filters through leaves and golden particles float through the air. The scene ends with her relaxing on a wooden bench, sipping tea while overlooking the city skyline from her peaceful hidden retreat. Smooth cinematic camera movements, realistic environmental interactions, natural wind and foliage motion, detailed textures, emotional storytelling, premium commercial aesthetic, ARRI Alexa 35-inspired visuals, 4K HDR quality, seamless character consistency, no text, no logos."
+}

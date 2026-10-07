@@ -1,0 +1,31 @@
+{
+  "slug": "give-it-a-try-and-see-what-you-can-create-843620",
+  "title": {
+    "en": "Give it a try and see what you can create. Link in the comments.",
+    "zh": "Give it a try and see what you can create. Link in the comments."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 vlog prompt with attached video evidence from @SyntheSarah.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3视频提示词。"
+  },
+  "category": "vlog",
+  "mode": "reference-to-video",
+  "duration": "15s",
+  "aspectRatio": "45:68",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@SyntheSarah",
+    "url": "https://x.com/SyntheSarah/status/2084567967652843620"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/SyntheSarah/status/2084567967652843620"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/give-it-a-try-and-see-what-you-can-create-843620/video-9767f34ea21e.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/give-it-a-try-and-see-what-you-can-create-843620/poster-4ff85bc16298.jpg",
+  "prompt": "Create a 15-second authentic UGC-style hair growth serum ad using the provided product image as the exact product reference.\n\nSCENE 1 — 0–3s\nA young woman films herself in a bright bedroom using a smartphone front camera. Natural lighting, handheld movement, casual appearance. She looks at the camera and says:\n“I’ve been trying this hair growth serum lately…”\n\nSCENE 2 — 3–7s\nCut to a close handheld shot of the woman holding the serum bottle. She removes the dropper, applies a few drops directly to her scalp, and gently massages it in. Keep the movement natural and slightly imperfect like real UGC content.\n\nSCENE 3 — 7–11s\nMirror selfie shot. She runs her fingers through her hair, showing healthy-looking, fuller hair while casually talking to the camera:\n“And honestly, I love how easy it is to add to my routine.”\n\nSCENE 4 — 11–15s\nClose-up product shot on her bathroom counter. She picks up the bottle and smiles toward the camera. End with natural on-screen text:\n“Simple hair care. Every day.”\n\nStyle: authentic TikTok/Reels UGC, smartphone camera, realistic skin texture, natural expressions, subtle handheld motion, imperfect framing, casual home environment, soft daylight, realistic audio, no cinematic commercial look, no excessive beauty filters. Preserve the exact product packaging, label, bottle shape, and branding from the reference image."
+}

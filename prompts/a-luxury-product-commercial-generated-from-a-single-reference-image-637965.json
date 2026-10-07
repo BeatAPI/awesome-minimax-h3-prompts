@@ -1,0 +1,31 @@
+{
+  "slug": "a-luxury-product-commercial-generated-from-a-single-reference-image-637965",
+  "title": {
+    "en": "A luxury product commercial generated from a single reference image.",
+    "zh": "A luxury product commercial generated from a single reference image."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 product commercial prompt with attached video evidence from @AmControo.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+  },
+  "category": "product-commercial",
+  "mode": "reference-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@AmControo",
+    "url": "https://x.com/AmControo/status/2085366255540637965"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/AmControo/status/2085366794995306954"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/a-luxury-product-commercial-generated-from-a-single-reference-image-637965/video-10c90f0e35ee.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/a-luxury-product-commercial-generated-from-a-single-reference-image-637965/poster-8d25d438dabf.jpg",
+  "prompt": "Use the uploaded reference image exactly as provided.\n\nCreate a 15-second ultra-realistic luxury technology commercial.\n\nMaintain perfect consistency for the lens body, engraved details, focus ring, aperture blades, reflections, glass elements, lighting, shadows, and metallic textures throughout the entire video.\n\nStyle: premium technology advertisement, ultra-realistic product photography, cinematic lighting, realistic reflections, dramatic shadows, macro photography, luxury commercial style, photorealistic rendering.\n\nThe on-screen text should appear in a clean, modern, minimalist font.\n\n────────────────────────\n\nSCENE 1\n\nThe NOVA X1 lens rests on a glossy black pedestal.\n\nBlue light slowly travels across the metal body and the front glass element.\n\nThe camera performs a slow orbital movement around the lens.\n\nTiny dust particles float through the air.\n\nOn-screen text:\n\nNOVA X1\n\nCRAFTED FOR CREATORS\n\n────────────────────────\n\nSCENE 2\n\nThe camera moves closer.\n\nThe focus ring rotates slowly.\n\nThe aperture blades gradually open and close.\n\nReflections move naturally across the glass surface.\n\nOn-screen text:\n\nPRECISION ENGINEERED\n\n────────────────────────\n\nSCENE 3\n\nThe lens rises into the air.\n\nInternal glass elements, metallic rings, screws, sensors, and aperture blades separate naturally into an exploded-view animation.\n\nBlue energy pulses move through the structure.\n\nThe camera circles around the floating components.\n\nOn-screen text:\n\nUNMATCHED CLARITY\n\n────────────────────────\n\nSCENE 4\n\nAll components slowly return to their original positions.\n\nThe aperture blades rotate smoothly and lock into place.\n\nBlue light radiates outward from the centre of the lens.\n\nThe camera performs a close-up orbital movement around the front element.\n\nOn-screen text:\n\nBUILT FOR THE EXTRAORDINARY\n\n────────────────────────\n\nSCENE 5\n\nThe lens settles gently onto the pedestal.\n\nStudio lights illuminate the metal body and the glass surface.\n\nThe camera slowly zooms toward the front element.\n\nEnd with an ultra-realistic hero shot.\n\nOn-screen text:\n\nNOVA X1\n\nSEE BEYOND"
+}

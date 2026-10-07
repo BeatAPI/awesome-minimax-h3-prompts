@@ -1,0 +1,31 @@
+{
+  "slug": "when-i-m-tired-i-come-back-to-my-sister-524455",
+  "title": {
+    "en": "🍡When I'm tired, I come back to my sister's place to grab a skewer.",
+    "zh": "🍡When I'm tired, I come back to my sister's place to grab a skewer."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @ou_zhen599.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+  },
+  "category": "music-video",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ou_zhen599",
+    "url": "https://x.com/ou_zhen599/status/2098300799709524455"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/ou_zhen599/status/2098300799709524455"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/when-i-m-tired-i-come-back-to-my-sister-524455/video-e8053c9b559f.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/when-i-m-tired-i-come-back-to-my-sister-524455/poster-4a7b630d13c0.jpg",
+  "prompt": "For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.\n\nintegrated_multimodal_description: [Shot 1] Live-action, cinematic, realistic night-market drama based on <Picture 1>. Preserve the exact same young female barbecue vendor throughout: same face, skin texture, hairstyle, clothing cut, age impression, body proportions, and stable anatomy. She remains a real stall owner, not a posing model. No subtitles, no watermark, no extra core characters, no scene jump, no prop drift, no face deformation, and no exaggerated mouth movement. The entire short stays inside the same open-air night market barbecue stall space: grill front, stall side, prep counter edge, and the small two-step area in front of the camera. Red charcoal glows, white smoke drifts, grilled meat shines with fat highlights, and warm string lights and stall lamps create soft background bokeh. Condiment bottles, plates, skewers, tongs, and prep bowls stay consistent. Background market activity remains blurred and natural. The story is about relational control: she notices the unseen watcher behind the camera, uses grilling to lure that person closer, seems ready to offer a skewer, then suddenly takes it back and reclaims control. The camera feels like a subjective viewpoint being led by her, moving in one smooth line: low close glide, gentle push to eye contact, half-orbit with her body, small retreat under her pressure, then a clean turn back to the grill. [Shot 2] At 00:02.200, the camera rises from glowing charcoal and meat to her hands and lower face as she turns skewers with practiced wrist control. Her breathing is calm, lips relaxed, and she does not look at the camera yet. Then she lifts her eyes and fully locks onto the camera for the first time. After a half-second hold, one corner of her mouth lifts slightly. She keeps turning skewers and says with light provocation, <d>[English] You’ve been watching for a while...</d> [Shot 3] At 00:04.500, she selects the best-looking skewer with metal tongs and shifts half a step away from the grill. Firelight brushes her side face and collarbone. Her shoulders and neck open naturally without posing. Her smile softens into something more ambiguous as if she is deciding for the watcher. She says, <d>[English] So, are you gonna try one?</d> [Shot 4] At 00:06.800, the camera enters an intimate close-up. She brings the skewer near her lips to test the heat, exhales softly across it, and never breaks eye contact. Her eyelids lower slightly, then lift again. Her lips part only minimally. She does not lick her lips and does not bite the meat. The mood is controlled, soft, and deliberate. [Shot 5] At 00:08.900, she walks two slow steady steps toward the camera from the grill side toward the stall edge near the prep counter. The camera yields backward slightly but stays in the same stall space. Her center of gravity leans subtly forward. The smile reduces and her eyes tighten. The atmosphere shifts from flirtation into mild pressure as she says in a closer lower tone, <d>[English] Keep staring, and it’ll get cold.</d> [Shot 6] At 00:11.700, she extends the skewer toward the camera until the tip lightly touches the lens edge, creating the feeling that she is about to hand it over. At the exact moment of apparent giving, she suddenly pulls it back. She leans in closer, narrows her eyes slightly, and half the smile disappears. Her tone drops into quiet command as she says, <d>[English] If you want it, come get it yourself.</d> She does not wait for a response. Immediately after the line, she turns back cleanly to the grill, presses the same skewer over the heat, and a fresh flare of fire rises. End on the return to the charcoal and her reclaimed control. Keep the performance restrained and realistic: relaxed discovery, playful testing, soft seduction, close pressure, then withdrawal and counter-control. Build everything through eyes, mouth corners, breath, jaw, shoulders, neck, and fingers, never through broad expression or crude seduction. Maintain stable stall geography, realistic smoke and fire physics, natural hand anatomy, believable eye motion, continuous hair and costume behavior, and premium cinematic texture.\n\noverall_soundscape: Realistic night-market ambience runs throughout with charcoal crackle, fat sizzling, light tong contact, blurred distant voices, utensil sounds, and warm outdoor stall hum. Keep her dialogue intimate, low, and natural. Add a soft cooling breath near the skewer, small footstep sounds as she approaches, a tiny metallic contact when the skewer tip touches the lens edge, then a strong renewed sizzle and brief fire flare when the skewer returns to the grill.\n\nnon_diegetic_music: Use little or no score. If present, keep it minimal and low, more like a subtle tension bed than a melody. Let the final power shift be carried mainly by her voice, breath, grill sizzle, and the closing flare."
+}

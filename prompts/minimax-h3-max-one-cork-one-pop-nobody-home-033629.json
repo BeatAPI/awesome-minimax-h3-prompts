@@ -1,0 +1,31 @@
+{
+  "slug": "minimax-h3-max-one-cork-one-pop-nobody-home-033629",
+  "title": {
+    "en": "Minimax H3 Max. One cork, one pop, nobody home.",
+    "zh": "Minimax H3 Max. One cork, one pop, nobody home."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @GlennHasABeard.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "26:15",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@GlennHasABeard",
+    "url": "https://x.com/GlennHasABeard/status/2099468309339033629"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/GlennHasABeard/status/2099468309339033629"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-max-one-cork-one-pop-nobody-home-033629/video-a8137d62e011.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-max-one-cork-one-pop-nobody-home-033629/poster-2f197f843f96.jpg",
+  "prompt": "\"the cork rises straight out of the neck with a single loud pop. 5-10 seconds: the cork keeps rising slowly, turning end over end once, until it is a hand's height above the bottle\"\n\nDuration: 15s. Camera: locked, room above the neck.\n\n\"The cork pops out\" is a verb. A hand's height above the bottle is a picture. Verbs get interpreted. Pictures get rendered."
+}

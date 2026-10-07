@@ -1,0 +1,31 @@
+{
+  "slug": "try-it-160503",
+  "title": {
+    "en": "Try it →",
+    "zh": "Try it →"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 fashion prompt with attached video evidence from @ImaStudio_ai.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3时尚提示词。"
+  },
+  "category": "fashion",
+  "mode": "text-to-video",
+  "duration": "14s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ImaStudio_ai",
+    "url": "https://x.com/ImaStudio_ai/status/2099338772081160503"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/ImaStudio_ai/status/2099338772081160503"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-160503/video-f8170d9fad12.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-160503/poster-af392992ef4d.jpg",
+  "prompt": "Create a 15-second, 16:9, 24fps high-energy Korean idol character reveal trailer with exactly 13 distinct cuts.\nSTYLE:\nSexy Korean Idol Campaign × Luxury Fashion Editorial × AAA Motion Graphics × Scarlet Red Concept Film.\nTheme: SCARLET RIOT\nInitials: SR\nTagline: TOO HOT TO STAY STILL.\nCHARACTER LOCK:\nUse the uploaded woman as the only identity reference. Keep the exact same face, facial proportions, skin tone, body proportions, hairstyle silhouette, age impression and Korean idol aura throughout.\nShe is a young adult East Asian woman with a refined small face, fair natural skin, long dark-brown hair, airy bangs and a clean but slightly sharp gaze. Her mood is sexy, cold, confident, elegant, expensive and slightly rebellious.\nDo NOT inherit the original light-blue outfit, skirt, white platform boots or white bag.\nWARDROBE:\nOne fixed premium red fashion look throughout:\ndeep cherry-red fitted corset top, cropped burgundy structured blazer worn open or loosely on the shoulders, high-waisted black/red mini skirt or tailored shorts, burgundy or black over-the-knee boots, gold earrings, delicate necklace, rings and bracelet.\nSexy through shoulders, collarbone, waistline, long legs, tailoring, gaze and posture — never vulgar or overly revealing.\nSCENES:\nUse multiple coordinated environments:\ncream luxury studio, cream vintage car interior, white farmhouse exterior, country road beside green fields, deep-red editorial studio, golden-hour window interior, red curtain/mirror fashion set, vintage roadside set at dusk.\nAll scenes must share one cohesive red / cream / golden-hour fashion world.\nVISUAL RATIO:\n80% motion graphics, 20% character performance.\nUse giant kinetic typography, scarlet circles, hard-edged shapes, red plaid fragments, torn paper, gold foil stamps, scan lines, film sprockets, halftone, technical grids, crosshairs, split screens, light leaks, sun flares, shutter flashes and graphic wipes.\nPalette:\nScarlet Red, Cherry Red, Burgundy, Cream, Ivory, Champagne Gold, Black, with tiny Sage Green / Sky Blue accents.\nNo purple-blue neon.\nCUTS:\n01 cream studio, giant scarlet circle, gold bars, S then R slam in; quick flashes of lips and eyes.\n02 vintage car, R becomes window frame, extreme face close-up, she shifts gaze to camera, light-leak burst.\n03 deep-red studio, giant SR, she walks from behind the letters, hand on blazer, gold dust and red ribbons.\n04 triptych: farmhouse look-back / field hair toss / red-studio lean; SCARLET HOUR scrolls behind.\n05 mirrored red studio, rotating ring: SOFT LIGHT / HARD STARE / SCARLET FEVER; slow turn, ring explodes, snap zoom to eyes.\n06 golden-hour window, giant SCARLET; she touches the S, paper-like compression, sun flare across face.\n07 country road, low-angle turn, three red ghost frames, outlined TURN rotates 180°.\n08 black-red studio, HOT / SHARP / CHIC / WILD hit one per beat with shutter flash and impact shake.\n09 farmhouse becomes white wireframe on black; red target circle, gold technical lines and crosshair lock around her.\n10 vintage car, she leans forward; red/black/cream panes shatter to reveal S → R → SR.\n11 four rapid editorial posters: 01 car-window profile, 02 red studio, 03 farmhouse turn-back, 04 cream studio seated pose.\n12 cream hero studio climax: she stands center, blazer open, chin lifts; scarlet rings, flare, gold dust, black type and red paper explode outward. Title: SCARLET RIOT.\n13 final identity card combining previous visual motifs. Huge SR behind her. Final title: SCARLET RIOT. Tagline: TOO HOT TO STAY STILL. Scarlet pulse, gold-ring flash, freeze, hard cut to black.\nPERFORMANCE:\nNo full dance. Use side turn, look-back, eye lift, hair toss, blazer touch, slight lean, one step, chin lift, controlled closed-mouth smile.\nQuiet power: the character stays calm while graphics explode around her.\nCAMERA:\n35mm environment/full-body, 50mm portraits, 85mm details.\nUse snap zooms, fast push-ins, whip pans, controlled low angles and graphic match cuts. Keep the camera stylish and controlled.\nLIGHT:\nCream soft light × deep-red edge light × golden-hour sunlight. Real skin texture, detailed fabric, leather, metal and gold jewelry.\nAUDIO:\nFashion electronic × Future Bass × Dark Pop × Hybrid Trailer Beat. Heavy bass, risers, shutter clicks, paper snaps, metallic hits, glass breaks, fabric whooshes and gold-foil stamp sounds. Peak at CUT 12.\nNEGATIVE:\nNo face drift, hairstyle change, character replacement, original blue outfit, random wardrobe change, vulgar sexuality, body morphing, extra people, anime, 3D cartoon, cyberpunk, cheap nightclub look, random scenes, messy or unreadable text, logos, subtitles, UI or watermark.\nFINAL FEEL:\nOne locked Korean-idol heroine × premium scarlet fashion styling × multi-scene luxury editorial × AAA motion graphics × strong SR branding. High-end, cold, vivid, artistic and campaign-ready."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "created-with-minimax-h3-max-320190",
+  "title": {
+    "en": "Created with Minimax H3 Max",
+    "zh": "Created with Minimax H3 Max"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @feesyiam.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+  },
+  "category": "music-video",
+  "mode": "reference-to-video",
+  "duration": "14s",
+  "aspectRatio": "480:257",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@feesyiam",
+    "url": "https://x.com/feesyiam/status/2098436364849320190"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/feesyiam/status/2098436364849320190"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-max-320190/video-6605e1f983e1.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-max-320190/poster-b6e02ca17983.jpg",
+  "prompt": "\"Create a 15-second cinematic, photorealistic continuous-shot video based exactly on the reference image of “The Floating Night Market.”\n\nPreserve the original architecture, floating wooden market platforms, lantern designs, vendors, customers, boats, ocean, mountains, color palette, and overall composition. Do not redesign or replace any major elements.\n\n0–3 seconds: Begin with a slow, smooth low-angle camera movement just above the dark ocean surface, approaching the floating night market. Hundreds of warm glowing paper lanterns gently sway in the night breeze. Their golden reflections shimmer naturally across the moving water. Small waves softly move around the floating platforms.\n\n3–7 seconds: The camera slowly rises and moves forward through the market, revealing lively activity. Vendors naturally prepare food at small wooden stalls, gently stirring steaming pots and grilling food. Thin realistic steam rises into the lantern light. Customers walk casually across narrow wooden bridges, talking and browsing. Lanterns flicker subtly and sway with the wind.\n\n7–11 seconds: Continue the same uninterrupted camera movement with a gentle cinematic arc around the market. Small traditional boats slowly pass underneath the floating platforms. Water ripples spread behind them. Food stalls glow with warm orange and amber light while the cool blue moonlight illuminates the surrounding ocean. The huge full moon remains visible in the background behind misty mountains.\n\n11–15 seconds: Slowly pull upward and backward into a wider cinematic reveal, showing the entire floating night market surrounded by the vast ocean. Hundreds of lanterns form a glowing trail across the water. Reflections stretch and break naturally with the waves. Mist gently drifts around the distant mountains as the moonlight creates a magical atmosphere. End on a beautiful wide establishing shot.\n\nVisual style: ultra-photorealistic, cinematic fantasy, realistic human movement, realistic ocean and water physics, detailed wooden textures, natural lantern glow, volumetric moonlight, subtle atmospheric fog, realistic steam, shallow depth of field during close shots, cinematic 35mm photography, high dynamic range, extremely detailed, immersive scale, smooth professional camera movement.\n\nMotion: natural human gestures, subtle wind movement, gently swaying lanterns, flowing steam, moving water, realistic boat movement, no exaggerated animation.\n\nCamera: smooth stabilized cinematic camera, slow controlled movement, natural depth of field, gradual push-in → forward tracking → gentle arc → wide pull-back. One continuous shot with no cuts.\n\nNegative prompt: no scene changes, no cuts, no jump cuts, no camera shake, no distorted faces, no duplicated people, no warped buildings."
+}

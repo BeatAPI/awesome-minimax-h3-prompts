@@ -36,7 +36,537 @@ Slow-motion hero shot of the luxury perfume bottle elegantly rotating as glowing
 
 ---
 
-## 2. Created with MiniMax H3.
+## 2. Created with MiniMax H3 on
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-666438/video-981342f914ef.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-666438/poster-60faf7e2265c.jpg" alt="Created with MiniMax H3 on video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — 15s | 16:9 | 4K HDR | 24fps | Photorealistic Fashion Film Use the uploaded girl as the exact character throughout. Maintain identical face, skin tone, hair, body proportions, and...</summary>
+
+~~~~text
+15s | 16:9 | 4K HDR | 24fps | Photorealistic Fashion Film
+
+Use the uploaded girl as the exact character throughout. Maintain identical face, skin tone, hair, body proportions, and identity in every shot.
+
+0–3s: Luxury apartment overlooking a glowing city skyline. She opens a vintage suitcase, looks at camera and says: "Three outfits… and absolutely no time to decide!"
+
+3–6s: She places sunglasses over the lens. Seamless transition to Look 1: emerald satin blouse, cream trousers, heels. By the window. "Okay… this one means business."
+
+6–9s: Finger snap transition to a rooftop party. Look 2: metallic mini dress, ankle boots, statement earrings. Wind in hair. "Now THIS is a little dangerous."
+
+9–12s: She walks past the lens, creating a body-wipe transition to Look 3: midnight-blue evening gown, elegant rooftop dinner setting. "Or should I go full glam?"
+
+12–15s: Wide rooftop shot. Holding sunglasses, shoulder bag, and clutch. Smiles and points at camera: "You decide. One, two, or three?"
+
+Style: Ultra-realistic luxury fashion commercial, cinematic lighting, realistic fabrics, natural expressions, shallow depth of field, smooth camera movement, premium editorial quality.
+
+Negative: No face changes, identity drift, duplicate character, extra people, distorted hands, bad anatomy, flicker, jump cuts, subtitles, logos, watermarks, or text overlays.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-666438/video-981342f914ef.webm)
+
+**Source:** [@itxsarmadd](https://x.com/itxsarmadd/status/2101244508767666438) · 15s · 16:9 · product commercial
+
+---
+
+## 3. Man reference <image 0> Woman reference <image 1> Use the two supplied character
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/man-reference-image-0-woman-reference-image-1-use-the-734840/video-616e807aba28.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/man-reference-image-0-woman-reference-image-1-use-the-734840/poster-c72070b52105.jpg" alt="Man reference &lt;image 0&gt; Woman reference &lt;image 1&gt; Use the two supplied character video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Man reference &lt;image 0&gt; Woman reference &lt;image 1&gt; Use the two supplied character references to preserve the exact identity and appearance of the red-haired woman and dark-haired...</summary>
+
+~~~~text
+Man reference <image 0>
+Woman reference <image 1>
+Use the two supplied character references to preserve the exact identity and appearance of the red-haired woman and dark-haired man. EXACTLY TWO PEOPLE are present in this scene: ONE woman and ONE man. NEVER duplicate either character.
+
+Late at night inside an old, slightly worn roadside American diner during heavy rain. The woman is already sitting alone on ONE SIDE of a booth, beside a rain-covered window, holding a ceramic cup of coffee. The man arrives and sits DIRECTLY ACROSS THE TABLE FROM HER on the OPPOSITE bench. He NEVER sits beside her. Once seated, both characters remain on their respective opposite sides of the table for the entire scene. Maintain this exact spatial relationship through every camera cut.
+
+The visual treatment is moody, imperfect, atmospheric live-action feature-film photography, not pristine digital video. Slightly underexposed faces, deep soft shadows, low-key practical lighting, warm dim tungsten diner lamps mixed with cold blue-gray rainy window light, subdued colors, restrained saturation, gentle highlight bloom and halation around practical lights, subtle organic 35mm-style grain, slight lens softness, natural skin texture, atmospheric haze, imperfect shadow detail, soft optical depth of field and natural motion blur. Rain streaks distort distant neon and headlights outside into soft colored bokeh. Avoid clean clinical lighting, beauty lighting, glossy commercial imagery, HDR, razor-sharp edges, perfect digital clarity, plastic skin and polished AI aesthetics. It should look photographed through a real cinema lens in a dark location, with texture and imperfection.
+
+[00:00–00:02] Moody medium-wide shot from behind the man's shoulder as he approaches the booth. The woman is visible ALONE on the opposite side of the table, looking down sadly at her coffee. He slides into the empty bench directly across from her. CUT immediately once he is seated.
+
+[00:02–00:04] Tight close-up of the woman from the man's seated perspective. His shoulder may appear ONLY as a soft out-of-focus foreground edge. Do not show another man anywhere in frame. She raises her eyes toward him, disappointed, and quietly says: “You're late.”
+
+[00:04–00:06] Reverse tight close-up of the man from the woman's seated perspective. Her red hair may appear ONLY as a soft blurred foreground edge. He says quietly: “I'm sorry... but I had a good reason.”
+
+[00:06–00:08] CUT to a close tabletop insert. His hand places a small OPEN engagement-ring box beside her coffee. A beautiful engagement ring is clearly visible inside. Warm practical light catches the ring naturally. Only his hand enters the shot.
+
+[00:08–00:10] CUT directly to an extreme close-up of the woman's face. She freezes in disbelief. Her eyes widen and begin filling with tears; her lips part, then slowly form a stunned, emotional smile. Cold rainy-window bokeh glows softly behind her. She looks across the table toward him. End on her face.
+
+CRITICAL CONTINUITY: Exactly ONE woman and ONE man. Never clone, duplicate or create another version of either character. The woman remains on her original side of the booth. The man sits ONLY on the opposite side. He NEVER sits beside her. An over-the-shoulder foreground shoulder is part of the SAME person whose viewpoint the camera represents and must NEVER become another visible character.
+
+NO MUSIC. Only quiet rain, subdued diner ambience and dialogue.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/man-reference-image-0-woman-reference-image-1-use-the-734840/video-616e807aba28.webm)
+
+**Source:** [@EndFolding79421](https://x.com/EndFolding79421/status/2100797634650734840) · 10s · 43:24 · product commercial
+
+---
+
+## 4. Try it 👉
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-771014/video-ed497b15dc8d.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-771014/poster-eaf72cfa5115.jpg" alt="Try it 👉 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a 15-second, 16:9, 24fps high-energy live-action fashion transformation MV. Use the uploaded woman as the ONLY identity reference and keep exactly the same face, facial...</summary>
+
+~~~~text
+Create a 15-second, 16:9, 24fps high-energy live-action fashion transformation MV. Use the uploaded woman as the ONLY identity reference and keep exactly the same face, facial features, skin tone, age, body proportions and long dark-brown hair throughout. ONE GIRL ONLY. Outfits, locations and moods may change, but never the identity. No background people.
+
+Style: K-pop girl-group fashion campaign × Seoul Y2K × luxury editorial × kinetic typography × fast outfit-change MV.
+CORE RULE: every strong beat changes outfit + location + composition simultaneously. Each look must exist in a completely different environment. Performance is based on walking, turning, looking back, adjusting clothes, hair flips and clean poses rather than complex dancing.
+Add readable English + Korean fashion typography. Every section must use a visibly different graphic style: oversized sans-serif, elegant serif, handwritten stickers, Korean poster typography, photo-booth graphics, metallic 3D lettering, magazine labels, diagonal layouts or vertical edge text. Never repeat the same white bold font.
+0–1.5s LOOK 01: mirrored elevator / fashion installation. Sweet-cool mini-dress look. Fast push-in, eye contact or sunglasses removal. Huge bold title: “MODE ON” / “SEOUL SWITCH”.
+1.5–3s LOOK 02: Hongdae-style Seoul street. Y2K street look. Low-angle walk + look back. Korean poster text: “오늘도 예쁘게” + “STREET MODE”.
+3–4.5s LOOK 03: pink-white convenience store / photo-booth space. Baby-pink look. Playful product interaction. Sticker typography: “SO CUTE” / “PINK MODE”.
+4.5–6s LOOK 04: sunset rooftop. Sharper fashion look. Hair in wind, turn toward camera. Elegant thin serif: “AFTER GLOW” / “RUN THE NIGHT”.
+6–7.5s LOOK 05: backstage / vanity studio. K-pop pre-stage styling. Adjust necklace and hair through mirror. Metallic silver 3D text: “ICON” / “FLASH READY”.
+7.5–9s LOOK 06: modern underground parking garage. Hotter, cooler styling. Step toward camera, slight Dutch angle. Diagonal stretched typography: “ATTITUDE” / “NO RULES”.
+9–10.5s LOOK 07: deep-red fashion installation room. Mature powerful look. Large Korean poster typography: “나답게” + “OWN THE LOOK”.
+10.5–12s LOOK 08: minimal luxury hotel corridor. Final polished look. Walk two steps and stop. Minimal luxury typography: “LAST LOOK” / “SOLVÉRA”.
+12–15s FINAL HERO: night terrace / black-white-silver-red campaign environment. Previous looks fly back as photo cards, magazine pages and floating poster elements. Girl holds center pose. Text appears beat-by-beat: “CUTE” → “IS POWER” → “귀여움은 힘이야.” → “SOLVÉRA — OUT NOW”. End with a 0.5s premium fashion-cover freeze.
+Realistic skin, hair and fabrics. Keep identity perfectly stable. No second person, background crowd, body drift, hairstyle drift, unreadable typography, static posing, repeated locations, childish/school styling, logos, watermarks or UI.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-771014/video-ed497b15dc8d.webm)
+
+**Source:** [@ImaStudio_ai](https://x.com/ImaStudio_ai/status/2100414669005771014) · 15s · 16:9 · product commercial
+
+---
+
+## 5. Crispy outside. Creamy inside. Pure caramel temptation.🍮✨ Made for the moment you deserve.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/crispy-outside-creamy-inside-pure-caramel-temptation-made-for-the-087216/video-bda1143d8357.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/crispy-outside-creamy-inside-pure-caramel-temptation-made-for-the-087216/poster-f64fb67cb41a.jpg" alt="Crispy outside. Creamy inside. Pure caramel temptation.🍮✨ Made for the moment you deserve. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — TITLE: Premium Salted Caramel Donut Product Commercial Storyboard** FORMAT: • Single-page premium storyboard • 3:4 Portrait ratio • Gourmet dessert advertising campaign • 8...</summary>
+
+~~~~text
+TITLE:
+Premium Salted Caramel Donut Product Commercial Storyboard**
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• Gourmet dessert advertising campaign
+• 8 cinematic product-focused scenes
+• Product remains the main hero
+• Premium advertising agency presentation
+
+HEADER:
+• Bold modern typography
+• Information cards:
+
+* Duration: 15 Seconds
+* Style: High-Energy Dessert Commercial
+* Product: Salted Caramel Donuts
+* Audio: Soft Crunch + Caramel ASMR + Fast Beat
+  • Why This Style Works section
+  • Caramel brown, golden, cream and warm amber aesthetic
+  • Minimal caramel drizzle and dessert decorative elements
+
+STORYBOARD:
+
+1. Premium salted caramel donut box standing dramatically on a warm stone surface, front packaging perfectly visible
+2. Box opens smoothly as freshly glazed donuts rise into view, warm caramel highlights catching the light
+3. Extreme macro of the golden fried dough, crisp edges and glossy caramel glaze with detailed texture
+4. Thick salted caramel sauce falling onto the donut in slow motion, creating a rich glossy coating
+5. Donuts rotating through a controlled cloud of fine sugar particles and tiny caramel shards
+6. One donut being pulled apart, revealing a soft fluffy center as caramel stretches between the halves
+7. Three finished caramel donuts arranged beside the hero box with caramel ribbons, sea salt flakes and crumbs surrounding them
+8. Final cinematic product packshot with the original box, stacked donuts and a dramatic caramel splash frozen elegantly behind the product
+
+EVERY PANEL:
+• Scene number
+• Duration badge
+• Camera direction
+• Visual
+• Action
+• Product detail
+
+CAMERA:
+Extreme macro, high-speed food photography, slow-motion caramel drizzle, dynamic product rotation, controlled sugar particle movement, creamy pull-apart close-up, dramatic push-in, premium hero framing.
+
+STYLE:
+Ultra-realistic gourmet dessert commercial, detailed golden dough texture, glossy caramel glaze, realistic sauce viscosity, natural sugar particles, crisp sea salt details, sharp packaging, dramatic warm studio lighting, shallow depth of field, premium food photography, luxury advertising aesthetic, 8K.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/crispy-outside-creamy-inside-pure-caramel-temptation-made-for-the-087216/video-bda1143d8357.webm)
+
+**Source:** [@itxsarmadd](https://x.com/itxsarmadd/status/2099447346061087216) · 15s · 16:9 · product commercial
+
+---
+
+## 6. What's your best trick for taming video models?
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/what-s-your-best-trick-for-taming-video-models-939347/video-65d6b1e0978d.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/what-s-your-best-trick-for-taming-video-models-939347/poster-88b26e03c659.jpg" alt="What's your best trick for taming video models? video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Cinematic 3D commercial, absurdist epic comedy. A Crumbl-style pink bakery box sits on a marble countertop under warm, dramatic lighting. Seconds 0-2: Extreme close-up — a thick...</summary>
+
+~~~~text
+Cinematic 3D commercial, absurdist epic comedy. A Crumbl-style pink bakery box sits on a marble countertop under warm, dramatic lighting.
+
+Seconds 0-2: Extreme close-up — a thick chocolate-chip cookie suddenly sprouts two slender legs in tiny sneakers, kicks the pink box lid open, and leaps out. Crumbs explode in slow motion.
+
+Seconds 2-5: Low-angle tracking shot — the cookie sprints across a sunlit kitchen counter, hurdling over a spilled milk river like an Olympic athlete, chocolate chips glistening like sweat.
+
+Seconds 5-8: Wide shot — the cookie dashes into a surreal dessert metropolis: streets paved with cookie dough, skyscrapers made of stacked pink boxes, milk-carton taxis honking. It runs toward a glowing horizon of melted chocolate.
+
+Seconds 8-10: The cookie skids to a stop, turns back to camera, raises one leg in a triumphant pose — freeze frame. Powdered sugar falls like snow. Ultra-realistic, 8K, appetizing food photography, hyper-detailed crumb texture, cinematic slow motion.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/what-s-your-best-trick-for-taming-video-models-939347/video-65d6b1e0978d.webm)
+
+**Source:** [@HyperAI_News](https://x.com/HyperAI_News/status/2098735876578939347) · 10s · 7:4 · product commercial
+
+---
+
+## 7. // Image via Midjourney
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-via-midjourney-818272/video-50578e52d443.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-via-midjourney-818272/poster-78753f853af0.jpg" alt="// Image via Midjourney video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Reference [@]Image1 for accurate face and mouth. use [@]Audio1 exactly for the voice. He laments angrily with a negative attitude about skincare products; we see him ranting about...</summary>
+
+~~~~text
+Reference [@]Image1 for accurate face and mouth. use [@]Audio1 exactly for the voice.  He laments angrily with a negative attitude about skincare products; we see him ranting about how his skin is just fine, while the camera follows his mouth and tight-close-up on the face in one shot:
+
+[0s] CUT - DIRTY CLOSE-UP  [2s] CUT - CLOSE-UP [3s] CUT - EXTREME CLOSE-UP ON MOUTH [4s] CUT - DIRTY CLOSE-UP [6s] CUT - EXTREME CLOSE-UP ON MOUTH  [7s] CUT - EXTREME CLOSE-UP [9s] CUT - DIRTY CLOSE-UP [12s] CUT - EXTREME CLOSE-UP [13s] CUT - CLOSE-UP ON EYES
+
+p.s. I used an audio sample of me talking in a 'scary' voice for the reference!
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/image-via-midjourney-818272/video-50578e52d443.webm)
+
+**Source:** [@ai_artworkgen](https://x.com/ai_artworkgen/status/2098415995408818272) · 15s · 16:9 · product commercial
+
+---
+
+## 8. Generation controls (authoritative)
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/generation-controls-authoritative-863017/video-7a694e8717d3.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/generation-controls-authoritative-863017/poster-cfc7f8499aa5.jpg" alt="Generation controls (authoritative) video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — text rule: every section label and descriptive sentence is silent production direction, never speech content. Do not speak, recite, chant, sing, or read this prompt aloud....</summary>
+
+~~~~text
+text rule: every section label and descriptive sentence is silent production direction, never speech content. Do not speak, recite, chant, sing, or read this prompt aloud.
+Background music: enabled. Generate a context-appropriate non-diegetic score unless the user explicitly requests silence or no music.
+Dialogue permission is enabled, but this plan contains no dialogue lines. Generate no character speech, conversation, chanting, singing, or other vocals.
+Dialogue language: automatic. Preserve each explicit <d> language tag; otherwise use the language required by the scene and user intent.
+Narration: disabled. Generate no narrator, voice-over, spoken description, or audible reading of prompt text, section labels, instructions, asset tags, or metadata.
+Subtitles: disabled. Do not render subtitles or dialogue captions.
+Creative direction (authoritative within explicit user intent and reference fidelity)
+Priority: Apply these creative directives clearly wherever they do not conflict with explicit user requirements, identity retention, or fixed first/last-frame composition.
+Format and direction: Favor believable observation, motivated reframing, natural performance, and environmental detail over polished spectacle. Retain small imperfections that support authenticity while keeping the subject readable. Progress from a human-scale anchor to environmental scale, preserving depth layers and landing on a strong reveal composition.
+Camera execution: Follow the action continuously in a single unbroken take, using only motivated pans, small translations, and reframing needed to preserve spatial clarity.
+Look: Treat connected visual references as authoritative for identity, wardrobe, objects, environment, composition, lighting, color, and medium; do not impose an unrelated restyle.
+Pacing and composition: Use moderate, readable motion with natural acceleration and enough settling time for each important beat. Use exactly one continuous shot with no hidden or explicit cuts; express all action beats through blocking, performance, camera motion, reframing, and synchronized sound. An explicit user-requested shot or cut count remains authoritative over this density preference. Compose for a vertical frame: protect faces, hands, and essential action inside the central mobile-safe area; favor depth movement and avoid losing subjects at narrow side edges.
+
+retention_analysis:
+<Picture 1> -> identity: Use the supplied collage as the authoritative visual reference for the same woman’s identity, facial features, pale skin, long dark hair in an elaborate updo with pale ornaments, downcast gaze, refined feminine silhouette, pale silver-gray embroidered gown, fitted bodice, flowing floor-length skirt, gold floral ornamentation, jeweled details, translucent wide-sleeved shawl, garment rack, bright ornate interior, tall windows, pale-blue mountain scenery, decorative furnishings, warm small lights, oval mirror, layered depth, luminous window backlight, cool silver-blue and warm champagne palette, detailed textiles, graceful portrait and near-full-body framing, and polished dreamlike fashion-editorial treatment. Preserve these elements consistently throughout one continuous scene, while treating the collage as a reference rather than reproducing its nine-panel layout. Use the depicted poses to guide the natural action of lifting the sheer garment, draping it around the shoulders, checking the waist and silhouette, and turning toward the mirror with quiet delight. Present the performance with believable observational imperfections and tasteful focus on clothing, posture, silhouette, and fabric movement..
+
+detailed_description:
+[Shot 1] At 00:00.000-00:15.083, At the start, <Subject 1> stands beside the pale garment rack in the luminous ornate interior, already wearing the pale silver-gray embroidered gown and holding the translucent shawl. She notices the garment with quiet anticipation, lifts it carefully, and brings it around her shoulders. Her expression changes into visible, restrained delight as the sheer fabric catches the window light. Without any cut, she smooths the shawl and checks the embroidered waist and flowing skirt, allowing the camera to follow her natural movement and preserve her graceful silhouette. She takes a few small steps toward the oval mirror, turns slightly to inspect the front and rear drape, then settles into a poised full-body stance with a soft satisfied smile and a brief downward glance at the finished outfit. The performance is tasteful, realistic, and focused on the pleasure of trying the new clothing. Camera: Start in a stable medium three-quarter view beside the garment rack, with the woman centered in the mobile-safe area. Slowly track laterally and forward with her as she lifts the translucent shawl, maintaining natural handheld steadiness and mild human-scale imperfection. Arc subtly around her front as she drapes it and checks the waist, preserving face and hands. Continue with a small motivated translation toward the oval mirror, then ease backward and slightly lower to reveal the full gown, shawl, elegant posture, bright windows, and layered interior depth. Land on a composed near-full-body reveal with the woman centered and the mirror and mountain-lit windows supporting the background. Motion: Moderate readable movement only: lift the shawl, drape it, smooth the shoulders and waist, make a small turn, walk a few measured steps, and settle. The camera accelerates gently with her initial movement, follows with restrained parallax around her, and decelerates before the final reveal. Fabric responds naturally to each hand movement and settles before the ending pose. Synchronized audio: 0.8-2.2s: soft hanger and translucent-fabric rustle as she lifts the shawl; 3.0-6.0s: continuous fabric movement while she drapes the shawl over both shoulders; 7.0-9.5s: delicate dress and shawl rustle as she adjusts the waist and turns; 10.0-12.0s: quiet measured footsteps toward the mirror; 12.5-15.083s: fabric settles as she holds the final pose; music reaches a gentle resolution
+
+overall_soundscape:
+Natural quiet interior ambience under the music: light fabric rustle as the shawl moves, restrained footsteps, a faint clothing-rack or hanger sound, and subtle room resonance. No narration or spoken voice. No narration, voice-over, spoken description, or audible prompt reading.
+
+non_diegetic_music:
+Soft elegant instrumental music with delicate strings, airy piano, and subtle shimmering tones; begin quietly, gently lift during the shawl reveal, and resolve softly at the final pose. No lyrics or vocal music.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/generation-controls-authoritative-863017/video-7a694e8717d3.webm)
+
+**Source:** [@listudio](https://x.com/listudio/status/2098310696429863017) · 17s · 72:95 · product commercial
+
+---
+
+## 9. Made With Minimax H3
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-216042/video-d6ddb6e21e0c.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-216042/poster-72c375b824b3.jpg" alt="Made With Minimax H3 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Format: 15 seconds, vertical 16:9, 2K, 24fps, ultra-realistic cinematic Korean lifestyle film, natural documentary realism, physically accurate motion, subtle film grain....</summary>
+
+~~~~text
+Format: 15 seconds, vertical 16:9, 2K, 24fps, ultra-realistic cinematic Korean lifestyle film, natural documentary realism, physically accurate motion, subtle film grain.
+
+Character: Young Korean woman with the exact face from the uploaded reference. Shoulder-length naturally wavy dark-brown hair with a slightly messy effortless texture, a few loose strands around her face, natural eyebrows, minimal fresh makeup, realistic skin texture. Outfit: oversized dusty-blue knit cardigan, fitted white inner top, relaxed charcoal wide-leg trousers, clean white sneakers, small cream canvas shoulder bag. Same face, hair, body proportions, outfit, and accessories throughout all shots.
+
+00–02s — ENTERING:
+She walks toward a tiny independent flower shop on a quiet Seoul side street. Camera follows at shoulder height with subtle handheld movement. She reaches for the wooden glass door and gently pushes it open. A small brass bell swings naturally above the entrance.
+02–04s — DISCOVERING FLOWERS:
+Cut to a medium close-up inside the shop. She slowly walks between buckets of fresh flowers, gently brushing her fingertips across delicate stems. Her eyes notice a beautiful small white flower arrangement. She pauses and gives a subtle natural smile.
+
+04–06s — CHOOSING:
+Close-up of her hands selecting several delicate white and pale-green flowers from a metal bucket. She carefully lifts the stems, examines them, then places them together. Realistic fingers, natural hand movement, accurate flower physics.
+06–08s — TRIMMING:
+At a rustic wooden worktable, she receives small florist scissors. She trims the flower stems one by one. Show realistic cutting motion, tiny leaves moving naturally, scattered stems on the table.
+
+08–10s — BOUQUET:
+Macro cinematic shot of her hands arranging the flowers into a small minimalist bouquet. She rotates the stems, adjusts spacing, wraps the bouquet in textured kraft paper, then ties it with thin natural twine.
+10–12s — LEAVING:
+She opens the shop door and steps outside holding the finished bouquet close to her chest. Her canvas bag hangs naturally from her shoulder. The door bell moves behind her as she exits.
+
+12–15s — FINAL MOMENT:
+She walks a few steps down the quiet Seoul alley, stops beneath a small leafy street tree, looks down at the bouquet, then slowly looks toward the camera with a soft genuine smile. Camera smoothly pulls backward, revealing the flower shop, plants, narrow Korean street, and evening atmosphere.
+Environment: Cozy independent Seoul flower shop, wooden shelves, metal flower buckets, handwritten Korean price tags, wrapped bouquets, hanging plants, glass door, rustic worktable, quiet residential-commercial alley outside.
+
+Lighting & color: Soft natural overcast daylight transitioning subtly toward blue hour. Neutral cinematic color grade, realistic skin tones, muted greens, dusty blue clothing, gentle contrast, soft shadows, controlled highlights. No excessive golden light, no orange cast, no HDR, no oversaturation, no artificial glow, no plastic skin.
+Camera: Smooth cinematic handheld movement, realistic depth of field, natural focus transitions, 35mm/50mm lens feeling, occasional macro close-ups, no impossible camera movement.
+
+Physics & consistency: Natural walking, accurate foot contact, realistic weight shifts, correct hand-object interaction, flowers bend naturally, paper folds realistically, hair and cardigan respond subtly to movement and breeze. No face morphing, no identity drift, no outfit changes, no extra fingers, no duplicated flowers, no warped hands, no floating objects, no sudden teleportation.
+Audio: Door bell, footsteps, flower stems rustling, scissors cutting stems, paper wrapping, distant Seoul traffic, subtle outdoor breeze. No music, no narration, no dialogue.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-216042/video-d6ddb6e21e0c.webm)
+
+**Source:** [@afrinxai](https://x.com/afrinxai/status/2097884675373216042) · 15s · 7:4 · product commercial
+
+---
+
+## 10. Seedance 2.5 vs minimax h3 , for me h3 won
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/seedance-2-5-vs-minimax-h3-for-me-h3-won-951458/video-1dfdc6320259.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/seedance-2-5-vs-minimax-h3-for-me-h3-won-951458/poster-4bab6a0a236a.jpg" alt="Seedance 2.5 vs minimax h3 , for me h3 won video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — A hyper-realistic, photorealistic 8K CGI advertisement sequence for a futuristic luxury electric concept sports car, styled like a high-end commercial with a sleek, powerful, and...</summary>
+
+~~~~text
+A hyper-realistic, photorealistic 8K CGI advertisement sequence for a futuristic luxury electric concept sports car, styled like a high-end commercial with a sleek, powerful, and sophisticated mood.
+
+Setting & EnvironmentSet in an infinite, minimalist virtual studio with a deep black void background and a perfectly polished, highly reflective black obsidian floor that crystal-clearly mirrors the scene. The atmosphere is crystal clear with subtle light bloom.
+Lighting
+
+Key Light: A cool-white (6000K) softbox panel light descends from above, growing larger to cast clean defining highlights over the final car.
+
+Emissive Accent Light: Silvery-white and vibrant electric-blue light glows directly from the fluid liquid metal, projecting dynamic reflections onto the floor.
+
+Subject Transformation
+
+Initial Form: A single, pristine sphere of mercury-like liquid metal hovering above the floor, rippling with high reflectivity and surface tension.
+
+Final Form: A low-profile, aerodynamic futuristic sports car with smooth, single-piece molded body panels in deep gloss black pearlescent paint that subtly shifts to dark blue, featuring razor-sharp LED light bars.
+
+Camera ChoreographyAn uninterrupted, dynamic camera move starting as an extreme close-up macro (85mm, f/1.8 shallow depth of field) focused on the hovering liquid drop. The camera smoothly pulls back and accelerates into a sweeping clockwise orbit, transitioning to a wide shot (35mm, f/5.6 deep focus) to reveal the complete vehicle sharp and in full view.
+
+Action & Animation Sequence
+0–2s: The liquid metal sphere slowly pulses and ripples to a low-frequency bass hum.
+
+2–5s: The sphere explodes outward in zero-gravity as liquid tendrils stretch to form the car's wireframe, traced by glowing electric-blue energy lines, accompanied by high-tech chimes and metallic crackles.
+
+5–7s: Liquid metal flows over the energy frame, solidifying into smooth body panels and forming wheels to a heavy bass thrum.
+
+7–8s: The car gently settles onto the reflective obsidian floor, its razor-sharp LED headlights and taillights flash on with a powerful pulse, fading into the subtle hum of a high-tech electric motor.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/seedance-2-5-vs-minimax-h3-for-me-h3-won-951458/video-1dfdc6320259.webm)
+
+**Source:** [@IqrasaifiAI](https://x.com/IqrasaifiAI/status/2097837462512951458) · 16s · 3:4 · product commercial
+
+---
+
+## 11. Made with MiniMax Hailuo H3 Max on
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-hailuo-h3-max-on-160120/video-49509ccadf7a.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-hailuo-h3-max-on-160120/poster-2fc2f00cc32c.jpg" alt="Made with MiniMax Hailuo H3 Max on video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — A premium 15-second 3:4 vertical commercial for OREO blending cinematic blockbuster action with extreme macro food photography. Hyper-realistic 8K, 120fps slow-motion, anamorphic...</summary>
+
+~~~~text
+A premium 15-second 3:4 vertical commercial for OREO blending cinematic blockbuster action with extreme macro food photography. Hyper-realistic 8K, 120fps slow-motion, anamorphic lens flares, dynamic camera movements.
+
+ALMOST TWIST: Extreme macro shot of an OREO cookie twisting at the climax of separation, the dark chocolate cookie surface micro-cracking, creamy vanilla filling stretching between both halves, tiny cookie particles suspended in mid-air.
+
+REWIND: Time reverses instantly with a kinetic motion-blur rewind effect; crumbs fly back, cream reconnects, cracks seal, time resets.
+
+COOKIE: Macro tracking shot diving across the razor-sharp ridges and embossed OREO pattern, pristine baked texture, rich cocoa tones, microscopic crumbs vibrating along the edges.
+
+CREAM: A silky wave of brilliant white vanilla cream spreads dramatically between the two chocolate cookie halves in extreme slow-motion, smooth realistic food physics, glossy creamy texture contrasting against the dark cookie.
+
+EMBOSSING:Camera sweeps vertically as the iconic OREO embossed logo and decorative pattern emerge in perfect detail across the chocolate cookie surface, dramatic highlights revealing every texture.
+
+HERO:Low-angle cinematic hero shot of an iconic OREO package opening smoothly, revealing pristine OREO cookies glowing under dramatic studio lighting, rich blue packaging illuminated by cinematic rim light.
+
+TENSION: Macro split-screen tension; hands holding the OREO cookie from both sides, extreme close-up on the cream stretching under rising twisting force, low-frequency sound rumble building anticipation.
+
+ TWIST & PAYOFF: Iconic clean twist in ultra slow-motion, the cookie halves separating perfectly with a satisfying creamy stretch and crisp sound payoff, ending on a pristine hero product shot with bold text "TWIST, LICK, DUNK." Cinematic lighting, volumetric fog, photorealistic, 8K resolution, premium commercial aesthetic, 3:4 aspect ratio.#ImagineArt
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-hailuo-h3-max-on-160120/video-49509ccadf7a.webm)
+
+**Source:** [@itxabdullaa](https://x.com/itxabdullaa/status/2097647954354160120) · 15s · 3:4 · product commercial
+
+---
+
+## 12. Soft outside. Sweet surprise inside. 🥭✨ A little bite of tropical obsession.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/soft-outside-sweet-surprise-inside-a-little-bite-of-tropical-333063/video-ef41b035fd4b.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/soft-outside-sweet-surprise-inside-a-little-bite-of-tropical-333063/poster-1e7c50450a21.jpg" alt="Soft outside. Sweet surprise inside. 🥭✨ A little bite of tropical obsession. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — TITLE: PREMIUM MANGO MOCHI PRODUCT COMMERCIAL STORYBOARD FORMAT * Single-page premium storyboard * 3:4 Portrait ratio * 15 seconds * Premium gourmet dessert commercial * 8...</summary>
+
+~~~~text
+TITLE:
+PREMIUM MANGO MOCHI PRODUCT COMMERCIAL STORYBOARD
+
+FORMAT
+* Single-page premium storyboard
+* 3:4 Portrait ratio
+* 15 seconds
+* Premium gourmet dessert commercial
+* 8 cinematic product-focused scenes
+* Product remains the hero
+* High-end advertising agency presentation
+
+HEADER
+* Bold modern editorial typography
+* Information cards:
+  * Duration: 15 Seconds
+  * Style: Premium Dessert Commercial
+  * Product: Mango Mochi
+  * Audio: Soft ASMR + Playful Beat
+* “Why This Style Works” section
+* Warm mango yellow, ivory, coral, and cream palette
+* Minimal mango and tropical leaf accents
+
+STORYBOARD
+
+01 — THE GOLDEN DROP
+
+Time: 0–1.8s
+Camera: Slow macro push-in
+Visual: Golden mango droplet falls onto an ivory surface, creating a perfect ripple.
+Focus: Rich mango flavor.
+
+02 — MOCHI REVEAL
+
+Time: 1.8–3.5s
+Camera: Smooth lateral reveal
+Visual: Mango mochi rolls into frame beside a fresh mango slice. Soft powder floats around it.
+Focus: Delicate, soft exterior.
+
+03 — SOFTNESS MACRO
+
+Time: 3.5–5.2s
+Camera: Extreme macro
+Visual: Close-up of the pillowy mochi texture as it gently compresses and springs back.
+Focus: Softness and premium texture.
+
+04 — THE INSIDE
+
+Time: 5.2–7.0s
+Camera: Dramatic macro rotation
+Visual: Mochi splits open, revealing vibrant golden mango cream stretching between the halves.
+Focus: Creamy mango filling.
+
+05 — TROPICAL BURST
+
+Time: 7.0–8.8s
+Camera: Fast circular move
+Visual: Mango cubes, cream ribbons, coconut flakes, and tiny petals orbit around the mochi.
+Focus: Fresh tropical flavor.
+
+06 — THE BITE MOMENT
+
+Time: 8.8–10.5s
+Camera: Tight slow-motion macro
+Visual: Mochi is sliced in half; mango cream gently pushes outward with delicate powder.
+Focus: Soft shell + creamy center.
+
+07 — HERO ARRANGEMENT
+
+Time: 10.5–12.5s
+Camera: Overhead-to-front transition
+Visual: Mochi pieces arrange around the hero package, framed by fresh mango slices.
+Focus: Sharp, centered, recognizable packaging.
+
+08 — FINAL PACKSHOT
+
+Time: 12.5–15.0s
+Camera: Cinematic push-in
+Visual: Hero package stands beside two cut mochi pieces with golden filling visible. A glossy mango ribbon sweeps behind.
+On-Screen Text:
+SOFT. SWEET. TROPICAL.
+A little taste of sunshine.
+Clean brand/logo placement.
+
+CAMERA LANGUAGE
+
+* Extreme macro food photography
+* Smooth push-ins and rotations
+* Controlled overhead movement
+* Slow-motion filling reveals
+* Shallow depth of field
+* Premium hero framing
+
+LIGHTING
+
+Warm studio lighting, soft highlights, subtle rim light, gentle shadows, glossy mango reflections, and controlled packaging highlights.
+
+STYLE
+
+Ultra-realistic premium dessert advertising, realistic mochi texture, soft powdered surface, creamy mango filling, detailed fruit fibers, natural food physics, elegant ingredient motion, sharp packaging, cinematic depth of field, 8K-quality detail.
+
+IMPORTANT: Keep the mango mochi and packaging consistent and recognizable across all scenes. Product is always the hero. Avoid clutter, excessive ingredients, unrealistic deformation, distorted packaging, unreadable branding, or cartoon styling.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/soft-outside-sweet-surprise-inside-a-little-bite-of-tropical-333063/video-ef41b035fd4b.webm)
+
+**Source:** [@itxabdullaa](https://x.com/itxabdullaa/status/2097307424638333063) · 15s · 16:9 · product commercial
+
+---
+
+## 13. Created with MiniMax H3.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-023816/video-90162a4f2d1f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-023816/poster-7725b7fe255a.jpg" alt="Created with MiniMax H3. video preview" width="700" />
@@ -69,7 +599,7 @@ Photorealistic, natural skin and hair, realistic fabric movement, cinematic ligh
 
 ---
 
-## 3. Try it →
+## 14. Try it →
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-731290/video-45072d167800.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-731290/poster-ec2c3bde4342.jpg" alt="Try it → video preview" width="700" />
@@ -118,7 +648,7 @@ Final feel: a premium pink Korean K-pop fashion campaign — cute, sexy, Y2K, en
 
 ---
 
-## 4. Cold, creamy, and impossible to resist. 🍓✨ One spoonful changes everything.
+## 15. Cold, creamy, and impossible to resist. 🍓✨ One spoonful changes everything.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/cold-creamy-and-impossible-to-resist-one-spoonful-changes-everything-689457/video-bdc9d5f87ae9.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/cold-creamy-and-impossible-to-resist-one-spoonful-changes-everything-689457/poster-1fe0602318ea.jpg" alt="Cold, creamy, and impossible to resist. 🍓✨ One spoonful changes everything. video preview" width="700" />
@@ -185,7 +715,7 @@ Ultra-realistic premium frozen dessert commercial, rich creamy ice cream texture
 
 ---
 
-## 5. You can use this style for MVs and character promos too.
+## 16. You can use this style for MVs and character promos too.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/you-can-use-this-style-for-mvs-and-character-promos-142588/video-a7fdf9edba2b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/you-can-use-this-style-for-mvs-and-character-promos-142588/poster-dee683a178db.jpg" alt="You can use this style for MVs and character promos too. video preview" width="700" />
@@ -212,7 +742,407 @@ Crisp premium anime illustration, Y2K Harajuku arcade aesthetic, saturated neon 
 
 ---
 
-## 6. I made a comedy special with Hailuo H3 and the timing is spot on
+## 17. Made with MiniMax H3 on
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-on-128023/video-43dda0dbdd5a.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-on-128023/poster-77bf6cf6b7b8.jpg" alt="Made with MiniMax H3 on video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a 15-second fast-paced character creation timelapse inside a professional digital drawing and character design interface. Use the provided character reference only as the...</summary>
+
+~~~~text
+Create a 15-second fast-paced character creation timelapse inside a professional digital drawing and character design interface.
+
+Use the provided character reference only as the final target for the character's appearance, proportions, clothing, hairstyle, colors and distinctive features. The process must visibly start from a completely blank canvas and reconstruct the referenced character from scratch.
+
+Show a visible mouse cursor actively controlling the entire creation process. Every major visual change should feel caused by cursor interaction with the UI.
+
+0:00-0:02
+Start on a blank white or neutral canvas inside a clean professional drawing interface. The cursor quickly creates the first loose construction lines, head shape, body proportions and basic pose using rough sketch strokes.
+
+0:02-0:05
+Accelerate into detailed sketching. The cursor rapidly defines the face, hair, anatomy, clothing silhouette, accessories and characteristic features of the referenced character. Use believable drawing gestures, short strokes, selections, transforms and occasional undo corrections.
+
+0:05-0:08
+The rough sketch becomes clean line art. The cursor switches tools, adjusts brush size and cleans the silhouette. Unnecessary construction lines disappear while precise facial details, clothing folds and small design elements are added.
+
+0:08-0:11
+Rapid coloring phase. The cursor selects regions and fills the character with the correct colors from the reference. Show quick palette selections, color picking, layer changes, clipping masks and brush passes. Add shadows, highlights and material details in fast succession.
+
+0:11-0:13
+Rendering and polish. The cursor adds final lighting, hair detail, skin shading, fabric texture, reflections and small accent details. Briefly zoom into important areas such as the face or costume while refining them, then zoom back out.
+
+0:13-0:15
+The interface clears unnecessary guides and panels. The finished character is shown fully rendered and closely matching the provided reference. End with the cursor making one final small adjustment, then stop on a clean full-character presentation.
+
+STYLE:
+High-speed digital art timelapse, polished professional character-design workflow, believable drawing software UI, smooth cursor movement, rapid but readable actions, clean layers and tool changes, no random text, no fake dialogue, no unrelated popups.
+
+MOTION:
+The entire 15 seconds should feel continuously productive. Avoid long pauses. Compress several minutes or hours of drawing into an energetic timelapse while keeping the progression clearly readable: blank canvas → rough sketch → clean line art → flat colors → shading → polished final character.
+
+CAMERA:
+Primarily screen-recording style with subtle digital zooms and pans following the cursor and active drawing area. Keep the UI stable and readable. Do not use cinematic cuts outside the software interface.
+
+AUDIO:
+Synthesize a soft ambient soundtrack: subtle mechanical ticking, gear-whirring, and light workshop ambience underscoring the drawing motion — no dialogue, no music stings, nothing that competes with the visual rhythm of the strokes.
+
+IMPORTANT:
+The character must not appear instantly or through a single magical transformation. Every stage should visibly build upon the previous one through cursor-driven drawing, editing, coloring and rendering actions.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-on-128023/video-43dda0dbdd5a.webm)
+
+**Source:** [@Chaemate_](https://x.com/Chaemate_/status/2095770134313128023) · 15s · 236:135 · product commercial
+
+---
+
+## 18. Time to experiment.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/time-to-experiment-885143/video-d99f511d12bf.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/time-to-experiment-885143/poster-cfb5856ab572.jpg" alt="Time to experiment. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — 30 seconds | 16:9 | Ultra-photorealistic live-action Create a natural Korean summer day-in-the-life video featuring one young Korean man spending a quiet afternoon preparing a...</summary>
+
+~~~~text
+30 seconds | 16:9 | Ultra-photorealistic live-action
+Create a natural Korean summer day-in-the-life video featuring one young Korean man spending a quiet afternoon preparing a simple chilled fruit snack at home.
+Use the reference image only for his exact facial identity, hairstyle, skin tone, and body proportions. Keep his appearance consistent throughout the entire video.
+OUTFIT: Lightweight pale-yellow short-sleeve shirt, loose white cotton pants, simple canvas shoulder bag, clean white low-profile sneakers, minimal silver watch. Outfit remains unchanged from beginning to end.
+TIME & LIGHTING: Warm late-afternoon summer sunlight. Consistent weather, shadows, color temperature, and time of day across every scene.
+00–05s — Neighborhood walk
+He leaves a small Korean apartment building carrying his canvas shoulder bag and walks down a quiet residential street.
+Trees move gently in the summer breeze. Parked scooters, apartment entrances, utility poles, bicycles, parked cars, and distant pedestrians create an authentic Korean neighborhood atmosphere.
+The camera naturally follows him as he walks.
+He briefly looks toward the camera and casually says:
+“I need something refreshing today.”
+His expression is relaxed and natural, not posed.
+05–10s — Local fruit stand
+He arrives at a small neighborhood fruit shop with crates of peaches, grapes, melons, Korean pears, and other seasonal fruit.
+Instead of immediately choosing something, he slowly walks around comparing the fruit.
+He notices a basket of ripe peaches, picks one up carefully, examines its surface, smells it, and gives a subtle satisfied smile.
+The shop owner casually says something off-camera.
+He responds naturally:
+“This one looks perfect.”
+He places several peaches into his canvas shoulder bag.
+10–15s — Walking home
+He walks back through the neighborhood carrying the slightly heavier bag.
+The camera follows naturally from behind and then moves alongside him.
+He adjusts the shoulder bag against his body as the peaches shift naturally inside.
+A bicycle passes in the background.
+Leaves move gently in the breeze. His hair moves subtly with the air.
+His walking pace and body movements remain completely natural and unscripted.
+15–21s — Apartment kitchen
+He enters his apartment kitchen and places the peaches carefully on the counter.
+He turns on the faucet and rinses them under cool running water.
+Water droplets collect on the peaches and fall naturally into the sink.
+He picks up one peach, dries it with a clean kitchen towel, and places it onto a small ceramic plate.
+The apartment feels modest, lived-in, and realistic rather than professionally designed.
+21–26s — Preparing the snack
+He sits at the kitchen counter.
+Using a small kitchen knife, he carefully slices the peach in half.
+The knife encounters realistic resistance before passing through the soft fruit.
+He removes the pit, cuts several thin slices, and casually arranges them on the plate.
+Close-up of realistic peach texture, moisture, juice, and small imperfections in the fruit.
+His hands and fingers move naturally and accurately.
+26–30s — First bite
+He picks up one peach slice and takes his first bite.
+He pauses briefly, enjoys the flavor, smiles naturally, and quietly says:
+“So good.”
+He looks toward the nearby window as warm sunlight falls across the kitchen.
+The camera slowly drifts backward, capturing the cozy kitchen, open window, gentle curtain movement, and quiet late-summer atmosphere.
+Cut naturally at the end.
+CAMERA STYLE: Documentary lifestyle footage with smooth handheld movement. Natural tracking shots, occasional subtle camera sway, realistic focus transitions, restrained depth of field, natural lens behavior, and authentic perspective. Avoid overly cinematic shots or commercial advertising aesthetics.
+AUDIO: Real environmental audio only — distant neighborhood sounds, footsteps, bicycle passing, casual fruit-shop conversation, plastic bags, fruit being handled, apartment door, running water, knife against cutting board, refrigerator hum, subtle curtain movement, breathing, and natural eating sounds. No background music.
+PHYSICAL REALISM: The shoulder bag reacts naturally to the weight of the fruit. Peaches shift according to gravity and momentum. Hands maintain believable grip and pressure. Water flows naturally. Knife movement shows realistic cutting resistance. All body movements, walking, reaching, lifting, sitting, washing, cutting, and eating should feel spontaneous and physically accurate.
+CONTINUITY: Same man, facial identity, hairstyle, body proportions, outfit, bag, fruit, apartment, kitchen, weather, lighting, and time of day throughout. No unexplained object changes.
+NEGATIVE PROMPT: No CGI look, synthetic skin, beauty filter, excessive sharpening, HDR, artificial blur, unrealistic depth of field, robotic movement, weightless objects, floating fruit, impossible hand positions, distorted anatomy, extra fingers, malformed hands, face drift, character replacement, wardrobe changes, hairstyle changes, teleportation, instant cutting, duplicated people, inconsistent shadows, sudden weather changes, excessive wind, text, subtitles, logos, watermark, background music, commercial advertisement style.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/time-to-experiment-885143/video-d99f511d12bf.webm)
+
+**Source:** [@Sheldon056](https://x.com/Sheldon056/status/2095095646172885143) · 30s · 4:5 · product commercial
+
+---
+
+## 19. Strong, modern, editorial, with a little strange beauty and controlled unease.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/strong-modern-editorial-with-a-little-strange-beauty-and-controlled-746202/video-72e57d6f8b5d.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/strong-modern-editorial-with-a-little-strange-beauty-and-controlled-746202/poster-b0c7e46ac669.jpg" alt="Strong, modern, editorial, with a little strange beauty and controlled unease. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Short Movie「欲望」--- ※音楽が流れます。 可愛い子を動かしたかっただけなんです。 けしからんですよね、、、。 ごめんなさい。 ☑️プロンプト下に置きました👇 みんなも可愛い子の動画作ろ💌 #MiniMaxH3 on #MiniMaxDesign #RInneTao @Hailuo_AI @midjourney ---- [Prompt...</summary>
+
+~~~~text
+Short Movie「欲望」---
+※音楽が流れます。
+
+可愛い子を動かしたかっただけなんです。
+けしからんですよね、、、。
+ごめんなさい。
+
+☑️プロンプト下に置きました👇
+みんなも可愛い子の動画作ろ💌
+
+#MiniMaxH3 on #MiniMaxDesign
+#RInneTao
+
+@Hailuo_AI
+@midjourney
+
+----
+
+[Prompt / Minimax H3]
+※WORD 1〜5の英単語、自由に変えてください。
+
+A 15-second editorial fashion film / fashion magazine commercial. Fast, stylish, contemporary, and visually bold. The film should feel like a rush of sharp fragments rather than a quiet portrait montage. Prioritize visual quality, movement, and editorial design above everything.
+
+Use the reference images as live visual material for face presence, fashion language, silhouette, surface texture, and mood, but do not recreate them as frozen portraits. Transform them into a living fashion film.
+
+Core rules:
+- The people must feel real first: breathing, blinking, gaze shifts, weight shifts, shoulders, fingertips, and mouth corners should always be alive.
+- No doll-like stillness, no paper-doll motion.
+- Every performer should have a distinct personality readable through movement, gaze, breathing, reaction speed, hand habits, posture, and expression.
+- Poses must be strong and clearly modeled, like fashion-model poses.
+- Cuts must be fast.
+- No shot should last longer than 2 seconds.
+- Scenes should change constantly, like a rush of sharp momentary fragments.
+- Use split-screen often enough to matter, with left and right sides acting on different intentions and never fully synchronized.
+- Keep the camera constantly moving: push-in, pull-out, orbiting, oblique travel, occlusion, depth shifts, and rapid reframing.
+- Use expressive transitions: flash cuts, match cuts, reverse flips, shutter-like wipes, split-screen interruptions, and speed-based continuity.
+- Avoid boring fades, boring slides, and quiet portrait sequences.
+
+Performer directions:
+- Performer 1: cold observer, restrained, gaze leads the motion.
+- Performer 2: ritual-like, hand-driven, meaningful interaction with clothing or props.
+- Performer 3: model-like, visual anchor, confident center presence.
+- Performer 4: trembling, breathable, delayed reactions, human softness.
+
+Subtle fashion gestures:
+Each performer should include subtle expressive fashion gestures as accents:
+- licking a finger
+- touching the cheek or chest
+- brushing hair back
+- blowing a soft breath toward the camera
+- winking
+- kiss-like motion
+- gaze-play
+
+Keep the tone chic, suggestive, and editorial rather than explicit.
+
+Typography:
+- English typography only.
+- The typography should feel like a designer logo system or a world-building mark, not subtitles.
+- It should behave like a continuous organism across the entire video: stretching, wrapping, splitting, colliding, trailing, slipping in front of and behind people, crossing cuts, and remaining present as an integrated graphic force.
+- Prioritize aesthetic motion and graphic presence over perfect readability.
+- The text may be abstracted, symbolic, geometric, and design-forward.
+
+Use words related to the project theme, such as:
+[WORD 1], [WORD 2], [WORD 3], [WORD 4], [WORD 5]
+
+Overall feel:
+A chic fashion magazine commercial with runway energy, crossed with an editorial visual language.
+The final video should feel like distinct personalities moving through one editorial world, with living typography cutting through the frame like a second organism.
+Strong, modern, editorial, with a little strange beauty and controlled unease.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/strong-modern-editorial-with-a-little-strange-beauty-and-controlled-746202/video-72e57d6f8b5d.webm)
+
+**Source:** [@TaoRInne](https://x.com/TaoRInne/status/2095086312319746202) · 34s · 16:9 · product commercial
+
+---
+
+## 20. Golden Hour Neighborhood Walk
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/golden-hour-neighborhood-walk-568202/video-67f30f278849.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/golden-hour-neighborhood-walk-568202/poster-edfef6cbf784.jpg" alt="Golden Hour Neighborhood Walk video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Style: Ultra-realistic cinematic handheld footage, natural daylight fading into golden-hour sunset. Soft realistic film grain, gentle handheld sway, shallow-to-medium depth of...</summary>
+
+~~~~text
+Style: Ultra-realistic cinematic handheld footage, natural daylight fading into golden-hour sunset. Soft realistic film grain, gentle handheld sway, shallow-to-medium depth of field, warm color grading. Real Seoul residential neighborhood (narrow alleys, brick low-rise houses, hanok-style tiled roofs, utility poles, parked cars). No CGI, no beauty filter, no overly polished commercial look — believable skin texture, natural flyaway hairs, authentic wind movement.
+
+Reference: Use exactly one reference image for the woman. Preserve her identity, face, skin tone, hairstyle, body proportions, and wardrobe consistently across every shot.
+
+Character: Young Korean woman, early-to-mid 20s, cream cardigan over sage-green button-up blouse, blue straight-leg jeans, white sneakers, brown crossbody/shoulder bag, small silver hoop/pearl earrings. Natural makeup with soft red-toned lips, glossy dark hair worn down, warm authentic smile throughout.
+
+00:00–00:03 — Approach Walk: She walks toward camera down a quiet daytime alley between low white and brick walls, relaxed casual pace, soft ambient smile, mid-shot tracking backward in front of her.
+
+00:03–00:07 — Crouch & Cat: She crouches down at a wall corner where a small tabby street cat sits, leaning in with a delighted laugh, one hand resting on her knee, warm candid side-profile framing.
+
+00:07–00:10 — Golden Turn: Cut to golden-hour light — she walks down a sloped residential street, sun flare grazing her hair and shoulders, glancing upward and around with a soft content smile, hair lifting gently in the breeze.
+
+00:10–00:13 — Wide Street Walk: Wider tracking shot past hanok rooftops and brick houses, city skyline visible in the distance, she strolls confidently, glancing off to the side, golden backlight rimming her hair.
+
+00:13–00:16 — Close Glance Back: Close-up as she turns her head over her shoulder toward camera, playful knowing smile, hair swept by wind, warm rim-light on her cheek and earring.
+
+00:16–00:19 — Walking Away: Camera holds behind her as she continues down the alley past a weathered painted wall, sunset light raking across the brick, bag swaying gently on her shoulder.
+
+00:19–00:20 — Final Look: She glances back over her shoulder once more with a soft laugh/smile as the shot settles, warm dusk light silhouetting her hair — natural cut-off mid-motion.
+
+Realism: Accurate hands and natural gait throughout, believable cat behavior and interaction, consistent wardrobe and hairstyle across all cuts, natural long shadows and warm sun flare in the golden-hour segments, soft handheld micro-shake, no teleporting, duplication, warped hands, extra fingers, or wardrobe changes between cuts.
+
+Audio: Natural location sound only — footsteps on pavement, soft ambient neighborhood sound (birds, distant traffic, faint breeze), fabric rustling, a soft cat meow/purr during the crouch beat, quiet natural breathing and laughter. No music, narration, subtitles, captions, logos, watermark, or on-screen text.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/golden-hour-neighborhood-walk-568202/video-67f30f278849.webm)
+
+**Source:** [@afrinxai](https://x.com/afrinxai/status/2093685105474568202) · 21s · 7:4 · product commercial
+
+---
+
+## 21. Created with / MiniMax H3 × Ima Studio
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-ima-studio-241208/video-38646d3f5fbe.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-ima-studio-241208/poster-3e5dabfbe8f2.jpg" alt="Created with / MiniMax H3 × Ima Studio video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — High-Speed K-pop Fashion MV, luxury fashion advertising + Material Kinetic Typography + Experimental Fashion Film + 3D Spatial Typography. Strictly use @Image1 as the only...</summary>
+
+~~~~text
+High-Speed K-pop Fashion MV, luxury fashion advertising + Material Kinetic Typography + Experimental Fashion Film + 3D Spatial Typography. Strictly use @Image1 as the only character reference throughout the entire film. Core visual concept: the same girl + giant physical English typography + constantly changing materials + typography moving through foreground, midground, and background around the character + high-speed camera movement + aggressive beat synchronization. This is NOT a conventional MV where a person simply stands in front of text. All typography must physically exist inside the same 3D space as the character. Typography can generate behind her, wrap around her shoulders into the foreground, then rush toward the camera; it can also fly in from the extreme foreground, pass along both sides of her body, and extend behind her. She can stand inside giant typography, walk between oversized letters, and become fully surrounded by text. All typography must have realistic occlusion, spatial depth, perspective, shadows, reflections, and interactive lighting.【CHARACTER LOCK｜HIGHEST PRIORITY】Strictly use the girl from @Image1. Maintain exactly the same face shape, facial-feature proportions, eye shape, eyebrow-to-eye proportions, nose, lips, jawline, skin tone, age, body proportions, long straight black hair, and wispy bangs throughout the entire film. Young East Asian woman with a refined small oval face, dark eyes, petite natural nose, soft pink lips, and fair natural skin. Realistic skin texture, visible natural pores, realistic eyelashes, and individually defined black hair strands. Keep the clean K-pop makeup from the reference: natural base makeup, subtle pink eye makeup, thin eyeliner, natural lashes, and glossy pink lips. No face swapping, no Westernization, no facial drift, no face-shape changes, no age changes, no skin-tone changes, no hair-color changes, and never lose the bangs. Long black hair and wispy bangs are essential identity features and must remain consistent at all times.【WARDROBE】Use the original black edgy outfit from @Image1 as the visual foundation. Keep the overall palette BLACK + SILVER + DEEP RED. LOOK01: black fitted sleeveless crop top, black choker, silver necklace, silver earrings, silver mirrored low-rise mini skirt, black knee-high boots. LOOK02: black sleeveless top and choker, used for the Beauty Close-Up. LOOK03: black oversized cropped biker leather jacket + black tank top + black leather mini skirt + silver waist chain. LOOK04: deep burgundy modern reinterpreted short qipao, black piping, minimalist silver frog-button details, black knee-high boots. LOOK05: black cropped top + silver metallic mini skirt + black choker. LOOK06: black modern Chinese-inspired structured cropped top + black layered mini skirt + silver metallic accessories. LOOK07: distressed gray-blue denim cropped top + charcoal-black asymmetric low-rise mini skirt + silver waist chain. LOOK08: Final Dark Idol Look, black asymmetric cropped top + black ultra-short layered skirt + silver waist chain + black choker + black knee-high boots. Do not radically change the fashion identity between scenes; the character must remain visually unified throughout.【MUSIC】145–155 BPM, high-energy, sexy, edgy K-pop Fashion Beat. Music style: K-pop Girl Group + Electro Hip-Hop + Jersey Club + Fashion Runway Beat + Y2K Club Beat. Start immediately with an aggressive rhythm at 0 seconds, no slow intro. Strong Kick, Heavy Bass, crisp Snare, rapid Hi-Hat, Electronic Percussion, short Glitch Hits. Rhythm pattern similar to BOOM — CLAP — BOOM BOOM — CLAP. One obvious heavy beat every 1–1.5 seconds. Every outfit transition, typography appearance, text deformation, camera push, rotation, and material explosion must hit precisely on the beat. No lyrics, no vocals, no dialogue, no lip-syncing. Add material-specific sound effects including Smoke Whoosh, Neon Buzz, Metal Impact, Electric Crack, Plant Growth, Paper Flip, Fabric Whip, Wind Rush, and Bass Impact.【OVERALL COLOR PALETTE】Restrict colors to BLACK, WHITE, HOT PINK, DEEP PINK, BURGUNDY, SILVER. Black is the dominant spatial base, Hot Pink provides energy and highlights, silver defines metallic materials, white provides typography contrast, and burgundy adds a sophisticated fashion tone. No rainbow colors. No blue-purple cyberpunk palette. Overall aesthetic: K-pop Girl Group Comeback Concept Film × High Fashion Campaign × Experimental Typography MV.【SCENE 01｜0–1.6s｜FREE YOUR MIND｜SMOKE TYPOGRAPHY】Enter the climax immediately on the first beat. The girl wears a black fitted sleeveless crop top, black choker, silver necklace, silver mirrored mini skirt, and black knee-high boots. Full-body shot, standing exactly in the center of a vast black space with a subtly reflective floor. She faces the camera and suddenly reaches one hand toward the lens. BOOM! A massive burst of white + extremely pale pink smoke erupts from her palm. The smoke first forms a gigantic “FREE” behind her, approximately twice her height. On the next beat, smoke curls out from behind her left shoulder, passes into the space in front of her body, and forms “YOUR”. Finally, the smoke continues toward the camera and forms a gigantic “MIND” in the extreme foreground. Establish three clearly separated spatial layers: FREE in the background, character + YOUR in the midground, MIND in the foreground. She is genuinely surrounded by the typography. Smoke-letter edges continuously roll, expand, contract, and breathe. High-Speed Push-in from a frontal full-body view, rapidly approaching her, then fly directly into the interior of the “MIND” letters until the dark interior fills the entire frame for transition.【SCENE 02｜1.6–3.1s｜LIGHT YOUR OWN WAY｜NEON FACE CLOSE-UP】Instantly cut from darkness into an Extreme Beauty Close-Up. This is the most important face-locking shot in the entire film. Preserve exactly the same long black hair, wispy bangs, eyes, nose, lips, face shape, silver earrings, and choker from @Image1. Her face is slightly turned to the side. Her eyes first look to the right, then shift directly toward the camera. One finger rises from the bottom of the frame and a bright Hot Pink point of light appears at the fingertip. On the next beat, a pink Neon Line shoots rapidly from the fingertip. The neon first sweeps across the extreme foreground, passes beside her cheek, curves beneath her chin, crosses in front of her shoulder, then wraps behind her head to create a giant S-shaped 3D light trail. The trail gradually forms “LIGHT YOUR OWN WAY”. LIGHT occupies the foreground, YOUR wraps around her shoulder, OWN appears beside her, and WAY extends into the background. The neon realistically illuminates her eyes, cheekbones, nose bridge, and the edges of her black hair. The camera follows the neon trajectory at high speed, beginning at the front of her face, orbiting approximately 180 degrees around her, then rapidly Pull-out until the complete sentence becomes clearly readable once.【SCENE 03｜3.1–4.7s｜BECOME WHO YOU CHOOSE｜LIQUID CHROME】BOOM! Instant wardrobe transition into the black biker look: black oversized cropped leather jacket, black tank top, black leather mini skirt, silver waist chain. Cut to Ultra-Wide + Extreme Low Angle. Large volumes of silver liquid metal rise from the floor like mercury, rapidly stretching upward into gigantic Chrome Typography two to three times taller than the character: “BECOME WHO YOU CHOOSE”. The typography must not form a flat wall. It behaves like monumental typographic architecture. Some letters stand in front of her, others flank her left and right sides, and others rise behind her. She physically stands between the giant letters and takes one step forward through a gap between them. She raises her right hand; moving her palm left stretches the Chrome letters in the same direction, moving right makes them distort like liquid mercury. On the next beat she suddenly clenches her fist. CLAP! All letters instantly solidify, clearly displaying “BECOME WHO YOU CHOOSE”. The camera races closely along the reflective Chrome letter surfaces, briefly revealing her reflection in the silver metal, then performs a high-speed Pull-out.【SCENE 04｜4.7–6.3s｜LET YOUR FUTURE BLOOM｜BOTANICAL CIRCLE】Completely change composition to a 90° Top Shot. She now wears a deep burgundy modern reinterpreted short qipao, youthful and fitted, with black piping and minimalist silver frog-button details. Avoid traditional portrait-photography aesthetics. She is positioned exactly at the center of the frame, slightly crouching, with the tip of her right finger touching the ground. A tiny flower bud appears beneath her fingertip. On the next beat, vegetation suddenly grows outward at extreme speed. Black vines, deep burgundy petals, and small amounts of pink and white flowers spread 360 degrees around her. The plants do not form a background wall; they grow into a gigantic circular Typography Garden surrounding her. “LET YOUR” grows along her left side, “FUTURE” forms a massive semicircle above her, and “BLOOM” expands beneath her. Eventually “LET YOUR FUTURE BLOOM” becomes a complete giant botanical typography ring with the girl perfectly centered inside it. BOOM! Every flower blooms simultaneously and a storm of petals flies directly toward the lens. The camera rapidly descends from the overhead position and dives through the flowers for transition.【SCENE 05｜6.3–7.9s｜POWER YOUR CHOICE｜ELECTRIC FOREGROUND】Hard Cut to a frontal centered composition. She returns to a black + silver outfit: black cropped top, silver metallic mini skirt, black choker. She stands relatively close to the camera and suddenly thrusts both hands toward the lens. Due to wide-angle perspective, both hands become large foreground elements, but anatomy must remain realistic and natural. A tiny Hot Pink electric spark appears between her fingertips. BOOM! Electricity violently erupts. Pink + white electrical currents first rush toward the camera and form a gigantic “POWER” between her and the lens. Then electricity passes between her hands and surrounds her torso to form “YOUR”. Finally, the current extends behind her and forms “CHOICE”. Create three clear spatial layers: POWER — foreground, YOUR — surrounding the character, CHOICE — background. Her face remains visible through gaps in the Electric Typography and her eyes must never be obstructed. High-speed Rack Focus sequence: fingertips → POWER → her eyes → YOUR → CHOICE → her eyes. Finally, a massive pink electrical bolt strikes directly toward the camera, creating a white flash transition.【SCENE 06｜7.9–9.5s｜STEP INTO YOUR STORY｜SHADOW TYPOGRAPHY】The white flash fades into an extremely wide side composition. She wears a black modern Chinese-inspired structured cropped top, black layered mini skirt, silver waist chain, and black knee-high boots. She is positioned on the left side of the frame, while a huge gray-white wall extends far toward the right. Strong directional side lighting creates an enormous elongated shadow across the wall and floor. She begins walking toward the right. On the first step, her shadow stretches and transforms into “STEP”. On the second step, STEP climbs from the floor onto the wall. Then “INTO” stretches away into the distance following spatial perspective. Finally, “YOUR STORY” suddenly expands from behind her into enormous Shadow Typography. She continues walking forward, physically passing between giant shadow letters S, T, O, R, Y. The camera performs high-speed Side Tracking parallel to her movement. At the end, she walks directly into the enormous black interior of “STORY”, and the shadow completely consumes the camera.【SCENE 07｜9.5–11s｜TURN THE PAGE｜PAPER TYPOGRAPHY】A storm of paper suddenly erupts from the darkness. Use a strong Dutch Angle composition. She now wears a distressed gray-blue denim cropped top, charcoal-black asymmetric low-rise mini skirt, and silver waist chain, positioned slightly left of center. Large quantities of white paper, black paper, deep pink magazine paper, and burgundy paper fragments fly through the space at high speed. Paper sheets first fold together in the foreground to form a gigantic “TURN”. TURN then flips upward like an enormous magazine page, passing from the foreground over her head and physically landing behind her. Simultaneously, “THE” forms along both sides of her body, while a gigantic “PAGE” expands from behind her toward the camera. She swings one hand. WHOOSH! The entire “TURN THE PAGE” structure flips like an enormous Fashion Magazine from in front of her to behind her. The camera races between flying sheets of paper. Sheets passing extremely close to the lens create realistic Motion Blur.【SCENE 08｜11–13s｜LIVE BY YOUR RULES｜RIBBON TYPOGRAPHY】The music reaches maximum intensity. She instantly changes into the Final Dark Idol Look: black asymmetric cropped top, black layered ultra-short skirt, silver waist chain, black choker, silver earrings, black knee-high boots. She stands exactly in the center and performs a fast turn. Large amounts of real Hot Pink, deep burgundy, and black ribbons explode from behind her. The ribbons must have realistic weight, folds, reflections, inertia, and aerodynamic drag. The first ribbon group shoots from behind her left shoulder, curves over her head into the extreme foreground to form “LIVE”, then continues around and behind her. The second group emerges again from behind her right side, crosses in front of her waist, and forms “BY YOUR”. The third group rises from around her feet, spirals around her legs, then angles toward the camera to form “RULES”. Eventually “LIVE BY YOUR RULES” becomes a gigantic 3D Typography Spiral. Typography continuously moves from foreground → side → background → extreme foreground → back behind her. She genuinely stands inside the center of the typographic vortex. The camera performs a high-speed 360° Orbit around her while the character and Ribbon Typography rotate in opposite directions. On the final BOOM, all ribbons instantly freeze and the complete phrase “LIVE BY YOUR RULES” remains clearly readable once.【SCENE 09｜13–15s｜CHOOSE YOUR LIFE｜IRIS TYPOGRAPHY TUNNEL】Hard Cut to an Extreme Macro of both eyes, filling almost the entire 16:9 frame. Preserve exactly the same eye shape, eye makeup, bangs, eyebrows, and realistic skin texture from @Image1. A tiny Hot Pink light appears in the center of the pupil. Deep inside the iris, “CHOOSE” gradually appears, followed by “YOUR”, then “LIFE”, forming “CHOOSE YOUR LIFE”. The typography is NOT printed onto the eyeball surface; it exists as miniature 3D Neon Typography suspended deep inside the iris. The camera suddenly rushes toward the right pupil and enters it. The pupil instantly transforms into a gigantic black + Hot Pink typography environment. Countless repetitions of “CHOOSE YOUR LIFE” extend through spatial depth to form an Infinite Typography Tunnel. Nearby typography is enormous, mid-distance typography is medium-sized, distant typography becomes progressively smaller, creating extreme infinite perspective. The camera races through the typography tunnel while gigantic letters sweep past from the left, right, above, and below. Finally, all typography suddenly collapses toward the center. In the middle of the black space, only one complete and clearly readable “CHOOSE YOUR LIFE” remains. The Hot Pink light contracts into a single point. Final Bass Hit: the girl blinks, instant cut to black.【TEXT ACCURACY｜HIGHEST PRIORITY】The following phrases must be generated exactly and spelled correctly: FREE YOUR MIND; LIGHT YOUR OWN WAY; BECOME WHO YOU CHOOSE; LET YOUR FUTURE BLOOM; POWER YOUR CHOICE; STEP INTO YOUR STORY; TURN THE PAGE; LIVE BY YOUR RULES; CHOOSE YOUR LIFE. No gibberish, random letters, extra words, or spelling errors. Even during high-speed typography movement, every phrase must have at least 0.3–0.5 seconds of complete, stable, clearly readable presentation.【ALL NINE SCENES MUST HAVE CLEARLY DIFFERENT COMPOSITIONS】01 Frontal full-body + Smoke Typography across foreground/midground/background; 02 Extreme Face Close-Up + Neon wrapping around the face in an S-shaped 3D path; 03 Extreme Low Angle + giant Chrome Typography architecture; 04 90° Top Shot + character centered inside a botanical typography ring; 05 frontal wide-angle forced perspective + Electric Typography in the foreground; 06 ultra-wide side view + Side Tracking + character walking into Shadow Typography; 07 Dutch Angle + Paper Typography flipping from foreground to background; 08 centered character + Ribbon Typography surrounding her in 360° space; 09 Extreme Eye Macro + Infinite Typography Tunnel. Never use the same composition for two consecutive scenes.【HIGH-SPEED CAMERA LANGUAGE】Frequently use High-Speed Push-in, High-Speed Pull-out, Whip Pan, Extreme Macro, Ultra Wide Angle, Low Angle, Top Shot, Dutch Angle, Side Tracking, 180° Orbit, 360° Orbit, Rack Focus, Perspective Distortion, Typography Fly-through, and Letter Surface Tracking. Camera movement can be extremely fast, but the character’s face must never become distorted by wide-angle lenses or motion. Facial features must remain stable, recognizable, sharp, and anatomically correct at all times.【STRICTLY FORBIDDEN】No face swapping, no additional people, no facial-feature drift, no Westernization, no face-shape changes, no age changes, no skin-tone changes, no hair-color changes, no missing bangs; no extra hands, extra legs, extra fingers, malformed hands, body intersections, or melting clothing; no typography passing through the character’s face or covering her eyes; no gibberish typography or spelling mistakes; no typography functioning as ordinary flat subtitles; no typography simply pasted onto background walls; no repetitive “character on the left + text on the right” compositions; no frontal medium shot in every scene; no repeated typography materials across all scenes; no cheap magical particles, no blue-purple cyberpunk aesthetic, no real brand logos, no player UI, no subtitles, no timestamps or numbers; no dialogue, no lip-syncing, no lyrics.【FINAL VISUAL TARGET】This is NOT a conventional Fashion Lookbook and NOT simply “a girl with English words added around her.” Throughout the full 15 seconds, the girl from @Image1 must genuinely enter and inhabit a Fashion World constructed entirely from Typography. Text repeatedly generates behind her → passes around her shoulders → wraps into the space in front of her body → flies toward the camera → circles back behind her. She physically stands between letters, walks through gigantic typography, becomes surrounded by text, controls typography deformation, causes typography to wrap around her body, and ultimately enters the typography itself. All nine scenes must have distinctly different materials, compositions, shot scales, spatial relationships, character actions, and camera movements. Final visual identity: BLACK + HOT PINK + WHITE.
+
+Try MiniMax H3 on Ima Studio 👉
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-ima-studio-241208/video-38646d3f5fbe.webm)
+
+**Source:** [@ImaStudio_ai](https://x.com/ImaStudio_ai/status/2092457346526241208) · 14s · 16:9 · product commercial
+
+---
+
+## 22. Created with MiniMax H3.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-166818/video-7aae9b13719f.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-166818/poster-7f88a5e15ff2.jpg" alt="Created with MiniMax H3. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a 15-second ultra-realistic cinematic lifestyle video based on the storyboard, featuring the same woman and exact facial identity from the reference image in every shot....</summary>
+
+~~~~text
+Create a 15-second ultra-realistic cinematic lifestyle video based on the storyboard, featuring the same woman and exact facial identity from the reference image in every shot. Keep her long wavy brown Korean-inspired hairstyle, natural features, and body proportions consistent. She wears the same oversized soft-pink T-shirt and loose light-blue pants throughout, with no coat, jacket, bag, backpack, or wardrobe changes. Start with her hanging freshly washed white clothes on a sunny rooftop clothesline, then smoothly transition to her walking downstairs inside her own home with empty hands. She sits outside near the entrance and enjoys an ice-cream cone, then walks back inside and enters her bedroom. She sits on the bed using her smartphone, followed by a close-up of her face with a soft natural smile, an over-the-shoulder shot of her scrolling on the phone, and finally a cozy shot of her lying on the bed, holding the phone and smiling peacefully. Use warm natural lighting, realistic skin and hair movement, subtle expressions, shallow depth of field, smooth gimbal-style camera motion, natural body movement, seamless transitions, and high-end commercial cinematography. Preserve exact facial identity, clothing, hairstyle, hands, and body continuity with no morphing or distortions. 16:9, 4K photorealism, cinematic, no text, subtitles, or watermark.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-166818/video-7aae9b13719f.webm)
+
+**Source:** [@Lianaalane](https://x.com/Lianaalane/status/2092101929837166818) · 16s · 68:45 · product commercial
+
+---
+
+## 23. Created with MiniMax H3 on
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-917271/video-7b443cd78c24.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-917271/poster-bb93c6268759.jpg" alt="Created with MiniMax H3 on video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a 15-second cinematic Pepsi commercial-style video set on an empty desert highway during golden hour. A stylish young woman in a western-inspired outfit and cowboy boots...</summary>
+
+~~~~text
+Create a 15-second cinematic Pepsi commercial-style video set on an empty desert highway during golden hour. A stylish young woman in a western-inspired outfit and cowboy boots walks toward a classic white vintage convertible parked beside a remote gas station. Show dramatic low-angle shots of her boots, the car’s chrome wheels, and her confident walk.
+
+Cut to an extreme close-up of her face, wind blowing through her hair, with warm sunlight and a confident expression. Show a chilled Pepsi glass bottle glowing in the sunset light, covered in realistic condensation, with the Pepsi logo clearly visible.
+
+Then show the woman sitting in the convertible while holding the Pepsi bottle as her scarf flows dramatically in the wind. Finish with a wide cinematic aerial shot of the vintage car speeding down the long empty desert road toward the setting sun, leaving a subtle trail of dust.
+
+Style: photorealistic, premium Pepsi commercial, cinematic storytelling, warm golden-hour lighting, anamorphic lens, shallow depth of field, realistic skin and fabric, smooth camera movements, dramatic close-ups, rich contrast, subtle film grain, 4K, high-end advertising aesthetic, 9:16 vertical.
+#MiniMaxDesign
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-917271/video-7b443cd78c24.webm)
+
+**Source:** [@CaliraVal](https://x.com/CaliraVal/status/2091012158280917271) · 15s · 16:9 · product commercial
+
+---
+
+## 24. Created with MiniMax H3 on
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-248245/video-61976ad5def2.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-248245/poster-127f9e8ae493.jpg" alt="Created with MiniMax H3 on video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a 15-second photorealistic product-fashion video using the uploaded reference video as the primary visual, character, product, and performance reference. Character &amp;...</summary>
+
+~~~~text
+Create a 15-second photorealistic product-fashion video using the uploaded reference video as the primary visual, character, product, and performance reference.
+
+Character & Appearance
+Recreate the same woman from the reference video. Keep her facial identity, long dark brown hair with soft bangs, natural glamorous makeup, white fitted sleeveless top, light blue high-waisted jeans, delicate jewelry, bracelets, and rings consistent throughout the video.
+
+Scene & Action
+
+0–3s:
+She sits casually on a neatly made bed in a modern luxury bedroom with warm sunlight coming through the windows. She looks directly at the camera and speaks naturally in English while using subtle hand gestures. The exact black sunglasses case from the reference video is beside her.
+
+3–6s:
+She picks up the sunglasses case and opens it while continuing to speak. Show a clean close-up of the case and the sunglasses inside.
+
+6–9s:
+She removes the black rectangular sunglasses from the case. Show a detailed close-up of the sunglasses, preserving the exact shape, frame design, color, proportions, lenses, and material from the reference video.
+
+9–12s:
+She puts the sunglasses on and adjusts them naturally with both hands while continuing to speak directly to the camera. Maintain natural facial expressions and confident fashion-influencer energy.
+
+12–15s:
+She moves toward the large mirror and checks her look while wearing the sunglasses. Show both her and her reflection. She makes a final adjustment, then looks confidently toward the camera.
+
+Voice & Lip Sync
+The woman must speak naturally in English throughout the video. Use the reference audio as the exact speech reference. Preserve the original words, pronunciation, pacing, pauses, emotion, and conversational tone.
+
+Her speech must be perfectly lip-synced. Match her mouth movements, jaw movement, facial expressions, blinking, eye movement, and subtle head gestures naturally to every spoken word.
+
+Camera
+Begin with a medium shot, gradually move closer during the product reveal, use cinematic close-ups for the sunglasses and hands, then transition naturally to a mirror shot. Smooth handheld movement, realistic focus changes, shallow depth of field.
+
+Lighting & Environment
+Warm golden-hour sunlight, modern luxury bedroom, white bedding, dark bedside furniture, soft natural shadows, realistic mirror reflections, detailed skin and hair texture.
+
+Style
+Photorealistic luxury fashion commercial, realistic human movement, natural influencer-style performance, cinematic composition, premium product detail, realistic hands and fingers, consistent character identity, realistic physics.
+
+Audio
+Clear natural female English speech with accurate lip sync, subtle room ambience, and realistic clothing/product sounds. No robotic voice, narrator, subtitles, extra dialogue, or overpowering music.
+
+Important
+Follow the reference video's overall visual storytelling, character performance, product appearance, and timing while keeping the final result polished, realistic, and natural.
+
+Format: 16:9
+Duration: 15 seconds
+Quality: Photorealistic, cinematic, high detail
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-248245/video-61976ad5def2.webm)
+
+**Source:** [@CaliraVal](https://x.com/CaliraVal/status/2089221706435248245) · 15s · 16:9 · product commercial
+
+---
+
+## 25. I made a comedy special with Hailuo H3 and the timing is spot on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/i-made-a-comedy-special-with-hailuo-h3-and-the-076759/video-cad41e26b34c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/i-made-a-comedy-special-with-hailuo-h3-and-the-076759/poster-abdb310fd381.jpg" alt="I made a comedy special with Hailuo H3 and the timing is spot on video preview" width="700" />
@@ -274,7 +1204,7 @@ Production details: Keep the same comedian, outfit, microphone, stage and audien
 
 ---
 
-## 7. Second Storyboard Image to video using MiniMax H3 on
+## 26. Second Storyboard Image to video using MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/second-storyboard-image-to-video-using-minimax-h3-on-665414/video-2c4784f7af18.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/second-storyboard-image-to-video-using-minimax-h3-on-665414/poster-bbe5730a76e8.jpg" alt="Second Storyboard Image to video using MiniMax H3 on video preview" width="700" />
@@ -1759,7 +2689,7 @@ No humans stepping on characters.
 
 ---
 
-## 8. First Storyboard Image to video using 's MiniMax H3 on
+## 27. First Storyboard Image to video using 's MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-517354/video-f661e6c0d06a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-517354/poster-b7e70bb4f45d.jpg" alt="First Storyboard Image to video using 's MiniMax H3 on video preview" width="700" />
@@ -3166,7 +4096,7 @@ CUT TO CHILL.
 
 ---
 
-## 9. Created with MiniMax H3
+## 28. Created with MiniMax H3
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-823597/video-68e6bf825c2a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-823597/poster-27f10be5609b.jpg" alt="Created with MiniMax H3 video preview" width="700" />
@@ -3196,7 +4126,7 @@ Style: Luxury fragrance commercial, cinematic, photorealistic, 4K.
 
 ---
 
-## 10. Seocnd Storyboard image to video using 's MiniMax H3 on
+## 29. Seocnd Storyboard image to video using 's MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/seocnd-storyboard-image-to-video-using-s-minimax-h3-on-442041/video-252019a6d170.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/seocnd-storyboard-image-to-video-using-s-minimax-h3-on-442041/poster-b607393e7e7f.jpg" alt="Seocnd Storyboard image to video using 's MiniMax H3 on video preview" width="700" />
@@ -4665,7 +5595,7 @@ No levitating food.
 
 ---
 
-## 11. First Storyboard image to video using 's MiniMax H3 on
+## 30. First Storyboard image to video using 's MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-995928/video-9cbd5b66bb9b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-995928/poster-7150a1d5c769.jpg" alt="First Storyboard image to video using 's MiniMax H3 on video preview" width="700" />
@@ -6171,7 +7101,7 @@ The viewer should immediately want to see:
 
 ---
 
-## 12. Second Storyboard Image to video using MiniMax H3 on
+## 31. Second Storyboard Image to video using MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/second-storyboard-image-to-video-using-minimax-h3-on-215889/video-ecca828f5d4c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/second-storyboard-image-to-video-using-minimax-h3-on-215889/poster-987b9e53a9c3.jpg" alt="Second Storyboard Image to video using MiniMax H3 on video preview" width="700" />
@@ -7619,7 +8549,7 @@ harmonica must remain visible.
 
 ---
 
-## 13. First Storyboard image to video using 's MiniMax H3 on
+## 32. First Storyboard image to video using 's MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-440739/video-034b4f923dc7.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-440739/poster-cf6d96d10055.jpg" alt="First Storyboard image to video using 's MiniMax H3 on video preview" width="700" />
@@ -9076,7 +10006,7 @@ No crime/gangster framing.
 
 ---
 
-## 14. Second Storyboard Image to video using MiniMax H3 on
+## 33. Second Storyboard Image to video using MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/second-storyboard-image-to-video-using-minimax-h3-on-451093/video-224daea0e392.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/second-storyboard-image-to-video-using-minimax-h3-on-451093/poster-b91e6afd1269.jpg" alt="Second Storyboard Image to video using MiniMax H3 on video preview" width="700" />
@@ -10539,7 +11469,7 @@ MOTION RULES — KIWI
 
 ---
 
-## 15. First Storyboard Image to video using 's MiniMax H3 on
+## 34. First Storyboard Image to video using 's MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-954269/video-a4a4f16df0e6.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-954269/poster-db4db1d3907d.jpg" alt="First Storyboard Image to video using 's MiniMax H3 on video preview" width="700" />
@@ -12005,7 +12935,7 @@ King Pine must still visibly wear:
 
 ---
 
-## 16. Fourthi Storyboard Image to video using MiniMax H3 on
+## 35. Fourthi Storyboard Image to video using MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/fourthi-storyboard-image-to-video-using-minimax-h3-on-470161/video-29eaf32ca5bd.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/fourthi-storyboard-image-to-video-using-minimax-h3-on-470161/poster-02038036727b.jpg" alt="Fourthi Storyboard Image to video using MiniMax H3 on video preview" width="700" />
@@ -13417,7 +14347,7 @@ Restored night palette:
 
 ---
 
-## 17. No painful reactions.
+## 36. No painful reactions.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/no-painful-reactions-707867/video-1bf525965dd7.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/no-painful-reactions-707867/poster-655644de766c.jpg" alt="No painful reactions. video preview" width="700" />
@@ -14806,7 +15736,7 @@ No painful reactions.
 
 ---
 
-## 18. No moon restoration yet.
+## 37. No moon restoration yet.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/no-moon-restoration-yet-834347/video-837f31b71233.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/no-moon-restoration-yet-834347/poster-87888b4156ef.jpg" alt="No moon restoration yet. video preview" width="700" />
@@ -16279,7 +17209,7 @@ No moon restoration yet.
 
 ---
 
-## 19. First Storyboard Image to video using 's MiniMax H3 on
+## 38. First Storyboard Image to video using 's MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-105162/video-d32d3c31e4ed.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-105162/poster-36c4ecade43d.jpg" alt="First Storyboard Image to video using 's MiniMax H3 on video preview" width="700" />
@@ -17689,7 +18619,7 @@ and
 
 ---
 
-## 20. Second Storyboard Image to video using 's MiniMax H3 on
+## 39. Second Storyboard Image to video using 's MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/second-storyboard-image-to-video-using-s-minimax-h3-on-495506/video-8719e1aaa9da.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/second-storyboard-image-to-video-using-s-minimax-h3-on-495506/poster-771aa67142d6.jpg" alt="Second Storyboard Image to video using 's MiniMax H3 on video preview" width="700" />
@@ -19091,7 +20021,7 @@ Individual stars physically move to new locations.
 
 ---
 
-## 21. The viewer should immediately want to see how 3,200 tiny stars transform the night in PART 2.
+## 40. The viewer should immediately want to see how 3,200 tiny stars transform the night in PART 2.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/the-viewer-should-immediately-want-to-see-how-3-200-630916/video-24183f17ba1e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/the-viewer-should-immediately-want-to-see-how-3-200-630916/poster-714aea4de2e0.jpg" alt="The viewer should immediately want to see how 3,200 tiny stars transform the night in PART 2. video preview" width="700" />
@@ -20462,7 +21392,7 @@ The viewer should immediately want to see how 3,200 tiny stars transform the nig
 
 ---
 
-## 22. Product Commercial Study 969702
+## 41. Product Commercial Study 969702
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/16-9-luxury-fashion-commercial-using-as-exact-vi-969702/video-c07c62a99d2c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/16-9-luxury-fashion-commercial-using-as-exact-vi-969702/poster-949e012ef325.jpg" alt="Product Commercial Study 969702 video preview" width="700" />
@@ -20485,7 +21415,7 @@ Use bright, fashion forward European luxury cinematography inspired by a restore
 
 ---
 
-## 23. [REFERENCE CONTROL] Use the uploaded PART 2 storyboard image for “The Tiny
+## 42. [REFERENCE CONTROL] Use the uploaded PART 2 storyboard image for “The Tiny
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/reference-control-use-the-uploaded-part-2-storyboard-image-for-477564/video-09c5896a79ee.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/reference-control-use-the-uploaded-part-2-storyboard-image-for-477564/poster-616f23c3b7b5.jpg" alt="[REFERENCE CONTROL] Use the uploaded PART 2 storyboard image for “The Tiny video preview" width="700" />
@@ -21890,7 +22820,7 @@ No grabbing.
 
 ---
 
-## 24. First Storyboard Image to video using 's MiniMax H3 on
+## 43. First Storyboard Image to video using 's MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-333283/video-2b0e6363cbd5.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-333283/poster-11e6ed23c117.jpg" alt="First Storyboard Image to video using 's MiniMax H3 on video preview" width="700" />
@@ -23256,7 +24186,7 @@ Brum’s eyes remain closed.
 
 ---
 
-## 25. Third Storyboard Image to video using MiniMax H3 on
+## 44. Third Storyboard Image to video using MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/third-storyboard-image-to-video-using-minimax-h3-on-135909/video-8c68e979a329.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/third-storyboard-image-to-video-using-minimax-h3-on-135909/poster-3062cde194e2.jpg" alt="Third Storyboard Image to video using MiniMax H3 on video preview" width="700" />
@@ -24715,7 +25645,7 @@ do not restart it.
 
 ---
 
-## 26. Second Storyboard Image to video using 's MiniMax H3 on
+## 45. Second Storyboard Image to video using 's MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/second-storyboard-image-to-video-using-s-minimax-h3-on-647644/video-0d2454d0cc90.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/second-storyboard-image-to-video-using-s-minimax-h3-on-647644/poster-6af16ef5bd37.jpg" alt="Second Storyboard Image to video using 's MiniMax H3 on video preview" width="700" />
@@ -26181,7 +27111,7 @@ She realizes the problem.
 
 ---
 
-## 27. First Storyboard Image to video using 's MiniMax H3 on
+## 46. First Storyboard Image to video using 's MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-951530/video-1d1aa189c088.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/first-storyboard-image-to-video-using-s-minimax-h3-on-951530/poster-33564592648b.jpg" alt="First Storyboard Image to video using 's MiniMax H3 on video preview" width="700" />
@@ -27462,7 +28392,7 @@ This cut should make the viewer immediately want to watch PART 2.
 
 ---
 
-## 28. Minimax H3 in
+## 47. Minimax H3 in
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-in-173149/video-f43c338c8766.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-in-173149/poster-c2e45f6b45ee.jpg" alt="Minimax H3 in video preview" width="700" />
@@ -27535,7 +28465,7 @@ This cut should make the viewer immediately want to watch PART 2.
 
 ---
 
-## 29. Storyboard 2 to Video using MiniMax H3 on
+## 48. Storyboard 2 to Video using MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/storyboard-2-to-video-using-minimax-h3-on-852170/video-6383c31206b6.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/storyboard-2-to-video-using-minimax-h3-on-852170/poster-9b2051a10043.jpg" alt="Storyboard 2 to Video using MiniMax H3 on video preview" width="700" />
@@ -28496,7 +29426,7 @@ CUT TO BLACK.
 
 ---
 
-## 30. Storyboard Image to video using 's MiniMax H3 on
+## 49. Storyboard Image to video using 's MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/storyboard-image-to-video-using-s-minimax-h3-on-693556/video-ef5ace4250f9.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/storyboard-image-to-video-using-s-minimax-h3-on-693556/poster-edcc0332562b.jpg" alt="Storyboard Image to video using 's MiniMax H3 on video preview" width="700" />
@@ -29284,7 +30214,7 @@ CUT TO BLACK.
 
 ---
 
-## 31. Created this with Minimax H3 on
+## 50. Created this with Minimax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-this-with-minimax-h3-on-185447/video-fdee2411a77e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-this-with-minimax-h3-on-185447/poster-577d23675580.jpg" alt="Created this with Minimax H3 on video preview" width="700" />
@@ -29330,7 +30260,7 @@ Visual Style: Premium commercial production, Billboard music video aesthetic, lu
 
 ---
 
-## 32. Create a breathtaking 15-second cinematic flower-morph sequence using the seven
+## 51. Create a breathtaking 15-second cinematic flower-morph sequence using the seven
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/create-a-breathtaking-15-second-cinematic-flower-morph-sequence-using-622337/video-05344071a617.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/create-a-breathtaking-15-second-cinematic-flower-morph-sequence-using-622337/poster-22d297ea3f87.jpg" alt="Create a breathtaking 15-second cinematic flower-morph sequence using the seven video preview" width="700" />
@@ -29398,7 +30328,7 @@ Create genuine continuous anatomical flower transformations. No cuts, crossfades
 
 ---
 
-## 33. How to push Hailuo Minimax H3 to its absolute LIMIT. ⚙️🪐
+## 52. How to push Hailuo Minimax H3 to its absolute LIMIT. ⚙️🪐
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/how-to-push-hailuo-minimax-h3-to-its-absolute-limit-576280/video-cda3bf06a3ff.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/how-to-push-hailuo-minimax-h3-to-its-absolute-limit-576280/poster-389ea7176822.jpg" alt="How to push Hailuo Minimax H3 to its absolute LIMIT. ⚙️🪐 video preview" width="700" />
@@ -29424,7 +30354,7 @@ Use the provided image as the final state. Audio-driven motion sync.
 
 ---
 
-## 34. An other great use for : Product Showcase
+## 53. An other great use for : Product Showcase
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/an-other-great-use-for-product-showcase-096175/video-f3fd02e0acc0.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/an-other-great-use-for-product-showcase-096175/poster-bb6598e746d6.jpg" alt="An other great use for : Product Showcase video preview" width="700" />
@@ -29460,7 +30390,7 @@ Premium wellness-commercial finish, photorealistic ceramic and metal, realistic 
 
 ---
 
-## 35. Hailuo Minimax H3 is super good for product videos🤩
+## 54. Hailuo Minimax H3 is super good for product videos🤩
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-minimax-h3-is-super-good-for-product-videos-129035/video-df83e5dfea13.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-minimax-h3-is-super-good-for-product-videos-129035/poster-c95680ed0247.jpg" alt="Hailuo Minimax H3 is super good for product videos🤩 video preview" width="700" />
@@ -29481,7 +30411,120 @@ cinematic commercial Begin with peat smoke, rain droplets, and oak wood dust flo
 
 ---
 
-## 36. This video was made with H3 in Krea.
+## 55. A luxury product commercial generated from a single reference image.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/a-luxury-product-commercial-generated-from-a-single-reference-image-637965/video-10c90f0e35ee.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/a-luxury-product-commercial-generated-from-a-single-reference-image-637965/poster-8d25d438dabf.jpg" alt="A luxury product commercial generated from a single reference image. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Use the uploaded reference image exactly as provided. Create a 15-second ultra-realistic luxury technology commercial. Maintain perfect consistency for the lens body, engraved...</summary>
+
+~~~~text
+Use the uploaded reference image exactly as provided.
+
+Create a 15-second ultra-realistic luxury technology commercial.
+
+Maintain perfect consistency for the lens body, engraved details, focus ring, aperture blades, reflections, glass elements, lighting, shadows, and metallic textures throughout the entire video.
+
+Style: premium technology advertisement, ultra-realistic product photography, cinematic lighting, realistic reflections, dramatic shadows, macro photography, luxury commercial style, photorealistic rendering.
+
+The on-screen text should appear in a clean, modern, minimalist font.
+
+────────────────────────
+
+SCENE 1
+
+The NOVA X1 lens rests on a glossy black pedestal.
+
+Blue light slowly travels across the metal body and the front glass element.
+
+The camera performs a slow orbital movement around the lens.
+
+Tiny dust particles float through the air.
+
+On-screen text:
+
+NOVA X1
+
+CRAFTED FOR CREATORS
+
+────────────────────────
+
+SCENE 2
+
+The camera moves closer.
+
+The focus ring rotates slowly.
+
+The aperture blades gradually open and close.
+
+Reflections move naturally across the glass surface.
+
+On-screen text:
+
+PRECISION ENGINEERED
+
+────────────────────────
+
+SCENE 3
+
+The lens rises into the air.
+
+Internal glass elements, metallic rings, screws, sensors, and aperture blades separate naturally into an exploded-view animation.
+
+Blue energy pulses move through the structure.
+
+The camera circles around the floating components.
+
+On-screen text:
+
+UNMATCHED CLARITY
+
+────────────────────────
+
+SCENE 4
+
+All components slowly return to their original positions.
+
+The aperture blades rotate smoothly and lock into place.
+
+Blue light radiates outward from the centre of the lens.
+
+The camera performs a close-up orbital movement around the front element.
+
+On-screen text:
+
+BUILT FOR THE EXTRAORDINARY
+
+────────────────────────
+
+SCENE 5
+
+The lens settles gently onto the pedestal.
+
+Studio lights illuminate the metal body and the glass surface.
+
+The camera slowly zooms toward the front element.
+
+End with an ultra-realistic hero shot.
+
+On-screen text:
+
+NOVA X1
+
+SEE BEYOND
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/a-luxury-product-commercial-generated-from-a-single-reference-image-637965/video-10c90f0e35ee.webm)
+
+**Source:** [@AmControo](https://x.com/AmControo/status/2085366255540637965) · 15s · 16:9 · product commercial
+
+---
+
+## 56. This video was made with H3 in Krea.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/this-video-was-made-with-h3-in-krea-797558/video-b64c9e952828.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/this-video-was-made-with-h3-in-krea-797558/poster-895ea7d43ec5.jpg" alt="This video was made with H3 in Krea. video preview" width="700" />
@@ -29553,7 +30596,7 @@ No cartoon styling, no cheap VFX clutter, no excessive lens distortion, no unrea
 
 ---
 
-## 37. going open source could mark a turning point for AI
+## 57. going open source could mark a turning point for AI
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/going-open-source-could-mark-a-turning-point-for-006285/video-41caf4846565.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/going-open-source-could-mark-a-turning-point-for-006285/poster-76c5abfc225f.jpg" alt="going open source could mark a turning point for AI video preview" width="700" />
@@ -29574,7 +30617,7 @@ exaggerated comedy acting, changing identities or faces, distorted fingers or co
 
 ---
 
-## 38. 質感はPixVerseのV6と似ているような。
+## 58. 質感はPixVerseのV6と似ているような。
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/pixversev6-795780/video-ab11677b3664.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/pixversev6-795780/poster-0744d89c149c.jpg" alt="質感はPixVerseのV6と似ているような。 video preview" width="700" />
@@ -29603,7 +30646,7 @@ non_diegetic_music: A steady four-beat pulse at a constant tempo runs from the f
 
 ---
 
-## 39. 第一次用MiniMax H3，提示词见评论区，参考了X上的大神
+## 59. 第一次用MiniMax H3，提示词见评论区，参考了X上的大神
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3x-423684/video-3fd54c187316.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3x-423684/poster-4e4601d3a14a.jpg" alt="第一次用MiniMax H3，提示词见评论区，参考了X上的大神 video preview" width="700" />
@@ -29799,7 +30842,7 @@ No:
 
 ---
 
-## 40. from Hailuio can easily make motivational videos like this
+## 60. from Hailuio can easily make motivational videos like this
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/from-hailuio-can-easily-make-motivational-videos-599712/video-936f4b9bfe14.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/from-hailuio-can-easily-make-motivational-videos-599712/poster-49c304bcd12e.jpg" alt="from Hailuio can easily make motivational videos like this video preview" width="700" />
@@ -29820,7 +30863,7 @@ No:
 
 ---
 
-## 41. ComfyUIのワークフローのサンプルプロンプトは下記のとおりでした。今までの知見から、アニメ調でアイドルの女の子が日本語で挨拶をする5秒のt2v動画のプロンプトを考案してください。
+## 61. ComfyUIのワークフローのサンプルプロンプトは下記のとおりでした。今までの知見から、アニメ調でアイドルの女の子が日本語で挨拶をする5秒のt2v動画のプロンプトを考案してください。
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/comfyui5t2v-197998/video-6e2a3aca2761.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/comfyui5t2v-197998/poster-17ac5e98500e.jpg" alt="ComfyUIのワークフローのサンプルプロンプトは下記のとおりでした。今までの知見から、アニメ調でアイドルの女の子が日本語で挨拶をする5秒のt2v動画のプロンプトを考案してください。 video preview" width="700" />
@@ -29856,7 +30899,270 @@ No real-life live action rendering, no realistic skin texture, no 3D CG look, no
 
 ---
 
-## 42. Ramen Bowl UGC Taste Test
+## 62. Created with MiniMax H3
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-459646/video-c902a571c039.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-459646/poster-dd92d1b8893f.jpg" alt="Created with MiniMax H3 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — A cinematic 15-second ultra-realistic story following a young woman who discovers a secret rooftop garden hidden above a busy city. Carrying a watering can, she opens an old...</summary>
+
+~~~~text
+A cinematic 15-second ultra-realistic story following a young woman who discovers a secret rooftop garden hidden above a busy city. Carrying a watering can, she opens an old rooftop door and finds a breathtaking oasis filled with colorful flowers, climbing vines, butterflies, and birds glowing in the warm morning sunlight. She explores the magical garden, gently touching blooming flowers as sunlight filters through leaves and golden particles float through the air. The scene ends with her relaxing on a wooden bench, sipping tea while overlooking the city skyline from her peaceful hidden retreat. Smooth cinematic camera movements, realistic environmental interactions, natural wind and foliage motion, detailed textures, emotional storytelling, premium commercial aesthetic, ARRI Alexa 35-inspired visuals, 4K HDR quality, seamless character consistency, no text, no logos.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-459646/video-c902a571c039.webm)
+
+**Source:** [@aiwithaly](https://x.com/aiwithaly/status/2084141213574459646) · 15s · 16:9 · product commercial
+
+---
+
+## 63. 🎥 or Seedance 2.5/2.0 → Final AI video
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/or-seedance-2-5-2-0-final-ai-video-333827/video-0f5f2b25a681.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/or-seedance-2-5-2-0-final-ai-video-333827/poster-5b01c51a4f1a.jpg" alt="🎥 or Seedance 2.5/2.0 → Final AI video video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — 🤡👇) A 15-second stop-motion miniature video with Chinese narration. On a warm wooden table, a handcrafted miniature filmmaking workflow unfolds from left to right. The opening...</summary>
+
+~~~~text
+🤡👇)
+
+A 15-second stop-motion miniature video with Chinese narration. On a warm wooden table, a handcrafted miniature filmmaking workflow unfolds from left to right. The opening hook features a tiny romantic couple passionately kissing beneath a beautifully crafted miniature Eiffel Tower in Paris. The camera slowly pans horizontally before transitioning into five miniature production stations connected as one seamless creative pipeline. The first station shows a tiny laptop displaying Google AI Mode, where miniature creators search for story ideas and reference materials. The second station features a miniature computer running ChatGPT, where a complete screenplay magically appears line by line. The third station showcases GPT Image transforming text prompts into detailed character portraits and cinematic concept art. The fourth station presents miniature filmmakers using Seedance 2 or Seedance 2.5 to animate those images into smooth AI-generated short films, with tiny cameras, monitors, and editing equipment surrounding the workspace. The final station ends with colorful miniature cinema screens displaying completed AI short dramas while joyful tiny creators celebrate together. Realistic clay figurines, handcrafted miniature props, warm cinematic lighting, shallow depth of field, and a tilt-shift lens effect create the illusion of a tiny living world. Calm Mandarin Chinese narration explains the entire AI short drama creation process in one continuous long shot, ending with the cheerful English phrase: "Have fun creating videos!"
+
+#AIVideo #AIMovie #AIFilm #AIDrama #sd2 #seedance
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/or-seedance-2-5-2-0-final-ai-video-333827/video-0f5f2b25a681.webm)
+
+**Source:** [@drjoetw](https://x.com/drjoetw/status/2083774630767333827) · 15s · 16:9 · product commercial
+
+---
+
+## 64. MiniMax H3 on 🔥
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-on-464203/video-c4844d7423b8.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-on-464203/poster-663cb7ecaed1.jpg" alt="MiniMax H3 on 🔥 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — 1⃣Reference one: the main menu screen. 📌PROMT: Render a 16:9 video game main menu screen — one clean in-game screenshot from a premium Renaissance action game. THE CHARACTER is...</summary>
+
+~~~~text
+1⃣Reference one: the main menu screen.
+📌PROMT:
+Render a 16:9 video game main menu screen — one clean in-game screenshot from a premium Renaissance action game.  THE CHARACTER is the woman from Leonardo da Vinci's Mona Lisa, rebuilt as a stylized three-dimensional game character and standing at full body. Her likeness is exact: a serene oval face with a high smooth forehead, softly rounded cheeks, a straight narrow nose, heavy-lidded warm dark brown eyes gazing calmly and directly at the viewer, barely present brows, and the faint closed-lip smile with its ambiguous lifted corners. The right corner of her mouth lifts marginally higher than the left. Long dark brown hair parted at the centre falls in soft loose waves past her shoulders, a sheer dark translucent veil laid over the crown and draping down behind. Warm ivory skin with soft subsurface shading.  She wears her Renaissance Florentine gown: deep olive-brown velvet bodice gathered into fine vertical pleats across the chest, a wide square neckline edged in delicate gold interlace embroidery, ruched ochre-gold satin sleeves full at the upper arm and narrowing to the wrist, and a heavy olive skirt falling straight to the floor in soft folds.  She stands in the left two thirds of the frame, turned a few degrees toward camera, both hands folded one gently over the other at waist height in the exact attitude of the painting, head turned toward the viewer, perfectly still. Beneath her is a dark polished marble floor catching a soft warm reflection of her gown. Behind her the environment falls into a deep shadowed Renaissance interior — suggestions of stone arches and one distant warm window, heavily defocused and dark so she reads clean against it. A soft warm rim of candlelight separates her silhouette from the darkness.  THE INTERFACE sits over the image, rendered as aged gold and dark lacquered plates:  Upper left, a player profile bar — a black plate with an engraved gold border holding a large clear circular portrait frame showing her own face in close detail, the name "LISA" in an elegant engraved serif, a level badge reading "III", and a slim experience meter half filled with warm gold.  Right side, a vertical main menu of five stacked buttons on black plates with gold beveled edges and engraved serif labels, top to bottom: "PLAY", "WARDROBE", "APPEARANCE", "ARMOURY", "SETTINGS". The second button, "WARDROBE", sits highlighted with a solid gold fill and dark engraved text. The rest are gold text on black.  A gold arrow cursor with a fine dark outline rests over the highlighted "WARDROBE" button, a small click burst behind its tip.  Lower left, a health and stamina cluster — two slim stacked meters in warm gold and deep crimson on black, with a small numeric readout beside them reading "3 / 3".  Lower right, a small circular gold-rimmed compass dial on black with faint engraved terrain lines inside and a directional marker at the top.  Bottom centre, three small engraved prompts in a row reading "SELECT", "BACK" and "CONFIRM", each beside a small gold key glyph.  TYPOGRAPHY: every label in an elegant engraved serif with fine hairlines and sharp bracketed feet, uppercase, generously tracked, in warm antique gold. All text English, correctly spelled, every glyph crisp and fully legible.  PALETTE: deep near-black ground, warm antique gold as the only bright interface value, one deep crimson accent appearing solely in the health meter, and the olive and ochre of her gown as the single area of colour in the frame.  LOOK: stylized three-dimensional game character render against a real-time game environment, physically based materials, soft warm candlelight key from camera-left, deep warm shadows, gentle bloom on the gold interface edges, faint craquelure texture in the darkest plate areas.
+
+2⃣Reference two:the item sheet.
+📌PROMT:
+Render a 16:9 sheet of game interface item slots on a deep near-black ground. The sheet contains three separate vertical panels standing side by side with clear empty space between them. There is no text anywhere on this sheet — no labels, no captions, no numbers, no letters of any kind. Only frames and images inside them.  Each panel is a tall column of three stacked square item slots. Every slot is a black plate with an ornate engraved antique gold frame, fine bracketed corners and a soft inner bevel, in the style of a Renaissance game interface. The three panels are identical in size, frame design and slot spacing.  LEFT PANEL — three outfits, each shown as a small full-body figure of the same dark-haired Renaissance woman standing frontally against the black slot interior, lit warmly from the left: Slot one: a long deep blue brocade court gown with gold thread across the bodice, full skirt to the floor, ruched sleeves. Slot two: a crimson silk gown with a boned dark metal corset laced over it, the skirt split high on one side, gold-trimmed sleeves. Slot three: fitted black leather shorts, a cropped black leather top laced across the chest with gold cord, thigh-high black leather boots and slim gold vambraces on both forearms.  CENTRE PANEL — three hairstyles, each shown as a head-and-shoulders view of the same woman against the black slot interior, seen from the front, lit warmly from the left: Slot one: long loose dark waves parted at the centre under a sheer dark translucent veil. Slot two: the hair wound up into a sculpted coiled braid crown threaded with fine gold chain, the nape bare, two loose tendrils beside the face. Slot three: the hair swept up high on the crown into a long full ponytail bound with a gold cuff, the tail falling heavy behind the shoulder.  RIGHT PANEL — three weapons, each shown as an object alone against the black slot interior, angled diagonally and lit warmly from the left: Slot one: two matched short daggers with dark blued steel blades and gold quillons, crossed over one another. Slot two: a single broad-headed war axe with a dark walnut haft and gold engraving on the head. Slot three: a slender straight duelling sword with an ornate swept gold hilt of interlaced bars and a long polished steel blade.  In every panel the third slot down carries a warm gold highlight fill behind its image, marking it as the selected one, while the upper two sit on plain black.  LOOK: warm antique gold frames catching a soft low sheen with fine engraved line work, deep near-black slot interiors, warm directional light from the left across every miniature, soft contact shadows under the standing figures, gentle bloom on the brightest gold edges, faint craquelure in the darkest areas. Flat even illumination across the whole sheet, every slot equally sharp, rendered as clean production game interface assets.  PALETTE: deep near-black, warm antique gold, and the colour of each item — blue brocade, crimson silk, black leather, dark hair, blued steel.
+
+3⃣Reference three: the game world with its HUD — quest tracker, minimap, health bar, weapon slot.
+📌PROMT:
+Render a 16:9 in-game third-person gameplay screenshot from a premium Renaissance action game. The frame shows the world and the interface only, with no character present.  THE WORLD: a broad Renaissance city street in Florence at early morning, seen from a third-person camera positioned low and looking down the street. Warm golden sunlight rakes in from the left at a low angle, throwing long soft shadows across pale stone paving. Tall ochre and cream plaster buildings rise on both sides with terracotta roofs, green shutters thrown open, iron brackets and coloured cloth banners hanging still in the calm air. Terracotta pots of flowers sit on windowsills. Market stalls with striped awnings line the near left, a few crates and baskets beside them. Townspeople in period dress move through the middle distance, small and softly out of focus. At the end of the street a great cathedral dome rises against a pale blue morning sky streaked with high thin cloud. Fine dust and pollen drift through the sunbeams. The whole frame is bright, warm and open.  THE HEADS-UP DISPLAY sits over the world, rendered as aged gold and dark lacquered plates with fine engraved line work, kept crisp and readable against the bright scene:  Lower left, a health and stamina cluster — two slim stacked meters on dark plates, the upper one filled deep crimson beside a small engraved heart glyph, the lower one filled warm gold beside a small lightning glyph, with the numerals "3 / 3" alongside.  Upper right, a circular minimap on a gold-rimmed dial — a small overhead map view of the surrounding streets in muted gold line work on near-black, a directional arrow marker at its centre, the letter "N" at the top edge, and two small gold diamond markers placed within it.  Upper left, a quest tracker on a narrow dark plate with an engraved gold border, headed "CURRENT TASK" in small engraved caps, with a single line beneath reading "REACH THE CATHEDRAL" and a small gold diamond marker beside it.  Centre, floating in the world above the road at the far end of the street, a large gold diamond quest marker with a soft glow and a thin drop shadow.  Lower right, a weapon slot — a small square dark plate with a gold frame containing an engraved icon of a slender rapier, with the label "RAPIER" beneath it in small engraved caps.  Bottom centre, three small engraved prompts in a row reading "MOVE", "ATTACK" and "INTERACT", each beside a small gold key glyph.  TYPOGRAPHY: every label in an elegant engraved serif with fine hairlines and sharp bracketed feet, uppercase, generously tracked, in warm antique gold. All text English, correctly spelled, every glyph crisp and fully legible.  PALETTE: warm ochre, cream stone and terracotta under golden morning light, pale blue sky, warm antique gold interface, one deep crimson accent in the health meter.  LOOK: real-time game engine render, physically based materials, volumetric morning sunbeams, gentle bloom on the brightest stone and gold interface edges, soft atmospheric haze building with distance, cinematic third-person framing.
+
+4⃣The animation prompt.
+📌PROMT:
+Use @Image 1 for the character and the menu interface style. Use @Image 2 for the game world and the in-game HUD style. Use @Image 3 as the source for every item thumbnail shown inside the panels — its left column holds the three outfits, its centre column holds the three hairstyles, its right column holds the three weapons, each in that exact order top to bottom.  One continuous shot, no cuts. The camera moves smoothly and constantly. Every panel stays fully inside the frame, positioned to the right of the character and large enough to read clearly.  [0–2 seconds] Wide shot matching @Image 1, camera drifting slowly forward. The Mona Lisa character stands in the dark candlelit hall in her olive velvet gown and sheer veil, hands folded, still. She blinks once, slowly. The gold cursor travels down the right-hand menu across PLAY and onto WARDROBE, each button flaring gold as it passes. The cursor clicks WARDROBE with a sharp gold burst.  [2–5.5 seconds] Ease in slightly, holding a full-body framing. A WARDROBE panel slides in on the right, filling the right third of frame — a vertical column of three ornate gold-framed slots carrying the three outfit thumbnails from the left column of @Image 3, in that exact order: blue brocade gown at the top, crimson silk gown in the middle, black leather set at the bottom. The selector highlights the top slot and her gown becomes the deep blue brocade court gown. The selector drops to the middle slot and her gown becomes the crimson silk gown with the boned corset. The selector drops to the bottom slot and locks: her long skirt dissolves upward in gold particles and reassembles as fitted black leather shorts, the bodice tightens into a cropped black leather top laced across the chest with gold cord, thigh-high black leather boots build up her legs plate by plate, and slim gold vambraces snap onto both forearms.  [5.5–8.5 seconds] Rise smoothly to a medium shot from the waist up, keeping the panel column fully visible beside her. An APPEARANCE panel slides in on the right in the same position and size, carrying the three hairstyle thumbnails from the centre column of @Image 3, in that exact order: veiled waves at the top, coiled braid crown in the middle, high ponytail at the bottom. The selector highlights the middle slot and her hair winds itself up into the coiled braid crown threaded with gold chain. The selector drops to the bottom slot and locks: the sheer veil dissolves into gold particles and clears frame, her waves sweep upward and gather high on the crown into a long full ponytail bound with a gold cuff, the tail falling heavy behind her shoulder and swinging once as it settles. Her face stays exactly as it is throughout — the same serene gaze and the same faint closed-lip smile.  [8.5–11 seconds] Ease down to a medium shot showing her from the hips up with both hands in frame, the panel column still fully visible beside her. An ARMOURY panel slides in on the right in the same position and size, carrying the three weapon thumbnails from the right column of @Image 3, in that exact order: crossed twin daggers at the top, war axe in the middle, gold-hilted duelling sword at the bottom. The selector highlights the top slot and two matched daggers assemble from gold particles, one in each hand. The selector drops to the middle slot and they break apart and reform as the broad war axe held across her body. The selector drops to the bottom slot and locks: the axe dissolves and the slender duelling sword builds itself in her right hand piece by piece — the swept gold hilt forming first, then the long polished steel blade extending outward with a bright ring. She lowers it to her side, point down.  [11–12.5 seconds] Pull back smoothly to a full-body shot. A CONFIRM button flashes gold at frame centre and the cursor clicks it. Every panel collapses inward and vanishes. A LOADING bar sweeps in along the bottom and races from 0% to 100%. The dark hall brightens as warm golden daylight bleeds in from the left and the shadows retreat.  [12.5–15 seconds] The world loads in around her: the sunlit Florence street from @Image 2 assembles outward from her feet — pale stone paving, ochre buildings, striped market awnings, hanging banners, townspeople walking, the cathedral dome rising at the end of the road under a pale blue morning sky. The camera swings around behind her and settles into a third-person gameplay position at her shoulder. The HUD fades in exactly as in @Image 2: CURRENT TASK reading REACH THE CATHEDRAL at upper left, circular minimap upper right, health and stamina meters lower left, weapon slot lower right showing the sword icon, and a large gold diamond quest marker floating above the road ahead. She stands with her back fully to camera, ponytail swinging, sword at her side, and takes her first step forward down the street.  AUDIO — a game interface soundscape where every selection is loud and unmistakable: The interface sounds sit forward in the mix and are the clearest element in the piece. Every cursor hover fires a bright short gold chime. Every click lands as a hard mechanical thunk with a metallic tail, sharp and percussive, immediately audible. Every selector step down a row snaps with a crisp tick. Every panel slides in on a parchment whoosh and closes on a wooden clack. Under this, open on the quiet hush of a stone hall with a low candle-flame crackle and a soft sustained lute drone. Each outfit change carries a rush of cloth and a fine shimmer of particles; the leather build adds creaking hide and small metal snaps. The hair change is a soft sweep finishing on one gold cuff click. Each weapon assembly is sharp metal on metal, the sword finishing on a long bright blade ring. CONFIRM lands on a full resonant gold chime. The loading bar hums and rises in pitch as it fills. At 12.5 seconds the hall reverb drops away and the open street opens up: distant market chatter, birdsong, a cart wheel, footsteps on stone, warm Renaissance strings and lute swelling underneath. Ends on her boot striking the paving. Do not imitate an existing melody.  Full speed throughout with no slow motion. Her face, gaze and faint closed-lip smile stay identical across every beat. All interface text in English, correctly spelled, every glyph crisp and legible.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-on-464203/video-c4844d7423b8.webm)
+
+**Source:** [@ivanka_humeniuk](https://x.com/ivanka_humeniuk/status/2083555429758464203) · 15s · 16:9 · product commercial
+
+---
+
+## 65. AURELIA — Awaken your senses. ☕
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/aurelia-awaken-your-senses-035223/video-8e74e51830a3.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/aurelia-awaken-your-senses-035223/poster-07ef5c197094.jpg" alt="AURELIA — Awaken your senses. ☕ video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Use all uploaded reference images exactly as provided. The reference images are authoritative. Maintain complete consistency throughout the entire video. Do not redesign,...</summary>
+
+~~~~text
+Use all uploaded reference images exactly as provided.
+
+The reference images are authoritative.
+
+Maintain complete consistency throughout the entire video.
+
+Do not redesign, reinterpret, stylize, replace, simplify, or modify the woman's face, skin tone, hairstyle, hands, body proportions, clothing, facial expressions, the AURELIA package, the coffee cup, the kitchen, the lighting, or the environment.
+
+The AURELIA package is the primary subject of the commercial and must remain clearly visible whenever it appears.
+
+The word "AURELIA" on the package must remain perfectly readable throughout the video.
+
+The product is always more important than the typography.
+
+Typography must complement the scene and must never cover the product.
+
+Use natural colours, realistic lighting, realistic steam, realistic reflections, realistic skin texture, realistic hand movements, realistic liquid movement, and realistic shadows.
+
+Avoid:
+
+• Oversaturated colours
+• Plastic-looking skin
+• Beauty filters
+• Distorted hands
+• Distorted fingers
+• Unrealistic reflections
+• Heavy colour grading
+• Artificial lighting
+• Object deformation
+• Excessive contrast
+
+Aspect ratio: 16:9
+
+Duration: 15 seconds
+
+━━━━━━━━━━━━━━━━━━
+
+SCENE 1 (0–3 seconds)
+
+Begin with an extreme close-up shot of the AURELIA package standing on the marble countertop.
+
+The package occupies most of the frame.
+
+The camera slowly moves toward the package while maintaining focus on the gold lettering.
+
+Fresh coffee beans are scattered naturally around the package.
+
+A white ceramic cup filled with hot coffee stands beside the package.
+
+Thin streams of steam rise naturally into the air.
+
+The word AROMA slowly forms from the steam.
+
+Typography instructions:
+
+• Thin, elegant lettering
+• Semi-transparent appearance
+• Soft golden highlights
+• Luxury advertising style
+
+Voice-over:
+
+"Aroma."
+
+The steam slowly disperses.
+
+━━━━━━━━━━━━━━━━━━
+
+SCENE 2 (3–6 seconds)
+
+The woman enters the kitchen naturally.
+
+She gently picks up the cup of coffee and smiles softly.
+
+The camera follows her movement.
+
+The word ENERGY forms naturally from floating coffee beans.
+
+Typography instructions:
+
+• Bold lettering
+• Deep brown colour
+• Realistic texture
+• Smooth movement
+
+Voice-over:
+
+"Energy."
+
+The letters slowly dissolve into individual coffee beans.
+
+━━━━━━━━━━━━━━━━━━
+
+SCENE 3 (6–10 seconds)
+
+The woman gently pours freshly brewed coffee into the cup.
+
+The camera captures the movement of the liquid in slow motion.
+
+Tiny droplets and soft steam become visible.
+
+The word BOLD forms naturally from the flowing coffee.
+
+Typography instructions:
+
+• Rich brown colour
+• Smooth edges
+• Glossy texture
+• Elegant appearance
+
+Voice-over:
+
+"Bold."
+
+━━━━━━━━━━━━━━━━━━
+
+SCENE 4 (10–12 seconds)
+
+The woman gently lifts the white ceramic cup with both hands.
+
+She slowly brings the cup to her lips and takes a small sip of the coffee.
+
+The drinking motion must be completely visible.
+
+The coffee cup must touch her lips naturally.
+
+The camera captures the movement from a slight side angle.
+
+Her eyes close briefly as she enjoys the aroma and flavour.
+
+Soft morning light enters through the windows.
+
+A thin stream of steam rises from the cup.
+
+The word AWAKEN slowly emerges from the steam.
+
+Typography instructions:
+
+• Thin gold lettering
+• Transparent appearance
+• Elegant movement
+• Soft reflections
+
+Voice-over:
+
+"Awaken."
+
+The model must clearly complete the action of drinking the coffee.
+
+The cup must touch her lips, and a visible sip must occur before the scene ends.
+
+━━━━━━━━━━━━━━━━━━
+
+SCENE 5 (12–15 seconds)
+
+The camera slowly moves toward the AURELIA package resting on the countertop.
+
+The package and the white ceramic cup remain at the centre of the frame.
+
+Steam rises naturally from the cup.
+
+The package must remain completely visible at all times.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/aurelia-awaken-your-senses-035223/video-8e74e51830a3.webm)
+
+**Source:** [@AmControo](https://x.com/AmControo/status/2083552263449035223) · 13s · 16:9 · product commercial
+
+---
+
+## 66. Ramen Bowl UGC Taste Test
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ramen-bowl-ugc-taste-test-612348/video-f5a033bef00e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ramen-bowl-ugc-taste-test-612348/poster-2469cb1c850e.jpg" alt="Ramen Bowl UGC Taste Test video preview" width="700" />
@@ -29898,7 +31204,7 @@ cinematic look, luxury commercial, perfect framing, CGI noodles, unrealistic ste
 
 ---
 
-## 43. Gourmet Burger UGC Taste Test
+## 67. Gourmet Burger UGC Taste Test
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/gourmet-burger-ugc-taste-test-165289/video-787be15a8d6a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/gourmet-burger-ugc-taste-test-165289/poster-7f4d2652dee1.jpg" alt="Gourmet Burger UGC Taste Test video preview" width="700" />
@@ -29939,7 +31245,7 @@ cinematic grading, commercial production, CGI burger, fake cheese, distorted han
 
 ---
 
-## 44. Luxury Skincare Storyboard Commercial
+## 68. Luxury Skincare Storyboard Commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-skincare-storyboard-commercial-805571/video-995ac1ada011.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-skincare-storyboard-commercial-805571/poster-411a41f0ec66.jpg" alt="Luxury Skincare Storyboard Commercial video preview" width="700" />
@@ -29971,7 +31277,7 @@ Transition
 
 ---
 
-## 45. cinematic editorial film, not a traditional advertisement
+## 69. cinematic editorial film, not a traditional advertisement
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-editorial-film-not-a-traditional-adver-555943/video-534c0e4af02c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-editorial-film-not-a-traditional-adver-555943/poster-0a63df1d32fb.jpg" alt="cinematic editorial film, not a traditional advertisement video preview" width="700" />
@@ -29994,7 +31300,7 @@ Created using MiniMax H3 on @openart_ai
 
 ---
 
-## 46. Yellow Sunglasses in a Black Studio
+## 70. Yellow Sunglasses in a Black Studio
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/upload-use-la-ragazza-in-reference-as-a-strict-265763/video-3f6fdfa9ec17.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/upload-use-la-ragazza-in-reference-as-a-strict-265763/poster-991557679b75.jpg" alt="Yellow Sunglasses in a Black Studio video preview" width="700" />
@@ -30071,7 +31377,7 @@ Composition: model centered, all type within the central third of the frame
 
 ---
 
-## 47. Strawberry Drink Transformation Commercial
+## 71. Strawberry Drink Transformation Commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/shots-shot-id-1-start-time-00-00-end-878083/video-fac16344ba1e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/shots-shot-id-1-start-time-00-00-end-878083/poster-5b30a531bab4.jpg" alt="Strawberry Drink Transformation Commercial video preview" width="700" />
@@ -30092,7 +31398,7 @@ Composition: model centered, all type within the central third of the frame
 
 ---
 
-## 48. Blackberry Vanilla Soda UGC Vlog
+## 72. Blackberry Vanilla Soda UGC Vlog
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/blackberry-vanilla-soda-ugc-vlog-998714/video-1ca980fa6505.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/blackberry-vanilla-soda-ugc-vlog-998714/poster-7b02c89bbf7e.jpg" alt="Blackberry Vanilla Soda UGC Vlog video preview" width="700" />
@@ -30137,7 +31443,7 @@ Continuous natural ambient kitchen sound, subtle upbeat pop background music und
 
 ---
 
-## 49. Bamboo Forest Wuxia Mystery
+## 73. Bamboo Forest Wuxia Mystery
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/16-9-cinematic-wuxia-mystery-set-in-a-bamboo-571041/video-da23c2db41ab.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/16-9-cinematic-wuxia-mystery-set-in-a-bamboo-571041/poster-6d22d8f211d0.jpg" alt="Bamboo Forest Wuxia Mystery video preview" width="700" />
@@ -30161,7 +31467,7 @@ Prioritize facial close-ups and measured shot/reverse-shot coverage. Keep the rh
 
 ---
 
-## 50. Emerald Bio-Serum Product Film
+## 74. Emerald Bio-Serum Product Film
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-luxury-skincare-product-commercial-vertical-9-591469/video-3ae42a6b5baa.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-luxury-skincare-product-commercial-vertical-9-591469/poster-c0c5f3bb6066.jpg" alt="Emerald Bio-Serum Product Film video preview" width="700" />
@@ -30182,7 +31488,7 @@ Cinematic luxury skincare product commercial, vertical 9:16, 15 seconds. A trans
 
 ---
 
-## 51. Black-and-Gold Perfume Commercial
+## 75. Black-and-Gold Perfume Commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-ultra-premium-luxury-perfume-commercial-in-ci-520833/video-3e8b79841b85.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-ultra-premium-luxury-perfume-commercial-in-ci-520833/poster-d1f16abe5ae1.jpg" alt="Black-and-Gold Perfume Commercial video preview" width="700" />
@@ -30213,7 +31519,7 @@ Photorealistic, Hollywood luxury TV commercial, ultra-detailed, flawless glass r
 
 ---
 
-## 52. Morning Lip Oil UGC Testimonial
+## 76. Morning Lip Oil UGC Testimonial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-character-reference-preserve-her-fac-256521/video-544db8790618.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-character-reference-preserve-her-fac-256521/poster-8add510d989f.jpg" alt="Morning Lip Oil UGC Testimonial video preview" width="700" />
@@ -30242,7 +31548,7 @@ Authentic UGC creator content, realistic facial expressions, natural hand gestur
 
 ---
 
-## 53. Luxury Watch Storyboard Campaign
+## 77. Luxury Watch Storyboard Campaign
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-watch-storyboard-campaign-903017/video-159289899741.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-watch-storyboard-campaign-903017/poster-2d54ae2e9819.jpg" alt="Luxury Watch Storyboard Campaign video preview" width="700" />
@@ -30323,7 +31629,7 @@ Create a world-class luxury watch commercial.
 
 ---
 
-## 54. NOVA X smartphone TVC
+## 78. NOVA X smartphone TVC
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/nova-x-smartphone-tvc/video-2d8b6006478e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/nova-x-smartphone-tvc/poster-b8d3da037263.jpg" alt="NOVA X smartphone TVC video preview" width="700" />
@@ -30350,7 +31656,7 @@ Create a 15-second premium cinematic branding TVC for a futuristic smartphone br
 
 ---
 
-## 55. SparkRush Ultra Fizz beach soft-drink commercial
+## 79. SparkRush Ultra Fizz beach soft-drink commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/sparkrush-ultra-fizz-beach-soft-drink-commercial-383681/video-d58a1e1504ea.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/sparkrush-ultra-fizz-beach-soft-drink-commercial-383681/poster-2b0c0c9a968a.jpg" alt="SparkRush Ultra Fizz beach soft-drink commercial video preview" width="700" />
@@ -30441,7 +31747,7 @@ CUT8 0:14-0:15
 
 ---
 
-## 56. Bathroom Mirror Skincare UGC Ad
+## 80. Bathroom Mirror Skincare UGC Ad
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ugc-style-skincare-video-featuring-a-realistic-young-wo-242986/video-ec288635cb7f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ugc-style-skincare-video-featuring-a-realistic-young-wo-242986/poster-18b009c5b1b5.jpg" alt="Bathroom Mirror Skincare UGC Ad video preview" width="700" />
@@ -30462,7 +31768,7 @@ UGC-style skincare video featuring a realistic young woman speaking directly to 
 
 ---
 
-## 57. Luxury Sports Car Landing Page Motion
+## 81. Luxury Sports Car Landing Page Motion
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ui-ux-motion-showcase-video-for-a-high-performance-luxu-229386/video-9d89c4f629e6.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ui-ux-motion-showcase-video-for-a-high-performance-luxu-229386/poster-ebbf825e1ade.jpg" alt="Luxury Sports Car Landing Page Motion video preview" width="700" />
@@ -30555,7 +31861,7 @@ A premium automotive brand website, similar to a supercar launch page. Dark meta
 
 ---
 
-## 58. KALDR cold perfume commercial multi-reference
+## 82. KALDR cold perfume commercial multi-reference
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/kaldr-cold-perfume-commercial-multi-reference-943073/video-0b03def784aa.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/kaldr-cold-perfume-commercial-multi-reference-943073/poster-b0ced00e36d5.jpg" alt="KALDR cold perfume commercial multi-reference video preview" width="700" />
@@ -30609,7 +31915,7 @@ Do not add other people, boats, buildings, vehicles, modern objects, subtitles, 
 
 ---
 
-## 59. Luxury metallic gown desert runway fashion ad
+## 83. Luxury metallic gown desert runway fashion ad
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-metallic-gown-desert-runway-fashion-ad-907132/video-79e8be8efcca.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-metallic-gown-desert-runway-fashion-ad-907132/poster-f22e97706ea8.jpg" alt="Luxury metallic gown desert runway fashion ad video preview" width="700" />
@@ -30630,7 +31936,7 @@ Do not add other people, boats, buildings, vehicles, modern objects, subtitles, 
 
 ---
 
-## 60. Luxury checkered sports-coupe night-to-dawn commercial
+## 84. Luxury checkered sports-coupe night-to-dawn commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-checkered-sports-coupe-night-to-dawn-commercial-451623/video-741ec90432a6.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/luxury-checkered-sports-coupe-night-to-dawn-commercial-451623/poster-c2420b1685bb.jpg" alt="Luxury checkered sports-coupe night-to-dawn commercial video preview" width="700" />
@@ -30674,7 +31980,7 @@ coherent character and vehicle identity across every cut 📷Image1 , cinematic 
 
 ---
 
-## 61. Marble Staircase Lip Gloss Commercial
+## 85. Marble Staircase Lip Gloss Commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-character-reference-preserve-her-fac-150697/video-b637e0c6f931.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-as-the-exact-character-reference-preserve-her-fac-150697/poster-dfa401edffbd.jpg" alt="Marble Staircase Lip Gloss Commercial video preview" width="700" />
@@ -30699,7 +32005,7 @@ Ultra-realistic beauty cinematography, luxury cosmetic campaign, smooth gimbal m
 
 ---
 
-## 62. Sushi Night Smartphone UGC Vlog
+## 86. Sushi Night Smartphone UGC Vlog
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/duration-15-seconds-aspect-ratio-16-9-style-authentic-613617/video-7d59e3e86e10.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/duration-15-seconds-aspect-ratio-16-9-style-authentic-613617/poster-ee7d7c188983.jpg" alt="Sushi Night Smartphone UGC Vlog video preview" width="700" />
@@ -30749,7 +32055,7 @@ cinematic color grading, overly smooth gimbal movement, studio lighting, profess
 
 ---
 
-## 63. Strawberry seasonal match-cut food commercial
+## 87. Strawberry seasonal match-cut food commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/strawberry-seasonal-match-cut-food-commercial-117943/video-683968bcc3d5.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/strawberry-seasonal-match-cut-food-commercial-117943/poster-d840280d5869.jpg" alt="Strawberry seasonal match-cut food commercial video preview" width="700" />
@@ -30770,7 +32076,7 @@ Premium food commercial. Extreme macro shot of a single ripe strawberry falling 
 
 ---
 
-## 64. White-Cyclorama Luxury Eyewear Campaign
+## 88. White-Cyclorama Luxury Eyewear Campaign
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/premium-9-16-fashion-eyewear-commercial-match-the-refer-665060/video-4d28abb73363.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/premium-9-16-fashion-eyewear-commercial-match-the-refer-665060/poster-b6317831cfc6.jpg" alt="White-Cyclorama Luxury Eyewear Campaign video preview" width="700" />
@@ -30792,7 +32098,7 @@ Create a premium 9:16 fashion-eyewear commercial. Match the reference video’s 
 
 ---
 
-## 65. Dark Rap Fashion Zine Music Video
+## 89. Dark Rap Fashion Zine Music Video
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/style-dark-rap-rap-music-video-with-photoreal-high-fash-066367/video-f7530cdb0007.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/style-dark-rap-rap-music-video-with-photoreal-high-fash-066367/poster-042e39743d51.jpg" alt="Dark Rap Fashion Zine Music Video video preview" width="700" />
@@ -30813,7 +32119,7 @@ Style: dark-rap -rap music video with photoreal high-fashion polish and the text
 
 ---
 
-## 66. Image Model: GPT Image 2
+## 90. Image Model: GPT Image 2
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-model-gpt-image-2-143224/video-83cdd5450477.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-model-gpt-image-2-143224/poster-97e396da2238.jpg" alt="Image Model: GPT Image 2 video preview" width="700" />
@@ -30980,7 +32286,7 @@ Style: AAA Unreal Engine 5 cinematic, photorealistic PBR materials, production-q
 
 ---
 
-## 67. Vertical car transformation street-culture film
+## 91. Vertical car transformation street-culture film
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/vertical-car-transformation-street-culture-film-378938/video-68111b1a63ab.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/vertical-car-transformation-street-culture-film-378938/poster-aee0c4e02707.jpg" alt="Vertical car transformation street-culture film video preview" width="700" />
@@ -31109,7 +32415,7 @@ Feels like a premium car modification advertisement
 
 ---
 
-## 68. High-Speed Sports Product Landing Page
+## 92. High-Speed Sports Product Landing Page
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/dynamic-product-landing-page-ui-ux-demo-inspired-by-nik-789559/video-08cc2ecf4395.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/dynamic-product-landing-page-ui-ux-demo-inspired-by-nik-789559/poster-6fdf282e513d.jpg" alt="High-Speed Sports Product Landing Page video preview" width="700" />
@@ -31130,7 +32436,7 @@ Create a dynamic product-landing-page UI/UX demo inspired by Nike's digital lang
 
 ---
 
-## 69. Ultra-premium cinematic luxury perfume commercial
+## 93. Ultra-premium cinematic luxury perfume commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-premium-cinematic-luxury-perfume-commercial-783085/video-2722820a0df4.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-premium-cinematic-luxury-perfume-commercial-783085/poster-363c20e524ca.jpg" alt="Ultra-premium cinematic luxury perfume commercial video preview" width="700" />
@@ -31180,7 +32486,7 @@ Low quality, blurry, noise, flickering, unstable motion, distorted anatomy, bad 
 
 ---
 
-## 70. Luxury Emerald Necklace Storyboard
+## 94. Luxury Emerald Necklace Storyboard
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/title-luxury-emerald-necklace-commercial-storyboard-for-872509/video-a300713c3d76.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/title-luxury-emerald-necklace-commercial-storyboard-for-872509/poster-63e3a397f968.jpg" alt="Luxury Emerald Necklace Storyboard video preview" width="700" />
@@ -31228,7 +32534,7 @@ Inspired by world-class luxury jewelry campaigns, premium fashion editorial, sof
 
 ---
 
-## 71. The Thief's Awkward Product Excuse
+## 95. The Thief's Awkward Product Excuse
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-video-prompt-300101/video-236581d53aa7.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-video-prompt-300101/poster-009909ab0bfb.jpg" alt="The Thief's Awkward Product Excuse video preview" width="700" />
@@ -31249,7 +32555,7 @@ Inspired by world-class luxury jewelry campaigns, premium fashion editorial, sof
 
 ---
 
-## 72. Neon Nightmare Burger Commercial
+## 96. Neon Nightmare Burger Commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-15-second-commercial-shot-fast-paced-editing-160587/video-6452503d24f8.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/cinematic-15-second-commercial-shot-fast-paced-editing-160587/poster-dc524a95b7c6.jpg" alt="Neon Nightmare Burger Commercial video preview" width="700" />

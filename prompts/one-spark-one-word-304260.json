@@ -1,0 +1,31 @@
+{
+  "slug": "one-spark-one-word-304260",
+  "title": {
+    "en": "One spark. One word.",
+    "zh": "One spark. One word."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @CharaspowerAI.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+  },
+  "category": "music-video",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@CharaspowerAI",
+    "url": "https://x.com/CharaspowerAI/status/2096916461218304260"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/CharaspowerAI/status/2096916461218304260"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/one-spark-one-word-304260/video-1ce39c316db8.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/one-spark-one-word-304260/poster-0f59613394dd.jpg",
+  "prompt": "Extreme cinematic pyro title reveal beginning with a single glowing spark falling through darkness. The spark strikes a thin trail of fuel and instantly triggers a violent ignition racing across the frame faster than the camera can follow. Fire erupts into towering walls as the camera sweeps through twisting ribbons of flame, liquid fuel, incandescent embers and extreme heat distortion. Multiple streams collide and create a gigantic rotating fire vortex whose white-hot core begins ejecting molten metal. The glowing material stretches, folds and violently welds itself into the enormous word \"BLAZE\", initially completely incandescent before its exterior rapidly cools into cracked black steel. Flames continue raging through the hollow interior of every letter as the camera performs a fast cinematic orbit. Pressure suddenly builds beneath the surface, molten cracks race across the typography and the entire title violently ruptures into an overwhelming explosion of sparks, liquid fire and burning fragments. Photorealistic pyro simulation, brutal energy, premium theatrical VFX."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "aurelia-awaken-your-senses-035223",
+  "title": {
+    "en": "AURELIA — Awaken your senses. ☕",
+    "zh": "AURELIA — Awaken your senses. ☕"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 product commercial prompt with attached video evidence from @AmControo.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+  },
+  "category": "product-commercial",
+  "mode": "reference-to-video",
+  "duration": "13s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@AmControo",
+    "url": "https://x.com/AmControo/status/2083552263449035223"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/AmControo/status/2083553142436716587"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/aurelia-awaken-your-senses-035223/video-8e74e51830a3.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/aurelia-awaken-your-senses-035223/poster-07ef5c197094.jpg",
+  "prompt": "Use all uploaded reference images exactly as provided.\n\nThe reference images are authoritative.\n\nMaintain complete consistency throughout the entire video.\n\nDo not redesign, reinterpret, stylize, replace, simplify, or modify the woman's face, skin tone, hairstyle, hands, body proportions, clothing, facial expressions, the AURELIA package, the coffee cup, the kitchen, the lighting, or the environment.\n\nThe AURELIA package is the primary subject of the commercial and must remain clearly visible whenever it appears.\n\nThe word \"AURELIA\" on the package must remain perfectly readable throughout the video.\n\nThe product is always more important than the typography.\n\nTypography must complement the scene and must never cover the product.\n\nUse natural colours, realistic lighting, realistic steam, realistic reflections, realistic skin texture, realistic hand movements, realistic liquid movement, and realistic shadows.\n\nAvoid:\n\n• Oversaturated colours\n• Plastic-looking skin\n• Beauty filters\n• Distorted hands\n• Distorted fingers\n• Unrealistic reflections\n• Heavy colour grading\n• Artificial lighting\n• Object deformation\n• Excessive contrast\n\nAspect ratio: 16:9\n\nDuration: 15 seconds\n\n━━━━━━━━━━━━━━━━━━\n\nSCENE 1 (0–3 seconds)\n\nBegin with an extreme close-up shot of the AURELIA package standing on the marble countertop.\n\nThe package occupies most of the frame.\n\nThe camera slowly moves toward the package while maintaining focus on the gold lettering.\n\nFresh coffee beans are scattered naturally around the package.\n\nA white ceramic cup filled with hot coffee stands beside the package.\n\nThin streams of steam rise naturally into the air.\n\nThe word AROMA slowly forms from the steam.\n\nTypography instructions:\n\n• Thin, elegant lettering\n• Semi-transparent appearance\n• Soft golden highlights\n• Luxury advertising style\n\nVoice-over:\n\n\"Aroma.\"\n\nThe steam slowly disperses.\n\n━━━━━━━━━━━━━━━━━━\n\nSCENE 2 (3–6 seconds)\n\nThe woman enters the kitchen naturally.\n\nShe gently picks up the cup of coffee and smiles softly.\n\nThe camera follows her movement.\n\nThe word ENERGY forms naturally from floating coffee beans.\n\nTypography instructions:\n\n• Bold lettering\n• Deep brown colour\n• Realistic texture\n• Smooth movement\n\nVoice-over:\n\n\"Energy.\"\n\nThe letters slowly dissolve into individual coffee beans.\n\n━━━━━━━━━━━━━━━━━━\n\nSCENE 3 (6–10 seconds)\n\nThe woman gently pours freshly brewed coffee into the cup.\n\nThe camera captures the movement of the liquid in slow motion.\n\nTiny droplets and soft steam become visible.\n\nThe word BOLD forms naturally from the flowing coffee.\n\nTypography instructions:\n\n• Rich brown colour\n• Smooth edges\n• Glossy texture\n• Elegant appearance\n\nVoice-over:\n\n\"Bold.\"\n\n━━━━━━━━━━━━━━━━━━\n\nSCENE 4 (10–12 seconds)\n\nThe woman gently lifts the white ceramic cup with both hands.\n\nShe slowly brings the cup to her lips and takes a small sip of the coffee.\n\nThe drinking motion must be completely visible.\n\nThe coffee cup must touch her lips naturally.\n\nThe camera captures the movement from a slight side angle.\n\nHer eyes close briefly as she enjoys the aroma and flavour.\n\nSoft morning light enters through the windows.\n\nA thin stream of steam rises from the cup.\n\nThe word AWAKEN slowly emerges from the steam.\n\nTypography instructions:\n\n• Thin gold lettering\n• Transparent appearance\n• Elegant movement\n• Soft reflections\n\nVoice-over:\n\n\"Awaken.\"\n\nThe model must clearly complete the action of drinking the coffee.\n\nThe cup must touch her lips, and a visible sip must occur before the scene ends.\n\n━━━━━━━━━━━━━━━━━━\n\nSCENE 5 (12–15 seconds)\n\nThe camera slowly moves toward the AURELIA package resting on the countertop.\n\nThe package and the white ceramic cup remain at the centre of the frame.\n\nSteam rises naturally from the cup.\n\nThe package must remain completely visible at all times."
+}

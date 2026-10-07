@@ -1,0 +1,31 @@
+{
+  "slug": "strong-modern-editorial-with-a-little-strange-beauty-and-controlled-746202",
+  "title": {
+    "en": "Strong, modern, editorial, with a little strange beauty and controlled unease.",
+    "zh": "Strong, modern, editorial, with a little strange beauty and controlled unease."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 product commercial prompt with attached video evidence from @TaoRInne.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+  },
+  "category": "product-commercial",
+  "mode": "reference-to-video",
+  "duration": "34s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@TaoRInne",
+    "url": "https://x.com/TaoRInne/status/2095086312319746202"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/TaoRInne/status/2095086312319746202"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/strong-modern-editorial-with-a-little-strange-beauty-and-controlled-746202/video-72e57d6f8b5d.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/strong-modern-editorial-with-a-little-strange-beauty-and-controlled-746202/poster-b0c7e46ac669.jpg",
+  "prompt": "Short Movie「欲望」---\n※音楽が流れます。\n\n可愛い子を動かしたかっただけなんです。\nけしからんですよね、、、。\nごめんなさい。\n\n☑️プロンプト下に置きました👇\nみんなも可愛い子の動画作ろ💌\n\n#MiniMaxH3 on #MiniMaxDesign\n#RInneTao\n\n@Hailuo_AI\n@midjourney\n\n----\n\n[Prompt / Minimax H3]\n※WORD 1〜5の英単語、自由に変えてください。\n\nA 15-second editorial fashion film / fashion magazine commercial. Fast, stylish, contemporary, and visually bold. The film should feel like a rush of sharp fragments rather than a quiet portrait montage. Prioritize visual quality, movement, and editorial design above everything.\n\nUse the reference images as live visual material for face presence, fashion language, silhouette, surface texture, and mood, but do not recreate them as frozen portraits. Transform them into a living fashion film.\n\nCore rules:\n- The people must feel real first: breathing, blinking, gaze shifts, weight shifts, shoulders, fingertips, and mouth corners should always be alive.\n- No doll-like stillness, no paper-doll motion.\n- Every performer should have a distinct personality readable through movement, gaze, breathing, reaction speed, hand habits, posture, and expression.\n- Poses must be strong and clearly modeled, like fashion-model poses.\n- Cuts must be fast.\n- No shot should last longer than 2 seconds.\n- Scenes should change constantly, like a rush of sharp momentary fragments.\n- Use split-screen often enough to matter, with left and right sides acting on different intentions and never fully synchronized.\n- Keep the camera constantly moving: push-in, pull-out, orbiting, oblique travel, occlusion, depth shifts, and rapid reframing.\n- Use expressive transitions: flash cuts, match cuts, reverse flips, shutter-like wipes, split-screen interruptions, and speed-based continuity.\n- Avoid boring fades, boring slides, and quiet portrait sequences.\n\nPerformer directions:\n- Performer 1: cold observer, restrained, gaze leads the motion.\n- Performer 2: ritual-like, hand-driven, meaningful interaction with clothing or props.\n- Performer 3: model-like, visual anchor, confident center presence.\n- Performer 4: trembling, breathable, delayed reactions, human softness.\n\nSubtle fashion gestures:\nEach performer should include subtle expressive fashion gestures as accents:\n- licking a finger\n- touching the cheek or chest\n- brushing hair back\n- blowing a soft breath toward the camera\n- winking\n- kiss-like motion\n- gaze-play\n\nKeep the tone chic, suggestive, and editorial rather than explicit.\n\nTypography:\n- English typography only.\n- The typography should feel like a designer logo system or a world-building mark, not subtitles.\n- It should behave like a continuous organism across the entire video: stretching, wrapping, splitting, colliding, trailing, slipping in front of and behind people, crossing cuts, and remaining present as an integrated graphic force.\n- Prioritize aesthetic motion and graphic presence over perfect readability.\n- The text may be abstracted, symbolic, geometric, and design-forward.\n\nUse words related to the project theme, such as:\n[WORD 1], [WORD 2], [WORD 3], [WORD 4], [WORD 5]\n\nOverall feel:\nA chic fashion magazine commercial with runway energy, crossed with an editorial visual language.\nThe final video should feel like distinct personalities moving through one editorial world, with living typography cutting through the frame like a second organism.\nStrong, modern, editorial, with a little strange beauty and controlled unease."
+}

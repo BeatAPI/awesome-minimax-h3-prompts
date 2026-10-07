@@ -1,0 +1,31 @@
+{
+  "slug": "video-created-with-minimax-h3-636649",
+  "title": {
+    "en": "Video created with MiniMax H3",
+    "zh": "Video created with MiniMax H3"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 vlog prompt with attached video evidence from @bmx_ai13.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3视频提示词。"
+  },
+  "category": "vlog",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "4:3",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@bmx_ai13",
+    "url": "https://x.com/bmx_ai13/status/2094556015165636649"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/bmx_ai13/status/2094556015165636649"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/video-created-with-minimax-h3-636649/video-205efdc8d643.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/video-created-with-minimax-h3-636649/poster-0b1e3d906871.jpg",
+  "prompt": "ULTRA REALISTIC 15 SECOND PERSONAL HOME VIDEO. 1080p render of 4:3 early 2000s MiniDV tape footage. Single continuous handheld take, no cuts. Dialogue driven, Hinglish. Title: EK MOMBATTI.\n\nCONCEPT\nA birthday with no cake. One candle stuck into a pastry from the corner shop, lights switched off in a small room, one friend filming and singing badly. Twelve seconds later the lights are back on and it is over.\n\nSUBJECT LOCK\nIndian woman, early twenties, warm medium brown skin, realistic pores, minimal makeup, face lit almost entirely by a single candle flame from below so the shadows are unflattering and the highlights blow out. Dark brown hair loosely tied back with strands falling loose. Oversized cream knit sweater with stretched cuffs, blue jeans, white sneakers scuffed at the toe. Same face, hair and outfit for the full 15 seconds. Sitting cross legged on the floor, embarrassed, hands in her sleeves.\n\nSECOND VOICE LOCK\nThe friend holding the camcorder is never seen, not a hand, not a shadow. Voice only, young female, close to the mic, singing off key with no shame. Never addresses an audience.\n\nSETTING\nSmall rented room at night with the ceiling light switched off. A single pastry on a steel plate on the floor with one thin candle in it, a mattress on the floor, a plastic chair with clothes on it, a curtain with street light leaking around the edge. Lived in and unstyled. No visible brands, no logos, no readable signage, no decorations.\n\nCAMERA\nRaw handheld MiniDV camcorder held low and close, sitting on the floor across from her. Severe exposure pumping in near darkness, the candle flame blooming into a smeared vertical streak, her face crushed to noise then recovering. Autofocus hunting constantly and never locking. One clumsy zoom in on the candle. Heavy low light tape grain, interlace combing, one dropout glitch. No stabilization, no gimbal.\n\nBEATS\n0:00 to 0:05 She is sitting in the dark behind the candle looking mildly embarrassed while the friend sings the birthday song off key. No lyrics needed, humming and improvised words.\n0:05 to 0:09 The exchange about the wish, quick, overlapping, both laughing.\n0:09 to 0:12 She blows the candle out. Total darkness on tape for two full seconds, only sound, image reduced to noise and a faint window edge. Nobody bothers to fix it.\n0:12 to 0:15 The ceiling light snaps on, the frame blows out white then settles on her squinting, and the tape cuts.\n\nDIALOGUE\nHinglish code switching, natural overlapping delivery, flat and unprojected.\n0:05 She says Wish kya karun\n0:06 Friend off camera says Bata mat, warna nahi hoga\n0:08 She says Nahi bata rahi, chill\n0:13 Friend off camera says Light on kar diya, sorry\nVisible mouth movement with bilabial closure on m, b and p while she is lit. Friend lines off camera only, closer to the mic. The birthday singing is improvised humming, not a quoted song.\n\nAUDIO\nDiegetic only. Off key singing very close to the mic, a ceiling fan, the plate shifting on the floor, her breath blowing out the candle, a light switch click, a scooter outside, a neighbour's television, faint hand noise on the camcorder. No music, no score, no added ambience beds.\n\nSTYLE RULES\nNothing dramatic happens. No posing, no celebration montage, no hero framing, no warm candle glamour lighting. Realism comes from the bad singing, the two seconds of black, and the harsh light at the end. If she performs for the lens the illusion breaks.\n\nNEGATIVE\nNo music. No subtitles. No captions. No watermark. No timestamp. No slow motion. No color grading. No lens flare. No shallow depth of field. No visible second person. No brand logos. No readable text.\n\nLAST FRAME\nHer squinting into the newly switched on ceiling light, overexposed and off center, smoke still rising from the candle, one frame of tape tear, hard cut to black. Absolutely no on screen text, no title card, no lettering, no numbers, no logo, no signage of any kind in the final frame."
+}

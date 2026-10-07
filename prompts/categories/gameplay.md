@@ -23,7 +23,232 @@ Camera: First-person perspective at eye level with authentic handheld player mov
 
 ---
 
-## 2. 以上是关于近期网友较多留言的回复，有问题可以在这里提问，我将尽量予以回答，我也会在合适的时间在经过认真论证后开源我的系统和工作流。
+## 2. I gave both the exact same brief down to the broken left tusk and the narration pacing.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/i-gave-both-the-exact-same-brief-down-to-the-315908/video-c1c6f549e118.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/i-gave-both-the-exact-same-brief-down-to-the-315908/poster-6959553b2ab8.jpg" alt="I gave both the exact same brief down to the broken left tusk and the narration pacing. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — The exact prompt both models received, nothing changed between them: Natural history wildlife documentary, BBC Planet Earth style. Shot on 35mm anamorphic, long telephoto lens,...</summary>
+
+~~~~text
+The exact prompt both models received, nothing changed between them:
+
+Natural history wildlife documentary, BBC Planet Earth style. Shot on 35mm anamorphic, long telephoto lens, handheld. Overcast diffused daylight. Photoreal, desaturated earthy palette, fine film grain, shallow depth of field. No music at any point.
+
+SUBJECT: A massive grey quadruped with an elephantine skull, heavy hound-like body, drooping elephant ears, small dark eyes, thick leathery hide covered in deep natural seam-ridges running along the flanks and spine. Two short forward-curving keratin tusks on the forehead: the right tusk intact and pointed, the LEFT tusk broken off to a blunt chipped stump. Old healed gouges across the brow and neck. Broad splayed padded feet, long tapering tail. Keep the anatomy, proportions, hide texture and the broken left tusk identical in every frame, including during fast motion.
+
+LOCATION: dense old-growth beech and fir forest, damp ground carpeted in fallen leaves and ferns, cold mist drifting between mossy trunks, thin shafts of light through the canopy.
+
+BEAT 1 (0-6s): Slow telephoto push-in through out-of-focus foreground branches. The creature stands among ferns, head lowered, grazing. It tears at low undergrowth, jaw working, ears flicking. Breath steams in the cold air. Unhurried, calm, observational.
+
+BEAT 2 (6-9s): The animal stops chewing. Its head lifts sharply and it turns to look straight down the lens. Total stillness. Ears flare forward, nostrils widen, one slow blink. Brief tighter framing catches the broken left tusk stump and scarred brow.
+
+BEAT 3 (9-15s): It lowers its head and explodes into a charge directly at camera. Leaf litter and dust kick up, ferns whip aside, trunks blur past. The camera shakes violently and swings as the operator retreats backwards. The animal fills frame. It rears and slams one broad foot down toward the lens. The camera is knocked from the operator's hands, tumbles, and lands sideways on the wet forest floor, half-buried in leaves, lens smeared and out of focus, a sliver of pale sky above. Frame goes still, then dark.
+
+VOICEOVER CASTING AND DELIVERY - this is critical:
+A single elderly male British narrator, aged around eighty, speaking in refined upper-class Received Pronunciation. Warm, gentle, grandfatherly, hushed and reverent, as though standing very close to a wild animal and not wishing to disturb it. Think classic BBC natural history narration.
+
+Pacing must be VERY SLOW and unhurried, roughly two words per second, with long deliberate pauses between every sentence. Do not rush. Do not compress the lines to fit. There is far more silence than speech in this clip. Soft breath between phrases. Downward, settled intonation at the end of each sentence. Low volume, close-mic, intimate. Absolutely no American accent, no announcer energy, no excitement, no urgency, no fast delivery.
+
+NARRATION SCRIPT, spoken slowly with long pauses at each bracket:
+"He is the last of his kind in this valley." [long pause] "The left tusk was lost in a duel, two winters ago." [long pause] "He did not lose that fight." [long pause] "He is aware of us now."
+Nothing is spoken after that line. The final seconds carry no narration at all.
+
+AUDIO: rich forest ambience throughout, birdsong, wind in the canopy, wet leaf rustle, distant insect hum. Heavy footfalls in leaf litter, deep resonant chest rumbles, slow breathing. In the final beat, a sudden splitting trumpet-roar, thundering ground-shaking footfalls, snapping branches, panicked human breathing offscreen, microphone overload distortion, a hard impact thud, then dead air.
+
+NEGATIVE: no music or score, no on-screen text, no subtitles, no logos, no female narrator, no American accent, no fast or breathless narration, no CGI plastic look, no extra limbs, no healed or symmetrical tusks, no smooth clean skin, no bright saturated colours.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/i-gave-both-the-exact-same-brief-down-to-the-315908/video-c1c6f549e118.webm)
+
+**Source:** [@aibabbler](https://x.com/aibabbler/status/2098014866510315908) · 29s · 60:49 · gameplay
+
+---
+
+## 3. Realistic emotions. Natural movement. A complete story arc in just 15 seconds.
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/realistic-emotions-natural-movement-a-complete-story-arc-in-just-210536/video-5ad858a564ef.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/realistic-emotions-natural-movement-a-complete-story-arc-in-just-210536/poster-f82e735ef635.jpg" alt="Realistic emotions. Natural movement. A complete story arc in just 15 seconds. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a 15-second, 2K ultra-realistic emotional live-action scene, precisely timed so the full scene completes within 15 seconds — no abrupt cutoff, no unfinished action. **MAIN...</summary>
+
+~~~~text
+Create a 15-second, 2K ultra-realistic emotional live-action scene, precisely timed so the full scene completes within 15 seconds — no abrupt cutoff, no unfinished action.
+
+**MAIN CHARACTER**
+[Use locked character reference sheet] — young woman, early-mid 20s, dark wavy hair, beige knit sweater, jeans, rose-gold ring on left hand. Maintain exact facial identity, hairstyle and outfit throughout.
+
+**LOCATION**
+Softly lit apartment living room, warm lamp light, rain faintly visible through window, coffee table in frame.
+
+**TIMED SCENE BREAKDOWN**
+
+- **0:00–0:03** — She stands near the door, ring box in hand, staring at him across the room. Hands trembling slightly. She says quietly: "I found her Instagram. Same ring."
+- **0:03–0:06** — He starts to speak, stumbling. She cuts him off, voice steady but cracking: "Don't. Just don't."
+- **0:06–0:09** — She walks forward and places the ring box gently on the coffee table. Says: "I just needed you to know that I know."
+- **0:09–0:12** — He reaches toward her; she steps back, shaking her head. Eyes welling up, breathing shaky. She wipes one tear quickly.
+- **0:12–0:15** — She turns, opens the door, pauses one beat in the doorway without looking back, then steps out and closes it. Camera holds on the closed door for the final half-second.
+
+**CAMERA / VISUAL STYLE**
+Handheld, subtle movement. Medium shot for 0:00–0:09, slow push into close-up for 0:09–0:12 as composure breaks, pull-back wide as she exits at 0:12–0:15. Realistic tear formation, skin texture, natural micro-expressions. Shallow depth of field, 24fps, photorealistic.
+
+**EMOTIONAL DIRECTION**
+Calm confrontation → cracking voice → restrained tears → quiet exit. No shouting, no melodrama — controlled, dignified devastation, fully resolved by the final second.
+
+**AUDIO**
+Rain against window, faint clock tick, shaky breathing, soft click of ring box on table, footsteps, door open/close. No music, no narration.
+
+**CONTINUITY / REALISM**
+Exact character identity, outfit and room layout locked throughout. Ring box stays in placed position once set down. Scene must resolve fully by 0:15 — no cut-off dialogue, no incomplete gestures.
+
+**NEGATIVE:** plastic skin, fake tears, exaggerated acting, melodrama, shouting, distorted faces, extra fingers, identity drift, outfit changes, CGI look, subtitles, watermark, abrupt/unfinished ending.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/realistic-emotions-natural-movement-a-complete-story-arc-in-just-210536/video-5ad858a564ef.webm)
+
+**Source:** [@AiWithSaira](https://x.com/AiWithSaira/status/2097279338622210536) · 15s · 7:4 · gameplay
+
+---
+
+## 4. Made with MiniMax H3 on
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-on-547609/video-23ef8e9c02cb.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-on-547609/poster-da4927e604fc.jpg" alt="Made with MiniMax H3 on video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — A quiet rooftop garden overlooking a softly glowing city on a cool winter night. Fairy lights sway, distant fireworks illuminate the sky, and light snow falls. Two people meet for...</summary>
+
+~~~~text
+A quiet rooftop garden overlooking a softly glowing city on a cool winter night. Fairy lights sway, distant fireworks illuminate the sky, and light snow falls. Two people meet for the final time before parting.
+
+Character A: cute young adult woman, cream cardigan, pleated skirt, ankle boots, small hair ribbon. Character B stays mostly off-camera or softly blurred.
+
+Emotional arc: nervous smile → playful composure → fragile affection → gentle touch → realization → brave farewell → hurried departure.
+
+Character B speaks once. Character A speaks once.
+
+---
+
+SHOT 1 — 0s–1.2s | CLOSE-UP / NERVOUS SMILE
+
+Tight close-up on Character A, Character B’s blurred shoulder at frame edge.
+
+Character B softly says:
+「また会えるよね。」
+(“We’ll meet again, right?”)
+
+She gives a tiny cute smile that becomes emotional. Wet sparkling eyes, flushed cheeks, subtle lip tremble, soft inhale, brief glance away.
+
+---
+
+SHOT 2 — 1.2s–3.8s | CLOSE-UP / PLAYFUL COMPOSURE
+
+Character A adjusts her hair ribbon and gives a playful smile, trying to hide her sadness. She almost giggles, then looks toward the fireworks before returning her gaze to Character B.
+
+No dialogue. Natural blinking, breathing, and facial micro-expressions.
+
+---
+
+SHOT 3 — 3.8s–6.4s | GENTLE TOUCH / REALIZATION
+
+Character B gently brushes a loose strand of hair from her face and briefly touches her cheek.
+
+Character A freezes, eyes widen, breath catches, cheeks flush, eyes fill with tears. She places her hand over his wrist for a moment, then gently lowers his hand.
+
+Tender, innocent, restrained. No aggression or repeated touching.
+
+---
+
+SHOT 4 — 6.4s–8.2s | MEDIUM CLOSE-UP / FINAL LINE
+
+Character A steps backward as the camera gently pulls out.
+
+She smiles through tears and softly says:
+「ずっと、忘れないよ。」
+(“I’ll never forget you.”)
+
+She looks down, breathes quietly, a single tear rolls down her cheek. She wipes it away with her cardigan sleeve and smiles again.
+
+---
+
+SHOT 5 — 8.2s–10s | LONG SHOT / FINAL DEPARTURE
+
+Wide rooftop shot.
+
+Character A turns and quickly walks toward the stairway, trying not to cry. Her hair and cardigan move naturally in the winter breeze.
+
+She never looks back. Character B remains motionless as fireworks bloom above the city. She disappears down the stairs.
+
+End while she is still leaving.
+
+---
+
+AUDIO
+
+Soft emotional Japanese romance-drama music, low in the mix.
+
+Distant fireworks, city ambience, winter wind, footsteps, fabric movement, natural breathing, subtle hair/ribbon movement, gentle fingertip contact.
+
+No subtitles, narration, or text.
+
+VISUAL STYLE
+
+Photorealistic cinematic Japanese romance film, cute expressive young adult woman, realistic skin and eyes, warm fairy lights, cool blue night, shallow depth of field, bokeh, subtle lens flare, natural hair/clothing movement, restrained handheld camera, emotional micro-expressions, 16:9, 4K, 24fps.
+
+NEGATIVE: face changes, identity drift, duplicated characters, exaggerated crying, distorted hands, extra fingers, unnatural movement, wardrobe changes, aggressive touching, slap, camera spinning, subtitles, narration, watermark, text.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-on-547609/video-23ef8e9c02cb.webm)
+
+**Source:** [@itxabdullaa](https://x.com/itxabdullaa/status/2095809617624547609) · 15s · 16:9 · gameplay
+
+---
+
+## 5. The results were interesting to compare. Which one is your pick?
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/the-results-were-interesting-to-compare-which-one-is-your-101412/video-bf7fd537deec.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/the-results-were-interesting-to-compare-which-one-is-your-101412/poster-b9f551342c4d.jpg" alt="The results were interesting to compare. Which one is your pick? video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Photorealistic cinematic cozy 1990s-inspired American café, warm wooden interiors, red leather booths, chrome details, vintage coffee machines, large windows, soft morning...</summary>
+
+~~~~text
+Photorealistic cinematic cozy 1990s-inspired American café, warm wooden interiors, red leather booths, chrome details, vintage coffee machines, large windows, soft morning sunlight, realistic customers, subtle handheld camera texture, rich lived-in detail, natural film grain. Use the provided reference image as the exact character lock for the girl. Preserve her facial identity, eye color, hairstyle, skin texture, body proportions, makeup, and outfit consistency throughout.
+0–4s — [Medium Wide]
+The girl sits peacefully at a café table enjoying her coffee and a slice of cake. She smiles toward the camera, takes a sip, then stands up to grab a napkin. As she turns, she accidentally bumps into a waiter carrying a large tray of coffees and pastries.
+4–9s — [Dynamic Tracking → Super Slow Motion]
+The collision sends everything flying. Coffee cups, pastries, whipped cream, spoons, and coffee droplets explode into the air. Suddenly, time freezes completely at the peak of the chaos. Every customer, the waiter, and every flying object remains perfectly suspended.
+Only the girl can move.
+She looks around in disbelief, slowly walks through the frozen coffee disaster, picks up one perfectly suspended croissant, looks directly into the camera, and casually takes a bite.
+9–12s — [Smooth Tracking Shot]
+She calmly walks toward the café exit while eating the croissant. Frozen coffee droplets sparkle in the sunlight around her. She casually fixes her hair and continues walking as if nothing happened.
+12–15s — [Medium Close-Up]
+Just as she reaches the door, time snaps back to normal. Cups crash onto tables, coffee splashes everywhere, pastries hit the floor, and the waiter reacts in shock. She turns toward the camera, raises her eyebrows, gives a tiny guilty smile and shrugs before walking out.
+Ultra-realistic coffee and pastry physics, realistic liquid splashes, accurate gravity, believable reactions, precise time-freeze effect, cinematic camera orbit, natural facial expressions, realistic reflections, shallow depth of field, warm cinematic lighting, subtle film grain, movie-level temporal coherence, 4K HDR, 24fps, 16 9
+Negative Prompt: No subtitles, captions, logos, watermarks, duplicate people, distorted anatomy, extra fingers, facial changes, inconsistent outfit, flickering, cartoon style, unrealistic physics, floating objects outside the intentional freeze sequence, AI artifacts.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/the-results-were-interesting-to-compare-which-one-is-your-101412/video-bf7fd537deec.webm)
+
+**Source:** [@AIwithSynthia](https://x.com/AIwithSynthia/status/2095430202562101412) · 15s · 535:689 · gameplay
+
+---
+
+## 6. 以上是关于近期网友较多留言的回复，有问题可以在这里提问，我将尽量予以回答，我也会在合适的时间在经过认真论证后开源我的系统和工作流。
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-929579-929579/video-1bbe0f98e178.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-929579-929579/poster-57b0a0b9f12c.jpg" alt="以上是关于近期网友较多留言的回复，有问题可以在这里提问，我将尽量予以回答，我也会在合适的时间在经过认真论证后开源我的系统和工作流。 video preview" width="700" />
@@ -142,7 +367,7 @@ Camera: First-person perspective at eye level with authentic handheld player mov
 
 ---
 
-## 3. MiniMax H3 feels like a really good fit for interactive game concepts.
+## 7. MiniMax H3 feels like a really good fit for interactive game concepts.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-feels-like-a-really-good-fit-for-interactive-417323/video-47c399792570.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-feels-like-a-really-good-fit-for-interactive-417323/poster-cfb4a8498788.jpg" alt="MiniMax H3 feels like a really good fit for interactive game concepts. video preview" width="700" />
@@ -171,7 +396,7 @@ Sound Design: Use pure instrumental music mixed with electronic arcade sounds, n
 
 ---
 
-## 4. is a huge model for some themes
+## 8. is a huge model for some themes
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/is-a-huge-model-for-some-themes-157293/video-3a23900fd3b4.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/is-a-huge-model-for-some-themes-157293/poster-c2ebc5d6241f.jpg" alt="is a huge model for some themes video preview" width="700" />
@@ -199,7 +424,7 @@ Camera movement: Natural player-controlled movement with subtle handheld sway wh
 
 ---
 
-## 5. Y2K K-Pop Candy Typography Music Video
+## 9. Y2K K-Pop Candy Typography Music Video
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/soft-cute-y2k-crush-k-pop-girl-group-rap-mv-748313/video-7588687fb895.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/soft-cute-y2k-crush-k-pop-girl-group-rap-mv-748313/poster-ca11d6e8f8b2.jpg" alt="Y2K K-Pop Candy Typography Music Video video preview" width="700" />
@@ -238,7 +463,7 @@ Shot 7 — Group Rap Performance「UNBREAKABLE」 Three members together.
 
 ---
 
-## 6. Explorer and Cat in a Floating Eco-City
+## 10. Explorer and Cat in a Floating Eco-City
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-cinematic-aaa-adventure-game-trailer-one-continuo-722460/video-8df5c20c5939.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-cinematic-aaa-adventure-game-trailer-one-continuo-722460/poster-478284a3421e.jpg" alt="Explorer and Cat in a Floating Eco-City video preview" width="700" />
@@ -259,7 +484,7 @@ Ultra cinematic AAA adventure game trailer, one continuous seamless camera shot,
 
 ---
 
-## 7. Fantasy Deck-Builder Battle UI
+## 11. Fantasy Deck-Builder Battle UI
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/deck-builder-turn-ui-choreography-446745/video-3d55b47abdf6.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/deck-builder-turn-ui-choreography-446745/poster-8cb4c8f5ec6c.jpg" alt="Fantasy Deck-Builder Battle UI video preview" width="700" />
@@ -287,7 +512,7 @@ Negative: no UI drift or warping, no invented card names, no misspellings, no go
 
 ---
 
-## 8. Colorful Paint-Weapon Selection Screen
+## 12. Colorful Paint-Weapon Selection Screen
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-1-for-the-character-image-2-for-the-619967/video-7ac98e27a185.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-1-for-the-character-image-2-for-the-619967/poster-e51bf318751f.jpg" alt="Colorful Paint-Weapon Selection Screen video preview" width="700" />

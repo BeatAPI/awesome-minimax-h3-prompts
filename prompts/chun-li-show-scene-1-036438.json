@@ -1,0 +1,31 @@
+{
+  "slug": "chun-li-show-scene-1-036438",
+  "title": {
+    "en": "🥋“Chun-Li Show, Scene 1”",
+    "zh": "🥋“Chun-Li Show, Scene 1”"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 action prompt with attached video evidence from @ou_zhen599.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动作提示词。"
+  },
+  "category": "action",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ou_zhen599",
+    "url": "https://x.com/ou_zhen599/status/2094058439937036438"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/ou_zhen599/status/2094058439937036438"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/chun-li-show-scene-1-036438/video-abafe7f1d1b0.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/chun-li-show-scene-1-036438/poster-0f11dbb3a664.jpg",
+  "prompt": "For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.\n\nintegrated_multimodal_description: [Shot 1] Live-action, cinematic realism, high-speed martial arts showcase. Chun-Li fully matches <Picture 1>: same face, hair, twin buns with white ribbons, blue modified qipao combat dress, gold trim, black belt, spiked wrist cuffs, white socks, white-gold sneakers, muscular leg lines, body proportions, and overall Chun-Li presence. The first frame must begin from the exact airborne fighting pose in <Picture 1>, continuing seamlessly with no pose reset, no standing restart, and no delay. IMAX 70mm film grain, Nolan-inspired cinematic realism, photorealistic natural palette with charcoal black, umber, dark ochre, ash gray, and pale amber interwoven. Low-angle medium close-up to medium shot, camera physically attached to Chun-Li with subtle follow, small lateral drift, light arc follow, and slight pullback only when needed. She drops from the exact first-frame airborne pose, lands right foot first, recoils the left leg, folds both arms into guard, slides immediately into a low Chun-Li base, snaps a short low probing kick, drives forward into a heavier mid kick, pushes both palms forward in a qigong-like pressure beat, then bursts into very fast chained lightning kicks. She recoils, rotates her waist, changes side without stopping, reins in for half a breath, looks up, gives a small hand gesture, and says in a calm confident dominant voice (S1): <d>[English] Keep up.</d> She instantly drops back into rhythm, steps in with an upward kick, chains into a fast spinning kick, extends a high kick, borrows the momentum into a brief airborne turning kick continuation, lands directly into a low sweep, snaps in a short close palm strike, then detonates the strongest rising finishing kick of the full piece. She rotates back under control, returns to Chun-Li’s unmistakable live defensive guard, steadies her breath, lets ribbons and skirt settle, raises one hand with relaxed dominance, and ends in a beautiful but practical signature stance. The action must feel like real Street Fighter 6 Chun-Li combat logic: fast, sharp, crisp, light, continuous, practical, and never dance-like, cartoonish, messy, or generic posing.\n\noverall_soundscape: Sharp breathing, shoe friction, fabric and ribbon snaps, tight body-driven impact air, and light arena smoke atmosphere.\n\nnon_diegetic_music: Tight hybrid percussion and low electronic pulses at a fast tempo, restrained under the action."
+}

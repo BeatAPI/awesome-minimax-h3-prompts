@@ -1,0 +1,31 @@
+{
+  "slug": "try-it-816084",
+  "title": {
+    "en": "Try it →",
+    "zh": "Try it →"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 vlog prompt with attached video evidence from @ImaStudio_ai.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3视频提示词。"
+  },
+  "category": "vlog",
+  "mode": "text-to-video",
+  "duration": "14s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ImaStudio_ai",
+    "url": "https://x.com/ImaStudio_ai/status/2097995538381816084"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/ImaStudio_ai/status/2097995538381816084"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-816084/video-01be33e0a1ea.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-816084/poster-5b46cd028974.jpg",
+  "prompt": "Create a 15-second, 16:9, 24fps high-energy character reveal trailer with exactly 13 distinct cuts.\nStyle: AAA motion-graphics title sequence × premium Korean fashion campaign × editorial fashion film × explosive character reveal trailer.\nCore visual theme: SCARLET RIOT\nVisual initials: SR\nTagline: TOO HOT TO STAY STILL.\nCharacter lock:\nUse the uploaded woman as the only and absolute identity reference. Preserve the same face, facial proportions, hairstyle silhouette and hair volume, skin tone, body proportions, age impression, and Korean idol/model aura throughout. She is a young adult East Asian woman with a refined small face, fair natural skin, long dark brown to black-brown hair, soft airy bangs, clean features, and a cool yet elegant gaze.\nDo not inherit the original light-blue outfit from the reference. The reference is for identity only, not styling.\nNew wardrobe:\nUpgrade her into a red-themed high-fashion Korean idol campaign look: cropped red-and-white plaid blazer, fitted cream or light beige inner top or shirt, deep burgundy tie or ribbon bow, high-waisted black or burgundy mini skirt or tailored shorts, black or burgundy boots, and refined gold accessories. The look should feel sexy, chic, luxurious, vintage-inspired, sharp, and editorial — never vulgar.\nScene:\nOne consistent setting only: a cream-colored vintage car interior with visible white farmhouse, green field, and golden-hour sunlight outside the window. No random environment changes.\nStructure:\nThe film is 80% graphic motion design / 20% character action. Energy comes mainly from giant kinetic typography, red geometric circles, torn paper textures, red plaid fragments, gold foil stamps, film sprockets, split screens, hard cuts, light leaks, typography slams, poster layouts, editorial grids, sun flares, technical arcs, and halftone textures.\nColor system:\nPrimary colors: bright red, deep burgundy, cherry red, cream white, champagne gold, warm beige, black.\nMinor accents: sage green, sky blue.\nNo pink-dominant or light-blue-dominant palette.\nCharacter action:\nNo dancing. Use subtle but powerful fashion actions only: direct gaze, slight lean-in, head turns, hair whip, seated posture adjustment, slight forward lean, chin lift, and calm but dominant freezes. Energy: quiet power / calm but dominant / sexy / chic / sharp.\n13-cut text system:\nUse only these readable English text elements across the trailer:\nS / R\nSCARLET HOUR\nSOFT LIGHT / HARD STARE / SCARLET FEVER\nSCARLET\nHOT / SHARP / CHIC / WILD\nSCARLET RIOT\nTOO HOT TO STAY STILL.\nCut flow:\n01 pure graphic intro with bold S / R impact.\n02 eye close-up framed through a transformed graphic/window shape.\n03 giant SR letters with her sliding into frame.\n04 split-screen freezes with SCARLET HOUR.\n05 rotating text ring: SOFT LIGHT / HARD STARE / SCARLET FEVER.\n06 editorial card with giant SCARLET.\n07 turn motion with outlined TURN.\n08 beat-hit text barrage: HOT / SHARP / CHIC / WILD.\n09 black field with farmhouse motif and stamp-like framing.\n10 forward lean through shattering graphic panes revealing S → R.\n11 rapid poster montage, four layouts, numbered 01–04.\n12 hero climax on clean cream background with concentric red shockwave graphics.\n13 final identity card with huge SR, then full title SCARLET RIOT and tagline TOO HOT TO STAY STILL.\nEditing:\nEvery cut must feel compositionally different. Use hard cuts, snap zooms, whip pans, stroboscopic freezes, foreground wipes, impact shakes, light-leak splits, and speed ramps. Typography must always be readable before overlap.\nNegative constraints:\nNo face drift, no character replacement, no hairstyle change, no random outfit change, no original blue outfit, no extra people, no 3D cartoon look, no cheap vlog feel, no low-quality CGI, no unreadable text, no messy layout, no watermark, no subtitles, no UI, no logos.\nFinal feel:\nOne locked heroine from the uploaded image, transformed into a red luxury Korean editorial icon inside a vintage-car golden-hour world, driven by AAA motion graphics and the SCARLET RIOT visual system."
+}

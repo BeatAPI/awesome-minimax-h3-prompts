@@ -1,0 +1,31 @@
+{
+  "slug": "created-with-minimax-h3-641230",
+  "title": {
+    "en": "Created with MiniMax H3",
+    "zh": "Created with MiniMax H3"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @TaliaAariz.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "1:1",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@TaliaAariz",
+    "url": "https://x.com/TaliaAariz/status/2099966666763641230"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/TaliaAariz/status/2099966666763641230"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-641230/video-271672951652.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-641230/poster-c12b07adb38c.jpg",
+  "prompt": "A young beautiful woman with long blonde hair featuring pink and blue highlights sits on a sofa in a bright modern living room, watching a soccer match on a large wall-mounted TV while holding a drink and a hot dog. Excited by the game, she leaps up, runs to the screen, and touches it, causing glowing energetic shockwaves to ripple across the display before she magically steps directly through the screen into a packed, floodlit stadium. Still in her elegant white suit, she dynamically dribbles a soccer ball down the pitch, kicks a powerful shot past the diving goalkeeper into the net, and celebrates on the field alongside players while calmly holding her drink."
+}

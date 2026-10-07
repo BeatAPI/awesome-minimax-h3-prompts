@@ -1,0 +1,31 @@
+{
+  "slug": "made-with-minimax-h3-558505",
+  "title": {
+    "en": "Made with MiniMax H3",
+    "zh": "Made with MiniMax H3"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @Zyrellix.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+  },
+  "category": "music-video",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "4:7",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Zyrellix",
+    "url": "https://x.com/Zyrellix/status/2101221316229558505"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Zyrellix/status/2101221316229558505"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-558505/video-ee8fca79ff2f.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-558505/poster-20724b7a5253.jpg",
+  "prompt": "Photorealistic cinematic aerial video of a modern glass skyscraper assembling itself on a city construction site.\n\nSubject: a rectangular glass office tower growing from an empty lot, surrounded by three yellow tower cranes. Cyan holographic construction overlays with grid lines, vertical pillars, and orbiting energy rings.\n\nEnvironment: dense low-rise East Asian city block with tiled roofs, green rooftops, trees lining the streets, buses and cars on the roads, taller buildings and a sports field in the distance.\n\nStyle: ultra-realistic aerial photography, golden-hour to sunset color grade, sharp glass reflections, warm interior lights versus cool cyan holograms.\n\nCamera: one continuous high-angle drone shot. Starts looking down on the lot, then slowly pulls back and lifts as the building grows, ending on a hero three-quarter view of the completed tower against the sunset.\n\nLighting: late afternoon sun at the start; sky shifts to orange, coral, and pink clouds; finished tower glows with warm yellow office lights.\n\n[0s] Empty rectangular construction pit in the city. Three yellow cranes stand around the site. A faint cyan holographic floor grid appears on the dirt.\n\n[2s] Glowing cyan pillars rise from the grid and lock into a structural skeleton. Cranes stay in place.\n\n[4s] Concrete core and first floor slabs materialize. Cyan rings begin orbiting the structure. Camera starts a slow pull-back and rise.\n\n[7s] Mid-rise floors stack rapidly. Dark glass curtain walls wrap the lower levels. Interior lights start coming on. Sky turns warmer.\n\n[10s] Tower is now a tall glass skyscraper. Cranes lift the last rooftop mechanical sections into place. Cyan hologram fades. Sunset sky is intense orange-pink.\n\n[13s] Construction complete. Clean modern tower with lit interiors, one remaining crane at the base. Hold the final cinematic aerial frame.\n\nAudio: distant city traffic, compressed construction rumble early, then a low cinematic swell as the building finishes. No dialogue. No on-screen text. No watermark.\n\nAvoid: cuts, shaky camera, cartoon look, people close-up, logos, extra towers appearing out of nowhere, watermark, subtitles, UI overlay.\n\n#FlovaAI #CPP"
+}

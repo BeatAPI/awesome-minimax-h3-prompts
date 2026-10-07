@@ -1,0 +1,31 @@
+{
+  "slug": "minimax-h3-max-ten-marbles-one-per-second-single-file-462923",
+  "title": {
+    "en": "Minimax H3 Max. Ten marbles, one per second, single file, off the edge.",
+    "zh": "Minimax H3 Max. Ten marbles, one per second, single file, off the edge."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @GlennHasABeard.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "7:4",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@GlennHasABeard",
+    "url": "https://x.com/GlennHasABeard/status/2100185257970462923"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/GlennHasABeard/status/2100185257970462923"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-max-ten-marbles-one-per-second-single-file-462923/video-0cf643964083.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-max-ten-marbles-one-per-second-single-file-462923/poster-dea1e5d7310f.jpg",
+  "prompt": "\"a new marble leaving the jar roughly every second, never two at once\"\n\nDuration: 15s. Camera: locked, shelf height.\n\nA rate in the picture and a rate in the sound line. Two clocks that agree."
+}

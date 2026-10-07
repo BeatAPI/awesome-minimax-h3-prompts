@@ -1,0 +1,31 @@
+{
+  "slug": "fasth3-vs-base-minimax-h3-comparison-its-5x-faster-424156",
+  "title": {
+    "en": "FastH3 vs base Minimax H3 comparison, its 5x faster!",
+    "zh": "FastH3 vs base Minimax H3 comparison, its 5x faster!"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @kentdhani.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+  },
+  "category": "music-video",
+  "mode": "text-to-video",
+  "duration": "8s",
+  "aspectRatio": "24:11",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@kentdhani",
+    "url": "https://x.com/kentdhani/status/2100508436811424156"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/kentdhani/status/2100508439873270167"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/fasth3-vs-base-minimax-h3-comparison-its-5x-faster-424156/video-79b169e13224.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/fasth3-vs-base-minimax-h3-comparison-its-5x-faster-424156/poster-2edf488d0d16.jpg",
+  "prompt": "Create an 8-second photorealistic cinematic street b-roll clip as continuous full-screen live-action footage without showing any storyboard grid, panel numbers, timecodes, headings, captions, borders, or graphic overlays.\n\nOpen on a Japanese woman in her late twenties walking three-quarter-side down a narrow city street, dark mid-length hair, clear defined features, natural makeup, wearing an open long trench coat over relaxed casual wear. Behind her, a softly blurred Tokyo back-street — Shibuya-alley mood with narrow shopfronts, vertical Japanese neon and lightbox signs melting into warm bokeh, glowing shop windows, a vending machine, café awnings, and a few sparse out-of-focus figures drifting in the distance. Low golden evening sun rakes in from behind her shoulder, tracing a warm rim of light along her hair and the edge of her coat.\n\nThe camera holds parallel to her and glides smoothly to the right, keeping her steadily framed on the left third. She walks forward at a relaxed, confident, even pace, each step landing naturally; the open trench coat lifts and sways with her stride and the breeze, and her dark hair stirs in the passing air. Around the third second her gaze settles calmly forward, chin lifting slightly, expression at ease. Near the fifth second her head turns just a little, eyes brushing across a shop window before returning ahead — her steps never breaking. Warm light-bokeh flows slowly through the blurred background the whole time; the shallow depth of field and the steady lateral track never change — no zoom, no push-in, no shake.\n\nUnder it all, soft evening street ambience — distant traffic hum, faint passing chatter, a far bicycle bell, muffled noise spilling from shops, her even footsteps on the pavement, the quiet rustle of the coat fabric, and a light passing breeze — with a gentle lo-fi instrumental of warm electric piano and soft synth pad, a slow steady beat, light bass and brushed percussion, kept restrained beneath the ambient sound, even throughout with no swells. At the eighth second the shot resolves softly while she's still walking and her coat and hair are still moving — no hard cut, no freeze frame.\n\nKeep the same woman, face, hairstyle, makeup, open trench coat, casual inner wear, body proportions, relaxed confident gait, shallow depth of field, warm evening light, and steady parallel tracking throughout. No identity drift.\n\nNo subtitles, caption text, watermark, logo, timestamp, or UI overlay text — though the blurred Japanese shop signage in the background is part of the scene and stays as soft bokeh. No facial or identity distortion while walking, no unnatural gait, no feet slipping or floating or failing to land, no walking backward, no finger or hand deformity or extra fingers, no background losing its blur and turning sharp, no camera shake, jitter, stutter, or uneven speed, no slow motion, no coat or hair clipping, flickering, or tearing, and no extra people pushing into a close-up."
+}

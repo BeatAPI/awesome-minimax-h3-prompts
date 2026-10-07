@@ -1,0 +1,31 @@
+{
+  "slug": "the-h3-s-high-dynamic-range-always-seems-to-be-805308",
+  "title": {
+    "en": "😶The H3's high dynamic range always seems to be a cause for concern.",
+    "zh": "😶The H3's high dynamic range always seems to be a cause for concern."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 music video prompt with attached video evidence from @ou_zhen599.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3音乐视频提示词。"
+  },
+  "category": "music-video",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ou_zhen599",
+    "url": "https://x.com/ou_zhen599/status/2096980289184805308"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/ou_zhen599/status/2096980289184805308"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/the-h3-s-high-dynamic-range-always-seems-to-be-805308/video-ec7d448778be.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/the-h3-s-high-dynamic-range-always-seems-to-be-805308/poster-5979aca1ea85.jpg",
+  "prompt": "integrated_multimodal_description:\n[Shot 1] Photorealistic cinematic survival action, 15 seconds. Lara climbs a steep cliff in a blizzard toward a snow-buried ancient entrance. Lock her identity, hair, clothing, injuries, and equipment. Keep one climbing-tool type, secured when released; maintain the same rope-to-harness connection and upper anchor throughout.\n\nExtreme close tracking begins on her left hand gripping a snowy crack, then tilts rapidly along her arm to her tense profile. Her right hand pulls the rope, knee braces against rock, and she pushes upward half a step. Eyes target the next hold; jaw tightens during effort. Lara (S1), quietly breathless, says, <d>[English] Almost there…</d> Wind drives snow sideways; loosened powder falls and the rope trembles.\n\n[Shot 2] At 00:02.000, cut over her shoulder into a slightly wide subjective view. Advance with her head lift, then tilt upward toward the ancient doorway emerging through snow. She judges the route for half a beat and points her climbing tool toward an upper-right hold. No frontal insert or dialogue. A ruined pinnacle appears briefly, valley clouds churn below, and wind sharpens.\n\n[Shot 3] At 00:04.000, cut to a front-side medium close-up, tracking her lateral traverse. Her right foot loads a thin ice edge and slips. Only then do her eyes widen and breath catch; she checks her foot, tightens her jaw, and searches for another grip. Lara (S1) produces <d>[English] Tsk.</d> as one clipped tongue click, not spoken letters. Snow and stone fragments fall into the ravine.\n\n[Shot 4] At 00:06.000, track her sudden drop, then arrest sharply as the rope loads through her harness. She swings outward beneath the anchor, left hand gripping rope, right hand reaching for projecting rock; the tool remains secured. Her breath stops, then her eyes lock onto the target. Lara (S1), through clenched teeth, says, <d>[English] Don’t fall now.</d> Finish on one short exhalation, slightly stressing \"now.\" Rope vibration, crumbling rock, and falling snow follow the load.\n\n[Shot 5] At 00:08.000, cut to a diving angle following her swing toward the new hold, then move rapidly back toward her face. She catches the projection and uses her core and momentum to return against the cliff. Her chest strikes snowy rock; eyes briefly close and breath is knocked out. She immediately looks upward and resumes short breaths without crying out. Impact throws snow outward; wind whips her hair and briefly reveals the ruins.\n\n[Shot 6] At 00:10.000, frame her gripping hand, push toward her eyes, then tilt slightly toward the cliff lip. Two quick climbing movements bring her hand onto a projecting stone edge. As she pulls, it breaks. Alarm follows the fracture: eyes widen, inhalation catches, and her gaze tracks the failing hold. Lara (S1) says, <d>[English] Wait!</d> sharply, once. Rock tumbles, snow dust strikes her face, and wind curls over the lip.\n\n[Shot 7] At 00:12.000, follow a half-torso drop, then stop on her hand catching the solid cliff edge. She brings the other hand up and stabilizes her weight below the lip; the rope remains connected and physically loaded. Only after securing both hands does she exhale. Slowly tilt upward with her gaze to the enormous snow-buried doorway. Her eyelids and jaw ease slightly, retaining exhaustion and vigilance. Lara (S1), low and breathless, says, <d>[English] Found you.</d> A gust clears the entrance, revealing faint cold light through its seam. Leave the doorway visible after the line. End at 15.00 seconds with Lara still braced at the edge, without standing, walking, or opening the door.\n\nPreserve all seven intervals, camera movements, and action causality. Lara is the only speaker; each exact utterance finishes within its assigned interval. Keep one voice, natural lip synchronization, and physically motivated breathing. No extra dialogue, screams, narration, reaction inserts, or performance pauses. Fear follows danger; relief follows a secure grip. Maintain realistic gripping, rope tension, swing direction, impact, and falling debris. No identity drift, distorted anatomy, extra limbs, intersecting hands or ropes, drifting holds, disappearing equipment, unsupported hovering, exaggerated expressions, subtitles, text, or watermarks.\n\noverall_soundscape:\nContinuous blizzard wind, clothing friction, exertion breaths, rope loading, cracking rock, and falling debris. Synchronize the rope arrest and muffled chest impact precisely; keep dialogue intelligible beneath the storm.\n\nnon_diegetic_music:\nN/A"
+}

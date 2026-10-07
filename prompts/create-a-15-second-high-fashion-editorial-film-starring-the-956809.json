@@ -1,0 +1,31 @@
+{
+  "slug": "create-a-15-second-high-fashion-editorial-film-starring-the-956809",
+  "title": {
+    "en": "Create a 15-second high-fashion editorial film starring the adult character in",
+    "zh": "Create a 15-second high-fashion editorial film starring the adult character in"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 fashion prompt with attached video evidence from @aimikoda.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3时尚提示词。"
+  },
+  "category": "fashion",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "4:3",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@aimikoda",
+    "url": "https://x.com/aimikoda/status/2096295356526956809"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/aimikoda/status/2096295641726996559"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/create-a-15-second-high-fashion-editorial-film-starring-the-956809/video-22071a11ffe2.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/create-a-15-second-high-fashion-editorial-film-starring-the-956809/poster-ecef0c4c6081.jpg",
+  "prompt": "Create a 15-second high-fashion editorial film starring the adult character in @[char ref]. Preserve their exact appearance, outfit, accessories and visual style. Render the entire film in the reference’s aesthetic.\n\nUse a minimal studio with a reflective floor, bold directional lighting and rhythmic photographic flashes.\n\nShow exactly 10 distinct fashion poses, each with a different silhouette and camera angle:\n\n1. A confident standing pose, filmed from floor level with dramatic wide-angle perspective.\n2. One hand beside the face, captured in an extreme side-profile close-up.\n3. An asymmetric seated pose, seen directly overhead as the camera rotates.\n4. One leg extended toward the lens, the foot or reference footwear dominating the foreground through foreshortening.\n5. A quick, fluid leg cross, captured from a low diagonal angle.\n6. Fingertips catching the edge of an existing sleeve or collar, framed in a tight detail shot.\n7. A rear three-quarter turn with a deliberate glance back into the camera.\n8. A forward lean toward the lens, ending with the palm briefly covering it.\n9. An elongated upward stretch, revealed in a sharply tilted wide shot with strong side lighting.\n10. A commanding full-body hero pose, looking down into the lens as the camera rapidly pulls back.\n\nKeep the performance fast and rhythmically tight. Flow naturally between poses, holding each for only a fraction of a second while keeping its silhouette clearly readable. No repeated poses or additional pose changes.\n\nConnect angles through whip pans, movement-matched cuts, snap zooms, flashes and lens occlusions. Orbit against the character’s turn, sweep from their floor reflection toward their face and plunge from overhead to floor level. Alternate intimate details with dramatic wide compositions. Accelerate between poses and brake sharply on each hold.\n\nKeep the sensual gestures quick, confident and fully clothed. Hair and fabric react naturally. No slow motion, lingering shots or gradual camera drift. Build momentum toward the tenth pose, then stop sharply for a crisp final hold.\n\nStable identity and anatomy throughout. No outfit changes, added accessories or text. Sound: a driving 140 BPM fashion beat, rhythmic shutter clicks and subtle fabric movement."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "realistic-emotions-natural-movement-a-complete-story-arc-in-just-210536",
+  "title": {
+    "en": "Realistic emotions. Natural movement. A complete story arc in just 15 seconds.",
+    "zh": "Realistic emotions. Natural movement. A complete story arc in just 15 seconds."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 gameplay prompt with attached video evidence from @AiWithSaira.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3游戏画面提示词。"
+  },
+  "category": "gameplay",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "7:4",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@AiWithSaira",
+    "url": "https://x.com/AiWithSaira/status/2097279338622210536"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/AiWithSaira/status/2097279338622210536"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/realistic-emotions-natural-movement-a-complete-story-arc-in-just-210536/video-5ad858a564ef.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/realistic-emotions-natural-movement-a-complete-story-arc-in-just-210536/poster-f82e735ef635.jpg",
+  "prompt": "Create a 15-second, 2K ultra-realistic emotional live-action scene, precisely timed so the full scene completes within 15 seconds — no abrupt cutoff, no unfinished action.\n\n**MAIN CHARACTER**\n[Use locked character reference sheet] — young woman, early-mid 20s, dark wavy hair, beige knit sweater, jeans, rose-gold ring on left hand. Maintain exact facial identity, hairstyle and outfit throughout.\n\n**LOCATION**\nSoftly lit apartment living room, warm lamp light, rain faintly visible through window, coffee table in frame.\n\n**TIMED SCENE BREAKDOWN**\n\n- **0:00–0:03** — She stands near the door, ring box in hand, staring at him across the room. Hands trembling slightly. She says quietly: \"I found her Instagram. Same ring.\"\n- **0:03–0:06** — He starts to speak, stumbling. She cuts him off, voice steady but cracking: \"Don't. Just don't.\"\n- **0:06–0:09** — She walks forward and places the ring box gently on the coffee table. Says: \"I just needed you to know that I know.\"\n- **0:09–0:12** — He reaches toward her; she steps back, shaking her head. Eyes welling up, breathing shaky. She wipes one tear quickly.\n- **0:12–0:15** — She turns, opens the door, pauses one beat in the doorway without looking back, then steps out and closes it. Camera holds on the closed door for the final half-second.\n\n**CAMERA / VISUAL STYLE**\nHandheld, subtle movement. Medium shot for 0:00–0:09, slow push into close-up for 0:09–0:12 as composure breaks, pull-back wide as she exits at 0:12–0:15. Realistic tear formation, skin texture, natural micro-expressions. Shallow depth of field, 24fps, photorealistic.\n\n**EMOTIONAL DIRECTION**\nCalm confrontation → cracking voice → restrained tears → quiet exit. No shouting, no melodrama — controlled, dignified devastation, fully resolved by the final second.\n\n**AUDIO**\nRain against window, faint clock tick, shaky breathing, soft click of ring box on table, footsteps, door open/close. No music, no narration.\n\n**CONTINUITY / REALISM**\nExact character identity, outfit and room layout locked throughout. Ring box stays in placed position once set down. Scene must resolve fully by 0:15 — no cut-off dialogue, no incomplete gestures.\n\n**NEGATIVE:** plastic skin, fake tears, exaggerated acting, melodrama, shouting, distorted faces, extra fingers, identity drift, outfit changes, CGI look, subtitles, watermark, abrupt/unfinished ending."
+}

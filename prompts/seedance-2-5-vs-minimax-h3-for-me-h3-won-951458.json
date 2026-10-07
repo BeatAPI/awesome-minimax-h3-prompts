@@ -1,0 +1,31 @@
+{
+  "slug": "seedance-2-5-vs-minimax-h3-for-me-h3-won-951458",
+  "title": {
+    "en": "Seedance 2.5 vs minimax h3 , for me h3 won",
+    "zh": "Seedance 2.5 vs minimax h3 , for me h3 won"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 product commercial prompt with attached video evidence from @IqrasaifiAI.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。"
+  },
+  "category": "product-commercial",
+  "mode": "text-to-video",
+  "duration": "16s",
+  "aspectRatio": "3:4",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@IqrasaifiAI",
+    "url": "https://x.com/IqrasaifiAI/status/2097837462512951458"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/IqrasaifiAI/status/2097837462512951458"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/seedance-2-5-vs-minimax-h3-for-me-h3-won-951458/video-1dfdc6320259.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/seedance-2-5-vs-minimax-h3-for-me-h3-won-951458/poster-4bab6a0a236a.jpg",
+  "prompt": "A hyper-realistic, photorealistic 8K CGI advertisement sequence for a futuristic luxury electric concept sports car, styled like a high-end commercial with a sleek, powerful, and sophisticated mood.\n\nSetting & EnvironmentSet in an infinite, minimalist virtual studio with a deep black void background and a perfectly polished, highly reflective black obsidian floor that crystal-clearly mirrors the scene. The atmosphere is crystal clear with subtle light bloom.\nLighting\n\nKey Light: A cool-white (6000K) softbox panel light descends from above, growing larger to cast clean defining highlights over the final car.\n\nEmissive Accent Light: Silvery-white and vibrant electric-blue light glows directly from the fluid liquid metal, projecting dynamic reflections onto the floor.\n\nSubject Transformation\n\nInitial Form: A single, pristine sphere of mercury-like liquid metal hovering above the floor, rippling with high reflectivity and surface tension.\n\nFinal Form: A low-profile, aerodynamic futuristic sports car with smooth, single-piece molded body panels in deep gloss black pearlescent paint that subtly shifts to dark blue, featuring razor-sharp LED light bars.\n\nCamera ChoreographyAn uninterrupted, dynamic camera move starting as an extreme close-up macro (85mm, f/1.8 shallow depth of field) focused on the hovering liquid drop. The camera smoothly pulls back and accelerates into a sweeping clockwise orbit, transitioning to a wide shot (35mm, f/5.6 deep focus) to reveal the complete vehicle sharp and in full view.\n\nAction & Animation Sequence\n0–2s: The liquid metal sphere slowly pulses and ripples to a low-frequency bass hum.\n\n2–5s: The sphere explodes outward in zero-gravity as liquid tendrils stretch to form the car's wireframe, traced by glowing electric-blue energy lines, accompanied by high-tech chimes and metallic crackles.\n\n5–7s: Liquid metal flows over the energy frame, solidifying into smooth body panels and forming wheels to a heavy bass thrum.\n\n7–8s: The car gently settles onto the reflective obsidian floor, its razor-sharp LED headlights and taillights flash on with a powerful pulse, fading into the subtle hum of a high-tech electric motor."
+}

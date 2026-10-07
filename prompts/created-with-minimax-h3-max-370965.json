@@ -1,0 +1,31 @@
+{
+  "slug": "created-with-minimax-h3-max-370965",
+  "title": {
+    "en": "Created with MiniMax H3 Max.",
+    "zh": "Created with MiniMax H3 Max."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @ZephyraLeigh.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ZephyraLeigh",
+    "url": "https://x.com/ZephyraLeigh/status/2097919526432370965"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/ZephyraLeigh/status/2097919526432370965"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-max-370965/video-af00fece2c86.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-max-370965/poster-7cb672630218.jpg",
+  "prompt": "Main Subject(s): Three young adult women, sisters and cousins, wearing authentic early-1900s clothing: long ankle-length skirts, high-neck blouses, fitted jackets, wide-brimmed hats, gloves, and simple leather shoes.\n\nLocation: An ordinary morning market in Paris, France, around 1906. Wooden market stalls, baskets of vegetables, flowers, bread, horse-drawn carts, early automobiles, cobblestone streets, and pedestrians in period clothing.\n\nVisual Style: Ultra-realistic early-1900s hand-cranked motion-picture footage. Black-and-white with a subtle sepia tint, heavy film grain, flickering exposure, scratches, dust particles, uneven frame rate, soft focus, slight vignetting, and unstable image brightness. Silent-film intertitles appear between scenes. No modern objects, cars, signage, or technology.\n\nCamera Style: Static or slowly repositioned early motion-picture camera on a tripod. Slightly jerky movement from hand-cranked film, imperfect framing, occasional overexposure, film jitter, and brief damaged-film flickers. The footage should feel like a rare personal film discovered in an old archive.\n\nTimeline\n\n00:00–00:03\nThe film opens on a busy cobblestone street. A horse-drawn cart passes slowly in front of the camera while pedestrians move through the frame. A brief intertitle appears: “A Morning in Paris — 1906.”\n\n00:03–00:06\nThe three women walk toward a market stall carrying small woven baskets. One woman pauses to adjust her hat while another points toward a bread display. Their movements are slightly jerky and natural, matching the early film format.\n\n00:06–00:09\nThey examine vegetables and flowers at a wooden stall. One woman accidentally drops an apple, and it rolls across the cobblestones. The others laugh silently and hurry to retrieve it as the camera remains fixed.\n\n00:09–00:12\nThe women sit briefly on a bench near the market, sharing a loaf of bread and looking through a small paper shopping list. One woman turns toward the camera and waves politely. A second intertitle appears: “The shopping was not a complete success.”\n\n00:12–00:15\nThey leave the market carrying their baskets as an early automobile slowly passes behind them. One woman looks back at the camera and gives a playful bow. The film flickers, briefly freezes, and ends with scratches across the frame.\n\nAudio: No recorded dialogue or synchronized sound. Silent-film presentation only, with visual intertitles. Optional subtle projector ambience may be added outside the footage, but the scene itself remains silent.\n\nGoal: Create the feeling of a rare, authentic 1906 family film–period clothing, ordinary market errands, small humorous accidents, and imperfect early cinema captured before modern filmmaking existed."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "made-with-minimax-h3-079386",
+  "title": {
+    "en": "Made with MiniMax-H3",
+    "zh": "Made with MiniMax-H3"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 action prompt with attached video evidence from @ou_zhen599.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动作提示词。"
+  },
+  "category": "action",
+  "mode": "text-to-video",
+  "duration": "14s",
+  "aspectRatio": "3:4",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ou_zhen599",
+    "url": "https://x.com/ou_zhen599/status/2094347624510079386"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/ou_zhen599/status/2094347624510079386"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-079386/video-015bc2a8775b.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-079386/poster-c1270b4247a3.jpg",
+  "prompt": "For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.\n\nintegrated_multimodal_description: [Shot 1] Live-action, cinematic realism, dark fantasy rain-soaked suspense, tragic reversal, one-take cinematic staging. The female warrior fully matches <Picture 1>: same face, wet hair, pointed ears, metal armor, spear, shallow flooded forest, floating leaves, white aquatic flowers, wet skin, and fantasy-film atmosphere. The first frame begins exactly from the pose in <Picture 1>, with her standing half-turned in shallow water, spear held vertically, already alert and searching, with no pose reset. IMAX 70mm film grain, Nolan-inspired cinematic realism, photorealistic natural grading with charcoal black, umber, dark ochre, ash gray, and pale amber interwoven. The entire video is one continuous shot with no cuts. The camera stays close and slowly pulls back the whole time, only making tiny lateral corrections, a slight lower pressure toward water height, one short shock at the arrow hit, and a small dip with her collapse. She immediately surges toward the lens through the water in two fast steps, spear probing forward, pushing out real splashes and dense ripples. She suddenly slows, checks the surface, drags her fingertips through the water, lowers her breath, listens, then cuts diagonally and advances again. She drops into a controlled half-crouch and locks onto a false off-screen direction. At that exact moment, an arrow suddenly enters from a different off-screen angle and hits high in her chest near the shoulder. She freezes for a fraction of a second in disbelief, the spear slips free into the water first, and then her body drops hard and fast into the shallows with real weight. She gives only one very short dying residue of motion before all strength leaves her. The camera keeps slowly pulling back on the aftermath: her half-submerged body, the nearby spear, drifting leaves and flowers, steady rain, lingering drips, and a very subtle faint blood tint diffusing into the murky water. The attacker is never shown. Rain and water must remain fully alive at all times: droplets rolling over skin and armor, wet hair dripping, spear shedding water, moving runoff lines, rain rings, backflow, ripples, splash decay, and subtle blood diffusion, with nothing ever freezing or turning static.\n\noverall_soundscape: Continuous rain on water, skin, armor, spear, leaves, and flowers, plus fast wading splashes, fingertip water cuts, dripping, wet hair and armor runoff, arrow whistle, blunt impact hit, spear splash, heavy body fall, one brief dying water struggle, and then only rain, drips, and slowly calming ripples.\n\nnon_diegetic_music: N/A"
+}

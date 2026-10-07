@@ -1,0 +1,31 @@
+{
+  "slug": "made-with-minimax-h3-140031",
+  "title": {
+    "en": "Made with MiniMax-H3",
+    "zh": "Made with MiniMax-H3"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 action prompt with attached video evidence from @ou_zhen599.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动作提示词。"
+  },
+  "category": "action",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ou_zhen599",
+    "url": "https://x.com/ou_zhen599/status/2094367910861140031"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/ou_zhen599/status/2094367910861140031"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-140031/video-f6be42fd717c.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-140031/poster-c9fe47ecfeb7.jpg",
+  "prompt": "For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.\n\nintegrated_multimodal_description: [Shot 1] Live-action, cinematic realism, neo-noir alley atmosphere, stylish urban samurai entrance. The woman fully matches <Picture 1>: same face, dyed twin ponytails, yellow jacket, black inner top, yellow pants, sneakers, gloves, sheathed katana, wet narrow alley, warm lantern light, dirty walls, tabletop clutter, and deep alley perspective. The first frame begins exactly from the standing pose in <Picture 1>, with the scabbard tip near the ground and no pose reset. IMAX 70mm film grain, inspired by Nolan cinematic aesthetics, photorealistic natural color grading with charcoal black, umber, dark ochre, ash gray, and pale amber interwoven. Low-angle medium shot with a slight push-in. She first pins the lens with a cold dangerous stare, lets a small wrong smile appear, and subtly rotates the wrist holding the sheathed sword. She then snaps one hand to the handle, stabilizes the scabbard with the other, and performs one clean waist-driven draw, the blade flashing across the frame edge. Immediately she steps off line and launches fast broken blade phrases: horizontal slash, recovery, reverse upward cut, turning back-cut, low recovery, sudden re-open, then a short thrust, sharp pullback, and hard horizontal slash, with sword, shoulders, waist, and feet moving as one. She lets the sword hang diagonally at her side, tilts her head toward the lens, and says in a light playful dangerous voice (S1): <d>[English] You still watching?</d> She then advances toward the viewer with the unsheathed sword held low, building pressure, folding in a small casual blade flourish as she closes distance. She suddenly crouches close to the lens, one hand on her knee and one hand holding the sword diagonally beside her, lowers her head slightly, lifts it again, and says: <d>[English] Next time... don’t blink.</d> The first half lands amused, the second half lethal. She rises sharply, whips the blade in one beautiful arc, resets into relaxed indifference, adds one final short elegant diagonal back-cut as she turns, and walks out of frame with the sword in hand. She is the only visible subject. The sword logic from sheathed to unsheathed stays clear. No cartoon motion, no slow motion, no dance-like blade work, no sloppy stunt energy.\n\noverall_soundscape: Wet alley ambience, faint smoke drift, damp footsteps, fabric motion, hair motion, blade wind-cut sounds, clear metal friction between scabbard and steel, and controlled breathing.\n\nnon_diegetic_music: Sparse low electronic pulses and restrained taiko-like percussion, mixed low beneath the action."
+}

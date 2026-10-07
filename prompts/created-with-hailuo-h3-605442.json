@@ -1,0 +1,31 @@
+{
+  "slug": "created-with-hailuo-h3-605442",
+  "title": {
+    "en": "Created with Hailuo H3.",
+    "zh": "Created with Hailuo H3."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 cinematic story prompt with attached video evidence from @CharaspowerAI.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@CharaspowerAI",
+    "url": "https://x.com/CharaspowerAI/status/2089291191447605442"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/CharaspowerAI/status/2089291191447605442"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-hailuo-h3-605442/video-a1e186d4ed37.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-hailuo-h3-605442/poster-08701973e85c.jpg",
+  "prompt": "Ultra cinematic wide shot: A vast field of burning embers stretches into darkness. Suddenly, an enormous wall of fire races across the ground, sending billions of glowing sparks into the air. The flames twist into a gigantic rotating fire vortex hundreds of feet high. Molten embers, smoke, and liquid fire spiral together, naturally forging the word \"IGNITE\" from blazing flames. The letters burn brighter and brighter before erupting into a colossal shockwave that fills the screen with fire and incandescent particles. Hollywood fire simulation, ultra-realistic VFX, blockbuster title reveal."
+}

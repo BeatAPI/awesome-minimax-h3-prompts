@@ -1,0 +1,31 @@
+{
+  "slug": "created-in-minimax-h3-287567",
+  "title": {
+    "en": "Created in Minimax H3",
+    "zh": "Created in Minimax H3"
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 vlog prompt with attached video evidence from @codewithhajra.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3视频提示词。"
+  },
+  "category": "vlog",
+  "mode": "reference-to-video",
+  "duration": "16s",
+  "aspectRatio": "68:45",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@codewithhajra",
+    "url": "https://x.com/codewithhajra/status/2090276653012287567"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/codewithhajra/status/2090276653012287567"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-in-minimax-h3-287567/video-7b43e3567f44.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/created-in-minimax-h3-287567/poster-9fd907758483.jpg",
+  "prompt": "Format: 15 seconds | 16:9 | 4K HDR | 24fps | photorealistic cinematic vlog\n\nCharacter: Use the girl from the uploaded reference image as the exact character reference. Preserve her facial identity, eye color, skin tone, hairstyle, body proportions, and overall appearance consistently throughout every shot. No face changes or identity drift.\n\nScene & Story:\n0–3 sec — The Mystery Package\nThe video opens with a handheld creator-vlog shot in her cozy bedroom during late afternoon. She walks into frame holding a stylish garment bag, looking genuinely curious. She places it on the bed and looks directly into the camera with a playful expression.\n\nShe says naturally: “Okay… I found something for tonight, but I have absolutely no clue if I can pull it off.”\n\nShe unzips the garment bag, revealing only a glimpse of the outfit.\n\n3–6 sec — First Reveal\nShe quickly steps behind a nearby room divider. The camera follows with a fast handheld whip-pan.\n\nShe emerges wearing a chic fitted top, tailored trousers, and elegant heels. She looks at herself in the mirror, slightly surprised by how good it looks.\n\nShe turns toward the camera and says: “Wait… this might actually work.”\n\nShe gives a small confident pose.\n\n6–9 sec — The Unexpected Switch\nInstead of snapping her fingers, she grabs a jacket hanging beside her and dramatically throws it toward the camera.\n\nAs the jacket briefly covers the lens, the outfit seamlessly transforms underneath it.\n\nWhen she pulls the jacket away, she is wearing a completely different fashion-forward look: a stylish mini dress with statement shoes and subtle accessories.\n\nShe looks down, raises one eyebrow, then laughs.\n\n9–12 sec — The Wild Card\nShe walks toward the mirror while the camera circles around her. She notices a third outfit hanging on the wardrobe door.\n\nSuddenly, she steps backward and spins.\n\nDuring the spin, her outfit naturally morphs into a glamorous evening look with a sophisticated silhouette, elegant heels, and refined accessories.\n\nThe transformation happens continuously during the movement with realistic fabric motion — no jump cut.\n\n12–15 sec — Final Decision\nShe walks toward the camera with confident energy, then stops very close to the lens.\n\nShe looks at the camera, points toward herself, then gestures toward the three outfits visible behind her.\n\nWith a playful smile, she says:\n\n“Okay… you’re choosing. Which one?”\n\nThe camera quickly pushes in toward her face as she laughs, ending on a natural freeze-like moment.\n\nVisual Direction:\nUltra-realistic fashion creator vlog, authentic handheld camera movement, natural body language, expressive facial reactions, realistic fabric physics, seamless outfit transitions, natural hair movement, subtle mirror reflections, cinematic depth of field, realistic skin texture, soft late-afternoon daylight mixed with warm practical bedroom lighting, detailed wardrobe and bedroom environment, premium fashion-film aesthetic while maintaining casual YouTube-vlog energy.\n\nCamera:\nHandheld selfie framing, medium shots, quick whip-pans, subtle camera shake, smooth tracking movements, one controlled orbit around the character, final slow push-in.\n\nAudio:\nNatural bedroom ambience, fabric and wardrobe sounds, footsteps, garment movement, subtle mirror-room reverb, upbeat modern fashion-vlog background music, natural spoken dialogue, soft whoosh effects during the outfit transitions. No subtitles, no logos, no watermark.\n\nConsistency & Quality:\nNo jump cuts during transformations. No duplicated character. No distorted hands or fingers. No warped clothing. No inconsistent room layout. No facial identity changes. No unnatural skin smoothing. Keep the same character, bedroom, lighting logic, and visual realism throughout."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "i-gave-both-the-exact-same-brief-down-to-the-315908",
+  "title": {
+    "en": "I gave both the exact same brief down to the broken left tusk and the narration pacing.",
+    "zh": "I gave both the exact same brief down to the broken left tusk and the narration pacing."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 gameplay prompt with attached video evidence from @aibabbler.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3游戏画面提示词。"
+  },
+  "category": "gameplay",
+  "mode": "text-to-video",
+  "duration": "29s",
+  "aspectRatio": "60:49",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@aibabbler",
+    "url": "https://x.com/aibabbler/status/2098014866510315908"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/aibabbler/status/2098014877835022702"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/i-gave-both-the-exact-same-brief-down-to-the-315908/video-c1c6f549e118.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/i-gave-both-the-exact-same-brief-down-to-the-315908/poster-6959553b2ab8.jpg",
+  "prompt": "The exact prompt both models received, nothing changed between them:\n\nNatural history wildlife documentary, BBC Planet Earth style. Shot on 35mm anamorphic, long telephoto lens, handheld. Overcast diffused daylight. Photoreal, desaturated earthy palette, fine film grain, shallow depth of field. No music at any point.\n\nSUBJECT: A massive grey quadruped with an elephantine skull, heavy hound-like body, drooping elephant ears, small dark eyes, thick leathery hide covered in deep natural seam-ridges running along the flanks and spine. Two short forward-curving keratin tusks on the forehead: the right tusk intact and pointed, the LEFT tusk broken off to a blunt chipped stump. Old healed gouges across the brow and neck. Broad splayed padded feet, long tapering tail. Keep the anatomy, proportions, hide texture and the broken left tusk identical in every frame, including during fast motion.\n\nLOCATION: dense old-growth beech and fir forest, damp ground carpeted in fallen leaves and ferns, cold mist drifting between mossy trunks, thin shafts of light through the canopy.\n\nBEAT 1 (0-6s): Slow telephoto push-in through out-of-focus foreground branches. The creature stands among ferns, head lowered, grazing. It tears at low undergrowth, jaw working, ears flicking. Breath steams in the cold air. Unhurried, calm, observational.\n\nBEAT 2 (6-9s): The animal stops chewing. Its head lifts sharply and it turns to look straight down the lens. Total stillness. Ears flare forward, nostrils widen, one slow blink. Brief tighter framing catches the broken left tusk stump and scarred brow.\n\nBEAT 3 (9-15s): It lowers its head and explodes into a charge directly at camera. Leaf litter and dust kick up, ferns whip aside, trunks blur past. The camera shakes violently and swings as the operator retreats backwards. The animal fills frame. It rears and slams one broad foot down toward the lens. The camera is knocked from the operator's hands, tumbles, and lands sideways on the wet forest floor, half-buried in leaves, lens smeared and out of focus, a sliver of pale sky above. Frame goes still, then dark.\n\nVOICEOVER CASTING AND DELIVERY - this is critical:\nA single elderly male British narrator, aged around eighty, speaking in refined upper-class Received Pronunciation. Warm, gentle, grandfatherly, hushed and reverent, as though standing very close to a wild animal and not wishing to disturb it. Think classic BBC natural history narration.\n\nPacing must be VERY SLOW and unhurried, roughly two words per second, with long deliberate pauses between every sentence. Do not rush. Do not compress the lines to fit. There is far more silence than speech in this clip. Soft breath between phrases. Downward, settled intonation at the end of each sentence. Low volume, close-mic, intimate. Absolutely no American accent, no announcer energy, no excitement, no urgency, no fast delivery.\n\nNARRATION SCRIPT, spoken slowly with long pauses at each bracket:\n\"He is the last of his kind in this valley.\" [long pause] \"The left tusk was lost in a duel, two winters ago.\" [long pause] \"He did not lose that fight.\" [long pause] \"He is aware of us now.\"\nNothing is spoken after that line. The final seconds carry no narration at all.\n\nAUDIO: rich forest ambience throughout, birdsong, wind in the canopy, wet leaf rustle, distant insect hum. Heavy footfalls in leaf litter, deep resonant chest rumbles, slow breathing. In the final beat, a sudden splitting trumpet-roar, thundering ground-shaking footfalls, snapping branches, panicked human breathing offscreen, microphone overload distortion, a hard impact thud, then dead air.\n\nNEGATIVE: no music or score, no on-screen text, no subtitles, no logos, no female narrator, no American accent, no fast or breathless narration, no CGI plastic look, no extra limbs, no healed or symmetrical tusks, no smooth clean skin, no bright saturated colours."
+}

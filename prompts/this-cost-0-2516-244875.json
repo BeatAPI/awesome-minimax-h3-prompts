@@ -1,0 +1,31 @@
+{
+  "slug": "this-cost-0-2516-244875",
+  "title": {
+    "en": "This cost $0.2516.",
+    "zh": "This cost $0.2516."
+  },
+  "description": {
+    "en": "A source-verified MiniMax H3 action prompt with attached video evidence from @umesh_ai.",
+    "zh": "由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3动作提示词。"
+  },
+  "category": "action",
+  "mode": "text-to-video",
+  "duration": "14s",
+  "aspectRatio": "4:3",
+  "ingredients": [
+    "text-prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@umesh_ai",
+    "url": "https://x.com/umesh_ai/status/2100629018299244875"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/umesh_ai/status/2100629161568358875"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/this-cost-0-2516-244875/video-4c39f907ccef.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/this-cost-0-2516-244875/poster-9a2e70e5c45d.jpg",
+  "prompt": "Hyper realistic blockbuster cinematic 15 second action sequence in one true unbroken continuous shot, with no cuts, no morphing, and no scene transitions. A rally car races along a narrow alpine cliff road in bright cold daylight, escaping a falling avalanche and trying to reach a tunnel before the route is buried. The camera begins high above in a wide aerial view revealing snow peaks, sheer drops, and the winding road, then physically dives toward the car into a close tracking chase. It glides beside the doors, drops low near the spinning tires as snow sprays, rises overhead to reveal the avalanche rushing behind, then arcs outward into a high circling drone like view before descending again into a front facing backward tracking move. The shot remains seamless throughout as the car drifts around icy switchbacks, clips loose snow, and bursts toward the tunnel just ahead of the collapsing slope."
+}
