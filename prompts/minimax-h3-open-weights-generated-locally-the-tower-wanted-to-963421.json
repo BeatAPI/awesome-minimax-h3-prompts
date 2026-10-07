@@ -1,0 +1,31 @@
+{
+  "slug": "minimax-h3-open-weights-generated-locally-the-tower-wanted-to-963421",
+  "title": {
+    "en": "Block tower transforms into stairs",
+    "zh": "积木塔变成楼梯"
+  },
+  "description": {
+    "en": "A MiniMax H3 cinematic story prompt and video shared by @GlennHasABeard.",
+    "zh": "原作者 @GlennHasABeard 分享的 MiniMax H3 提示词与视频案例。"
+  },
+  "category": "cinematic-story",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "9:5",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@GlennHasABeard",
+    "url": "https://x.com/GlennHasABeard/status/2106840279885963421"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/GlennHasABeard/status/2106840279885963421"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-open-weights-generated-locally-the-tower-wanted-to-963421/video-0d330438e96e.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-open-weights-generated-locally-the-tower-wanted-to-963421/poster-d48c31bbe324.jpg",
+  "prompt": "\"each block slides a short step to the right along the top of the block beneath it\"\n\nDuration: 15s. Camera: locked, from the side."
+}

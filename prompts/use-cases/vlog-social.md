@@ -1,6 +1,6 @@
 # MiniMax H3 Vlog & Social prompts
 
-[Back to all 506 prompts](../../README.md)
+[Back to all 550 prompts](../../README.md)
 
 ## 1. 1980s open-source family comedy
 

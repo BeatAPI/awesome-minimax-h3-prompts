@@ -1,0 +1,32 @@
+{
+  "slug": "she-doesnt-move-the-train-does-625103",
+  "title": {
+    "en": "Still portrait on a moving train",
+    "zh": "列车运动中的静止人像"
+  },
+  "description": {
+    "en": "A MiniMax H3 fashion prompt and video shared by @MrDasCreates.",
+    "zh": "原作者 @MrDasCreates 分享的 MiniMax H3 提示词与视频案例。"
+  },
+  "category": "fashion",
+  "mode": "reference-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@MrDasCreates",
+    "url": "https://x.com/MrDasCreates/status/2106245982652625103"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/MrDasCreates/status/2106246176043598144"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/she-doesnt-move-the-train-does-625103/video-d87a51c0edb9.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/she-doesnt-move-the-train-does-625103/poster-0913928b32a1.jpg",
+  "prompt": "Use the reference image as the exact visual and character foundation. Create one continuous 15-second cinematic shot on a deserted underground metro platform at night. Preserve the woman’s exact face, bleached shaggy wolf cut, lemon-yellow track jacket, proportions, styling, and overall appearance throughout the entire video.\n\n0–3 seconds — Establishing movement\nThe woman stands motionless on the platform, facing slightly toward the camera with a calm, distant expression. The camera begins a very slow handheld push-in. Her hair moves gently from the distant airflow of an approaching train. Fluorescent station lights create soft reflections on the wet platform.\n\n3–6 seconds — Train approaches\nA metro train becomes visible in the deep background and rapidly approaches behind her. The camera continues its subtle push-in while drifting slightly sideways. The approaching train headlights create a gradual exposure change across the scene. Her expression remains composed and almost completely still.\n\n6–10 seconds — Train rushes past\nThe train suddenly races directly behind her. Powerful displaced air dramatically blows her bleached wolf cut backward and makes the lemon track jacket ripple naturally. Keep her face sharp and recognizable while the train develops realistic horizontal motion blur. Passing carriage lights streak across the background and briefly illuminate her face.\n\n10–13 seconds — Peak cinematic moment\nThe strongest airflow lifts individual strands of her hair across the frame. She subtly turns her eyes toward the passing train but does not turn her head significantly. The camera makes a very slight lateral movement, maintaining her as the central visual anchor. Reflections and light streaks move rapidly across the wet platform.\n\n13–15 seconds — Aftermath\nThe train begins disappearing into the distance. The airflow gradually settles. Her hair falls naturally back around her face. The camera completes the slow push-in and settles on a close cinematic portrait. She looks past the camera with the same quiet, detached expression as the final train lights fade into the background.\n\nVisual style throughout:\nPhotorealistic cinematic 35mm film, Kodak Portra color rendition, authentic analog grain, visible natural skin pores and texture, subtle halation around fluorescent lights, slightly imperfect exposure, muted analog colors, realistic motion blur, shallow depth of field, tactile film texture, documentary fashion editorial aesthetic, subtle handheld camera movement, realistic physics, natural hair and fabric motion.\n\nContinuity constraints:\nOne continuous shot, no cuts, no scene changes, no changes to wardrobe, no hairstyle transformation, no facial morphing, no identity changes, no extra people, no beauty-filtered skin, no plastic texture, no exaggerated acting, no surreal effects, no CGI-looking train or environment. Preserve the exact visual identity and composition of the reference image.\n\nFormat: 15 seconds, 16:9 widescreen, cinematic composition, realistic temporal motion, premium analog fashion-film aesthetic."
+}

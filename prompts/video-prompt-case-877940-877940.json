@@ -1,0 +1,32 @@
+{
+  "slug": "video-prompt-case-877940-877940",
+  "title": {
+    "en": "Rain stopping fantasy mishap",
+    "zh": "止雨魔法的意外"
+  },
+  "description": {
+    "en": "A MiniMax H3 music video prompt and video shared by @tokyo_Valentine.",
+    "zh": "原作者 @tokyo_Valentine 分享的 MiniMax H3 提示词与视频案例。"
+  },
+  "category": "music-video",
+  "mode": "reference-to-video",
+  "duration": "14s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@tokyo_Valentine",
+    "url": "https://x.com/tokyo_Valentine/status/2106945512389877940"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/tokyo_Valentine/status/2106945516118691977"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-877940-877940/video-b6123b21c4e2.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-877940-877940/poster-50eb13966ccb.jpg",
+  "prompt": "subject_definitions:\n<Subject 1> is the single female character depicted in <Picture 1>. All views in the character sheet show the SAME person. Preserve her exact facial identity, pale green eyes, short black bob with straight bangs, raised patterned hood, red-and-silver headphones, oversized black-and-turquoise graphic jacket, shorts, patterned thigh-high socks, chunky black boots, and original body proportions. Maintain all clothing colors, graphic motifs, and accessories throughout.\nsummary:\n[reference generation] Create a 15-second, 9:16 animated comedy. <Subject 1> confidently stops the rain with a small supernatural gesture. After a brief moment of satisfaction, one tiny rain cloud appears directly above her head and starts raining only on her. She tries to walk away, but the little cloud follows her perfectly. End with her defeated, irritated stare toward the camera. Exactly three shots, one girl, one location, no dialogue.\n\nretention_analysis:\n<Subject 1> (appears in all three shots): fully_preserved - retain her identity, costume, headphones, hairstyle, hood, proportions, and illustrated appearance. Rain adds surface droplets without changing the clothing design.\nUse <Picture 1> only as a character-design reference. Do not reproduce the white background, character-sheet layout, headings, or multiple views.\ndetailed_description:\nHigh-detail 2D anime animation matching the reference illustration, with smooth, restrained acting and consistent costume details. The setting is a quiet Japanese side street at night. A softly illuminated shop window and cool blue streetlight make the rain clearly visible. The pavement is wet, with small puddles and stable reflections. Keep the same location and lighting throughout.\n\nThe newly generated little cloud is a single compact, dark-gray cloud about 60 centimeters wide, floating roughly 50 centimeters above the girl's hood. It produces one narrow vertical shower directly onto her hood and shoulders. Maintain its shape and size. This cloud is the only source of rain after the opening rainfall stops.\n[Shot 1]\nA steady, eye-level medium-wide shot shows <Subject 1> standing in the center of the frame during ordinary rainfall across the entire street. Her face, raised hood, headphones, and distinctive jacket are clearly visible. Leave enough space above her head for the later cloud.\nShe glances upward with mild annoyance, then slowly raises her right hand toward the sky, palm open. A brief, restrained cyan glow appears around her palm. As she closes her fingers, the rainfall across the street stops completely. The glow disappears. Hold a short, clear pause with no falling rain anywhere. Existing puddles and wet reflections remain unchanged.\nShe lowers her hand and lifts her chin slightly, looking quietly pleased with herself. The broad rainfall sound fades into peaceful street ambience.\n[Shot 2] At 00:05.000, cut to a slightly wider, locked full-body shot in the same location.\n<Subject 1> remains centered, and the surrounding street is still free of falling rain. One tiny dark-gray cloud materializes directly above her hood. After a brief beat, it starts a narrow shower onto her head and shoulders. Clearly show the rain beginning at the underside of this cloud.\nOnly the small area directly beneath it receives fresh rain; the rest of the street remains rain-free. She freezes, blinks once as droplets reach her face, and slowly looks upward at the cloud. Her satisfied expression becomes a silent, offended stare. Keep the cloud's edges and the localized rain column clearly visible.\n\n[Shot 3] At 00:09.000, cut to a steady medium-wide shot with room beside her to show movement.\n<Subject 1> takes two deliberate steps toward screen-left, attempting to leave the shower. The tiny cloud moves horizontally at exactly her walking speed, staying directly above her hood. Its narrow shower follows her continuously, never falling behind or spreading across the street.\nShe stops. The cloud immediately stops above her and keeps raining. Allow a short beat so the failed escape is unmistakable. She slowly lowers her shoulders, turns her eyes toward the camera, and gives a flat, deeply unimpressed stare. One visible droplet runs down her cheek. Hold this expression during the final two seconds while the little cloud continues raining only on her. End at 15 seconds.\noverall_soundscape:\nBroad rainfall and small pavement splashes during the opening. When she stops the weather, the rainfall sound clearly fades out, leaving quiet nighttime ambience. The little cloud introduces a smaller, localized patter on her hood and shoulders. Natural footsteps accompany her two steps. No dialogue, narration, singing, muttering, sighs, or other vocal reactions.\n\nnon_diegetic_music:\nA restrained instrumental electronic bass phrase accompanies her confident rain-stopping gesture, then ends during the peaceful pause. One short, dry plucked note punctuates the tiny cloud's first shower. Keep the ending sparse so the rain and her silent reaction carry the joke. No vocals.\n\nExactly one girl and one tiny cloud. Maintain the original character design and opaque clothing. The broad rainfall stops before the little cloud appears. Do not instantly dry the pavement. No additional rain clouds, umbrellas, lightning, strong wind, destructive effects, character duplication, extra limbs, camera shake, or additional cuts. Add no captions, subtitles, title cards, watermarks, or branded signage."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "airem-scry-executing-vanish-262478",
+  "title": {
+    "en": "Ravenholdt courtyard vanish effect",
+    "zh": "拉文霍德庭院消失特效"
+  },
+  "description": {
+    "en": "A MiniMax H3 music video prompt and video shared by @holagarciajavi.",
+    "zh": "原作者 @holagarciajavi 分享的 MiniMax H3 提示词与视频案例。"
+  },
+  "category": "music-video",
+  "mode": "text-to-video",
+  "duration": "9s",
+  "aspectRatio": "4:5",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@holagarciajavi",
+    "url": "https://x.com/holagarciajavi/status/2106409582222262478"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/holagarciajavi/status/2106409582222262478"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/airem-scry-executing-vanish-262478/video-06b418569a90.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/airem-scry-executing-vanish-262478/poster-f4b70c0f39ed.jpg",
+  "prompt": "f/2.8 lens, eye level, static camera in Ravenholdt courtyard. Damp stone courtyard, low mountain fog. From 0s to 2s, subject holds unblinking eye contact. At 2s, he swiftly pulls his dark wool hood over his head and turns his back to camera. At 3.5s, as his cloak sweeps, his physical body rapidly dissolves and evaporates into a brief wisp of dark shadow-mist, vanishing completely by second 5, leaving the damp stone courtyard entirely empty for the final second.  TEXTURES AND VFX: Optical body dissolve, realistic dark mist evaporation, fluid wool physics, organic sensor grain. Quick cloth rustle, boot pivot, brief wind gust, fading rain ambience."
+}

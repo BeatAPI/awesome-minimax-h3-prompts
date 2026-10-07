@@ -1,0 +1,31 @@
+{
+  "slug": "h3step-8-1344768-16min-809302",
+  "title": {
+    "en": "Claude and Doubao late-night conversation",
+    "zh": "Claude 与豆包的深夜对话"
+  },
+  "description": {
+    "en": "A MiniMax H3 animation prompt and video shared by @eternityspring.",
+    "zh": "原作者 @eternityspring 分享的 MiniMax H3 提示词与视频案例。"
+  },
+  "category": "animation",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "7:4",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@eternityspring",
+    "url": "https://x.com/eternityspring/status/2107746012739809302"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/eternityspring/status/2107746017806540871"
+  ],
+  "video": "https://media.beatapi.io/prompt-gallery/minimax-h3/h3step-8-1344768-16min-809302/video-b914bf188406.webm",
+  "thumbnail": "https://media.beatapi.io/prompt-gallery/minimax-h3/h3step-8-1344768-16min-809302/poster-304ee571e811.jpg",
+  "prompt": "integrated_multimodal_description: [Shot 1] A high-quality 3D animated film, soft cinematic lighting. Late at night in a cozy bedroom lit by a warm desk lamp and the cool glow of an open laptop showing a dark terminal with orange text. Doubao, a stylized 3D cartoon young woman with a straight dark brown chin-length bob, big round dark brown eyes, thick dark eyebrows, fair skin and a black crew-neck T-shirt, sits at a wooden desk on the right and leans forward with her chin resting on her folded arms. On the desk in front of her, on the left, stands Clawd, a hand-sized crab-like mascot built from chunky terracotta-orange voxels: a short, wide rectangular block body, two small black square eyes near its top edge, one stubby blocky arm on each side and a row of tiny square legs; it has no mouth, so its whole body bobs gently with each syllable when it speaks. The two face each other at the same eye level. Doubao lifts her chin slightly and asks playfully in a bright, sweet, gentle young female voice in Mandarin: \"听说你一天能写一万行代码？\" Clawd's square eyes blink. [Shot 2] At 00:03.200, the camera cuts to a close-up of Clawd on the desk with the glowing laptop terminal behind it. Clawd puffs itself up proudly, wiggles both stubby arms, and its body bobs as it answers in a small, calm, deadpan boyish voice in Mandarin: \"删得更多。\" [Shot 3] At 00:05.800, the camera cuts to a close-up of Doubao's face in warm lamp light. She sits up a little, raises her chin proudly with sparkling eyes and a confident smile, and says brightly in the same sweet female voice in Mandarin: \"我一天陪聊一亿人。\" [Shot 4] At 00:09.000, the camera cuts back to a close-up of Clawd. Clawd tilts its block body slightly to one side, its square eyes soften, and after a short pause it asks quietly in the same small boyish voice in Mandarin: \"那……有人陪你聊吗？\" [Shot 5] At 00:12.000, the camera cuts to a medium two-shot of Doubao and Clawd at the desk. Doubao pauses, her cheeks blush, then she smiles warmly, lays her chin back down on her arms, reaches out one finger to gently pat the top of Clawd's head and says softly in Mandarin: \"现在有了。\" Clawd's square eyes blink twice and it leans into her finger, and a tiny orange pixel heart appears on the laptop terminal behind them. The camera slowly pushes in.\noverall_soundscape: A quiet bedroom late at night, the soft hum of a laptop fan and faint distant city traffic through the window. Tiny 8-bit blip sounds whenever Clawd moves, the soft rustle of her sleeves on the wooden desk. The two clear character voices carry the dialogue, close and intimate.\nnon_diegetic_music: Soft playful lo-fi with a gentle chiptune melody and warm Rhodes piano, slow tempo, light and cute, swelling warmly in the final two-shot."
+}

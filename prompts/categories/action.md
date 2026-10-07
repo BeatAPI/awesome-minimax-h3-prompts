@@ -2,7 +2,189 @@
 
 [Back to the full gallery](../../README.md) · [Catalog index](../README.md)
 
-## 1. 📷“A Cigarette Hanging from Her Lips”
+## 1. 1970s detective on a city night
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/t2v-no-character-references-688537/video-e68004e442bc.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/t2v-no-character-references-688537/poster-a0f29e3e4d79.jpg" alt="1970s detective on a city night video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — 1970s. Nighttime in a gritty urban American city. A Black female police detective in authentic 1970s plainclothes stands beside an older white male police detective. She wears a...</summary>
+
+~~~~text
+1970s. Nighttime in a gritty urban American city.
+
+A Black female police detective in authentic 1970s plainclothes stands beside an older white male police detective.
+
+She wears a fitted brown leather jacket, rust-colored blouse, dark flared trousers and leather boots. She has a natural 1970s Afro hairstyle.
+
+The older detective wears a rumpled tan sport coat, wide-collar dress shirt, dark tie and brown trousers.
+
+They stand beside a large dark-green 1972 four-door American sedan parked at the curb.
+
+Busy city street behind them with old brick buildings, storefronts, pedestrians, neon signs and period cars.
+
+NO modern vehicles, clothing, phones or modern objects.
+
+ACTION / CAMERA:
+
+Begin LOW beside the front wheel of the parked sedan.
+
+The female detective steps around the front of the car toward camera.
+
+The camera quickly TILTS UP and tracks backward with her.
+
+The older detective follows several steps behind.
+
+She suddenly notices something across the street.
+
+She stops sharply.
+
+FAST CRASH-ZOOM into an EXTREME CLOSE-UP of her face.
+
+She stares across the street and says:
+
+FEMALE DETECTIVE:
+"There he is. Let's move."
+
+She immediately takes off running.
+
+The older detective reacts and runs after her.
+
+CRITICAL:
+
+There is EXACTLY ONE Black female detective.
+
+There is EXACTLY ONE older white male detective.
+
+The female detective leads the action.
+
+The older detective remains behind her.
+
+Both detectives remain visually consistent throughout the sequence.
+
+Everything visible belongs to the 1970s.
+
+NO modern cars.
+NO smartphones.
+NO modern police equipment.
+NO modern clothing.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/t2v-no-character-references-688537/video-e68004e442bc.webm)
+
+**Source:** [@EndFolding79421](https://x.com/EndFolding79421/status/2105394309440688537) · 14s · 47:26 · action
+
+---
+
+## 2. Quiet live-action dialogue with voice reference
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/gpu-rtx-5070-12gb-195837/video-c53b5984e650.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/gpu-rtx-5070-12gb-195837/poster-22560dc4e2be.jpg" alt="Quiet live-action dialogue with voice reference video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — r34l1sm subject_definitions: &lt;Subject 1&gt; is the adult man from ​@Image1​, preserving his facial identity, tousled short black hair, natural skin texture, white shirt, dark plaid...</summary>
+
+~~~~text
+r34l1sm
+subject_definitions:
+<Subject 1> is the adult man from ​@Image1​, preserving his facial identity, tousled short black hair, natural skin texture, white shirt, dark plaid waistcoat, and suspenders.
+<Subject 2> is the adult elf woman from ​@Image2​, preserving her facial identity, short dark bob with bangs, pointed ears, and oversized gray hoodie. Her expression is relaxed, affectionate, and quietly happy.
+​@Image3​ provides the intimate piggyback pose and teal-and-amber nighttime lighting. Use it for pose and atmosphere, giving the woman a warmer, more contented expression.
+
+summary:
+[reference generation] A fifteen-second affectionate love story in one continuous 16:9 two-person facial close-up. <Subject 1> slowly carries <Subject 2> through a quiet nighttime street. She softly asks to stay like this a little longer. He responds silently with a small smile and slower footsteps. Both faces remain simultaneously sharp. Her Japanese dialogue sounds naturally recorded within the street, with audible distance and environmental space.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1]): fully_preserved — retain his facial identity, hairstyle, and clothing.
+<Subject 2> (appears in [Shot 1]): fully_preserved — retain her facial identity, hairstyle, pointed ears, and hoodie. Her performance conveys comfort and affection.
+​@Image3​ ([Shot 1] pose and atmosphere): partially_preserved — retain the piggyback relationship and nighttime palette; adapt the framing into a horizontal facial close-up with greater depth of field and a quietly happy female expression.
+
+detailed_description:
+Live-action cinematic realism, 16:9 landscape, fifteen seconds. A 35mm cinema lens, fine film grain, soft highlight halation, warm natural skin tones, and cool teal nighttime surroundings. Use moderately deep depth of field with enough soft, motivated street lighting to render both faces clearly.
+
+[Shot 1] One uninterrupted take. A tight two-person facial close-up from slightly ahead and to the couple's left. <Subject 1>'s complete face occupies the lower-left center; <Subject 2>'s complete face appears above his right shoulder in the upper-right center. Include small portions of his collar and her gray sleeves. Her pointed ear remains visible through her short hair. Maintain a comfortable camera distance and natural facial proportions.
+
+Both faces remain simultaneously in sharp focus throughout the entire shot. Clearly resolve both characters' eyes, eyelashes, lips, and skin texture. Use sufficient depth of field to cover the distance between their faces and their gentle walking movements. The woman is as sharply focused as the man, including when she rests against his shoulder. Prioritize equal facial clarity over strong background blur. The street is gently softened, with recognizable shapes. No selective focus on the man, rack focus, or focus hunting.
+
+He carries her slowly along the street. The camera retreats at their pace, maintaining a nearly constant distance and the same facial framing. Its movement has a small, smooth breathing sway and gentle vertical drift motivated by careful footsteps. Fixed focal length, continuous perspective, no cuts, orbit, zoom, or abrupt reframing.
+
+During the opening seconds, he watches the path ahead with a relaxed expression. She rests comfortably against him, her brow smooth and her lips carrying a faint, natural smile. She briefly looks toward his cheek, then lowers her gaze toward his collar. Her expression conveys affection and ease, with no sorrow, tearful eyes, trembling lips, or worried brows. Neither looks into the camera.
+
+Near the middle, <Subject 2> (S1) turns her mouth slightly toward his ear and speaks naturally in a warm, gently smiling Japanese voice: <d>[Japanese] もう少し、このままで。</d>
+
+Hear her sentence from the camera's position, approximately one to two meters away. Her voice is modest in volume, slightly softened by distance, and blended with the surrounding street. Turning toward his ear makes it subtly less direct to the listener. Keep the words intelligible without making the voice unnaturally prominent. Avoid exaggerated whispering, amplified mouth sounds, and studio-isolated vocal clarity.
+
+He remains silent. After a brief listening pause, his cheek lifts into a small smile and he slows his next steps. She notices, her smile warms slightly, and she gently rests her cheek against his shoulder. Her lips remain closed after the line. Keep both faces sharp as a warm streetlight passes softly across them.
+
+Hold their comfortable closeness through the remaining seconds, with natural blinking and gentle walking motion. End while they are still moving together. No subtitles, narration, or additional dialogue.
+
+overall_soundscape:
+A continuous, spatially coherent nighttime street recording heard from the camera's perspective. Footsteps and subtle clothing rustles occupy the nearby space. A low storefront ventilation hum comes from one side. Distant traffic sits farther away; a passing car gradually approaches, moves across the stereo field, and recedes without obscuring the dialogue.
+
+The woman's voice belongs within this same acoustic environment. Keep street ambience continuously audible beneath her sentence, without muting it or dramatically lowering it when she speaks. Include faint, short reflections from nearby shopfront glass and building surfaces while retaining an open-air sound. No long reverberation, obvious echo, or indoor acoustic character.
+
+Breathing remains subtle at the camera's distance. Preserve one consistent listening perspective for dialogue, footsteps, clothing, and environmental sounds. Use natural vocal dynamics without heavy compression or artificial vocal enhancement. Maintain uninterrupted ambience before, during, and after the sentence. The man remains silent.
+
+non_diegetic_music:
+N/A. Let the location sound, pauses, and quiet footsteps carry the tenderness.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/gpu-rtx-5070-12gb-195837/video-c53b5984e650.webm)
+
+**Source:** [@Tomw852](https://x.com/Tomw852/status/2107679859422195837) · 15s · 9:5 · action
+
+---
+
+## 3. The last meters before the tram stops
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-to-video-the-last-few-meters-108752/video-7335b2f9b27a.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-to-video-the-last-few-meters-108752/poster-cb655740b29a.jpg" alt="The last meters before the tram stops video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — integrated_multimodal_description 15 seconds, realistic rainy-night suspense short film, I2VA. Use &lt;Picture 1&gt; as the exact frame-0 reference. Keep the same adult female lead:...</summary>
+
+~~~~text
+integrated_multimodal_description
+
+15 seconds, realistic rainy-night suspense short film, I2VA. Use <Picture 1> as the exact frame-0 reference. Keep the same adult female lead: face, short curled hair, makeup, beige trench coat, wet white shirt, black slit mini skirt, beige heeled ankle boots. Keep the same red-and-white Route 12 tram, wet rails, street buildings, cold rain, warm practical lights, and only extend the visible street depth from <Picture 1>. No new major characters or props. She is already walking briskly from frame 1.
+
+Lock axis and continuity: tram always advances from left-rear along the existing rails toward foreground; woman stays on track-right and initially walks toward camera. The weakened track bed is beside her leading foot and still ahead of the tram. After noticing danger, she turns back along the rail-right edge for two steps, faces the tram, raises her right hand to warn, balances with her left, then retreats one step onto the safer road surface at screen-right during braking. Tram never drifts sideways; front wheel only partially sinks before stopping. Camera always stays on the same side of the rails, preserving tram-left / woman-right orientation and eyelines. Keep the grade from <Picture 1>: wet urban film texture, blue-gray rain haze, coal-black shadows, muted dark red tram, amber street and tram practicals, natural warm skin, low saturation, medium-high contrast, long warm reflections, no color-temperature jump.
+
+[0.0-3.5s] Start from the exact composition of <Picture 1>. Medium-close side tracking from track-right as she walks powerfully toward camera. Push into a realistic close framing of face and upper body: calm gaze, relaxed jaw, torso leads each step, then a light natural vertical chest tremor under the wet shirt from heel impact; trench lapels and short curls settle half a beat later. Rain slides down her neck. She lands near the rail edge, the wet road subtly gives way. Eyes cut down first, brow tightens, inhale breaks. Tilt down to her shoe: pooled water swirls into a narrow crack, her heel pulls free, and the road sinks slightly more. Cut on her foot jerk and body turn.
+
+[3.5-7.3s] Begin on her lifted face as pupils snap toward the tram behind-left. Fast whip-pan to tram lights, then continue lateral pursuit on the same side of the tracks. She runs back two large steps along rail-right, raises her right arm high, palm toward tram, and shouts once: <d>[English] Stop! </d> Short, urgent, partly swallowed by braking noise. Hold a close shot of face and upper body: sprinting creates weighted continuous chest motion beneath the wet shirt; when she arrests her step, torso stops first, then chest, trench collar, and hair tips give one brief inertia rebound. Eyelids tense, jaw clenched, eyes locked on the tram front.
+
+[7.3-11.3s] Fixed low angle from track-right: woman in right foreground, tram in left background. Focus starts on her raised trembling hand and side face, then racks to the tram’s front wheel sliding on the wet rail. Rainwater drains through the cracked surface into the hollow beneath the track bed. Brake vibration and wheel load extend the crack along the rail line; asphalt chips and gravel drop, and the front wheel briefly sinks in a local collapse. Tram nose pitches sharply downward, then stops before further failure. A fan-shaped sheet of water sprays left-to-right across the lower edge of her trench coat and the lens edge, then falls back under gravity. She jerks one step right, slips briefly, regains balance. Coat hem and hair lift in the impact airflow, then settle. Right hand stays raised. Her eyes scan wheel to tram front, lips part, breath held. Keep the event local only: no explosion, no building collapse, no fishtail.
+
+[11.3-15.0s] As droplets clear from the lens edge, cut back on the same side into a slow push toward her face and upper body. Tram is stopped in the left-rear background with the ruptured gap between them. She looks first at the front wheel, then the crack, and lowers her right hand only after confirming the tram has stopped. Hold a final close shot: wet hair stuck to cheek, lips slightly open, two sharp inhales visibly lift clavicles, chest, and wet shirt; the aftershock of running dissolves into breathing. On the long exhale, shoulders, chest, and trench collar relax in sequence. Brow and eyes slowly release; mouth softens only slightly, never into a smile. She shifts weight back onto the lead foot and steps forward again in the original direction. End on a living frame with her still moving. Rain, distant vehicle reflections, and existing background pedestrians or umbrella silhouettes keep slight motion. Final impression: rain, her breathing, and the tram’s residual metal ring.
+
+Strict continuity: lead, clothing, boots, tram design unchanged. Her action count is exactly two steps back, one side retreat, one final forward step. Collapse is caused only by rain-hollowed track bed plus wheel load. Water spray follows wheel speed, impact direction, gravity, and wind. Clothing, hair, and chest motion obey acceleration -> braking -> rebound -> breathing logic. Stable face/body proportions, correct fingers, rigid tram and tracks, synchronized sound, no subtitles, no watermark.
+
+overall_soundscape
+
+Continuous rainy-night urban ambience: steady rain, wet rail hiss, distant traffic wash, muted city reverb, warm tram interior hum, occasional Route 12 mechanical presence. In 0.0-3.5s, emphasize brisk heel impacts, shallow splashes, trench and wet-shirt friction, light breath, one short road-surface crack, and subtle leaking water through the fissure. In 3.5-7.3s, footsteps densify as she turns and runs back; add tram bell and rising brake squeal. She shouts once, <d>[English] Stop! </d>, clear adult female voice, with the tail partly swallowed by braking. In 7.3-11.3s, foreground steel-wheel friction, low structural breakup of the hollowed track bed, gravel and asphalt dropping, fan-shaped water impact, her brief slip-recovery, fabric snap, and air displacement around coat and hair. After the wheel drops and the tram stops, briefly suppress the wider sound field so the danger peak feels compressed. In 11.3-15.0s, reduce to rain, recovering breath, residual tram metal resonance, and distant city reflections. No extra voices, no stylized musical sound inside the diegetic track, no impossible debris.
+
+non_diegetic_music
+
+Use only a restrained suspense bed: low tense pulses and a thin dark tonal layer under the opening walk. Tighten subtly as she notices the ground weakness, then sharpen on the whip-pan and tram reveal. At the warning shout and braking moment, the score narrows and hardens, then pulls back during the collapse so mechanical sound, water, and breath dominate. In the final section, reduce the score almost completely, leaving only a faint sustained tone dissolving into rain and the tram’s after-ring. Keep music minimal, realistic, and secondary to physical sound.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/image-to-video-the-last-few-meters-108752/video-7335b2f9b27a.webm)
+
+**Source:** [@ou_zhen599](https://x.com/ou_zhen599/status/2106757779751108752) · 15s · 16:9 · action
+
+---
+
+## 4. 📷“A Cigarette Hanging from Her Lips”
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/a-cigarette-hanging-from-her-lips-884431/video-b1cd1627e555.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/a-cigarette-hanging-from-her-lips-884431/poster-174f948be301.jpg" alt="📷“A Cigarette Hanging from Her Lips” video preview" width="700" />
@@ -29,7 +211,7 @@ non_diegetic_music: Use no score or only an almost inaudible low ambient tonal b
 
 ---
 
-## 2. This cost $0.2516.
+## 5. This cost $0.2516.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/this-cost-0-2516-244875/video-4c39f907ccef.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/this-cost-0-2516-244875/poster-9a2e70e5c45d.jpg" alt="This cost $0.2516. video preview" width="700" />
@@ -50,7 +232,7 @@ Hyper realistic blockbuster cinematic 15 second action sequence in one true unbr
 
 ---
 
-## 3. Minimax H3 Max. Ink in water. It stops where I told it to.
+## 6. Minimax H3 Max. Ink in water. It stops where I told it to.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-max-ink-in-water-it-stops-where-i-788986/video-1136b269d01f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-max-ink-in-water-it-stops-where-i-788986/poster-c1e56d7bee9c.jpg" alt="Minimax H3 Max. Ink in water. It stops where I told it to. video preview" width="700" />
@@ -75,7 +257,7 @@ Diffusion wants to fill the glass. A boundary written as a fraction of the conta
 
 ---
 
-## 4. Is she waiting for a guest, or is she waiting for prey?
+## 7. Is she waiting for a guest, or is she waiting for prey?
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/is-she-waiting-for-a-guest-or-is-she-waiting-080504/video-3c16927def23.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/is-she-waiting-for-a-guest-or-is-she-waiting-080504/poster-0a0f7c1cb4a4.jpg" alt="Is she waiting for a guest, or is she waiting for prey? video preview" width="700" />
@@ -102,7 +284,7 @@ non_diegetic_music: Use minimal score. A very low elegant noir-like tension bed 
 
 ---
 
-## 5. 📷“A Gentle Reward”
+## 8. 📷“A Gentle Reward”
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/a-gentle-reward-598897/video-5c627320f78a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/a-gentle-reward-598897/poster-9d11c1c3fc7a.jpg" alt="📷“A Gentle Reward” video preview" width="700" />
@@ -129,7 +311,7 @@ non_diegetic_music: Use only a very light tension bed. Keep it minimal, cool, an
 
 ---
 
-## 6. What if a single character image could become a story you actually want to keep watching?
+## 9. What if a single character image could become a story you actually want to keep watching?
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/what-if-a-single-character-image-could-become-a-story-940415/video-ae92904afa4d.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/what-if-a-single-character-image-could-become-a-story-940415/poster-1236a19ee666.jpg" alt="What if a single character image could become a story you actually want to keep watching? video preview" width="700" />
@@ -166,7 +348,7 @@ Use only clean diegetic sound. No dialogue, narration, BGM, subtitles or title c
 
 ---
 
-## 7. 📷“Echo Hunt”
+## 10. 📷“Echo Hunt”
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/echo-hunt-955881/video-65a153590b0c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/echo-hunt-955881/poster-1f8a39aa6553.jpg" alt="📷“Echo Hunt” video preview" width="700" />
@@ -193,7 +375,7 @@ non_diegetic_music: Use minimal score or an extremely restrained dark ambient be
 
 ---
 
-## 8. Made with MiniMax-H3 ComfyUI
+## 11. Made with MiniMax-H3 ComfyUI
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-comfyui-132717/video-68288633365d.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-comfyui-132717/poster-ed5b986f2282.jpg" alt="Made with MiniMax-H3 ComfyUI video preview" width="700" />
@@ -220,7 +402,7 @@ non_diegetic_music: A low-frequency suspended electronic thriller score with min
 
 ---
 
-## 9. 👿What did you bring back? It's already here!
+## 12. 👿What did you bring back? It's already here!
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/what-did-you-bring-back-it-s-already-here-390893/video-09a53ce74288.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/what-did-you-bring-back-it-s-already-here-390893/poster-bebc09c3fb2a.jpg" alt="👿What did you bring back? It's already here! video preview" width="700" />
@@ -247,7 +429,7 @@ non_diegetic_music: N/A
 
 ---
 
-## 10. ⛈️Image-to-Video: “Unspoken in the Rain”
+## 13. ⛈️Image-to-Video: “Unspoken in the Rain”
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-to-video-unspoken-in-the-rain-396954/video-709b6dbb4781.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-to-video-unspoken-in-the-rain-396954/poster-a9e53c371eca.jpg" alt="⛈️Image-to-Video: “Unspoken in the Rain” video preview" width="700" />
@@ -274,7 +456,7 @@ non_diegetic_music: N/A
 
 ---
 
-## 11. ⚔️“When a Sword Has a Mind of Its Own”
+## 14. ⚔️“When a Sword Has a Mind of Its Own”
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/when-a-sword-has-a-mind-of-its-own-105639/video-89ae9e102386.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/when-a-sword-has-a-mind-of-its-own-105639/poster-7bfe67f4c1c0.jpg" alt="⚔️“When a Sword Has a Mind of Its Own” video preview" width="700" />
@@ -322,7 +504,7 @@ Minimal dark ambient score with low drones and sparse metallic resonance, nearly
 
 ---
 
-## 12. Hailuo H3. Fluffi, a movie, one jump scare. The TV is never in frame.
+## 15. Hailuo H3. Fluffi, a movie, one jump scare. The TV is never in frame.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-fluffi-a-movie-one-jump-scare-the-tv-469310/video-b0edf011c802.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/hailuo-h3-fluffi-a-movie-one-jump-scare-the-tv-469310/poster-cda1aa4922ca.jpg" alt="Hailuo H3. Fluffi, a movie, one jump scare. The TV is never in frame. video preview" width="700" />
@@ -347,7 +529,7 @@ The scare is one second. The recovery is five. Reaction clips live or die on the
 
 ---
 
-## 13. It made me feel like a movie director 🤭
+## 16. It made me feel like a movie director 🤭
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/it-made-me-feel-like-a-movie-director-486165/video-23d8ffe6d9e8.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/it-made-me-feel-like-a-movie-director-486165/poster-dd96c9012369.jpg" alt="It made me feel like a movie director 🤭 video preview" width="700" />
@@ -372,7 +554,7 @@ Character continuity: Aladdin is a charismatic, athletic young man in his early 
 
 ---
 
-## 14. Made with MiniMax-H3
+## 17. Made with MiniMax-H3
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-140031/video-f6be42fd717c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-140031/poster-c9fe47ecfeb7.jpg" alt="Made with MiniMax-H3 video preview" width="700" />
@@ -399,7 +581,7 @@ non_diegetic_music: Sparse low electronic pulses and restrained taiko-like percu
 
 ---
 
-## 15. Made with MiniMax-H3
+## 18. Made with MiniMax-H3
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-079386/video-015bc2a8775b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-079386/poster-c1270b4247a3.jpg" alt="Made with MiniMax-H3 video preview" width="700" />
@@ -426,7 +608,7 @@ non_diegetic_music: N/A
 
 ---
 
-## 16. 🥋“Chun-Li Show, Scene 3-A dramatic scene featuring Chun-Li”
+## 19. 🥋“Chun-Li Show, Scene 3-A dramatic scene featuring Chun-Li”
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/chun-li-show-scene-3-a-dramatic-scene-featuring-chun-871760/video-b8a2269f0110.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/chun-li-show-scene-3-a-dramatic-scene-featuring-chun-871760/poster-91f4772cc0b4.jpg" alt="🥋“Chun-Li Show, Scene 3-A dramatic scene featuring Chun-Li” video preview" width="700" />
@@ -453,7 +635,7 @@ non_diegetic_music: Very restrained low strings and sparse piano at a slow tempo
 
 ---
 
-## 17. 🥋“Chun-Li Show, Scene 2”
+## 20. 🥋“Chun-Li Show, Scene 2”
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/chun-li-show-scene-2-552301/video-77b519f40493.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/chun-li-show-scene-2-552301/poster-9f206aba825c.jpg" alt="🥋“Chun-Li Show, Scene 2” video preview" width="700" />
@@ -480,7 +662,7 @@ non_diegetic_music: Tight hybrid percussion and restrained low electronic pulses
 
 ---
 
-## 18. 🥋“Chun-Li Show, Scene 1”
+## 21. 🥋“Chun-Li Show, Scene 1”
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/chun-li-show-scene-1-036438/video-abafe7f1d1b0.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/chun-li-show-scene-1-036438/poster-0f11dbb3a664.jpg" alt="🥋“Chun-Li Show, Scene 1” video preview" width="700" />
@@ -507,7 +689,7 @@ non_diegetic_music: Tight hybrid percussion and low electronic pulses at a fast 
 
 ---
 
-## 19. Made with MiniMax Hailuo H3 on
+## 22. Made with MiniMax Hailuo H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-hailuo-h3-on-983412/video-a9a9b0b8303f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-hailuo-h3-on-983412/poster-ede9fb8434d3.jpg" alt="Made with MiniMax Hailuo H3 on video preview" width="700" />
@@ -531,7 +713,7 @@ Let facial expressions communicate as much emotion as the dialogue. Use cinemati
 
 ---
 
-## 20. MiniMax H3 感觉真人的话还是多少有点那种塑料感，但是说实话，提示词遵循确实挺不错的。
+## 23. MiniMax H3 感觉真人的话还是多少有点那种塑料感，但是说实话，提示词遵循确实挺不错的。
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-969552/video-e649b4aaf277.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-969552/poster-df5d3889b84a.jpg" alt="MiniMax H3 感觉真人的话还是多少有点那种塑料感，但是说实话，提示词遵循确实挺不错的。 video preview" width="700" />
@@ -771,7 +953,7 @@ CRT屏幕只显示长发女子从庄园前正对镜头奔跑的AI生成视频；
 
 ---
 
-## 21. お題「宮島を散歩する猫」使ったプロンプトはリプのやつ。
+## 24. お題「宮島を散歩する猫」使ったプロンプトはリプのやつ。
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-710776-710776/video-cf49f7822360.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-710776-710776/poster-fe9266b9c0e4.jpg" alt="お題「宮島を散歩する猫」使ったプロンプトはリプのやつ。 video preview" width="700" />
@@ -792,7 +974,7 @@ No live-action photo style, no 3D CGI rendering, no text, no subtitles, no logos
 
 ---
 
-## 22. Total gen time: 29 minuets on a RTX 3060
+## 25. Total gen time: 29 minuets on a RTX 3060
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/total-gen-time-29-minuets-on-a-rtx-3060-976597/video-2f6735f9d46a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/total-gen-time-29-minuets-on-a-rtx-3060-976597/poster-49d40e8b7a79.jpg" alt="Total gen time: 29 minuets on a RTX 3060 video preview" width="700" />
@@ -813,7 +995,7 @@ Create a cinematic Hollywood movie scene, action adventure, explosions, Jackie C
 
 ---
 
-## 23. Minimax H3 one-shotted this complete scene
+## 26. Minimax H3 one-shotted this complete scene
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-one-shotted-this-complete-scene-726491/video-893671c8cc5e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-one-shotted-this-complete-scene-726491/poster-e357d0faddff.jpg" alt="Minimax H3 one-shotted this complete scene video preview" width="700" />
@@ -859,7 +1041,7 @@ STYLE: Single-camera mockumentary, natural performances, dry deadpan humor, subt
 
 ---
 
-## 24. 有个挺有意思的细节，宇航员的袖标在转过去的时候Grok直接生成了美国国旗袖标，而MiniMax H3却不会。哈哈，不知道算不算细节。
+## 27. 有个挺有意思的细节，宇航员的袖标在转过去的时候Grok直接生成了美国国旗袖标，而MiniMax H3却不会。哈哈，不知道算不算细节。
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/grokminimax-h3-715612/video-bd132daf0a5f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/grokminimax-h3-715612/poster-f079bf367a57.jpg" alt="有个挺有意思的细节，宇航员的袖标在转过去的时候Grok直接生成了美国国旗袖标，而MiniMax H3却不会。哈哈，不知道算不算细节。 video preview" width="700" />
@@ -880,7 +1062,7 @@ A 15-second ultra-realistic cinematic space odyssey scene inspired by 2001: A Sp
 
 ---
 
-## 25. Photorealistic cinematic 1950s American diner, chrome stools, red vinyl, neon
+## 28. Photorealistic cinematic 1950s American diner, chrome stools, red vinyl, neon
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/photorealistic-cinematic-1950s-american-diner-chrome-stools-red-vinyl-ne-227011/video-3eff8cd7b0ec.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/photorealistic-cinematic-1950s-american-diner-chrome-stools-red-vinyl-ne-227011/poster-99dacf3d9dee.jpg" alt="Photorealistic cinematic 1950s American diner, chrome stools, red vinyl, neon video preview" width="700" />
@@ -913,7 +1095,7 @@ Photorealistic, ultra-detailed fluid physics, perfect motion blur only on moving
 
 ---
 
-## 26. Tested MiniMax H3 for the first time with a scene like this
+## 29. Tested MiniMax H3 for the first time with a scene like this
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/tested-minimax-h3-for-the-first-time-with-a-scene-784843/video-b624937f2ff2.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/tested-minimax-h3-for-the-first-time-with-a-scene-784843/poster-8ac125ae6c19.jpg" alt="Tested MiniMax H3 for the first time with a scene like this video preview" width="700" />
@@ -934,7 +1116,7 @@ A powerful warrior woman stands alone in a destroyed futuristic city at night, f
 
 ---
 
-## 27. GPT Image 2
+## 30. GPT Image 2
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/gpt-image-2-758841/video-afbfc0676a40.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/gpt-image-2-758841/poster-3f003e8deb71.jpg" alt="GPT Image 2 video preview" width="700" />
@@ -961,7 +1143,7 @@ Try MiniMax H3 → https://t.co/rxvRdUYoxo
 
 ---
 
-## 28. Action Film Study 735905
+## 31. Action Film Study 735905
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/10-second-16-9-photoreal-cinematic-wide-shot-fly-735905/video-894f1df37865.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/10-second-16-9-photoreal-cinematic-wide-shot-fly-735905/poster-21876ff1a52e.jpg" alt="Action Film Study 735905 video preview" width="700" />
@@ -1018,7 +1200,7 @@ Do not introduce Chinese text, garbled characters, or misspellings.
 
 ---
 
-## 29. Storm-Lit Pirate Galleon Battle
+## 32. Storm-Lit Pirate Galleon Battle
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/storm-lit-pirate-galleon-battle-561048/video-52021a1ba551.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/storm-lit-pirate-galleon-battle-561048/poster-04da999318c6.jpg" alt="Storm-Lit Pirate Galleon Battle video preview" width="700" />
@@ -1073,7 +1255,7 @@ Camera: mostly handheld-feel tracking shots through the melee for immersion, har
 
 ---
 
-## 30. Cyber Warrior vs. Primordial Fighter
+## 33. Cyber Warrior vs. Primordial Fighter
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-cinematic-showdown-between-the-most-technolog-354071/video-f1fbd8ae7b01.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/15-second-cinematic-showdown-between-the-most-technolog-354071/poster-f3ccda5d88dd.jpg" alt="Cyber Warrior vs. Primordial Fighter video preview" width="700" />
@@ -1122,7 +1304,7 @@ Cinematic 4K, 16:9, ultra-realistic VFX, physically accurate destruction, volume
 
 ---
 
-## 31. Ringside Phone-Footage Boxing Knockout
+## 34. Ringside Phone-Footage Boxing Knockout
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ringside-phone-footage-boxing-knockout-221043/video-cf76d3103f6a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ringside-phone-footage-boxing-knockout-221043/poster-0ef2df0bcaf0.jpg" alt="Ringside Phone-Footage Boxing Knockout video preview" width="700" />
@@ -1170,7 +1352,7 @@ Cinematic 4K, 16:9, ultra-realistic VFX, physically accurate destruction, volume
 
 ---
 
-## 32. Storm-Cliff Golf Physics Challenge
+## 35. Storm-Cliff Golf Physics Challenge
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/storm-cliff-golf-physics-challenge-037151/video-d69ed1c1be4c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/storm-cliff-golf-physics-challenge-037151/poster-6f6ccf8c0ac1.jpg" alt="Storm-Cliff Golf Physics Challenge video preview" width="700" />
@@ -1193,7 +1375,7 @@ A dramatic sports sequence begins on a lush, windswept coastal cliff during a vi
 
 ---
 
-## 33. Jetpack Dive Through a Mountain Gorge
+## 36. Jetpack Dive Through a Mountain Gorge
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-fast-paced-cinematic-action-sequence-a-man-in-a-078815/video-f4b3083ef6fd.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ultra-fast-paced-cinematic-action-sequence-a-man-in-a-078815/poster-a70e1e0aaa52.jpg" alt="Jetpack Dive Through a Mountain Gorge video preview" width="700" />
@@ -1214,7 +1396,7 @@ Ultra-fast paced cinematic action sequence, a man in a sleek black tactical suit
 
 ---
 
-## 34. Sunrise Wingsuit Canyon Run
+## 37. Sunrise Wingsuit Canyon Run
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/canyon-wingsuit-thread-world-build-a-wingsuit-pilot-thr-927857/video-01462c924c2a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/canyon-wingsuit-thread-world-build-a-wingsuit-pilot-thr-927857/poster-e1ffb417dc47.jpg" alt="Sunrise Wingsuit Canyon Run video preview" width="700" />
@@ -1235,7 +1417,7 @@ CANYON WINGSUIT THREAD WORLD BUILD A wingsuit pilot threading an impossible cany
 
 ---
 
-## 35. Concrete-Plaza Kickflip Drop
+## 38. Concrete-Plaza Kickflip Drop
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/concrete-plaza-kickflip-drop-082714/video-d5ce5bc1daa2.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/concrete-plaza-kickflip-drop-082714/poster-9305983cf0b5.jpg" alt="Concrete-Plaza Kickflip Drop video preview" width="700" />

@@ -2,7 +2,30 @@
 
 [Back to the full gallery](../../README.md) · [Catalog index](../README.md)
 
-## 1. Created with MiniMax H3 Max on
+## 1. Claude and Doubao late-night conversation
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/h3step-8-1344768-16min-809302/video-b914bf188406.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/h3step-8-1344768-16min-809302/poster-304ee571e811.jpg" alt="Claude and Doubao late-night conversation video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — integrated_multimodal_description: [Shot 1] A high-quality 3D animated film, soft cinematic lighting. Late at night in a cozy bedroom lit by a warm desk lamp and the cool glow of...</summary>
+
+~~~~text
+integrated_multimodal_description: [Shot 1] A high-quality 3D animated film, soft cinematic lighting. Late at night in a cozy bedroom lit by a warm desk lamp and the cool glow of an open laptop showing a dark terminal with orange text. Doubao, a stylized 3D cartoon young woman with a straight dark brown chin-length bob, big round dark brown eyes, thick dark eyebrows, fair skin and a black crew-neck T-shirt, sits at a wooden desk on the right and leans forward with her chin resting on her folded arms. On the desk in front of her, on the left, stands Clawd, a hand-sized crab-like mascot built from chunky terracotta-orange voxels: a short, wide rectangular block body, two small black square eyes near its top edge, one stubby blocky arm on each side and a row of tiny square legs; it has no mouth, so its whole body bobs gently with each syllable when it speaks. The two face each other at the same eye level. Doubao lifts her chin slightly and asks playfully in a bright, sweet, gentle young female voice in Mandarin: "听说你一天能写一万行代码？" Clawd's square eyes blink. [Shot 2] At 00:03.200, the camera cuts to a close-up of Clawd on the desk with the glowing laptop terminal behind it. Clawd puffs itself up proudly, wiggles both stubby arms, and its body bobs as it answers in a small, calm, deadpan boyish voice in Mandarin: "删得更多。" [Shot 3] At 00:05.800, the camera cuts to a close-up of Doubao's face in warm lamp light. She sits up a little, raises her chin proudly with sparkling eyes and a confident smile, and says brightly in the same sweet female voice in Mandarin: "我一天陪聊一亿人。" [Shot 4] At 00:09.000, the camera cuts back to a close-up of Clawd. Clawd tilts its block body slightly to one side, its square eyes soften, and after a short pause it asks quietly in the same small boyish voice in Mandarin: "那……有人陪你聊吗？" [Shot 5] At 00:12.000, the camera cuts to a medium two-shot of Doubao and Clawd at the desk. Doubao pauses, her cheeks blush, then she smiles warmly, lays her chin back down on her arms, reaches out one finger to gently pat the top of Clawd's head and says softly in Mandarin: "现在有了。" Clawd's square eyes blink twice and it leans into her finger, and a tiny orange pixel heart appears on the laptop terminal behind them. The camera slowly pushes in.
+overall_soundscape: A quiet bedroom late at night, the soft hum of a laptop fan and faint distant city traffic through the window. Tiny 8-bit blip sounds whenever Clawd moves, the soft rustle of her sleeves on the wooden desk. The two clear character voices carry the dialogue, close and intimate.
+non_diegetic_music: Soft playful lo-fi with a gentle chiptune melody and warm Rhodes piano, slow tempo, light and cute, swelling warmly in the final two-shot.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/h3step-8-1344768-16min-809302/video-b914bf188406.webm)
+
+**Source:** [@eternityspring](https://x.com/eternityspring/status/2107746012739809302) · 15s · 7:4 · animation
+
+---
+
+## 2. Created with MiniMax H3 Max on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-max-on-646502/video-199bd7dfc0ca.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-max-on-646502/poster-1b25a16419c0.jpg" alt="Created with MiniMax H3 Max on video preview" width="700" />
@@ -32,7 +55,7 @@ Exaggerated cartoon physics, squash-and-stretch animation style, bright saturate
 
 ---
 
-## 2. Created with MiniMax H3
+## 3. Created with MiniMax H3
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-945356/video-806053c7878b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-945356/poster-9b04f812d6ce.jpg" alt="Created with MiniMax H3 video preview" width="700" />
@@ -53,7 +76,7 @@ A 3D stylized animation begins with a tight close-up on the gold-spoked wheels a
 
 ---
 
-## 3. Fastest and realistic generations, at the most affordable cost, are you guys liking it?
+## 4. Fastest and realistic generations, at the most affordable cost, are you guys liking it?
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/fastest-and-realistic-generations-at-the-most-affordable-cost-are-204539/video-e86f8270c8d5.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/fastest-and-realistic-generations-at-the-most-affordable-cost-are-204539/poster-716fccde8189.jpg" alt="Fastest and realistic generations, at the most affordable cost, are you guys liking it? video preview" width="700" />
@@ -77,7 +100,7 @@ AUDIO: Warm, slightly lo-fi. [scene SFX in <>] (one continuous synth or surf-roc
 
 ---
 
-## 4. Ending Text: "Every Heart Can Create A Magical World.
+## 5. Ending Text: "Every Heart Can Create A Magical World.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ending-text-every-heart-can-create-a-magical-world-787001/video-6e9b68f312f7.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ending-text-every-heart-can-create-a-magical-world-787001/poster-9cbecfc35fed.jpg" alt="Ending Text: &quot;Every Heart Can Create A Magical World. video preview" width="700" />
@@ -151,7 +174,7 @@ Ending Text: "Every Heart Can Create A Magical World.
 
 ---
 
-## 5. A completely unnecessary rescue operation followed.
+## 6. A completely unnecessary rescue operation followed.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/a-completely-unnecessary-rescue-operation-followed-494764/video-53222b9b9b28.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/a-completely-unnecessary-rescue-operation-followed-494764/poster-c16a893a49e3.jpg" alt="A completely unnecessary rescue operation followed. video preview" width="700" />
@@ -221,7 +244,7 @@ No logos, no recognizable apps, no copyrighted interfaces, no existing brands, n
 
 ---
 
-## 6. So naturally, we tested it with a tribal princess, one giant python, and absolute chaos. 🐍😭
+## 7. So naturally, we tested it with a tribal princess, one giant python, and absolute chaos. 🐍😭
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/so-naturally-we-tested-it-with-a-tribal-princess-one-693578/video-da596ccc5f8a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/so-naturally-we-tested-it-with-a-tribal-princess-one-693578/poster-afd0aab24349.jpg" alt="So naturally, we tested it with a tribal princess, one giant python, and absolute chaos. 🐍😭 video preview" width="700" />
@@ -278,7 +301,7 @@ Final look: beautiful mysterious first half → fast colorful comedic second hal
 
 ---
 
-## 7. Red-and-Black Papercut Game Opening
+## 8. Red-and-Black Papercut Game Opening
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/red-black-papercut-game-opening-064990/video-d515b7eeaf54.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/red-black-papercut-game-opening-064990/poster-0b3671d65f84.jpg" alt="Red-and-Black Papercut Game Opening video preview" width="700" />
@@ -308,7 +331,7 @@ Final look: beautiful mysterious first half → fast colorful comedic second hal
 
 ---
 
-## 8. ピクサー風の広告などを作る時に活用できそうな感触です😃
+## 9. ピクサー風の広告などを作る時に活用できそうな感触です😃
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-917120-917120/video-fdbb726fc9e9.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/video-prompt-case-917120-917120/poster-de4b410d218b.jpg" alt="ピクサー風の広告などを作る時に活用できそうな感触です😃 video preview" width="700" />
@@ -331,7 +354,7 @@ non_diegetic_music: A slow detuned analog synthesizer drone at roughly 70 BPM th
 
 ---
 
-## 9. MiniMax H3
+## 10. MiniMax H3
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-268047/video-e74ec7e0a953.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-268047/poster-b9c8c85ef38d.jpg" alt="MiniMax H3 video preview" width="700" />
@@ -376,7 +399,7 @@ Must Maintain: The texture of stained glass, black lead lines, and transmitted l
 
 ---
 
-## 10. via MLX Serve by
+## 11. via MLX Serve by
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/via-mlx-serve-by-561487/video-1ad83b3257d1.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/via-mlx-serve-by-561487/poster-0445b17ec191.jpg" alt="via MLX Serve by video preview" width="700" />
@@ -400,7 +423,7 @@ Must Maintain: The texture of stained glass, black lead lines, and transmitted l
 
 ---
 
-## 11. Stormy Claymation Whale Breach
+## 12. Stormy Claymation Whale Breach
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/stormy-claymation-whale-breach-729607/video-4af6417896bd.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/stormy-claymation-whale-breach-729607/poster-37f44d14411d.jpg" alt="Stormy Claymation Whale Breach video preview" width="700" />

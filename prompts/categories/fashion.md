@@ -2,7 +2,183 @@
 
 [Back to the full gallery](../../README.md) · [Catalog index](../README.md)
 
-## 1. High-Fashion Avant-Garde (The Architectural Organza) A performer steps into a
+## 1. Unbroken journey through human history
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/create-a-30-second-cinematic-time-journey-video-as-one-801831/video-f0321320c9da.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/create-a-30-second-cinematic-time-journey-video-as-one-801831/poster-b77beff01a2b.jpg" alt="Unbroken journey through human history video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a 30-second cinematic time-journey video as one completely seamless, continuous, unbroken shot. No cuts, no fades, no dissolves, no resets, and no montage feeling. The...</summary>
+
+~~~~text
+Create a 30-second cinematic time-journey video as one completely seamless, continuous, unbroken shot. No cuts, no fades, no dissolves, no resets, and no montage feeling. The camera may orbit, track, dip, rise, rotate, pass behind foreground elements, and temporarily obscure the character, but the result must always feel like one uninterrupted moving shot.  The core idea is a single man traveling forward through time, beginning in the Stone Age and moving through major eras into the present and then the future. He must remain the same continuous human presence, but his appearance, clothing, grooming, tools, and body language should transform fluidly as he passes from one era to the next. Each transformation must happen on camera and feel physically connected to his movement.  His evolution should be seamless: prehistoric hunter becomes early farmer, then ancient city dweller, then classical traveler, then desert scholar or noble, then medieval scribe or explorer, then industrial worker or passenger, then modern city man, then present-day urban person, then future human. His hair, beard, clothing materials, accessories, footwear, and carried objects should all shift naturally with the era. These changes must happen during motion, not as sudden jumps.  Keep the tone epic, adventurous, awe-filled, and family-friendly. Avoid graphic violence, gore, visible injury, or disturbing threats. The environments may feel dramatic, but the man is always safe.  Open with a strong hook in prehistoric times.  Start in the Stone Age at sunrise.  A prehistoric man stands on a rocky cliff above a vast landscape. A herd of massive animals moves across the plain below. Wind blows through tall grass. Firelight flickers near a cave. The image should feel instantly epic and cinematic.  He hears a deep natural rumble and turns.  The camera swings around him as he starts running along the cliff edge.  As he moves, his fur clothing, rough hair, and wooden spear are clearly visible.  He leaps onto a large stone outcrop.  The moment his foot lands, the terrain begins transforming beneath him in one continuous motion.  The rocky ground softens into earth paths and cultivated land.  His fur wrap becomes woven cloth.  His spear shortens and reshapes into a wooden farming staff or tool.  His hair becomes more groomed.  Now he is moving through an early farming settlement in the Neolithic age.  He runs between grain fields, clay pots, baskets, fences, and simple homes.  A spinning potter's wheel passes close to the camera.  Its circular motion transforms into a polished bronze shield.  At the same time, his clothing becomes more structured and ornamented.  Now he is in a bronze-age or early ancient city.  He moves through columns, market fabrics, stone streets, and torchlit courtyards.  A hanging banner sweeps across frame.  As it wraps around him, his outfit transforms again into garments suited to an ancient seafaring or classical world.  The banner becomes a sail.  Now he is aboard an ancient ship.  He grabs a rope as the camera moves with him.  The rope becomes reins or a leather strap.  His costume shifts into a classical traveler or rider look.  Now he moves along a grand classical road lined with monumental architecture.  As he continues, his sandals, draped garments, hairstyle, and accessories match the era.  The road curves.  Stone underfoot becomes sand.  Architecture transforms into a desert kingdom with carved facades and giant statues.  His appearance changes again into desert-era robes with a different hairstyle, sash, and accessories.  He moves through this world as carved symbols slide past the camera.  The symbols become ink marks on parchment.  His robes and styling evolve into a medieval scholarly or cultural look.  Now he is inside a medieval scholarly hall or library-like setting with scrolls, candles, manuscripts, and maps.  A long scroll unfurls across the lens.  The scroll becomes a silk banner.  His clothing changes into elegant garments suited to an imperial eastern or refined pre-modern era.  He crosses a bridge through gardens, lanterns, and rooftops.  The bridge planks transform into a ship or dock surface.  Then ropes and wooden structures transform again into iron beams, steam, wheels, and machinery.  His clothing becomes industrial-era attire.  His hair and grooming adapt.  Now he is in the Industrial Revolution, surrounded by steam, rail tracks, metal structures, and movement.  A large train wheel rolls close to frame.  The wheel transforms into an early automobile wheel.  His outfit becomes early modern, with era-appropriate tailoring and accessories.  He moves through a growing city with electric lamps, storefronts, and newspapers.  A door or passing vehicle wipes the frame.  When it clears, his look shifts again into late twentieth-century style.  Now he moves through a more modern urban setting with neon, traffic, signage, and a faster rhythm.  A reflective glass surface expands across frame.  The reflection becomes a present-day city.  His appearance now becomes contemporary: modern haircut, present-day clothing, realistic urban styling, and current posture and energy.  He slows briefly in the present, taking in digital screens, smartphones, clean architecture, and modern crowds.  He touches a glowing screen or transparent panel.  That touch triggers the move into the future.  The screen expands into luminous architecture.  His clothing, hairstyle, and overall design evolve again, now becoming sleek, elegant, and futuristic while still feeling human and believable.  He enters a near-future city with autonomous transit, vertical gardens, holographic interfaces, and sustainable design.  The camera circles him.  As the circle completes, the future advances further.  His appearance refines one more time into a more advanced future identity, with evolved materials, subtle wearable technology, and a calm confident presence.  Now he stands in a far-future environment with luminous towers, sky bridges, ambient flying vehicles, and seamless integration between nature and technology.  For the ending, he reaches a high overlook above the future city.  He stops.  The camera comes around to face him.  In the world around him, visual echoes of the earlier eras appear layered within the architecture and atmosphere: prehistoric fire, fields, ancient stone, sails, manuscripts, steam, glass towers, and future light.  He looks out in awe, as if all of history has flowed into this single moment.  End with a feeling of continuity, wonder, and human evolution across time.  Important execution rules:  The man must not feel like a fixed character with only background changes. His entire appearance must continuously transform with each era:  clothing materials  silhouette  hairstyle  beard or facial grooming  footwear  accessories  tools or carried objects  posture and body language  These changes must happen fluidly during movement, through match transitions and environmental interaction. For example:  fur wrap becoming woven cloth  spear becoming farming tool  farming cloth becoming ancient draped garments  banner wrapping around him and becoming a sail while his outfit changes  reins leading into classical styling  sand and symbols introducing desert robes  scroll movement transforming him into a medieval scholar  industrial smoke and machinery shifting him into worker attire  glass reflection updating him into present-day fashion  glowing interface transforming him into a future human  He should remain physically active throughout. He should run, turn, jump small gaps, weave through spaces, step onto changing surfaces, reach, climb, brace, balance, and react with wonder. He must never look like he is casually strolling while time changes around him.  Framing should vary while remaining continuous: close-up, medium, wide, profile, front-tracking, rear-tracking, side-tracking, low angle, high angle feel, and circular moves.  Every transformation must be clear, readable, and physically motivated.  The final result should feel like one unbroken breath of human history, with a single man evolving seamlessly through time from the Stone Age to the far future.  Tone: cinematic, photorealistic, exhilarating, elegant, inspiring, adventurous, seamless, family-friendly, and full of wonder.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/create-a-30-second-cinematic-time-journey-video-as-one-801831/video-f0321320c9da.webm)
+
+**Source:** [@qtum](https://x.com/qtum/status/2105438735248801831) · 40s · 16:9 · fashion
+
+---
+
+## 2. Black Mirror final reflection fight
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-186579/video-89ebcfd76244.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-186579/poster-e1358d081072.jpg" alt="Black Mirror final reflection fight video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — MINIMAX H3 — 15-SECOND CINEMATIC FIGHT “BLACK MIRROR: FINAL REFLECTION” 16:9 widescreen, premium dark-fantasy fashion-action. Obsidian Ronin vs Inkshade Valkyrie inside a gigantic...</summary>
+
+~~~~text
+MINIMAX H3 — 15-SECOND CINEMATIC FIGHT
+“BLACK MIRROR: FINAL REFLECTION”
+16:9 widescreen, premium dark-fantasy fashion-action.
+
+Obsidian Ronin vs Inkshade Valkyrie inside a gigantic floating liquid-black obsidian mirror surrounded by an endless white void. Preserve exact established character designs, faces, hair, armor, weapons, proportions and silhouettes. No redesigns.
+
+Constant movement. No idle poses, hard cuts, teleportation, freeze frames, blood or gore.
+
+The mirror behaves like liquid glass: every sword strike creates ripples, cracks and independent reflections that briefly attack before snapping back.
+
+0–3s: Mirror forms from liquid black glass. Ronin emerges with a katana strike as Valkyrie attacks from the opposite reflection. Blades collide, creating a huge circular ripple.
+
+3–6s: Ronin's heavy cut meets Valkyrie's agile twin-blade counter. Reflections attack from opposite directions. Black cracks race across the mirror. Smoke briefly forms “REAL OR REFLECTION?”
+
+6–9s: Mirror tilts vertical. Both fighters sprint across its surface, exchanging rapid sword strikes. The glass bends around them like liquid.
+
+9–12s: Mirror explodes into floating black fragments. Fighters leap between reflections, destroying them. Fragments align into a giant blade shape. Smoke forms “BREAK THE IMAGE”, then shatters.
+
+12–15s: Final charge. Ronin's massive diagonal katana strike collides with Valkyrie's spinning twin-blade cross attack. The entire mirror shatters into thousands of black particles. Silence. Final smoke typography: “ONLY ONE REMAINS.”
+
+Elegant black-and-white luxury aesthetic, glossy reflections, silver highlights, charcoal smoke, cinematic motion blur, precise camera orbiting, low mirror tracking, rotating blade shots and dramatic final push.
+
+15s | 16:9 | continuous action | premium cinematic dark fantasy | exact character consistency
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-186579/video-89ebcfd76244.webm)
+
+**Source:** [@itxsarmadd](https://x.com/itxsarmadd/status/2106698801604186579) · 15s · 16:9 · fashion
+
+---
+
+## 3. A step behind her
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/image-to-video-a-step-behind-her-722148/video-486d19759bf4.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/image-to-video-a-step-behind-her-722148/poster-24cc9078bcf5.jpg" alt="A step behind her video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — integrated_multimodal_description: 15 seconds, 16:9, live-action cinematic realism. Use &lt;Picture 1&gt; as the only reference for the woman, outfit, location, lighting, and first...</summary>
+
+~~~~text
+integrated_multimodal_description:
+15 seconds, 16:9, live-action cinematic realism. Use <Picture 1> as the only reference for the woman, outfit, location, lighting, and first frame. The opening frame must precisely inherit her leaning pose against the pink weathered wall, with the gray shutter on her left, the old poster on her right, the street in front, and the wall lamp, plants, hair, gold earrings, red polka-dot dress, neckline, waist structure, and facial identity all preserved. Same place, same moment, one continuous performance. Soft retro street-fashion film color: dusty pink wall, stable deep wine-red dress, warm natural skin, restrained gray-green background, medium contrast, soft highlight roll-off, subtle fine grain, real skin texture with slight moisture sheen. Keep the original daylight direction, around 5200K white balance, soft shadows, and continuous exposure. No neon shift, sunset change, rain, extra people, mirrored geography, teleporting, or filter changes.
+
+She activates immediately from the exact leaning pose. Her path is fixed: P0 at the wall -> short advance to P1 -> diagonal drift to P2 -> slow walk along the wall to P3 -> shutter tap and turn -> final move toward P4. She never leaves the same street side, and the camera never crosses the wall axis. The emotional line is playful control turning into mutual recognition: she tests whether the camera can keep up, confirms it, then rewards it with a final backward smile before leaving.
+
+[00:00-00:03.0]
+35mm ground-level tracking rises into a side-follow. Starting from the exact leaning pose in <Picture 1>, she releases her left palm from the wall, pushes shoulder and back away, and advances from P0 to P1 in two short landing steps, the second slightly quicker than the first. The camera retreats a short distance straight backward, keeping a medium framing from head to mid-thigh and bringing her from frame-right toward center. Step impact travels foot -> knee -> hip -> torso; dress waist folds redistribute as she straightens; hair leaves the shoulder a beat later. The pink wall stays clearly behind her. She catches the camera first, then lifts her chin slightly. A restrained hint of a smile appears. During the second landing she absorbs the motion with a small knee bend; the upper body stops first and the chest shows one brief natural rise-and-settle under dress support, while fabric edges and hair tips settle a fraction later. She lowers her chin slightly, checks whether the camera is still backing away, and from 2.7s to 3.4s says quietly: <d>[English] Keep up.</d> The stress lands on “up,” short and clear, lightly challenging.
+
+[00:03.0-00:07.5]
+Without resetting pose, she turns diagonally toward P2 and moves slowly along the wall toward screen-left into P3, settling into a three-quarter left-facing side walk. The camera tracks parallel from the street side, framing head, upper torso, right hand, and a slice of wall, with open space ahead on the left. Her right hand rises near shoulder height and lightly skims the wall. One focus idea only: briefly show the fingertip contact while her face stays readable, then over about half a second transfer focus to her eyes as she looks back toward the camera; after that, keep the face sharp. Eyes move first, then the head follows. She exhales slowly; breath gently lifts and lowers chest, shoulders, and neck while she keeps walking. The corner of her mouth lifts and restrains again, as if confirming that the camera really is following. When her fingertips cross a brittle paint edge, a tiny amount of dust flakes off and drops close to the wall; no large peeling or damage. Before 7.5s she reaches P3 and her right hand transitions from the pink wall onto the edge of the gray shutter.
+
+[00:07.5-00:09.0]
+At P3 she gives the shutter a light tap with her right hand, producing one short metallic tick, then releases immediately. The shutter never opens. She completes a real stop-and-support under the feet, then the hips, shoulders, and head rotate toward the camera in order. The camera performs one brief left whip of about 0.2-0.3 seconds following her turn, with directional motion blur, then settles instantly into a medium head-to-mid-thigh framing from the street side. No axis jump, no background replacement. As the frame stabilizes, her curls and skirt are still returning from the turn; earrings sway lightly then decay. The chest follows the torso turn with a short constrained lateral inertia under the dress and settles naturally, never bouncing independently.
+
+[00:09.0-00:12.0]
+From the settled medium shot at P3, the camera slowly pushes in toward a face-and-upper-body close shot while keeping the shoulder line and dress waist visible. It does not retreat anymore. She notices that the camera is finally coming toward her. She presses her lips together slightly, the smile starts in the outer corners of the eyes, then the mouth releases and she lets out one short natural laugh. Her shoulders drop subtly with the laugh; upper torso and chest move only with the connected exhale. Any remaining turn inertia is already gone. While laughing, she shifts another half-step along the wall toward screen-left, keeping eye contact instead of posing in place. From 10.6s to 11.6s she says softly: <d>[English] That's better.</d> “better” carries the smile, looser than the first line. After the line she takes a small inhale, the smile stays in her eyes, and her right hand begins to rise.
+
+[00:12.0-00:15.0]
+Her right palm briefly sweeps across the right edge of the lens area as a partial foreground wipe without touching the lens and without blacking out the frame. As the hand drops naturally with her turn, she continues from P3 toward P4 along the shutter and wall, leaving in two steps that start fast and then return to a natural pace. The camera pans left to send her out, always remaining on the street side. Around 14.0s, while still walking, she turns her head slightly back and gives the camera one last look with the real smile still present. The camera catches that glance and gradually settles; she keeps moving toward the left edge. End on her back-side profile and part of the old wall still visible, with a living-frame finish rather than a distant cut, freeze, blackout, or location change.
+
+Physical continuity is strict: every inertia must have a source, path, and end state. Step impact moves from foot to knee to hip to torso; turning is driven by planted support under the feet; hair, earrings, skirt hem, and fabric react with slight delay and then decay. The dress retains seam definition, polka-dot pattern, and believable cloth weight. Fitted areas stay constrained by body and seams; only looser skirt edges move with walking, turning, and the light breeze. Chest motion stays synchronized to walking, breathing, and rotation, with stable anatomy and no rubbery deformation or repeated bounce. Contacts happen only at real touch points: feet on ground, hand on wall, hand on shutter. The wall remains intact. The shutter never swaps sides. The poster is ordinary background only and never animates. A light intermittent breeze flows along the wall from the left street opening toward the right, stirring a few loose hairs, soft skirt edges, plant leaves, and one tiny lifted paper corner on the poster, which flutters and settles back.
+
+overall_soundscape:
+Continuous low-intensity side-street ambience runs through the full 15 seconds: distant urban air, restrained alley noise, and a light intermittent breeze moving along the wall. At 0.0-3.0s, two distinct footfalls land with slightly different weight as fabric rubs softly and hair shifts. At the landing settle, keep a brief close-range body rustle. From 2.7-3.4s the woman says once, <d>[English] Keep up.</d> in a natural adult female mid-low register, clear conversational English with a faint dry texture, fully synchronized to accurate lip movement. At 3.0-7.5s, keep subtle fingertip friction against painted wall, a quiet exhale, faint cloth motion, and very small paint dust release with no exaggerated debris sound. At 7.5-9.0s, include one short light metallic tap on the shutter with a tiny fast-decaying resonance, plus turning fabric and earring movement. At 9.0-12.0s, her breathing and one short genuine laugh sit close to the camera; from 10.6-11.6s she says once, <d>[English] That's better.</d> more relaxed and smiling than the first line. At 12.0-15.0s, keep the passing hand as a soft foreground whoosh, two departing steps, continued low street tone, and the last glance landing in a quieter tail. Dialogue and real action sounds must always stay clear. No added crowd voices, no poster voice, no exaggerated impacts, no moans, no melodramatic whooshes.
+
+non_diegetic_music:
+Use a very light, clean rhythmic bed only. A restrained low bass pulse and sparse dry percussion accents support the first quick approach and the shutter tap as timing marks. Reduce percussion during the slow side-walk and keep the music thinned out under the laugh and the second line. The score should stay minimal, modern, and controlled, never sentimental, never wall-to-wall, and always below dialogue and physical Foley.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/image-to-video-a-step-behind-her-722148/video-486d19759bf4.webm)
+
+**Source:** [@ou_zhen599](https://x.com/ou_zhen599/status/2106385077374722148) · 15s · 16:9 · fashion
+
+---
+
+## 4. Still portrait on a moving train
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/she-doesnt-move-the-train-does-625103/video-d87a51c0edb9.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/she-doesnt-move-the-train-does-625103/poster-0913928b32a1.jpg" alt="Still portrait on a moving train video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Use the reference image as the exact visual and character foundation. Create one continuous 15-second cinematic shot on a deserted underground metro platform at night. Preserve...</summary>
+
+~~~~text
+Use the reference image as the exact visual and character foundation. Create one continuous 15-second cinematic shot on a deserted underground metro platform at night. Preserve the woman’s exact face, bleached shaggy wolf cut, lemon-yellow track jacket, proportions, styling, and overall appearance throughout the entire video.
+
+0–3 seconds — Establishing movement
+The woman stands motionless on the platform, facing slightly toward the camera with a calm, distant expression. The camera begins a very slow handheld push-in. Her hair moves gently from the distant airflow of an approaching train. Fluorescent station lights create soft reflections on the wet platform.
+
+3–6 seconds — Train approaches
+A metro train becomes visible in the deep background and rapidly approaches behind her. The camera continues its subtle push-in while drifting slightly sideways. The approaching train headlights create a gradual exposure change across the scene. Her expression remains composed and almost completely still.
+
+6–10 seconds — Train rushes past
+The train suddenly races directly behind her. Powerful displaced air dramatically blows her bleached wolf cut backward and makes the lemon track jacket ripple naturally. Keep her face sharp and recognizable while the train develops realistic horizontal motion blur. Passing carriage lights streak across the background and briefly illuminate her face.
+
+10–13 seconds — Peak cinematic moment
+The strongest airflow lifts individual strands of her hair across the frame. She subtly turns her eyes toward the passing train but does not turn her head significantly. The camera makes a very slight lateral movement, maintaining her as the central visual anchor. Reflections and light streaks move rapidly across the wet platform.
+
+13–15 seconds — Aftermath
+The train begins disappearing into the distance. The airflow gradually settles. Her hair falls naturally back around her face. The camera completes the slow push-in and settles on a close cinematic portrait. She looks past the camera with the same quiet, detached expression as the final train lights fade into the background.
+
+Visual style throughout:
+Photorealistic cinematic 35mm film, Kodak Portra color rendition, authentic analog grain, visible natural skin pores and texture, subtle halation around fluorescent lights, slightly imperfect exposure, muted analog colors, realistic motion blur, shallow depth of field, tactile film texture, documentary fashion editorial aesthetic, subtle handheld camera movement, realistic physics, natural hair and fabric motion.
+
+Continuity constraints:
+One continuous shot, no cuts, no scene changes, no changes to wardrobe, no hairstyle transformation, no facial morphing, no identity changes, no extra people, no beauty-filtered skin, no plastic texture, no exaggerated acting, no surreal effects, no CGI-looking train or environment. Preserve the exact visual identity and composition of the reference image.
+
+Format: 15 seconds, 16:9 widescreen, cinematic composition, realistic temporal motion, premium analog fashion-film aesthetic.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/she-doesnt-move-the-train-does-625103/video-d87a51c0edb9.webm)
+
+**Source:** [@MrDasCreates](https://x.com/MrDasCreates/status/2106245982652625103) · 15s · 16:9 · fashion
+
+---
+
+## 5. Rose Glow fashion magazine trailer
+
+<a href="https://media.beatapi.io/prompt-gallery/minimax-h3/15s-16-9-24fps-fashion-magazine-trailer-rose-glow-soft-876409/video-c024b300388a.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/15s-16-9-24fps-fashion-magazine-trailer-rose-glow-soft-876409/poster-0d0e6817964b.jpg" alt="Rose Glow fashion magazine trailer video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a 15s, 16:9, 24fps live-action fashion magazine trailer with exactly 13 cuts. Style: Korean/Asian luxury fashion editorial × pink campaign × kinetic typography. Theme: ROSE...</summary>
+
+~~~~text
+Create a 15s, 16:9, 24fps live-action fashion magazine trailer with exactly 13 cuts. Style: Korean/Asian luxury fashion editorial × pink campaign × kinetic typography. Theme: ROSE GLOW. Tagline: SOFT ATTITUDE. Use the reference girl as the ONLY identity source. Keep the same young adult East Asian woman, face, skin tone, age, long dark-brown hair, bangs, slim body and proportions. No face drift, extra people, hairstyle or body changes. WORLD: PINK FASHION MAGAZINE STUDIO only. No outdoor/city/café/hotel/nature. Every cut changes set, layout and composition. Palette: soft/rose pink, cream white, small black/silver. Use magazine pages, typography walls, acrylic, mirrors, torn paper, grids, flowers, contact sheets, frames, checkerboard. LOOKS: 01 pink tweed + mini skirt; 02 cream-white top + pink-white asymmetric skirt; 03 rose fitted mini dress; 04 pale-pink Y2K crop top + pink-gray low-rise skirt; 05 pale-pink satin/tweed hero dress. CUTS: 1 close-up side gaze→camera, “ROSE”. 2 LOOK01, touch face, push-in, “GLOW”. 3 beauty close-up, brush hair, cream set, “CHINA MUSE”. 4 LOOK02, side→front, pink circle, “SOFT ATTITUDE”. 5 giant magazine page, half-step, “THE PINK EDIT”. 6 LOOK03 seated on silver platform, “MODERN ROMANCE”. 7 chest-up, adjust earring, “COVER GIRL”. 8 LOOK04, checkerboard, hip shift + look back, “NEW MOOD”. 9 centered model + 3–4 photo contact sheets. 10 torn pink paper reveal, shoulder turn, “FASHION ISSUE”. 11 LOOK05, pink acrylic + silver frame, step forward, “ROSE GLOW”. 12 pull-back as magazine pages/contact sheets/frames build around her, “SOFT ATTITUDE”. 13 final cover: slight turn→direct gaze; graphics assemble into ROSE GLOW / CHINA MUSE / SOFT ATTITUDE / VOL. 2026 / THE PINK EDIT. Hold final 0.5s. 55% live-action / 45% motion graphics. Each cut combines character action + camera move + typography + graphics. No dancing. Avoid slideshow, repeated backgrounds, sticker/PPT feel, cyberpunk, unreadable text, logos, watermark, UI, subtitles.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/minimax-h3/15s-16-9-24fps-fashion-magazine-trailer-rose-glow-soft-876409/video-c024b300388a.webm)
+
+**Source:** [@molyin_com](https://x.com/molyin_com/status/2107089090063876409) · 15s · 7:4 · fashion
+
+---
+
+## 6. High-Fashion Avant-Garde (The Architectural Organza) A performer steps into a
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/high-fashion-avant-garde-the-architectural-organza-a-performer-steps-204066/video-462540f7feaa.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/high-fashion-avant-garde-the-architectural-organza-a-performer-steps-204066/poster-0ed0975cf82f.jpg" alt="High-Fashion Avant-Garde (The Architectural Organza) A performer steps into a video preview" width="700" />
@@ -23,7 +199,7 @@ High-Fashion Avant-Garde (The Architectural Organza) A performer steps into a sh
 
 ---
 
-## 2. Try it →
+## 7. Try it →
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-017874/video-3ad031a973c5.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-017874/poster-be615d69a5c5.jpg" alt="Try it → video preview" width="700" />
@@ -60,7 +236,7 @@ Final result: real K-pop comeback teaser energy — Pink. Pretty. Playful. Idol-
 
 ---
 
-## 3. Created with MiniMax H3 on
+## 8. Created with MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-401562/video-9e801624de46.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-401562/poster-eeb787686e50.jpg" alt="Created with MiniMax H3 on video preview" width="700" />
@@ -125,7 +301,7 @@ Premium AAA quality, soft cinematic rendering, stylish and luminous, strong grap
 
 ---
 
-## 4. Try it →
+## 9. Try it →
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-160503/video-f8170d9fad12.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-160503/poster-af392992ef4d.jpg" alt="Try it → video preview" width="700" />
@@ -197,7 +373,7 @@ One locked Korean-idol heroine × premium scarlet fashion styling × multi-scene
 
 ---
 
-## 5. Made with MiniMax H3 on
+## 10. Made with MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-on-206139/video-06dfb3bbf918.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-on-206139/poster-d6f6ecebdc38.jpg" alt="Made with MiniMax H3 on video preview" width="700" />
@@ -261,7 +437,7 @@ FINAL LOOK: Elegant, aggressive, surreal dark-fashion sword cinema.
 
 ---
 
-## 6. Try it 👉
+## 11. Try it 👉
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-506178/video-307340b8e049.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/try-it-506178/poster-4c62e3974539.jpg" alt="Try it 👉 video preview" width="700" />
@@ -312,7 +488,7 @@ No second human/fairy, duplicates, face drift, hairstyle/color/costume changes, 
 
 ---
 
-## 7. Here are the results below
+## 12. Here are the results below
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/here-are-the-results-below-878412/video-f86aa209a99b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/here-are-the-results-below-878412/poster-785339fda00a.jpg" alt="Here are the results below video preview" width="700" />
@@ -333,7 +509,7 @@ subject_definitions: <Subject 1> is the stylized sorceress in <Picture 1>, featu
 
 ---
 
-## 8. Anime fashion film with dance moves.
+## 13. Anime fashion film with dance moves.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/anime-fashion-film-with-dance-moves-119410/video-ccb829c99c45.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/anime-fashion-film-with-dance-moves-119410/poster-a17c60424d5f.jpg" alt="Anime fashion film with dance moves. video preview" width="700" />
@@ -364,7 +540,7 @@ Finish with a sudden forward lean toward the lens while enormous pink and cyan e
 
 ---
 
-## 9. created with MiniMax H3 on
+## 14. created with MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-614134/video-a8a83565a196.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-on-614134/poster-ba4d0ea8b5bd.jpg" alt="created with MiniMax H3 on video preview" width="700" />
@@ -385,7 +561,7 @@ Create a 15-second animated art piece centred on Feluda. This is not a movie sce
 
 ---
 
-## 10. Minimax H3 in
+## 15. Minimax H3 in
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-in-975646/video-a41f85105df7.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-in-975646/poster-7f4ee612296d.jpg" alt="Minimax H3 in video preview" width="700" />
@@ -440,7 +616,7 @@ QUALITY: Premium AAA cinematic × children’s-book illustration × fairy-tale m
 
 ---
 
-## 11. Create a 15-second high-fashion editorial film starring the adult character in
+## 16. Create a 15-second high-fashion editorial film starring the adult character in
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/create-a-15-second-high-fashion-editorial-film-starring-the-956809/video-22071a11ffe2.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/create-a-15-second-high-fashion-editorial-film-starring-the-956809/poster-ecef0c4c6081.jpg" alt="Create a 15-second high-fashion editorial film starring the adult character in video preview" width="700" />
@@ -484,7 +660,7 @@ Stable identity and anatomy throughout. No outfit changes, added accessories or 
 
 ---
 
-## 12. Zodiac Transformation
+## 17. Zodiac Transformation
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/zodiac-transformation-222142/video-01d8791aa176.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/zodiac-transformation-222142/poster-d5f5b2499e24.jpg" alt="Zodiac Transformation video preview" width="700" />
@@ -531,7 +707,7 @@ End with the fully transformed character in a breathtaking zodiac-inspired celes
 
 ---
 
-## 13. "integrated_multimodal_description: [Shot 1] Stylized 3D Pixar-animated look
+## 18. "integrated_multimodal_description: [Shot 1] Stylized 3D Pixar-animated look
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/integrated-multimodal-description-shot-1-stylized-3d-pixar-animated-look-093063/video-e08a8e78744e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/integrated-multimodal-description-shot-1-stylized-3d-pixar-animated-look-093063/poster-afc1b6a2c715.jpg" alt="&quot;integrated_multimodal_description: [Shot 1] Stylized 3D Pixar-animated look video preview" width="700" />
@@ -593,7 +769,7 @@ hard comedic sting as he reaches the door at 00:14.000."
 
 ---
 
-## 14. Canvas Try it →
+## 19. Canvas Try it →
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/canvas-try-it-182080/video-33a88ecdb8ea.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/canvas-try-it-182080/poster-e6374292d642.jpg" alt="Canvas Try it → video preview" width="700" />
@@ -643,7 +819,7 @@ No second human/fairy, duplicates, face drift, hairstyle/color/costume changes, 
 
 ---
 
-## 15. Made with MiniMax H3 on
+## 20. Made with MiniMax H3 on
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-on-814722/video-cae708cb7934.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/made-with-minimax-h3-on-814722/poster-9f172b024123.jpg" alt="Made with MiniMax H3 on video preview" width="700" />
@@ -755,7 +931,7 @@ No second human/fairy, duplicates, face drift, hairstyle/color/costume changes, 
 
 ---
 
-## 16. MiniMax H3 生成
+## 21. MiniMax H3 生成
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-476668/video-f75161a75007.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-476668/poster-b805b9332db6.jpg" alt="MiniMax H3 生成 video preview" width="700" />
@@ -835,7 +1011,7 @@ Anna 右手握住一只黑色高跟鞋，手腕一翻、向上一抛——鞋子
 
 ---
 
-## 17. wan 3.0 🆚 Seedance 2.0 🆚 MiniMax H3
+## 22. wan 3.0 🆚 Seedance 2.0 🆚 MiniMax H3
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/wan-3-0-seedance-2-0-minimax-h3-021455/video-8fa74aa0b046.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/wan-3-0-seedance-2-0-minimax-h3-021455/poster-39a5114106ec.jpg" alt="wan 3.0 🆚 Seedance 2.0 🆚 MiniMax H3 video preview" width="700" />
@@ -977,7 +1153,7 @@ wan3.0 效果👇
 
 ---
 
-## 18. Character Board Animation (Bottom Video) & Character Intro Animation (Top Video)
+## 23. Character Board Animation (Bottom Video) & Character Intro Animation (Top Video)
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/character-board-animation-bottom-video-character-intro-animation-top-vid-865400/video-a9048f3cc023.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/character-board-animation-bottom-video-character-intro-animation-top-vid-865400/poster-8649b607f5a1.jpg" alt="Character Board Animation (Bottom Video) &amp; Character Intro Animation (Top Video) video preview" width="700" />
@@ -1047,7 +1223,7 @@ Use elegant cinematic camera movement, smooth transitions, and refined artbook-i
 
 ---
 
-## 19. Get unlimited on Runway
+## 24. Get unlimited on Runway
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/get-unlimited-on-runway-974704/video-d33b402d089d.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/get-unlimited-on-runway-974704/poster-f3361d4084ff.jpg" alt="Get unlimited on Runway video preview" width="700" />
@@ -1077,7 +1253,7 @@ Prompt 2
 
 ---
 
-## 20. Created with Unlimited on Runway.
+## 25. Created with Unlimited on Runway.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-unlimited-on-runway-347863/video-3aea515ebb8e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-unlimited-on-runway-347863/poster-897155ff4fc7.jpg" alt="Created with Unlimited on Runway. video preview" width="700" />
@@ -1098,7 +1274,7 @@ A man puts on headphones while walking through a dull grey city. Beat begins. Fi
 
 ---
 
-## 21. Created with MiniMax H3
+## 26. Created with MiniMax H3
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-540945/video-13cbea5b7467.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-with-minimax-h3-540945/poster-9a426723aa8a.jpg" alt="Created with MiniMax H3 video preview" width="700" />
@@ -1119,7 +1295,7 @@ Create a premium 15-second cinematic ad for Audionic Trance Airbud 850. Start wi
 
 ---
 
-## 22. T2V Hailuo MinimaxH3 Prompt [FORMAT] Create a 15-second, 16:9 retro graphic
+## 27. T2V Hailuo MinimaxH3 Prompt [FORMAT] Create a 15-second, 16:9 retro graphic
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/t2v-hailuo-minimaxh3-prompt-format-create-a-15-second-16-099381/video-7d3845a01378.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/t2v-hailuo-minimaxh3-prompt-format-create-a-15-second-16-099381/poster-77292751d7b1.jpg" alt="T2V Hailuo MinimaxH3 Prompt [FORMAT] Create a 15-second, 16:9 retro graphic video preview" width="700" />
@@ -1182,7 +1358,7 @@ Never a slideshow. Maintain active graphic motion, physical visual transitions, 
 
 ---
 
-## 23. This model shines at generating mixed‑media motion graphics combining visuals and text information.
+## 28. This model shines at generating mixed‑media motion graphics combining visuals and text information.
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/this-model-shines-at-generating-mixedmedia-motion-graphics-combining-vis-961590/video-d529433d7a27.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/this-model-shines-at-generating-mixedmedia-motion-graphics-combining-vis-961590/poster-f3b7316a5e07.jpg" alt="This model shines at generating mixed‑media motion graphics combining visuals and text information. video preview" width="700" />
@@ -1375,7 +1551,7 @@ No dialogue.
 
 ---
 
-## 24. Created in
+## 29. Created in
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/created-in-675674/video-5664945c8d42.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/created-in-675674/poster-e575573517d2.jpg" alt="Created in video preview" width="700" />
@@ -1396,7 +1572,7 @@ No dialogue.
 
 ---
 
-## 25. Mind-blown. One shot
+## 30. Mind-blown. One shot
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/mind-blown-one-shot-376793/video-b2f67795e835.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/mind-blown-one-shot-376793/poster-f47b714c6d95.jpg" alt="Mind-blown. One shot video preview" width="700" />
@@ -1433,7 +1609,7 @@ No character changes, extra people, random text, subtitles, logos, outfit change
 
 ---
 
-## 26. Minimax 3 Prompt: Create a premium 16:9 landscape fashion film. Use Image 1 for
+## 31. Minimax 3 Prompt: Create a premium 16:9 landscape fashion film. Use Image 1 for
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-3-prompt-create-a-premium-16-9-landscape-fashion-108362/video-1ab7df834413.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-3-prompt-create-a-premium-16-9-landscape-fashion-108362/poster-7377fe4eb43b.jpg" alt="Minimax 3 Prompt: Create a premium 16:9 landscape fashion film. Use Image 1 for video preview" width="700" />
@@ -1458,7 +1634,7 @@ I added the final video in and the reference images for you to learn from!
 
 ---
 
-## 27. MiniMax H3 is incredible at text rendering!
+## 32. MiniMax H3 is incredible at text rendering!
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-is-incredible-at-text-rendering-644291/video-62c6959966f0.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/minimax-h3-is-incredible-at-text-rendering-644291/poster-051de0428cc7.jpg" alt="MiniMax H3 is incredible at text rendering! video preview" width="700" />
@@ -1479,7 +1655,7 @@ Create a 15-second cinematic text-animation video built around the quote:  “Ev
 
 ---
 
-## 28. Low-Angle Fashion Tracking Film
+## 33. Low-Angle Fashion Tracking Film
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/low-angle-fashion-tracking-film-062019/video-7eccbb514e51.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/low-angle-fashion-tracking-film-062019/poster-98861d56b4fd.jpg" alt="Low-Angle Fashion Tracking Film video preview" width="700" />
@@ -1500,7 +1676,7 @@ Ultra realistic cinematic video, shot on ARRI Alexa 35 with spherical lens, natu
 
 ---
 
-## 29. Kintsugi Sword Seamless Loop
+## 34. Kintsugi Sword Seamless Loop
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/kintsugi-sword-seamless-loop-524882/video-18ce4fdcf3f2.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/kintsugi-sword-seamless-loop-524882/poster-1365004257d9.jpg" alt="Kintsugi Sword Seamless Loop video preview" width="700" />
@@ -1608,7 +1784,7 @@ Prompt #MiniMaxH3 in Chinese:
 
 ---
 
-## 30. Surreal Blue Studio Dance with a Horse
+## 35. Surreal Blue Studio Dance with a Horse
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/surreal-blue-studio-dance-with-horse-588086/video-35d70f2a6270.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/surreal-blue-studio-dance-with-horse-588086/poster-c616e26c1d83.jpg" alt="Surreal Blue Studio Dance with a Horse video preview" width="700" />
@@ -1633,7 +1809,7 @@ Create a surreal 15-second fashion-film sequence inside a minimalist monochrome 
 
 ---
 
-## 31. Ice Gunslinger Interactive Web Loop
+## 36. Ice Gunslinger Interactive Web Loop
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/ice-gunslinger-interactive-web-loop-045626/video-8ed8d15497ae.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/ice-gunslinger-interactive-web-loop-045626/poster-b4852f65a0a0.jpg" alt="Ice Gunslinger Interactive Web Loop video preview" width="700" />
@@ -1728,7 +1904,7 @@ Create a surreal 15-second fashion-film sequence inside a minimalist monochrome 
 
 ---
 
-## 32. Golden Guardian Web Hero Loop
+## 37. Golden Guardian Web Hero Loop
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/golden-guardian-web-hero-loop-616089/video-ad594df1ac56.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/golden-guardian-web-hero-loop-616089/poster-f3ffd3a6c85e.jpg" alt="Golden Guardian Web Hero Loop video preview" width="700" />
@@ -1824,7 +2000,7 @@ Create a surreal 15-second fashion-film sequence inside a minimalist monochrome 
 
 ---
 
-## 33. The Brief: "Jessica x The Bag"
+## 38. The Brief: "Jessica x The Bag"
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/the-brief-jessica-x-the-bag-804089/video-0ef2025a0f9f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/the-brief-jessica-x-the-bag-804089/poster-2901ee10dfd8.jpg" alt="The Brief: &quot;Jessica x The Bag&quot; video preview" width="700" />
@@ -1851,7 +2027,7 @@ Warm, glossy, early-2000s fashion-film color science throughout — think The De
 
 ---
 
-## 34. Seamless Warrior Sword Reflection Loop
+## 39. Seamless Warrior Sword Reflection Loop
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/seamless-warrior-sword-reflection-loop-874724/video-8c6fd235ee6b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/seamless-warrior-sword-reflection-loop-874724/poster-2ae99518ad9c.jpg" alt="Seamless Warrior Sword Reflection Loop video preview" width="700" />
