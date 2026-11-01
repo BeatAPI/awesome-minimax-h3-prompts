@@ -426,6 +426,9 @@ NO modern clothing.
 ### 9. Quiet fantasy beside the lake
 - [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
 - [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
+- [Alors On Danse Video Maker](https://alorsondansevideo.com) - Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
+- [Bad Times AI](https://badtimesai.dev) - Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) - Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
 
 <a href="https://media.beatapi.io/prompt-gallery/minimax-h3/dont-turn-the-page-043532/video-45ee0d37ae8c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/minimax-h3/dont-turn-the-page-043532/poster-ccc312ca17f6.jpg" alt="Quiet fantasy beside the lake video preview" width="700" />
